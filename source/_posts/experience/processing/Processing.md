@@ -1,0 +1,100 @@
+---
+title: 用VScode编写调试Processing.pde程序
+categories:
+  - experience
+  - processing
+tags:
+  - Processing
+  - VScode
+  - 备忘录
+cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+---
+
+<!--
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2020-11-30 21:30:25
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\experience\processing\Processing.md
+-->
+
+# 环境需求
+
+- 1. 需要在电脑里下载好 Processing 主程序,但并`不需要配置环境变量`
+- 2. 在 VScode 里安装`Processing Language`插件,它支持语法高亮和代码补全
+- 3. 复制 Processing 主程序路径,在以上插件的设置`processing.path`里粘贴上,如
+
+  - `D:\\Game\\Demo\\processing-3.3.7\\processing-java`
+
+- 现在基本的编写环境已经配置好了,下面是编译环境.
+
+---
+
+# 编译环境
+
+- 找到工作区目录下的.vscode/tasks.json,添加以下代码(已优化过,百度上找的兼容性差,这个更好些:)
+
+```
+  {
+    "label": "Run Sketch",
+    "type": "shell",
+    "group": {
+      "kind": "build",
+      "isDefault": true
+    },
+    "command": "${config:processing.path}",
+    "presentation": {
+      "echo": true,
+      "reveal": "always",
+      "focus": false,
+      "panel": "dedicated"
+    },
+    "args": [
+      "--force",
+      "--sketch=${fileDirname}",
+      "--output=${fileDirname}\\out",
+      "--run"
+    ],
+    "windows": {
+      "args": [
+        "--force",
+        "--sketch=${fileDirname}",
+        "--output=${fileDirname}\\out",
+        "--run"
+      ]
+    }
+  }
+```
+
+- 上面的代码是在 tasks:[]层级内部,为避免覆盖其他环境配置(比如 gcc),需要格外注意,可以参考我的如下配置
+
+## [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/.vscode/launch.json)
+
+---
+
+- 现在就可以按`Ctrl + shift + B`编译运行了.
+  - 注意! :.pde 文件必须放在一个同名的文件夹中,而且名字不能是纯数字(`尽量按着 Java 起名`),举个大栗子
+
+```
+- root
+  - project_1
+    - project_1.pde         正确
+    - project_2.pde         名字与文件夹不匹配,不会被编译,无效
+  - project_2
+    - 1.pde                 名字不合法
+  - a.pde                   路径不对
+```
+
+# 进阶玩法
+
+## 结合 Code Runner 运行(_全网独家_)
+
+- 找到`VScode-Code Runner`插件配置文件里的`code-runner.executorMap`,参照其他语言在{}里添加如下代码
+  ```
+  "pde": "D:\\Game\\Demo\\processing-3.3.7\\processing-java --force --sketch=$dir --output=$dir\\out --run",
+  ```
+- 现在,写完.pde 按上面的快捷键或 Code Runner 的`小三角`都可以运行了!
+
+## 安装`Processing中文助手`
+
+- 装上就对了,反正挺好用的

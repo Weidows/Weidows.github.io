@@ -1,0 +1,99 @@
+/* 主页大标题 */
+#page-header #site-title {
+  color: #cf31ba;
+}
+
+/*页脚自定义字段字体颜色*/
+.copyright {
+  color: #00c4b6;
+}
+
+/*a标签颜色*/
+a {
+  color: #00c4b6;
+}
+
+/*头部文字颜色*/
+#nav a {
+  color: #00ffea;
+}
+
+/* valine美化 */
+#veditor {
+  background-image: url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/mao.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: rgba(255, 0, 191, 0.2);
+  resize: vertical;
+}
+#veditor:focus {
+  background-position-y: 200px;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+/* Aplayer样式改进 */
+.aplayer.aplayer-fixed.aplayer-narrow
+.aplayer-body {
+  left: -66px !important;
+}
+
+/* footer渐变色滚动动画 */
+/* @-webkit-keyframes Gradient {
+      0% {
+          background-position: 0 50%;
+      }
+
+      50% {
+          background-position: 100% 50%;
+      }
+
+      100% {
+          background-position: 0 50%;
+      }
+  }
+
+  @-moz-keyframes Gradient {
+      0% {
+          background-position: 0 50%;
+      }
+
+      50% {
+          background-position: 100% 50%;
+      }
+
+      100% {
+          background-position: 0 50%;
+      }
+  }
+
+  @keyframes Gradient {
+      0% {
+          background-position: 0 50%;
+      }
+
+      50% {
+          background-position: 100% 50%;
+      }
+
+      100% {
+          background-position: 0 50%;
+      }
+  }
+  #footer {
+      background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
+      background-size: 400% 400%;
+      -webkit-animation: Gradient 10s ease infinite;
+      -moz-animation: Gradient 10s ease infinite;
+      animation: Gradient 10s ease infinite;
+      -o-user-select: none;
+      -ms-user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+  }
+  #footer:before {
+      background-color: rgba(0, 0, 0, 0);
+  } */
