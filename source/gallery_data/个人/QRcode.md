@@ -31,5 +31,5 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg
 
 {% gallery %}
 ![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/timg.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/avatar.jpg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg)
 {% endgallery %}

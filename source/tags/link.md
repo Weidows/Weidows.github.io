@@ -22,7 +22,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your
 ```
 - name: ⭐️Weidows の Nest⭐️
   link: https://weidows.gitee.io/
-  avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/avatar.jpg
+  avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg
   descr: ただ Weidow's Website だけ
 ```
 

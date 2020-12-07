@@ -180,23 +180,6 @@ neat_js:
     - "**/jquery.fancybox.pack.js"
     - "**/index.js"
 
-
-# hexo-deployer-git    Multiple repositories
-# deploy:
-#   type: git
-#   repo:
-    # Either syntax is supported
-    # [repo_name]: <repository url>[,branch]
-    # [repo_name]:
-    #   url: <repository url>
-    #   branch: [branch]
-    # [weidows.github.io]:
-    #   url: <https://github.com/Weidows/Weidows.github.io.git>
-    #   branch: [main]
-    # [weidows.gitee.io]:
-    #   url: <https://gitee.com/Weidows/Weidows.git>
-    #   branch: [main]
-
 deploy:
   - type: git
     repo: https://gitee.com/Weidows/Weidows.git

@@ -301,7 +301,7 @@ steam:
   quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/avatar.jpg" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
     host: # 代理ip或域名
     port: # 代理端口

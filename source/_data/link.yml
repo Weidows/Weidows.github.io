@@ -47,7 +47,7 @@
     #   descr:
     - name: Weidows
       link: https://weidows.gitee.io/
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg
       descr: 此人没有其他朋友了
 
 
@@ -72,7 +72,7 @@
     #   descr:
     - name: Weidows
       link: https://weidows.gitee.io/
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg
       descr: 此人没有其他朋友了
 
 
@@ -113,5 +113,5 @@
     #   descr:
     - name: Weidows
       link: https://weidows.gitee.io/
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg
       descr: 此人没有其他朋友了
