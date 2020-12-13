@@ -12,8 +12,8 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-05 14:34:11
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\system\RaspberryPi.md
+ * @LastEditTime: 2020-12-07 23:29:32
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
 
@@ -77,19 +77,6 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
 ---
 
-# Screenfetch
-
-- ## 显示系统、主题信息
-  ```
-  sudo apt install screenfetch
-  screenfetch
-  ```
-  > 这里不用 Neofetch 是因为树莓派 Debian8 系统的 repo 地址需要更新,安装还需要其他操作,怪麻烦~
-- ## 示例
-  <img src="https://i.loli.net/2020/12/03/iWXJzj5U9HyoG3R.png" alt="20201203115807" />
-
----
-
 # 树莓派系统设置
 
 - (可在 ssh 中显示)
@@ -123,11 +110,12 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
 # Screenfetch
 
-- ## 显示 Linux 系统及版本信息
-  ```shell
+- ## 显示系统、主题信息
+  ```
   sudo apt install screenfetch
   screenfetch
   ```
-  - (也可以用 Neofetch,但是可能需要设置远程仓库不然装不上)
-- ## 如下
+  > 这里不用 Neofetch 是因为树莓派 Debian8 系统的 repo 地址需要更新,安装还需要其他操作,怪麻烦~
+- ## 显示 Linux 系统及版本信息,如下:
   <img src="https://i.loli.net/2020/12/05/XVzvAUq7G4tP1DO.png" alt="20201205143342" />
+  <img src="https://i.loli.net/2020/12/03/iWXJzj5U9HyoG3R.png" alt="20201203115807" />
