@@ -36,6 +36,8 @@ menu: #导航栏
     - 说说 || artitalk || fa fa-comment
     - 番剧 || tags/bangumis || fas fa-laptop
     - 游戏 || tags/games || fas fa-gamepad
+    # - 豆瓣观影 || movies
+    # - 豆瓣阅读 || books
   关于||fas fa-heart:
     - ->我 || tags/about || fas fa-user
     - 友人帐 || tags/link || fas fa-link

@@ -16,8 +16,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-25 00:39:41
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Hexo\butterfly_modify.md
+ * @LastEditTime: 2020-12-18 15:53:36
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\butterfly_modify.md
 -->
 
 # 魔改滚动条
@@ -296,6 +296,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
   ```
   link(rel='stylesheet', href='/css/mine.css')
+  //在这里写百度和谷歌站长验证的HTML=>pug标签
   script(src='/js/mine.js')
   ```
 

@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-06 19:29:40
+ * @LastEditTime: 2020-12-18 18:19:31
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
 -->
 
@@ -375,7 +375,7 @@ npm install --save hexo-tag-aplayer
 
 ---
 
-# 安装豆瓣电影
+# 安装豆瓣
 
 ## 安装
 
