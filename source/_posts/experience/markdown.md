@@ -12,7 +12,7 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-14 22:48:03
+ * @LastEditTime: 2020-12-19 10:51:36
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
@@ -100,3 +100,14 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 
 - 样式
   <u>文字</u>
+
+---
+
+## 键盘样式
+
+```
+<kbd>Ctrl + shift + [</kbd>
+```
+
+- 样式
+  <kbd>Ctrl + shift + [</kbd>
