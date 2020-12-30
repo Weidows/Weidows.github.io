@@ -1,5 +1,5 @@
 ---
-title: Node.js环境配置 && 使用
+title: ⬆ Node.js环境配置 && 使用
 categories:
   - Web
   - Node.js
@@ -14,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:53:25
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Web\Node.js\node.md
+ * @LastEditTime: 2020-12-28 00:51:09
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\Node.js\node.md
  * @Description:
 -->
 
@@ -83,7 +83,7 @@ npm config set registry https://registry.npm.taobao.org
 
 - 按照 package.json 文件的配置安装 module 到 node_modules/里面
 
-## `-g`
+## `-g` / `-global`
 
 - 全局安装
 
@@ -94,3 +94,12 @@ npm config set registry https://registry.npm.taobao.org
 - 写在前面和后面都可以
   - `npm install --save hexo-tag-aplayer`
   - `npm install hexo-tag-aplayer --save`
+
+---
+
+# local 全局插件
+
+```shell
+npm install -g hexo-cli
+npm install -g eslint
+```

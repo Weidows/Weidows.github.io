@@ -1,5 +1,5 @@
 ---
-title: 系统开发环境配置
+title: 💥系统开发环境配置
 categories:
   - system
 tags:
@@ -13,8 +13,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-05 22:40:02
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\system\system_variable.md
+ * @LastEditTime: 2020-12-28 00:27:06
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
 

@@ -19,7 +19,7 @@ cover: https://i.loli.net/2020/11/30/2WiEbNR47TznHcC.jpg
  * @Description:CSS学习笔记
 -->
 
-# [GitHub 源码](https://github.com/Weidows/Weidows/tree/master/Web)
+# [GitHub 源码](https://github.com/Weidows/Weidows/tree/master/Web/css)
 
 # 需要了解的
 

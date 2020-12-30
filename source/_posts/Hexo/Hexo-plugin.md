@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-18 18:19:31
+ * @LastEditTime: 2020-12-20 23:02:43
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
 -->
 
@@ -71,7 +71,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
 
 ---
 
-# 添加标签 tags/分类 categories/友链 link 页面
+# 添加 tags/categories/link 页面
 
 ## tags
 
@@ -212,7 +212,7 @@ hexo new page link
 
 ---
 
-# 添加 bilibili 番剧页面
+# 添加 bilibili 番剧
 
 - 安装 `npm install hexo-bilibili-bangumi --save`
 - 配置: 写入`_config.yml` 里(root/里的)
@@ -254,31 +254,13 @@ hexo new page link
 ## 配置文件 `root/_config.yml`
 
 ```yml
-Plugins:
-  - hexo-generator-baidu-sitemap
-  - hexo-generator-sitemap
-
 baidusitemap:
   path: sitemap/baidusitemap.xml
 sitemap:
   path: sitemap/sitemap.xml
 ```
 
-- _需要注意的是如果访问路径带中文,或许无法 generate(报错),需要在\_config 里找到 category_map 和 tag_map 修改映射,根据需要自行修改,我的样式如下:_
-  - 现在 butterfly 支持中文路径了,不太需要改
-  ```yml
-  default_category: uncategorized
-  category_map:
-    GitHub: github
-  tag_map:
-    备忘录: memorandum
-    计算机系统: operating_system
-    Hexo: hexo
-    Java: java
-    PHP: php
-    VScode: vscode
-    Website: website
-  ```
+- [参考文章:👌Hexo-SEO 搜索引擎优化](./Hexo-SEO)
 
 ---
 
