@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-28 00:51:09
+ * @LastEditTime: 2021-01-04 11:42:36
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\Node.js\node.md
  * @Description:
 -->
@@ -23,22 +23,35 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 
 ## Node 本身
 
-- Path 中+
+- Path 中+ (安装时自带)
   ```
   D:\Game\Demo\Node.js\
-  D:\Game\Demo\Node.js\node_global
   ```
 
 ## 修改全局 node_modules 路径
 
+- 我发现 Node.js 根目录本身就可以作为`node_global`,但是安装默认路径是在 C 盘里面,改一哈!
 - 执行
   ```shell
+  npm config set prefix "D:\Game\Demo\Node.js"
   npm config set cache "D:\Game\Demo\Node.js\node_cache"
-  npm config set prefix "D:\Game\Demo\Node.js\node_global"
   ```
-- 修改的环境变量在上面
 
-# npm 包管理器换`阿里源`
+---
+
+# 预览
+
+- 于是,像这样,所有 global 的脚手架都安装到了 Node.js 目录下
+
+  <img src="https://i.loli.net/2021/01/04/7sTUWvNo9rRilHZ.png" alt="20210104113703" />
+
+- 全局 node_modules 管理也更直观(放在 C 盘的话贼难受,而且经常会忘记之前装过什么.)
+
+  <img src="https://i.loli.net/2021/01/04/yKlxU9kCBDWodfg.png" alt="20210104113858" />
+
+---
+
+# 换阿里源
 
 - 替换源地址
 
@@ -73,6 +86,8 @@ npm config set registry https://registry.npm.taobao.org
 
 - 缓存清理
 
+  - 会清空 node_cache
+
   ```
   npm cache clean --force
   ```
@@ -85,7 +100,8 @@ npm config set registry https://registry.npm.taobao.org
 
 ## `-g` / `-global`
 
-- 全局安装
+- 全局安装/卸载
+- 注意脚手架如果是全局安装的话,卸载也要加上`-g`才能全局卸载.
 
 ## `-save`
 
@@ -97,9 +113,11 @@ npm config set registry https://registry.npm.taobao.org
 
 ---
 
-# local 全局插件
+# local 全局插件(或称脚手架)
+
+- Node.js 安装后自带 npm,npm 也是插件
 
 ```shell
 npm install -g hexo-cli
-npm install -g eslint
+npm install -g vsce
 ```

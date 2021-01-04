@@ -1,5 +1,5 @@
 ---
-title: 🐱‍🏍JavaScript学习笔记-(一)
+title: 🐱‍🏍JavaScript学习笔记-(壹)
 categories:
   - Web
   - JavaScript
@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-30 11:38:35
+ * @LastEditTime: 2020-12-30 19:42:58
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************
@@ -300,111 +300,189 @@ true，false
 
 ---
 
-# 数据类型
+# 字符串
 
-## 字符串
+## 转义字符
 
-- 转义字符(基本跟 Java 一样)
-  ```
-  \'
-  \n
-  \t
-  \u4e2d    \u##### Unicode字符
-  \x41	Ascall字符
-  ```
-- 多行字符串
+- (基本跟 Java 一样)
 
-  ```js
-  //tab上面 esc下面
-  var msg = `hello
-              world
-              你好呀
-              nihao
-              `;
-  ```
+```
+\'
+\n
+\t
+\u4e2d    \u#### Unicode字符
+\x41	Ascall字符
+```
 
-- 模板字符串
+## 多行字符串
 
-  ```js
-  let name = "Tom";
-  let age = 3;
-  var msg = `你好，${name} + ${age}`;
-  console.log(msg);
-  ```
+```js
+//tab上面 esc下面
+var msg = `hello
+            world
+            你好呀
+            nihao
+            `;
+```
 
-- 函数调用
+## 模板字符串
 
-  ```js
-  let str = `123`;
-  // str.函数名
+```js
+let name = "Tom";
+let age = 3;
+var msg = `你好，${name} + ${age}`;
+console.log(msg);
+```
 
-  // 例如
-  console.log(str.length); //字符串长度 3
-  console.log(str.indexOf(2)); //2的下标 1
-  console.log(str[1]); // 2
-  ```
+## 函数调用
 
-- 字符串的可变性
+```js
+let str = `123`;
+// str.函数名
 
-  - 同 Java 的 String 对象,其本身不可变
+// 例如
+console.log(str.length); //字符串长度 3
+console.log(str.indexOf(2)); //2的下标 1
+console.log(str[1]); // 2
+```
 
-  ```
-  str[1] = 0; // 这样会报错,因为字符串是read-only的.
-  ```
+## 字符串的可变性
 
-- 大小写转换
+- 同 Java 的 String 对象,其本身不可变
 
-  - 跟 Java 一样
+```
+str[1] = 0; // 这样会报错,因为字符串是read-only的.
+```
 
-  ```js
-  str.toUpperCase();
-  str.toLowerCase();
-  ```
+## 大小写转换
 
-- 子串
+- 跟 Java 一样
 
-  - [) 左闭右开区间
+```js
+str.toUpperCase();
+str.toLowerCase();
+```
 
-  ```js
-  student.substring(1); //从第一个字符串截取到最后一个字符串
-  student.substring(1, 3); //[1,3)
-  ```
+## 子串
+
+- `[)` 左闭右开区间
+
+```js
+student.substring(1); //从第一个字符串截取到最后一个字符串
+student.substring(1, 3); //[1,3)
+```
 
 ---
 
-## 数组
+# 数组
 
 ```js
 var arr = [1, 2, 3, 4, 5, 6]; //通过下标取值和赋值
 ```
 
-- 长度
+## 长度
 
-  - 支持动态扩容,扩出来的元素位置是 undefined,如果缩小 length 的话,超出部分元素会丢失.
+- 支持动态扩容,扩出来的元素位置是 undefined,如果缩小 length 的话,超出部分元素会丢失.
 
-  ```
-  arr.length = 1;
-  arr.length = 2; // 扩容
-  arr.length = 0; // 缩小
-  ```
+```
+arr.length = 1;
+arr.length = 2; // 扩容
+arr.length = 0; // 缩小
+```
 
-- indexOf()
+## indexOf()
 
-  - 获取元素位置
-  - `1` 与 `"1"` 是不同元素.
+- 获取元素位置
+- `1` 与 `"1"` 是不同元素.
 
-  ```
-  arr.indexOf(1);
-  arr.indexOf("1");
-  ```
+```
+arr.indexOf(1);
+arr.indexOf("1");
+```
 
-- slice()
+## slice()
 
-  - 等同于 subString()
-  - 截取数组并返回子数组
+- 等同于 subString()
+- 截取数组并返回子数组
 
-  ```js
-  var arr = [1, 2, 3, 4, 5, 6];
-  arr = arr.slice(1, 5);
-  console.log(arr); // [ 2, 3, 4, 5 ]
-  ```
+```js
+var arr = [1, 2, 3, 4, 5, 6];
+arr = arr.slice(1, 5);
+console.log(arr); // [ 2, 3, 4, 5 ]
+```
+
+## push(),pop(),unshift(),shift()
+
+- 分别是尾部添加/删除,头部添加/删除.
+
+```js
+var arr = [1, 2, 3, 4, 5, 6];
+
+arr.push("a");
+console.log(arr); // [1, 2, 3, 4, 5, 6, "a"];
+
+arr.pop();
+console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
+
+arr.unshift("b");
+console.log(arr); // [ 'b', 1, 2, 3, 4, 5, 6 ]
+
+arr.shift();
+console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
+```
+
+## reverse(),sort()
+
+```js
+var arr = [1, 2, 3, 4, 5, 6];
+
+arr.reverse();
+console.log(arr); // [ 6, 5, 4, 3, 2, 1 ]
+
+arr.sort();
+console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
+```
+
+## concat()
+
+- 数组连接
+- 并没有修改原来的数组,只是返回了一个新的数组.
+
+```js
+var arr1 = ["a", "b", "c"],
+  arr2 = [1, 2, 3];
+
+console.log(arr1.concat(arr2)); // [ 'a', 'b', 'c', 1, 2, 3 ]
+```
+
+## join()
+
+- 打印拼接数组，使用特定的字符串连接
+
+```js
+var arr = ["a", "b", "c"];
+arr.join("-"); // 并无效果
+console.log(arr.join("-")); // a-b-c
+```
+
+## 多维数组
+
+- 没啥花活.
+
+```js
+var arr = [
+  ["a", "b", "c"],
+  [1, 2, 3],
+];
+
+arr; // [ [ 'a', 'b', 'c' ], [ 1, 2, 3 ] ]
+```
+
+## fill()
+
+```js
+var arr = [];
+arr.length = 10;
+arr.fill(0);
+arr; // [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+```

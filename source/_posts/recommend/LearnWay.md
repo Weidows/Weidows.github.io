@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-30 13:34:38
+ * @LastEditTime: 2021-01-03 15:47:29
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -166,3 +166,19 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - 思否
 - 一个项目 push 到多个远程 Git 仓库
 - https://segmentfault.com/a/1190000011294144
+
+---
+
+# VScode
+
+## 主题适配
+
+- CSDN
+- VScode 自定义主题 界面 UI 配色 语法配色
+- https://blog.csdn.net/weixin_45599654/article/details/109306462
+
+## 插件(包)开发/发布
+
+- 思否
+- VScode 插件开发（五）插件包
+- https://segmentfault.com/a/1190000020435312

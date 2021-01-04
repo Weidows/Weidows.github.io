@@ -12,7 +12,7 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-19 10:51:36
+ * @LastEditTime: 2021-01-03 11:11:51
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
@@ -26,6 +26,24 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 [![图片](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)
 
 - 本来只是展示图片,现在点击图片跳转了.
+
+---
+
+## `[]: URL`
+
+- 类似定义变量(引用)
+
+- 上面指定,下面可以引用.
+
+```markdown
+[github-shield]: https://img.shields.io/github/stars/Weidows/vscode-weidows-theme?style=social
+[github-url]: https://github.com/Weidows/vscode-weidows-theme
+[vscode-shield]: https://img.shields.io/visual-studio-marketplace/r/TabNine.tabnine-vscode?logo=visual-studio-code&style=social
+[vscode-url]: https://bit.ly/3pqj7o2
+
+[![Github Repo][github-shield]][github-url]
+[![VSCode Plugin][vscode-shield]][vscode-url]
+```
 
 ---
 

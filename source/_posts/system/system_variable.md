@@ -13,7 +13,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-28 00:27:06
+ * @LastEditTime: 2021-01-04 11:31:06
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
@@ -64,7 +64,7 @@ top_img:
 
 - 新建`MAVEN_HOME`
 
-  - `D:\Game\Demo\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3`
+  - `D:\Game\Demo\IntelliJ IDEA 2020.3.1\plugins\maven\lib\maven3`
 
 - Path 中+
 
@@ -102,3 +102,9 @@ top_img:
     D:\Game\Demo\Python\
     D:\Game\Demo\Python\Scripts\
   ```
+
+---
+
+# Node.js
+
+> 详见[⬆ Node.js 环境配置 && 使用](../Web/Node.js/node.md)
