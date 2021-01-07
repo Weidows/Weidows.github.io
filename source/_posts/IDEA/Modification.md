@@ -13,11 +13,15 @@ cover: https://i.loli.net/2021/01/01/UD8HeIc94LVai2v.png
  * @Author: Weidows
  * @Date: 2021-01-01 11:06:59
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-01 11:53:40
+ * @LastEditTime: 2021-01-07 00:23:53
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\IDEA\Modification.md
  * @Description:
  * @!: *********************************************************************
 -->
+
+- [Maven](#maven)
+  - [环境变量](#环境变量)
+  - [换阿里源](#换阿里源)
 
 # Maven
 

@@ -12,9 +12,11 @@ cover: https://i.loli.net/2020/11/30/M2NCl539nTvz6Vj.jpg
  * @Author: Weidows
  * @Date: 2020-09-09 22:53:55
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:44:45
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Java\design_pattern.md
+ * @LastEditTime: 2021-01-07 00:24:09
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\design_pattern.md
 -->
+
+- [单例设计模式](#单例设计模式)
 
 # 单例设计模式
 

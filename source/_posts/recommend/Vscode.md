@@ -11,20 +11,22 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
  * @Author: Weidows
  * @Date: 2020-05-27 19:28:49
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:05:44
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\recommend\Vscode.md
+ * @LastEditTime: 2021-01-07 00:27:08
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\recommend\Vscode.md
 -->
-<h1 align="center">
-⭐️ VScode开发环境配置 ⭐️
-</h1>
 
-# #一.前言
+- [前言](#前言)
+- [实用推荐](#实用推荐)
+- [美化推荐](#美化推荐)
+- [码字推荐](#码字推荐)
+
+# 前言
 
 莅临此处的应该是都知道 [**VScode**](https://code.visualstudio.com) 是怎样一个*编辑器* 了,再此处附上[实用](#二.实用推荐) [美化](#三.美化推荐) [码字](#四.码字推荐)的推荐,希望喜欢!
 
 ---
 
-# #二.实用推荐
+# 实用推荐
 
 - ## Bookmarks
   - 让侧边栏出来个书签按钮,功能和名字一样,就是可以在某个地方**做一个可以起名字的书签**
@@ -42,7 +44,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 
 ---
 
-# #三.美化推荐
+# 美化推荐
 
 - ## Chinese (Simplified) Language Pack for Visual Studio Code
   - 这个不解释,中国人看**中国字**顺眼就对了
@@ -73,7 +75,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 
 ---
 
-# #四.码字推荐
+# 码字推荐
 
 - ## Bracket Pair Colorizer
   - 只要码字时用到大中小括号,我就推荐搞上它,它可以让不同对括号标记**不同颜色**来区分开,而且两配对的括号会**标出缩进线**
@@ -92,11 +94,3 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 - ## Visual Studio IntelliCode
   - VS 原配夫人,但是个人感觉,补全效果
   - TabNine > Kite > Visual Studio IntelliCode
-
----
-
-# N.[反馈 & 出处 (Aboue me & Click me)](https://weidows.gitee.io/about)
-
-_如果哪里有纰漏请在评论指正,欢迎讨论_
-
-![希儿](https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/xier.jpg)

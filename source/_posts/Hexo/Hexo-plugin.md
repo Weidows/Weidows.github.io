@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-20 23:02:43
+ * @LastEditTime: 2021-01-06 10:29:02
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
 -->
 
@@ -260,7 +260,7 @@ sitemap:
   path: sitemap/sitemap.xml
 ```
 
-- [参考文章:👌Hexo-SEO 搜索引擎优化](./Hexo-SEO)
+> [参考文章:👌Hexo-SEO 搜索引擎优化](./Hexo-SEO)
 
 ---
 
@@ -357,7 +357,7 @@ npm install --save hexo-tag-aplayer
 
 ---
 
-# 安装豆瓣
+# 安装豆瓣(已停用)
 
 ## 安装
 
@@ -392,96 +392,91 @@ douban:
 
 ---
 
-# Gulp(未完成)
+# Gulp
 
-- Cli 和插件
+- Cli 和模块
 
   ```shell
-  npm install gulp-cli -g
-  npm install gulp --save
+  npm install gulp -g
   npm install gulp-htmlclean gulp-htmlmin gulp-imagemin gulp-minify-css gulp-uglify --save
   ```
 
 - 在博客根目录新建`gulpfile.js`
 
   ```js
-  const gulp = require("gulp");
-  const cssClean = require("gulp-clean-css");
-  const htmlMin = require("gulp-htmlmin");
-  const htmlClean = require("gulp-htmlclean");
-  const terser = require("terser");
-  const composer = require("gulp-uglify/composer");
-  const pump = require("pump");
-  const terserMinify = composer(terser, console);
-  const autoprefixer = require("gulp-autoprefixer");
-  const cssnano = require("gulp-cssnano");
+  var gulp = require("gulp");
+  var minifycss = require("gulp-minify-css");
+  var uglify = require("gulp-uglify");
+  var htmlmin = require("gulp-htmlmin");
+  var htmlclean = require("gulp-htmlclean");
+  var imagemin = require("gulp-imagemin");
 
-  const htmlMinify = () =>
-    gulp
+  // 压缩html
+  gulp.task("minify-html", function () {
+    return gulp
       .src("./public/**/*.html")
-      .pipe(htmlClean())
+      .pipe(htmlclean())
       .pipe(
-        htmlMin({
+        htmlmin({
           removeComments: true,
-          collapseWhitespace: true,
-          collapseBooleanAttributes: true,
-          removeEmptyAttributes: true,
-          removeScriptTypeAttributes: true,
-          removeStyleLinkTypeAttributes: true,
           minifyJS: true,
           minifyCSS: true,
           minifyURLs: true,
         })
       )
       .pipe(gulp.dest("./public"));
+  });
 
-  const jsMinify = (cb) =>
-    pump(
-      [
-        gulp.src(["./public/**/*.js", "!./public/**/*.min.js"]),
-        terserMinify({}),
-        gulp.dest("./public"),
-      ],
-      cb
-    );
-
-  const cssMinify = () =>
-    gulp
+  // 压缩css
+  gulp.task("minify-css", function () {
+    return gulp
       .src("./public/**/*.css")
       .pipe(
-        cssClean({
-          compatibility: "ie9",
+        minifycss({
+          compatibility: "ie8",
         })
       )
-      .pipe(
-        cssnano({
-          zindex: false,
-          reduceIdents: false,
-        })
-      )
-      .pipe(autoprefixer())
       .pipe(gulp.dest("./public"));
+  });
 
-  module.exports = {
-    htmlMinify: htmlMinify,
-    cssMinify: cssMinify,
-    jsMinify: jsMinify,
-  };
+  // 压缩js
+  gulp.task("minify-js", function () {
+    return gulp
+      .src("./public/js/**/*.js")
+      .pipe(uglify())
+      .pipe(gulp.dest("./public"));
+  });
 
-  gulp.task(
-    "dist",
-    gulp.parallel(
-      // 异步压缩
-      htmlMinify,
-      cssMinify,
-      jsMinify
-    )
-  );
+  // 压缩图片
+  gulp.task("minify-images", function () {
+    return gulp
+      .src("./public/images/**/*.*")
+      .pipe(
+        imagemin(
+          [
+            imagemin.gifsicle({ optimizationLevel: 3 }),
+            imagemin.jpegtran({ progressive: true }),
+            imagemin.optipng({ optimizationLevel: 7 }),
+            imagemin.svgo(),
+          ],
+          { verbose: true }
+        )
+      )
+      .pipe(gulp.dest("./public/images"));
+  });
 
-  gulp.task("default", gulp.series("dist"));
+  // 默认任务
+  gulp.task("default", [
+    "minify-html",
+    "minify-css",
+    "minify-js",
+    "minify-images",
+  ]);
   ```
 
 - 然后`gulp`就可以压缩了.
+
+> 参考文章 [Hexo 博客之速度优化](https://blog.csdn.net/fengdi_yuxi/article/details/94402350)
 
 ---
 

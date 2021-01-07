@@ -12,9 +12,18 @@ cover: https://i.loli.net/2020/11/30/Xx1sQuZiCoPKAfD.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:41:13
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\recommend\font.md
+ * @LastEditTime: 2021-01-07 00:25:32
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\recommend\font.md
 -->
+
+- [等宽字体](#等宽字体)
+- [非等宽字体](#非等宽字体)
+- [中文字体](#中文字体)
+- [VScode 中字体系列设置](#vscode-中字体系列设置)
+- [VScode 中定义关键字体样式](#vscode-中定义关键字体样式)
+- [`连字效果`](#连字效果)
+  - [简单介绍](#简单介绍)
+  - [VScode 中开启连字](#vscode-中开启连字)
 
 # 等宽字体
 

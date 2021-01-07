@@ -12,9 +12,13 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:52:17
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\vscode\snippet.md
+ * @LastEditTime: 2021-01-07 00:56:46
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\vscode\snippet.md
 -->
+
+- [开启 snippet](#开启-snippet)
+- [增添代码片段](#增添代码片段)
+  - [源码 Github 链接](#源码-github-链接)
 
 # 开启 snippet
 

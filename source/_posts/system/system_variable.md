@@ -13,10 +13,22 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-04 11:31:06
+ * @LastEditTime: 2021-01-07 00:56:02
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
+
+- [环境变量含义:](#环境变量含义)
+  - [环境变量含义](#环境变量含义-1)
+  - [系统/用户环境变量](#系统用户环境变量)
+  - [环境变量与 Path](#环境变量与-path)
+- [Java 环境:](#java-环境)
+  - [JDK 环境](#jdk-环境)
+  - [Maven 环境:](#maven-环境)
+- [Git 环境:](#git-环境)
+- [Python 环境:](#python-环境)
+- [Node.js](#nodejs)
+- [备份](#备份)
 
 # 环境变量含义:
 
@@ -108,3 +120,11 @@ top_img:
 # Node.js
 
 > 详见[⬆ Node.js 环境配置 && 使用](../Web/Node.js/node.md)
+
+---
+
+# 备份
+
+```
+%SystemRoot%\system32\WBEM;D:\Software\VMware\bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32\WBEM;D:\Game\Demo\Python\Scripts\;D:\Game\Demo\Python\;C:\Windows\system32\WBEM;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Game\Demo\Git\usr\bin;C:\Windows\System32\OpenSSH\;C:\Users\29845\AppData\Local\Microsoft\WindowsApps;D:\Game\Demo\Dev-Cpp\MinGW64\bin;D:\Game\Demo\Microsoft VS Code\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Game\Demo\AdoptOpenJDK\\bin;D:\Game\Demo\Git\cmd;C:\Users\29845\AppData\Local\Microsoft\WindowsApps;D:\Game\Demo\Microsoft VS Code\bin;%MAVEN_HOME%\bin;D:\Game\Demo\Node.js\;
+```

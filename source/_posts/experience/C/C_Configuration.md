@@ -14,9 +14,19 @@ cover: https://i.loli.net/2020/11/30/fsj7FMhOw2WpigX.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:04:49
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\experience\C\C_Configuration.md
+ * @LastEditTime: 2021-01-07 00:21:35
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
+
+- [配置 `C/C++`语言环境](#配置-cc语言环境)
+- [VScode 内插件配置](#vscode-内插件配置)
+- [VScode 工作区配置](#vscode-工作区配置)
+  - [`launch.json`](#launchjson)
+  - [`task.json`](#taskjson)
+  - [源码 Github 链接](#源码-github-链接)
+- [`重头戏!`--解决乱码问题](#重头戏--解决乱码问题)
+  - [解决方案:](#解决方案)
+  - [另外一个问题---多文件编译](#另外一个问题---多文件编译)
 
 # 配置 `C/C++`语言环境
 

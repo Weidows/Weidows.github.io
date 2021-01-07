@@ -14,10 +14,21 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-04 11:42:36
+ * @LastEditTime: 2021-01-07 00:57:44
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\Node.js\node.md
  * @Description:
 -->
+
+- [环境配置](#环境配置)
+  - [Node 本身](#node-本身)
+  - [修改全局 node_modules 路径](#修改全局-node_modules-路径)
+- [预览](#预览)
+- [换阿里源](#换阿里源)
+- [模块升级](#模块升级)
+- [npm install 参数](#npm-install-参数)
+  - [`-g` / `-global`](#-g---global)
+  - [`-save`](#-save)
+- [local 全局插件(或称脚手架)](#local-全局插件或称脚手架)
 
 # 环境配置
 

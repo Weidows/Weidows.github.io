@@ -11,9 +11,14 @@ cover: https://i.loli.net/2020/11/30/rJLfcmTERGvAti4.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:44:40
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-04 23:43:11
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\experience\yaml-experience.md
+ * @LastEditTime: 2021-01-07 00:22:49
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\yaml-experience.md
 -->
+
+- [冒号 :](#冒号-)
+- [连字符(减号) -](#连字符减号--)
+- [单引号 '](#单引号-)
+- [GitHub-Action](#github-action)
 
 # 冒号 :
 

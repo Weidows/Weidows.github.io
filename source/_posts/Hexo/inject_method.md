@@ -16,9 +16,15 @@ cover: https://i.loli.net/2020/11/30/z7JsMCr28A1Y53j.jpg
  * @Author: Weidows
  * @Date: 2020-08-31 01:35:01
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:36:43
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Hexo\inject_method.md
+ * @LastEditTime: 2021-01-07 00:23:43
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\inject_method.md
 -->
+
+- [hexo 渲染](#hexo-渲染)
+- [通过主题文件注入](#通过主题文件注入)
+- [通过修改内部文件注入](#通过修改内部文件注入)
+- [Pjax 使 JS 渲染失效解决方案](#pjax-使-js-渲染失效解决方案)
+  - [文件定位:](#文件定位)
 
 # hexo 渲染
 

@@ -12,9 +12,36 @@ cover: https://i.loli.net/2020/11/30/U2VkeYvoMaXIsEp.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-11 18:26:17
+ * @LastEditTime: 2021-01-07 00:57:55
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\API.md
 -->
+
+- [My URL 前缀: Gitee && GitHub (旁人没啥用...)](#my-url-前缀-gitee--github-旁人没啥用)
+  - [Gitee](#gitee)
+  - [JsDelivr](#jsdelivr)
+  - [GitHub](#github)
+- [横屏 API](#横屏-api)
+  - [必应壁纸](#必应壁纸)
+  - [风景图](#风景图)
+  - [二次元 coser](#二次元-coser)
+  - [小心身体-推女郎](#小心身体-推女郎)
+- [竖屏](#竖屏)
+  - [二刺螈涩图](#二刺螈涩图)
+- [未知图](#未知图)
+- [在线生成二维码](#在线生成二维码)
+  - [百度网盘(可使用 https)](#百度网盘可使用-https)
+  - [iClick 接口 (无 https)](#iclick-接口-无-https)
+  - [JiaThis 接口(无 https)](#jiathis-接口无-https)
+  - [联图网(无 https)](#联图网无-https)
+  - [K780 数据网(支持 https 和 http)](#k780-数据网支持-https-和-http)
+  - [QR Code Generator(https 接口)](#qr-code-generatorhttps-接口)
+- [鼠标点击/跟随特效 js](#鼠标点击跟随特效-js)
+  - [小心心特效](#小心心特效)
+  - [社会主义核心价值观](#社会主义核心价值观)
+  - [花花特效](#花花特效)
+  - [跟随特效](#跟随特效)
+- [获取网页截图](#获取网页截图)
+- [获取区域时间](#获取区域时间)
 
 # My URL 前缀: Gitee && GitHub (旁人没啥用...)
 

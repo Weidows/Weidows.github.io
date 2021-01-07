@@ -15,9 +15,29 @@ cover: https://i.loli.net/2020/11/30/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:05:03
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Hexo\Hexo-fansy.md
+ * @LastEditTime: 2021-01-07 00:23:28
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\Hexo-fansy.md
 -->
+
+- [Hexo 文章标题 & 格式](#hexo-文章标题--格式)
+  - [肯定要背过的](#肯定要背过的)
+  - [以下是没用过或无效的](#以下是没用过或无效的)
+- [标签外挂](#标签外挂)
+- [Gallery 相册图库](#gallery-相册图库)
+  - [div 式写法](#div-式写法)
+  - [效果:](#效果)
+  - [另一种相册形式(自动排列)](#另一种相册形式自动排列)
+- [tag-hide](#tag-hide)
+  - [inline(一行内)](#inline一行内)
+  - [Block(块)](#block块)
+  - [toggle(收缩框)](#toggle收缩框)
+- [mermaid](#mermaid)
+- [tabs(标签块)](#tabs标签块)
+- [Button](#button)
+  - [写法:](#写法)
+  - [好康的 demo:](#好康的-demo)
+- [\_config.yml](#_configyml)
+- [图片引入](#图片引入)
 
 # Hexo 文章标题 & 格式
 

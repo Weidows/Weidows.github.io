@@ -14,9 +14,16 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:38:22
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\experience\shell\pwsh.md
+ * @LastEditTime: 2021-01-07 00:21:55
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\shell\pwsh.md
 -->
+
+- [预览](#预览)
+- [环境配置](#环境配置)
+- [安装插件](#安装插件)
+- [启用主题及插件](#启用主题及插件)
+- [`oh-my-posh`主题](#oh-my-posh主题)
+- [启用管理员模式](#启用管理员模式)
 
 # 预览
 

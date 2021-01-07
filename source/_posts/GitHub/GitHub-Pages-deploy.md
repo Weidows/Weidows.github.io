@@ -14,9 +14,18 @@ cover: https://i.loli.net/2020/11/30/ZN45JO19SVRihG8.png
  * @Author: Weidows
  * @Date: 2020-08-23 10:54:41
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:30:18
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\GitHub\GitHub-Pages-deploy.md
+ * @LastEditTime: 2021-01-07 00:22:59
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\GitHub\GitHub-Pages-deploy.md
 -->
+
+- [GitHub/Gitee 选择](#githubgitee-选择)
+- [解决方案](#解决方案)
+- [开启](#开启)
+- [GitHub 自动化部署](#github-自动化部署)
+  - [安装 Hexo-deployer](#安装-hexo-deployer)
+- [另一种更加方便完美的解决方案](#另一种更加方便完美的解决方案)
+- [github-action 自动化部署](#github-action-自动化部署)
+  - [解释:](#解释)
 
 # GitHub/Gitee 选择
 

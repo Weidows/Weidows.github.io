@@ -14,11 +14,17 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
  * @Author: Weidows
  * @Date: 2021-01-03 15:18:46
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-03 16:03:30
+ * @LastEditTime: 2021-01-07 00:56:39
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\vscode\extension-develop.md
  * @Description:
  * @!: *********************************************************************
 -->
+
+- [前期准备](#前期准备)
+- [开发](#开发)
+- [打包](#打包)
+- [发布](#发布)
+- [结合 GitHub](#结合-github)
 
 # 前期准备
 

@@ -11,9 +11,13 @@ cover: https://i.loli.net/2020/11/30/XNzZpVAlmohqKHY.jpg
  * @Author: Weidows
  * @Date: 2020-09-04 10:49:16
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:40:17
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Java\static_unstatic_block.md
+ * @LastEditTime: 2021-01-07 00:24:40
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\static_unstatic_block.md
 -->
+
+- [就俩文件,谨此](#就俩文件谨此)
+- [Person.java](#personjava)
+- [Test.java](#testjava)
 
 # 就俩文件,谨此
 

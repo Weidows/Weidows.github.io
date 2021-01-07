@@ -16,9 +16,15 @@ cover: https://i.loli.net/2020/11/30/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-19 23:41:07
+ * @LastEditTime: 2021-01-07 00:22:05
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\shell\shell.md
 -->
+
+- [通用](#通用)
+- [DOS/CMD/PowerShell](#doscmdpowershell)
+- [Linux](#linux)
+- [宝塔](#宝塔)
+- [Git](#git)
 
 # 通用
 

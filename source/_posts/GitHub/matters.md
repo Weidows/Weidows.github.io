@@ -12,10 +12,16 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:32:09
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\GitHub\matters.md
+ * @LastEditTime: 2021-01-07 00:23:07
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\GitHub\matters.md
  * @Description:
 -->
+
+- [首页绿格子](#首页绿格子)
+- [License 选择](#license-选择)
+- [国内时区错位问题](#国内时区错位问题)
+- [博客域名](#博客域名)
+- [删除远程分支](#删除远程分支)
 
 # 首页绿格子
 

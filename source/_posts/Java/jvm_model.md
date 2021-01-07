@@ -12,9 +12,22 @@ cover: https://i.loli.net/2020/11/30/GQMENFX1sR4ubZY.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:43:13
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Java\jvm_model.md
+ * @LastEditTime: 2021-01-07 00:24:25
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\jvm_model.md
 -->
+
+- [JVM 内存模型](#jvm-内存模型)
+  - [`堆heap`:](#堆heap)
+  - [`栈stack`:](#栈stack)
+  - [`方法区method`:](#方法区method)
+- [举个栗子](#举个栗子)
+- [`重点!`](#重点)
+  - [在 Student stu = new Student(); 过程中,子类对象的实例化过程:](#在-student-stu--new-student-过程中子类对象的实例化过程)
+  - [Java 引用变量有两个类型:`编译时类型` && `运行时类型`](#java-引用变量有两个类型编译时类型--运行时类型)
+- [虚拟方法调用例子](#虚拟方法调用例子)
+- [JVM Errors](#jvm-errors)
+    - [1.AWT 错误](#1awt-错误)
+    - [2.JVM 错误](#2jvm-错误)
 
 # JVM 内存模型
 

@@ -12,10 +12,15 @@ cover: https://i.loli.net/2020/11/30/E5ofKbNthSv8yUn.jpg
  * @Author: Weidows
  * @Date: 2020-11-30 17:50:20
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 21:45:00
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\recommend\TeenagersLearning.md
+ * @LastEditTime: 2021-01-07 00:25:58
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\recommend\TeenagersLearning.md
  * @Description:青年大学习
 -->
+
+- [前言](#前言)
+- [安装核心](#安装核心)
+- [进入视频](#进入视频)
+- [`Enjoy it!`](#enjoy-it)
 
 # 前言
 

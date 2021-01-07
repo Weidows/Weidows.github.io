@@ -12,9 +12,12 @@ cover: https://i.loli.net/2020/11/30/To4BF7XM1xEmanh.jpg
  * @Author: Weidows
  * @Date: 2020-09-10 17:34:47
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:34:40
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\_posts\Java\anonymous_object.md
+ * @LastEditTime: 2021-01-07 00:24:02
+ * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\anonymous_object.md
 -->
+
+- [匿名对象一 (Test.java)](#匿名对象一-testjava)
+- [匿名对象二 (Circle.java)](#匿名对象二-circlejava)
 
 # 匿名对象一 (Test.java)
 

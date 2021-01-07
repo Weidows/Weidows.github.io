@@ -15,11 +15,54 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-30 19:42:58
+ * @LastEditTime: 2021-01-07 00:17:35
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************
 -->
+
+- [借鉴(抄袭 2333)](#借鉴抄袭-2333)
+- [前端知识体系](#前端知识体系)
+  - [css 预处理器](#css-预处理器)
+  - [JavaScript 框架](#javascript-框架)
+  - [UI 框架](#ui-框架)
+  - [JavaScript 构建工具](#javascript-构建工具)
+  - [三端统一](#三端统一)
+- [Hello-World](#hello-world)
+  - [内部开撸](#内部开撸)
+  - [外部引入](#外部引入)
+  - [type](#type)
+  - [demo](#demo)
+- [浏览器调试](#浏览器调试)
+- [数据类型](#数据类型)
+  - [变量](#变量)
+  - [字符串](#字符串)
+  - [布尔值](#布尔值)
+  - [逻辑运算](#逻辑运算)
+  - [比较运算符](#比较运算符)
+  - [浮点数](#浮点数)
+  - [null && undefined](#null--undefined)
+  - [数组](#数组)
+  - [对象](#对象)
+  - [严格检查模式](#严格检查模式)
+- [字符串](#字符串-1)
+  - [转义字符](#转义字符)
+  - [多行字符串](#多行字符串)
+  - [模板字符串](#模板字符串)
+  - [函数调用](#函数调用)
+  - [字符串的可变性](#字符串的可变性)
+  - [大小写转换](#大小写转换)
+  - [子串](#子串)
+- [数组](#数组-1)
+  - [长度](#长度)
+  - [indexOf()](#indexof)
+  - [slice()](#slice)
+  - [push(),pop(),unshift(),shift()](#pushpopunshiftshift)
+  - [reverse(),sort()](#reversesort)
+  - [concat()](#concat)
+  - [join()](#join)
+  - [多维数组](#多维数组)
+  - [fill()](#fill)
 
 # 借鉴(抄袭 2333)
 
