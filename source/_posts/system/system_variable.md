@@ -13,8 +13,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:56:02
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\system_variable.md
+ * @LastEditTime: 2021-01-17 23:59:12
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
 
@@ -22,13 +22,13 @@ top_img:
   - [环境变量含义](#环境变量含义-1)
   - [系统/用户环境变量](#系统用户环境变量)
   - [环境变量与 Path](#环境变量与-path)
-- [Java 环境:](#java-环境)
-  - [JDK 环境](#jdk-环境)
-  - [Maven 环境:](#maven-环境)
-- [Git 环境:](#git-环境)
-- [Python 环境:](#python-环境)
+- [Scoop](#scoop)
+- [JDK](#jdk)
+- [Maven](#maven)
+- [Git](#git)
+- [ssh](#ssh)
+- [Python](#python)
 - [Node.js](#nodejs)
-- [备份](#备份)
 
 # 环境变量含义:
 
@@ -61,70 +61,81 @@ top_img:
 
 ---
 
-# Java 环境:
+# Scoop
 
-## JDK 环境
+> 详见[🙌Windows 平台软件包管理器选择-Scoop](../Scoop.md)
+
+---
+
+# JDK
+
+> 通过 Scoop 安装会自动设置
 
 - 新建`JAVA_HOME`环境变量值
   - `D:\Game\Demo\AdoptOpenJDK\`
 - Path 里面添加
   - `%JAVA_HOME%\bin`
 - JDK 创建 jre: 进入 JDK 根目录管理员模式输入(正常 JDK 自带)
+
   - `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
-## Maven 环境:
+---
 
-- 新建`MAVEN_HOME`
+# Maven
 
-  - `D:\Game\Demo\IntelliJ IDEA 2020.3.1\plugins\maven\lib\maven3`
+> 耦合 [🎉IDEA 魔改记录.](../../IDEA/Modification#Maven)
 
 - Path 中+
 
-  - `%MAVEN_HOME%\bin`
+  ```
+  D:\Game\Scoop\apps\idea-ultimate\current\plugins\maven\lib\maven3\bin
+  ```
+
+- 检查
+
+  ```shell
+  mvn -v
+  ```
 
 - VScode 中设置:
-  - 第一个是指定 Maven 目录(即使上面没配置也能用),第二个是指定 Maven 用户配置文件路径(比如用 Maven 我们换阿里源和修改 localRepository 路径都需要修改这个文件)
-  - [附上第二个配置文件](https://github.com/Weidows/Programming-Configuration/blob/master/Maven/conf/settings.xml)
-  ```
-  "maven.executable.path": "D:/Game/Demo/IntelliJ IDEA 2020.2.2/plugins/maven/lib/maven3/bin/mvn",
-  "java.configuration.maven.userSettings": "D:\\Game\\Demo\\IntelliJ IDEA 2020.2.2\\plugins\\maven\\lib\\maven3\\conf\\settings.xml"
-  ```
+  - 经测试,无论是 Maven 插件,还是 Maven-settings,在 vscode 中都
+  - 不需要再设置了!
 
 ---
 
-# Git 环境:
+# Git
 
-- ## Path 中+
-  ```
-  D:\Game\Demo\Git\cmd
-  D:\Game\Demo\Git\usr\bin
-  ```
-- ## 白嫖 ssh 终端
-  - 上面第二个是白嫖的 ssh 环境,注意要写在 Windows 默认的`C:\Windows\System32\OpenSSH\`上面(优先级问题).
-    <img src="https://i.loli.net/2020/12/04/LJnhekugtUyHOaC.png" alt="20201204110727" />
-  - 为什么要白嫖 git 的?
-    - window 10 自带的是 7.7 版本的,git 带的是 OpenSSH_8.4 版本的,为什么不用呢?
+> 用 Scoop 安装自带环境变量,不用配置.
 
 ---
 
-# Python 环境:
+# ssh
 
-- ## Path 中+
+- Path 中+
+
   ```
-    D:\Game\Demo\Python\
-    D:\Game\Demo\Python\Scripts\
+  D:\Game\Scoop\apps\git\current\usr\bin
+  ```
+
+- 白嫖 git 的 ssh 环境,注意要写在 Windows 默认的`C:\Windows\System32\OpenSSH\`上面(优先级问题).
+  <img src="https://i.loli.net/2020/12/04/LJnhekugtUyHOaC.png" alt="20201204110727" />
+- 为什么要白嫖 git 的?
+  - window 10 自带的是 7.7 版本的,git 带的是 OpenSSH_8.4 版本的,为什么不用呢?
+
+---
+
+# Python
+
+> 通过 Scoop 安装会自动设置
+
+- Path 中+
+  ```
+  D:\Game\Scoop\apps\python
+  D:\Game\Scoop\apps\python\Scripts\
   ```
 
 ---
 
 # Node.js
 
-> 详见[⬆ Node.js 环境配置 && 使用](../Web/Node.js/node.md)
-
----
-
-# 备份
-
-```
-%SystemRoot%\system32\WBEM;D:\Software\VMware\bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32\WBEM;D:\Game\Demo\Python\Scripts\;D:\Game\Demo\Python\;C:\Windows\system32\WBEM;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Game\Demo\Git\usr\bin;C:\Windows\System32\OpenSSH\;C:\Users\29845\AppData\Local\Microsoft\WindowsApps;D:\Game\Demo\Dev-Cpp\MinGW64\bin;D:\Game\Demo\Microsoft VS Code\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Game\Demo\AdoptOpenJDK\\bin;D:\Game\Demo\Git\cmd;C:\Users\29845\AppData\Local\Microsoft\WindowsApps;D:\Game\Demo\Microsoft VS Code\bin;%MAVEN_HOME%\bin;D:\Game\Demo\Node.js\;
-```
+> 详见[⬆ Node.js 环境配置 && 使用](../../Web/Node.js/node.md)

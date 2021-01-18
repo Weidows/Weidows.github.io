@@ -15,8 +15,8 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-06 10:29:02
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
+ * @LastEditTime: 2021-01-17 23:54:18
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
 -->
 
 # 常用的 Hexo 自身命令
@@ -260,7 +260,7 @@ sitemap:
   path: sitemap/sitemap.xml
 ```
 
-> [参考文章:👌Hexo-SEO 搜索引擎优化](./Hexo-SEO)
+> [参考文章:👌Hexo-SEO 搜索引擎优化](../Hexo-SEO)
 
 ---
 

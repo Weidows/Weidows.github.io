@@ -15,8 +15,8 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:17:35
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
+ * @LastEditTime: 2021-01-18 02:41:59
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -75,6 +75,8 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
 - HTML（结构）：决定网页的结构和内容
 - CSS（表现）：设定网页的表现样式。
 - JavaScript（行为）：是一种弱类型脚本语言，其源码不需经过编译，而是由浏览器解释运行，用于控制网页的行为.
+
+  ***
 
 ## css 预处理器
 
@@ -357,6 +359,8 @@ true，false
 \x41	Ascall字符
 ```
 
+---
+
 ## 多行字符串
 
 ```js
@@ -368,6 +372,8 @@ var msg = `hello
             `;
 ```
 
+---
+
 ## 模板字符串
 
 ```js
@@ -376,6 +382,8 @@ let age = 3;
 var msg = `你好，${name} + ${age}`;
 console.log(msg);
 ```
+
+---
 
 ## 函数调用
 
@@ -389,6 +397,8 @@ console.log(str.indexOf(2)); //2的下标 1
 console.log(str[1]); // 2
 ```
 
+---
+
 ## 字符串的可变性
 
 - 同 Java 的 String 对象,其本身不可变
@@ -396,6 +406,8 @@ console.log(str[1]); // 2
 ```
 str[1] = 0; // 这样会报错,因为字符串是read-only的.
 ```
+
+---
 
 ## 大小写转换
 
@@ -405,6 +417,8 @@ str[1] = 0; // 这样会报错,因为字符串是read-only的.
 str.toUpperCase();
 str.toLowerCase();
 ```
+
+---
 
 ## 子串
 
@@ -433,6 +447,8 @@ arr.length = 2; // 扩容
 arr.length = 0; // 缩小
 ```
 
+---
+
 ## indexOf()
 
 - 获取元素位置
@@ -442,6 +458,8 @@ arr.length = 0; // 缩小
 arr.indexOf(1);
 arr.indexOf("1");
 ```
+
+---
 
 ## slice()
 
@@ -453,6 +471,8 @@ var arr = [1, 2, 3, 4, 5, 6];
 arr = arr.slice(1, 5);
 console.log(arr); // [ 2, 3, 4, 5 ]
 ```
+
+---
 
 ## push(),pop(),unshift(),shift()
 
@@ -474,6 +494,8 @@ arr.shift();
 console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
 ```
 
+---
+
 ## reverse(),sort()
 
 ```js
@@ -485,6 +507,8 @@ console.log(arr); // [ 6, 5, 4, 3, 2, 1 ]
 arr.sort();
 console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
 ```
+
+---
 
 ## concat()
 
@@ -498,6 +522,8 @@ var arr1 = ["a", "b", "c"],
 console.log(arr1.concat(arr2)); // [ 'a', 'b', 'c', 1, 2, 3 ]
 ```
 
+---
+
 ## join()
 
 - 打印拼接数组，使用特定的字符串连接
@@ -507,6 +533,8 @@ var arr = ["a", "b", "c"];
 arr.join("-"); // 并无效果
 console.log(arr.join("-")); // a-b-c
 ```
+
+---
 
 ## 多维数组
 
@@ -520,6 +548,8 @@ var arr = [
 
 arr; // [ [ 'a', 'b', 'c' ], [ 1, 2, 3 ] ]
 ```
+
+---
 
 ## fill()
 

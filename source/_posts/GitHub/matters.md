@@ -12,7 +12,7 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:23:07
+ * @LastEditTime: 2021-01-15 02:36:31
  * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\GitHub\matters.md
  * @Description:
 -->
@@ -56,4 +56,4 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
 
 # 删除远程分支
 
-- ## 不能删除当前默认分支.
+- 不能删除当前默认分支.
