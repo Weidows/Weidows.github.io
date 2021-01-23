@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/12/30/tifKj6dA92BVezU.png
  * @Author: Weidows
  * @Date: 2020-12-30 18:09:38
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-19 02:03:16
+ * @LastEditTime: 2021-01-20 01:46:18
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-2.md
  * @Description:
  * @!: *********************************************************************
@@ -42,6 +42,7 @@ cover: https://i.loli.net/2020/12/30/tifKj6dA92BVezU.png
   - [变量作用域](#变量作用域)
   - [全局变量/函数](#全局变量函数)
   - [函数传递](#函数传递)
+  - [方法](#方法)
 
 # 续
 
@@ -401,6 +402,12 @@ console.log(abs(-10)); // 10
 
   ***
 
+- 另外,`const`也是 ES6 才引入的
+
+  - 定义常量,不可更改.
+
+  ***
+
 - 局部作用域
 
   - ES6 引入,建议用`let`定义局部作用域的变量以免冲突.
@@ -451,7 +458,7 @@ console.log(abs(-10)); // 10
 
 ## 函数传递
 
-- 通过[定义方法二](#定义方式二)这种,了解到函数和变量实际是互通的,函数不过是带括号的变量
+- 通过[定义方法二](#定义方式二)这种,了解到函数和变量实际是互通的
 
 - 与 Java 不同,像是 C 里面的函数指针,函数名与函数体是分离的.
 
@@ -465,3 +472,58 @@ function func_1() {
 var func_2 = func_1;
 func_2(); // 这里是func.
 ```
+
+---
+
+## 方法
+
+- 定义在对象里的函数
+
+  ```js
+  var Weidows = {
+    name: "Weidows",
+    birth: 2000,
+    age: function () {
+      let now = new Date().getFullYear();
+      return now - this.birth;
+    },
+  };
+  /**
+   * [λ: age]
+   * 注意调用方法的格式
+   */
+  console.log(Weidows.age); // [λ: age]
+  console.log(Weidows.age()); // 21
+  ```
+
+- 利用`this`和`apply()`实现函数和方法的恰当调用.
+
+  - JS 中可以通过`apply()`控制 this 的指向
+
+  ```js
+  function getAge() {
+    let now = new Date().getFullYear();
+    return now - this.birth;
+  }
+
+  var Weidows_1 = {
+    name: "Weidows",
+    birth: 2000,
+    // age: getAge(),  这样写实质age是getAge()执行后的返回值
+    age: getAge, // 这样含义是age指向getAge()函数体
+  };
+
+  var Weidows_2 = {
+    name: "Weidows",
+    birth: 2000,
+    age: getAge,
+  };
+
+  //执行
+  console.log(Weidows_1.age()); // 21
+  console.log(Weidows_2.age()); // 21
+  // console.log(getAge()); // Cannot read property 'birth' of undefined
+  console.log(getAge.apply(Weidows_1, [])); // 21
+  console.log(getAge.apply(Weidows_2, [])); // 21
+  // 这里apply含义就是调用getAge()函数,并让this指向Weidows_2对象,传入getAge的参数在[]数组里,为空.
+  ```

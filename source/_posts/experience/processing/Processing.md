@@ -14,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-16 01:44:43
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\processing\Processing.md
+ * @LastEditTime: 2021-01-23 16:01:49
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\processing\Processing.md
 -->
 
 - [环境需求](#环境需求)
@@ -27,12 +27,13 @@ cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
 
 # 环境需求
 
-- 1. 需要在电脑里下载好 Processing 主程序,但并`不需要配置环境变量`
-  - 这个 processing 主程序可以由 Scoop 安装.
-- 2. 在 VScode 里安装`Processing Language`插件,它支持语法高亮和代码补全
-- 3. 复制 Processing 主程序路径,在以上插件的设置`processing.path`里粘贴上,如
+- 1. 需要在电脑里下载好 Processing 主程序.
 
-  - `D:\\Game\\Scoop\\apps\\processing\\currentprocessing-java`
+  - 这个 processing 主程序可以由 Scoop 安装(免去配置环境变量).
+
+  - 不然需要在 Path 里添加上主程序目录,如 `D:\\Game\\Scoop\\apps\\processing\\current\\processing-java`
+
+- 2. 在 VScode 里安装`Processing Language`插件,它支持语法高亮和代码补全
 
 - 现在基本的编写环境已经配置好了,下面是编译环境.
 
@@ -99,7 +100,7 @@ cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
 
 - 找到`VScode-Code Runner`插件配置文件里的`code-runner.executorMap`,参照其他语言在{}里添加如下代码
   ```
-  "pde": "D:\\Game\\Demo\\processing-3.3.7\\processing-java --force --sketch=$dir --output=$dir\\out --run",
+  "pde": "processing-java --force --sketch=$dir --output=$dir\\out --run",
   ```
 - 现在,写完.pde 按上面的快捷键或 Code Runner 的`小三角`都可以运行了!
 

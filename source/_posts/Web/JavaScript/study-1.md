@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-18 02:41:59
+ * @LastEditTime: 2021-01-22 00:38:46
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************
@@ -125,7 +125,8 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
 ## 内部开撸
 
 - 放在 head 或者 body 里面都可以,一般放在 head 中.
-
+  - 需要注意如果 js 对 DOM 进行操作,标签位置会影响加载顺序以导致对 DOM 的操作可能无效.
+  - 比如要对 body 里的内容进行修改,js 放在 head 里就会无效(因为先加载的 js 后加载的 body),这种情况就需要 js 放在 body 的末尾.
   ```html
   <script>
     alert("HelloWorld");

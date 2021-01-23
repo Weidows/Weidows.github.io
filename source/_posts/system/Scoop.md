@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-17 00:40:38
+ * @LastEditTime: 2021-01-23 17:08:58
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -240,16 +240,14 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 软件
 
   ```shell
-  scoop install nodejs
   scoop install aria2
   scoop install git
+  scoop install idea-ultimate
+  scoop install nodejs
   scoop install openjdk11
+  scoop install processing
   scoop install pwsh
   scoop install python
-  scoop install vncviewer
-  scoop install idea-ultimate
   scoop install rainmeter
-  scoop install processing
-
-  scoop install gcc
+  scoop install vncviewer
   ```

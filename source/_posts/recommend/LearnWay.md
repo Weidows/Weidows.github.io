@@ -14,8 +14,8 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:25:42
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\recommend\LearnWay.md
+ * @LastEditTime: 2021-01-20 21:34:25
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -43,6 +43,8 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - [VScode](#vscode)
   - [主题适配](#主题适配)
   - [插件(包)开发/发布](#插件包开发发布)
+- [泛域](#泛域)
+  - [2038 问题](#2038-问题)
 
 # `申明`
 
@@ -206,3 +208,13 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - 思否
 - VScode 插件开发（五）插件包
 - https://segmentfault.com/a/1190000020435312
+
+---
+
+# 泛域
+
+## 2038 问题
+
+- https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin
+- 问题不算大,Windows 平台与 linux 平台都有相应的推迟解决方案了.
+- Linux 推到 2486 年了,还早了去了.
