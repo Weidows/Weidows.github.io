@@ -4,7 +4,6 @@ categories:
   - recommend
 tags:
   - 成长路线
-  - 备忘录
 cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 # top_img:
 ---
@@ -14,7 +13,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-20 21:34:25
+ * @LastEditTime: 2021-01-27 19:40:37
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -45,6 +44,10 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [插件(包)开发/发布](#插件包开发发布)
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
+- [设计](#设计)
+  - [UI 设计](#ui-设计)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # `申明`
 
@@ -68,7 +71,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - 注意一个问题,`学习编程是非线性成长`,也就是说在能看懂的情况下都可以学(比如我没学 Spring 就直接上 Spring Boot,也可以略懂一二)
   - 但是效率和方式比较低下,注意自己规避.
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # C/C++
 
@@ -76,145 +79,170 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 - 全程学的`翁凯`老师的,讲的很好.
 
+---
+
 ## 入门课程
 
-- 中国大学 MOOC
-- 程序设计入门——C 语言
-- https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_
+> [程序设计入门——C 语言](https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_)
+
+---
 
 ## 进阶课程
 
-- 中国大学 MOOC
-- C 语言程序设计进阶
-- https://www.icourse163.org/course/ZJU-200001
+> [C 语言程序设计进阶](https://www.icourse163.org/course/ZJU-200001)
+
+---
 
 ## 链表
 
-- B 站
-- 1 个小时学会单链表，C 语言数据结构专题
-- https://www.bilibili.com/video/BV1Rb411F738
+> [1 个小时学会单链表，C 语言数据结构专题](https://www.bilibili.com/video/BV1Rb411F738)
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Java
 
 - 靠翁凯老师入的门,之后又深挖了其他课程.
 - 在这里推荐下老师们吧,不是广告,只是很感激`领路人`.
-  - 翁凯 https://www.icourse163.org/u/wengkai?userId=318013
-  - 狂神-秦疆 https://space.bilibili.com/95256449
+  - [翁凯](https://www.icourse163.org/u/wengkai?userId=318013)
+  - [狂神-秦疆](https://space.bilibili.com/95256449)
+
+---
 
 ## 入门
 
-- 中国大学 MOOC
-- 零基础学 Java 语言
-- https://www.icourse163.org/course/0809ZJU013-1001541001?outvandor=zw_mooc_pclszykctj_
+> [零基础学 Java 语言](https://www.icourse163.org/course/0809ZJU013-1001541001?outvandor=zw_mooc_pclszykctj_)
+
+---
 
 ## 进阶
 
-- 中国大学 MOOC
-- 面向对象程序设计——Java 语言
-- https://www.icourse163.org/course/0809ZJU012-1001542001?outvandor=zw_mooc_pclszykctj_
+> [面向对象程序设计——Java 语言](https://www.icourse163.org/course/0809ZJU012-1001542001?outvandor=zw_mooc_pclszykctj_)
+
+---
 
 ## 就业级
 
-- B 站
-- 求知讲堂零基础 Java 入门编程视频教程 学完可就业
-- https://www.bilibili.com/video/BV1CJ411m7gg
+> [求知讲堂零基础 Java 入门编程视频教程 学完可就业](https://www.bilibili.com/video/BV1CJ411m7gg)
+
 - 个人记录,`不推荐`再学习!已过时,而且讲师...不太专业
+
+---
 
 ## 阶段回顾
 
-- B 站
-- 【狂神说 Java】JavaSE 阶段回顾总结
-- https://www.bilibili.com/video/BV1MJ411v7tJ?from=search&seid=6413568957300849811
+> [【狂神说 Java】JavaSE 阶段回顾总结](https://www.bilibili.com/video/BV1MJ411v7tJ?from=search&seid=6413568957300849811)
+
 - 很不错的复习!
+
+---
 
 ## 单元测试 Junit
 
-- 微信
-- JUnit：别再用 main 方法测试了，好吗？
-- https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247490821&idx=1&sn=855b8ede1287dd95787a010c3245c8e7&chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&xtrack=1&scene=90&subscene=93&sessionid=1609292024&clicktime=1609292488&enterid=1609292488&ascene=56&devicetype=android-29&version=27001637&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&wx_header=1
+> [JUnit：别再用 main 方法测试了，好吗？](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247490821&idx=1&sn=855b8ede1287dd95787a010c3245c8e7&chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&xtrack=1&scene=90&subscene=93&sessionid=1609292024&clicktime=1609292488&enterid=1609292488&ascene=56&devicetype=android-29&version=27001637&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&wx_header=1)
+
+---
 
 ## 文档注释
 
-- CSDN
-- Java 文档注释用法+JavaDoc 的使用详解
-- https://blog.csdn.net/lsy0903/article/details/89893934
+> [Java 文档注释用法+JavaDoc 的使用详解](https://blog.csdn.net/lsy0903/article/details/89893934)
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # HTML/CSS
 
 - 一般这俩是合在一起学的,相关性较强.
 - 都是`前端基础`,但是后端也必须要会.
 
+---
+
 ## 入门
 
-- B 站
-- 黑马程序员 pink 老师前端入门视频教程 HTML5+CSS3+移动端布局-flex 布局 rem 布局响应式布局摹客蓝湖使用-简单有趣好玩
-- https://www.bilibili.com/video/BV14J4114768
+> [黑马程序员 pink 老师前端入门视频教程 HTML5+CSS3+移动端布局-flex 布局 rem 布局响应式布局摹客蓝湖使用-简单有趣好玩](https://www.bilibili.com/video/BV14J4114768)
+
 - 全网最知名的 HTML/css 基础讲师-黑马程序员 pink,应该没有之一了(至少到 2020 为止)
   - 虽然他说话有些风骚
 - 视频贼多,我没看完,把基础趟完跑路.
 
+---
+
 ## 进阶
 
-- B 站
-- 【狂神说 Java】CSS3 最新教程快速入门通俗易懂
-- https://www.bilibili.com/video/BV1YJ411a7dy
+> [【狂神说 Java】CSS3 最新教程快速入门通俗易懂](https://www.bilibili.com/video/BV1YJ411a7dy)
+
 - 一个字,很不错!
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # JavaScript
 
 ## 进阶
 
+> [【狂神说 Java】JavaScript 最新教程通俗易懂](https://www.bilibili.com/video/BV1JJ41177di)
+
 - 因为有 Java 基础,入门阶段直接过去了.
-- B 站
-- 【狂神说 Java】JavaScript 最新教程通俗易懂
-- https://www.bilibili.com/video/BV1JJ41177di
+
 - 狂神老师出的都很...上头!
   - 就是那个味!
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Git
 
+- 这应该是所有程序员必会的技能了,没有保留的余地.
+
+- 学 Git 嘛,说来也不用学,装上 git 之后结合 `github` 摸索摸索就会了.
+
+- 前前后后用过的 git 可视化程序有`SourceTree`,`gitkraken`,`github`,`vscode`等等...
+
+- 要是说建议路线嘛,推荐先入手`vscode`,特容易上手,然后是`SourceTree`,这个可以对很多深入功能有较强的理解,反正我最后用的是`VScode+gitgraph插件`,足够了.
+
+---
+
 ## Git push
 
-- 博客园
-- Git push 常见用法
-- https://www.cnblogs.com/qianqiannian/p/6008140.html
+> [Git push 常见用法](https://www.cnblogs.com/qianqiannian/p/6008140.html)
+
+---
 
 ## 多远程
 
-- 思否
-- 一个项目 push 到多个远程 Git 仓库
-- https://segmentfault.com/a/1190000011294144
+> [一个项目 push 到多个远程 Git 仓库](https://segmentfault.com/a/1190000011294144)
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # VScode
 
 ## 主题适配
 
-- CSDN
-- VScode 自定义主题 界面 UI 配色 语法配色
-- https://blog.csdn.net/weixin_45599654/article/details/109306462
+> [VScode 自定义主题 界面 UI 配色 语法配色](https://blog.csdn.net/weixin_45599654/article/details/109306462)
+
+---
 
 ## 插件(包)开发/发布
 
-- 思否
-- VScode 插件开发（五）插件包
-- https://segmentfault.com/a/1190000020435312
+> [VScode 插件开发（五）插件包](https://segmentfault.com/a/1190000020435312)
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 泛域
 
 ## 2038 问题
 
-- https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin
+> [2038 年问题](https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin)
+
 - 问题不算大,Windows 平台与 linux 平台都有相应的推迟解决方案了.
 - Linux 推到 2486 年了,还早了去了.
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 设计
+
+## UI 设计
+
+> [微信公众号推送封面如何设计制作？](https://www.zhihu.com/question/313933884)
+
+- 从文章头图无从下手切入的,以往就是百度谷歌搜关键词,找一个好看的图,但是耦合性太差,想找个流水线式解决方案.
+
+- 起初是因为看到 `@小康博客` 的文章头图,感觉很好看,于是去找的方案.
+
+  <img src="https://i.loli.net/2021/01/27/FDGZKReixJE6aIt.png" alt="20210127191714" />

@@ -5,6 +5,11 @@ categories:
 tags:
   - 计算机系统
   - 备忘录
+  - Scoop
+  - Maven
+  - Git
+  - Python
+  - Node
 cover: https://i.loli.net/2020/12/04/6XQhlDpwVMmnG4H.png
 top_img:
 ---
@@ -13,7 +18,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-17 23:59:12
+ * @LastEditTime: 2021-01-28 03:12:49
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
@@ -83,13 +88,9 @@ top_img:
 
 # Maven
 
-> 耦合 [🎉IDEA 魔改记录.](../../IDEA/Modification#Maven)
+> 内部修改耦合 [🎉IDEA 魔改记录.](../../IDEA/Modification#Maven)
 
-- Path 中+
-
-  ```
-  D:\Game\Scoop\apps\idea-ultimate\current\plugins\maven\lib\maven3\bin
-  ```
+- 环境变量: 用 Scoop 安装不需要手动配置!
 
 - 检查
 
@@ -98,8 +99,10 @@ top_img:
   ```
 
 - VScode 中设置:
-  - 经测试,无论是 Maven 插件,还是 Maven-settings,在 vscode 中都
-  - 不需要再设置了!
+
+  ```json
+    "java.configuration.maven.globalSettings": "D:/Game/Scoop/persist/maven/conf/settings.xml",
+  ```
 
 ---
 

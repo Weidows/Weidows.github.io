@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/11/30/fsj7FMhOw2WpigX.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-23 16:37:52
+ * @LastEditTime: 2021-01-23 21:05:54
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 
@@ -27,7 +27,7 @@ cover: https://i.loli.net/2020/11/30/fsj7FMhOw2WpigX.jpg
   - [源码 Github 链接](#源码-github-链接)
 - [`重头戏!`--解决乱码问题](#重头戏--解决乱码问题)
   - [解决方案:](#解决方案)
-- [另外一个问题---多文件编译](#另外一个问题---多文件编译)
+- [另外一个问题--多文件编译](#另外一个问题--多文件编译)
 
 # 编译器
 
@@ -185,7 +185,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 ---
 
-# 另外一个问题---多文件编译
+# 另外一个问题--多文件编译
 
 - 默认的 Code Runner 执行的命令只能编译运行一个 C/C++源文件,但是很多情况下需要编译链接多文件的项目,上面我提供的命令支持编译同一目录下的所有 C/C++源文件
 

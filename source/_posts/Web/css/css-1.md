@@ -14,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/2WiEbNR47TznHcC.jpg
  * @Author: Weidows
  * @Date: 2020-11-10 00:49:54
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:57:25
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\css\css.md
+ * @LastEditTime: 2021-01-26 23:57:45
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\css\css-1.md
  * @Description:CSS学习笔记
 -->
 
@@ -346,6 +346,8 @@ body > p {
 - 首行缩进 `text-indent`
 - 行高 `line-height`
 - 装饰 `text-decoration`
+
+> [CSS 总结 div 中的内容垂直居中的五种方法](https://www.cnblogs.com/xiaocaiyuxiaoniao/p/10407830.html)
 
 ```HTML
 <html lang="en">

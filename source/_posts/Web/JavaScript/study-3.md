@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/01/20/lu7MVrgdPExk6Rc.png
  * @Author: Weidows
  * @Date: 2021-01-20 01:47:21
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-22 01:07:49
+ * @LastEditTime: 2021-01-26 21:18:41
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-3.md
  * @Description:
  * @!: *********************************************************************
@@ -290,79 +290,277 @@ screen.height; // 1080
 
   ***
 
-- 获得 DOM 节点
+## 获得节点
 
-  - 要操作一个 Dom 节点，必须要先获得这个 Dom 节点.
-  - 之后尽量都使用 jQuery()
+- 要操作一个 Dom 节点，必须要先获得这个 Dom 节点.
+- 之后尽量都使用 jQuery()
 
-  ```js
-  var h1 = document.getElementsByTagName("h1"),
-    class_1 = document.getElementsByClassName("class-1"),
-    app = document.getElementById("app");
-  var children = app.children;
-  ```
+```js
+var h1 = document.getElementsByTagName("h1"),
+  class_1 = document.getElementsByClassName("class-1"),
+  app = document.getElementById("app");
+var children = app.children;
+```
 
-  ***
+---
 
-- 更新节点
+## 更新节点
 
-  ```html
-  <!DOCTYPE html>
-  <html lang="en">
-    <head>
-      <meta charset="UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Document</title>
-    </head>
-    <body id="body">
-      <div>123</div>
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body id="body">
+    <div>123</div>
 
-      <script>
-        var body = document.getElementById("body");
-        // 会覆盖掉所有文档树,比如上面的div被覆写
-        body.innerHTML = "<em>这里是body标签.</em>";
+    <script>
+      var body = document.getElementById("body");
+      // 会覆盖掉所有文档树,比如上面的div被覆写
+      body.innerHTML = "<em>这里是body标签.</em>";
 
-        // 修改css样式
-        body.style.color = "red";
-        body.style.fontSize = "20px";
-      </script>
-    </body>
-  </html>
-  ```
+      // 修改css样式
+      body.style.color = "red";
+      body.style.fontSize = "20px";
+    </script>
+  </body>
+</html>
+```
 
-  ***
+---
 
-- 删除节点
+## 删除节点
 
-  - 需要先获取父节点,在通过父节点删除目标子节点.
+- 需要先获取父节点,在通过父节点删除目标子节点.
 
-  ```HTML
-  <!DOCTYPE html>
-  <html lang="en">
-    <head>
-      <meta charset="UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Document</title>
-    </head>
-    <body>
-      <div>1</div>
-      <div>2</div>
-      <div>3</div>
-      <!-- 删除这个 -->
-      <div id="here">123</div>
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <!-- 删除这个 -->
+    <div id="here">123</div>
 
-      <script>
-        var self = document.getElementById("here");
-        var father = self.parentElement;
-        father.removeChild(self);
+    <script>
+      var self = document.getElementById("here");
+      var father = self.parentElement;
+      father.removeChild(self);
 
-        // 动态删除,删除后子节点index会自动改变.
-        console.log(father.children[0]); // <div>1</div>
-        father.removeChild(father.children[0]);
-        console.log(father.children[0]); // <div>2</div>
-      </script>
-    </body>
-  </html>
-  ```
+      // 动态删除,删除后子节点index会自动改变.
+      console.log(father.children[0]); // <div>1</div>
+      father.removeChild(father.children[0]);
+      console.log(father.children[0]); // <div>2</div>
+    </script>
+  </body>
+</html>
+```
 
-- 插入节点
+---
+
+## 插入节点
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body id="body">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+
+    <script>
+      // var body = document.getElementById("body");
+      // ByTagName返回的是数组,这句等同于上面
+      var body = document.getElementsByTagName("body")[0];
+
+      //创建一个新的节点
+      var newP = document.createElement("p"); //创建一个p标签
+      newP.id = "newP";
+      newP.innerText = "Hello World";
+      body.appendChild(newP);
+
+      //创建一个script标签
+      var myScript = document.createElement("script");
+      myScript.setAttribute("type", "text/javascript");
+
+      //创建一个style标签
+      var myStyle = document.createElement("style"); //创建了一个空style标签
+      myStyle.setAttribute("type", "text/css");
+      myStyle.innerHTML = "body{background-color:chartreuse;}"; //设置标签内容
+
+      //多种方法注入
+      // body.appendChild(myStyle);
+      // body.style.backgroundColor = "chartreuse";
+      // document.getElementByTagName("body")[0].appendChild(myStyle);
+      document.body.appendChild(myStyle);
+    </script>
+  </body>
+</html>
+```
+
+---
+
+## 排列节点
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body id="body">
+    <div id="div-1">1</div>
+    <div id="div-2">2</div>
+
+    <script>
+      var div1 = document.getElementById("div-1");
+      var div2 = document.getElementById("div-2");
+      document.body.insertBefore(div2, div1);
+      // 这样就把div2插到div1前面了.
+    </script>
+  </body>
+</html>
+```
+
+- 除此之外还有.replace 等等,不再赘述,用时看文档就行.
+
+---
+
+# 操作表单
+
+- 表单主要用来提交信息
+  - 文本框----text
+  - 下拉框----select
+  - 单选框----radio
+  - 多选框----checkbox
+  - 隐藏域----hidden
+  - 密码框----password
+
+---
+
+## 获得表单信息
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="post">
+      <p><span>用户名：</span><input type="text" id="username" /></p>
+      <!--多选框的值就是定义好的value-->
+      <p>
+        <span>性别：</span>
+        <input type="radio" name="sex" value="man" id="boy" />男
+        <input type="radio" name="sex" value="woman" id="girl" />女
+      </p>
+    </form>
+
+    <script>
+      var input_text = document.getElementById("username");
+      var boy_radio = document.getElementById("boy");
+      var girl_radio = document.getElementById("girl");
+
+      //获取输入框的值
+      input_text.value;
+      //修改输入框的值
+      input_text.value = "Weidows";
+
+      //对于单选框，多选框等等固定的值，boy_radio.value只能取到当前的值man/woman
+      boy_radio.checked; //查看返回的结果，是否为true，如果为true，则被选中。
+      girl_radio.checked = true; //赋值
+    </script>
+  </body>
+</html>
+```
+
+- 效果
+
+  <img src="https://i.loli.net/2021/01/24/q1wYRTn6A79a4OV.png" alt="20210124093813" />
+
+---
+
+## 提交表单
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+    <!--MD5加密工具类-->
+    <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+  </head>
+  <body>
+    <!--
+      表单绑定提交事件
+      οnsubmit= 绑定一个提交检测的函数:true，false
+      将这个结果返回给表单，使用onsubmit接收
+    -->
+    <form action="" method="post" onsubmit="return aaa()">
+      <!--
+        表单提交抓取的是带有name属性的input标签的value,不带的不会抓
+      -->
+      <p>
+        <span>用户名：</span>
+        <input type="text" id="username" name="username" required />
+      </p>
+      <p><span>密码：</span> <input type="password" id="password" /></p>
+      <input type="hidden" id="md5-password" name="password" />
+
+      <!--
+        <button type="submit">提交</button> 与下面等效
+        绑定事件 onclick 被点击
+        <input type="submit" onclick="aaa()" />
+      -->
+      <input type="submit" />
+    </form>
+
+    <script>
+      function aaa() {
+        var username = document.getElementById("username");
+        var pwd = document.getElementById("password");
+        var md5pwd = document.getElementById("md5-password");
+
+        /**
+         * 这里可以校验判断或处理表单内容，true就是通过提交，false就是阻止提交
+         * 上面username是用required来判空
+         * password是用下面的if判空
+         */
+        if (pwd.value === "") {
+          alert("请填写全.");
+          return false;
+        } else {
+          md5pwd.value = md5(pwd.value); // 加密
+          return true;
+        }
+      }
+    </script>
+  </body>
+</html>
+```
+
+- 效果
+
+  <img src="https://i.loli.net/2021/01/26/UcpDzOe1ZEWKHN6.png" alt="20210126211616" />
+
+  <img src="https://i.loli.net/2021/01/26/YG9AhCemrpuPsxi.png" alt="20210126211801" />

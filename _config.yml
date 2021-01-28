@@ -130,8 +130,6 @@ bangumi:
 
 sitemap:
   path: sitemap.xml
-baidusitemap:
-  path: baidusitemap.xml
 
 steam:
   enable: true
@@ -157,8 +155,7 @@ steam:
 #     title: "⭐电影院⭐"
 #     quote: "它山之石,可以攻玉.嗯,是对的."
 
-# hexo-neat
-# 博文压缩
+# 博文压缩 - hexo-neat
 neat_enable: true
 # 压缩html
 neat_html:
@@ -187,6 +184,13 @@ deploy:
   - type: git
     repo: https://github.com/Weidows/Weidows.github.io.git
     branch: main
+  - type: baidu_url_submitter
+
+baidu_url_submit:
+  count: 1000 ## 提交最新的一个链接
+  host: weidows.github.io ## 在百度站长平台中注册的域名
+  token: tXk4TVcpo7pxHIuK ## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
+  path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/

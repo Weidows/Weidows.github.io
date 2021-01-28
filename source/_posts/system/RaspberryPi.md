@@ -12,16 +12,16 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:55:48
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\RaspberryPi.md
+ * @LastEditTime: 2021-01-28 01:40:06
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
 
 - [无屏幕(线)解决方案](#无屏幕线解决方案)
 - [SSH 连接](#ssh-连接)
+- [设置密码](#设置密码)
 - [树莓派系统设置](#树莓派系统设置)
 - [VNC 连接](#vnc-连接)
-- [VScode 连接](#vscode-连接)
 - [Screenfetch](#screenfetch)
 
 # 无屏幕(线)解决方案
@@ -65,24 +65,37 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
 - 然后就可以用 ssh 连接这个 IP 地址了.
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # SSH 连接
 
-- 用 ssh 软件连接,我用的是 `FinalShell`
-  - 默认账号是 `pi`，密码是 `raspberry`
-    <img src="https://i.loli.net/2020/12/03/9SuJxmTWczQG2oE.png" alt="20201203113101" />
+- 用 ssh 软件连接,我用的是 `FinalShell`与`VScode`
+
+- 连接三要素是`IP地址 + 用户名 + 密码`
+
+- 树莓派系统默认账号是 `pi`，密码是 `raspberry`
+
+> 可参照 [✨SSH 远程连接.](../../experience/SSH#自动挡)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 设置密码
+
 - 连接成功后设置 root 账户密码
+
   ```
   sudo passwd root
   ```
-  - 之后 `su root(切换到root用户)` 就需要密码验证了.
-  - 解锁用户密码设置
+
+- 之后 `su root(切换到root用户)` 就需要密码验证了.
+
+- 解锁用户密码设置
+
   ```
   sudo passwd --unlock root
   ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 树莓派系统设置
 
@@ -91,7 +104,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
   sudo raspi-config
   ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # VNC 连接
 
@@ -102,18 +115,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
   <img src="https://i.loli.net/2020/12/04/DINsq97UmFPJbcZ.png" alt="20201204103843" />
 - OK.
 
----
-
-# VScode 连接
-
-- 安装插件`Remote-SSH`
-  <img src="https://i.loli.net/2020/12/04/25reFfkbShHl9q8.png" alt="20201204202003" />
-- 打开 ssh 配置文件(也可以自定义),修改配置
-  <img src="https://i.loli.net/2020/12/04/vKyw1MIxNG7pelO.png" alt="20201204212009" />
-- 打开输入对应用户的密码就可以登录了.
-  - 但是有个`Bug`,网上尚未有解决方案==>VScode 用 ssh 连接树莓派在很短时间内断连,影响力达到无法使用的程度.
-
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Screenfetch
 

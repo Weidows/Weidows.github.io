@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-23 17:08:58
+ * @LastEditTime: 2021-01-28 02:53:31
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -26,6 +26,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - [Scoop](#scoop)
 - [加速下载](#加速下载)
 - [Scoop 绝活](#scoop-绝活)
+- [Scoop 配置文件](#scoop-配置文件)
 - [好文传送](#好文传送)
 - [安装异常](#安装异常)
 - [备份](#备份)
@@ -36,7 +37,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 此文章要介绍的是`Scoop`- 横向简单对比`Chocolate`和`WinGet`
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 各个优缺点
 
@@ -69,7 +70,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 个人选择了 `Scoop`,下面主要讲 Scoop.
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Scoop
 
@@ -142,7 +143,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
     Type 'scoop help <command>' to get help for a specific command.
     ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 加速下载
 
@@ -156,7 +157,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop config aria2-min-split-size 1M
   ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Scoop 绝活
 
@@ -168,7 +169,13 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
 - 这个功能太赞了!
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# Scoop 配置文件
+
+> 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 好文传送
 
@@ -176,7 +183,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 > [scoop——强大的 Windows 命令行包管理工具](https://www.jianshu.com/p/50993df76b1c)
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 安装异常
 
@@ -226,7 +233,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop config aria2-enabled true
   ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 备份
 
@@ -243,6 +250,8 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop install aria2
   scoop install git
   scoop install idea-ultimate
+  scoop install maven
+  scoop install mobaxterm
   scoop install nodejs
   scoop install openjdk11
   scoop install processing
@@ -250,4 +259,5 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop install python
   scoop install rainmeter
   scoop install vncviewer
+  scoop install yarn
   ```
