@@ -1,10 +1,11 @@
 ---
 title: PS中一些小用法
 categories:
-  - Adobe
+  - design
 tags:
   - PS
   - 备忘录
+  - 设计
 cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
 # top_img:
 ---
@@ -13,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:20:46
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Adobe\PS.md
+ * @LastEditTime: 2021-01-30 18:40:16
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
 

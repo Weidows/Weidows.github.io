@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 02:53:31
+ * @LastEditTime: 2021-01-30 15:26:55
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -152,8 +152,8 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 配置
 
   ```shell
+  scoop config aria2-split 32
   scoop config aria2-max-connection-per-server 16
-  scoop config aria2-split 16
   scoop config aria2-min-split-size 1M
   ```
 
@@ -249,9 +249,11 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   ```shell
   scoop install aria2
   scoop install git
+  scoop install googlechrome
   scoop install idea-ultimate
   scoop install maven
   scoop install mobaxterm
+  scoop install neofetch
   scoop install nodejs
   scoop install openjdk11
   scoop install processing

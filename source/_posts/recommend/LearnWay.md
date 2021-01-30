@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-27 19:40:37
+ * @LastEditTime: 2021-01-30 18:43:59
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -45,7 +45,6 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
 - [设计](#设计)
-  - [UI 设计](#ui-设计)
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -237,12 +236,6 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 # 设计
 
-## UI 设计
+- 跳到新文章吧,写在这太长.
 
-> [微信公众号推送封面如何设计制作？](https://www.zhihu.com/question/313933884)
-
-- 从文章头图无从下手切入的,以往就是百度谷歌搜关键词,找一个好看的图,但是耦合性太差,想找个流水线式解决方案.
-
-- 起初是因为看到 `@小康博客` 的文章头图,感觉很好看,于是去找的方案.
-
-  <img src="https://i.loli.net/2021/01/27/FDGZKReixJE6aIt.png" alt="20210127191714" />
+> [🙌UI 平面设计.](../../design/UI-design)
