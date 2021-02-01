@@ -16,7 +16,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 02:34:51
+ * @LastEditTime: 2021-01-31 14:53:20
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node.js\node.md
  * @Description:
 -->
@@ -30,13 +30,15 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
   - [`-save`](#-save)
 - [local 全局依赖](#local-全局依赖)
 
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
 # 环境配置
 
 - 之前一直在乐此不疲的修改 npm 和 yarn 的 global 路径,因为每次 Node.js 更新会导致目录索引失效...
 
 - 后来发现,Scoop 完美解决了这个问题!
 
-- 它使用`persist`来挂载数据,不影响程序本身,即使更新也不会影响.
+- 它使用`Scoop/persist`这个文件夹来挂载数据,不影响程序本身,即使更新也不会影响.
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -95,11 +97,11 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 
 - npm check && upgrade(node 插件)
 
-  ```
+  ```shell
   npm install -g npm-check
   ```
 
-  ```
+  ```shell
   npm install -g npm-upgrade
   ```
 
@@ -109,7 +111,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 
   - 会清空 node_cache
 
-  ```
+  ```shell
   npm cache clean --force
   ```
 
@@ -143,8 +145,10 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 - npm
 
 ```shell
-暂无
+npm install -g eslint
 ```
+
+---
 
 - yarn
 
@@ -152,3 +156,15 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 yarn global add hexo-cli
 yarn global add vsce
 ```
+
+---
+
+- 路径
+
+  - 用 Scoop 安装的,其数据挂载`摆脱了C盘!`
+
+  - npm 与 yarn 管理方式并不全然一样
+
+  - npm: `Scoop\persist\nodejs\bin`
+
+  - yarn: `D:\Game\Scoop\persist\yarn\global`

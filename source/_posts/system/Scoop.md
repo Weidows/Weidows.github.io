@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 15:26:55
+ * @LastEditTime: 2021-02-01 14:53:08
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -248,8 +248,8 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
   ```shell
   scoop install aria2
+  scoop install docker
   scoop install git
-  scoop install googlechrome
   scoop install idea-ultimate
   scoop install maven
   scoop install mobaxterm
