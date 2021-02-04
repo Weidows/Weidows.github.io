@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
  * @Author: Weidows
  * @Date: 2021-02-01 13:54:10
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-01 17:52:09
+ * @LastEditTime: 2021-02-04 14:51:44
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\wsl2.md
  * @Description:
  * @!: *********************************************************************
@@ -23,15 +23,24 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - [小吐槽](#小吐槽)
 - [指南](#指南)
+  - [官方的](#官方的)
+  - [名词解释](#名词解释)
 - [安装步骤](#安装步骤)
   - [系统](#系统)
   - [功能](#功能)
-  - [配置 wsl2](#配置-wsl2)
+  - [配置](#配置)
 - [安装完成](#安装完成)
 - [VScode+wsl](#vscodewsl)
   - [Terminal](#terminal)
   - [Remote 开发](#remote-开发)
 - [地址映射](#地址映射)
+- [IDEA+wsl](#ideawsl)
+  - [terminal](#terminal-1)
+- [后记](#后记)
+- [wsl 软件安装](#wsl-软件安装)
+  - [apt?](#apt)
+  - [dpkg](#dpkg)
+- [痛点解决](#痛点解决)
 
 # 小吐槽
 
@@ -49,9 +58,38 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 # 指南
 
+## 官方的
+
 - 这个微软是官方的,讲的很详细.
 
   > [适用于 Linux 的 Windows 子系统安装指南 (Windows 10)](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#update-to-wsl-2)
+
+---
+
+## 名词解释
+
+- 下面牵扯到很多名词,乍一看会`蒙圈`.
+
+- 放一个关系网络
+
+  ```
+  - hyper-v
+    |- Windows
+    |- wsl2
+      |- wsl-linux
+      |- Docker
+        |- Nginx
+        |- Node.js
+        |- 各种系统和服务
+  ```
+
+- `hyper-v`是微软家的虚拟机平台,定位于`VMware`相同,虽然它看起来是 Windows 内部的软件,但是开启 hyper-v 后 Windows 本身也会成为其内部的虚拟机.
+
+- wsl 是基于 hyper-v 实现的虚拟化技术,全称`Windows Subsystem for Linux`,所以这里面装的系统肯定是各种 linux,`2`只是版本号,一般 wsl2 简称 wsl
+
+  - `wsl-linux`就是指在 Store 里面像是 Ubuntu,Debian 等等的 linux 系统
+
+> Docker 的话详见 [🌈 初探 Docker.](../docker)
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -75,13 +113,15 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   ***
 
-- 如图勾选的这几个
+- 如图勾选的这几个`必须开启`,其他的您看着来~
+
+  - 后记: 我发现安装 docker 并不需要开启 `虚拟机平台`,而且开启后会与`Clash core`冲突.
 
   <img src="https://i.loli.net/2021/02/01/A2jzxWdCoIRfJ8h.png" alt="20210201160810" />
 
 ---
 
-## 配置 wsl2
+## 配置
 
 - 下载并安装
 
@@ -97,7 +137,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   - 没出问题的话会提示 `有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2`
 
-- 最后,打开`Microsoft Store`,安装想安装的 Linux 系统
+- `最后`,打开`Microsoft Store`,安装想安装的 Linux 系统
 
   - Ubuntu 16.04 LTS
 
@@ -193,3 +233,79 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
   - 这几个映射文件夹在 Windows 文件管理器无法打开,但是在终端里可以进入
 
   <img src="https://i.loli.net/2021/02/01/tQcB8vpzZIKoEeH.png" alt="20210201174957" />
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# IDEA+wsl
+
+## terminal
+
+- 设置里打开 `File -> Settings -> Tools -> Terminal`
+
+- shell path 填上
+
+  ```
+  "cmd.exe" /k "wsl.exe"
+  ```
+
+- 如图
+
+  <img src="https://i.loli.net/2021/02/01/RxpgAbjuDSGivym.png" alt="20210201221447" />
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 后记
+
+- 本来开始想的是开发环境转到 wsl 内部
+
+- 折腾了大半天发现 wsl 生态并不很讨喜,只有部分特性值得使用
+
+  - 比如跑 `Docker`,`zsh` 终端,`SQL` 服务等等...
+
+  - 尝试了一下,直白点说,`用它做开发不行!`
+
+  - 但是拿它来`替代虚拟机`倒是还可以,它的 CPU 闲时占用很低(不到 1%),内存占用半个 G,还好~
+
+  ***
+
+- 为啥呢? 说一下我遇到的痛点:
+
+  - 首先,`生态问题`,下图是我的开发环境,想要移植到 Linux 难度很大,肯定要放弃一些,,所以我放弃移植了...
+
+    <img src="https://i.loli.net/2021/02/01/xMkL83vV9iIKB6u.png" alt="20210201215547" />
+
+  - 其次,有些小问题需要解决,比如路径问题`"/"与"\"`不一样,还有换行符问题,会导致 git 认为你的项目`全绿(就是所有文件的所有行都有修改)`,令人窒息...
+
+  - 再次,`性能问题`,这个虚拟化毕竟是虚拟,上手试了一下会有迟钝(CPU 和网络问题都有)
+
+  - 其实我认为最难受的是`IDE适配`,我用的`IntelliJ IDEA`和`VScode`,它们需要`Git,Node.js,openjdk,maven,python`等等,这些并不能通过 wsl 直通,除非直接用 linux 系统把这些全装进 linux 里面.
+
+---
+
+- 不过倒也没有白安装,一些东西还是需要 wsl 的
+
+  - 比如`bash`,`zsh`,`docker`等等...
+
+  - 害,算了,`VMware`真香!
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# wsl 软件安装
+
+## apt?
+
+> [Linux 中 apt 与 apt-get 命令的区别与解释](https://www.sysgeek.cn/apt-vs-apt-get/)
+
+> 简单来说就是：apt = apt-get、apt-cache 和 apt-config 中最常用命令选项的集合。
+
+---
+
+## dpkg
+
+> [怎么理解 ubuntu 中的软件包管理器 apt 和 dpkg](https://blog.csdn.net/LEON1741/article/details/85127000)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 痛点解决
+
+> [本篇文章会介绍 win10 中 wsl2 的安装和使用以及遇到的常见问题比如如何固定 wsl2 地址等问题的总结。](https://www.cnblogs.com/kuangdaoyizhimei/p/14175143.html#_label2_0)

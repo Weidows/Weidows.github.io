@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
  * @Author: Weidows
  * @Date: 2020-12-07 00:12:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 01:38:46
+ * @LastEditTime: 2021-02-03 02:07:01
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\SSH.md
  * @Description:
 -->
@@ -26,6 +26,10 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
   - [FinalShell](#finalshell)
   - [VScode 连接](#vscode-连接)
 - [存在の问题](#存在の问题)
+  - [root-denied](#root-denied)
+  - [VScode-ssh 断开连接](#vscode-ssh-断开连接)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 手动挡
 
@@ -131,6 +135,32 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
 # 存在の问题
 
+## root-denied
+
 - 某些系统对 ssh 不开放 root,比如`Deepin`,网上有开放方法
 
 > [深度（deepin）系统不能 ssh root 用户登录](https://blog.csdn.net/weixin_42408060/article/details/102952986)
+
+---
+
+## VScode-ssh 断开连接
+
+- 按照上面配合后使用完全没有问题,但是 ssh 连接后一段时间你没有跟远程机传输数据的话,连接就会断开
+
+- 网上搜了一大顿,有些解决办法,比如`修改ssh_config`,`卸载Chinese插件`,`TCP保活`,`定时唤醒`等等...
+
+---
+
+- 我去设置里找了一下,修改`remote.SSH.connectTimeout`这个设置就可以避免与远程机断连
+
+  - 不知道是个 Bug 还是啥,这个值就像是断连的 `阈(yu四声)值`
+
+  - 我试了下,有效果,我设成`65535`了,按理说是 18 个小时,够够的了~
+
+  - 如果你遇到了这个问题,试一下吧,有一点可能有效.
+
+---
+
+- 其实本质上这是系统的问题,并不是 VScode 哪里设置有问题.
+
+- 同样使用 VScode,我连接`树莓派`和`Ubuntu-Server`都有此问题,但是连接`CentOS`和`Deepin`都没有问题,可想而知 -> 换服务器系统吧~

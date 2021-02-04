@@ -18,7 +18,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 03:12:49
+ * @LastEditTime: 2021-02-02 16:59:52
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
@@ -31,9 +31,10 @@ top_img:
 - [JDK](#jdk)
 - [Maven](#maven)
 - [Git](#git)
-- [ssh](#ssh)
 - [Python](#python)
 - [Node.js](#nodejs)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 环境变量含义:
 
@@ -64,13 +65,13 @@ top_img:
 - 这个是引用关系,比如 Path 里面的`%JAVA_HOME%`会引用名为`JAVA_HOME`的环境变量值
 - Path 里面从上到下为优先级,上面的优先级高.
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Scoop
 
 > 详见[🙌Windows 平台软件包管理器选择-Scoop](../Scoop.md)
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # JDK
 
@@ -84,7 +85,7 @@ top_img:
 
   - `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Maven
 
@@ -104,28 +105,13 @@ top_img:
     "java.configuration.maven.globalSettings": "D:/Game/Scoop/persist/maven/conf/settings.xml",
   ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Git
 
 > 用 Scoop 安装自带环境变量,不用配置.
 
----
-
-# ssh
-
-- Path 中+
-
-  ```
-  D:\Game\Scoop\apps\git\current\usr\bin
-  ```
-
-- 白嫖 git 的 ssh 环境,注意要写在 Windows 默认的`C:\Windows\System32\OpenSSH\`上面(优先级问题).
-  <img src="https://i.loli.net/2020/12/04/LJnhekugtUyHOaC.png" alt="20201204110727" />
-- 为什么要白嫖 git 的?
-  - window 10 自带的是 7.7 版本的,git 带的是 OpenSSH_8.4 版本的,为什么不用呢?
-
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Python
 
@@ -137,7 +123,7 @@ top_img:
   D:\Game\Scoop\apps\python\Scripts\
   ```
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # Node.js
 

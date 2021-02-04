@@ -11,8 +11,8 @@ cover: https://i.loli.net/2020/11/30/c4RC1zhqgl39Dp8.jpg
  * @Author: Weidows
  * @Date: 2020-08-23 20:49:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:53:09
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\about_system.md
+ * @LastEditTime: 2021-02-03 14:20:41
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\about_system.md
 -->
 
 - [前言](#前言)
@@ -40,9 +40,9 @@ cover: https://i.loli.net/2020/11/30/c4RC1zhqgl39Dp8.jpg
 - 硬件设备:
   - 电脑,一个 U 盘(8G 完全够用,也可以用读卡器+SD 卡替代)
 - 软件:
-  - 1. rufus(制作启动盘用,这个 win 和 linux 都支持)
-  - 2. 分区助手或 diskgenius(分盘符用)
-  - 3. 自己准备安装的系统的镜像文件(ISO 格式,其他格式的需要特定的安装器安装,自行百度,在此不一一赘述)
+  1. rufus(制作启动盘用,这个 win 和 linux 都支持)
+  2. 分区助手或 diskgenius(分盘符用)
+  3. 自己准备安装的系统的镜像文件(ISO 格式,其他格式的需要特定的安装器安装,自行百度,在此不一一赘述)
 
 ---
 

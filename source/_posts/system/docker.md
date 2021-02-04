@@ -13,7 +13,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-01 00:37:55
+ * @LastEditTime: 2021-02-04 15:20:12
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -24,6 +24,10 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   - [docker-compose](#docker-compose)
   - [docker-machine](#docker-machine)
 - [安装启动](#安装启动)
+  - [Ubuntu-Server](#ubuntu-server)
+  - [Windows](#windows)
+- [解决权限问题](#解决权限问题)
+- [启动服务](#启动服务)
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -71,6 +75,152 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 # 安装启动
 
-- 需要注意电脑需要开启`虚拟化技术`,而且 Windows 需要开启`hyper-v`
+## Ubuntu-Server
 
-- 去官网上找 `Docker Desktop for Windows`,下载安装,或者在 Scoop 上安装`docker`
+- `Ubuntu-Server`装系统时就带有`Docker`安装选项,直接安装即可,但是会遇到下面[权限问题及解决办法](#解决权限问题)
+
+- <details>
+    <summary>安装后开机检测</summary>
+
+  ```
+  weidows@ubuntu-server:~$ docker
+
+  Usage: docker [OPTIONS] COMMAND
+
+  A self-sufficient runtime for containers
+
+  Options:
+  --config string Location of client config files (default "/home/weidows/snap/docker/471/.docker")
+  -c, --context string Name of the context to use to connect to the daemon (overrides DOCKER_HOST env var and default context set with "docker context use")
+  -D, --debug Enable debug mode
+  -H, --host list Daemon socket(s) to connect to
+  -l, --log-level string Set the logging level ("debug"|"info"|"warn"|"error"|"fatal") (default "info")
+  --tls Use TLS; implied by --tlsverify
+  --tlscacert string Trust certs signed only by this CA (default "/home/weidows/snap/docker/471/.docker/ca.pem")
+  --tlscert string Path to TLS certificate file (default "/home/weidows/snap/docker/471/.docker/cert.pem")
+  --tlskey string Path to TLS key file (default "/home/weidows/snap/docker/471/.docker/key.pem")
+  --tlsverify Use TLS and verify the remote
+  -v, --version Print version information and quit
+
+  Management Commands:
+  builder Manage builds
+  config Manage Docker configs
+  container Manage containers
+  context Manage contexts
+  engine Manage the docker engine
+  image Manage images
+  network Manage networks
+  node Manage Swarm nodes
+  plugin Manage plugins
+  secret Manage Docker secrets
+  service Manage services
+  stack Manage Docker stacks
+  swarm Manage Swarm
+  system Manage Docker
+  trust Manage trust on Docker images
+  volume Manage volumes
+
+  Commands:
+  attach Attach local standard input, output, and error streams to a running container
+  build Build an image from a Dockerfile
+  commit Create a new image from a container's changes
+  cp Copy files/folders between a container and the local filesystem
+  create Create a new container
+  deploy Deploy a new stack or update an existing stack
+  diff Inspect changes to files or directories on a container's filesystem
+  events Get real time events from the server
+  exec Run a command in a running container
+  export Export a container's filesystem as a tar archive
+  history Show the history of an image
+  images List images
+  import Import the contents from a tarball to create a filesystem image
+  info Display system-wide information
+  inspect Return low-level information on Docker objects
+  kill Kill one or more running containers
+  load Load an image from a tar archive or STDIN
+  login Log in to a Docker registry
+  logout Log out from a Docker registry
+  logs Fetch the logs of a container
+  pause Pause all processes within one or more containers
+  port List port mappings or a specific mapping for the container
+  ps List containers
+  pull Pull an image or a repository from a registry
+  push Push an image or a repository to a registry
+  rename Rename a container
+  restart Restart one or more containers
+  rm Remove one or more containers
+  rmi Remove one or more images
+  run Run a command in a new container
+  save Save one or more images to a tar archive (streamed to STDOUT by default)
+  search Search the Docker Hub for images
+  start Start one or more stopped containers
+  stats Display a live stream of container(s) resource usage statistics
+  stop Stop one or more running containers
+  tag Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top Display the running processes of a container
+  unpause Unpause all processes within one or more containers
+  update Update configuration of one or more containers
+  version Show the Docker version information
+  wait Block until one or more containers stop, then print their exit codes
+
+  Run 'docker COMMAND --help' for more information on a command.
+  weidows@ubuntu-server:~$
+
+  ```
+
+  </details>
+
+---
+
+## Windows
+
+- 在 `Windows` 上安装就比较复杂了,牵扯到很多东西.
+
+- Docker 基于 Linux 系统实现,所以无法直接安装在 Windows 上,需要虚拟化支持.
+
+  - 这就需要借助`wsl`或者`Virtual box`了(建议用 wsl)
+
+  > 详见 [🎇 尝试转投 wsl 生态.#名词解释](../wsl2#名词解释)
+
+- 安装 docker 前,需要装好 wsl,下面文章到`最后`安装系统之前,都需要过一遍才能装好 wsl2
+
+  > [🎇 尝试转投 wsl 生态.#配置](../wsl2#配置)
+
+- 装好 wsl 后去 docker 官网下载 `Docker desktop for window`,安装.
+
+- 装好 docker 之后 `重启` 才能正常使用!
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 解决权限问题
+
+> [解决 Ubuntu18.04 启动 Docker“Got permission denied while trying to connect to the Docker daemon socket“问题](https://blog.csdn.net/liangllhahaha/article/details/92077065)
+
+- 我安装的`Ubuntu-Server`没有`root`用户,会导致 docker 启动异常.
+
+- 用`docker version`检查
+
+  - 最后一行会报错这样
+
+  ```
+  Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.26/images/json: dial unix /var/run/docker.sock: connect: permission denied
+  ```
+
+---
+
+- 解决方案
+
+  ```
+  sudo groupadd docker          #添加docker用户组
+  sudo gpasswd -a $USER docker  #将当前用户添加至docker用户组
+  newgrp docker                 #更新docker用户组
+  ```
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 启动服务
+
+> [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+->

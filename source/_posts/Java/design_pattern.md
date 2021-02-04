@@ -12,8 +12,8 @@ cover: https://i.loli.net/2020/11/30/M2NCl539nTvz6Vj.jpg
  * @Author: Weidows
  * @Date: 2020-09-09 22:53:55
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:09
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\design_pattern.md
+ * @LastEditTime: 2021-02-03 14:24:34
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\design_pattern.md
 -->
 
 - [单例设计模式](#单例设计模式)
@@ -23,10 +23,15 @@ cover: https://i.loli.net/2020/11/30/M2NCl539nTvz6Vj.jpg
 - 设计目的:
   - 当多个程序读取同一个文件的数据时,可以把配置文件封装为对象,为了使得所有程序获取的是同一个对象的数据,那么就需要保证该对象在内存中是唯一的
 - 设计方法:
-  - 1. 不开放其他程序实例化此对象的权限
-  - 2. 在本类中实例化私有对象
-  - 3. public 方法来使其他程序获取此对象数据
-  - 4. 因为 new 对象需要构造器初始化,所以令构造器 private,其他程序就无法 new 对象了
+
+  1. 不开放其他程序实例化此对象的权限
+
+  2. 在本类中实例化私有对象
+
+  3. public 方法来使其他程序获取此对象数据
+
+  4. 因为 new 对象需要构造器初始化,所以令构造器 private,其他程序就无法 new 对象了
+
 - 代码实现:
 
 ```

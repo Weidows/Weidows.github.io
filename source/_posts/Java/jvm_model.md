@@ -12,8 +12,8 @@ cover: https://i.loli.net/2020/11/30/GQMENFX1sR4ubZY.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:25
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\jvm_model.md
+ * @LastEditTime: 2021-02-03 14:21:58
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\jvm_model.md
 -->
 
 - [JVM 内存模型](#jvm-内存模型)
@@ -57,17 +57,28 @@ Person p = new Person();
 ## 在 Student stu = new Student(); 过程中,子类对象的实例化过程:
 
 - `方法区`:
-  - 1.先加载 Person.class,然后是 Student.class (先父类后子类)
+
+  1. 先加载 Person.class,然后是 Student.class (先父类后子类)
+
 - `堆内存`:
-  - 3.开辟对象空间,分配地址
-  - 4.在对象空间对对象的属性(包括父类的属性)进行默认初始化
-  - 6.显示初始化父类属性
-  - 8.显示初始化子类属性
+
+  3. 开辟对象空间,分配地址
+
+  4. 在对象空间对对象的属性(包括父类的属性)进行默认初始化
+
+  5. 显示初始化父类属性
+
+  6. 显示初始化子类属性
+
 - `栈内存`:
-  - 2.申请空间,声明变量 stu
-  - 5.子类构造函数方法进栈
-  - 7.父类构造方法进栈,执行后出栈
-  - 9.初始化完毕后,将堆内存中的地址赋给引用变量,子类构造方法出栈
+
+  2. 申请空间,声明变量 stu
+
+  3. 子类构造函数方法进栈
+
+  4. 父类构造方法进栈,执行后出栈
+
+  5. 初始化完毕后,将堆内存中的地址赋给引用变量,子类构造方法出栈
 
 ## Java 引用变量有两个类型:`编译时类型` && `运行时类型`
 

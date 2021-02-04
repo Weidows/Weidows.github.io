@@ -14,7 +14,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
  * @Author: Weidows
  * @Date: 2021-01-29 12:59:50
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 10:26:31
+ * @LastEditTime: 2021-02-03 14:19:45
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\Aria2.md
  * @Description:
  * @!: *********************************************************************
@@ -48,13 +48,13 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 # 需求
 
-- 1. 个人需要一个`多线程`下载器,其实也不用强调,因为目前大多数下载器都是多线程的
+1. 个人需要一个`多线程`下载器,其实也不用强调,因为目前大多数下载器都是多线程的
 
-- 2. 可以替换掉浏览器默认下载(浏览器默认下载太反人类了)
+2. 可以替换掉浏览器默认下载(浏览器默认下载太反人类了)
 
-- 3. 个人比较看重的一点,我有时会需要`批量下载`B 站上的分 P 视频(防止视频下架)
+3. 个人比较看重的一点,我有时会需要`批量下载`B 站上的分 P 视频(防止视频下架)
 
-  - 我用的脚本只能导出如下几个下载方式
+- 我用的脚本只能导出如下几个下载方式
 
   <img src="https://i.loli.net/2021/01/29/xi3DPVzARd8nWYt.png" alt="20210129155515" />
 

@@ -7,8 +7,8 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-30 22:03:11
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\tags\about.md
+ * @LastEditTime: 2021-02-02 18:55:06
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 <h1 align="center">
 
@@ -38,17 +38,13 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 `CSDN`:{% btn 'https://me.csdn.net/qq_39823295',@Weidows㊣,far fa-hand-point-right,outline green larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/CSDN.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline green larger %}
 
-`力扣`: {% btn 'https://leetcode-cn.com/u/weidows/',@Weidows,far fa-hand-point-right,outline blue larger %}
+{% hideToggle 其他 %}
 
-`掘金`: {% btn 'https://juejin.im/user/2858385965329790',@Weidows,far fa-hand-point-right,outline pink larger %}
+  `力扣`: {% btn 'https://leetcode-cn.com/u/weidows/',@Weidows,far fa-hand-point-right,outline blue larger %}
 
-{% hideToggle 二维码 %}
-{% gallery %}
-![QQ](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg)
-![BiliBili](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/Bilibili.jpeg)
-![微信](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg)
-![CSDN](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/CSDN.jpeg)
-{% endgallery %}
+  `掘金`: {% btn 'https://juejin.im/user/2858385965329790',@Weidows,far fa-hand-point-right,outline pink larger %}
+
+  `二维码集合`: {% btn '../../gallery_data/Private/QRcode',QRcode,far fa-hand-point-right,outline pink larger %}
 {% endhideToggle %}
 
 ---
@@ -57,11 +53,32 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 # _Brief Intro_
 
+- **define**
+
+  - 花名: `夜之-齐下无贰`
+  - 鸟名: `Weidows-utsuko27`
+  - <details>
+      <summary>Why about these name ?</summary>
+
+      暗黑主义者,喜欢黑,喜欢夜,喜欢可能性的集合 ~ 夜之
+
+      热爱运动,六块腹肌,肚脐下的两块没有 ~ 齐下无贰
+
+      伟->Wei + Windows = Weidows (高中舍友给起的昵称,我挺喜欢的,一直在沿用)
+
+      utsuko -> 真正意义上瞎起的,感觉好听,翻译过来是->凌子
+
+      27 -> 0~99中我最喜欢的数,也是我的伪生日.
+
+    </details>
+
+  ***
+
 - **Buff 状态:**
 
   - _普通一本-计算机科学与技术-大二_
   - _暂且定于河北-沧州_
-  - _男-00 后_
+  - _男-00 当头_
   - _非对称式美感喜好与践行者_
 
 ---

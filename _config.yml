@@ -2,14 +2,14 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
-title: ⭐️Weidows の Nest⭐️
-subtitle: ""
+# Site 不用加引号
+title: ⭐️齐下无贰⭐️
+subtitle: Weidows の Nest
 description: ただWeidow's Websiteだけ
-keywords: Weidows Website
+keywords: Weidows Website blog
 author: Weidows
 language: zh-CN
-timezone: ""
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

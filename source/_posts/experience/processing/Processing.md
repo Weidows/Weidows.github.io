@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-23 16:01:49
+ * @LastEditTime: 2021-02-03 14:20:18
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\processing\Processing.md
 -->
 
@@ -27,13 +27,13 @@ cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
 
 # 环境需求
 
-- 1. 需要在电脑里下载好 Processing 主程序.
+1. 需要在电脑里下载好 Processing 主程序.
 
-  - 这个 processing 主程序可以由 Scoop 安装(免去配置环境变量).
+- 这个 processing 主程序可以由 Scoop 安装(免去配置环境变量).
 
-  - 不然需要在 Path 里添加上主程序目录,如 `D:\\Game\\Scoop\\apps\\processing\\current\\processing-java`
+- 不然需要在 Path 里添加上主程序目录,如 `D:\\Game\\Scoop\\apps\\processing\\current\\processing-java`
 
-- 2. 在 VScode 里安装`Processing Language`插件,它支持语法高亮和代码补全
+2. 在 VScode 里安装`Processing Language`插件,它支持语法高亮和代码补全
 
 - 现在基本的编写环境已经配置好了,下面是编译环境.
 

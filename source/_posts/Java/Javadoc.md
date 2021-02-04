@@ -12,8 +12,8 @@ cover: https://i.loli.net/2020/11/30/iHZCgtN4OpsuDj5.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:16
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\Javadoc.md
+ * @LastEditTime: 2021-02-03 14:24:17
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\Javadoc.md
 -->
 
 - [文档注释方法](#文档注释方法)
@@ -64,10 +64,13 @@ javadoc -encoding UTF-8 -charset UTF-8 Path/文件名
 
 # Java 命名规范
 
-- 1.见名知意
-  - 1.1 不要用中文/拼音命名
-  - 1.2 即使命名不规范也可能不会出 bug,但是问题很大!
-- 2.驼峰命名(变量,方法)
-- 3.类,首字母大写,驼峰命名
-- 4.包,全小写命名+下划线
-- 5.常量/枚举,全大写命名+下划线
+1. 见名知意
+
+   1. 不要用中文/拼音命名
+
+   2. 即使命名不规范也可能不会出 bug,但是问题很大!
+
+2. 驼峰命名(变量,方法)
+3. 类,首字母大写,驼峰命名
+4. 包,全小写命名+下划线
+5. 常量/枚举,全大写命名+下划线

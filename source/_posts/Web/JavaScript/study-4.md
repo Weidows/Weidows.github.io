@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/26/qg3OyNzScKB5aHh.png
  * @Author: Weidows
  * @Date: 2021-01-26 21:19:27
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 18:05:48
+ * @LastEditTime: 2021-02-03 14:20:03
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-4.md
  * @Description:
  * @!: *********************************************************************
@@ -195,6 +195,6 @@ $(".class1").click;
 
 # 巩固
 
-- 1. 找一些美化比较好的网站,扒下来 HTML
+1. 找一些美化比较好的网站,扒下来 HTML
 
-- 2. `源码之家` 找一些小游戏,瞅瞅源码.
+2. `源码之家` 找一些小游戏,瞅瞅源码.
