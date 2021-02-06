@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
  * @Author: Weidows
  * @Date: 2020-12-07 00:12:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 02:07:01
+ * @LastEditTime: 2021-02-06 15:39:38
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\SSH.md
  * @Description:
 -->
@@ -27,7 +27,8 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
   - [VScode 连接](#vscode-连接)
 - [存在の问题](#存在の问题)
   - [root-denied](#root-denied)
-  - [VScode-ssh 断开连接](#vscode-ssh-断开连接)
+  - [VScode-ssh-断开连接](#vscode-ssh-断开连接)
+- [TCP 保活](#tcp-保活)
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -129,8 +130,6 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
 - 打开输入对应用户的密码就可以登录了.
 
-  - 如果有个`Bug`,网上尚未有解决方案==>VScode 用 ssh 连接树莓派在很短时间内断连,影响力达到无法使用的程度.那么就按照我上面重来一遍.
-
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 存在の问题
@@ -143,7 +142,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
 ---
 
-## VScode-ssh 断开连接
+## VScode-ssh-断开连接
 
 - 按照上面配合后使用完全没有问题,但是 ssh 连接后一段时间你没有跟远程机传输数据的话,连接就会断开
 
@@ -151,16 +150,24 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
 ---
 
-- 我去设置里找了一下,修改`remote.SSH.connectTimeout`这个设置就可以避免与远程机断连
+- 最终,我用二分法查出了问题所在:
 
-  - 不知道是个 Bug 还是啥,这个值就像是断连的 `阈(yu四声)值`
+  <img src="https://i.loli.net/2021/02/06/2GXOS5mW8EzIT7Y.png" alt="20210206124525" />
 
-  - 我试了下,有效果,我设成`65535`了,按理说是 18 个小时,够够的了~
+- 问题出自于一个叫`code time`的插件,它的`issue`里面也提了这个 bug,还没解决.
 
-  - 如果你遇到了这个问题,试一下吧,有一点可能有效.
+  - 可以用`wakatime`替代,这个插件没事.
 
----
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
-- 其实本质上这是系统的问题,并不是 VScode 哪里设置有问题.
+# TCP 保活
 
-- 同样使用 VScode,我连接`树莓派`和`Ubuntu-Server`都有此问题,但是连接`CentOS`和`Deepin`都没有问题,可想而知 -> 换服务器系统吧~
+- 没特殊需求的话不需要配置.
+
+  > [SSH 连接保活](https://blog.fdawei.club/2018/03/04/47759cbac5b96ea23e90e57200b84274/)
+
+- 在`~/.ssh/config`里添加如下:
+
+  ```
+  ClientAliveInterval 10
+  ```

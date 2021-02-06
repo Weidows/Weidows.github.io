@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
  * @Author: Weidows
  * @Date: 2021-02-01 13:54:10
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-04 14:51:44
+ * @LastEditTime: 2021-02-05 23:07:28
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\wsl2.md
  * @Description:
  * @!: *********************************************************************
@@ -74,18 +74,19 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   ```
   - hyper-v
+    |- Docker(hype-v引擎)
     |- Windows
-    |- wsl2
-      |- wsl-linux
-      |- Docker
-        |- Nginx
-        |- Node.js
-        |- 各种系统和服务
+      |- wsl2
+        |- wsl-linux
+        |- Docker(wsl引擎)
+          |- Nginx
+          |- Node.js
+          |- 各种系统和服务
   ```
 
 - `hyper-v`是微软家的虚拟机平台,定位于`VMware`相同,虽然它看起来是 Windows 内部的软件,但是开启 hyper-v 后 Windows 本身也会成为其内部的虚拟机.
 
-- wsl 是基于 hyper-v 实现的虚拟化技术,全称`Windows Subsystem for Linux`,所以这里面装的系统肯定是各种 linux,`2`只是版本号,一般 wsl2 简称 wsl
+- wsl 是基于 Windows 下实现的 Linux 虚拟化技术,全称`Windows Subsystem for Linux`,所以这里面装的系统肯定是各种 linux,`2`只是版本号,一般 wsl2 简称 wsl,两个版本功能上有些差别.
 
   - `wsl-linux`就是指在 Store 里面像是 Ubuntu,Debian 等等的 linux 系统
 
@@ -99,13 +100,11 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 首先 Windows64 位系统版本号必须大于等于 `1903`.
 
-- 系统类型只有专业版(消费者版才能装)
+- 系统类型只有专业版(好像家庭版和企业版不行)
 
 ---
 
 ## 功能
-
-- [x] 文档里没说,需要打开`hyper-v`
 
 - [x] 启用适用于 Linux 的 Windows 子系统
 
@@ -113,9 +112,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   ***
 
-- 如图勾选的这几个`必须开启`,其他的您看着来~
-
-  - 后记: 我发现安装 docker 并不需要开启 `虚拟机平台`,而且开启后会与`Clash core`冲突.
+- 如图上面两个`必须开启`,其他的您看着来~
 
   <img src="https://i.loli.net/2021/02/01/A2jzxWdCoIRfJ8h.png" alt="20210201160810" />
 
@@ -274,9 +271,9 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
     <img src="https://i.loli.net/2021/02/01/xMkL83vV9iIKB6u.png" alt="20210201215547" />
 
-  - 其次,有些小问题需要解决,比如路径问题`"/"与"\"`不一样,还有换行符问题,会导致 git 认为你的项目`全绿(就是所有文件的所有行都有修改)`,令人窒息...
+  - 其次,有些小问题需要解决,比如路径问题`"/"与"\"`不一样,还有换行符问题,会导致 git 认为你的项目全绿`(就是所有文件的所有行都有修改)`,令人窒息...
 
-  - 再次,`性能问题`,这个虚拟化毕竟是虚拟,上手试了一下会有迟钝(CPU 和网络问题都有)
+  - 再次,`性能问题`,这个虚拟化毕竟是虚拟,上手试了一下会有迟钝(CPU 和网络问题都有),另外,开启了虚拟后就连 Windows 多多少少也会损耗一些性能.
 
   - 其实我认为最难受的是`IDE适配`,我用的`IntelliJ IDEA`和`VScode`,它们需要`Git,Node.js,openjdk,maven,python`等等,这些并不能通过 wsl 直通,除非直接用 linux 系统把这些全装进 linux 里面.
 
@@ -287,6 +284,14 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
   - 比如`bash`,`zsh`,`docker`等等...
 
   - 害,算了,`VMware`真香!
+
+---
+
+- 还有一个比较上头的问题:
+
+  - 开启 wsl 后因为虚拟化,window 系统开机后`无法自动连接 WiFi`,可能是个 bug,但是劝退了!
+  - 经测试,开启 hyper-v 也会造成这后果.
+  - 有可能只是我这么一个个例,硬件兼容性问题.
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 

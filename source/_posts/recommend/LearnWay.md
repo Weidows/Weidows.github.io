@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 18:43:59
+ * @LastEditTime: 2021-02-05 21:51:25
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -45,6 +45,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
 - [设计](#设计)
+- [Docker](#docker)
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -239,3 +240,9 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - 跳到新文章吧,写在这太长.
 
 > [🙌UI 平面设计.](../../design/UI-design)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# Docker
+
+> [初探 Docker](https://www.bilibili.com/video/BV1vD4y1X7ce)

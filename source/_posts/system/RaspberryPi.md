@@ -12,7 +12,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 01:40:06
+ * @LastEditTime: 2021-02-06 13:28:51
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
@@ -23,6 +23,8 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 - [树莓派系统设置](#树莓派系统设置)
 - [VNC 连接](#vnc-连接)
 - [Screenfetch](#screenfetch)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 无屏幕(线)解决方案
 
@@ -35,7 +37,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 - 然后在桌面新建文件夹`树莓派`,存放今后需要的数据文件.
 
   - 新建文件命名为`ssh`,注意它没有后缀名和文件数据.
-  - 新建文件命名为`wpa_supplicant.conf`,文件数据如下:
+  - 新建文件命名为 `wpa_supplicant.conf` ,文件数据如下:
 
   ```
   country=GB

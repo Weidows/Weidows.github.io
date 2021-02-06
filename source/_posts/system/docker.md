@@ -13,7 +13,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-04 15:20:12
+ * @LastEditTime: 2021-02-06 16:32:47
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -28,6 +28,11 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   - [Windows](#windows)
 - [解决权限问题](#解决权限问题)
 - [启动服务](#启动服务)
+- [镜像加速](#镜像加速)
+  - [Windows](#windows-1)
+  - [Manjaro](#manjaro)
+- [命令行执行](#命令行执行)
+- [VScode+docker](#vscodedocker)
 
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
@@ -178,9 +183,13 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - Docker 基于 Linux 系统实现,所以无法直接安装在 Windows 上,需要虚拟化支持.
 
-  - 这就需要借助`wsl`或者`Virtual box`了(建议用 wsl)
+  - 这就需要借助`wsl`或者`Virtual box`或者`hyper-v`了(建议用 wsl)
 
   > 详见 [🎇 尝试转投 wsl 生态.#名词解释](../wsl2#名词解释)
+
+  - 这里提一下,如果想用 hyper-v 引擎,只需要勾选`hyper-v`功能就行,wsl 的那两个不用开(当然开了对 docker 也没影响)
+
+---
 
 - 安装 docker 前,需要装好 wsl,下面文章到`最后`安装系统之前,都需要过一遍才能装好 wsl2
 
@@ -222,5 +231,80 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 > [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
 
+- 启动服务
+
+  ```
+  sudo systemctl start docker.service
+  ```
+
+- 开机自动启动 docker 服务
+
+  ```
+  sudo systemctl enable docker.service
+  ```
+
 ![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
-->
+
+# 镜像加速
+
+- 登录阿里云并找到[`容器镜像服务`](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+
+- 阿里会给一个加速地址,把地址复制到 Docker 设置里就可.
+
+## Windows
+
+  <img src="https://i.loli.net/2021/02/05/wG1JgIPTof5yN6b.png" alt="20210205010825" />
+
+---
+
+## Manjaro
+
+- 新建或者修改`/etc/docker/daemon.json`
+
+  ```json
+  {
+    "registry-mirrors": ["https://docker.mirrors.ustc.edu.cn"]
+  }
+  ```
+
+- 然后重启 docker 服务
+
+  ```shell
+  sudo systemctl daemon-reload
+  sudo systemctl restart docker
+  ```
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# 命令行执行
+
+- 有些文档为了观看性写成如下格式,无法直接执行,需要弄成一行.
+
+  - 前
+
+  ```
+  docker run -d \
+    -p 8088:8088 \
+    --name next-terminal \
+    --restart always ghcr.io/dushixiang/next-terminal:latest
+  ```
+
+  - 后
+
+  ```
+  docker run -d -p 8088:8088 --name next-terminal --restart always ghcr.io/dushixiang/next-terminal:latest
+  ```
+
+- 最后重启 docker,用 `docker info` 检查一下就好了
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+
+# VScode+docker
+
+- 在 Manjaro 虚拟机中启动 docker 服务,然后用 vscode-ssh 连接 manjaro
+
+- 安装 docker 插件,就可以享受比较方便的可视化了(个人非常喜欢这种方式)
+
+  <img src="https://i.loli.net/2021/02/06/AF6QcV3elqXPR2t.png" alt="20210206153528" />
+
+- 另外再安装`Resource Monitor`这个插件可以监控远程机资源消耗(如上图最下方)
