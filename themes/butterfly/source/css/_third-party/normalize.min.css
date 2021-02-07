@@ -4,52 +4,8 @@ html {
   -webkit-text-size-adjust: 100%
 }
 
-/* 鼠标图标 */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
-}
-
-/*a标签*/
-
-a:hover {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-}
-
-/*按钮*/
-
-button:hover {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-}
-
-/*i标签*/
-
-i:hover {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-}
-
-/*up酱*/
-
-#upj:hover {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-}
-
-/*页脚a标签*/
-
-#footer-wrap a:hover {
-  text-decoration: none;
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-}
-
-/*分页器*/
-
-#pagination .page-number:hover {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-}
-
-/*头部的导航栏*/
-
-#nav .site-page:hover {
-  cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
+  margin: 0
 }
 
 main {

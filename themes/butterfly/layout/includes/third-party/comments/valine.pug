@@ -29,19 +29,19 @@ script.
       
       if (!{Boolean(option)}) {
         const otherData = !{option}
-        initData = Object.assign({}, initData, otherData)
+        initData = Object.assign(initData, otherData)
       }
       
       const valine = new Valine(initData)
     }
 
     if (typeof Valine === 'function') initValine() 
-    else $.getScript('!{url_for(theme.CDN.valine)}', initValine)
+    else getScript('!{url_for(theme.CDN.valine)}').then(initValine)
   }
 
   if ('!{theme.comments.use[0]}' === 'Valine' || !!{theme.comments.lazyload}) {
-    if (!{theme.comments.lazyload}) btf.loadComment(document.querySelector('#vcomment'),loadValine)
-    else setTimeout(() => loadValine(), 0)
+    if (!{theme.comments.lazyload}) btf.loadComment(document.getElementById('vcomment'),loadValine)
+    else setTimeout(loadValine, 0)
   } else {
     function loadOtherComment () {
       loadValine()

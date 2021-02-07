@@ -1,25 +1,21 @@
 - var htmlClassHideAside = theme.aside.enable && theme.aside.hide ? 'hide-aside' : ''
 - var hideAside = !theme.aside.enable || page.aside === false ? 'hide-aside' : ''
+- var pageType = is_post() ? 'post' : 'page'
 
 doctype html
 html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside)
   head
     include ./head.pug
-    link(rel='stylesheet', href='/css/mine.css')
-    meta(name='baidu-site-verification', content='code-82v5yxnEC4')
-    meta(name='baidu-site-verification', content='code-iDy54Uv2f1')
-    meta(name='google-site-verification', content='63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y')
-    meta(name='google-site-verification', content='TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY')
   body
     if theme.preloader
-      !=partial('includes/loading/loading', {}, {cache:theme.fragment_cache})
+      !=partial('includes/loading/loading', {}, {cache: true})
 
     if theme.background
       #web_bg
+      
+    !=partial('includes/sidebar', {}, {cache: true})
 
-    !=partial('includes/sidebar', {}, {cache:theme.fragment_cache})
-
-    #body-wrap
+    #body-wrap(class=pageType)
       include ./header/index.pug
 
       main#content-inner.layout(class=hideAside)
@@ -35,14 +31,13 @@ html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside
         if (footerBg === true)
           - var footer_bg = bg_img
         else
-          - var footer_bg = theme.footer_bg.indexOf('/') !== -1 ? `background-image: url(${url_for(footerBg)})` : `background: ${footerBg}`
+          - var footer_bg = theme.footer_bg.indexOf('/') !== -1 ? `background-image: url('${url_for(footerBg)}')` : `background: ${footerBg}`
       else
         - var footer_bg = ''
 
       footer#footer(style=footer_bg)
-        !=partial('includes/footer', {}, {cache:theme.fragment_cache})
+        !=partial('includes/footer', {}, {cache: true})
 
     include ./rightside.pug
-    !=partial('includes/third-party/search/index', {}, {cache:theme.fragment_cache})
+    !=partial('includes/third-party/search/index', {}, {cache: true})
     include ./additional-js.pug
-    script(src='/js/mine.js')

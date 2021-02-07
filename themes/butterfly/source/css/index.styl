@@ -1,4 +1,6 @@
-@import 'nib'
+if hexo-config('css_prefix')
+  @import 'nib'
+
 @import '_third-party/normalize.min.css'
 // project
 @import 'var'
@@ -17,3 +19,6 @@ if hexo-config('algolia_search.enable')
 if hexo-config('local_search') && hexo-config('local_search.enable')
   @import '_search/index'
   @import '_search/local-search'
+
+//mine
+@import 'mine.styl'

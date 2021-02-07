@@ -16,52 +16,39 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:23:18
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\butterfly_modify.md
+ * @LastEditTime: 2021-02-07 20:05:31
+ * @FilePath: \Weidowsd:\Desktop\新建文件夹 (2)\Hexo\butterfly_modify.md
 -->
 
 - [魔改滚动条](#魔改滚动条)
-- [文章背景案板透明](#文章背景案板透明)
+- [文章背板透明](#文章背板透明)
 - [footer 类 github 小标签](#footer-类-github-小标签)
 - [添加 footer 小红心](#添加-footer-小红心)
 - [修改鼠标样式](#修改鼠标样式)
-- [注入自己的 CSS 和 JS 文件](#注入自己的-css-和-js-文件)
 - [适配 Pjax](#适配-pjax)
-- [鸣谢:](#鸣谢)
+- [优化](#优化)
+
+![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
 
 # 魔改滚动条
 
-- 找到`~butterfly/source/css/_global/index.styl`
-  修改并覆盖以下代码:
+- 找到`mine.styl`添加以下: (注意缩进格式)
 
   ```
-  *::-webkit-scrollbar
-    width: 8px
-    height: 8px
-
-  *::-webkit-scrollbar-thumb
-    background: var(--btn-bg)
-
-  *::-webkit-scrollbar-track
-    background-color: transparent
-  ```
-
-- 改为以下: (注意缩进格式)
-
-  ```
+  /*scrollbar*/
   ::-webkit-scrollbar
     width: 10px;
     height: 10px;
 
   ::-webkit-scrollbar-thumb
-    background-color: #83c9d1;
+    background-color: rgba(255, 86, 232, 0.815);
     background-image: -webkit-linear-gradient(
       45deg,
-      rgba(255, 0, 0, 0.78) 25%,
+      #34bf49 25%,
       transparent 25%,
       transparent 50%,
-      rgba(255, 86, 232, 0.815) 50%,
-      rgba(0, 76, 255, 0.4) 75%,
+      #ff4c4c 50%,
+      #0099e5 75%,
       transparent 75%,
       transparent
     );
@@ -77,62 +64,61 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# 文章背景案板透明
+# 文章背板透明
 
-- 找到`~butterfly/source/css/_page/common.styl`
-- 找到并把`background: var(--card-bg)`这一行替换成
+- 在 mine.styl 内添加
 
   ```
-  background: rgba(0, 45, 35, 0.5)
+  .layout
+  & > div:first-child:not(.recent-posts)
+    background: rgba(0, 45, 35, 0.5): rgba(0, 45, 35, 0.5)
   ```
 
 ---
 
 # footer 类 github 小标签
 
-- 找到`~butterfly/source/css/_global/function.styl`在尾部添加层叠样式:
+- 在`mine.styl`在尾部添加层叠样式:
 
-  ```
+  ```styl
   /*底部信息*/
-  .github-badge {
-    margin-left: 5px;
-    display: inline-block;
-    border-radius: 4px;
-    text-shadow: none;
-    color: #fff;
-    line-height: 15px;
-    background-color: #abbac3;
-    margin-bottom: 5px;
-    font-size: 12px;
-    .badge-subject {
-      display: inline-block;
-      background-color: #4d4d4d;
-      padding: 4px 4px 4px 6px;
-      border-top-left-radius: 4px;
-      border-bottom-left-radius: 4px;
-    }
-    .badge-value {
-      display: inline-block;
-      padding: 4px 6px 4px 4px;
-      border-top-right-radius: 4px;
-      border-bottom-right-radius: 4px;
-    }
-    .bg-blue {
-      background-color: #007ec6;
-    }
-    .bg-brightgreen {
-      background-color: #4dc820;
-    }
-    .bg-orange {
-      background-color: orange;
-    }
-    .bg-gradient {
-      background: linear-gradient(to right,#3ca5f6,#a86af9);
-    }
-    .bg-blueviolet {
-      background-color: #8833d7;
-    }
-  }
+  .github-badge
+    margin-left 5px
+    display inline-block
+    border-radius 4px
+    text-shadow none
+    color #fff
+    line-height 15px
+    background-color #abbac3
+    margin-bottom 5px
+    font-size 12px
+    .badge-subject
+      display inline-block
+      background-color #4d4d4d
+      padding 4px 4px 4px 6px
+      border-top-left-radius 4px
+      border-bottom-left-radius 4px
+
+    .badge-value
+      display inline-block
+      padding 4px 6px 4px 4px
+      border-top-right-radius 4px
+      border-bottom-right-radius 4px
+
+    .bg-blue
+      background-color #007ec6
+
+    .bg-brightgreen
+      background-color #4dc820
+
+    .bg-orange
+      background-color orange
+
+    .bg-gradient
+      background linear-gradient(to right,#3ca5f6,#a86af9)
+
+    .bg-blueviolet
+      background-color #8833d7
   ```
 
 - 找到`~butterfly/layout/includes/footer.pug`在尾部添加以下(这里是一个单位缩进,一定注意缩进对应上方)
@@ -224,16 +210,16 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 - 找到`~butterfly/layout/includes/footer.pug`(同上)
 
-  ```
+  ```pug
   if theme.footer.owner.since && theme.footer.owner.since != nowYear
     .copyright!= `&copy;${theme.footer.owner.since} - ${nowYear} By ${config.author}`
   else
     .copyright!= `&copy;${nowYear} By ${config.author}`
   ```
 
-- 替换
+- 替换为
 
-  ```
+  ```pug
   if theme.footer.owner.since && theme.footer.owner.since != nowYear
     .copyright!= `&copy;${theme.footer.owner.since} - ${nowYear} <i style="color:#FF6A6A" class="fa fa-heartbeat"></i> ${config.author}`
   else
@@ -244,69 +230,44 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 # 修改鼠标样式
 
-- 找到`~butterfly/source/css/_third-party/normalize.min.css`定位并删除 body{xxx}添加以下:
+- 在 mine.styl 里添加以下:
 
-  ```
+  ```styl
   /* 鼠标图标 */
-  body {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
-  }
+  body
+    cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/1.png), auto
 
-  /*a标签*/
+  a
+    &:hover
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
 
-  a:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
+  button
+    &:hover
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
 
-  /*按钮*/
+  i
+    &:hover
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
 
-  button:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
+  #upj
+    &:hover
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
 
-  /*i标签*/
+  #footer-wrap
+    a
+      &:hover
+        text-decoration none
+        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
 
-  i:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
+  #pagination
+    .page-number
+      &:hover
+        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
 
-  /*up酱*/
-
-  #upj:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
-
-  /*页脚a标签*/
-
-  #footer-wrap a:hover {
-    text-decoration: none;
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
-
-  /*分页器*/
-
-  #pagination .page-number:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
-
-  /*头部的导航栏*/
-
-  #nav .site-page:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
-  }
-  ```
-
----
-
-# 注入自己的 CSS 和 JS 文件
-
-- 找到`~buttery/layout/include/layout.pug`
-- 分别在 head 最后和 body 最后插入如下代码
-
-  ```
-  link(rel='stylesheet', href='/css/mine.css')
-  //在这里写百度和谷歌站长验证的HTML=>pug标签
-  script(src='/js/mine.js')
+  #nav
+    .site-page
+      &:hover
+        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
   ```
 
 ---
@@ -314,19 +275,18 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 # 适配 Pjax
 
 - 定位`~buttery/layout/include/third-party/pjax.pug`
-  - 找到`typeof preloader === 'object' && preloader.endLoading()`这一行,在这一行上面插入
+
+  - 在`document.addEventListener('pjax:complete', function () {}`里最后插入
   - `注意缩进对齐!`
-  ```
-      /*添加图片top到返回顶部按钮下*/
-      var top_up =
-        "<img id='upj' class='upj' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/up.png' title='芜湖起飞!' >";
-      document.getElementById("go-up").innerHTML += top_up;
-      /* 页脚footer养鱼 */
-      xiaokang.footFish();
+
+  ```js
+    document.getElementById("go-up").innerHTML += "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/up.png' title='芜湖起飞!' >";
+    new xkTool().footFish();
   ```
 
 ---
 
-# 鸣谢:
+# 优化
 
-- 由衷感谢`Lete乐特`带来了多数的教程,让我此路顺畅无比^v^
+- 上面很多东西已被优化过,方法都还能用,优化过程:
+  > [🚀 网站优化记录.](../optimize)
