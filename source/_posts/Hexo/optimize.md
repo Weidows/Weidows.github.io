@@ -29,7 +29,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 - [优化 css](#优化-css)
 - [优化 js](#优化-js)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Why?
 
@@ -39,7 +39,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 - 巨耗费渲染性能和时间(可以感觉出来加载这网站挺费劲的)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 概览
 
@@ -63,13 +63,13 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
   - pjax 适配
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 契合
 
 > 结合 [butterfly 内部魔改记录](./butterfly_modify)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 优化 css
 
@@ -104,7 +104,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 - 这样 css 优化就完成了
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 优化 js
 
@@ -128,4 +128,4 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 - `hexo server`测试一下,没问题!
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)

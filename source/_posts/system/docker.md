@@ -13,7 +13,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-06 16:32:47
+ * @LastEditTime: 2021-02-08 18:08:55
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -33,8 +33,9 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   - [Manjaro](#manjaro)
 - [命令行执行](#命令行执行)
 - [VScode+docker](#vscodedocker)
+- [Portainer](#portainer)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 名词引入
 
@@ -76,7 +77,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 这个是用来管理多个 docker 的.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 安装启动
 
@@ -199,7 +200,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 装好 docker 之后 `重启` 才能正常使用!
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 解决权限问题
 
@@ -225,7 +226,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   newgrp docker                 #更新docker用户组
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 启动服务
 
@@ -243,7 +244,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   sudo systemctl enable docker.service
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 镜像加速
 
@@ -274,7 +275,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   sudo systemctl restart docker
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 命令行执行
 
@@ -297,7 +298,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 最后重启 docker,用 `docker info` 检查一下就好了
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # VScode+docker
 
@@ -308,3 +309,31 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   <img src="https://i.loli.net/2021/02/06/AF6QcV3elqXPR2t.png" alt="20210206153528" />
 
 - 另外再安装`Resource Monitor`这个插件可以监控远程机资源消耗(如上图最下方)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# Portainer
+
+> [Docker 安装管理面板--Portainer](https://blog.csdn.net/tian330726/article/details/102987572)
+
+- docker 的可视化工具,可连接本地和远程,支持集群,有很多部署方式,这里选择直接在 docker 部署.
+
+- 首先它需要一个`volume(数据卷)`,新建
+
+  ```
+  docker volume create portainer_data
+  ```
+
+- 然后拉取并运行
+
+  - 需要保证 9000 端口没被占用,不然无法运行
+
+  ```
+  docker run -d --name portainer --restart always -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
+  ```
+
+- `localhost:9000`
+
+  <img src="https://i.loli.net/2021/02/08/Uea6XQWH2TC7iSw.png" alt="20210208180753" />
+
+- 官网上的版本要比 github 的 tag 慢一些,左下角提示更新可以无视~

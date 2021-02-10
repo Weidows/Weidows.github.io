@@ -136,13 +136,13 @@ steam:
   steamId: "76561198321099712" # steam Id(需要放在引号里),将steam库设置为公开
   path: tags/games.html # 页面路径，默认steamgames/index.html
   title: ⭐️养G场⭐️
-  quote: "Steam给爷爬!别让我家EPIC误会</br>个人资料显示于：https://steamcommunity.com/profiles/76561198321099712" # 写在页面开头的一段话,支持html语法
+  quote: Steam给爷爬!别让我家EPIC误会( # 写在页面开头的一段话
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: "" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/DOAX-VenusVacation/%E6%A8%AA%E5%B1%8F/9f84a622d3519deb534a9da403e0e50b8daba6e9b5aeff0edb87ac8a880b616f.jpeg # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
-    host: # 代理ip或域名
-    port: # 代理端口
+    host: localhost # 代理ip或域名
+    port: 7890 # 代理端口
 
 # douban:
 #   user: 222366733
@@ -178,6 +178,12 @@ neat_js:
     - "**/index.js"
 
 deploy:
+  # - type: git
+  #   repo:
+  #     - https://gitee.com/Weidows/Weidows.git
+  #     - https://github.com/Weidows/Weidows.github.io.git
+  #   branch: main
+  # 不能写成以上那样,git会提交出错!
   - type: git
     repo: https://gitee.com/Weidows/Weidows.git
     branch: main

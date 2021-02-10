@@ -21,7 +21,7 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 
 - [头图设计](#头图设计)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 头图设计
 

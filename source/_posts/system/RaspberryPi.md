@@ -24,7 +24,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 - [VNC 连接](#vnc-连接)
 - [Screenfetch](#screenfetch)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 无屏幕(线)解决方案
 
@@ -67,7 +67,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
 - 然后就可以用 ssh 连接这个 IP 地址了.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # SSH 连接
 
@@ -79,7 +79,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
 > 可参照 [✨SSH 远程连接.](../../experience/SSH#自动挡)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 设置密码
 
@@ -97,7 +97,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
   sudo passwd --unlock root
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 树莓派系统设置
 
@@ -106,7 +106,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
   sudo raspi-config
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # VNC 连接
 
@@ -117,7 +117,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
   <img src="https://i.loli.net/2020/12/04/DINsq97UmFPJbcZ.png" alt="20201204103843" />
 - OK.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Screenfetch
 

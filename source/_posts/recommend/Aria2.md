@@ -14,7 +14,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
  * @Author: Weidows
  * @Date: 2021-01-29 12:59:50
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:19:45
+ * @LastEditTime: 2021-02-10 01:42:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\Aria2.md
  * @Description:
  * @!: *********************************************************************
@@ -34,6 +34,8 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 - [开机自启/后台运行](#开机自启后台运行)
 - [参考](#参考)
 
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
 # 简介
 
 - `Aria2`是一个命令行下载器,没有 UI 界面
@@ -44,7 +46,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 > [为什么很多人都推荐 IDM 下载 说这才是下载神器 不限速的 比迅雷下载和百度网盘下载好多了？](https://www.zhihu.com/question/61896660)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 需求
 
@@ -58,7 +60,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
   <img src="https://i.loli.net/2021/01/29/xi3DPVzARd8nWYt.png" alt="20210129155515" />
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 横向对比
 
@@ -96,7 +98,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 - 我需要做的就是安装浏览器插件:`Aria2 for Chrome`或者`Aria Manager`之类的,让他连通作为 Aria2 的 UI 界面
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 配置 Aria2
 
@@ -212,7 +214,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 - 注意 40 行后面的`路径`和`文件名`的对应关系.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 配置浏览器
 
@@ -230,7 +232,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 - 其他的配置随意,这样,浏览器就配置好了.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 启动 Aria2-RPC
 
@@ -262,7 +264,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
   - 解决办法如下.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 开机自启/后台运行
 
@@ -278,7 +280,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 - `搞腚!`
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 参考
 

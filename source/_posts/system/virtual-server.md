@@ -47,7 +47,7 @@ cover: https://i.loli.net/2021/02/02/fCn6xEiuqQykO7d.png
 
   <img src="https://i.loli.net/2021/02/02/en8lrzMPTpSN3wj.png" alt="20210202144325" />
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 换源
 
@@ -55,7 +55,7 @@ cover: https://i.loli.net/2021/02/02/fCn6xEiuqQykO7d.png
 
 - 安装系统过程中就有换源选项.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 配置静态 IP
 
@@ -133,7 +133,7 @@ cover: https://i.loli.net/2021/02/02/fCn6xEiuqQykO7d.png
 
 - 然后应用`sudo netplan apply`设置,完事!
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 软件备份
 

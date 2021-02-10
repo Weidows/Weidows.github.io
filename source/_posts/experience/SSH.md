@@ -30,7 +30,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
   - [VScode-ssh-断开连接](#vscode-ssh-断开连接)
 - [TCP 保活](#tcp-保活)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 手动挡
 
@@ -89,7 +89,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
 - 测试完成,两机处于连通状态!
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 自动挡
 
@@ -99,7 +99,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
   <img src="https://i.loli.net/2020/12/03/9SuJxmTWczQG2oE.png" alt="20201203113101" />
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 ## VScode 连接
 
@@ -130,7 +130,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
 - 打开输入对应用户的密码就可以登录了.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 存在の问题
 
@@ -158,7 +158,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
 
   - 可以用`wakatime`替代,这个插件没事.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # TCP 保活
 

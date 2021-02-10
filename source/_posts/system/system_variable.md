@@ -34,7 +34,7 @@ top_img:
 - [Python](#python)
 - [Node.js](#nodejs)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 环境变量含义:
 
@@ -65,13 +65,13 @@ top_img:
 - 这个是引用关系,比如 Path 里面的`%JAVA_HOME%`会引用名为`JAVA_HOME`的环境变量值
 - Path 里面从上到下为优先级,上面的优先级高.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Scoop
 
 > 详见[🙌Windows 平台软件包管理器选择-Scoop](../Scoop.md)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # JDK
 
@@ -85,7 +85,7 @@ top_img:
 
   - `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Maven
 
@@ -105,13 +105,13 @@ top_img:
     "java.configuration.maven.globalSettings": "D:/Game/Scoop/persist/maven/conf/settings.xml",
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Git
 
 > 用 Scoop 安装自带环境变量,不用配置.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Python
 
@@ -123,7 +123,7 @@ top_img:
   D:\Game\Scoop\apps\python\Scripts\
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Node.js
 

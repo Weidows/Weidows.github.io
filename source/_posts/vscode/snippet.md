@@ -20,7 +20,7 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
 - [增添代码片段](#增添代码片段)
 - [我的模板](#我的模板)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 开启 snippet
 
@@ -36,7 +36,7 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
   }
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 增添代码片段
 
@@ -67,7 +67,7 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
 
 - 这个片段就可以在 markdown 文件内输入`title`快速生成上面的模板,省去复制的麻烦了.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 我的模板
 

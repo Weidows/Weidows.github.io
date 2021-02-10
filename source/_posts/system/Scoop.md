@@ -37,7 +37,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 此文章要介绍的是`Scoop`- 横向简单对比`Chocolate`和`WinGet`
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 各个优缺点
 
@@ -70,7 +70,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 个人选择了 `Scoop`,下面主要讲 Scoop.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Scoop
 
@@ -143,7 +143,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
     Type 'scoop help <command>' to get help for a specific command.
     ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 加速下载
 
@@ -157,7 +157,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop config aria2-min-split-size 1M
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Scoop 绝活
 
@@ -169,13 +169,13 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
 - 这个功能太赞了!
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Scoop 配置文件
 
 > 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 好文传送
 
@@ -183,7 +183,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 > [scoop——强大的 Windows 命令行包管理工具](https://www.jianshu.com/p/50993df76b1c)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 安装异常
 
@@ -233,7 +233,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop config aria2-enabled true
   ```
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 备份
 

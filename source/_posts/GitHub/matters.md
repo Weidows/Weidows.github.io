@@ -25,20 +25,20 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
 - [Git 凭证](#git-凭证)
   - [解决办法](#解决办法)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 首页绿格子
 
 - Github 不显示 fork 仓库的 commit
   - 比如 Auto-green 需要独立出来
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # License 选择
 
 ![License](https://i.loli.net/2020/11/30/46lbZztfLjkM2n7.jpg)
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 国内时区错位问题
 
@@ -56,13 +56,13 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
 - Gitee 是当且仅当 Repo 名字为`userName.gitee.io`时,域名为`userName.gitee.io`
   - 否则类似上面
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 删除远程分支
 
 - 不能删除当前默认分支.
 
-![20210126213629](https://i.loli.net/2021/01/26/pXvc51LrIgexKmk.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Git 凭证
 

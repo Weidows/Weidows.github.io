@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-02 18:55:06
+ * @LastEditTime: 2021-02-09 22:08:40
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 <h1 align="center">
@@ -28,7 +28,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 `邮箱`: {% btn 'https://mail.qq.com',UTsuKo27@qq.com,far fa-hand-point-right,outline blue larger %}
 
-`QQ`: {% btn 'https://qm.qq.com/cgi-bin/qm/qr?k=3ycBtwX25IMFisvKoD8NIyNBMofXBFFu&noverify=0',@Weidows,far fa-hand-point-right,outline pink larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline pink larger %}
+`QQ`: {% btn 'https://qm.qq.com/cgi-bin/qm/qr?k=3ycBtwX25IMFisvKoD8NIyNBMofXBFFu&noverify=0',@Weidows-齐下无贰,far fa-hand-point-right,outline pink larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline pink larger %}
 
 `Bilibili`:{% btn 'https://space.bilibili.com/38283369',@奀六币的名字,far fa-hand-point-right,outline red larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/Bilibili.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline red larger %}
 
