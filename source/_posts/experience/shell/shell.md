@@ -1,5 +1,6 @@
 ---
 title: shell的一些常用命令
+date: 2020-09-03 17:35:04
 categories:
   - experience
   - shell
@@ -16,8 +17,8 @@ cover: https://i.loli.net/2020/11/30/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:22:05
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\shell\shell.md
+ * @LastEditTime: 2021-02-13 17:00:38
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\shell.md
 -->
 
 - [通用](#通用)

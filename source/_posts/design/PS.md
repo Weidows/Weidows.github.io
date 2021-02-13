@@ -1,5 +1,6 @@
 ---
 title: PS中一些小用法
+date: 2020-11-29 12:05:07
 categories:
   - design
 tags:
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-10 19:41:30
+ * @LastEditTime: 2021-02-13 16:52:29
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\PS.md
  * @Description:
 -->

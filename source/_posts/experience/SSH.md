@@ -1,5 +1,6 @@
 ---
 title: ✨SSH远程连接.
+date: 2020-12-07 00:12:52
 categories:
   - experience
 tags:
@@ -13,7 +14,7 @@ cover: https://i.loli.net/2020/12/07/8hkiBs34PZ2eRIu.png
  * @Author: Weidows
  * @Date: 2020-12-07 00:12:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-06 15:39:38
+ * @LastEditTime: 2021-02-13 17:01:29
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\SSH.md
  * @Description:
 -->

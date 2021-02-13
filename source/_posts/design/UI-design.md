@@ -1,5 +1,6 @@
 ---
 title: 🙌UI平面设计.
+date: 2021-01-30 18:40:45
 categories:
   - design
 tags:
@@ -13,7 +14,7 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
  * @Author: Weidows
  * @Date: 2021-01-30 18:40:45
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 18:54:48
+ * @LastEditTime: 2021-02-13 16:52:47
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\UI-design.md
  * @Description:
  * @!: *********************************************************************

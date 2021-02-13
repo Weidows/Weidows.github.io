@@ -1,5 +1,6 @@
 ---
 title: 用VScode编写调试Processing.pde程序
+date: 2020-10-2 23:56:50
 categories:
   - experience
   - processing
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:20:18
+ * @LastEditTime: 2021-02-13 16:59:15
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\processing\Processing.md
 -->
 

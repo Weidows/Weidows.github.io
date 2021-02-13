@@ -1,5 +1,6 @@
 ---
 title: 如何让Windows下的终端变得漂亮和好用起来
+date: 2020-10-13 23:25:31
 categories:
   - experience
   - shell
@@ -14,8 +15,8 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:21:55
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\shell\pwsh.md
+ * @LastEditTime: 2021-02-13 17:00:14
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
 - [预览](#预览)

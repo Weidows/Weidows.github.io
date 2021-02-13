@@ -1,5 +1,6 @@
 ---
 title: 一篇文章帮你装好C/C++和VScode环境
+date: 2020-10-3 22:46:17
 categories:
   - experience
   - C
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/fsj7FMhOw2WpigX.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-23 21:05:54
+ * @LastEditTime: 2021-02-13 16:57:09
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 

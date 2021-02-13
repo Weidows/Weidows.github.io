@@ -1,5 +1,6 @@
 ---
 title: Markdown中一些新奇写法.
+date: 2020-11-30 00:09:37
 categories:
   - experience
 tags:
@@ -12,8 +13,8 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:22:19
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\markdown.md
+ * @LastEditTime: 2021-02-13 17:01:01
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
 

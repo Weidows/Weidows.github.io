@@ -1,5 +1,6 @@
 ---
 title: 🚫仅仅是一篇关于yaml文件语法虐待我后的小诟病
+date: 2020-09-03 18:20:56
 categories:
   - experience
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/rJLfcmTERGvAti4.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 18:20:56
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 23:42:00
+ * @LastEditTime: 2021-02-13 17:01:40
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\yaml-experience.md
  * @Description:
  * @!: *********************************************************************

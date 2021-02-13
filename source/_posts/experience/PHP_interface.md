@@ -1,5 +1,6 @@
 ---
 title: 关于在不会PHP的情况下调用PHP API
+date: 2020-08-25 09:50:37
 categories:
   - experience
 tags:
@@ -13,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/Dxy6jwQotKsIEX5.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 09:50:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:22:34
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\experience\PHP_interface.md
+ * @LastEditTime: 2021-02-13 17:01:12
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\PHP_interface.md
 -->
 
 - [简单调用](#简单调用)
