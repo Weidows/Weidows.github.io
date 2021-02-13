@@ -13,14 +13,9 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
+          npm install -g hexo
           npm install
-          npm run build
+          hexo generate
+          hexo deploy
         env:
           CI: true
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # 把下面这个文件夹部署到哪个分支(不能是本分支,会覆盖掉)
-          FOLDER: public # 想部署的文件夹
