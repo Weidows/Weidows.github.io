@@ -11,11 +11,22 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: My-Tasks
+        run: |
+          # 连通ssh
+          mkdir ~/.ssh
+          cp ./.github/config ~/.ssh/config
+          echo "${{ secrets.RSA }}" > ~/.ssh/Github_rsa
+          ssh -T git@gitee.com
+
+          # 设置Git
+          git config --local user.name "Weidows"
+          git config --local user.email "utsuko27@qq.com"
+
       - name: Install and Build 🔧
         run: |
-          npm install -g hexo
           npm install
-          hexo generate
-          hexo deploy
+          npm run build
+          npm run deploy
         env:
           CI: true

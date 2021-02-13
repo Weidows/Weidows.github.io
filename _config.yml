@@ -184,9 +184,10 @@ deploy:
   #     - https://github.com/Weidows/Weidows.github.io.git
   #   branch: main
   # 不能写成以上那样,git会提交出错!
-  - type: git
-    repo: https://gitee.com/Weidows/Weidows.git
-    branch: main
+
+  # - type: git
+  #   repo: https://gitee.com/Weidows/Weidows.git
+  #   branch: main
   - type: git
     repo: https://github.com/Weidows/Weidows.github.io.git
     branch: main
