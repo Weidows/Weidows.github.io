@@ -18,7 +18,7 @@ jobs:
           cp ./.github/config ~/.ssh/config
           echo "${{ secrets.RSA }}" > ~/.ssh/Github_rsa
           chmod 600 ~/.ssh/*
-          ssh -T git@github.com
+          # ssh -T git@github.com
 
           # 设置Git
           git config --global user.name "Weidows"

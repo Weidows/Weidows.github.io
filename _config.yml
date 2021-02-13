@@ -189,7 +189,7 @@ deploy:
   #   repo: https://gitee.com/Weidows/Weidows.git
   #   branch: main
   - type: git
-    repo: https://github.com/Weidows/Weidows.github.io.git
+    repo: git@github.com:Weidows/Weidows.github.io.git
     branch: main
   - type: baidu_url_submitter
 
