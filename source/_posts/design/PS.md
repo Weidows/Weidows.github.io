@@ -14,13 +14,14 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 18:40:16
+ * @LastEditTime: 2021-02-10 19:41:30
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
 
 - [解锁图层](#解锁图层)
 - [透明背景](#透明背景)
+- [定向变色](#定向变色)
 
 # 解锁图层
 
@@ -41,3 +42,19 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
 - 选择->色彩范围，点击取色
   ![20201129121309](https://i.loli.net/2020/11/30/QxWfLSMuHa9GD1e.jpg)
 - 选中后按 Delete
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 定向变色
+
+- 变色前后对比
+
+  <img src="https://i.loli.net/2021/02/10/tjFf2dSG4yKBnOV.png" alt="20210210193706" />
+
+- 首先选择颜色范围,参考[透明背景](#透明背景)
+
+- 然后右键选择`填充`,或者在菜单里找`【图像】——【调整】——【替换颜色】`
+
+  <img src="https://i.loli.net/2021/02/10/dxuwaHpbknNlFAi.png" alt="20210210193939" />
+
+- 填入目标色即可.

@@ -14,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/ZN45JO19SVRihG8.png
  * @Author: Weidows
  * @Date: 2020-08-23 10:54:41
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:22:59
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\GitHub\GitHub-Pages-deploy.md
+ * @LastEditTime: 2021-02-13 15:24:32
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\GitHub\GitHub-Pages-deploy.md
 -->
 
 - [GitHub/Gitee 选择](#githubgitee-选择)
@@ -91,20 +91,21 @@ cover: https://i.loli.net/2020/11/30/ZN45JO19SVRihG8.png
 文件目录: `Blogroot/.github/workflows/deploy.yml`
 (简单点就是.github 跟 public,source 等等同级目录),写入下面内容:
 
-```
-
+```yml
 name: Build and Deploy
+
 on: [push] # 触发条件(git 推送时)
+
 jobs:
-build-and-deploy:
-runs-on: ubuntu-latest
-steps: - name: Checkout 🛎️
-uses: actions/checkout@v2 # 下面这个最好设成 false
-with:
-persist-credentials: false
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2 # 下面这个最好设成 false
+        with:
+          persist-credentials: false
 
       - name: Install and Build 🔧
-        # 这下面可以自定义你想使用的命令,注意环境条件是否允许
         run: |
           cd Website
           npm install
@@ -118,7 +119,6 @@ persist-credentials: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # 把下面这个文件夹部署到哪个分支(不能是本分支,会覆盖掉)
           FOLDER: Website/public # 想部署的文件夹
-
 ```
 
 ## 解释:

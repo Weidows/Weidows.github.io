@@ -9,8 +9,8 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your
  * @Author: Weidows
  * @Date: 2020-08-22 20:18:14
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-06 17:53:10
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog\source\tags\link.md
+ * @LastEditTime: 2021-02-11 22:56:50
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\link.md
 -->
 
 {% note info %}
@@ -20,8 +20,8 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your
 {% endnote %}
 
 ```
-- name: ⭐️Weidows の Nest⭐️
-  link: https://weidows.gitee.io/
+- name: ⭐️齐下无贰⭐️
+  link: https://weidows.gitee.io
   avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg
   descr: ただ Weidow's Website だけ
 ```
