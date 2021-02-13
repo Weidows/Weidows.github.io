@@ -4,14 +4,14 @@ date: 2020-08-23 20:54:56
 categories:
   - Java
 tags: Java
-cover: https://gitee.com/Weidows/Weidows/raw/master/java/src/main/java/twenty/july/my_interface/interface/Cells173751.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twenty/july/my_interface/interface/Cells173751.png
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-23 20:54:56
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:14:16
+ * @LastEditTime: 2021-02-13 17:56:13
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
 -->
 
