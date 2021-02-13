@@ -16,8 +16,8 @@ menu:
   #   - Movie || /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
-  首页: /
-  Travellings: https://travellings.now.sh
+  首页: / || fas fa-plane
+  开往: https://travellings.now.sh || fas fa-car
   本站|| fas fa-home:
     - 随机文章 || random
     - 标 签 || tags || fas fa-tags
@@ -25,7 +25,7 @@ menu:
     - 时间轴 || archives || fas fa-archive
     - Gitee站 || https://weidows.gitee.io || fas fa-bath
     - GitHub站 || https://weidows.github.io || fas fa-shower
-  传送门|| fas fa-car:
+  传送门|| fas fa-rocket:
     - Weidowsの主页 || https://weidows.github.io/About-me
     - GitHub仓库 || https://github.com/Weidows?tab=repositories
     - 几个生成器 || generator
