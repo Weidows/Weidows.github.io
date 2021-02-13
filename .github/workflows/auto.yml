@@ -21,8 +21,8 @@ jobs:
           ssh -T git@github.com
 
           # 设置Git
-          git config --local user.name "Weidows"
-          git config --local user.email "utsuko27@qq.com"
+          git config --global user.name "Weidows"
+          git config --global user.email "utsuko27@qq.com"
 
       - name: Install and Build 🔧
         run: |
