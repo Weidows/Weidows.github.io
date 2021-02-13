@@ -1,5 +1,6 @@
 ---
 title: CSS命名规范
+date: 2020-08-11 09:45:50
 categories:
   - Web
   - css
@@ -14,8 +15,8 @@ cover: https://i.loli.net/2020/11/30/lsiaPmZhBq4EKg3.jpg
  * @Author: Weidows
  * @Date: 2020-08-11 09:45:50
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:57:01
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\css\ClassKeyWords.md
+ * @LastEditTime: 2021-02-13 17:22:01
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\css\ClassKeyWords.md
 -->
 
 - [命名规则](#命名规则)

@@ -1,5 +1,6 @@
 ---
 title: 关于安装系统硬盘&引导那些事
+date: 2020-08-23 20:49:52
 categories:
   - system
 tags:
@@ -11,7 +12,7 @@ cover: https://i.loli.net/2020/11/30/c4RC1zhqgl39Dp8.jpg
  * @Author: Weidows
  * @Date: 2020-08-23 20:49:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:20:41
+ * @LastEditTime: 2021-02-13 17:18:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\about_system.md
 -->
 

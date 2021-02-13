@@ -1,5 +1,6 @@
 ---
 title: MOOC浙大翁凯教授Java第六章狐狸与兔子源代码
+date: 2020-08-23 20:54:56
 categories:
   - Java
 tags: Java
@@ -10,8 +11,8 @@ cover: https://gitee.com/Weidows/Weidows/raw/master/java/src/main/java/twenty/ju
  * @Author: Weidows
  * @Date: 2020-08-23 20:54:56
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:32
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
+ * @LastEditTime: 2021-02-13 17:14:16
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
 -->
 
 - [一.简介](#一简介)

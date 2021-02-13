@@ -1,5 +1,6 @@
 ---
 title: ♻VScode插件开发流程.
+date: 2021-01-03 15:18:46
 categories:
   - vscode
 tags:
@@ -14,8 +15,8 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
  * @Author: Weidows
  * @Date: 2021-01-03 15:18:46
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:56:39
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\vscode\extension-develop.md
+ * @LastEditTime: 2021-02-13 17:21:33
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\vscode\extension-develop.md
  * @Description:
  * @!: *********************************************************************
 -->

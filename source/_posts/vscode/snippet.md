@@ -1,5 +1,6 @@
 ---
 title: VScode用户代码片段设置 && 使用
+date: 2020-08-25 19:14:35
 categories:
   - vscode
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-31 22:27:56
+ * @LastEditTime: 2021-02-13 17:21:44
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\vscode\snippet.md
 -->
 

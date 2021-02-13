@@ -1,5 +1,6 @@
 ---
 title: 🙌Windows平台软件包管理器选择-Scoop
+date: 2021-01-14 23:09:52
 categories:
   - system
 tags:
@@ -15,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-06 13:02:51
+ * @LastEditTime: 2021-02-13 17:19:42
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************

@@ -1,5 +1,6 @@
 ---
 title: ⬆ Node.js环境配置 && 使用
+date: 2020-11-24 21:59:29
 categories:
   - Web
   - Node.js
@@ -16,7 +17,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-31 14:53:20
+ * @LastEditTime: 2021-02-13 17:23:21
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node.js\node.md
  * @Description:
 -->

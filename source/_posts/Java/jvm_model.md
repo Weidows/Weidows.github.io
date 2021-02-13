@@ -1,5 +1,6 @@
 ---
 title: JVM内存模型
+date: 2020-08-25 19:14:35
 categories:
   - Java
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/GQMENFX1sR4ubZY.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:21:58
+ * @LastEditTime: 2021-02-13 17:08:56
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\jvm_model.md
 -->
 

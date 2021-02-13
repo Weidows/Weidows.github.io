@@ -1,5 +1,6 @@
 ---
 title: Java设计模式
+date: 2020-09-09 22:53:55
 categories:
   - Java
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/M2NCl539nTvz6Vj.jpg
  * @Author: Weidows
  * @Date: 2020-09-09 22:53:55
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:24:34
+ * @LastEditTime: 2021-02-13 17:07:54
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\design_pattern.md
 -->
 

@@ -1,5 +1,6 @@
 ---
 title: 一些字体和VScode字体设置
+date: 2020-10-18 23:18:10
 categories:
   - recommend
 tags:
@@ -12,8 +13,8 @@ cover: https://i.loli.net/2020/11/30/Xx1sQuZiCoPKAfD.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:25:32
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\recommend\font.md
+ * @LastEditTime: 2021-02-13 17:17:33
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\font.md
 -->
 
 - [等宽字体](#等宽字体)

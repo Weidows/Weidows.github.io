@@ -1,5 +1,6 @@
 ---
 title: 🐱‍🏍JavaScript学习笔记-(壹)
+date: 2020-12-20 21:26:24
 categories:
   - Web
   - JavaScript
@@ -15,7 +16,7 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-22 00:38:46
+ * @LastEditTime: 2021-02-13 17:22:34
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************

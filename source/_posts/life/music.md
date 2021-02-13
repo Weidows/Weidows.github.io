@@ -1,5 +1,6 @@
 ---
 title: ‼Reason for music,roaring my song!
+date: 2021-02-08 12:30:24
 categories:
   - life
 tags:
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2021/02/08/FW48e5VR3BOgvca.jpg
  * @Author: Weidows
  * @Date: 2021-02-08 12:30:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-12 01:18:20
+ * @LastEditTime: 2021-02-13 17:16:40
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\life\music.md
  * @Description:
  * @!: *********************************************************************

@@ -1,5 +1,6 @@
 ---
 title: Hexo-pages里一些奇奇怪怪的写法
+date: 2020-08-27 01:13:03
 categories:
   - Hexo
 tags:
@@ -15,8 +16,8 @@ cover: https://i.loli.net/2020/11/30/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:23:28
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\Hexo-fansy.md
+ * @LastEditTime: 2021-02-13 17:05:48
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\Hexo-fansy.md
 -->
 
 - [Hexo 文章标题 & 格式](#hexo-文章标题--格式)

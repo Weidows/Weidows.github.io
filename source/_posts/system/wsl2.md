@@ -1,5 +1,6 @@
 ---
 title: 🎇尝试转投wsl生态.
+date: 2021-02-01 13:54:10
 categories:
   - system
 tags:
@@ -15,7 +16,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
  * @Author: Weidows
  * @Date: 2021-02-01 13:54:10
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-05 23:07:28
+ * @LastEditTime: 2021-02-13 17:20:29
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\wsl2.md
  * @Description:
  * @!: *********************************************************************

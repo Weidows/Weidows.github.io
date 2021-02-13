@@ -1,5 +1,6 @@
 ---
 title: butterfly内部魔改记录
+date: 2020-09-03 22:49:05
 categories:
   - Hexo
 tags:
@@ -16,8 +17,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-07 20:05:31
- * @FilePath: \Weidowsd:\Desktop\新建文件夹 (2)\Hexo\butterfly_modify.md
+ * @LastEditTime: 2021-02-13 17:05:29
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\butterfly_modify.md
 -->
 
 - [魔改滚动条](#魔改滚动条)

@@ -1,5 +1,6 @@
 ---
 title: GitHub操作上的一些问题
+date: 2020-11-21 19:28:51
 categories:
   - GitHub
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-04 17:35:43
+ * @LastEditTime: 2021-02-13 17:02:42
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\GitHub\matters.md
  * @Description:
 -->

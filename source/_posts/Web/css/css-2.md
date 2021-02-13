@@ -1,5 +1,6 @@
 ---
 title: 🟢CSS学习笔记-(二)
+date: 2020-12-20 10:22:30
 categories:
   - Web
   - css
@@ -15,8 +16,8 @@ cover: https://i.loli.net/2020/12/20/FDI9s7KpSGW3ELw.png
  * @Author: Weidows
  * @Date: 2020-12-20 10:22:30
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:57:10
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Web\css\css-2.md
+ * @LastEditTime: 2021-02-13 17:22:23
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\css\css-2.md
  * @Description:
  * @!: *********************************************************************
 -->

@@ -1,5 +1,6 @@
 ---
 title: 💢Windows中一些奇奇怪怪的操作.
+date: 2020-12-28 13:49:19
 categories:
   - system
 tags:
@@ -14,8 +15,8 @@ cover: https://i.loli.net/2020/12/28/VKmoJbNALH7PqrC.png
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:56:13
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\system\Windows.md
+ * @LastEditTime: 2021-02-13 17:20:16
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
 -->

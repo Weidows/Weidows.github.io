@@ -1,5 +1,6 @@
 ---
 title: 淦翻Hexo各种插件安装+调试
+date: 2020-08-25 00:05:52
 categories:
   - Hexo
 tags:
@@ -15,7 +16,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-17 23:54:18
+ * @LastEditTime: 2021-02-13 17:06:04
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
 -->
 

@@ -1,5 +1,6 @@
 ---
 title: VScode实用插件推荐
+date: 2020-05-27 19:28:49
 categories:
   - recommend
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
  * @Author: Weidows
  * @Date: 2020-05-27 19:28:49
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-01 00:20:33
+ * @LastEditTime: 2021-02-13 17:18:27
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\Vscode.md
 -->
 

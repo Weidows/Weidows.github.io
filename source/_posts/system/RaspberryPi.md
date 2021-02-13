@@ -1,5 +1,6 @@
 ---
 title: 树莓派酱の吃灰日常.
+date: 2020-12-03 10:44:06
 categories:
   - system
 tags:
@@ -12,7 +13,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-06 13:28:51
+ * @LastEditTime: 2021-02-13 17:19:29
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->

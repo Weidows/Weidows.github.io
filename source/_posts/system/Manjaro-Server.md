@@ -1,5 +1,6 @@
 ---
 title: 😍Manjaro虚拟机充当服务器记录.
+date: 2021-02-03 14:00:21
 categories:
   - system
 tags:
@@ -16,7 +17,7 @@ cover: https://i.loli.net/2021/02/03/YqH4ru9kGy5UdLt.jpg
  * @Author: Weidows
  * @Date: 2021-02-03 14:00:21
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-06 15:41:05
+ * @LastEditTime: 2021-02-13 17:19:18
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Manjaro-Server.md
  * @Description:
  * @!: *********************************************************************

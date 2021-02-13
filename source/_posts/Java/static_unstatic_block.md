@@ -1,5 +1,6 @@
 ---
 title: Java(非)静态代码块及其作用
+date: 2020-09-04 10:49:16
 categories:
   - Java
 tags:
@@ -11,8 +12,8 @@ cover: https://i.loli.net/2020/11/30/XNzZpVAlmohqKHY.jpg
  * @Author: Weidows
  * @Date: 2020-09-04 10:49:16
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:40
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\static_unstatic_block.md
+ * @LastEditTime: 2021-02-13 17:14:27
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\static_unstatic_block.md
 -->
 
 - [就俩文件,谨此](#就俩文件谨此)

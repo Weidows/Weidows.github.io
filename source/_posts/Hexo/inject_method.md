@@ -1,5 +1,6 @@
 ---
 title: 两种inject自定义Js/CSS文件方法 && Pjax冲突解决方案
+date: 2020-08-31 01:35:01
 categories:
   - Hexo
 tags:
@@ -16,8 +17,8 @@ cover: https://i.loli.net/2020/11/30/z7JsMCr28A1Y53j.jpg
  * @Author: Weidows
  * @Date: 2020-08-31 01:35:01
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:23:43
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Hexo\inject_method.md
+ * @LastEditTime: 2021-02-13 17:06:37
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\inject_method.md
 -->
 
 - [hexo 渲染](#hexo-渲染)

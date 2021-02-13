@@ -1,5 +1,6 @@
 ---
 title: VScode撞上赛博朋克风!赛高!
+date: 2020-10-17 23:16:13
 categories:
   - vscode
 tags:
@@ -12,8 +13,8 @@ cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:56:25
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\vscode\custom_css.md
+ * @LastEditTime: 2021-02-13 17:21:05
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\vscode\custom_css.md
 -->
 
 - [简介](#简介)

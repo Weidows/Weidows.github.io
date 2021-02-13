@@ -1,5 +1,6 @@
 ---
 title: 🟡Ubuntu-Server搞机记录.
+date: 2021-02-02 02:04:38
 categories:
   - system
 tags:
@@ -16,7 +17,7 @@ cover: https://i.loli.net/2021/02/02/fCn6xEiuqQykO7d.png
  * @Author: Weidows
  * @Date: 2021-02-02 02:04:38
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:02:04
+ * @LastEditTime: 2021-02-13 17:20:06
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\virtual-server.md
  * @Description:
  * @!: *********************************************************************

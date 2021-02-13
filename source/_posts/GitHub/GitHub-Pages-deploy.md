@@ -1,5 +1,6 @@
 ---
 title: 一篇扫清:GitHub-Pages自动化部署 + github/gitee选择
+date: 2020-08-23 10:54:41
 categories:
   - GitHub
 tag:
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/ZN45JO19SVRihG8.png
  * @Author: Weidows
  * @Date: 2020-08-23 10:54:41
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 15:24:32
+ * @LastEditTime: 2021-02-13 17:02:31
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\GitHub\GitHub-Pages-deploy.md
 -->
 

@@ -1,5 +1,6 @@
 ---
 title: 匿名对象 && 使用
+date: 2020-09-10 17:34:47
 categories:
   - Java
 tags:
@@ -12,8 +13,8 @@ cover: https://i.loli.net/2020/11/30/To4BF7XM1xEmanh.jpg
  * @Author: Weidows
  * @Date: 2020-09-10 17:34:47
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:02
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\anonymous_object.md
+ * @LastEditTime: 2021-02-13 17:07:38
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\anonymous_object.md
 -->
 
 - [匿名对象一 (Test.java)](#匿名对象一-testjava)

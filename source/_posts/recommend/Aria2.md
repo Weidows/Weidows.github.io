@@ -1,5 +1,6 @@
 ---
 title: ✨炒鸡好用的下载器-Aria2
+date: 2021-01-29 12:59:50
 categories:
   - recommend
 tags:
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
  * @Author: Weidows
  * @Date: 2021-01-29 12:59:50
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-10 01:42:53
+ * @LastEditTime: 2021-02-13 17:17:00
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\Aria2.md
  * @Description:
  * @!: *********************************************************************

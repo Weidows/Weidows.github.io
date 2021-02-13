@@ -1,5 +1,6 @@
 ---
 title: 🎉IDEA魔改记录.
+date: 2021-01-01 11:06:59
 categories:
   - IDEA
 tags:
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2021/01/01/UD8HeIc94LVai2v.png
  * @Author: Weidows
  * @Date: 2021-01-01 11:06:59
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-28 03:38:24
+ * @LastEditTime: 2021-02-13 17:07:09
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\IDEA\Modification.md
  * @Description:
  * @!: *********************************************************************

@@ -1,5 +1,6 @@
 ---
 title: 👌JavaScript学习笔记-(肆)
+date: 2021-01-26 21:19:27
 categories:
   - Web
   - JavaScript
@@ -16,7 +17,7 @@ cover: https://i.loli.net/2021/01/26/qg3OyNzScKB5aHh.png
  * @Author: Weidows
  * @Date: 2021-01-26 21:19:27
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-03 14:20:03
+ * @LastEditTime: 2021-02-13 17:23:10
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-4.md
  * @Description:
  * @!: *********************************************************************

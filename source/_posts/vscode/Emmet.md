@@ -1,5 +1,6 @@
 ---
 title: 😎上手Emmet.
+date: 2021-01-27 00:10:59
 categories:
   - vscode
 tags:
@@ -14,7 +15,7 @@ cover: https://i.loli.net/2021/01/27/MSq5Z7OEhmRLI6d.png
  * @Author: Weidows
  * @Date: 2021-01-27 00:10:59
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-30 14:29:08
+ * @LastEditTime: 2021-02-13 17:21:21
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\vscode\Emmet.md
  * @Description:
  * @!: *********************************************************************

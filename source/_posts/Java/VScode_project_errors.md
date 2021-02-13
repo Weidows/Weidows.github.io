@@ -1,5 +1,6 @@
 ---
 title: VScode中Java出现"none-project"错误(无法识别Java-Maven项目)
+date: 2020-10-16 22:24:25
 categories:
   - Java
 tags:
@@ -13,8 +14,8 @@ cover: https://i.loli.net/2020/11/30/xiSTXMhqsgzD7UP.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-01-07 00:24:58
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\_posts\Java\VScode_project_errors.md
+ * @LastEditTime: 2021-02-13 17:15:42
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\VScode_project_errors.md
 -->
 
 - [问题:](#问题)
