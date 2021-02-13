@@ -17,10 +17,11 @@ menu:
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
   首页: /
+  Travellings: https://travellings.now.sh
   本站|| fas fa-home:
     - 随机文章 || random
     - 标 签 || tags || fas fa-tags
-    - 分 类 || tags/categories || fas fa-folder-open
+    - 分 类 || categories || fas fa-folder-open
     - 时间轴 || archives || fas fa-archive
     - Gitee站 || https://weidows.gitee.io || fas fa-bath
     - GitHub站 || https://weidows.github.io || fas fa-shower
@@ -30,7 +31,6 @@ menu:
     - 几个生成器 || generator
     - SSL状态检测 || https://weidows.github.io/ssl
     - 站点状态检测 || https://stats.uptimerobot.com/22R3Pfkjzv
-    - 开往Travellings || https://travellings.now.sh
   兴趣爱好||fas fa-list:
     - 相册 || gallery_data || fas fa-camera
     - 说说 || artitalk || fa fa-comment
