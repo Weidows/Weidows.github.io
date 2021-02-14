@@ -27,6 +27,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install
+          npm run steam
           npm run build
           npm run deploy
         env:

@@ -7,6 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
+    "steam": "hexo steam -u",
     "all": "hexo clean && hexo generate && hexo server"
   },
   "hexo": {
@@ -17,7 +18,6 @@
     "hexo-baidu-url-submit": "^0.0.6",
     "hexo-bilibili-bangumi": "^1.5.1",
     "hexo-deployer-git": "^2.1.0",
-    "hexo-douban": "^1.1.3",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
@@ -33,6 +33,7 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "hexo-steam-games": "^1.2.0",
+    "hexo-submit-urls-to-search-engine": "^2.0.0",
     "hexo-wordcount": "^6.0.1",
     "live2d-widget-model-tororo": "^1.0.5",
     "object-assign": "^4.1.1"
