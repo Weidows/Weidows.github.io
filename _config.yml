@@ -192,12 +192,6 @@ deploy:
   - type: cjh_bing_url_submitter
   - type: cjh_baidu_url_submitter
 
-baidu_url_submit:
-  count: 1000 ## 提交最新的一个链接
-  host: weidows.github.io ## 在百度站长平台中注册的域名
-  token: tXk4TVcpo7pxHIuK ## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
-  path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
-
 hexo_submit_urls_to_search_engine:
   submit_condition: count # Submitted condition, optional value: count | period, Now only supports count
   count: 10 # Submit the latest 10 links
@@ -206,10 +200,10 @@ hexo_submit_urls_to_search_engine:
   bing: 1 #  Whether to submit to bing, optional value: 1 | 0 (0: no; 1: yes)
   baidu: 1 # Whether to submit to baidu, optional value: 1 | 0 (0: no; 1: yes)
   txt_path: submit_urls.txt ## The address of the text document, the link to be pushed will be saved in this text document
-  baidu_host: https://weidows.github.io ## Domain name registered in Baidu webmaster platform
+  baidu_host: https://weidows.gitee.io ## Domain name registered in Baidu webmaster platform
   baidu_token: tXk4TVcpo7pxHIuK ## Please note that this is your secret key, so do not publish the website source code in the public repository!
-  bing_host: https://weidows.github.io ## Domain name registered in Bing webmaster platform
-  bing_token: xxxxx ## Please note that this is your secret key, so do not publish the website source code in the public repository!
+  bing_host: https://weidows.gitee.io ## Domain name registered in Bing webmaster platform
+  bing_token: 603e84bf2d784f19bbbda4a04b706e81 ## Please note that this is your secret key, so do not publish the website source code in the public repository!
   google_host: https://weidows.github.io ## Domain name registered in Google webmaster platform
   google_key_file: Project.json #Store the json file of the google key in the root directory of the website (same location as the hexo _config.yml file), please do not publish the source code of the website in the public warehouse!
   replace: 0  # Whether to replace some substrings in links, optional value: 1 | 0 (0: no; 1: yes)

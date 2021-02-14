@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "hexo": "^5.3.0",
-    "hexo-baidu-url-submit": "^0.0.6",
     "hexo-bilibili-bangumi": "^1.5.1",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
