@@ -492,8 +492,7 @@ google_site_verification:
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
 bing_site_verification:
-  - B99F807E806B2C297FF5818253DDD408 #GitHub
-  - B99F807E806B2C297FF5818253DDD408 #Gitee
+  - B99F807E806B2C297FF5818253DDD408 #GitHub+Gitee
 
 # Baidu Webmaster tools verification setting
 # See: https://ziyuan.baidu.com/site/
