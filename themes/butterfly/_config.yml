@@ -486,19 +486,19 @@ google_adsense:
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
 google_site_verification:
-  - 63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y
-  - TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY
+  - 63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y #GitHub
+  - TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY #Gitee
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
-bing_site_verification:
-  - B99F807E806B2C297FF5818253DDD408
+bing_site_verification: B99F807E806B2C297FF5818253DDD408 #GitHub
 
 # Baidu Webmaster tools verification setting
 # See: https://ziyuan.baidu.com/site/
 baidu_site_verification:
   - code-82v5yxnEC4
   - code-iDy54Uv2f1
+  - code-IfmDfNug1l #Gitee
 
 # 360 Webmaster tools verification setting
 # see http://zhanzhang.so.com/
