@@ -189,7 +189,7 @@ deploy:
     branch: main
   # - type: baidu_url_submitter
   - type: cjh_google_url_submitter
-  # - type: cjh_bing_url_submitter
+  - type: cjh_bing_url_submitter
   - type: cjh_baidu_url_submitter
 
 baidu_url_submit:
@@ -202,7 +202,7 @@ hexo_submit_urls_to_search_engine:
   submit_condition: count # Submitted condition, optional value: count | period, Now only supports count
   count: 10 # Submit the latest 10 links
   period: 900 # Submit a link with a modification time of 900 seconds
-  google: 1 #  Whether to submit to Google, optional values: 1 | 0 (0: No; 1: Yes)
+  google: 0 #  Whether to submit to Google, optional values: 1 | 0 (0: No; 1: Yes)
   bing: 1 #  Whether to submit to bing, optional value: 1 | 0 (0: no; 1: yes)
   baidu: 1 # Whether to submit to baidu, optional value: 1 | 0 (0: no; 1: yes)
   txt_path: submit_urls.txt ## The address of the text document, the link to be pushed will be saved in this text document
