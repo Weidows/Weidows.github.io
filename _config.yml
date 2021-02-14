@@ -141,8 +141,8 @@ steam:
   length: 1000
   imgUrl: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/DOAX-VenusVacation/%E6%A8%AA%E5%B1%8F/9f84a622d3519deb534a9da403e0e50b8daba6e9b5aeff0edb87ac8a880b616f.jpeg # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
-    host: localhost # 代理ip或域名
-    port: 7890 # 代理端口
+    # host: localhost # 代理ip或域名
+    # port: 7890 # 代理端口
 
 # douban:
 #   user: 222366733

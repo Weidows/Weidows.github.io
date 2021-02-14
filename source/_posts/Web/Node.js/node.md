@@ -17,7 +17,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-14 16:49:34
+ * @LastEditTime: 2021-02-14 16:51:15
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node.js\node.md
  * @Description:
 -->
@@ -174,6 +174,11 @@ yarn global add vsce
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 运行报错
+
+```
+node_modules\pascal-case\dist\index.js:21
+...
+```
 
 - 有可能是依赖有故障了,其实用不着挨个排除是哪个依赖有问题
 
