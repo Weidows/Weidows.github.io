@@ -2,7 +2,7 @@
 title: <<⭐ 致 ⭐>>
 comments: false
 aside: false
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/317644.jpg
 ---
 
 <!--
@@ -17,7 +17,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
 # `非礼勿进!非礼勿视!`
 
 {% hideBlock 格物致知 %}
-![致](https://cdn.jsdelivr.net/gh/Weidows/Images/img/81f4-bishun.gif)
+![致](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/81f4-bishun.gif)
 {% tabs 致远方 %}
 
 <!-- tab 致远方@fas fa-tag -->

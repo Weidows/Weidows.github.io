@@ -8,7 +8,7 @@ tags:
   - CSS
   - 笔记
 cover: https://i.loli.net/2020/11/30/2WiEbNR47TznHcC.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
 ---
 
 <!--

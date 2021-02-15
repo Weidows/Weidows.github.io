@@ -4,8 +4,8 @@ title: ⭐ 二刺螈车标 ⭐
 #   -
 # tags:
 #   -
-# cover: https://cdn.jsdelivr.net/gh/Weidows/Images/
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024335721.jpeg
+# cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024335721.jpeg
 ---
 
 <!--
@@ -19,14 +19,14 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/160102
 # 都给爷二刺螈起来
 
 {% gallery %}
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024335721.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024357177.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024362625.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024367716.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024374935.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024380044.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024388364.jpeg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/二次元车标/1601024395025.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024335721.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024357177.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024362625.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024367716.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024374935.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024380044.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024388364.jpeg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/二次元车标/1601024395025.jpeg)
 {% endgallery %}
 
 ---

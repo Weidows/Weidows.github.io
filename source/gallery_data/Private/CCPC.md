@@ -4,8 +4,8 @@ title: ⭐ 程序设计大赛 ⭐
 #   -
 # tags:
 #   -
-# cover: https://cdn.jsdelivr.net/gh/Weidows/Images/
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/CCPC.png
+# cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/CCPC/CCPC.png
 ---
 
 <!--
@@ -35,6 +35,6 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/CCPC.png
 # 光阴/影纪念
 
 {% gallery %}
-![有口罩](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/mmexport1601194890457.jpeg)
-![无口罩](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/mmexport1601194895388.jpeg)
+![有口罩](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/CCPC/mmexport1601194890457.jpeg)
+![无口罩](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/CCPC/mmexport1601194895388.jpeg)
 {% endgallery %}

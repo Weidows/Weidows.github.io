@@ -988,7 +988,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   /*添加图片top到返回顶部按钮下*/
   document.getElementById("go-up").innerHTML +=
-    "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/up.png' title='芜湖起飞!' >";
+    "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/up.png' title='芜湖起飞!' >";
 
   // 判断移动端设备,樱花特效
   function browserRedirect() {
@@ -1016,7 +1016,7 @@ document.addEventListener("DOMContentLoaded", function () {
       // 执行樱花效果
       var stop, staticx;
       var img = new Image();
-      img.src = "https://cdn.jsdelivr.net/gh/Weidows/Images/img/Sakura.png";
+      img.src = "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Sakura.png";
       function Sakura(x, y, s, r, fn) {
         this.x = x;
         this.y = y;
@@ -1551,8 +1551,8 @@ document.addEventListener("DOMContentLoaded", function () {
   xiaokang.cheatTitle([
     "这里这里 ◕ ں ◕ ",
     "ヘ(￣ω￣ヘ)走开！",
-    "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/74ef2ed780ee230c08866adfa01dbe297b5467b4.png",
-    "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png",
+    "https://cdn.jsdelivr.net/gh/Weidows/Images@master/Humor/ComicExpression/74ef2ed780ee230c08866adfa01dbe297b5467b4.png",
+    "https://cdn.jsdelivr.net/gh/Weidows/Images@master/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png",
   ]);
   //全局左下角meting
   xiaokang.meting("5213523516", "netease", "playlist");

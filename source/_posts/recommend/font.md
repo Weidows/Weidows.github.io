@@ -7,7 +7,7 @@ tags:
   - Font
   - VScode
 cover: https://i.loli.net/2020/11/30/Xx1sQuZiCoPKAfD.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
 ---
 
 <!--

@@ -8,7 +8,7 @@ tags:
   - VScode
   - Maven
 cover: https://i.loli.net/2020/11/30/xiSTXMhqsgzD7UP.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
 ---
 
 <!--

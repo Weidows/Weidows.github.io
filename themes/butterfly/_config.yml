@@ -68,9 +68,9 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/Weidows || Github
-  fas fa-envelope: UTsuKo27@qq.com || Email
-  fab fa-qq: 2984539695 || QQ号
-  fab fa-weixin: QQ2984539695 || 微信号
+  fas fa-envelope: https://weidows.github.io/tags/about || Email
+  fab fa-qq: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/QQ.jpeg || QQ号
+  fab fa-weixin: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jpeg || 微信号
   fad fa-phone-rotary: +86-18330785221 || 手机号
 
 # search (搜索)
@@ -108,28 +108,28 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/tudoulei.png
+favicon: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/tudoulei.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg
+  img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/chuyin.jpg
+index_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/chuyin.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/wudengfen.jpg
+default_top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/wudengfen.jpg
 
 # The banner image of archive page
-archive_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/dieqi.jpeg
+archive_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/dieqi.jpeg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/wudengfen.jpg
+tag_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/wudengfen.jpg
 
 # The banner image of tag page
 # format:
@@ -138,7 +138,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Categories.jpg
+category_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Categories.jpg
 
 # The banner image of category page
 # format:
@@ -155,18 +155,18 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg
+    - https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/404.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp
-  post_page: https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg
+  flink: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/loading.webp
+  post_page: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "Page Not Found"
-  background: https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg
+  background: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/404.jpg
 
 post_meta:
   page: # Home Page
@@ -217,11 +217,11 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat.jpeg"
-      link: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_ful.jpeg"
+    - img: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/wechat.jpeg"
+      link: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/wechat_ful.jpeg"
       text: 微信
-    - img: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/alipay.jpeg"
-      link: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/alipay_ful.jpeg"
+    - img: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/alipay.jpeg"
+      link: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/alipay_ful.jpeg"
       text: 支付宝
 
 # Post edit
@@ -546,7 +546,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/21.jpeg)
+background: url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/光宇科景/21.jpeg)
 
 # Footer Background
 footer_bg: true
@@ -868,7 +868,7 @@ pangu:
 # https://github.com/verlok/lazyload
 lazyload:
   enable: true
-  post: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp"
+  post: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/loading.webp"
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline

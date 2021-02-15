@@ -226,7 +226,7 @@ hexo new page link
     title: "追番列表" # 页面的标题
     quote: "生命不息，追番不止！" # 写在页面开头的一段话，支持 html 语法
     show: 1 # 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
-    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.gif" # 图片加载完成前的 loading 图片
+    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/loading.gif" # 图片加载完成前的 loading 图片
     metaColor: #  meta 部分(简介上方)字体颜色
     color: # 简介字体颜色
     webp:
@@ -284,7 +284,7 @@ steam:
   quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.jpg" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
     host: # 代理ip或域名
     port: # 代理端口

@@ -10,7 +10,7 @@ tags:
   - pug
   - styl
   - CSS
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片20200725215845.jpeg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Game/Honkai3/QQ图片20200725215845.jpeg
 ---
 
 <!--
@@ -236,39 +236,39 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
   ```styl
   /* 鼠标图标 */
   body
-    cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/1.png), auto
+    cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/1.png), auto
 
   a
     &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
 
   button
     &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
 
   i
     &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
 
   #upj
     &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
 
   #footer-wrap
     a
       &:hover
         text-decoration none
-        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
 
   #pagination
     .page-number
       &:hover
-        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
 
   #nav
     .site-page
       &:hover
-        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/cursor/2.png), auto
   ```
 
 ---
@@ -281,7 +281,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
   - `注意缩进对齐!`
 
   ```js
-    document.getElementById("go-up").innerHTML += "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/up.png' title='芜湖起飞!' >";
+    document.getElementById("go-up").innerHTML += "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/up.png' title='芜湖起飞!' >";
     new xkTool().footFish();
   ```
 

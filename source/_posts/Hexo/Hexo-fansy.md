@@ -156,7 +156,7 @@ img-url：图库封面的地址
 
 例如:
 <div class="gallery-group-main">
-{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery_data/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpg %}
+{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery_data/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/Nu9RF1.jpg %}
 </div>
 ```
 

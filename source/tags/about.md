@@ -1,13 +1,13 @@
 ---
 title: ⭐ 听说你找我? ⭐
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/about_me.jpeg
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-11 21:53:36
+ * @LastEditTime: 2021-02-16 01:00:42
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 <h1 align="center">
@@ -28,15 +28,15 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 `邮箱`: {% btn 'https://mail.qq.com',UTsuKo27@qq.com,far fa-hand-point-right,outline blue larger %}
 
-`QQ`: {% btn 'https://qm.qq.com/cgi-bin/qm/qr?k=3ycBtwX25IMFisvKoD8NIyNBMofXBFFu&noverify=0',@Weidows-齐下无贰,far fa-hand-point-right,outline pink larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline pink larger %}
+`QQ`: {% btn 'https://qm.qq.com/cgi-bin/qm/qr?k=3ycBtwX25IMFisvKoD8NIyNBMofXBFFu&noverify=0',@Weidows-齐下无贰,far fa-hand-point-right,outline pink larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/QQ.jpeg',二维码,far fa-hand-point-right,outline pink larger %}
 
-`Bilibili`:{% btn 'https://space.bilibili.com/38283369',@奀六币的名字,far fa-hand-point-right,outline red larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/Bilibili.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline red larger %}
+`Bilibili`:{% btn 'https://space.bilibili.com/38283369',@齐下无贰,far fa-hand-point-right,outline red larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/Bilibili.jpeg',二维码,far fa-hand-point-right,outline red larger %}
 
-`微信`:{% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg',@Weidows 二维码(img/QRcode),far fa-hand-point-right,outline purple larger %}
+`微信`/`公众号`:{% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/wechat_public.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %}
 
 `Github`/`Gitee`:{% btn 'https://github.com/Weidows',@Weidows,far fa-hand-point-right,outline orange larger %} {% btn 'https://gitee.com/Weidows',@Weidows,far fa-hand-point-right,outline orange larger %}
 
-`CSDN`:{% btn 'https://me.csdn.net/qq_39823295',@Weidows㊣,far fa-hand-point-right,outline green larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/CSDN.jpeg',二维码(img/QRcode),far fa-hand-point-right,outline green larger %}
+`CSDN`:{% btn 'https://me.csdn.net/qq_39823295',@齐下无贰,far fa-hand-point-right,outline green larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/CSDN.jpeg',二维码,far fa-hand-point-right,outline green larger %}
 
 {% hideToggle 其他 %}
 
@@ -55,12 +55,13 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 - **Define :**
 
-  - 花名: `夜之-齐下无贰`
-  - 鸟名: `Weidows-utsuko27`
-  - <details>
-      <summary>Why about these name ?</summary>
+  - 花名: `齐下无贰`
 
-    暗黑主义者,喜欢黑,喜欢夜,喜欢可能性的集合 ~ 夜之
+  - 鸟名: `Weidows-utsuko27`
+
+  - <details>
+
+      <summary>Why about these name ?</summary>
 
     热爱运动,六块腹肌,肚脐下的两块没有 ~ 齐下无贰
 
@@ -77,8 +78,11 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 - **Buff :**
 
   - _普通一本-计算机科学与技术-大二_
+
   - _暂且定于河北-沧州_
+
   - _男-00 当头_
+
   - _非对称式美感喜好与践行者_
 
   ***
