@@ -1,19 +1,20 @@
 ---
-title: { { title } }
-date: { { date } }
-tags:
-  -
+title: {{ title }}
+date: {{ date }}
 categories:
+  -
+tags:
   -
 cover:
 top_img:
 ---
 
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-14 15:43:08
+ * @LastEditTime: 2021-02-18 18:17:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\scaffolds\post.md
  * @Description:
  * @!: *********************************************************************

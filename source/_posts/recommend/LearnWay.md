@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-15 23:11:06
+ * @LastEditTime: 2021-02-16 10:21:07
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -44,6 +44,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - [VScode](#vscode)
   - [主题适配](#主题适配)
   - [插件(包)开发/发布](#插件包开发发布)
+  - [Emmet](#emmet)
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
 - [设计](#设计)
@@ -229,6 +230,12 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 ## 插件(包)开发/发布
 
 > [VScode 插件开发（五）插件包](https://segmentfault.com/a/1190000020435312)
+
+---
+
+## Emmet
+
+> [【Emmet】HTML 速写之 Emmet 语法规则](https://blog.csdn.net/qq_33744228/article/details/80910377)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
