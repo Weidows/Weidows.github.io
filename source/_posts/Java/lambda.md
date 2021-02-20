@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-19 17:19:40
+ * @LastEditTime: 2021-02-19 23:58:06
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\lambda.md
  * @Description:
  * @!: *********************************************************************
@@ -26,6 +26,10 @@ top_img:
 - [进一步](#进一步)
 - [作用域](#作用域)
 - [forEach](#foreach)
+- [多线程](#多线程)
+  - [创建新类](#创建新类)
+  - [匿名内部类](#匿名内部类)
+  - [Lambda](#lambda)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -188,6 +192,85 @@ public class ForEach {
       if (s.length() > 3)
         System.out.println(s);
     });
+  }
+}
+```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 多线程
+
+- 例如我们需要一个实现 Runnable 接口的名为 `myYield`的对象
+
+- 下面是三种方法:
+
+---
+
+## 创建新类
+
+- 复杂,对于像是 Runnable 这种函数化接口,这样实现起来麻烦
+
+```Java
+public class TestYield {
+  public static void main(String[] args) {
+    MyYield myYield = new MyYield();
+
+    new Thread(myYield, "a").start();
+    new Thread(myYield, "b").start();
+  }
+}
+
+class MyYield implements Runnable {
+  @Override
+  public void run() {
+    System.out.println(Thread.currentThread().getName() + "线程开始执行");
+    Thread.yield(); //礼让
+    System.out.println(Thread.currentThread().getName() + "线程停止执行");
+  }
+}
+```
+
+---
+
+## 匿名内部类
+
+- 比上面的简单些,但还可以用 Lambda 更简化
+
+```Java
+public class TestYield {
+  public static void main(String[] args) {
+    Runnable myYield = new Runnable() {
+      @Override
+      public void run() {
+        System.out.println(Thread.currentThread().getName() + "线程开始执行");
+        Thread.yield(); //礼让
+        System.out.println(Thread.currentThread().getName() + "线程停止执行");
+      }
+    };
+
+    new Thread(myYield, "a").start();
+    new Thread(myYield, "b").start();
+  }
+}
+```
+
+---
+
+## Lambda
+
+- 在会用 Lambda 情况下,代码可读性和简洁度大于匿名内部类
+
+```Java
+public class TestYield {
+  public static void main(String[] args) {
+    Runnable myYield = () -> {
+      System.out.println(Thread.currentThread().getName() + "线程开始执行");
+      Thread.yield(); //礼让
+      System.out.println(Thread.currentThread().getName() + "线程停止执行");
+    };
+
+    new Thread(myYield, "a").start();
+    new Thread(myYield, "b").start();
   }
 }
 ```
