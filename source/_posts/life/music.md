@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/02/08/FW48e5VR3BOgvca.jpg
  * @Author: Weidows
  * @Date: 2021-02-08 12:30:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-14 15:44:18
+ * @LastEditTime: 2021-02-27 12:46:01
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\life\music.md
  * @Description:
  * @!: *********************************************************************
@@ -177,3 +177,6 @@ cover: https://i.loli.net/2021/02/08/FW48e5VR3BOgvca.jpg
 # 摘录
 
 > “人，是会思考的芦苇。” ——帕斯卡，《思想录》
+
+> 高晓松说的没错，日本音乐的精髓是旋律，中国音乐的精髓是歌词，欧美音乐的精髓是节奏
+> 来自于起风了在歌曲<< Refrain >>的酷狗评论

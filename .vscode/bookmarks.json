@@ -4,8 +4,18 @@
 			"path": "source/_posts/Web/Node.js/node.md",
 			"bookmarks": [
 				{
-					"line": 143,
-					"column": 12,
+					"line": 144,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "source/_posts/system/Scoop.md",
+			"bookmarks": [
+				{
+					"line": 238,
+					"column": 4,
 					"label": ""
 				}
 			]

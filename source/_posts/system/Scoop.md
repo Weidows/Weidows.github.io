@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:19:42
+ * @LastEditTime: 2021-02-26 00:33:16
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -238,6 +238,13 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 # 备份
 
+- 运行库(安装后就可以卸载)
+
+  ```
+  scoop install vcredist
+  scoop uninstall vcredist vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013
+  ```
+
 - 库
 
   ```shell
@@ -248,6 +255,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 软件
 
   ```shell
+  scoop install 7z
   scoop install aria2
   scoop install git-with-openssh
   scoop install idea-ultimate
@@ -255,6 +263,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop install neofetch
   scoop install nodejs
   scoop install openjdk11
+  scoop install php-nts
   scoop install processing
   scoop install pwsh
   scoop install python

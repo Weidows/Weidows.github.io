@@ -14,13 +14,16 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
  * @Author: Weidows
  * @Date: 2021-01-30 18:40:45
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 16:52:47
+ * @LastEditTime: 2021-02-26 17:39:11
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\UI-design.md
  * @Description:
  * @!: *********************************************************************
 -->
 
 - [头图设计](#头图设计)
+- [呈现方式](#呈现方式)
+  - [图>字](#图字)
+  - [非标准与留白](#非标准与留白)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -54,3 +57,25 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
   - 推荐下,我这篇文章用的是[`可画`](https://www.canva.cn/) 网做出来的,我改了改字就可以使用了.
 
 - 上手时间成本几乎没有,现阶段可以说是最直接有效的解决方案了.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 呈现方式
+
+## 图>字
+
+- 有些情况下,同样的内容,同样的格式性,图片效果还是会更显著
+
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226172913.png" alt="20210226172913" />
+
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226173119.png" alt="20210226173119" />
+
+---
+
+## 非标准与留白
+
+- 比如上面的两张图,有毛边效果,用的好的话可以让人眼前一亮(我截的图比较差)
+
+- 还有留白(padding),下图的留白就不是很好,略小了
+
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226173845.png" alt="20210226173845" />
