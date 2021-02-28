@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-26 00:33:16
+ * @LastEditTime: 2021-02-27 15:51:19
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -268,6 +268,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop install pwsh
   scoop install python
   scoop install rainmeter
+  scoop install tomcat
   scoop install vncviewer
   scoop install vscode
   scoop install yarn

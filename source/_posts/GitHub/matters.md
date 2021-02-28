@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:02:42
+ * @LastEditTime: 2021-02-27 14:44:37
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\GitHub\matters.md
  * @Description:
 -->
@@ -25,6 +25,7 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
 - [删除远程分支](#删除远程分支)
 - [Git 凭证](#git-凭证)
   - [解决办法](#解决办法)
+- [被墙问题](#被墙问题)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -79,4 +80,32 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
 
   ```
   git config --global credential.helper store
+  ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 被墙问题
+
+- 有时候 github 会被墙,导致无法推送,需要挂代理
+
+- 方案:
+
+  ```shell
+  git config --global https.proxy http://127.0.0.1:1080
+  ```
+
+- 或者直接修改`~/.gitconfig`文件
+
+  ```
+  [core]
+    autocrlf = true
+    longpaths = true
+    editor = code.exe
+  [user]
+    name = Weidows
+    email = utsuko27@qq.com
+  [http]
+    proxy = localhost://127.0.0.1:7890
+  [https]
+    proxy = localhost://127.0.0.1:7890
   ```
