@@ -12,7 +12,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jp
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-16 00:48:31
+ * @LastEditTime: 2021-03-01 17:30:02
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\gallery_data\Private\QRcode.md
 -->
 
@@ -28,9 +28,10 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jp
 
 ---
 
-# 头像
+# 往昔头像
 
 {% gallery %}
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar-1.jpg)
 ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/timg.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.jpg)
 {% endgallery %}

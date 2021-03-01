@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:00:14
+ * @LastEditTime: 2021-03-01 11:39:01
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
@@ -34,10 +34,11 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 
 # 环境配置
 
-- 不同于 Windows 自带的 PowerShell,这个 PowerShell 需要另行安装(百度搜,安装上就行)
+- 不同于 Windows 自带的 Windows PowerShell,这个 PowerShell 需要另行安装(百度搜,安装上就行)
 - 配置环境变量:Path 里面+ 格式参照如下:
   - `D:\Game\Demo\PowerShell\`
   - 如果用 VScode 的话,实际上不设置环境变量也行,因为在 VScode 内需要指定 powershell 路径
+  - Scoop 安装全自动,不需要配置.
 
 ---
 
@@ -68,7 +69,7 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
   ```
   Import-Module oh-my-posh
   Import-Module posh-git
-  Set-Theme Powerlevel10k-Classic
+  Set-PoshPrompt -Theme powerlevel10k_classic
   ```
 
 - `Posh中类似Linux形式补全`
@@ -93,12 +94,25 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 
 # `oh-my-posh`主题
 
+- 查看所有主题
+
+  ```shell
+  Get-PoshThemes
+  ```
+
 - 用法:
-  - 上面的`启用主题`里面`Set-Theme Powerlevel10k-Classic`修改这一行
-  - 把`Powerlevel10k-Classic`替换成以下想要使用的主题名字
+
+  ```shell
+  Set-PoshPrompt -Theme xxx
+  ```
+
   - (自上之下按本人推荐程度排序,`萝卜白菜各有所爱`,希望能找到您喜欢的~)
+
   ***
+
 - 推荐
+
+  ```
   Powerlevel10k-Classic (好看没的说)
   AgnosterPlus
   Paradox (最常用)
@@ -109,8 +123,13 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
   Pararussel
   Material
   Zash
+  ```
+
   ***
+
 - 不是很推荐的
+
+  ```
   Honukai
   Agnoster
   ys
@@ -123,6 +142,7 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
   robbyrussell
   Fish (错位)
   qwerty
+  ```
 
 ---
 

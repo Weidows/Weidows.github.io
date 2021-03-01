@@ -1555,7 +1555,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "https://cdn.jsdelivr.net/gh/Weidows/Images@master/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png",
   ]);
   //全局左下角meting
-  xiaokang.meting("5213523516", "netease", "playlist");
+  // xiaokang.meting("5213523516", "netease", "playlist");
 
   refreshFn();
   unRefreshFn();
