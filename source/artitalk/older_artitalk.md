@@ -7,8 +7,8 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/光宇科景/
  * @Author: Weidows
  * @Date: 2020-08-25 11:15:06
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-06 21:28:16
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\artitalk\older_artitalk.md
+ * @LastEditTime: 2021-03-02 08:21:01
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\artitalk\older_artitalk.md
 -->
 
 <script type="text/javascript" src="https://unpkg.com/artitalk"></script>
@@ -21,7 +21,7 @@ new Artitalk({
   shuoPla: 'Weidows想说点啥..',
   motion: 1, //加载动画
   atComment: 1, //评论
-  avatarPla: 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.jpg',
+  avatarPla: 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png',
   // bgImg: '',
 })
 </script>

@@ -9,8 +9,8 @@ comments: false
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-24 20:45:59
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\tags\comment.md
+ * @LastEditTime: 2021-03-01 22:51:21
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\comment.md
 -->
 
 <h1 align="center">
@@ -19,7 +19,7 @@ comments: false
 
 ~泥奏凯,这页不让你说话~
 
-[出门右转`友人帐`签个到](./link)
+<a href="./link">出门右转`友人帐`签个到</a>
 
 ---
 

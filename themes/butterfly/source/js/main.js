@@ -1190,11 +1190,11 @@ document.addEventListener("DOMContentLoaded", function () {
         return (
           this.changeBanner(e, t),
           console.log(
-            "\n %c 小康蝴蝶主题魔改工具库" +
-              this.version +
-              " %c https://docs.tzki.cn/xkTool/ \n",
-            "color: #fff; background: #4285f4; padding:5px 0;",
-            "background: #66CCFF; padding:5px 0;"
+            // "\n %c 小康蝴蝶主题魔改工具库" +
+            //   this.version +
+            //   " %c https://docs.tzki.cn/xkTool/ \n",
+            // "color: #fff; background: #4285f4; padding:5px 0;",
+            // "background: #66CCFF; padding:5px 0;"
           ),
           this
         );
@@ -1327,16 +1327,16 @@ document.addEventListener("DOMContentLoaded", function () {
         },
       }),
       c.prototype.extend({
-        appendSocial: function (e) {
-          for (var t in e)
-            $(".card-info-social-icons").append(
-              '<a class="social-icon" href="' +
-                e[t] +
-                '" target="_blank"><svg class="icon" aria-hidden="true" style="width: 1em;height: 1em;vertical-align: -0.15em;fill: currentColor;overflow: hidden;"><use xlink:href="#' +
-                t +
-                '"></use></svg></a>'
-            );
-        },
+        // appendSocial: function (e) {
+        //   for (var t in e)
+        //     $(".card-info-social-icons").append(
+        //       '<a class="social-icon" href="' +
+        //         e[t] +
+        //         '" target="_blank"><svg class="icon" aria-hidden="true" style="width: 1em;height: 1em;vertical-align: -0.15em;fill: currentColor;overflow: hidden;"><use xlink:href="#' +
+        //         t +
+        //         '"></use></svg></a>'
+        //     );
+        // },
         cheatTitle: function (e, t, n, a) {
           var i,
             o = document.title;
@@ -1363,119 +1363,119 @@ document.addEventListener("DOMContentLoaded", function () {
             this
           );
         },
-        magicCirle: function (e, t, n, a) {
-          return (
-            $(".scroll-down").after(
-              '<canvas id="canvas" width="1700px" height="470"></canvas>'
-            ),
-            $(""),
-            ($.fn.circleMagic = function (e) {
-              var o,
-                r,
-                n,
-                a,
-                s,
-                t = !0,
-                i = [],
-                c = $.extend(
-                  {
-                    elem: ".header",
-                    color: "rgba(255,225,225,.4)",
-                    radius: 20,
-                    densety: 0.3,
-                    clearOffset: 0.2,
-                  },
-                  e
-                );
-              function l() {
-                t = !(document.body.scrollTop > r);
-              }
-              function d() {
-                (o = u.innerWidth),
-                  (r = u.innerHeight),
-                  (n.style.height = r + "px"),
-                  (a.width = o),
-                  (a.height = r);
-              }
-              function h() {
-                if (t) for (var e in (s.clearRect(0, 0, o, r), i)) i[e].draw();
-                requestAnimationFrame(h);
-              }
-              function g() {
-                var i = this;
-                function e() {
-                  var e, t, n, a;
-                  (i.pos.x = Math.random() * o),
-                    (i.pos.y = r + 100 * Math.random()),
-                    (i.alpha = 0.1 + Math.random() * c.clearOffset),
-                    (i.scale = 0.1 + 0.3 * Math.random()),
-                    (i.speed = Math.random()),
-                    "random" === c.color
-                      ? (i.color =
-                          ((e = Math.floor(255 * Math.random())),
-                          (t = Math.floor(255 * Math.random())),
-                          (n = Math.floor(255 * Math.random())),
-                          (a = Math.random().toPrecision(2)),
-                          "rgba("
-                            .concat(e, ", ")
-                            .concat(t, ", ")
-                            .concat(n, ", ")
-                            .concat(a, ")")))
-                      : (i.color = c.color);
-                }
-                (i.pos = {}),
-                  e(),
-                  (this.draw = function () {
-                    i.alpha <= 0 && e(),
-                      (i.pos.y -= i.speed),
-                      (i.alpha -= 5e-4),
-                      s.beginPath(),
-                      s.arc(
-                        i.pos.x,
-                        i.pos.y,
-                        i.scale * c.radius,
-                        0,
-                        2 * Math.PI,
-                        !1
-                      ),
-                      (s.fillStyle = i.color),
-                      s.fill(),
-                      s.closePath();
-                  });
-              }
-              !(function () {
-                (o = $(u).width()),
-                  (r = $(u).height()),
-                  ((n = document.querySelector(c.elem)).style.height =
-                    r + "px"),
-                  (function () {
-                    var e = document.createElement("canvas");
-                    (e.id = "canvas"), n.append(e);
-                  })(),
-                  ((a = document.getElementById("canvas")).width = o),
-                  (a.height = r),
-                  (s = a.getContext("2d"));
-                for (var e = 0; e < o * c.densety; e++) {
-                  var t = new g();
-                  i.push(t);
-                }
-                h();
-              })(),
-                u.addEventListener("scroll", l),
-                u.addEventListener("resize", d);
-            }),
-            $(".full_page")
-              .css({ overflow: "hidden" })
-              .circleMagic({
-                elem: ".full_page",
-                radius: e || 18,
-                densety: t || 0.1,
-                color: n || "random",
-                clearOffset: a || 0.3,
-              }),
-            this
-          );
-        },
+        // magicCirle: function (e, t, n, a) {
+        //   return (
+        //     $(".scroll-down").after(
+        //       '<canvas id="canvas" width="1700px" height="470"></canvas>'
+        //     ),
+        //     $(""),
+        //     ($.fn.circleMagic = function (e) {
+        //       var o,
+        //         r,
+        //         n,
+        //         a,
+        //         s,
+        //         t = !0,
+        //         i = [],
+        //         c = $.extend(
+        //           {
+        //             elem: ".header",
+        //             color: "rgba(255,225,225,.4)",
+        //             radius: 20,
+        //             densety: 0.3,
+        //             clearOffset: 0.2,
+        //           },
+        //           e
+        //         );
+        //       function l() {
+        //         t = !(document.body.scrollTop > r);
+        //       }
+        //       function d() {
+        //         (o = u.innerWidth),
+        //           (r = u.innerHeight),
+        //           (n.style.height = r + "px"),
+        //           (a.width = o),
+        //           (a.height = r);
+        //       }
+        //       function h() {
+        //         if (t) for (var e in (s.clearRect(0, 0, o, r), i)) i[e].draw();
+        //         requestAnimationFrame(h);
+        //       }
+        //       function g() {
+        //         var i = this;
+        //         function e() {
+        //           var e, t, n, a;
+        //           (i.pos.x = Math.random() * o),
+        //             (i.pos.y = r + 100 * Math.random()),
+        //             (i.alpha = 0.1 + Math.random() * c.clearOffset),
+        //             (i.scale = 0.1 + 0.3 * Math.random()),
+        //             (i.speed = Math.random()),
+        //             "random" === c.color
+        //               ? (i.color =
+        //                   ((e = Math.floor(255 * Math.random())),
+        //                   (t = Math.floor(255 * Math.random())),
+        //                   (n = Math.floor(255 * Math.random())),
+        //                   (a = Math.random().toPrecision(2)),
+        //                   "rgba("
+        //                     .concat(e, ", ")
+        //                     .concat(t, ", ")
+        //                     .concat(n, ", ")
+        //                     .concat(a, ")")))
+        //               : (i.color = c.color);
+        //         }
+        //         (i.pos = {}),
+        //           e(),
+        //           (this.draw = function () {
+        //             i.alpha <= 0 && e(),
+        //               (i.pos.y -= i.speed),
+        //               (i.alpha -= 5e-4),
+        //               s.beginPath(),
+        //               s.arc(
+        //                 i.pos.x,
+        //                 i.pos.y,
+        //                 i.scale * c.radius,
+        //                 0,
+        //                 2 * Math.PI,
+        //                 !1
+        //               ),
+        //               (s.fillStyle = i.color),
+        //               s.fill(),
+        //               s.closePath();
+        //           });
+        //       }
+        //       !(function () {
+        //         (o = $(u).width()),
+        //           (r = $(u).height()),
+        //           ((n = document.querySelector(c.elem)).style.height =
+        //             r + "px"),
+        //           (function () {
+        //             var e = document.createElement("canvas");
+        //             (e.id = "canvas"), n.append(e);
+        //           })(),
+        //           ((a = document.getElementById("canvas")).width = o),
+        //           (a.height = r),
+        //           (s = a.getContext("2d"));
+        //         for (var e = 0; e < o * c.densety; e++) {
+        //           var t = new g();
+        //           i.push(t);
+        //         }
+        //         h();
+        //       })(),
+        //         u.addEventListener("scroll", l),
+        //         u.addEventListener("resize", d);
+        //     }),
+        //     $(".full_page")
+        //       .css({ overflow: "hidden" })
+        //       .circleMagic({
+        //         elem: ".full_page",
+        //         radius: e || 18,
+        //         densety: t || 0.1,
+        //         color: n || "random",
+        //         clearOffset: a || 0.3,
+        //       }),
+        //     this
+        //   );
+        // },
         footFish: function () {
           return (
             $("#footer-wrap").css({
@@ -1496,26 +1496,26 @@ document.addEventListener("DOMContentLoaded", function () {
             this
           );
         },
-        aplayer: function (n) {
-          $("head").append(
-            '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@v0.1/Hexo/assets/css/APlayer.min.css" class="aplayer-style-marker">'
-          ),
-            $.getScript(
-              "https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile/Hexo/assets/js/APlayer.min.js",
-              function () {
-                for (var e in ($("body").prepend(
-                  '<div id="xiaokang-aplayer"></div>'
-                ),
-                (aplayerObj = {
-                  container: document.getElementById("xiaokang-aplayer"),
-                }),
-                n))
-                  "container" != e && (aplayerObj[e] = n[e]);
-                var t = new APlayer(aplayerObj);
-                return console.log(aplayerObj), t;
-              }
-            );
-        },
+        // aplayer: function (n) {
+        //   $("head").append(
+        //     '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@v0.1/Hexo/assets/css/APlayer.min.css" class="aplayer-style-marker">'
+        //   ),
+        //     $.getScript(
+        //       "https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile/Hexo/assets/js/APlayer.min.js",
+        //       function () {
+        //         for (var e in ($("body").prepend(
+        //           '<div id="xiaokang-aplayer"></div>'
+        //         ),
+        //         (aplayerObj = {
+        //           container: document.getElementById("xiaokang-aplayer"),
+        //         }),
+        //         n))
+        //           "container" != e && (aplayerObj[e] = n[e]);
+        //         var t = new APlayer(aplayerObj);
+        //         return console.log(aplayerObj), t;
+        //       }
+        //     );
+        // },
         meting: function (e, t, n) {
           $("head").append(
             '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@v0.1/Hexo/assets/css/APlayer.min.css" class="aplayer-style-marker">'

@@ -16,11 +16,36 @@ cover: https://i.loli.net/2021/01/20/lu7MVrgdPExk6Rc.png
  * @Author: Weidows
  * @Date: 2021-01-20 01:47:21
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:22:57
+ * @LastEditTime: 2021-03-01 22:55:35
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-3.md
  * @Description:
  * @!: *********************************************************************
 -->
+
+- [对象](#对象)
+  - [Date](#date)
+  - [Json](#json)
+  - [AJAX](#ajax)
+- [面向对象](#面向对象)
+  - [原型](#原型)
+  - [类和继承](#类和继承)
+- [BOM 对象](#bom-对象)
+  - [window](#window)
+  - [~~Navigator~~](#navigator)
+  - [screen](#screen)
+  - [`location`](#location)
+  - [document](#document)
+- [DOM 对象‼](#dom-对象)
+  - [获得节点](#获得节点)
+  - [更新节点](#更新节点)
+  - [删除节点](#删除节点)
+  - [插入节点](#插入节点)
+  - [排列节点](#排列节点)
+- [操作表单](#操作表单)
+  - [获得表单信息](#获得表单信息)
+  - [提交表单](#提交表单)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # 对象
 

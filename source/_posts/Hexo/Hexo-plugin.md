@@ -16,7 +16,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:06:04
+ * @LastEditTime: 2021-03-02 08:20:51
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\Hexo-plugin.md
 -->
 
@@ -284,7 +284,7 @@ steam:
   quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.jpg" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
     host: # 代理ip或域名
     port: # 代理端口
