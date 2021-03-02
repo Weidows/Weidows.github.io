@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-02 22:54:58
+ * @LastEditTime: 2021-03-02 23:11:09
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\IDEs.md
  * @Description:
  * @!: *********************************************************************
@@ -84,7 +84,7 @@ top_img:
     <head>
       <meta charset="UTF-8" />
       <title>Title</title>
-      <script src="../lib/jquery-3.5.1.min.js"></script>
+      <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <style>
         #divMove {
           width: 500px;
