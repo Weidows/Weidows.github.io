@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-27 15:51:19
+ * @LastEditTime: 2021-03-04 23:34:38
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -30,7 +30,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - [Scoop 配置文件](#scoop-配置文件)
 - [好文传送](#好文传送)
 - [安装异常](#安装异常)
-- [备份](#备份)
+- [备份&推荐](#备份推荐)
 
 # 引入变量
 
@@ -236,7 +236,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
-# 备份
+# 备份&推荐
 
 - 运行库(安装后就可以卸载)
 
@@ -250,16 +250,21 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   ```shell
   scoop bucket add java
   scoop bucket add extras
+  scoop bucket add nonportable
   ```
 
 - 软件
 
   ```shell
-  scoop install 7z
+  scoop install 7zip
   scoop install aria2
+  scoop install dark
   scoop install git-with-openssh
   scoop install idea-ultimate
+  scoop install innounp
+  scoop install lessmsi
   scoop install maven
+  scoop install mysql
   scoop install neofetch
   scoop install nodejs
   scoop install openjdk11
@@ -267,7 +272,11 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop install processing
   scoop install pwsh
   scoop install python
+  scoop install qttabbar-np
   scoop install rainmeter
+  scoop install scoop
+  scoop install sqlyog-community
+  scoop install steam
   scoop install tomcat
   scoop install vncviewer
   scoop install vscode

@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-28 16:58:07
+ * @LastEditTime: 2021-03-06 00:14:52
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -34,6 +34,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [文档注释](#文档注释)
   - [Lambda 表达式](#lambda-表达式)
   - [网络编程](#网络编程)
+  - [URL 类](#url-类)
 - [HTML/CSS](#htmlcss)
   - [入门](#入门-1)
   - [进阶](#进阶-1)
@@ -50,6 +51,8 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [2038 问题](#2038-问题)
 - [设计](#设计)
 - [Docker](#docker)
+- [操作系统](#操作系统)
+  - [进程,线程,CPU 核心,并行,并发](#进程线程cpu-核心并行并发)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -164,6 +167,12 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
+---
+
+## URL 类
+
+> [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
+
 # HTML/CSS
 
 - 一般这俩是合在一起学的,相关性较强.
@@ -261,10 +270,19 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 - 跳到新文章吧,写在这太长.
 
-> [🙌UI 平面设计.](../../design/UI-design)
+  > [🙌UI 平面设计.](../../design/UI-design)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
 # Docker
 
 > [初探 Docker](https://www.bilibili.com/video/BV1vD4y1X7ce)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 操作系统
+
+## 进程,线程,CPU 核心,并行,并发
+
+- 总结了一下:
+  > [🤷‍♂️ 进程,线程,CPU 核心,并行,并发大杂碎!](../../system/process-thread)

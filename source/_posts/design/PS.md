@@ -15,14 +15,26 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 16:52:29
+ * @LastEditTime: 2021-03-03 16:44:18
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
 
+- [快捷键](#快捷键)
 - [解锁图层](#解锁图层)
 - [透明背景](#透明背景)
 - [定向变色](#定向变色)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 快捷键
+
+|        功能        |   快捷键   |
+| :----------------: | :--------: |
+|      复制图层      | `Ctrl + J` |
+| 调整图层位置和大小 | `Ctrl + T` |
+
+---
 
 # 解锁图层
 
