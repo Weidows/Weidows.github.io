@@ -17,7 +17,7 @@ cover: https://i.loli.net/2021/02/03/YqH4ru9kGy5UdLt.jpg
  * @Author: Weidows
  * @Date: 2021-02-03 14:00:21
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:19:18
+ * @LastEditTime: 2021-03-07 00:18:55
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Manjaro-Server.md
  * @Description:
  * @!: *********************************************************************
@@ -162,6 +162,8 @@ sudo pacman-mirrors -i -c China -m rank
 > [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
 
 # 软件安装
+
+> [msys2 pacman 常用命令以及添加国内源加速 pacman](https://blog.csdn.net/john_bh/article/details/104652224)
 
 ```
 sudo pacman -S docker

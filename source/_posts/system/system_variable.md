@@ -19,15 +19,12 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:19:52
+ * @LastEditTime: 2021-03-07 16:46:32
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
 
-- [环境变量含义:](#环境变量含义)
-  - [环境变量含义](#环境变量含义-1)
-  - [系统/用户环境变量](#系统用户环境变量)
-  - [环境变量与 Path](#环境变量与-path)
+- [深入环境变量](#深入环境变量)
 - [Scoop](#scoop)
 - [JDK](#jdk)
 - [Maven](#maven)
@@ -37,36 +34,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
-# 环境变量含义:
+# 深入环境变量
 
-## 环境变量含义
-
-- 理解含义很大程度上就能明白自己到底错在哪里,有些问题靠百度很难搜出来,但是真正解决需要的时间可能远小于百度搜的时间
-- Windows 系统上一般使用的终端 console 是 cmd(虽然很辣鸡但还是得用它)
-  - 这个终端可以直接调用启动`.cmd`/`.bat`/`.exe`这种后缀名的文件
-    - (你可以在你配置的语言\bin\目录下轻易找到 XXX.exe 等等这种文件)
-  - 如果不输入这种文件的具体路径,终端没法找到这个文件到底在哪里
-  - 于是环境变量就相当于在 cmd 上登了记,不写路径直接写名字就能启动,比如环境变量设置为`你的JDK\bin\`,然后在 cmd 输入`java`,cmd 就是去找这个目录下有没有`java.exe`这种文件,有的话,你就配置成功了!
-  ***
-
-## 系统/用户环境变量
-
-- 这个区别在于你的电脑是否是多用户
-
-  - 如果你在用户环境变量配置好了编程环境,那么在 Windows 的另一个用户上无效
-
-- 所以,劝你在系统环境变量框里配置
-
-  - 有些环境变量配置好之后需要重启电脑生效.
-
-  ***
-
-## 环境变量与 Path
-
-- 这个是引用关系,比如 Path 里面的`%JAVA_HOME%`会引用名为`JAVA_HOME`的环境变量值
-- Path 里面从上到下为优先级,上面的优先级高.
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+> [🎇深入解析Window环境变量.](../深入环境变量)
 
 # Scoop
 
