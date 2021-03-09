@@ -15,7 +15,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
  * @Author: Weidows
  * @Date: 2021-01-03 15:18:46
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:21:33
+ * @LastEditTime: 2021-03-09 11:12:38
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\vscode\extension-develop.md
  * @Description:
  * @!: *********************************************************************
@@ -26,6 +26,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
 - [打包](#打包)
 - [发布](#发布)
 - [结合 GitHub](#结合-github)
+- [剖析 package.json](#剖析-packagejson)
 
 # 前期准备
 
@@ -105,3 +106,123 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
 - 项目结构
 
   <img src="https://i.loli.net/2021/01/03/UbD9VspYcdH7Ojn.png" alt="20210103160252" />
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 剖析 package.json
+
+- 借用`Git Graph`插件简单分析一下 package 中的配置 (因为文件过长,已删掉一部分)
+
+  ```json
+  {
+    // 插件注册名
+    "name": "git-graph",
+    // 插件显示的名字
+    "displayName": "Git Graph",
+    // 版本
+    "version": "1.29.0",
+    // 发布者(只能一人)
+    "publisher": "mhutchie",
+    // 作者(多人)
+    "author": {
+      "name": "Michael Hutchison",
+      "email": "mhutchie@16right.com"
+    },
+    // 插件描述
+    "description": "View a Git Graph of your repository, and perform Git actions from the graph.",
+    // 关键词(供搜索用)
+    "keywords": ["git", "graph", "visualise", "diff", "action"],
+    "categories": ["Other"],
+    "homepage": "https://github.com/mhutchie/vscode-git-graph",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mhutchie/vscode-git-graph.git"
+    },
+    "bugs": {
+      "url": "https://github.com/mhutchie/vscode-git-graph/issues"
+    },
+    // Question & answer
+    "qna": "https://github.com/mhutchie/vscode-git-graph/wiki/Support-Resources",
+    "license": "SEE LICENSE IN 'LICENSE'",
+    // 插件图标
+    "icon": "resources/icon.png",
+    "engines": {
+      "vscode": "^1.38.0"
+    },
+    "extensionKind": ["workspace"],
+    "activationEvents": ["*"],
+    // 入口文件
+    "main": "./out/extension.js",
+    // 对接vscode接口
+    "contributes": {
+      // 命令面板的命令
+      "commands": [
+        {
+          "category": "Git Graph",
+          "command": "git-graph.view",
+          "title": "View Git Graph (git log)",
+          "icon": {
+            "light": "resources/cmd-icon-light.svg",
+            "dark": "resources/cmd-icon-dark.svg"
+          }
+        },
+        {
+          "category": "Git Graph",
+          "command": "git-graph.addGitRepository",
+          "title": "Add Git Repository..."
+        }
+      ],
+      // 插件的设置
+      "configuration": {
+        "type": "object",
+        "title": "Git Graph",
+        "properties": {
+          "git-graph.commitDetailsView.autoCenter": {
+            "type": "boolean",
+            "default": true,
+            "description": "Automatically center the Commit Details View when it is opened."
+          },
+          "git-graph.commitDetailsView.fileView.fileTree.compactFolders": {
+            "type": "boolean",
+            "default": true,
+            "description": "Render the File Tree in the Commit Details View in a compacted form, such that folders with a single child folder are compressed into a single combined folder element."
+          }
+        }
+      },
+      // 插件在vscode界面的显示
+      "menus": {
+        "scm/title": [
+          {
+            "when": "scmProvider == git && config.git-graph.sourceCodeProviderIntegrationLocation == 'Inline'",
+            "command": "git-graph.view",
+            "group": "navigation"
+          },
+          {
+            "when": "scmProvider == git && config.git-graph.sourceCodeProviderIntegrationLocation == 'More Actions'",
+            "command": "git-graph.view",
+            "group": "inline"
+          }
+        ]
+      }
+    },
+    // 开发用的脚本
+    "scripts": {
+      "test": "jest --verbose",
+      "test-and-report-coverage": "jest --verbose --coverage"
+    },
+    // 运行依赖
+    "dependencies": {
+      "iconv-lite": "0.5.0"
+    },
+    // 开发依赖
+    "devDependencies": {
+      "typescript": "4.0.2",
+      "uglify-js": "3.10.0"
+    },
+    "__metadata": {
+      "id": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
+      "publisherId": "996496dc-099f-469d-b89c-0d7713179365",
+      "publisherDisplayName": "mhutchie"
+    }
+  }
+  ```

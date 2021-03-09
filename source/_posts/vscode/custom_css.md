@@ -6,6 +6,7 @@ categories:
 tags:
   - VScode
   - CSS
+  - 美化
 cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
 ---
@@ -13,15 +14,14 @@ cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:21:05
+ * @LastEditTime: 2021-03-08 18:48:15
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\vscode\custom_css.md
 -->
 
 - [简介](#简介)
 - [需要的东西](#需要的东西)
 - [CSS 引入](#css-引入)
-  - [怎么引入:](#怎么引入)
-  - [源码 Github 链接](#源码-github-链接)
+- [源码链接](#源码链接)
 
 # 简介
 
@@ -37,8 +37,12 @@ cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
 # 需要的东西
 
 - `Custom CSS and JS Loader`
+
   - 这是 VScode 商店里的一个插件,用来引入用户想引入的 CSS/JS 文件
   - 这篇文章只需要下载这一个插件,其他的用不着~~~
+
+  ***
+
 - 我们想引入的 CSS 渲染文件
   - 这个由于不同人,不同审美,在此只放下我个人的 CSS 源码
   - 如果你想找其他版本可以搜`SynthWave`来寻找符合心意的主题,并定位其中的 CSS,拿过来供自己使用(不违法:)
@@ -47,19 +51,25 @@ cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
 
 # CSS 引入
 
-## 怎么引入:
-
 - 在 VScode 设置文件里加入下面的代码
 
-```
-"vscode_custom_css.imports": ["file:///D:/Game/Demo/Weidows/.vscode/lights-on.css"]
-```
+  ```json
+  "vscode_custom_css.imports": ["[file:///D:/Game/Demo/Weidows/.vscode/lights-on.css](https://cdn.jsdelivr.net/gh/Weidows/Weidows/.vscode/lights-on.css)"]
+  ```
 
 - 注意`路径`和`文件名`对应好,`必须修改`
 - 上面步骤完成并引入下面 CSS 后,就会产生如下效果:
 
-![20201124011913](https://i.loli.net/2020/11/30/Mue7ZD5zR1vCkLf.jpg)
+  - 初版
 
----
+    ![20201124011913](https://i.loli.net/2020/11/30/Mue7ZD5zR1vCkLf.jpg)
 
-## [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/.vscode/lights-on.css)
+  - 二版
+
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210308184630.png" alt="20210308184630" />
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 源码链接
+
+> [源码链接](https://github.com/Weidows/Weidows/blob/master/.vscode/lights-on.css)
