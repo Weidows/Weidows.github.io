@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/fsj7FMhOw2WpigX.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 16:57:09
+ * @LastEditTime: 2021-03-11 23:43:02
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 
@@ -64,6 +64,10 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
   链接：https://www.jianshu.com/p/861c1a630059
   来源：简书
   ```
+
+- `llvm-mingw`
+
+  - scoop 里发现的神奇环境,是 win-clang
 
 ---
 
@@ -157,7 +161,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 }
 ```
 
-## [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/.vscode)
+## [源码 Github 链接](https://github.com/Weidows/Weidows/tree/master/.vscode)
 
 ---
 

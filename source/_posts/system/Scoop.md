@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-04 23:34:38
+ * @LastEditTime: 2021-03-11 12:24:42
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -24,8 +24,11 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - [引入变量](#引入变量)
 - [各个优缺点](#各个优缺点)
-- [Scoop](#scoop)
+- [Scoop 安装](#scoop-安装)
+- [scoop-completion](#scoop-completion)
 - [加速下载](#加速下载)
+  - [通过 aria2](#通过-aria2)
+  - [通过代理](#通过代理)
 - [Scoop 绝活](#scoop-绝活)
 - [Scoop 配置文件](#scoop-配置文件)
 - [好文传送](#好文传送)
@@ -73,7 +76,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
-# Scoop
+# Scoop 安装
 
 - 安装前先设置下 Scoop 的`安装路径`
 - 下面操作需要在 pwsh 中进行,没有的话可以手动操作.
@@ -146,9 +149,25 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
+# scoop-completion
+
+- scoop 命令按 tab 自动补全
+
+- 安装
+
+  - 需要先添加 dorado 库[(备份&推荐)](#备份&推荐),然后才能安装.
+
+  ```
+  scoop install scoop-completion
+  ```
+
+---
+
 # 加速下载
 
-- [安装 aria2](#备份)
+## 通过 aria2
+
+- 安装 `aria2`
 
 - 配置
 
@@ -156,6 +175,22 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop config aria2-split 32
   scoop config aria2-max-connection-per-server 16
   scoop config aria2-min-split-size 1M
+  ```
+
+---
+
+## 通过代理
+
+- 设置代理
+
+  ```
+  scoop config proxy localhost:7890
+  ```
+
+- 移除代理
+
+  ```
+  scoop config rm proxy
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
@@ -175,6 +210,8 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 # Scoop 配置文件
 
 > 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
+
+> [我的配置文件链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/config.json)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -247,38 +284,8 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 库
 
-  ```shell
-  scoop bucket add java
-  scoop bucket add extras
-  scoop bucket add nonportable
-  ```
+  > [链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/buckets.bak)
 
 - 软件
 
-  ```shell
-  scoop install 7zip
-  scoop install aria2
-  scoop install dark
-  scoop install git-with-openssh
-  scoop install idea-ultimate
-  scoop install innounp
-  scoop install lessmsi
-  scoop install maven
-  scoop install mysql
-  scoop install neofetch
-  scoop install nodejs
-  scoop install openjdk11
-  scoop install php-nts
-  scoop install processing
-  scoop install pwsh
-  scoop install python
-  scoop install qttabbar-np
-  scoop install rainmeter
-  scoop install scoop
-  scoop install sqlyog-community
-  scoop install steam
-  scoop install tomcat
-  scoop install vncviewer
-  scoop install vscode
-  scoop install yarn
-  ```
+  > [链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/apps.bak)

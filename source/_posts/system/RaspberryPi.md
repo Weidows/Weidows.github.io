@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:19:29
+ * @LastEditTime: 2021-03-11 23:50:41
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
@@ -55,6 +55,8 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
   }
   ```
+
+  > [文件链接](https://github.com/Weidows/Programming-Configuration/tree/master/raspberryPi/boot)
 
   - 预览
 

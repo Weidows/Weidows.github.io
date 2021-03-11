@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-01 11:39:01
+ * @LastEditTime: 2021-03-11 23:48:26
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
@@ -47,7 +47,6 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 - `oh-my-posh` (Posh 增强主题) && `posh-git` (用于扩展 Posh 里的 Git)
 
   ```
-  Install-Module posh-git
   Install-Module oh-my-posh
   ```
 
@@ -63,6 +62,8 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 ---
 
 # 启用主题及插件
+
+> [我的配置文件链接](https://github.com/Weidows/Programming-Configuration/blob/master/PowerShell/Microsoft.PowerShell_profile.ps1)
 
 - `启用主题`: ~/文档/PowerShell/Microsoft.PowerShell_profile.ps1 加上以下字段
 

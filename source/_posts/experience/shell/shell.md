@@ -17,12 +17,12 @@ cover: https://i.loli.net/2020/11/30/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:00:38
+ * @LastEditTime: 2021-03-11 23:03:34
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\shell.md
 -->
 
 - [通用](#通用)
-- [DOS/CMD/PowerShell](#doscmdpowershell)
+- [CMD/PowerShell](#cmdpowershell)
 - [Linux](#linux)
 - [宝塔](#宝塔)
 - [Git](#git)
@@ -51,7 +51,7 @@ date +"%Y-%m-%d %H:%M:%S.%N" >> keepchange.txt  # 这种写法也可以,就是�
 
 ---
 
-# DOS/CMD/PowerShell
+# CMD/PowerShell
 
 |              指令              |       作用       |
 | :----------------------------: | :--------------: |
@@ -65,6 +65,8 @@ date +"%Y-%m-%d %H:%M:%S.%N" >> keepchange.txt  # 这种写法也可以,就是�
 |          `copy/xcopy`          |    复制/剪切     |
 |         `start + exe`          |   打开应用程序   |
 | `start/explore + URL/HTML文件` | 用默认浏览器打开 |
+
+- 注意 cmd 不支持`/`作为路径,PowerShell 支持
 
 ---
 
