@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-11 12:24:42
+ * @LastEditTime: 2021-03-12 22:48:39
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -30,10 +30,10 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   - [通过 aria2](#通过-aria2)
   - [通过代理](#通过代理)
 - [Scoop 绝活](#scoop-绝活)
-- [Scoop 配置文件](#scoop-配置文件)
+- [配置文件](#配置文件)
 - [好文传送](#好文传送)
 - [安装异常](#安装异常)
-- [备份&推荐](#备份推荐)
+- [更新&备份&推荐](#更新备份推荐)
 
 # 引入变量
 
@@ -207,7 +207,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
-# Scoop 配置文件
+# 配置文件
 
 > 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
 
@@ -273,13 +273,23 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
-# 备份&推荐
+# 更新&备份&推荐
+
+- 检查软件更新:
+
+  ```
+  scoop status
+  ```
+
+  ***
 
 - 运行库(安装后就可以卸载)
 
   ```
   scoop install vcredist
   scoop uninstall vcredist vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013
+
+  scoop install nvidia-display-driver-with-3d-vision-np
   ```
 
 - 库

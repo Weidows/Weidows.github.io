@@ -14,7 +14,7 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
  * @Author: Weidows
  * @Date: 2021-01-30 18:40:45
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-07 15:50:30
+ * @LastEditTime: 2021-03-13 17:19:50
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\UI-design.md
  * @Description:
  * @!: *********************************************************************
@@ -24,7 +24,6 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 - [呈现方式](#呈现方式)
   - [图>字](#图字)
   - [非标准与留白](#非标准与留白)
-  - [光影](#光影)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -80,11 +79,3 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 - 还有留白(padding),下图的留白就不是很好,略小了
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226173845.png" alt="20210226173845" />
-
----
-
-## 光影
-
-> [当一部电影少了灯光师会变成什么样？是时候让国内导演看看了](https://www.bilibili.com/video/BV18J411B7or)
-
-> 人眼本能就是第一眼看明暗对比最强烈的地方，紧跟着注意力放松，关注点逐渐往暗面涣散，被暗面中隐约的细节吸引。不使用任何一种构图法的情况下，优秀的灯光布置可以独立完成视觉引导的工作，对画面最终的展示效果大大增色。所有视觉设计相关的工作都能从学习灯光中获得裨益。​
