@@ -58,10 +58,8 @@ script.
 
     typeof preloader === 'object' && preloader.endLoading()
 
-    document.getElementById("go-up").innerHTML += "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/up.png' title='芜湖起飞!' >";
-    new xkTool().footFish();
+    Weidows.re();
   })
-
 
   document.addEventListener('pjax:send', function () {
     typeof preloader === 'object' && preloader.initLoading()

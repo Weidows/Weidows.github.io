@@ -17,7 +17,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
  * @Author: Weidows
  * @Date: 2021-02-07 01:11:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:06:52
+ * @LastEditTime: 2021-03-14 20:07:26
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\optimize.md
  * @Description:
  * @!: *********************************************************************
@@ -29,6 +29,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 - [契合](#契合)
 - [优化 css](#优化-css)
 - [优化 js](#优化-js)
+  - [再次魔改](#再次魔改)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -44,7 +45,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 # 概览
 
-- 对于 css 的所有修改,全部整合进`main.js`
+- 对于 css 的所有修改,全部整合进`mine.styl`
 
   - 编译时就已经做好美化,额外资源负载几乎降为 0
 
@@ -52,17 +53,19 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
   ***
 
-- js 的美化,全部追加到 main.js
+- js 的美化,追加到 `main.js`
 
   - 请求数加 0,加载策略优化,时间降低.
 
   ***
 
-- 对于 pug 的修改降低为两处,方便升级换代.
+- 对于 pug 的修改降低为三处,方便升级换代.
 
   - footer-标签
 
   - pjax 适配
+
+  - head 打包 js 美化代码
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -82,8 +85,10 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 - 如下:
 
-  - 新建一个`source/css/_mine`文件夹
-  - 原 css 文件就是`mine.css`,用[`css2styl`](https://html5beta.com/tools/css2stylus.html)转换为 styl 格式,粘贴到`mine.styl`
+  - 新建一个名为 `mine.styl` 的文件.
+
+  - 原 css 文件就是`mine.css`,用[`css2styl`](https://html5beta.com/tools/css2stylus.html)转换为 styl 格式,粘贴到 `mine.styl`
+
   - 注意这个网站转换成的 styl 有很多 bug(包括缩进和括号,需要人工检验)
 
   <img src="https://i.loli.net/2021/02/07/2C7cgeEIQNr3qLu.png" alt="20210207134449" />
@@ -101,7 +106,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 ---
 
-- 用 hexo server 测试一下,应该没问题~
+- 用 `hexo server` 测试一下,应该没问题~
 
 - 这样 css 优化就完成了
 
@@ -125,8 +130,12 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
   })
   ```
 
----
+## 再次魔改
 
-- `hexo server`测试一下,没问题!
+- 因为某些美化函数会被 pjax 功能搞失效,直接把函数放进 main.js 的话,pjax 无法再次使用
+
+- 所以我把美化 js 打包并弄进 `butterfly/layout/head.pug` 中,在页面编译时就会被添加到 `<head>` 内,加载时间和请求数不增加!
+
+  现在,加载逻辑是: js 美化代码在 HTML 文件的 head 中,然后在 main.js 最后写一句调用命令; 在页面用了 pjax 加载时,pjax.pug 中的重渲染函数会被调用.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)

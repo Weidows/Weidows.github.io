@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-12 22:48:39
+ * @LastEditTime: 2021-03-14 00:23:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -25,12 +25,15 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - [引入变量](#引入变量)
 - [各个优缺点](#各个优缺点)
 - [Scoop 安装](#scoop-安装)
+- [Chocolatey 安装](#chocolatey-安装)
 - [scoop-completion](#scoop-completion)
 - [加速下载](#加速下载)
   - [通过 aria2](#通过-aria2)
   - [通过代理](#通过代理)
 - [Scoop 绝活](#scoop-绝活)
 - [配置文件](#配置文件)
+  - [Scoop](#scoop)
+  - [Chocolatey](#chocolatey)
 - [好文传送](#好文传送)
 - [安装异常](#安装异常)
 - [更新&备份&推荐](#更新备份推荐)
@@ -39,7 +42,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 软件包管理器: 就像是 360 软件管家,腾讯软件管家之类的
 
-- 此文章要介绍的是`Scoop`- 横向简单对比`Chocolate`和`WinGet`
+- 此文章要介绍的是`Scoop`- 横向简单对比`Chocolatey`和`WinGet`
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -54,10 +57,9 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   - 不污染环境变量,软件目录清晰
   - _面向程序员_.
 
-- Chocolate
+- Chocolatey
 
   - 软件多
-  - **会污染环境变量**
   - 有的软件安装位置不定
   - 面向大众.
 
@@ -149,6 +151,18 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
+# Chocolatey 安装
+
+- 首先设置环境变量 `ChocolateyInstall` ,值为要安装的位置,如下
+
+  - 如果不设置的话 Chocolatey 会自动安装进 C 盘
+
+  - 设置完环境变量后一定要`重启`,否则不会生效,还是跟没设置一样.
+
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210314001245.png" alt="20210314001245" />
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
 # scoop-completion
 
 - scoop 命令按 tab 自动补全
@@ -185,12 +199,14 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
   ```
   scoop config proxy localhost:7890
+  choco config set proxy localhost:7890
   ```
 
 - 移除代理
 
   ```
   scoop config rm proxy
+  choco config unset proxy
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
@@ -209,9 +225,17 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 # 配置文件
 
+## Scoop
+
 > 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
 
 > [我的配置文件链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/config.json)
+
+---
+
+## Chocolatey
+
+> 在 `Chocolatey\config\chocolatey.config` 这个文件里.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
