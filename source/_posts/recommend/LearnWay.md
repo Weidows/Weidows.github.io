@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-06 00:14:52
+ * @LastEditTime: 2021-03-17 17:05:39
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -49,6 +49,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [Emmet](#emmet)
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
+  - [自信](#自信)
 - [设计](#设计)
 - [Docker](#docker)
 - [操作系统](#操作系统)
@@ -263,6 +264,20 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 - 问题不算大,Windows 平台与 linux 平台都有相应的推迟解决方案了.
 - Linux 推到 2486 年了,还早了去了.
+
+---
+
+## 自信
+
+> [上班 4 年，现在却只会调工具包，AI 程序员崩溃了](https://blog.csdn.net/m0_46163918/article/details/114883501?utm_source=app&app_version=4.5.4)
+
+- 随着年龄的增大,越发发现自信的重要性.
+- 初中时就被体育老师洗脑,直到现在仍然感觉带有自信头衔的人有独特的美丽.
+- 当然,自信不是自负,是`合理的外向+阳光+乐观`的态度,在社交,职场和情感方面都有一定作用.
+- 我发现我好想也有点文中提到的“冒名顶替综合征”,文中也有我认为很好的解决办法:
+  - 多多交流和分享
+  - 记录做过的事情
+  - 保持学习者心态
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
