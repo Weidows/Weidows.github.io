@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-16 01:14:18
+ * @LastEditTime: 2021-03-20 18:59:11
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 <h1 align="center">
@@ -89,10 +89,10 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/about_me.jpeg
 
 - **Hobby :**
 
-  - 大括号`不换行`,`盘古之白`爱好者.
+  - 大括号`不换行`,`盘古之白`爱好者,`全称`变量名,句尾加英文句号.
+  - `红轴`大善人,晚期`见光死`.
   - 吃香蕉撕头,刷牙先蘸水.
-  - 句尾加英文句号.
-  - 不爱干净,追求整洁.
+  - 不大爱干净,较追求`整洁`.
   - 不喜清内存,右键不刷新,走人不关机,睡眠更省心.
 
 ---

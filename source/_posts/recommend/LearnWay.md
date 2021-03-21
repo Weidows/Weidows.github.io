@@ -14,7 +14,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-18 11:42:00
+ * @LastEditTime: 2021-03-21 16:35:04
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\recommend\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -61,6 +61,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [编译原理](#编译原理)
   - [单片机](#单片机)
   - [数据库](#数据库)
+    - [MySQL](#mysql)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
 
@@ -345,6 +346,8 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 ---
 
 ## 数据库
+
+### MySQL
 
 > [【狂神说 Java】MySQL 最新教程通俗易懂](https://www.bilibili.com/video/BV1NJ411J79W)
 
