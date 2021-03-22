@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:11:08
+ * @LastEditTime: 2021-03-22 10:08:27
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\IDEs.md
  * @Description:
  * @!: *********************************************************************
@@ -277,3 +277,7 @@ top_img:
   - 这就像递归式问路,首先问 host 知不知道 weidows.com,host 不直接知道,它让我们问 Tomcat,于是我们去 127.0.0.1:8080 问 Tomcat 知不知道 weidows.com;
   - 诶,Tomcat 它可以直接知道 weidows.com 在哪里,于是浏览器就这么找到 weidows.com 页面了!
   - 页面在 weidows.com 手里,你要是去找 localhost:8080 或者 127.0.0.1 的话,就是问错人了,肯定是 404
+
+- 最后附一张图,根据序号来看,条理比较清晰.
+
+  > <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210322100531.png" alt="20210322100531" />

@@ -7,8 +7,8 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/N
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-12-11 19:21:30
- * @FilePath: \Weidowsd:\Game\Demo\Github\Blog-private\source\gallery_data\index.md
+ * @LastEditTime: 2021-03-23 00:15:07
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\gallery_data\index.md
 -->
 
 <h1 align="center">
@@ -78,8 +78,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/N
 
 # 个人
 
-- 别瞅,Private 隐私.
-- 瞅叭,做人干净,没啥可隐藏的~
+- 憋瞅,Private 隐私.
 
 <div class="gallery-group-main">
 {% galleryGroup 二维码 日常使用的社交平台二维码 gallery_data/Private/QRcode https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jpeg %}
@@ -90,4 +89,5 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/N
 
 {% galleryGroup 病患解析 浑元形意内外伤. gallery_data/Private/Why-illness https://cdn.jsdelivr.net/gh/Weidows/Images@master/Humor/病患解析/1.jpg %}
 
+{% galleryGroup 我的故乡 拿起村好剑对日的时光. gallery_data/Private/我的故乡 https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/我的故乡/1/IMG_20210322_174150_compressed.jpg %}
 </div>

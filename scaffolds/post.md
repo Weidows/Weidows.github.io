@@ -1,12 +1,12 @@
 ---
 title: {{ title }}
-date: {{ date }}
 categories:
   -
 tags:
   -
 cover:
 top_img:
+date: {{ date }}
 ---
 
 
@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-18 18:17:53
+ * @LastEditTime: 2021-03-21 17:20:49
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\scaffolds\post.md
  * @Description:
  * @!: *********************************************************************

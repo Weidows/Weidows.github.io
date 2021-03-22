@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
  * @Author: Weidows
  * @Date: 2021-01-03 15:18:46
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:03:38
+ * @LastEditTime: 2021-03-21 17:29:01
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\extension-develop.md
  * @Description:
  * @!: *********************************************************************
@@ -28,6 +28,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
 - [发布](#发布)
 - [结合 GitHub](#结合-github)
 - [剖析 package.json](#剖析-packagejson)
+- [文章推荐](#文章推荐)
 
 # 前期准备
 
@@ -227,3 +228,9 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
     }
   }
   ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+
+# 文章推荐
+
+> [VS Code 插件开发入门教程](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649833093&idx=1&sn=27bc83c81db8490d52b169ab3ef3fa67&chksm=f175f446c6027d509e9ecdba48271efd51c3c057fd04d90fe8cee0720f01cf3e275d7b25df6c&mpshare=1&scene=23&srcid=0312NhWlH2sedoutfqkNpB7j&sharer_sharetime=1615557271958&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)

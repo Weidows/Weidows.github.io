@@ -9,7 +9,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/What-do-you-do-wh
  * @Author: Weidows
  * @Date: 2020-08-22 20:18:14
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-02 08:20:26
+ * @LastEditTime: 2021-03-21 18:05:35
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\link.md
 -->
 
@@ -25,7 +25,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/What-do-you-do-wh
 - name: ⭐️齐下无贰⭐️
   link: https://weidows.gitee.io
   avatar: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png
-  descr: ただ Weidow's Website だけ
+  descr: 油盐齐下，锅铲无贰。
 ```
 
 <h1 align="center">
