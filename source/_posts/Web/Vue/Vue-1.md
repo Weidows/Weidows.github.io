@@ -34,7 +34,7 @@ top_img:
   - [状态管理](#状态管理)
   - [Vue-UI](#vue-ui)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 前端分离
 
@@ -77,7 +77,7 @@ top_img:
 - JQuery->Ajax
 - Vue->axios
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Vue 简析
 

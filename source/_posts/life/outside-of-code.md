@@ -6,7 +6,7 @@ tags:
   - 生活
   - 哲学
 date: 2021-02-28 17:56:01
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210228175624.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210228175624.png
 top_img:
 ---
 
@@ -23,7 +23,7 @@ top_img:
 - [前言](#前言)
 - [职业](#职业)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 前言
 
@@ -35,7 +35,7 @@ top_img:
 
 # 职业
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210228231643.png" alt="20210228231643" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210228231643.png" alt="20210228231643" />
 
 > 不要被愚弄了，当你为了谋生一头扎进写代码的世界时，其实你和中世纪小镇上开铁匠铺的铁匠没什么差别。
 
@@ -47,6 +47,6 @@ top_img:
 
 - 你需要认识到仅有 服务或产品是不够的。想赚到钱，你就必须能让潜在的客户了解该产品或服务。
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210304114711.png" alt="20210304114711" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210304114711.png" alt="20210304114711" />
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210304115641.png" alt="20210304115641" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210304115641.png" alt="20210304115641" />

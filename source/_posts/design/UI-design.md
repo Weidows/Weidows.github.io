@@ -25,7 +25,7 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
   - [图>字](#图字)
   - [非标准与留白](#非标准与留白)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 头图设计
 
@@ -58,7 +58,7 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 
 - 上手时间成本几乎没有,现阶段可以说是最直接有效的解决方案了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 呈现方式
 
@@ -66,9 +66,9 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 
 - 有些情况下,同样的内容,同样的格式性,图片效果还是会更显著
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226172913.png" alt="20210226172913" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210226172913.png" alt="20210226172913" />
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226173119.png" alt="20210226173119" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210226173119.png" alt="20210226173119" />
 
 ---
 
@@ -78,4 +78,4 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 
 - 还有留白(padding),下图的留白就不是很好,略小了
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210226173845.png" alt="20210226173845" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210226173845.png" alt="20210226173845" />

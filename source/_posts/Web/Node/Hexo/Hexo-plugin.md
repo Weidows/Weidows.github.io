@@ -18,7 +18,7 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:05:34
+ * @LastEditTime: 2021-03-23 09:09:34
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-plugin.md
 -->
 
@@ -75,6 +75,8 @@ cover: https://i.loli.net/2020/11/30/kMeomhHj91xn6T2.jpg
 ---
 
 # 添加 tags/categories/link 页面
+
+- 可以通过修改 markdown 来更换标题和 top_img
 
 ## tags
 
@@ -197,7 +199,7 @@ hexo new page link
 
 ---
 
-# 启用 comment && search && 字数统计
+# comment & search & 字数统计
 
 - 依次都装上:
   - `npm install hexo-generator-search --save`
@@ -228,7 +230,7 @@ hexo new page link
     title: "追番列表" # 页面的标题
     quote: "生命不息，追番不止！" # 写在页面开头的一段话，支持 html 语法
     show: 1 # 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
-    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/loading.gif" # 图片加载完成前的 loading 图片
+    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.gif" # 图片加载完成前的 loading 图片
     metaColor: #  meta 部分(简介上方)字体颜色
     color: # 简介字体颜色
     webp:
@@ -254,7 +256,9 @@ hexo new page link
   npm install hexo-generator-sitemap --save
   ```
 
-## 配置文件 `root/_config.yml`
+## 配置文件
+
+> `root/_config.yml`
 
 ```yml
 baidusitemap:
@@ -269,7 +273,7 @@ sitemap:
 
 # Steam 游戏页面
 
-## 安装(经常被其他插件干扰误删)
+## 安装
 
 ```
 npm install hexo-steam-games --save
@@ -286,7 +290,7 @@ steam:
   quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
     host: # 代理ip或域名
     port: # 代理端口
@@ -318,7 +322,7 @@ steam:
 
 ---
 
-# 安装音乐 aplayer(已弃用)
+# 音乐 aplayer(已弃用)
 
 ## 安装
 
@@ -333,7 +337,9 @@ npm install --save hexo-tag-aplayer
   aplayer: true
   ```
 
-## 全局吸底 mini 播放器
+## Meting
+
+> 吸底 mini 播放器
 
 - 需要导入 js 并通过导入 css 修改 Aplayer 缩进样式
 - 在\_config.yml 里修改有一定限制,inject 只能搞腚 source 中文章的其中某一层目录,多层需要不同层级目录各引用一次,如下:
@@ -497,35 +503,38 @@ douban:
 
 # hexo-neat(压缩)
 
-- ## 安装
-  ```
-  npm install hexo-neat --save
-  ```
-- ## 配置
-  ```
-  # hexo-neat
-  # 博文压缩
-  neat_enable: true
-  # 压缩html
-  neat_html:
-    enable: true
-    exclude:
-  # 压缩css
-  neat_css:
-    enable: true
-    exclude:
-      - '**/*.min.css'
-  # 压缩js
-  neat_js:
-    enable: true
-    mangle: true
-    output:
-    compress:
-    exclude:
-      - '**/*.min.js'
-      - '**/jquery.fancybox.pack.js'
-      - '**/index.js'
-  ```
+## 安装
+
+```
+npm install hexo-neat --save
+```
+
+## 配置
+
+```yml
+# hexo-neat
+# 博文压缩
+neat_enable: true
+# 压缩html
+neat_html:
+  enable: true
+  exclude:
+# 压缩css
+neat_css:
+  enable: true
+  exclude:
+    - "**/*.min.css"
+# 压缩js
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - "**/*.min.js"
+    - "**/jquery.fancybox.pack.js"
+    - "**/index.js"
+```
 
 ---
 

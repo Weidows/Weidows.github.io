@@ -55,7 +55,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 虽然并不想吹捧或贬低哪个,但是这...(看来我是老双标怪了~)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 指南
 
@@ -93,7 +93,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 > Docker 的话详见 [🌈 初探 Docker.](../docker)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 安装步骤
 
@@ -163,7 +163,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 小插曲,如果 Store 加载不出来数据,报错`0x80131500`,那么,请关掉你的科学上网软件 🤣
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 安装完成
 
@@ -182,7 +182,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
   Installation successful!
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # VScode+wsl
 
@@ -208,7 +208,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 当然,如果不嫌麻烦拿 ssh 连接 wsl 也可以,需要在 wsl 系统内配置静态 ip,但是很多功能性上不如上面那个插件.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 地址映射
 
@@ -232,7 +232,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   <img src="https://i.loli.net/2021/02/01/tQcB8vpzZIKoEeH.png" alt="20210201174957" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # IDEA+wsl
 
@@ -250,7 +250,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   <img src="https://i.loli.net/2021/02/01/RxpgAbjuDSGivym.png" alt="20210201221447" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 后记
 
@@ -294,7 +294,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
   - 经测试,开启 hyper-v 也会造成这后果.
   - 有可能只是我这么一个个例,硬件兼容性问题.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # wsl 软件安装
 
@@ -310,7 +310,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 > [怎么理解 ubuntu 中的软件包管理器 apt 和 dpkg](https://blog.csdn.net/LEON1741/article/details/85127000)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 痛点解决
 

@@ -32,7 +32,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 - [local 全局依赖](#local-全局依赖)
 - [运行报错](#运行报错)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 环境配置
 
@@ -42,7 +42,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 
 - 它使用`Scoop/persist`这个文件夹来挂载数据,不影响程序本身,即使更新也不会影响.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 安装 yarn
 
@@ -64,7 +64,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
     npm install -g  yarn
     ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 换阿里源
 
@@ -86,7 +86,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
 
   - 这个目录下的`.npmrc和.yarnrc`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 依赖升级
 
@@ -117,7 +117,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
   npm cache clean --force
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 参数及常用命令
 
@@ -140,7 +140,7 @@ cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
   - `npm install --save hexo-tag-aplayer`
   - `npm install hexo-tag-aplayer --save`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # local 全局依赖
 
@@ -171,7 +171,7 @@ yarn global add vsce
 
   - yarn: `D:\Game\Scoop\persist\yarn\global`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 运行报错
 

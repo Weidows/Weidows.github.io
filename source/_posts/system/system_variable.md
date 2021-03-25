@@ -19,7 +19,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-07 16:46:32
+ * @LastEditTime: 2021-03-23 08:57:07
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
@@ -32,17 +32,17 @@ top_img:
 - [Python](#python)
 - [Node.js](#nodejs)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 深入环境变量
 
-> [🎇深入解析Window环境变量.](../深入环境变量)
+> [🎇 深入解析 Window 环境变量.](../深入环境变量)
 
 # Scoop
 
-> 详见[🙌Windows 平台软件包管理器选择-Scoop](../Scoop.md)
+> 详见[🙌Windows 平台软件包管理器选择-Scoop](../../tools/Scoop)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # JDK
 
@@ -56,11 +56,11 @@ top_img:
 
   - `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Maven
 
-> 内部修改耦合 [🎉IDEA 魔改记录.](../../IDEA/Modification#Maven)
+> 内部修改耦合 [🎉IDEA 魔改记录.](../../tools/IDEA/Modification#maven)
 
 - 环境变量: 用 Scoop 安装不需要手动配置!
 
@@ -76,13 +76,13 @@ top_img:
     "java.configuration.maven.globalSettings": "D:/Game/Scoop/persist/maven/conf/settings.xml",
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Git
 
 > 用 Scoop 安装自带环境变量,不用配置.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Python
 
@@ -94,8 +94,8 @@ top_img:
   D:\Game\Scoop\apps\python\Scripts\
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Node.js
 
-> 详见[⬆ Node.js 环境配置 && 使用](../../Web/Node.js/node.md)
+> 详见[⬆ Node.js 环境配置 && 使用](../../Web/Node/node)

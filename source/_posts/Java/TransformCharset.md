@@ -7,7 +7,7 @@ tags:
   - Java
   - 编码
 cover: https://i.loli.net/2020/11/30/iIfQXvTEkuFobNr.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
 <!--

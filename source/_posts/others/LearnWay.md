@@ -64,7 +64,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [数据库](#数据库)
     - [MySQL](#mysql)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # `申明`
 
@@ -92,7 +92,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
   - 一个技术很大可能会牵扯其他多个技术栈,能力提升一般呈辐射性网状的.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # C/C++
 
@@ -118,7 +118,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 > [1 个小时学会单链表，C 语言数据结构专题](https://www.bilibili.com/video/BV1Rb411F738)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Java
 
@@ -185,7 +185,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 > [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 前端
 
@@ -218,7 +218,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 - markdown 这种`归档式`,`目录式`以及`层级递进式`的笔记记录方式,能很好地`锻炼表达思维`,而且对学习效果有显著提升.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## JavaScript
 
@@ -231,7 +231,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 - 狂神老师出的都很...上头!
   - 就是那个味!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 工具使用
 
@@ -257,7 +257,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 > [一个项目 push 到多个远程 Git 仓库](https://segmentfault.com/a/1190000011294144)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## VScode
 
@@ -283,7 +283,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 > [初探 Docker](https://www.bilibili.com/video/BV1vD4y1X7ce)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 泛域
 
@@ -309,7 +309,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   2. 记录做过的事情
   3. 保持学习者心态
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 设计
 
@@ -317,7 +317,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
   > [🙌UI 平面设计.](../../design/UI-design)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 理论课程
 

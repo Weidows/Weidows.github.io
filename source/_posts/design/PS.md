@@ -25,7 +25,7 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
 - [透明背景](#透明背景)
 - [定向变色](#定向变色)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 快捷键
 
@@ -56,7 +56,7 @@ cover: https://i.loli.net/2020/11/30/dHzXmg92Lok1cfK.jpg
   ![20201129121309](https://i.loli.net/2020/11/30/QxWfLSMuHa9GD1e.jpg)
 - 选中后按 Delete
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 定向变色
 

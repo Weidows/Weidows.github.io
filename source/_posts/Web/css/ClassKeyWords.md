@@ -8,7 +8,7 @@ tags:
   - CSS
   - 备忘录
 cover: https://i.loli.net/2020/11/30/lsiaPmZhBq4EKg3.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
 <!--

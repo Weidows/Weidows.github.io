@@ -64,7 +64,7 @@ cover: https://i.loli.net/2021/02/03/YqH4ru9kGy5UdLt.jpg
 
   - 有的系统不带 root 账户,有的不开放.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 启用 ssh 服务
 
@@ -103,7 +103,7 @@ cover: https://i.loli.net/2021/02/03/YqH4ru9kGy5UdLt.jpg
 
   - Windows 上那个位置就是`C:\Users\你的用户名\.ssh`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 换源
 
@@ -153,7 +153,7 @@ sudo pacman-mirrors -i -c China -m rank
   pacman -Syu
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 配置 docker
 

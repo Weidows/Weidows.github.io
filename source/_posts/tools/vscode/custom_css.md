@@ -9,7 +9,7 @@ tags:
   - CSS
   - 美化
 cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
 <!--
@@ -67,9 +67,9 @@ cover: https://i.loli.net/2020/11/30/u9COBmdHbrgSakQ.jpg
 
   - 二版
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210308184630.png" alt="20210308184630" />
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210308184630.png" alt="20210308184630" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 源码链接
 

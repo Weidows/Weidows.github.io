@@ -4,8 +4,8 @@ title: ⭐ PrettyGreen ⭐
 #   -
 # tags:
 #   -
-# cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/Nu9RF1.jpeg
+# cover: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpeg
 ---
 <!--
  * @Author: Weidows
@@ -16,15 +16,15 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/N
 -->
 # 绿色植物
   {% gallery %}
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/Nu9goR.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/Nu9RF1.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuP226.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPcP1.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPfKO.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPg8x.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPhrD.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPrVJ.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPRxK.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPsa9.jpeg)
-  ![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/PrettyGreen/NuPy5R.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9goR.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPcP1.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPfKO.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPg8x.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPhrD.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPrVJ.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPRxK.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPsa9.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPy5R.jpeg)
   {% endgallery %}

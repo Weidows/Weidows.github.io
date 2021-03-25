@@ -7,7 +7,7 @@ tags:
   - 备忘录
   - API
 cover: https://i.loli.net/2020/11/30/U2VkeYvoMaXIsEp.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
 <!--
@@ -54,7 +54,7 @@ cover: https://i.loli.net/2020/11/30/U2VkeYvoMaXIsEp.jpg
 
 ## JsDelivr
 
-- GitHub 图床 CDN: `https://cdn.jsdelivr.net/gh/Weidows/Images@master/`
+- GitHub 图床 CDN: `https://cdn.jsdelivr.net/gh/Weidows/Images/`
 
 ## GitHub
 

@@ -1,7 +1,7 @@
 ---
 title: ⭐你不要过来啊!!!⭐
 date: 2020-08-25 19:16:00
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/The_Comment.png
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/The_Comment.png
 comments: false
 ---
 
@@ -23,6 +23,6 @@ comments: false
 
 ---
 
-![索大](https://cdn.jsdelivr.net/gh/Weidows/Images@master/anime/Onepiece/QQ图片20190624124419.jpg)
+![索大](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/Onepiece/QQ图片20190624124419.jpg)
 
 </h1>

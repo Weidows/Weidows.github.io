@@ -109,7 +109,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
 
   <img src="https://i.loli.net/2021/01/03/UbD9VspYcdH7Ojn.png" alt="20210103160252" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 剖析 package.json
 
@@ -229,7 +229,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
   }
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 文章推荐
 

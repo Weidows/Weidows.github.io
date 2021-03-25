@@ -46,7 +46,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 此文章要介绍的是`Scoop`- 横向简单对比`Chocolatey`和`WinGet`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 各个优缺点
 
@@ -78,7 +78,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 个人选择了 `Scoop`,下面主要讲 Scoop.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Scoop 安装
 
@@ -151,7 +151,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
     Type 'scoop help <command>' to get help for a specific command.
     ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Chocolatey 安装
 
@@ -161,9 +161,9 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
   - 设置完环境变量后一定要`重启`,否则不会生效,还是跟没设置一样.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/20210314001245.png" alt="20210314001245" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210314001245.png" alt="20210314001245" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # scoop-completion
 
@@ -211,7 +211,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   choco config unset proxy
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Scoop 绝活
 
@@ -223,7 +223,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
 - 这个功能太赞了!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 配置文件
 
@@ -239,7 +239,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 > 在 `Chocolatey\config\chocolatey.config` 这个文件里.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 好文传送
 
@@ -247,7 +247,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 > [scoop——强大的 Windows 命令行包管理工具](https://www.jianshu.com/p/50993df76b1c)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 安装异常
 
@@ -297,7 +297,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
   scoop config aria2-enabled true
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 更新&备份&推荐
 

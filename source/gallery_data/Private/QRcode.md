@@ -4,8 +4,8 @@ title: ⭐️ 二维码 && 头像 ⭐️
 #   -
 # tags:
 #   -
-# cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jpeg
+# cover: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg
 ---
 
 <!--
@@ -19,11 +19,11 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jp
 # 二维码
 
 {% gallery %}
-![QQ](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/QQ.jpeg)
-![BiliBili](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/Bilibili.jpeg)
-![微信](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jpeg)
-![微信公众号](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/wechat_public.jpeg)
-![CSDN](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/CSDN.jpeg)
+![QQ](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg)
+![BiliBili](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/Bilibili.jpeg)
+![微信](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg)
+![微信公众号](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_public.jpeg)
+![CSDN](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/CSDN.jpeg)
 {% endgallery %}
 
 ---
@@ -31,7 +31,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jp
 # 往昔头像
 
 {% gallery %}
-![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar-1.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/timg.jpg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar-1.jpg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/timg.jpg)
 {% endgallery %}

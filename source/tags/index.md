@@ -3,7 +3,7 @@ title: ⭐ 恭喜抽中上上签 ⭐
 date: 2020-08-22 20:08:08
 type: "tags"
 aside: false
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/tags-and-categories.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/tags-and-categories.jpg
 ---
 
 <!--

@@ -5,7 +5,7 @@ title: ⭐ Weidows の 低语 ⭐
 # tags:
 #   -
 # cover:
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/317644.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
 ---
 
 <!--
@@ -33,15 +33,15 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/317644.jpg
 
 <div class="gallery-group-main">
 
-{% galleryGroup Hpp站 基于hexo-plus-plus+CloudFlare的说说页面. artitalk/hpp https://cdn.jsdelivr.net/gh/Weidows/Images@master/hpp/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg %}
+{% galleryGroup Hpp站 基于hexo-plus-plus+CloudFlare的说说页面. artitalk/hpp https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg %}
 
-{% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/光宇科景/77.jpeg %}
+{% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/77.jpeg %}
 
 {% galleryGroup Gitee站 基于Gitee-issues的说说页面(暂停使用). artitalk/ispeak https://i.loli.net/2020/11/30/9QLXvqPHZw2nWtG.jpg %}
 
 </div>
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 陈述
 

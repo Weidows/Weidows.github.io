@@ -4,7 +4,7 @@ title: ⭐ 带学生成长手册 ⭐
 #   -
 # tags:
 #   -
-# cover: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+# cover: https://cdn.jsdelivr.net/gh/Weidows/Images/
 top_img: https://i.loli.net/2020/11/30/6t2qP1DoRUNyzSg.jpg
 ---
 

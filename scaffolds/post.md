@@ -22,6 +22,6 @@ date: {{ date }}
 
 - [参照](#参照)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 参照

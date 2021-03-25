@@ -33,7 +33,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 - [优化 js](#优化-js)
   - [再次魔改](#再次魔改)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Why?
 
@@ -43,7 +43,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 - 巨耗费渲染性能和时间(可以感觉出来加载这网站挺费劲的)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 概览
 
@@ -69,13 +69,13 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
   - head 打包 js 美化代码
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 契合
 
 > 结合 [butterfly 内部魔改记录](./butterfly_modify)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 优化 css
 
@@ -112,7 +112,7 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
 - 这样 css 优化就完成了
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 优化 js
 
@@ -140,4 +140,4 @@ cover: https://i.loli.net/2021/02/07/inlt356CXhAOExo.jpg
 
   现在,加载逻辑是: js 美化代码在 HTML 文件的 head 中,然后在 main.js 最后写一句调用命令; 在页面用了 pjax 加载时,pjax.pug 中的重渲染函数会被调用.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)

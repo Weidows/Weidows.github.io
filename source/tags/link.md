@@ -2,7 +2,7 @@
 title: ⭐ 桃李园 ⭐
 date: 2020-08-22 20:18:14
 type: link
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/What-do-you-do-when-your-best-friend-breaks-your-heart_.png
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your-best-friend-breaks-your-heart_.png
 ---
 
 <!--
@@ -24,7 +24,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/What-do-you-do-wh
 ```
 - name: ⭐️齐下无贰⭐️
   link: https://weidows.gitee.io
-  avatar: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png
+  avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
   descr: 油盐齐下，锅铲无贰。
 ```
 
@@ -39,6 +39,6 @@ avatar: 头像
 descr: 描述
 ```
 
-![warframe](https://cdn.jsdelivr.net/gh/Weidows/Images@master/Game/Warframe/-28678b86bf55d418.jpg)
+![warframe](https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Warframe/-28678b86bf55d418.jpg)
 
 </h1>

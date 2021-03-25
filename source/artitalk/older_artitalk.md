@@ -1,6 +1,6 @@
 ---
 title: ⭐ 陈茶酱醋 ⭐
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/Fantasy/光宇科景/77.jpeg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/77.jpeg
 ---
 
 <!--
@@ -21,7 +21,7 @@ new Artitalk({
   shuoPla: 'Weidows想说点啥..',
   motion: 1, //加载动画
   atComment: 1, //评论
-  avatarPla: 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/Avatar/avatar.png',
+  avatarPla: 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png',
   // bgImg: '',
 })
 </script>

@@ -45,7 +45,7 @@ cover: https://i.loli.net/2021/01/20/lu7MVrgdPExk6Rc.png
   - [获得表单信息](#获得表单信息)
   - [提交表单](#提交表单)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 对象
 

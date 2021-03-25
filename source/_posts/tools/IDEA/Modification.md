@@ -16,7 +16,7 @@ cover: https://i.loli.net/2021/01/01/UD8HeIc94LVai2v.png
  * @Author: Weidows
  * @Date: 2021-01-01 11:06:59
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:02:42
+ * @LastEditTime: 2021-03-23 09:01:02
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\IDEA\Modification.md
  * @Description:
  * @!: *********************************************************************
@@ -52,7 +52,7 @@ cover: https://i.loli.net/2021/01/01/UD8HeIc94LVai2v.png
 
 ## 环境变量
 
-> 参照[💥 系统开发环境配置](../system/system_variable#Maven)
+> 参照[💥 系统开发环境配置](../../../system/system_variable#Maven)
 
 ---
 

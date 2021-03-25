@@ -30,7 +30,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
   - [其他](#其他-1)
 - [文章推荐](#文章推荐)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 前言
 
@@ -38,7 +38,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 
 更新至: `2021-2`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 实用推荐
 
@@ -81,7 +81,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 
   - 可以预览图片
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 美化推荐
 
@@ -154,7 +154,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 
   - 使代码错误/警告在那一行尾部显示出来
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 码字推荐
 
@@ -212,7 +212,7 @@ cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
 
   - 添加注释时在每行注释第一个字符写"!?\*"等字符会该行让注释变色,有一定增强阅读效果
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 文章推荐
 

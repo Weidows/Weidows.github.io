@@ -1,6 +1,6 @@
 ---
 title: ⭐ 听说你找我? ⭐
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/about_me.jpeg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 ---
 
 <!--
@@ -28,15 +28,15 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/about_me.jpeg
 
 `邮箱`: {% btn 'https://mail.qq.com',UTsuKo27@qq.com,far fa-hand-point-right,outline blue larger %}
 
-`QQ`: {% btn 'https://qm.qq.com/cgi-bin/qm/qr?k=3ycBtwX25IMFisvKoD8NIyNBMofXBFFu&noverify=0',@Weidows-齐下无贰,far fa-hand-point-right,outline pink larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/QQ.jpeg',二维码,far fa-hand-point-right,outline pink larger %}
+`QQ`: {% btn 'https://qm.qq.com/cgi-bin/qm/qr?k=3ycBtwX25IMFisvKoD8NIyNBMofXBFFu&noverify=0',@Weidows-齐下无贰,far fa-hand-point-right,outline pink larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg',二维码,far fa-hand-point-right,outline pink larger %}
 
-`微信`/`公众号`:{% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/We_Chat.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/wechat_public.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %}
+`微信`/`公众号`:{% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_public.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %}
 
 `Github`/`Gitee`:{% btn 'https://github.com/Weidows',@Weidows,far fa-hand-point-right,outline orange larger %} {% btn 'https://gitee.com/Weidows',@Weidows,far fa-hand-point-right,outline orange larger %}
 
-`Bilibili`:{% btn 'https://space.bilibili.com/38283369',@齐下无贰,far fa-hand-point-right,outline red larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/Bilibili.jpeg',二维码,far fa-hand-point-right,outline red larger %}
+`Bilibili`:{% btn 'https://space.bilibili.com/38283369',@齐下无贰,far fa-hand-point-right,outline red larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/Bilibili.jpeg',二维码,far fa-hand-point-right,outline red larger %}
 
-`CSDN`:{% btn 'https://me.csdn.net/qq_39823295',@齐下无贰,far fa-hand-point-right,outline green larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/QRcode/CSDN.jpeg',二维码,far fa-hand-point-right,outline green larger %}
+`CSDN`:{% btn 'https://me.csdn.net/qq_39823295',@齐下无贰,far fa-hand-point-right,outline green larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/CSDN.jpeg',二维码,far fa-hand-point-right,outline green larger %}
 
 {% hideToggle 其他 %}
 

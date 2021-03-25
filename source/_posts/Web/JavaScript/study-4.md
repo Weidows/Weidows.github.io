@@ -42,7 +42,7 @@ cover: https://i.loli.net/2021/01/26/qg3OyNzScKB5aHh.png
 
 - 多看文章就是好,hh,这次又收获了个`美美哒分割线`,如下
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # JQuery
 
@@ -192,7 +192,7 @@ $(".class1").click;
 
 后面有后端对接时再讲.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 巩固
 

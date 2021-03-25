@@ -7,7 +7,7 @@ tags:
   - 备忘录
   - 成长路线
 cover: https://i.loli.net/2020/11/30/jor1XfaHz9CQDcB.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images@master/
+# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
 <!--
@@ -54,7 +54,7 @@ SEO 方面，谷歌＞必应＞百度，准确度和收录速度差好几条街
 写到这里，就是为了记录一下，整理下思路，并寻找下一代内容呈现方式。
 这或许是二十一世纪二十年代的风口，不知会被谁打破当局。
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 2020-11-17
 

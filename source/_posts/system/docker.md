@@ -14,7 +14,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:19:07
+ * @LastEditTime: 2021-03-24 11:51:22
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -28,15 +28,18 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   - [Ubuntu-Server](#ubuntu-server)
   - [Windows](#windows)
 - [解决权限问题](#解决权限问题)
-- [启动服务](#启动服务)
-- [镜像加速](#镜像加速)
-  - [Windows](#windows-1)
-  - [Manjaro](#manjaro)
+- [启动 docker](#启动-docker)
+- [加速](#加速)
+  - [镜像加速](#镜像加速)
+    - [Windows](#windows-1)
+    - [Manjaro](#manjaro)
+  - [设置代理](#设置代理)
 - [命令行执行](#命令行执行)
 - [VScode+docker](#vscodedocker)
 - [Portainer](#portainer)
+- [容器自启](#容器自启)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 名词引入
 
@@ -78,7 +81,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 这个是用来管理多个 docker 的.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 安装启动
 
@@ -201,7 +204,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 装好 docker 之后 `重启` 才能正常使用!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 解决权限问题
 
@@ -227,9 +230,9 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   newgrp docker                 #更新docker用户组
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 启动服务
+# 启动 docker
 
 > [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
 
@@ -245,21 +248,35 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   sudo systemctl enable docker.service
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+- 重新载入配置
 
-# 镜像加速
+  ```
+  sudo systemctl daemon-reload
+  ```
+
+- 重启 docker
+
+  ```
+  sudo systemctl restart docker
+  ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 加速
+
+## 镜像加速
 
 - 登录阿里云并找到[`容器镜像服务`](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 
 - 阿里会给一个加速地址,把地址复制到 Docker 设置里就可.
 
-## Windows
+### Windows
 
   <img src="https://i.loli.net/2021/02/05/wG1JgIPTof5yN6b.png" alt="20210205010825" />
 
 ---
 
-## Manjaro
+### Manjaro
 
 - 新建或者修改`/etc/docker/daemon.json`
 
@@ -276,7 +293,38 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   sudo systemctl restart docker
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+---
+
+## 设置代理
+
+> 参考: [docker docs](https://docs.docker.com/config/daemon/systemd/)
+
+- 国内网络环境拉取镜像非常慢,挂代理可以快很多.
+
+1. 新建文件夹
+
+```
+sudo mkdir -p /etc/systemd/system/docker.service.d
+```
+
+2. 新建文件 `/etc/systemd/system/docker.service.d/http-proxy.conf`,添加内容:
+
+```conf
+[Service]
+Environment="HTTP_PROXY=http://192.168.2.109:7890"
+```
+
+3. 如果需要其他协议的代理,可以再添加,如下:
+
+```conf
+[Service]
+Environment="HTTP_PROXY=http://192.168.2.109:7890"
+Environment="HTTPS_PROXY=https://192.168.2.109:7890"
+```
+
+4. [重新载入配置 & 重启 docker](#启动-docker)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 命令行执行
 
@@ -299,7 +347,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 最后重启 docker,用 `docker info` 检查一下就好了
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # VScode+docker
 
@@ -311,7 +359,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 另外再安装`Resource Monitor`这个插件可以监控远程机资源消耗(如上图最下方)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/divider.png)
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # Portainer
 
@@ -333,8 +381,18 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
   docker run -d --name portainer --restart always -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
   ```
 
-- `localhost:9000`
-
-  <img src="https://i.loli.net/2021/02/08/Uea6XQWH2TC7iSw.png" alt="20210208180753" />
+- 浏览器打开 `localhost:9000`
 
 - 官网上的版本要比 github 的 tag 慢一些,左下角提示更新可以无视~
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 容器自启
+
+```
+# 开启
+docker update --restart=always <CONTAINER ID>
+
+# 关闭
+docker update --restart=no <CONTAINER ID>
+```
