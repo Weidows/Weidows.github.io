@@ -13,17 +13,16 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:01:01
+ * @LastEditTime: 2021-03-29 10:37:22
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
 
-- [新奇的](#新奇的)
+- [基本的](#基本的)
+- [新奇写法](#新奇写法)
   - [`![]()`](#)
   - [`[]: URL`](#-url)
-- [平庸的](#平庸的)
-  - [`>`](#-1)
-  - [`- ## 内容`](#---内容)
+  - [对话](#对话)
 - [文字样式](#文字样式)
   - [`*斜体*` 或 `_斜体_`](#斜体-或-_斜体_)
   - [`**粗体**`](#粗体)
@@ -33,16 +32,39 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
   - [收缩框](#收缩框)
   - [下划线](#下划线)
   - [键盘样式](#键盘样式)
+- [注意点](#注意点)
 
-# 新奇的
+# 基本的
+
+- `> 内容`
+
+  - 展示:
+
+  > 在这里做个展示.
+
+---
+
+- `- ## 内容`
+
+  - 段落形式的标题,如下
+
+  - ### 这是一个段落标题,h3 字号
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 新奇写法
 
 ## `[![]()]()`
 
 - 这样写是把图片嵌套进了链接里,如下:
 
-[![图片](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)
+  [![图片](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)
 
 - 本来只是展示图片,现在点击图片跳转了.
+
+  ```markdown
+  [![图片](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)
+  ```
 
 ---
 
@@ -52,33 +74,39 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 
 - 上面指定,下面可以引用.
 
-```markdown
-[github-shield]: https://img.shields.io/github/stars/Weidows/vscode-weidows-theme?style=social
-[github-url]: https://github.com/Weidows/vscode-weidows-theme
-[vscode-shield]: https://img.shields.io/visual-studio-marketplace/r/TabNine.tabnine-vscode?logo=visual-studio-code&style=social
-[vscode-url]: https://bit.ly/3pqj7o2
+  ```markdown
+  [github-shield]: https://img.shields.io/github/stars/Weidows/vscode-weidows-theme?style=social
+  [github-url]: https://github.com/Weidows/vscode-weidows-theme
+  [vscode-shield]: https://img.shields.io/visual-studio-marketplace/r/TabNine.tabnine-vscode?logo=visual-studio-code&style=social
+  [vscode-url]: https://bit.ly/3pqj7o2
 
-[![Github Repo][github-shield]][github-url]
-[![VSCode Plugin][vscode-shield]][vscode-url]
-```
-
----
-
-# 平庸的
-
-## `>`
-
-- 展示:
-  > 在这里做个展示.
+  [![Github Repo][github-shield]][github-url]
+  [![VSCode Plugin][vscode-shield]][vscode-url]
+  ```
 
 ---
 
-## `- ## 内容`
+## 对话
 
-- 段落形式的标题,如下
-  - ### 这是一个段落标题,h3 字号
+> 发现自: [Axb 的自我修养](http://blog.2baxb.me/),样式如下:
 
----
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210329091216.png" alt="20210329091216" />
+
+- 写法:
+
+  ```markdown
+  比如某天...
+
+  > 喂?是....
+  ```
+
+- 样式:
+
+  比如某天...
+
+  > 喂?是....
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 文字样式
 
@@ -97,6 +125,7 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 ## `标识字`
 
 - 样式:
+
   `标识字`
 
 ---
@@ -106,7 +135,7 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 - 样式
   ~~样式演示~~
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # HTML 标签
 
@@ -146,3 +175,11 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 
 - 样式
   <kbd>Ctrl + shift + [</kbd>
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 注意点
+
+1. markdown 文件写的超过 1K 行后,每次格式化和页面加载的性能损耗是恐怖的,所以尽量控制 markdown 行数别太多
+
+2. 不同平台对 markdown 渲染不同,有可能会产生格式不对称问题.

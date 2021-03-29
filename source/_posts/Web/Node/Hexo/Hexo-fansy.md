@@ -18,7 +18,7 @@ cover: https://i.loli.net/2020/11/30/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:05:24
+ * @LastEditTime: 2021-03-29 11:25:36
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.md
 -->
 
@@ -260,24 +260,24 @@ Weidows
 ```
 
 - 例如:
-  ```
+  ```markdown
   {% mermaid %}
   pie
-      title Key elements in Product X
-      "Calcium" : 42.96
-      "Potassium" : 50.05
-      "Magnesium" : 10.01
-      "Iron" :  5
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" : 5
   {% endmermaid %}
   ```
 - 显示:
   {% mermaid %}
   pie
-  title Key elements in Product X
-  "Calcium" : 42.96
-  "Potassium" : 50.05
-  "Magnesium" : 10.01
-  "Iron" : 5
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" : 5
   {% endmermaid %}
 - mermaid 标籤不允许嵌套于一些隐藏属性的标籤外挂，例如: tag-hide 内的标籤外挂和 tabs 标籤外挂，这会导致 mermaid 图示无法正常显示，使用时请留意。
 - 请不要压缩 html 代码，不然会导致 mermaid 显示异常

@@ -19,7 +19,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-23 08:57:07
+ * @LastEditTime: 2021-03-25 10:52:28
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
@@ -73,8 +73,12 @@ top_img:
 - VScode 中设置:
 
   ```json
-    "java.configuration.maven.globalSettings": "D:/Game/Scoop/persist/maven/conf/settings.xml",
+  "java.configuration.maven.globalSettings": "D:/Game/Scoop/persist/maven/conf/settings.xml",
   ```
+
+- IDEA 中设置也需要覆盖
+
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210325105220.png" alt="20210325105220" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

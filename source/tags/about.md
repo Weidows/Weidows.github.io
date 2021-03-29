@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-20 18:59:11
+ * @LastEditTime: 2021-03-29 00:33:58
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 <h1 align="center">
@@ -61,15 +61,17 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
   - <details>
 
-      <summary>Why about these name ?</summary>
+      <summary> -> Why about these name ? <-</summary>
 
-    热爱运动,六块腹肌,肚脐下的两块没有 ~ 齐下无贰
+    ***
 
-    伟->Wei + Windows = Weidows (高中舍友给起的昵称,我挺喜欢的,一直在沿用)
+    热爱运动,六块腹肌,肚脐下的两块没有 -> 齐下无贰
 
-    utsuko -> 真正意义上瞎起的,感觉好听,翻译过来是->凌子
+    伟->Wei + Windows = Weidows (高中昵称,挺喜欢的,一直在沿用)
 
-    27 -> 0~99 中我最喜欢的数,也是我的伪生日.
+    utsuko -> 真正意义上瞎起的,译为 -> 凌子
+
+    27 -> 中我最喜欢的二位十进制数,也是我的生日.
 
     </details>
 
@@ -77,7 +79,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 - **Buff :**
 
-  - _普通一本-计算机科学与技术-大二_
+  - _19 级-计算机科学与技术-普通一本_
 
   - _暂且定于河北-沧州_
 
