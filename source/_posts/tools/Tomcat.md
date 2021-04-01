@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-25 11:32:11
+ * @LastEditTime: 2021-03-30 12:50:22
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Tomcat.md
  * @Description:
  * @!: *********************************************************************
@@ -32,6 +32,8 @@ top_img:
 - [IDEA](#idea)
 - [虚拟主机/代理](#虚拟主机代理)
 - [乱码问题](#乱码问题)
+  - [终端乱码](#终端乱码)
+  - [网页中文乱码](#网页中文乱码)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -184,16 +186,22 @@ top_img:
 
 # 乱码问题
 
+## 终端乱码
+
 - 在启动 Tomcat 时,终端内中文乱码:
 
   - 虽然这个对程序运行没有影响,但是有些影响观瞻,一般只会在 Window 遇到,修改如下:
 
   - 找到 `Tomcat/conf/logging.properties` 里面的-> `java.util.logging.ConsoleHandler.encoding`这一行 ,把 `UTF-8`换为`GBK`
 
-  ***
+- 另一种方法: 把终端显示设置为 UTF-8
 
-- 网页中文乱码
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210330125008.png" alt="20210330125008" />
 
-  - 我们开发的页面,无论是动/静态,只要不指定编码格式,中文肯定乱码
+---
 
-  - 需要做的就是在开发网页时,指定 `CharacterEncoding = UTF-8`
+## 网页中文乱码
+
+- 我们开发的页面,无论是动/静态,只要不指定编码格式,中文肯定乱码
+
+- 需要做的就是在开发网页时,指定 `CharacterEncoding = UTF-8`

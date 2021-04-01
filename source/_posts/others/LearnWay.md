@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:11:56
+ * @LastEditTime: 2021-03-31 09:03:44
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -63,6 +63,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
   - [单片机](#单片机)
   - [数据库](#数据库)
     - [MySQL](#mysql)
+  - [计算机网络](#计算机网络)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -355,3 +356,9 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 > [狂神说数据库笔记](https://blog.csdn.net/weixin_45483328/article/details/113759286?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
 
 - 要点清晰,能很快速的顺下来需要掌握的东西.
+
+---
+
+## 计算机网络
+
+> [IP 地址，子网掩码、默认网关，DNS 服务器之间的联系与区别](https://blog.csdn.net/hexf9632/article/details/93469788)
