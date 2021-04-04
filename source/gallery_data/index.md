@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-23 00:15:07
+ * @LastEditTime: 2021-04-02 09:47:01
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\gallery_data\index.md
 -->
 
@@ -15,7 +15,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 
 ⭐️ 不仅是人生,但凡是生命 ⭐️
 
-无一生所爱,却所爱一生.
+无一生所爱,却所爱一生
 
 </h1>
 

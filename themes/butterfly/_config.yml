@@ -546,7 +546,8 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/21.jpeg)
+background: "#000000"
+  # url(https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/21.jpeg)
 
 # Footer Background
 footer_bg: true
@@ -555,7 +556,7 @@ footer_bg: true
 rightside-bottom: "150px"
 
 # Enter transitions (開啓網頁進入效果)
-enter_transitions: true
+enter_transitions: false
 
 # Background effects (背景特效)
 # --------------------------------------
@@ -572,7 +573,7 @@ canvas_ribbon:
 
 # Fluttering Ribbon (動態彩帶)
 canvas_fluttering_ribbon:
-  enable: true
+  enable: false
   mobile: false
 
 # canvas_nest
@@ -601,7 +602,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
+  enable: false
   mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
@@ -665,7 +666,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: "骚话结束，操练技术,欢迎莅临Weidows帝国厨房."
+  sub: "油盐齐下，锅铲无贰,欢迎莅临Weidows帝国厨房"
 
 # Loading Animation (加載動畫)
 preloader: true
