@@ -556,7 +556,7 @@ footer_bg: true
 rightside-bottom: "150px"
 
 # Enter transitions (開啓網頁進入效果)
-enter_transitions: false
+enter_transitions: true
 
 # Background effects (背景特效)
 # --------------------------------------
@@ -589,7 +589,7 @@ canvas_nest:
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: true
+  enable: false
   colorful: true # open particle animation (冒光特效)
   shake: false #  open shake (抖動特效)
   mobile: true

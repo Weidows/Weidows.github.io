@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-31 09:03:44
+ * @LastEditTime: 2021-04-05 23:22:41
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -52,6 +52,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
     - [插件(包)开发/发布](#插件包开发发布)
     - [Emmet](#emmet)
   - [Docker](#docker)
+  - [正则表达式](#正则表达式)
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
   - [自信](#自信)
@@ -283,6 +284,14 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 ## Docker
 
 > [初探 Docker](https://www.bilibili.com/video/BV1vD4y1X7ce)
+
+---
+
+## 正则表达式
+
+> [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+
+- 标星超高的项目,必须一刷!
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
