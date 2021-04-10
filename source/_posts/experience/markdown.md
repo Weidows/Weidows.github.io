@@ -13,7 +13,7 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-29 10:37:22
+ * @LastEditTime: 2021-04-10 15:42:47
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
@@ -23,6 +23,7 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
   - [`![]()`](#)
   - [`[]: URL`](#-url)
   - [对话](#对话)
+  - [引用+条目](#引用条目)
 - [文字样式](#文字样式)
   - [`*斜体*` 或 `_斜体_`](#斜体-或-_斜体_)
   - [`**粗体**`](#粗体)
@@ -105,6 +106,22 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
   比如某天...
 
   > 喂?是....
+
+---
+
+## 引用+条目
+
+- 样式:
+
+  > - 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+  > - 监听器经常在 GUI 编程中使用.
+
+- 写法:
+
+  ```markdown
+  > - 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+  > - 监听器经常在 GUI 编程中使用.
+  ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
