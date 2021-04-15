@@ -13,10 +13,11 @@ cover: https://i.loli.net/2020/11/30/GQMENFX1sR4ubZY.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:08:56
+ * @LastEditTime: 2021-04-13 20:05:00
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\jvm_model.md
 -->
 
+- [子父类加载](#子父类加载)
 - [JVM 内存模型](#jvm-内存模型)
   - [`堆heap`:](#堆heap)
   - [`栈stack`:](#栈stack)
@@ -29,6 +30,14 @@ cover: https://i.loli.net/2020/11/30/GQMENFX1sR4ubZY.jpg
 - [JVM Errors](#jvm-errors)
     - [1.AWT 错误](#1awt-错误)
     - [2.JVM 错误](#2jvm-错误)
+
+# 子父类加载
+
+- 最近发现的一个知识漏洞
+
+  > [Java 多态之 Father f=new Son();](https://www.cnblogs.com/zxcoder/p/12250210.html)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # JVM 内存模型
 
