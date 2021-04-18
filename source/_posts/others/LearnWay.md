@@ -15,7 +15,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-05 23:22:41
+ * @LastEditTime: 2021-04-17 21:13:11
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -43,6 +43,7 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
     - [Markdown](#markdown)
   - [JavaScript](#javascript)
     - [进阶](#进阶-2)
+  - [异步](#异步)
 - [工具使用](#工具使用)
   - [Git](#git)
     - [Git push](#git-push)
@@ -232,6 +233,12 @@ cover: https://i.loli.net/2020/12/30/LAbU4pzmYKTEnOo.png
 
 - 狂神老师出的都很...上头!
   - 就是那个味!
+
+---
+
+## 异步
+
+> [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
