@@ -6,7 +6,7 @@ categories:
 tags:
   - JavaScript
   - 推荐
-cover: https://i.loli.net/2020/11/30/E5ofKbNthSv8yUn.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/E5ofKbNthSv8yUn.jpg
 # top_img:
 ---
 
@@ -48,10 +48,10 @@ cover: https://i.loli.net/2020/11/30/E5ofKbNthSv8yUn.jpg
   ```
 
 - ## 示例:
-  ![Screenshot_20201130_175729_com.tencent.mm](https://i.loli.net/2020/11/30/z2Epsq7kAv1NB6P.jpg)
+  ![Screenshot_20201130_175729_com.tencent.mm](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z2Epsq7kAv1NB6P.jpg)
 - ## 然后从上到下把链接点开一下(没错,`点开然后关掉`就行)
   - 第三个链接需要打开一个东西,如下:
-    ![Screenshot_20201130_184015_com.tencent.mm](https://i.loli.net/2020/11/30/UIMEakuX2x3sD1C.jpg)
+    ![Screenshot_20201130_184015_com.tencent.mm](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UIMEakuX2x3sD1C.jpg)
   - 如果你截图时不想让小绿格显示,在这里再关掉.
 - ## 安装完成!
 
@@ -68,7 +68,7 @@ cover: https://i.loli.net/2020/11/30/E5ofKbNthSv8yUn.jpg
   ```
 
 - 示例:
-  ![Screenshot_20201130_185325_com.tencent.mm](https://i.loli.net/2020/11/30/SoapzrVJ1jsbnEQ.jpg)
+  ![Screenshot_20201130_185325_com.tencent.mm](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SoapzrVJ1jsbnEQ.jpg)
 
 ---
 

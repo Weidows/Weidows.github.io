@@ -8,7 +8,7 @@ tags:
   - Processing
   - VScode
   - 备忘录
-cover: https://i.loli.net/2020/11/30/ztfiqOT5musnD7A.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 

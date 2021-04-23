@@ -7,7 +7,7 @@ tags:
   - Java
   - VScode
   - Maven
-cover: https://i.loli.net/2020/11/30/xiSTXMhqsgzD7UP.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/xiSTXMhqsgzD7UP.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 

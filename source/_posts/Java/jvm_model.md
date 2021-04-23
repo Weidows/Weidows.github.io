@@ -6,7 +6,7 @@ categories:
 tags:
   - Java
   - JVM
-cover: https://i.loli.net/2020/11/30/GQMENFX1sR4ubZY.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg
 ---
 
 <!--

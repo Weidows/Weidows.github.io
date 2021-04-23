@@ -6,7 +6,7 @@ categories:
 tags:
   - Java
   - 对象
-cover: https://i.loli.net/2020/11/30/To4BF7XM1xEmanh.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/To4BF7XM1xEmanh.jpg
 ---
 
 <!--
@@ -22,7 +22,7 @@ cover: https://i.loli.net/2020/11/30/To4BF7XM1xEmanh.jpg
 
 # 匿名对象一 (Test.java)
 
-![anonymous_object_1](https://i.loli.net/2020/11/30/aqpo7tPHMDxAkbn.jpg)
+![anonymous_object_1](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/aqpo7tPHMDxAkbn.jpg)
 
 <details>
 
@@ -54,7 +54,7 @@ public static void main(String[] args) {
 
 # 匿名对象二 (Circle.java)
 
-![anonymous_object_2](https://i.loli.net/2020/11/30/PtY473dAChgsqpQ.jpg)
+![anonymous_object_2](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PtY473dAChgsqpQ.jpg)
 
 <details>
 

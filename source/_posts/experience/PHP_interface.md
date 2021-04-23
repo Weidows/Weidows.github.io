@@ -7,7 +7,7 @@ tags:
   - 备忘录
   - PHP
   - Website
-cover: https://i.loli.net/2020/11/30/Dxy6jwQotKsIEX5.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Dxy6jwQotKsIEX5.jpg
 ---
 
 <!--

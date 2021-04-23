@@ -6,7 +6,7 @@ categories:
 tags:
   - 备忘录
   - 成长路线
-cover: https://i.loli.net/2020/11/30/jor1XfaHz9CQDcB.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jor1XfaHz9CQDcB.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 

@@ -9,7 +9,7 @@ tags:
   - package
   - 工具
   - 推荐
-cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 # top_img:
 ---
 
@@ -99,7 +99,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 
 - 配置好了如下
 
-  <img src="https://i.loli.net/2021/01/15/WEtuLNerT8dw6Jk.png" alt="20210115232840" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/WEtuLNerT8dw6Jk.png" alt="20210115232840" />
 
 - 安装
 
@@ -218,7 +218,7 @@ cover: https://i.loli.net/2021/01/14/vJbmzfMU231dDlq.png
 - 他把当前版本的目录创建了一个`伪目录:current`,这个伪目录指向当前版本号的目录
 - 比如这里的`current/node.exe`实际上指向`15.5.1/node.exe`
 
-  <img src="https://i.loli.net/2021/01/15/Syi1kKHYwTVMuaL.png" alt="20210115011742" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Syi1kKHYwTVMuaL.png" alt="20210115011742" />
 
 - 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
 - 这个功能太赞了!

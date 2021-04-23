@@ -5,7 +5,7 @@ categories:
   - Java
 tags:
   - Java
-cover: https://i.loli.net/2020/11/30/XNzZpVAlmohqKHY.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XNzZpVAlmohqKHY.jpg
 ---
 
 <!--
@@ -28,7 +28,7 @@ cover: https://i.loli.net/2020/11/30/XNzZpVAlmohqKHY.jpg
 
 # Person.java
 
-![UpRI1nOdso2Z4ak](https://i.loli.net/2020/11/30/GCvw1FlIot7T5iA.jpg)
+![UpRI1nOdso2Z4ak](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GCvw1FlIot7T5iA.jpg)
 {% hideToggle 源代码 %}
 
 ```java
@@ -99,7 +99,7 @@ class TestPerson {
 
 # Test.java
 
-![Q9r36pXoBen4Hcy](https://i.loli.net/2020/11/30/XZ7JLfemrapqcC8.jpg)
+![Q9r36pXoBen4Hcy](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XZ7JLfemrapqcC8.jpg)
 {% hideToggle 源代码 %}
 
 ```java

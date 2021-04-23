@@ -5,7 +5,7 @@ categories:
   - system
 tags:
   - 树莓派
-cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 # top_img:
 ---
 
@@ -60,13 +60,13 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 
   - 预览
 
-  <img src="https://i.loli.net/2020/12/03/JgR8kpoTAl4q3bZ.png" alt="20201203110651" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JgR8kpoTAl4q3bZ.png" alt="20201203110651" />
 
 - 用读卡器把树莓派系统 TF 卡插进电脑,把这两个文件复制进内存卡里名叫 `boot` 的盘符根目录里.
 - 开鸡,等会应该就会发现电脑或者手机连接上了,如下:
 
-  <img src="https://i.loli.net/2020/12/03/g2h8LQeGz145BT6.png" alt="20201203110842" />
-  <img src="https://i.loli.net/2020/12/03/qUjClYon8P5cuZi.jpg" alt="Screenshot_20201203_112505_com.android.settings" width="50%" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/g2h8LQeGz145BT6.png" alt="20201203110842" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/qUjClYon8P5cuZi.jpg" alt="Screenshot_20201203_112505_com.android.settings" width="50%" />
 
 - 然后就可以用 ssh 连接这个 IP 地址了.
 
@@ -116,8 +116,8 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
 - 没屏幕或者没 Mini-HDMI 线时最佳方案.
 - 首先[下载 VNC 软件](https://www.realvnc.com/en/connect/download/viewer)
 - 安装后打开搜索树莓派的内网 ip,输入用户名连接
-  <img src="https://i.loli.net/2020/12/04/tiYkwdcTq2ZpQfl.png" alt="20201204103758" />
-  <img src="https://i.loli.net/2020/12/04/DINsq97UmFPJbcZ.png" alt="20201204103843" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/tiYkwdcTq2ZpQfl.png" alt="20201204103758" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/DINsq97UmFPJbcZ.png" alt="20201204103843" />
 - OK.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -131,5 +131,5 @@ cover: https://i.loli.net/2020/12/03/HM1ew2iAGobaCRr.png
   ```
   > 这里不用 Neofetch 是因为树莓派 Debian8 系统的 repo 地址需要更新,安装还需要其他操作,怪麻烦~
 - 显示 Linux 系统及版本信息,如下:
-  <img src="https://i.loli.net/2020/12/05/XVzvAUq7G4tP1DO.png" alt="20201205143342" />
-  <img src="https://i.loli.net/2020/12/03/iWXJzj5U9HyoG3R.png" alt="20201203115807" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XVzvAUq7G4tP1DO.png" alt="20201205143342" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iWXJzj5U9HyoG3R.png" alt="20201203115807" />

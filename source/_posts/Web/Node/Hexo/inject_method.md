@@ -12,7 +12,7 @@ tags:
   - 备忘录
   - HTML
   - CSS
-cover: https://i.loli.net/2020/11/30/z7JsMCr28A1Y53j.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg
 ---
 
 <!--

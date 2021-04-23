@@ -5,7 +5,7 @@ categories:
   - experience
 tags:
   - yaml
-cover: https://i.loli.net/2020/11/30/rJLfcmTERGvAti4.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 ---
 
 <!--

@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-02 09:47:01
+ * @LastEditTime: 2021-04-20 19:33:09
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\gallery_data\index.md
 -->
 
@@ -85,9 +85,9 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 
 {% galleryGroup 编程比赛 年迈时在赛场上掉落的华发 gallery_data/Private/CCPC https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/CCPC.png %}
 
-{% galleryGroup 成长手册 被逼与自愿之间的选择. gallery_data/Private/MyGrowth https://i.loli.net/2020/11/30/6t2qP1DoRUNyzSg.jpg %}
+{% galleryGroup 成长手册 被逼与自愿之间的选择. gallery_data/Private/MyGrowth https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/6t2qP1DoRUNyzSg.jpg %}
 
 {% galleryGroup 病患解析 浑元形意内外伤. gallery_data/Private/Why-illness https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/1.jpg %}
 
-{% galleryGroup 我的故乡 拿起村好剑对日的时光. gallery_data/Private/我的故乡 https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/我的故乡/1/IMG_20210322_174150_compressed.jpg %}
+{% galleryGroup 我的故乡 拿起村好剑对日的时光. gallery_data/Private/我的故乡 https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/1618918018344.jpeg %}
 </div>

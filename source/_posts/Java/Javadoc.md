@@ -6,7 +6,7 @@ categories:
 tags:
   - Java
   - Javadoc
-cover: https://i.loli.net/2020/11/30/iHZCgtN4OpsuDj5.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iHZCgtN4OpsuDj5.jpg
 # top_img:
 ---
 

@@ -8,7 +8,7 @@ tags:
   - VScode
   - Emmet
   - 工具
-cover: https://i.loli.net/2021/01/27/MSq5Z7OEhmRLI6d.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/MSq5Z7OEhmRLI6d.png
 # top_img:
 ---
 
@@ -36,7 +36,7 @@ cover: https://i.loli.net/2021/01/27/MSq5Z7OEhmRLI6d.png
 # 简单上手
 
 - 如图
-  <img src="https://i.loli.net/2021/01/27/YOUTJGPcLpd7Bhn.png" alt="20210127001432" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YOUTJGPcLpd7Bhn.png" alt="20210127001432" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

@@ -6,7 +6,7 @@ categories:
 tags:
   - Java
   - 设计模式
-cover: https://i.loli.net/2020/11/30/M2NCl539nTvz6Vj.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/M2NCl539nTvz6Vj.jpg
 ---
 
 <!--

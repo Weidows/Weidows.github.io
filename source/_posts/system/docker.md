@@ -5,7 +5,7 @@ categories:
   - system
 tags:
   - Docker
-cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 # top_img:
 ---
 
@@ -47,13 +47,13 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 - 初探尝试安装时出现下面好几个选择,于是搜了搜~
 
-  <img src="https://i.loli.net/2021/01/31/jhuS34tCPsd8qzO.png" alt="20210131002505" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jhuS34tCPsd8qzO.png" alt="20210131002505" />
 
 - 找到 docker 家族有几个特殊的工具`docker-Dockerfile`,`docker-compose`,`docker-machine`
 
   - 这几个工具不需要单另安装,docker 内部自带.
 
-  <img src="https://i.loli.net/2021/01/31/ylYzZV2vthOpcsW.png" alt="20210131004332" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ylYzZV2vthOpcsW.png" alt="20210131004332" />
 
 ---
 
@@ -272,7 +272,7 @@ cover: https://i.loli.net/2021/01/31/GYBrOKiMjNlC3ap.jpg
 
 ### Windows
 
-  <img src="https://i.loli.net/2021/02/05/wG1JgIPTof5yN6b.png" alt="20210205010825" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/wG1JgIPTof5yN6b.png" alt="20210205010825" />
 
 ---
 
@@ -355,7 +355,7 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 - 安装 docker 插件,就可以享受比较方便的可视化了(个人非常喜欢这种方式)
 
-  <img src="https://i.loli.net/2021/02/06/AF6QcV3elqXPR2t.png" alt="20210206153528" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/AF6QcV3elqXPR2t.png" alt="20210206153528" />
 
 - 另外再安装`Resource Monitor`这个插件可以监控远程机资源消耗(如上图最下方)
 

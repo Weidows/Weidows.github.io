@@ -5,7 +5,7 @@ categories:
   - system
 tags:
   - 计算机系统
-cover: https://i.loli.net/2020/11/30/c4RC1zhqgl39Dp8.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 ---
 
 <!--

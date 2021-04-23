@@ -9,7 +9,7 @@ tags:
   - Hexo
   - Website
   - SEO
-cover: https://i.loli.net/2020/12/18/vfMgXj4aswWDh2Z.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png
 # top_img:
 ---
 
@@ -101,7 +101,7 @@ cover: https://i.loli.net/2020/12/18/vfMgXj4aswWDh2Z.png
   - [HTML=>pug 格式转换](https://html2pug.com/)
 - 添加之后如下:
 
-  <img src="https://i.loli.net/2020/12/18/eFC3Lqbpi9xQ4Mg.png" alt="20201218170353" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/eFC3Lqbpi9xQ4Mg.png" alt="20201218170353" />
 
 - 最后
   - hexo generate
@@ -114,7 +114,7 @@ cover: https://i.loli.net/2020/12/18/vfMgXj4aswWDh2Z.png
 
 - 百度
 
-  <img src="https://i.loli.net/2020/12/18/KOl5p4gtIsBwrhE.png" alt="20201218173033" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/KOl5p4gtIsBwrhE.png" alt="20201218173033" />
 
 - 谷歌简单,略.
 - 另外

@@ -8,7 +8,7 @@ tags:
   - VScode
   - 推荐
   - 工具
-cover: https://i.loli.net/2020/11/30/3VAZ2ijxvnpzShq.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/3VAZ2ijxvnpzShq.jpg
 ---
 
 <!--

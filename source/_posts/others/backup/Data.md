@@ -8,7 +8,7 @@ tags:
   - 备忘录
   - Java
   - VScode
-cover: https://i.loli.net/2020/11/30/p2W5KHlnUMxbBOq.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p2W5KHlnUMxbBOq.jpg
 ---
 
 <!--
@@ -33,6 +33,6 @@ cover: https://i.loli.net/2020/11/30/p2W5KHlnUMxbBOq.jpg
 - 开始菜单
   - `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
 - NVIDIA 颜色配置
-  ![20201127165215](https://i.loli.net/2020/11/30/t8qC1egPho6jrza.jpg)![20201127165253](https://i.loli.net/2020/11/30/4c2oMNxus8Qtjz3.jpg)
+  ![20201127165215](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/t8qC1egPho6jrza.jpg)![20201127165253](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/4c2oMNxus8Qtjz3.jpg)
 
 ---

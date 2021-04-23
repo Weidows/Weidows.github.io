@@ -7,7 +7,7 @@ categories:
 tags:
   - JavaScript
   - 笔记
-cover: https://i.loli.net/2020/12/30/tifKj6dA92BVezU.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/tifKj6dA92BVezU.png
 # top_img:
 ---
 

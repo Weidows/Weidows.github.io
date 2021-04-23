@@ -7,7 +7,7 @@ tags:
   - Font
   - VScode
   - 推荐
-cover: https://i.loli.net/2020/11/30/Xx1sQuZiCoPKAfD.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
@@ -41,7 +41,7 @@ cover: https://i.loli.net/2020/11/30/Xx1sQuZiCoPKAfD.jpg
   ***
 
 - Operator Mono 字体
-  ![jhKmYOnMX1pecEI](https://i.loli.net/2020/11/30/NceHJmuqKvM4XUL.jpg)
+  ![jhKmYOnMX1pecEI](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/NceHJmuqKvM4XUL.jpg)
 
 # 非等宽字体
 

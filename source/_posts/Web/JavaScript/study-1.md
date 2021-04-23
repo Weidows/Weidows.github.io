@@ -7,7 +7,7 @@ categories:
 tags:
   - JavaScript
   - 笔记
-cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 # top_img:
 ---
 
@@ -188,7 +188,7 @@ cover: https://i.loli.net/2020/12/20/LUZ3oTm6ynYBGvN.png
 
 # 浏览器调试
 
-<img src="https://i.loli.net/2020/12/20/Q8tygmLE41kB6pX.png" alt="20201220232055" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Q8tygmLE41kB6pX.png" alt="20201220232055" />
 
 - 调试 HTML 和 css 一般在 Element
 - console 控制台一般用来调试 JavaScript.

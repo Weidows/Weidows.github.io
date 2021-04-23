@@ -6,7 +6,7 @@ categories:
   - Git
 tags:
   - Github
-cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 # top_img:
 ---
 
@@ -39,7 +39,7 @@ cover: https://i.loli.net/2020/11/30/JUkiZVF8s3ne1fz.jpg
 
 # License 选择
 
-![License](https://i.loli.net/2020/11/30/46lbZztfLjkM2n7.jpg)
+![License](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/46lbZztfLjkM2n7.jpg)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

@@ -690,7 +690,7 @@ aside:
       link: https://github.com/Weidows
   card_announcement:
     enable: true
-    content: <center>Welcome,锟斤拷!<img src="https://i.loli.net/2020/12/01/lN43pcEtgmFfbnk.png"></center>
+    content: <center>Welcome,锟斤拷!<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lN43pcEtgmFfbnk.png"></center>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

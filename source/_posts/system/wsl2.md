@@ -7,7 +7,7 @@ tags:
   - wsl2
   - 计算机系统
   - Windows
-cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 # top_img:
 ---
 
@@ -49,9 +49,9 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 我用谷歌时间肯定没百度长,看起来谷歌更了解我 🤣
 
-  <img src="https://i.loli.net/2021/02/01/pOXAbKUQ5MaW2c9.png" alt="20210201140021" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/pOXAbKUQ5MaW2c9.png" alt="20210201140021" />
 
-  <img src="https://i.loli.net/2021/02/01/wgzIP2QA3qrnHpR.png" alt="20210201140048" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/wgzIP2QA3qrnHpR.png" alt="20210201140048" />
 
 - 虽然并不想吹捧或贬低哪个,但是这...(看来我是老双标怪了~)
 
@@ -115,7 +115,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 如图上面两个`必须开启`,其他的您看着来~
 
-  <img src="https://i.loli.net/2021/02/01/A2jzxWdCoIRfJ8h.png" alt="20210201160810" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/A2jzxWdCoIRfJ8h.png" alt="20210201160810" />
 
 ---
 
@@ -192,7 +192,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 如图,点`选择默认shell`里面就可以选择`wsl`了
 
-  <img src="https://i.loli.net/2021/02/01/6D1J9yq5EMuXQVx.png" alt="20210201165532" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/6D1J9yq5EMuXQVx.png" alt="20210201165532" />
 
 ---
 
@@ -204,7 +204,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 甚至都不需要配置,直接点左下角打开就行了
 
-  <img src="https://i.loli.net/2021/02/01/KlHZ74Obe8zEgVf.png" alt="20210201173024" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/KlHZ74Obe8zEgVf.png" alt="20210201173024" />
 
 - 当然,如果不嫌麻烦拿 ssh 连接 wsl 也可以,需要在 wsl 系统内配置静态 ip,但是很多功能性上不如上面那个插件.
 
@@ -214,15 +214,15 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 安装 wsl 之后就可以通过`\\wsl$`访问到自己的虚拟机
 
-  <img src="https://i.loli.net/2021/02/01/DBd9HOUPhSMtgNo.png" alt="20210201173448" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/DBd9HOUPhSMtgNo.png" alt="20210201173448" />
 
 - 映射
 
-  <img src="https://i.loli.net/2021/02/01/XMjQTWpiznhlIV7.png" alt="20210201174422" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XMjQTWpiznhlIV7.png" alt="20210201174422" />
 
 - 映射之后出现新盘符
 
-  <img src="https://i.loli.net/2021/02/01/k3htJvZ1CKrSmbO.png" alt="20210201174646" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/k3htJvZ1CKrSmbO.png" alt="20210201174646" />
 
 - 有个奇妙的事是`mnt/`目录下会反过来映射你的所有本地盘符
 
@@ -230,7 +230,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   - 这几个映射文件夹在 Windows 文件管理器无法打开,但是在终端里可以进入
 
-  <img src="https://i.loli.net/2021/02/01/tQcB8vpzZIKoEeH.png" alt="20210201174957" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/tQcB8vpzZIKoEeH.png" alt="20210201174957" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -248,7 +248,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
 - 如图
 
-  <img src="https://i.loli.net/2021/02/01/RxpgAbjuDSGivym.png" alt="20210201221447" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/RxpgAbjuDSGivym.png" alt="20210201221447" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -270,7 +270,7 @@ cover: https://i.loli.net/2021/02/01/oXzU4HnQvdJPS5f.png
 
   - 首先,`生态问题`,下图是我的开发环境,想要移植到 Linux 难度很大,肯定要放弃一些,,所以我放弃移植了...
 
-    <img src="https://i.loli.net/2021/02/01/xMkL83vV9iIKB6u.png" alt="20210201215547" />
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/xMkL83vV9iIKB6u.png" alt="20210201215547" />
 
   - 其次,有些小问题需要解决,比如路径问题`"/"与"\"`不一样,还有换行符问题,会导致 git 认为你的项目全绿`(就是所有文件的所有行都有修改)`,令人窒息...
 

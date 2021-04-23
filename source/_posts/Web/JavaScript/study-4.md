@@ -8,7 +8,7 @@ tags:
   - JavaScript
   - 笔记
   - JQuery
-cover: https://i.loli.net/2021/01/26/qg3OyNzScKB5aHh.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/qg3OyNzScKB5aHh.png
 # top_img:
 ---
 
@@ -102,7 +102,7 @@ $(".class1").click;
 
 - 鼠标事件
 
-  <img src="https://i.loli.net/2021/01/26/DalS38jyRX9wT6V.png" alt="20210126224938" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/DalS38jyRX9wT6V.png" alt="20210126224938" />
 
 - 案例
 
@@ -147,7 +147,7 @@ $(".class1").click;
 
 - 展示
 
-  <img src="https://i.loli.net/2021/01/27/ZeyS3BvOJYs7ouR.png" alt="20210127000346" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZeyS3BvOJYs7ouR.png" alt="20210127000346" />
 
 ---
 

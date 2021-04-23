@@ -9,7 +9,7 @@ tags:
   - npm
   - yarn
   - package
-cover: https://i.loli.net/2020/11/30/at4cvJXTRZw9bQH.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 # top_img:
 ---
 

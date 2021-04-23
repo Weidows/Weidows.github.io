@@ -7,7 +7,7 @@ categories:
 tags:
   - snippet
   - VScode
-cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SuYiVEyqvkWDAB6.jpg
 ---
 
 <!--
@@ -28,7 +28,7 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
 
 - 首先需要打开 markdown 文件的 `quickSuggestions`,因为其默认是未开启状态
 
-  <img src="https://i.loli.net/2021/01/31/til5Vdxys4ocjkC.png" alt="20210131221250" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/til5Vdxys4ocjkC.png" alt="20210131221250" />
 
 - 在设置文件里加上以下设置
 
@@ -42,7 +42,7 @@ cover: https://i.loli.net/2020/11/30/SuYiVEyqvkWDAB6.jpg
 
 # 增添代码片段
 
-<img src="https://i.loli.net/2021/01/31/r19TEcwA3GxNpVk.png" alt="20210131221522" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/r19TEcwA3GxNpVk.png" alt="20210131221522" />
 
 - 点小齿轮找到用户代码片段设置,进入设置文件,在大括号里添加自定义的代码片段,比如下面我的:
 

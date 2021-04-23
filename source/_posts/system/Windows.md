@@ -6,7 +6,7 @@ categories:
 tags:
   - Windows
   - 计算机系统
-cover: https://i.loli.net/2020/12/28/VKmoJbNALH7PqrC.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 # top_img:
 ---
 
@@ -52,10 +52,10 @@ cover: https://i.loli.net/2020/12/28/VKmoJbNALH7PqrC.png
 
 在文件夹空白处按住`shift + 右键`,会出来`在此处打开PowerShell窗口`
 
-<img src="https://i.loli.net/2021/01/03/4HflJZPK8W95i1A.png" alt="20210103142309" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/4HflJZPK8W95i1A.png" alt="20210103142309" />
 
 ## 方法三
 
 直接在路径栏中输入 cmd 回车.
 
-<img src="https://i.loli.net/2021/01/03/jvCbW19uq6ohExN.png" alt="20210103142458" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jvCbW19uq6ohExN.png" alt="20210103142458" />

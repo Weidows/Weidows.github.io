@@ -1,6 +1,6 @@
 ---
 title: ⭐ 怨妇犹言酱醋茶 ⭐
-top_img: https://i.loli.net/2020/11/30/9QLXvqPHZw2nWtG.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/9QLXvqPHZw2nWtG.jpg
 ---
 
 <!--

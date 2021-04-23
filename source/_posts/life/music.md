@@ -6,7 +6,7 @@ categories:
 tags:
   - 音乐
   - 哲学
-cover: https://i.loli.net/2021/02/08/FW48e5VR3BOgvca.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 # top_img:
 ---
 
@@ -63,11 +63,11 @@ cover: https://i.loli.net/2021/02/08/FW48e5VR3BOgvca.jpg
 
   - 看这张图,字符连接`很灵性`,就像是曲子,每个字与前后的字都有联系,连接紧密性低的话就会略失美感
 
-    <img src="https://i.loli.net/2021/02/08/YMu816jCtNh5UIW.png" alt="code" />
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YMu816jCtNh5UIW.png" alt="code" />
 
   - 再如这一张
 
-    <img src="https://i.loli.net/2021/02/08/GxebVvLDoCl1jIU.png" alt="code" />
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GxebVvLDoCl1jIU.png" alt="code" />
 
 ---
 

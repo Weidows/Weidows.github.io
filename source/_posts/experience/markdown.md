@@ -5,7 +5,7 @@ categories:
   - experience
 tags:
   - Markdown
-cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 # top_img:
 ---
 
@@ -59,12 +59,12 @@ cover: https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg
 
 - 这样写是把图片嵌套进了链接里,如下:
 
-  [![图片](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)
+  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)
 
 - 本来只是展示图片,现在点击图片跳转了.
 
   ```markdown
-  [![图片](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)](https://i.loli.net/2020/11/30/o6shLZ1G53qliBY.jpg)
+  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)
   ```
 
 ---

@@ -8,7 +8,7 @@ tags:
 categories:
   - Web
   - Vue
-cover: https://i.loli.net/2021/02/16/SYd5WRK4xf1sGbN.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SYd5WRK4xf1sGbN.png
 top_img:
 ---
 

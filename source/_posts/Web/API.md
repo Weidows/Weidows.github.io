@@ -6,7 +6,7 @@ categories:
 tags:
   - 备忘录
   - API
-cover: https://i.loli.net/2020/11/30/U2VkeYvoMaXIsEp.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/U2VkeYvoMaXIsEp.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 

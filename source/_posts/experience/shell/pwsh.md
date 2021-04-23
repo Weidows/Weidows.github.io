@@ -8,7 +8,7 @@ tags:
   - shell
   - PowerShell
   - 备忘录
-cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
@@ -28,7 +28,7 @@ cover: https://i.loli.net/2020/11/30/p8sZuCArYPLI93d.jpg
 
 # 预览
 
-![siDz8M1QlGIanE3](https://i.loli.net/2020/11/30/L26PcmM3KnW9YfT.jpg)
+![siDz8M1QlGIanE3](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/L26PcmM3KnW9YfT.jpg)
 
 ---
 

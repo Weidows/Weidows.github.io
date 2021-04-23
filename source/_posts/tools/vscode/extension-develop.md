@@ -7,7 +7,7 @@ categories:
 tags:
   - VScode
   - extension
-cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 # top_img:
 ---
 
@@ -107,7 +107,7 @@ cover: https://i.loli.net/2021/01/03/mjSy1DuPknbalrv.png
 
 - 项目结构
 
-  <img src="https://i.loli.net/2021/01/03/UbD9VspYcdH7Ojn.png" alt="20210103160252" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UbD9VspYcdH7Ojn.png" alt="20210103160252" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

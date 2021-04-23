@@ -7,7 +7,7 @@ categories:
 tags:
   - JavaScript
   - 笔记
-cover: https://i.loli.net/2021/01/20/lu7MVrgdPExk6Rc.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lu7MVrgdPExk6Rc.png
 # top_img:
 ---
 
@@ -100,7 +100,7 @@ console.log(log_time.toUTCString()); //  Wed, 20 Jan 2021 13:19:06 GMT
 
 - 目前网络数据传输最主要格式.
 
-  <img src="https://i.loli.net/2021/01/20/cOoznNlKMv7yLd6.png" alt="20210120222429" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/cOoznNlKMv7yLd6.png" alt="20210120222429" />
 
 - Json 的使用
 
@@ -220,7 +220,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
   - 原型链结构
 
-  <img src="https://i.loli.net/2021/01/20/KwIm1Ac7azCg9jO.png" alt="20210120233527" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/KwIm1Ac7azCg9jO.png" alt="20210120233527" />
 
 ---
 
@@ -232,7 +232,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 - 这个对象代表浏览器窗口
 
-  <img src="https://i.loli.net/2021/01/20/7ZRyrIQuXA4vxzL.png" alt="20210120234923" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/7ZRyrIQuXA4vxzL.png" alt="20210120234923" />
 
 ---
 
@@ -242,7 +242,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 - 可用来判断平台和浏览器信息,但是不建议使用,这个信息<u>可被修改/伪造.</u>
 
-<img src="https://i.loli.net/2021/01/20/zQsycWFrXZjeMxH.png" alt="20210120235844" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/zQsycWFrXZjeMxH.png" alt="20210120235844" />
 
 ---
 
@@ -262,7 +262,7 @@ screen.height; // 1080
 - location 代表当前页面的 URL 信息
 - 重要,常用!
 
-<img src="https://i.loli.net/2021/01/21/15STonbQRlxi9O8.png" alt="20210121000604" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/15STonbQRlxi9O8.png" alt="20210121000604" />
 
 ---
 
@@ -289,7 +289,7 @@ screen.height; // 1080
 
 - 获取 cookie
 
-  <img src="https://i.loli.net/2021/01/21/uN3HXrPyiwJT9Cn.png" alt="20210121101945" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/uN3HXrPyiwJT9Cn.png" alt="20210121101945" />
 
   - 劫持 cookie
     - 通过获取 cookie 就可以在另一台机器上在不输密码的情况下登录
@@ -521,7 +521,7 @@ var children = app.children;
 
 - 效果
 
-  <img src="https://i.loli.net/2021/01/24/q1wYRTn6A79a4OV.png" alt="20210124093813" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/q1wYRTn6A79a4OV.png" alt="20210124093813" />
 
 ---
 
@@ -587,6 +587,6 @@ var children = app.children;
 
 - 效果
 
-  <img src="https://i.loli.net/2021/01/26/UcpDzOe1ZEWKHN6.png" alt="20210126211616" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UcpDzOe1ZEWKHN6.png" alt="20210126211616" />
 
-  <img src="https://i.loli.net/2021/01/26/YG9AhCemrpuPsxi.png" alt="20210126211801" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YG9AhCemrpuPsxi.png" alt="20210126211801" />

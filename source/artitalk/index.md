@@ -37,7 +37,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
 
 {% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/77.jpeg %}
 
-{% galleryGroup Gitee站 基于Gitee-issues的说说页面(暂停使用). artitalk/ispeak https://i.loli.net/2020/11/30/9QLXvqPHZw2nWtG.jpg %}
+{% galleryGroup Gitee站 基于Gitee-issues的说说页面(暂停使用). artitalk/ispeak https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/9QLXvqPHZw2nWtG.jpg %}
 
 </div>
 

@@ -11,7 +11,7 @@ tags:
   - Git
   - Python
   - Node
-cover: https://i.loli.net/2020/12/04/6XQhlDpwVMmnG4H.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/6XQhlDpwVMmnG4H.png
 top_img:
 ---
 

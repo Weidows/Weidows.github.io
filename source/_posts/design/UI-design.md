@@ -5,7 +5,7 @@ categories:
   - design
 tags:
   - 设计
-cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hIrnjdOpX2wAcgv.jpg
 # top_img:
 ---
 
@@ -46,7 +46,7 @@ cover: https://i.loli.net/2021/01/30/hIrnjdOpX2wAcgv.jpg
 
 - 起初是因为看到 `@小康博客` 的文章头图,感觉很好看,于是去找的方案.
 
-  <img src="https://i.loli.net/2021/01/27/FDGZKReixJE6aIt.png" alt="20210127191714" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDGZKReixJE6aIt.png" alt="20210127191714" />
 
 ---
 

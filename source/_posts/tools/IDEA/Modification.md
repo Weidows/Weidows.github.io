@@ -7,7 +7,7 @@ categories:
 tags:
   - IDEA
   - Maven
-cover: https://i.loli.net/2021/01/01/UD8HeIc94LVai2v.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
 # top_img:
 ---
 
@@ -126,4 +126,4 @@ cover: https://i.loli.net/2021/01/01/UD8HeIc94LVai2v.png
 
 - IDEA 是自带捆绑 Maven 的,因为上面原因,我们使用 Scoop 又安装了一个,所以需要在 IDEA 里修改下设置
 
-  <img src="https://i.loli.net/2021/01/28/rkegM7GmIxwKtyT.png" alt="20210128033817" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rkegM7GmIxwKtyT.png" alt="20210128033817" />

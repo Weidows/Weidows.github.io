@@ -6,7 +6,7 @@ categories:
 tags:
   - Aria2
   - 工具
-cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 # top_img:
 ---
 
@@ -59,7 +59,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 - 我用的脚本只能导出如下几个下载方式
 
-  <img src="https://i.loli.net/2021/01/29/xi3DPVzARd8nWYt.png" alt="20210129155515" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/xi3DPVzARd8nWYt.png" alt="20210129155515" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -223,11 +223,11 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
 
 - 安装完之后出现插件设置界面
 
-  <img src="https://i.loli.net/2021/01/29/8mAJSw7gyiUNXKP.png" alt="20210129162937" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8mAJSw7gyiUNXKP.png" alt="20210129162937" />
 
 - 或者在`AriaNg`管理页面,这两个页面一样
 
-  <img src="https://i.loli.net/2021/01/29/BJfCuaNyeSTEWvg.png" alt="20210129164251" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/BJfCuaNyeSTEWvg.png" alt="20210129164251" />
 
 - 必须填写的是画圈的部分,也就是上面`conf`文件第 62 行填的,我写的是`12345678`
 
@@ -257,7 +257,7 @@ cover: https://i.loli.net/2021/01/29/VD9X6TrFWc5yCfi.png
   01/29 16:38:59 [NOTICE] IPv4 RPC: listening on TCP port 6800
   ```
 
-  <img src="https://i.loli.net/2021/01/29/pJtLQdBWcvgeb9T.png" alt="20210129164430" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/pJtLQdBWcvgeb9T.png" alt="20210129164430" />
 
 - 但是有个问题,一旦这个终端关闭,aria.exe 也会跟着被关闭,这个服务就会断了(连接失败)
 

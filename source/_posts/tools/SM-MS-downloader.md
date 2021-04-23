@@ -15,7 +15,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-18 11:02:45
+ * @LastEditTime: 2021-04-18 11:10:15
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\SM-MS-downloader.md
  * @Description:
  * @!: *********************************************************************
@@ -187,13 +187,13 @@ top_img:
 
 - 下载下来的压缩包是空的或者是无数据的空图片
 
-  > 检查一下网络是否可以正常访问 `i,loli.net` 这个域名,有可能是因为网络原因导致图片未成功加载
+  > 检查一下网络是否可以正常访问 `i.loli.net` 这个域名,有可能是因为网络原因导致图片未成功加载
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 路标 & 技术调用
 
-> 博客文章地址
+> [博客文章地址](https://weidows.github.io/post/tools/SM-MS-downloader)
 
 > [Gitee 仓库地址](https://gitee.com/Weidows/SMMS-downloader)
 

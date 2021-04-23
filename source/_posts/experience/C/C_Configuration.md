@@ -8,7 +8,7 @@ tags:
   - C
   - VScode
   - 备忘录
-cover: https://i.loli.net/2020/11/30/fsj7FMhOw2WpigX.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fsj7FMhOw2WpigX.jpg
 # top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
 ---
 
