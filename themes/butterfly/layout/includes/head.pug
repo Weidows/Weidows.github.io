@@ -539,12 +539,13 @@ script.
     },
     //- 终端输出
     log: function () {
-      console.clear();
-      console.log(
-        "\n %c 齐下无贰 - Weidows %c https://github.com/Weidows \n 来这想干点啥好事⁉?😉 https://gitee.com/Weidows \n",
-        "color: #6aff00; background: #000000; padding:5px 0;",
-        "background: #114561; padding:5px 0;"
-      );
+      setTimeout(function () {
+        console.clear();
+        console.log(
+          "%c  _  _  ____  __  ____   __   _  _  ____ \t齐下无贰 Listening...\n / )( \\(  __)(  )(    \\ /  \\ / )( \\/ ___) \thttps://github.com/Weidows\n \\ /\\ / ) _)  )(  ) D ((  O )\\ /\\ /\\___ \\ \thttps://gitee.com/Weidows\n (_/\\_)(____)(__)(____/ \\__/ (_/\\_)(____/ \t来这想干点啥好事⁉?😉\n",
+          "color: #6aff00;background: #0c222e;"
+        );
+      }, 1);
     },
     //- 初始化
     all: function () {

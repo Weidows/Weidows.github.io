@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-16 15:35:37
+ * @LastEditTime: 2021-04-28 19:47:09
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\life\outside-of-code.md
  * @Description:
  * @!: *********************************************************************
@@ -212,3 +212,5 @@ top_img:
 ---
 
 ## 就业选择：列出你的选择
+
+给自己贴上"程序员"标签

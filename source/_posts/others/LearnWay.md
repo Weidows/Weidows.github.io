@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-17 21:13:11
+ * @LastEditTime: 2021-04-29 15:07:23
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -36,6 +36,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [Lambda 表达式](#lambda-表达式)
   - [网络编程](#网络编程)
   - [URL 类](#url-类)
+  - [深/浅 clone](#深浅-clone)
+  - [JavaWeb](#javaweb)
+  - [I/O](#io)
+    - [序列化/ObjectOutputStream](#序列化objectoutputstream)
+  - [GUI](#gui)
 - [前端](#前端)
   - [HTML/CSS](#htmlcss)
     - [入门](#入门-1)
@@ -43,7 +48,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
     - [Markdown](#markdown)
   - [JavaScript](#javascript)
     - [进阶](#进阶-2)
-  - [异步](#异步)
+    - [异步](#异步)
+    - [Console](#console)
 - [工具使用](#工具使用)
   - [Git](#git)
     - [Git push](#git-push)
@@ -188,7 +194,35 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 > [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
 
+---
+
+## 深/浅 clone
+
+> [详解 Java 中的 clone 方法 -- 原型模式](https://blog.csdn.net/zhangjg_blog/article/details/18369201)
+
+> [java 中深克隆与浅克隆的区别](https://zhidao.baidu.com/question/123775480.html)
+
+---
+
+## JavaWeb
+
+> 这里记下了学习地址: [🥼 探索 JavaWeb~(壹)](../../Java/Web/1#参照)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+---
+
+## I/O
+
+### 序列化/ObjectOutputStream
+
+> [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
+
+---
+
+## GUI
+
+> [Java-GUI 快速入门](https://blog.csdn.net/qq_42035966/article/details/82258199)
 
 # 前端
 
@@ -236,9 +270,19 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 异步
+### 异步
 
 > [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
+
+---
+
+### Console
+
+> [如何在控制台中隐藏日志消息的来源？](http://cn.voidcc.com/question/p-nyquxitt-dn.html)
+
+> [js 控制台 console 骚操作-打印图片-自定义样式-字符画](https://www.cnblogs.com/suwanbin/p/13383064.html)
+
+- 可以在网站中做一些有意思的事,比如在我的博客这里,按 `F12` 可以看到.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
