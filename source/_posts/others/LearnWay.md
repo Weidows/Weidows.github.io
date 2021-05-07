@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-29 15:07:23
+ * @LastEditTime: 2021-05-06 09:46:04
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -63,6 +63,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 - [泛域](#泛域)
   - [2038 问题](#2038-问题)
   - [自信](#自信)
+  - [编码习惯](#编码习惯)
 - [设计](#设计)
 - [理论课程](#理论课程)
   - [操作系统](#操作系统)
@@ -369,6 +370,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   1. 多多交流和分享
   2. 记录做过的事情
   3. 保持学习者心态
+
+---
+
+## 编码习惯
+
+> [优秀程序员都在注意的 10 个点](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735619936&idx=1&sn=56562e359badd5afb27529ebc41d77b9&chksm=b6ab39d481dcb0c21f5696373b0882fdfc0a06cbce7e4cf45529847012a1990b0758d45e6244&mpshare=1&scene=23&srcid=0505Bype3cbVTtcSBVgUS3Ed&sharer_sharetime=1620190642862&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

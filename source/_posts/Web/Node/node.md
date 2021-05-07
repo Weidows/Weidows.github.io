@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-27 10:26:31
+ * @LastEditTime: 2021-05-06 23:42:33
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -86,6 +86,16 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 - 也可以直接定位 npm 和 yarn 的配置文件 -> `C:\Users\用户名`
 
   - 这个目录下的`.npmrc和.yarnrc`
+
+  ***
+
+- 问题: 有时会遇到淘宝源某个文件验证失败问题 (Integrity check failed for "@types/body-parser" (computed integrity doesn't match our records)
+
+  解决办法是: 换回官方的源,用完之后再换成淘宝源.
+
+  ```
+  npm config set registry https://registry.npmjs.org
+  ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
