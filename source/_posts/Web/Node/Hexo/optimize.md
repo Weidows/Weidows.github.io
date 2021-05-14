@@ -19,7 +19,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
  * @Author: Weidows
  * @Date: 2021-02-07 01:11:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-10 22:29:20
+ * @LastEditTime: 2021-05-12 17:13:46
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\optimize.md
  * @Description:
  * @!: *********************************************************************
@@ -32,7 +32,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 - [优化 css](#优化-css)
 - [优化 js](#优化-js)
   - [再次魔改](#再次魔改)
-  - [再再次优化](#再再次优化)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -64,11 +63,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 
   ***
 
-- pug 的修改降低为 2 处,方便升级换代.
+- pug 的修改降低为 3 处,方便升级换代,都在此目录下: `themes\butterfly\layout\includes\`
 
-  - footer-标签
+  - `footer.pug`- 标签
 
-  - head 打包 js 美化代码
+  - `head.pug` - 打包 js 美化代码
+
+  - `third-party\pjax.pug` - 适配 pjax 刷新.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -140,17 +141,3 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 - 所以我把美化 js 打包并弄进 `butterfly/layout/head.pug` 中,在页面编译时就会被添加到 `<head>` 内,加载时间和请求数不增加!
 
   现在,加载逻辑是: js 美化代码在 HTML 文件的 head 中,然后在 main.js 最后写一句调用命令; 在页面用了 pjax 加载时,pjax.pug 中的重渲染函数会被调用.
-
----
-
-## 再再次优化
-
-> 发现在标签内注入 `data-pjax-state=''` 这个属性,pjax 就不会把这个标签刷新 (也就是干掉)
-
-- 比如下面这个 div 就不会随着页面刷新而消失.
-
-  ```html
-  <div data-pjax-state=""></div>
-  ```
-
-- 于是,现在不需要修改 pjax.pug 文件了,直接修改注入的 html,添加这个属性就 ok 了

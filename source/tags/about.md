@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-29 00:33:58
+ * @LastEditTime: 2021-05-14 10:04:08
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 <h1 align="center">
@@ -91,6 +91,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 - **Hobby :**
 
+  - 饮品: `蜂蜜奶咖 (自制)`,`嗜糖`(各种意义上).
   - 大括号`不换行`,`盘古之白`爱好者,`全称`变量名,句尾加英文句号.
   - `红轴`大善人,晚期`见光死`.
   - 吃香蕉撕头,刷牙先蘸水.
