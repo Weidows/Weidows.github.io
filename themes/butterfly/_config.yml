@@ -26,7 +26,6 @@ menu:
     - Gitee站 || https://weidows.gitee.io || fas fa-bath
     - GitHub站 || https://weidows.github.io || fas fa-shower
   传送门|| fas fa-rocket:
-    - 我的简历 || https://github.com/Weidows/About-me
     - GitHub仓库 || https://github.com/Weidows?tab=repositories
     - 几个生成器 || generator
     - SSL状态检测 || https://weidows.github.io/ssl
@@ -39,9 +38,10 @@ menu:
     # - 豆瓣观影 || movies
     # - 豆瓣阅读 || books
   关于||fas fa-heart:
-    - ->我 || tags/about || fas fa-user
+    - ->我<- || tags/about || fas fa-user
     - 友人帐 || tags/link || fas fa-link
     - 留言板 || tags/comment || fas fa-comments
+    - 简👶历 || tags/resume || fas fa-user
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -546,7 +546,8 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: "#000000"
+background:
+  "#000000"
   # url(https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/21.jpeg)
 
 # Footer Background

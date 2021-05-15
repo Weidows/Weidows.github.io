@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-12 20:10:15
+ * @LastEditTime: 2021-05-14 12:10:19
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -385,6 +385,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 - emmm,Ummm...这是个如何优雅拉屎的艺术
 
   > [最全！软件开发类项目关键文档内容要求](https://www.jianshu.com/p/a7984927cfb9)
+
+  > [软件需求，概要设计，详细设计（文档）怎么做，做什么？](https://www.jianshu.com/p/a52fe78962f0)
 
 - 一个挺像样的项目文档:
 

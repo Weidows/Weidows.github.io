@@ -6,7 +6,7 @@ categories:
   - vscode
 tags:
   - VScode
-  - extension
+  - 插件
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 # top_img:
 ---
@@ -16,7 +16,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
  * @Author: Weidows
  * @Date: 2021-01-03 15:18:46
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:29:01
+ * @LastEditTime: 2021-05-14 15:51:23
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\extension-develop.md
  * @Description:
  * @!: *********************************************************************
@@ -26,6 +26,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 - [开发](#开发)
 - [打包](#打包)
 - [发布](#发布)
+  - [网页发布](#网页发布)
+  - [命令行发布](#命令行发布)
 - [结合 GitHub](#结合-github)
 - [剖析 package.json](#剖析-packagejson)
 - [文章推荐](#文章推荐)
@@ -33,6 +35,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 # 前期准备
 
 > 首先准备好点子(扩展,主题啥的)具体是想要做啥.
+
+> 推荐借鉴一下的简单项目: https://github.com/Weidows-projects/vscode-weidows-theme
 
 ---
 
@@ -76,7 +80,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 # 发布
 
-- 网上一些其他教程忒老了,还在用 vsce 发布(官方都已经停用了...)
+## 网页发布
 
 - 进入[https://marketplace.visualstudio.com/VSCode](https://marketplace.visualstudio.com/VSCode)
 
@@ -84,9 +88,33 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
   - 之后你的账号应该有一个组织,在组织下新建一个`publisher`
 
-  - 然后摸索摸索发布插件.
+  - 然后摸索摸索,把`*.vsix`这个文件传上去就 OK 了.
 
 ---
+
+## 命令行发布
+
+- 这种发布方法比较适合结合 GitHub 使用,自动化流程.
+
+  > 访问: https://aka.ms/SignupAzureDevOps
+
+- 按着图操作
+
+  <img src="https://i.loli.net/2021/05/14/9JCgBdrQXALfYxu.png" alt="20210514153423" />
+
+  <img src="https://i.loli.net/2021/05/14/bwFfqWRchLsSKmx.png" alt="20210514153615" />
+
+- 然后复制获得的 token,下面就可以发布了
+
+  ```
+  vsce publish -p 这里写复制的token
+  ```
+
+  发布失败的话检查一下 token 是否有效.
+
+- 这个可以结合 GitHub Action,实现自动发布.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 结合 GitHub
 
@@ -99,15 +127,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
   - 而且这些图片要是想显示,必须有个图床.
 
+  ***
+
 - 那还想啥? 肯定是 GitHub 啊!
 
-  - 我的方案是 Git -> GitHub
-  - 在 Git 项目中建立`pack/`目录专门用来打包`*.vsix`
-  - 在 pack 同级目录建立`images/`传到 github 当图床.(因为使用私人图床管理太乱)
+  - 我的方案是本地 Git 开发 -> GitHub
 
-- 项目结构
-
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UbD9VspYcdH7Ojn.png" alt="20210103160252" />
+  - 把项目中引用的图片放在 GitHub 上,通过 `.vscodeignore` 文件排除插件需要打包的内容(图片)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -234,3 +260,5 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 # 文章推荐
 
 > [VS Code 插件开发入门教程](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649833093&idx=1&sn=27bc83c81db8490d52b169ab3ef3fa67&chksm=f175f446c6027d509e9ecdba48271efd51c3c057fd04d90fe8cee0720f01cf3e275d7b25df6c&mpshare=1&scene=23&srcid=0312NhWlH2sedoutfqkNpB7j&sharer_sharetime=1615557271958&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
+
+> [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo)

@@ -7,19 +7,9 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-14 10:04:08
+ * @LastEditTime: 2021-05-14 17:57:28
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
-<h1 align="center">
-
-⭐️ Weidow's Info ⭐️
-
-[--> 我的简历 <--](https://github.com/Weidows/Resume)
-
-![GitHub Chart](http://ghchart.rshah.org/409ba5/Weidows)
-
-</h1>
-
 # Message:)
 
 - ## 由上至下为联系优先级,有信必回但可能延迟.
