@@ -19,7 +19,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-04 11:38:58
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-25 10:52:28
+ * @LastEditTime: 2021-05-20 13:17:23
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\system_variable.md
  * @Description:
 -->
@@ -97,6 +97,12 @@ top_img:
   D:\Game\Scoop\apps\python
   D:\Game\Scoop\apps\python\Scripts\
   ```
+
+---
+
+- 建议通过 Anaconda 安装有关 Python 的所有编程环境.
+
+  > [👍Anaconda-Python-水漂浅探池深浅.](../../tools/anaconda)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

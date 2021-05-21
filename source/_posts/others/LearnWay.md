@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-14 12:10:19
+ * @LastEditTime: 2021-05-18 23:26:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -74,6 +74,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [数据库](#数据库)
     - [MySQL](#mysql)
   - [计算机网络](#计算机网络)
+  - [算法](#算法)
+    - [P/NP 问题](#pnp-问题)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -444,3 +446,17 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 ## 计算机网络
 
 > [IP 地址，子网掩码、默认网关，DNS 服务器之间的联系与区别](https://blog.csdn.net/hexf9632/article/details/93469788)
+
+---
+
+## 算法
+
+### P/NP 问题
+
+> [P 对 NP 问题](https://baike.baidu.com/item/P%E5%AF%B9NP%E9%97%AE%E9%A2%98)
+
+> [算法复杂度与 NP 问题](https://www.omegaxyz.com/2019/04/22/np/?hilite=%27filled%27,%27o.e.m%27)
+
+> [贪婪算法案例、np 完全问题及 java 代码实现](http://www.cainiaoxueyuan.com/suanfa/4517.html)
+
+- 非常经典和值得探索的问题 (经验接收自`@河北工业大学`)
