@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-18 23:26:53
+ * @LastEditTime: 2021-05-22 10:59:40
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -33,7 +33,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [阶段回顾](#阶段回顾)
   - [单元测试 Junit](#单元测试-junit)
   - [文档注释](#文档注释)
-  - [Lambda 表达式](#lambda-表达式)
+  - [Lambda](#lambda)
+  - [多线程](#多线程)
   - [网络编程](#网络编程)
   - [URL 类](#url-类)
   - [深/浅 clone](#深浅-clone)
@@ -41,6 +42,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [I/O](#io)
     - [序列化/ObjectOutputStream](#序列化objectoutputstream)
   - [GUI](#gui)
+  - [MyBatis](#mybatis)
 - [前端](#前端)
   - [HTML/CSS](#htmlcss)
     - [入门](#入门-1)
@@ -182,15 +184,27 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## Lambda 表达式
+## Lambda
 
 > [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html)
+
+> [关于 Java Lambda 表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
+
+---
+
+## 多线程
+
+> [【狂神说 Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
+
+> [狂神说多线程笔记](https://blog.csdn.net/weixin_41963554/article/details/108808824)
 
 ---
 
 ## 网络编程
 
 > [【狂神说 Java】网络编程实战讲解](https://www.bilibili.com/video/BV1LJ411z7vY)
+
+> [【狂神说 Java】网络编程](https://blog.csdn.net/weixin_45717355/article/details/110945343)
 
 ---
 
@@ -210,9 +224,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ## JavaWeb
 
-> 这里记下了学习地址: [🥼 探索 JavaWeb~(壹)](../../Java/Web/1#参照)
+> [【狂神说 Java】JavaWeb 入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+> [B 站---【狂神说 Java】JavaWeb 入门到实战---笔记](https://blog.csdn.net/bell_love/article/details/105667638)
 
 ---
 
@@ -227,6 +241,16 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 ## GUI
 
 > [Java-GUI 快速入门](https://blog.csdn.net/qq_42035966/article/details/82258199)
+
+---
+
+## MyBatis
+
+> [【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
+
+> [狂神说 Java Mybatis 笔记](https://blog.csdn.net/DDDDeng_/article/details/106927021)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 前端
 

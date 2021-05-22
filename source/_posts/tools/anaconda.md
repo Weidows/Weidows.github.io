@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-21 10:41:39
+ * @LastEditTime: 2021-05-21 11:37:32
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -37,13 +37,13 @@ top_img:
 
 > anaconda 官网: https://www.anaconda.com/products/individual
 
-> [请问大神们，pip install 和 conda install 有什么区别吗？](https://www.zhihu.com/question/395145313)
-
 - 简单来说,它是 Python 的一个发行版,其中打包了很多附加工具,比如 `Jupyter`,`conda` 等等
 
   - 可以理解为 anaconda 内置了 python,所以设备上安装的其他 Python 环境完全可以卸载掉了
 
   - Python 一般会自带 pip 这个包管理器,anaconda 也不例外; 而且 anaconda 还带有另一个更强大的包管理器: `conda`
+
+  > [请问大神们，pip install 和 conda install 有什么区别吗？](https://www.zhihu.com/question/395145313)
 
 > 此文章很清晰的介绍了 Anaconda 的安装使用: https://zhuanlan.zhihu.com/p/75717350
 
@@ -223,7 +223,11 @@ top_img:
     conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
     ```
 
-    [下载并安装 CUDA (需要注册 NVIDIA)](https://developer.nvidia.com/cuda-zone)
+    > [下载并安装 CUDA](https://developer.nvidia.com/cuda-zone)
+
+    > [下载并安装 cuDNN Library](https://developer.nvidia.com/cuda-zone)
+
+    需要注册 NVIDIA 账号,那就注册一下,然后下载. (这两个都挺大的,`好几个 G`)
 
   ***
 
@@ -233,7 +237,7 @@ top_img:
     RuntimeError: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED
     ```
 
-    解压,把`bin\`添加进 path
+    `配置方法`: 解压,把`bin\`添加进 path
 
 ---
 

@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-19 23:58:06
+ * @LastEditTime: 2021-05-22 10:52:40
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\lambda.md
  * @Description:
  * @!: *********************************************************************
@@ -35,9 +35,7 @@ top_img:
 
 # 参照
 
-> [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html)
-
-> [关于 Java Lambda 表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
+> 在此文章记录了: [😍Weidows の成长路线.#lambda](../../others/LearnWay#lambda)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
