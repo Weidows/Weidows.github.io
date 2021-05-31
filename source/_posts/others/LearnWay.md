@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-22 10:59:40
+ * @LastEditTime: 2021-05-29 00:08:30
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -67,6 +67,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [自信](#自信)
   - [编码习惯](#编码习惯)
   - [文档编写](#文档编写)
+  - [代理](#代理)
 - [设计](#设计)
 - [理论课程](#理论课程)
   - [操作系统](#操作系统)
@@ -78,6 +79,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [计算机网络](#计算机网络)
   - [算法](#算法)
     - [P/NP 问题](#pnp-问题)
+  - [论文](#论文)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -418,6 +420,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
   > [软件项目开发文档](https://wenku.baidu.com/view/1e0708f41611cc7931b765ce05087632311274cf.html)
 
+---
+
+## 代理
+
+> [SS/SSR/V2Ray/Clash 简介和客户端软件下载](https://congcong0806.github.io/2018/04/20/SS/)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 设计
@@ -484,3 +492,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 > [贪婪算法案例、np 完全问题及 java 代码实现](http://www.cainiaoxueyuan.com/suanfa/4517.html)
 
 - 非常经典和值得探索的问题 (经验接收自`@河北工业大学`)
+
+---
+
+## 论文
+
+- 关键时候挺好用的功能
+
+  > [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960)
