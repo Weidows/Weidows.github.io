@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-29 00:08:30
+ * @LastEditTime: 2021-05-31 23:03:28
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -36,13 +36,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [Lambda](#lambda)
   - [多线程](#多线程)
   - [网络编程](#网络编程)
-  - [URL 类](#url-类)
   - [深/浅 clone](#深浅-clone)
   - [JavaWeb](#javaweb)
   - [I/O](#io)
-    - [序列化/ObjectOutputStream](#序列化objectoutputstream)
   - [GUI](#gui)
   - [MyBatis](#mybatis)
+  - [工具类](#工具类)
 - [前端](#前端)
   - [HTML/CSS](#htmlcss)
     - [入门](#入门-1)
@@ -210,12 +209,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## URL 类
-
-> [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
-
----
-
 ## 深/浅 clone
 
 > [详解 Java 中的 clone 方法 -- 原型模式](https://blog.csdn.net/zhangjg_blog/article/details/18369201)
@@ -234,9 +227,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ## I/O
 
-### 序列化/ObjectOutputStream
+- 序列化/ObjectOutputStream
 
-> [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
+  > [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
 
 ---
 
@@ -251,6 +244,18 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 > [【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 
 > [狂神说 Java Mybatis 笔记](https://blog.csdn.net/DDDDeng_/article/details/106927021)
+
+---
+
+## 工具类
+
+- OPTIONAL
+
+  > [理解、学习与使用 JAVA 中的 OPTIONAL](https://www.cnblogs.com/zhangboyu/p/7580262.html)
+
+- URL
+
+  > [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
