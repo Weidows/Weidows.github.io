@@ -14,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-24 11:51:22
+ * @LastEditTime: 2021-06-21 09:37:03
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -38,6 +38,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 - [VScode+docker](#vscodedocker)
 - [Portainer](#portainer)
 - [容器自启](#容器自启)
+- [常用命令](#常用命令)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -396,3 +397,9 @@ docker update --restart=always <CONTAINER ID>
 # 关闭
 docker update --restart=no <CONTAINER ID>
 ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 常用命令
+
+> [💧 一些常用终端命令.#docker](../../experience/shell/shell#docker)
