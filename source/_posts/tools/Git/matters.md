@@ -14,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:03:15
+ * @LastEditTime: 2021-06-24 17:40:10
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -24,8 +24,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 - [国内时区错位问题](#国内时区错位问题)
 - [博客域名](#博客域名)
 - [删除远程分支](#删除远程分支)
-- [Git 凭证](#git-凭证)
-  - [解决办法](#解决办法)
+- [凭证和权限](#凭证和权限)
+  - [问题一](#问题一)
+  - [问题二](#问题二)
 - [被墙问题](#被墙问题)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -67,7 +68,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Git 凭证
+# 凭证和权限
+
+## 问题一
 
 - 本地 git 有时候会遇到 github 凭证失效问题
 
@@ -75,13 +78,25 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
   - (VScode 让你登录后只是暂时性的,你关闭后就还是会失效)
 
-## 解决办法
+  ***
 
-- VScode 让登录时一次,然后保存凭证就好了!
+- 解决办法: VScode 让登录时一次,然后保存凭证就好了!
 
   ```
   git config --global credential.helper store
   ```
+
+---
+
+## 问题二
+
+- 自己的仓库在转移到组织后,推送时报:"无权限推送到 xxx 仓库"
+
+- 我遇到这个问题是在Git某次更新后, `credential.helper store` 情况下.
+
+- 解决办法跟上面相反,是需要把 `~/.gitconfig` 中的 `[credential]` 这块去掉.
+
+  - 经测试,去掉这个并没有使问题一复现,所以问题一应该是版本问题,新版本解决了.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
