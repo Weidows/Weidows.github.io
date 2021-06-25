@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-21 11:32:17
+ * @LastEditTime: 2021-06-25 16:16:21
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -31,6 +31,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 - [Git](#git)
 - [Docker](#docker)
 - [Vim](#vim)
+- [扩展程序](#扩展程序)
+  - [fzf](#fzf)
+- [tldr](#tldr)
 
 # 通用
 
@@ -164,3 +167,33 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 | 指令  |                  作用                   |
 | :---: | :-------------------------------------: |
 | `:q!` | 如何获得一个随机字符串? >让新手退出 vim |
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 扩展程序
+
+> [5 款超级好用的命令行工具，提升你的开发效率！](https://zhuanlan.zhihu.com/p/176277245)
+
+## fzf
+
+- 与 grep 相似,不同点:
+
+  - grep 是查找写死的东西,查找范围固定
+
+  - fzf 可动态查找用户输入的内容,并且范围大
+
+|    指令     |          作用          |
+| :---------: | :--------------------: |
+|    `fzf`    |        模糊查找        |
+| `ls \| fzf` | 在 ls 的输出内容中查找 |
+
+---
+
+# tldr
+
+- 命令帮助文档,优化版的 man
+
+|   指令    |
+| :-------: |
+|  tldr cd  |
+| tldr java |

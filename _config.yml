@@ -161,6 +161,7 @@ neat_enable: true
 neat_html:
   enable: true
   exclude:
+    - "**/*.mermaid/*"
 # 压缩css
 neat_css:
   enable: true

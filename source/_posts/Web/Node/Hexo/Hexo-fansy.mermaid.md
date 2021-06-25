@@ -18,8 +18,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-29 11:25:36
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.md
+ * @LastEditTime: 2021-06-25 17:22:05
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mermaid.md
 -->
 
 - [Hexo 文章标题 & 格式](#hexo-文章标题--格式)
@@ -279,8 +279,22 @@ Weidows
     "Magnesium" : 10.01
     "Iron" : 5
   {% endmermaid %}
-- mermaid 标籤不允许嵌套于一些隐藏属性的标籤外挂，例如: tag-hide 内的标籤外挂和 tabs 标籤外挂，这会导致 mermaid 图示无法正常显示，使用时请留意。
-- 请不要压缩 html 代码，不然会导致 mermaid 显示异常
+
+- 官方原文:
+
+  > - mermaid 标籤不允许嵌套于一些隐藏属性的标籤外挂，例如: tag-hide 内的标籤外挂和 tabs 标籤外挂，这会导致 mermaid 图示无法正常显示，使用时请留意。
+  > - 请不要压缩 html 代码，不然会导致 mermaid 显示异常
+
+- 压缩HTML很有必要,如何排除这种添加了mermaid的HTML文件呢?
+
+  > 我用的如下方式: 把添加了mermaid的markdown文件命名为 `xxx.mermaid.md`,这样neat时就会被排除了.
+
+  ```yaml
+  neat_html:
+    enable: true
+    exclude:
+      - "**/*.mermaid/*"
+  ```
 
 ---
 

@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-25 12:14:13
+ * @LastEditTime: 2021-06-25 12:32:45
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\backuper.md
  * @Description:
  * @!: *********************************************************************
@@ -105,44 +105,50 @@ top_img:
 
 # 解析
 
-- 1. 首先需要指定 `HOME_PATH`用户配置目录 和 `BACKUP_DIR`备份到的位置
+1.  首先需要指定 `HOME_PATH`用户配置目录 和 `BACKUP_DIR`备份到的位置
 
-  ```bat
-  set HOME_PATH=C:\Users\29845
-  set BACKUP_DIR=D:\Game\Github\Programming-Configuration
-  ```
+```bat
+set HOME_PATH=C:\Users\29845
+set BACKUP_DIR=D:\Game\Github\Programming-Configuration
+```
 
-- 2. 创建子备份文件夹并进入
+---
 
-  ```bat
-  mkdir %BACKUP_DIR%\backup & cd %BACKUP_DIR%\backup
-  ```
+2.  创建子备份文件夹并进入
 
-  `mkdir` 有个妙处: 默认情况下不会覆盖已有的文件夹.
+```bat
+mkdir %BACKUP_DIR%\backup & cd %BACKUP_DIR%\backup
+```
 
-- 3. 然后把需要备份的内容 copy 进去
+`mkdir` 有个妙处: 默认情况下不会覆盖已有的文件夹.
 
-  ```bat
-  xcopy %HOME_PATH%\.ssh\ .ssh\ /e/y/d
-  ```
+---
 
-  > 详细介绍 xcopy 命令: [cmd 复制文件命令 copy 复制目录树命令 xcopy](https://blog.csdn.net/qq_21808961/article/details/86749733)
+3.  然后把需要备份的内容 copy 进去
 
-  注意如果 xcopy 的是文件而不是目录的话,`要去掉 /e`, 不然会把要 copy 文件的同级目录全都 copy (`简单讲就是 bug`) ,比如如下:
+```bat
+xcopy %HOME_PATH%\.ssh\ .ssh\ /e/y/d
+```
 
-  ```bat
-  xcopy %HOME_PATH%\.npmrc . /y/d
-  ```
+> 详细介绍 xcopy 命令: [cmd 复制文件命令 copy 复制目录树命令 xcopy](https://blog.csdn.net/qq_21808961/article/details/86749733)
 
-- 4. 至于如何备份装过的软件,之前想通过递归目录名来获取,后来发现完全可以通过 `list` 来输出到文件
+注意如果 xcopy 的是文件而不是目录的话,`要去掉 /e`, 不然会把要 copy 文件的同级目录全都 copy (`简单讲就是 bug`) ,比如如下:
 
-  需要注意当执行 `scoop list` 时,命令行会进入到 scoop 程序而不会回来 (走错路了)
+```bat
+xcopy %HOME_PATH%\.npmrc . /y/d
+```
 
-  需要用 `call` 来获取外部程序 `scoop list` 的执行结果
+---
 
-  ```bat
-  call scoop list > scoop-apps.bak
-  ```
+4.  至于如何备份装过的软件,之前想通过递归目录名来获取,后来发现完全可以通过 `list` 来输出到文件
+
+需要注意当执行 `scoop list` 时,命令行会进入到 scoop 程序而不会回来 (走错路了)
+
+需要用 `call` 来获取外部程序 `scoop list` 的执行结果
+
+```bat
+call scoop list > scoop-apps.bak
+```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
