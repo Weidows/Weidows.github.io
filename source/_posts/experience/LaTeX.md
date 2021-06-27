@@ -4,8 +4,9 @@ categories:
   - experience
 tags:
   - LaTeX
+katex: true
 date: 2021-06-25 13:32:41
-cover:
+cover: https://i.loli.net/2021/06/26/pS96DOBEjeAaP1d.png
 top_img:
 ---
 
@@ -13,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-25 15:24:22
+ * @LastEditTime: 2021-06-27 16:07:35
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -21,13 +22,24 @@ top_img:
 
 - [简介](#简介)
 - [链接搜集](#链接搜集)
+- [安装](#安装)
+- [报错](#报错)
+- [实际效果](#实际效果)
+- [公式渲染](#公式渲染)
+- [误区](#误区)
+- [Butterfly+KaTeX](#butterflykatex)
+- [怎么写?](#怎么写)
+  - [公式](#公式)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 简介
 
+- 好奇学术论文是怎么写的吗? 此文章尽做大努力把什么是 Tex 系统给你整闭环了 😁
+
 - 一图胜千言:
 
+  <img src="https://i.loli.net/2021/06/26/DELkPfgJMOXjZUI.png" alt="分类" />
 
   TeX 生态的名词简直太 ☘ 了,翻阅了很多中英文文档/社区整理了这个图,差不多可以总结 TeX 生态常见/常用的引擎和发行软件.
 
@@ -39,4 +51,232 @@ top_img:
 
 > [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/) 强烈推荐阅读的文章,无论是介绍,生态,还是使用方面都很通俗易懂.
 
-> [CTAN The Comprehensive TEX Archive Network](https://www.ctan.org/) 一个 TeX 英文社区
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 安装
+
+1. 在 win 下推荐用 `MikTaX` 吧,主流而且比较小. scoop-main 仓库中的 latex 实际上就是 最小安装版本的 MikTaX,试了一遍这个 latex 最好,其他的要么下载失败,要么安装报错 😡😡😡.
+
+  ```cmd
+  scoop install latex
+  ```
+
+2. 然后在 VScode 中安装 `LaTeX Workshop` 这个插件,进入 VScode 配置里复制粘贴下面配置:
+
+  > 来源: [搭建 LaTeX 轻量级写作环境（MiKTeX+VSCode）](https://zhuanlan.zhihu.com/p/139210056)
+
+  ```json
+  //! Latex workshop
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "xelatex",
+      "command": "xelatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "pdflatex",
+      "command": "pdflatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "bibtex",
+      "command": "bibtex",
+      "args": ["%DOCFILE%"]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex",
+      "tools": ["xelatex"]
+    },
+    {
+      "name": "latexmk",
+      "tools": ["latexmk"]
+    },
+
+    {
+      "name": "pdflatex -> bibtex -> pdflatex*2",
+      "tools": ["pdflatex", "bibtex", "pdflatex", "pdflatex"]
+    }
+  ],
+  "latex-workshop.latex.clean.fileTypes": [
+    "*.aux",
+    "*.bbl",
+    "*.blg",
+    "*.idx",
+    "*.ind",
+    "*.lof",
+    "*.lot",
+    "*.out",
+    "*.toc",
+    "*.acn",
+    "*.acr",
+    "*.alg",
+    "*.glg",
+    "*.glo",
+    "*.gls",
+    "*.ist",
+    "*.fls",
+    "*.log",
+    "*.fdb_latexmk"
+  ]
+  ```
+
+3. 新建一个后缀名为 `.tex` 的文件,注意路径和文件名不要有中文,测试内容如下:
+
+  ```latex
+  \documentclass[UTF8]{ctexart}
+      \title{文章标题}
+      \author{Weidows}
+      \date{\today}
+      \begin{document}
+      \maketitle
+      $$ \alpha^{2} + \beta = \Theta  $$
+  \end{document}
+  ```
+
+4. VScode 右上角应该有编译标志 (或者按 `Ctrl + alt + B`),之后 MikTaX 应该会提醒你下载宏包 (因为软件本身很小,没包含进去),选择 China 的镜像源然后等它下载之后会自动编译.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 报错
+
+- 这个情况是因为没重启,尝试重启电脑+重启 VScode
+
+  > Recipe terminated with fatal error: spawn xelatex ENOENT.
+
+  ***
+
+- Hexo 导航栏点击不跳转
+
+  - 暂时没办法,只有启用 KaTeX 的页面会出现这个错误,问题不大先搁置.jpg
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 实际效果
+
+- 完成上面步骤后在.tex 会生成几个文件,比如:
+
+  ```
+  1.aux
+  1.log
+  1.pdf
+  1.synctex.gz
+  1.tex
+  ```
+
+  随着 tex 的写入保存,VScode 插件会自动编译更新预览内容.
+
+- 展示:
+
+  <img src="https://i.loli.net/2021/06/26/JqWuNUzkIE9eAYy.png" alt="20210626214236" />
+
+# 公式渲染
+
+- 在写 markdown 文章时可能不会注意到这个问题,因为大多数编辑器支持公式渲染 (比如 VScode 预览、CSDN 在线编辑等等),如下图 VScode 内置的 markdown 预览:
+
+  <img src="https://i.loli.net/2021/06/26/FX3OPTEIflcHWCp.png" alt="20210626224156" />
+
+- 但是同样的问题挪到博客上就 GG 了,上面的公式不加处理显示成这样
+
+  <img src="https://i.loli.net/2021/06/26/CYU59j1qGO4Fits.png" alt="20210626224035" />
+
+---
+
+- 如何在网页中渲染 LaTeX 公式?
+
+  > 答: `KaTeX` 或 `MathJax`
+
+  - 这里有个性能测试网站: [KaTeX and MathJax Comparison Demo](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
+
+  - 二者功能比较: [Mathjax 和 katex 的功能比较（VSCode+MPE）](https://zhuanlan.zhihu.com/p/381263375)
+
+- 个人倾向在网页端用 Katex,更轻便快速.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 误区
+
+> ## 渲染 LaTeX 文档 != 渲染公式
+
+1. 我们上面使用 MikTaX 渲染 LaTeX 文档是为了排版获取指定样式的 PDF 文档 -> `渲染LaTeX文档`
+
+2. 而渲染公式是渲染 LaTeX 文档的一部分子功能.
+
+3. 为了让 markdown 中 LaTeX 格式的公式也能得到正确显示,我们抽离出渲染公式这部分引擎 -> `KaTeX/MathJax` -> `专门用来渲染公式`
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# Butterfly+KaTeX
+
+> 来自官方博客的文档: [Butterfly 安裝文檔(四) 主題配置-2](https://butterfly.js.org/posts/ceeb73f/#Math-%E6%95%B8%E5%AD%B8)
+
+- 需要更换(不换的话有冲突)和新添渲染插件:
+
+  ```
+  npm uninstall hexo-renderer-marked hexo-renderer-kramed --save
+  npm install hexo-renderer-markdown-it @neilsustc/markdown-it-katex --save
+  ```
+
+- `_config.yml`中添加配置:
+
+  ```yaml
+  markdown:
+    plugins:
+      - plugin:
+        name: "@neilsustc/markdown-it-katex"
+        options:
+          strict: false
+  ```
+
+- 展示效果:
+
+  $$
+  A = \begin{bmatrix}
+          a_{11}    & a_{12}    & ...    & a_{1n}\\
+          a_{21}    & a_{22}    & ...    & a_{2n}\\
+          a_{31}    & a_{22}    & ...    & a_{3n}\\
+          \vdots    & \vdots    & \ddots & \vdots\\
+          a_{n1}    & a_{n2}    & ... & a_{nn}\\
+      \end{bmatrix} , b = \begin{bmatrix}
+          b_{1}  \\
+          b_{2}  \\
+          b_{3}  \\
+          \vdots \\
+          b_{n}  \\
+      \end{bmatrix}
+  $$
+
+  $$ \alpha^{2} + \beta = \Theta $$
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 怎么写?
+
+> ## 终于到了这个环节了,分为公式和内容两部分 😎
+
+## 公式
+
+> ~~面向知乎学编程~~: [LaTeX 公式篇](https://zhuanlan.zhihu.com/p/110756681)

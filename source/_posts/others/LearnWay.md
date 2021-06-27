@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-31 23:03:28
+ * @LastEditTime: 2021-06-26 21:17:47
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -67,6 +67,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [编码习惯](#编码习惯)
   - [文档编写](#文档编写)
   - [代理](#代理)
+  - [图灵测试](#图灵测试)
 - [设计](#设计)
 - [理论课程](#理论课程)
   - [操作系统](#操作系统)
@@ -430,6 +431,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 ## 代理
 
 > [SS/SSR/V2Ray/Clash 简介和客户端软件下载](https://congcong0806.github.io/2018/04/20/SS/)
+
+## 图灵测试
+
+> [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
+
+- 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
+
+  <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

@@ -18,8 +18,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-25 17:22:05
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mermaid.md
+ * @LastEditTime: 2021-06-27 12:42:02
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
 -->
 
 - [Hexo 文章标题 & 格式](#hexo-文章标题--格式)
@@ -211,17 +211,17 @@ content
 
 - 例如 2:
 
-```
-{% hideBlock 我是谁 %}
-爷是:
-Weidows
-{% endhideBlock %}
-```
+  ```markdown
+  {% hideBlock 我是谁 %}
+  爷是:
+  Weidows
+  {% endhideBlock %}
+  ```
 
-{% hideBlock 我是谁 %}
-爷是:
-Weidows
-{% endhideBlock %}
+  {% hideBlock 我是谁 %}
+  爷是:
+  Weidows
+  {% endhideBlock %}
 
 ## toggle(收缩框)
 
@@ -233,17 +233,17 @@ content
 
 - 例如 3:
 
-```
-{% hideToggle 我是谁 %}
-爷是:
-Weidows
-{% endhideToggle %}
-```
+  ```markdown
+  {% hideToggle 我是谁 %}
+  爷是:
+  Weidows
+  {% endhideToggle %}
+  ```
 
-{% hideToggle 我是谁 %}
-爷是:
-Weidows
-{% endhideToggle %}
+  {% hideToggle 我是谁 %}
+  爷是:
+  Weidows
+  {% endhideToggle %}
 
 - tag-hide 内的标签外挂 content 内都不建议有 h1 - h6 等标题。因为 Toc 会把隐藏内容标题也显示出来，而且当滚动屏幕时，如果隐藏内容没有显示出来，会导致 Toc 的滚动出现异常。
 
@@ -253,14 +253,15 @@ Weidows
 
 - 写法:
 
-```
-{% mermaid %}
-内容
-{% endmermaid %}
-```
+  ```markdown
+  {% mermaid %}
+  内容
+  {% endmermaid %}
+  ```
 
 - 例如:
-  ```markdown
+
+  ```mermaid
   {% mermaid %}
   pie
     title Key elements in Product X
@@ -270,7 +271,9 @@ Weidows
     "Iron" : 5
   {% endmermaid %}
   ```
+
 - 显示:
+
   {% mermaid %}
   pie
     title Key elements in Product X
@@ -287,13 +290,13 @@ Weidows
 
 - 压缩HTML很有必要,如何排除这种添加了mermaid的HTML文件呢?
 
-  > 我用的如下方式: 把添加了mermaid的markdown文件命名为 `xxx.mermaid.md`,这样neat时就会被排除了.
+  > 我用的如下方式: 把添加了mermaid的markdown文件命名为 `xxx.mmd.md`,这样neat时就会被排除了.
 
   ```yaml
   neat_html:
     enable: true
     exclude:
-      - "**/*.mermaid/*"
+      - "**/*.mmd/*"
   ```
 
 ---

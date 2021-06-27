@@ -16,7 +16,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
  * @Author: Weidows
  * @Date: 2021-01-03 15:18:46
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-14 15:51:23
+ * @LastEditTime: 2021-06-26 02:06:38
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\extension-develop.md
  * @Description:
  * @!: *********************************************************************
@@ -89,6 +89,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
   - 之后你的账号应该有一个组织,在组织下新建一个`publisher`
 
   - 然后摸索摸索,把`*.vsix`这个文件传上去就 OK 了.
+
+> 也可以看一下[这个地方](https://github.com/marketplace/actions/vscode-plugin-release-action),介绍了怎么注册账号和 获取 PAT(Personal Access Token)
 
 ---
 

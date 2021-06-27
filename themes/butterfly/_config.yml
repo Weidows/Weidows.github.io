@@ -357,7 +357,8 @@ valine:
 waline:
   serverURL: https://waline-sigma.vercel.app # Waline server address url
   avatar: monsterid # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
-  emojiCDN: # emoji CDN
+  dark: "auto"
+  emojiCDN: [] # emoji CDN
   bg: # waline background
   option:
 

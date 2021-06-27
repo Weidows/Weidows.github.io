@@ -161,7 +161,7 @@ neat_enable: true
 neat_html:
   enable: true
   exclude:
-    - "**/*.mermaid/*"
+    - "**/*.mmd/*"
 # 压缩css
 neat_css:
   enable: true
@@ -235,6 +235,12 @@ githubcalendar:
   calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
+markdown:
+  plugins:
+    - plugin:
+      name: '@neilsustc/markdown-it-katex'
+      options:
+        strict: false
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
