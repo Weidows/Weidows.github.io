@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-21 11:37:32
+ * @LastEditTime: 2021-07-01 10:33:33
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -27,6 +27,7 @@ top_img:
 - [镜像加速&代理](#镜像加速代理)
 - [修改依赖路径](#修改依赖路径)
 - [PyTorch](#pytorch)
+- [CUDA & cuDNN](#cuda--cudnn)
 - [安装依赖](#安装依赖)
 - [激活终端](#激活终端)
 - [实例](#实例)
@@ -215,33 +216,15 @@ top_img:
 
 > [利用 Conda 安装深度学习框架 Pytorch](https://zhuanlan.zhihu.com/p/106394476)
 
-- 安装:
+- 安装 (with CUDA 版本):
 
-  - with CUDA 版本:
-
-    ```
-    conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
-    ```
-
-    > [下载并安装 CUDA](https://developer.nvidia.com/cuda-zone)
-
-    > [下载并安装 cuDNN Library](https://developer.nvidia.com/cuda-zone)
-
-    需要注册 NVIDIA 账号,那就注册一下,然后下载. (这两个都挺大的,`好几个 G`)
+  ```
+  conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+  ```
 
   ***
 
-  - 测试了一下,[`cuDNN Library`](https://developer.nvidia.com/cudnn)也是必须的,没配置的话会报错:
-
-    ```
-    RuntimeError: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED
-    ```
-
-    `配置方法`: 解压,把`bin\`添加进 path
-
----
-
-- 测试 (以下图方式进入 Open with python) :
+- 测试 (以下图方式进入 `Open with python`) :
 
   <img src="https://i.loli.net/2021/05/20/T1Q6di82UE3sKV7.png" alt="20210520190432" />
 
@@ -255,7 +238,7 @@ top_img:
 
   ***
 
-- 预期结果:
+- 预期结果: (说明 pytouch 没得问题)
 
   ```
   tensor([[0.3380, 0.3845, 0.3217],
@@ -264,6 +247,36 @@ top_img:
           [0.1449, 0.1132, 0.1375],
           [0.4675, 0.3947, 0.1426]])
   ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# CUDA & cuDNN
+
+- 这两个是为了调用显卡性能,加速训练.
+
+  需要注册 NVIDIA 账号才能下载.
+
+  > [下载并安装 CUDA](https://developer.nvidia.com/cuda-zone)
+
+  > [下载并安装 cuDNN Library](https://developer.nvidia.com/cudnn)
+
+  ***
+
+- 通过 scoop 安装 CUDA (很有可能安装有问题,即使安装成功也是不能使用的)
+
+  ```
+  scoop install cuda
+  ```
+
+  ***
+
+- 测试了一下, cuDNN Library 也是必须的,没配置的话会报错:
+
+  ```
+  RuntimeError: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED
+  ```
+
+  `配置方法`: 解压,把`bin\`添加进 path
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

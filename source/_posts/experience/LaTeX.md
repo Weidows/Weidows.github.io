@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-27 16:07:35
+ * @LastEditTime: 2021-07-05 16:26:11
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -55,13 +55,13 @@ top_img:
 
 # 安装
 
-1. 在 win 下推荐用 `MikTaX` 吧,主流而且比较小. scoop-main 仓库中的 latex 实际上就是 最小安装版本的 MikTaX,试了一遍这个 latex 最好,其他的要么下载失败,要么安装报错 😡😡😡.
+- 1.在 win 下推荐用 `MikTaX` 吧,主流而且比较小. scoop-main 仓库中的 latex 实际上就是 最小安装版本的 MikTaX,试了一遍这个 latex 最好,其他的要么下载失败,要么安装报错 😡😡😡.
 
   ```cmd
   scoop install latex
   ```
 
-2. 然后在 VScode 中安装 `LaTeX Workshop` 这个插件,进入 VScode 配置里复制粘贴下面配置:
+- 2.然后在 VScode 中安装 `LaTeX Workshop` 这个插件,进入 VScode 配置里复制粘贴下面配置:
 
   > 来源: [搭建 LaTeX 轻量级写作环境（MiKTeX+VSCode）](https://zhuanlan.zhihu.com/p/139210056)
 
@@ -144,7 +144,7 @@ top_img:
   ]
   ```
 
-3. 新建一个后缀名为 `.tex` 的文件,注意路径和文件名不要有中文,测试内容如下:
+- 3.新建一个后缀名为 `.tex` 的文件,注意路径和文件名不要有中文,测试内容如下:
 
   ```latex
   \documentclass[UTF8]{ctexart}
@@ -157,7 +157,7 @@ top_img:
   \end{document}
   ```
 
-4. VScode 右上角应该有编译标志 (或者按 `Ctrl + alt + B`),之后 MikTaX 应该会提醒你下载宏包 (因为软件本身很小,没包含进去),选择 China 的镜像源然后等它下载之后会自动编译.
+- 4.VScode 右上角应该有编译标志 (或者按 `Ctrl + alt + B`),之后 MikTaX 应该会提醒你下载宏包 (因为软件本身很小,没包含进去),选择 China 的镜像源然后等它下载之后会自动编译.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

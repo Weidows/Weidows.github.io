@@ -18,7 +18,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:12:48
+ * @LastEditTime: 2021-07-02 11:39:10
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -318,10 +318,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
   scoop install nvidia-display-driver-with-3d-vision-np
   ```
 
-- 库
+- 备份: [方法可见: 🎃backuper~开发环境备份.](../backuper)
 
-  > [链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/buckets.bak)
+  - 库
 
-- 软件
+    > [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop-buckets.bak)
 
-  > [链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/apps.bak)
+  - 软件
+
+    > [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop-apps.bak)

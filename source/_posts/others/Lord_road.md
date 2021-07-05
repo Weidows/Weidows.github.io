@@ -14,17 +14,44 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jor1XfaHz9CQDcB.jpg
  * @Author: Weidows
  * @Date: 2020-11-17 11:06:25
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:11:44
+ * @LastEditTime: 2021-07-04 11:07:21
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\Lord_road.md
  * @Description:成长路线
 -->
 
+- [2021-07-04](#2021-07-04)
 - [2021-03-14](#2021-03-14)
   - [流量引入](#流量引入)
   - [生存周期](#生存周期)
   - [呈现难度](#呈现难度)
   - [于是](#于是)
 - [2020-11-17](#2020-11-17)
+
+# 2021-07-04
+
+我犯了一个很大的错误
+
+- 我向来总是喜欢"堡垒化学习",什么意思呢?
+
+  学到某一方面时不再走出这个小领域,并且企图把这块领域盖起很扎实的堡垒
+
+  看似没问题,打基础确实重要啊?
+
+但这导致我眼界受限,看东西很死,不到某个阶段就感觉学不会某个东西,而且学东西很喜欢时效化 (那种按部就班的学习)
+
+走到现在我发现,大多数技术栈是从了解->熟悉->精通这么发展的
+
+- 我需要走理念性通吃道路:
+
+  最近在学 Spring,看到很多教程按照 Spring->SpringMVC->SpringBoot 这么来教的,并没有错误,我也感觉很正确
+
+  但现在我认为最适合我的道路是并行吃,把 IoC/AOP 理念弄懂 -> 熟悉操作 -> 研究源码 这么个道路更合适我
+
+> 知识深度的价值在学习某个子进程中并没有知识广度高
+
+通俗点讲就是我在某一个小区域花死劲了.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 2021-03-14
 
