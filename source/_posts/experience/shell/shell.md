@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-25 16:16:21
+ * @LastEditTime: 2021-07-06 18:55:33
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -33,7 +33,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 - [Vim](#vim)
 - [扩展程序](#扩展程序)
   - [fzf](#fzf)
-- [tldr](#tldr)
+  - [tldr](#tldr)
 
 # 通用
 
@@ -174,6 +174,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 > [5 款超级好用的命令行工具，提升你的开发效率！](https://zhuanlan.zhihu.com/p/176277245)
 
+> [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247500080&idx=2&sn=64d4a8f3e4013ba7a77f25502cf945dd&chksm=97c65c9ea0b1d58881e761a4bd69fa1136b87102e94d301685a085f2c6b09670dac5f5781e6a&mpshare=1&scene=23&srcid=07058VtSWw1T2LusxMXcZtRs&sharer_sharetime=1625473567691&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
+
 ## fzf
 
 - 与 grep 相似,不同点:
@@ -189,7 +191,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-# tldr
+## tldr
 
 - 命令帮助文档,优化版的 man
 

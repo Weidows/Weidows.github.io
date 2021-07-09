@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-03 16:44:18
+ * @LastEditTime: 2021-07-08 18:05:42
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
@@ -24,6 +24,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
 - [解锁图层](#解锁图层)
 - [透明背景](#透明背景)
 - [定向变色](#定向变色)
+- [去水印](#去水印)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -71,3 +72,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dxuwaHpbknNlFAi.png" alt="20210210193939" />
 
 - 填入目标色即可.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 去水印
+
+> [PS 去水印的方法和技巧](https://zhuanlan.zhihu.com/p/45458379)

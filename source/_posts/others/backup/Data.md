@@ -15,29 +15,22 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p2W5KHlnUMxbBOq.jpg
  * @Author: Weidows
  * @Date: 2020-08-19 00:38:26
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-20 16:50:08
+ * @LastEditTime: 2021-07-07 19:39:50
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\backup\Data.md
  * @Description:
 -->
 
-- [Windows 各种路径](#windows-各种路径)
+- [大前端工具](#大前端工具)
+  - [uglifyjs](#uglifyjs)
 
-# Windows 各种路径
+# 大前端工具
 
-- 字体
+## uglifyjs
 
-  - `C:\Users\29845\AppData\Local\Microsoft\Windows\Fonts`
+```
+yarn global add uglify-js
+yarn global add uglify-es
 
-- 壁纸/主题
-
-  - `C:\Users\29845\AppData\Local\Microsoft\Windows\Themes`
-
-- 开始菜单
-
-  - `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
-
-- NVIDIA 颜色配置
-
-  <img src="https://i.loli.net/2021/05/20/7gNxJSafiq5X81w.png" alt="20210520164845" />
-
-  <img src="https://i.loli.net/2021/05/20/a7ZbKmyWYJcxIOG.png" alt="20210520164128" />
+uglifyjs xxx.js -o xxx.min.js
+uglifyjs xxx.js -m -o xxx.min.js // 更小
+```

@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-06 23:42:33
+ * @LastEditTime: 2021-07-07 19:19:16
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -39,31 +39,35 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 - 之前一直在乐此不疲的修改 npm 和 yarn 的 global 路径,因为每次 Node.js 更新会导致目录索引失效...
 
-- 后来发现,Scoop 完美解决了这个问题!
-
-- 它使用`Scoop/persist`这个文件夹来挂载数据,不影响程序本身,即使更新也不会影响.
+- 后来发现,Scoop 完美解决了这个问题! 它使用`Scoop/persist`这个文件夹来挂载数据,不影响程序本身,即使更新也不会影响.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 安装 yarn
 
-- Node.js 是 JavaScript 运行环境,某个项目运行起来可能会需要一些依赖
-- npm 和 yarn 就是管理这些依赖的
-- 安装 node.js 后自带 npm,并不会带 yarn(但是建议使用 yarn)
-- 虽然 npm 与 yarn 是同一类东西,但是可以用 npm 安装 yarn(神不神奇,因为 npm 和 yarn 本身就是依赖)
-- 用 Scoop 安装(`零配置`)
+- Node.js 是 JavaScript 运行环境,某个项目运行起来会需要一些依赖
+
+- `npm/yarn/cnpm` 就是管理这些依赖的, 安装 node.js 后自带 npm,不会带 yarn/cnpm, 这三个中我比较推荐用 `yarn`
+
+  1. yarn 比 npm 更快一些
+
+  2. 默认锁定版本.
+
+---
+
+- 虽然 npm 与 yarn 是同一类东西,但是可以用 npm 安装 yarn (也可以去官网下载安装,不过那样更复杂麻烦)
+
+  神不神奇,因为 npm 和 yarn 本身也是依赖,但是这样安装的话需要进行一些目录配置
+
+  ```shell
+  npm install -g  yarn
+  ```
+
+- `强烈推荐`: 用 Scoop 安装(`零配置`)
 
   ```shell
   scoop install yarn
   ```
-
-  - (也可以去官网下载安装,不过那样更复杂麻烦)
-
-  - 或者用 npm 安装(这样的话需要进行一些目录配置)
-
-    ```shell
-    npm install -g  yarn
-    ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -104,7 +108,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 - package path 简介
 
   - Node.Js 的包管理器有`npm,cnpm,yarn`等,通过上面操作后咱就用`npm`
-    - (因为 cnpm 会可能会出现包中包现象,导致很多模块冲突报错)
   - Node.Js 通过 npm 可以安装 hexo 模块,hexo 里面的插件也是通过 npm 安装
   - npm 安装/升级/移除的模块都在`node_modules/`里面,不会影响外面的东西
 
@@ -157,30 +160,30 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 - npm
 
-```shell
-npm install -g eslint
-```
+  ```shell
+  npm install -g eslint
+  ```
 
----
+  > [npm-global.bak](https://github.com/Weidows/Programming-Configuration/blob/534a5e4da0711a64e78679164dcba880b5973980/lists/npm-global.bak)
+
+  ***
 
 - yarn
 
-```shell
-yarn global add hexo-cli
-yarn global add vsce
-```
+  ```shell
+  yarn global add hexo-cli
+  yarn global add vsce
+  ```
+
+  > [yarn-global.bak](https://github.com/Weidows/Programming-Configuration/blob/e05220b9de0fcef3df5f54fb199ff6fe9727c0da/lists/yarn-global.bak)
 
 ---
 
-- 路径
+- `全局依赖路径`: 用 Scoop 安装的,其数据挂载`摆脱了C盘!`, npm 与 yarn 管理方式并不全然一样
 
-  - 用 Scoop 安装的,其数据挂载`摆脱了C盘!`
+  - node-npm: `Scoop\persist\nodejs\bin`
 
-  - npm 与 yarn 管理方式并不全然一样
-
-  - npm: `Scoop\persist\nodejs\bin`
-
-  - yarn: `D:\Game\Scoop\persist\yarn\global`
+  - yarn: `Scoop\persist\yarn\global`
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

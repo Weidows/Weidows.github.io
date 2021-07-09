@@ -26,6 +26,7 @@ menu:
     - Gitee站 || https://weidows.gitee.io || fas fa-bath
     - GitHub站 || https://weidows.github.io || fas fa-shower
   传送门|| fas fa-rocket:
+    - Weidows-projects || https://github.com/Weidows-projects
     - GitHub仓库 || https://github.com/Weidows?tab=repositories
     - 几个生成器 || generator
     - SSL状态检测 || https://weidows.github.io/ssl

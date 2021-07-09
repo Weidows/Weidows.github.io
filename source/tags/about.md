@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-05 10:27:26
+ * @LastEditTime: 2021-07-08 17:58:00
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 
@@ -118,15 +118,27 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 - 饮品: `蜂蜜奶咖 (自制)`,`嗜糖`(各种意义上).
 
-- 大括号`不换行`,`盘古之白`爱好者,`全称`变量名,句尾加英文句号.
+- <details>
 
-- `红轴`大善人,晚期`见光死`.
+    <summary> 括号不换行,爱盘古之白 </summary>
+
+  <img src="https://i.loli.net/2021/07/08/Fjs2VNkxY1BOguW.jpg" alt="v2-3a5bff5095776354c00ef4f2a1f160a2_720w" />
+
+  ***
+
+  </details>
+
+- `全称`变量名,喜英文标点.
+
+- 手下`红/茶轴`,晚期`见光死`.
 
 - 吃香蕉撕头,刷牙先蘸水.
 
 - 不大爱干净,较追求`整洁`.
 
-- 不喜清内存,右键不刷新,走人不关机,睡眠更省心.
+- 不喜清内存,右键不刷新.
+
+- 走人不关机,睡眠更省心.
 
 <!-- endtab -->
 

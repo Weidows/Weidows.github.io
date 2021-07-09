@@ -1,5 +1,5 @@
 ---
-title: 💢Windows中一些奇奇怪怪的东西.
+title: 💢Windows中一些奇奇怪怪逸事.
 date: 2020-12-28 13:49:19
 categories:
   - system
@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-04 11:00:10
+ * @LastEditTime: 2021-07-07 19:28:43
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -33,6 +33,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
   - [网页版 office](#网页版-office)
   - [举栗](#举栗)
   - [推荐文章](#推荐文章)
+- [各种路径](#各种路径)
+- [颜色配置](#颜色配置)
 
 # 窗口逸出
 
@@ -135,3 +137,27 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 > [Office2019 与 office365 有什么区别？有些人还蒙在鼓里！](https://baijiahao.baidu.com/s?id=1629077774897211140&wfr=spider&for=pc)
 
 > [OFFICE365 各版本、A1、A1P、E3、E5 等版本科普](https://shikey.com/2019/12/24/office365-versions-a1-a1p-e3-etc.html)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 各种路径
+
+- 字体
+
+  - `~\AppData\Local\Microsoft\Windows\Fonts`
+
+- 壁纸/主题
+
+  - `~\AppData\Local\Microsoft\Windows\Themes`
+
+- 开始菜单
+
+  - `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 颜色配置
+
+  <img src="https://i.loli.net/2021/05/20/7gNxJSafiq5X81w.png" alt="20210520164845" />
+
+  <img src="https://i.loli.net/2021/05/20/a7ZbKmyWYJcxIOG.png" alt="20210520164128" />
