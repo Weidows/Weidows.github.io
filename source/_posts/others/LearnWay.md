@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-26 21:17:47
+ * @LastEditTime: 2021-07-11 17:43:57
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -51,7 +51,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
     - [进阶](#进阶-2)
     - [异步](#异步)
     - [Console](#console)
-- [工具使用](#工具使用)
+    - [自执行函数](#自执行函数)
+  - [跨域](#跨域)
+- [工具](#工具)
   - [Git](#git)
     - [Git push](#git-push)
     - [多远程](#多远程)
@@ -70,6 +72,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [图灵测试](#图灵测试)
 - [设计](#设计)
 - [理论课程](#理论课程)
+  - [数据结构](#数据结构)
   - [操作系统](#操作系统)
     - [进程,线程,CPU 核心,并行,并发](#进程线程cpu-核心并行并发)
   - [编译原理](#编译原理)
@@ -80,6 +83,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [算法](#算法)
     - [P/NP 问题](#pnp-问题)
   - [论文](#论文)
+- [面试](#面试)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -258,6 +262,10 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
   > [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
 
+- Stream
+
+  > [Java8 Stream 详解](https://blog.csdn.net/happyheng/article/details/52832313)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 前端
@@ -320,9 +328,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 - 可以在网站中做一些有意思的事,比如在我的博客这里,按 `F12` 可以看到.
 
+---
+
+### 自执行函数
+
+> [JS 自执行函数原理及用法](https://www.jb51.net/article/166905.htm)
+
+---
+
+## 跨域
+
+> [😡 一次解决 CORS 经验记录.](./../../Web/JavaScript/CORS)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 工具使用
+# 工具
 
 ## Git
 
@@ -452,7 +472,19 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 # 理论课程
 
+## 数据结构
+
+> [二叉树的前,中,后序遍历详解](https://www.cnblogs.com/zmc940317/articles/10925497.html)
+
+---
+
 ## 操作系统
+
+> [一句话+一张图说清楚——银行家算法](https://blog.csdn.net/qq_33414271/article/details/80245715)
+
+> [操作系统：经典进程同步问题 之 生产者-消费者问题、读者-写者问题、哲学家进餐问题](https://blog.csdn.net/a745233700/article/details/86011504)
+
+> [调度算法的介绍及优缺点](https://blog.csdn.net/lala_wang/article/details/81116781?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)
 
 ### 进程,线程,CPU 核心,并行,并发
 
@@ -514,3 +546,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 - 关键时候挺好用的功能
 
   > [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 面试
+
+> [MetaAPP 部分笔试题](https://blog.csdn.net/weixin_38607253/article/details/114154414)
+
+> [什么是“堆”,"栈","堆栈","队列",它们的区别](https://www.cnblogs.com/guoxiaoyan/p/8664150.html)
+
+> [到底产生几个 String 对象](https://www.cnblogs.com/timecloud/p/6555868.html)

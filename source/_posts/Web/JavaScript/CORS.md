@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-09 23:34:03
+ * @LastEditTime: 2021-07-11 19:49:07
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\CORS.md
  * @Description:
  * @!: *********************************************************************
@@ -99,15 +99,19 @@ top_img:
 
 - 变个卦:
 
-  如果服务端修改 access-control-allow-origin 为 `https:sm.ms`
+  如果服务端修改 access-control-allow-origin 为 `https://sm.ms`
 
-  这个情况下,只能在 https:sm.ms 网页内可以 fetch 成功.
+  这个情况下,只能在 https://sm.ms 网页内可以 fetch 成功.
 
 ---
 
 - 服务端没开启 CORS 的 `shp.qpic.cn`
 
   除了本身域名 shp.qpic.cn,任何域名都 `没有权限获取数据` (可以显示但是无法 fetch)
+
+  ```
+  Access to image at 'xxx' from origin 'xxx' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+  ```
 
   <img src="https://i.loli.net/2021/07/09/DXuTiWS3vFgUYqO.png" alt="20210709222317" />
 

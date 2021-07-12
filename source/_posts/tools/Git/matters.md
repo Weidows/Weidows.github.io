@@ -14,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-24 17:40:10
+ * @LastEditTime: 2021-07-10 19:27:33
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -41,6 +41,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 # License 选择
 
 ![License](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/46lbZztfLjkM2n7.jpg)
+
+> 感觉菜鸟教程的文章最详细: [各种开源协议介绍](https://www.runoob.com/w3cnote/open-source-license.html)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -92,7 +94,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 - 自己的仓库在转移到组织后,推送时报:"无权限推送到 xxx 仓库"
 
-- 我遇到这个问题是在Git某次更新后, `credential.helper store` 情况下.
+- 我遇到这个问题是在 Git 某次更新后, `credential.helper store` 情况下.
 
 - 解决办法跟上面相反,是需要把 `~/.gitconfig` 中的 `[credential]` 这块去掉.
 

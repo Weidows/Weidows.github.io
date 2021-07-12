@@ -6,6 +6,8 @@ tags:
   - 图床
   - 爬虫
   - SM.MS
+  - JavaScript
+  - HTML
 date: 2021-04-18 11:54:15
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/QQ图片20210416221109.jpg
 top_img:
@@ -15,27 +17,27 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-08 00:32:37
+ * @LastEditTime: 2021-07-09 23:57:21
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\SM-MS-downloader.md
  * @Description:
  * @!: *********************************************************************
 -->
 
+- [关联项目](#关联项目)
 - [简介](#简介)
-- [功能](#功能)
 - [使用](#使用)
 - [问题](#问题)
 - [路标 & 技术调用](#路标--技术调用)
 
+# [关联项目](https://github.com/Weidows/awesome-image-collector)
+
 # 简介
 
-> SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
-
-# 功能
+SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
 可以把对应页面的所有图片(一般是 30 张)获取并打包为 zip 文件下载下来
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 使用
 
