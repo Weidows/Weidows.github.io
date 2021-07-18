@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-08 17:58:00
+ * @LastEditTime: 2021-07-14 12:45:41
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 
@@ -19,7 +19,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 <!-- tab 邮箱@fas fa-tag -->
 
-{% btn 'https://mail.qq.com',utsuko27@qq.com,far fa-hand-point-right,outline blue larger %}
+{% btn 'mailto:utsuko27@qq.com',utsuko27@qq.com,far fa-hand-point-right,outline blue larger %}
 
 <!-- endtab -->
 

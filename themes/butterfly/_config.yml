@@ -69,7 +69,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/Weidows || Github
-  fas fa-envelope: https://weidows.github.io/tags/about || Email
+  fas fa-envelope: mailto:utsuko27@qq.com || Email
   fab fa-qq: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg || QQ号
   fab fa-weixin: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg || 微信号
   fad fa-phone-rotary: +86-18330785221 || 手机号

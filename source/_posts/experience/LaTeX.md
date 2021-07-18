@@ -14,7 +14,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-11 11:07:28
+ * @LastEditTime: 2021-07-17 17:53:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -265,7 +265,7 @@ top_img:
           b_{2}  \\
           b_{3}  \\
           \vdots \\
-          b_{n}  \\
+          b_{n}  \\字体圈欣意冠黑体
       \end{bmatrix}
   $$
 

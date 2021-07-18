@@ -13,7 +13,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-11 23:50:41
+ * @LastEditTime: 2021-07-18 09:18:19
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
@@ -24,6 +24,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 - [树莓派系统设置](#树莓派系统设置)
 - [VNC 连接](#vnc-连接)
 - [Screenfetch](#screenfetch)
+- [花样玩法](#花样玩法)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -133,3 +134,20 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 - 显示 Linux 系统及版本信息,如下:
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XVzvAUq7G4tP1DO.png" alt="20201205143342" />
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iWXJzj5U9HyoG3R.png" alt="20201203115807" />
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 花样玩法
+
+1. 声控可视化乐谱
+2. 宝塔 Linux
+3. 旁路由器
+4. 作为双屏驱动器(需要一块触控屏幕)
+5. 硬件:无线键盘(鼠标不用了)\摄像头(或加指纹识别)\语音识别(+AI)
+6. 个人网站搭建
+7. 虚拟机/远程 docker
+8. 尝试多系统
+9. `OpenWrt系统` (此系统支持 3,6,7,10,11,12)
+10. 当梯子 NAT
+11. 文件服务器
+12. 内网穿透

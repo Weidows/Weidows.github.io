@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-20 19:33:09
+ * @LastEditTime: 2021-07-12 23:53:47
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\gallery_data\index.md
 -->
 
@@ -33,9 +33,11 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 
 {% galleryGroup 我の光宇科景 收藏已久的图儿~ gallery_data/Landscape/mine https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/1.jpeg %}
 
+{% galleryGroup 学校-伪恋 风景还算不错. gallery_data/Landscape/学校 https://i.loli.net/2021/07/12/AkUCcODolH4t9hG.jpg %}
+
 </div>
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 动漫
 
@@ -53,7 +55,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 
 </div>
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 游戏
 
@@ -74,7 +76,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 
 </div>
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 个人
 
@@ -90,4 +92,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 {% galleryGroup 病患解析 浑元形意内外伤. gallery_data/Private/Why-illness https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/1.jpg %}
 
 {% galleryGroup 我的故乡 拿起村好剑对日的时光. gallery_data/Private/我的故乡 https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/1618918018344.jpeg %}
+
+{% galleryGroup 开发环境 舒适的小窝. gallery_data/Private/开发环境 https://i.loli.net/2021/07/12/2uFUPLf4ObWd6kG.jpg %}
+
 </div>

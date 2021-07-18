@@ -153,7 +153,7 @@ steam:
 #     quote: "书是人类进步的阶梯,但时代变了---留意下有没有电梯."
 #   movie:
 #     title: "⭐电影院⭐"
-#     quote: "它山之石,可以攻玉.嗯,是对的."
+#     quote: "他山之石,可以攻玉.嗯,是对的."
 
 # 博文压缩 - hexo-neat
 neat_enable: true
