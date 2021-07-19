@@ -1,5 +1,5 @@
 ---
-title: Copilot
+title: 😁调戏AI:Copilot
 categories:
   - tools
   - vscode
@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-18 09:33:10
+ * @LastEditTime: 2021-07-18 21:27:05
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\Copilot.md
  * @Description:
  * @!: *********************************************************************
@@ -37,11 +37,15 @@ top_img:
 
 - 目前还在内测 ,需要申请 (大概需要十几天?)
 
+  > [GitHub Copilot](https://copilot.github.com/)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 对话测试
 
-侵删 (Infringement to delete)
+> 创意来自 [Chat with CoPilot #234](https://github.com/github/copilot-preview/discussions/234)
+
+`侵删 (Infringement to delete)`
 
 前一句话是我问的,后一句话是 Copilot 回答的
 
@@ -174,3 +178,17 @@ Copilot: "明月神伤"
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 代码生成测试
+
+- 虽然近日 Copilot 被喷代码抄袭,但是就功能性来讲,还是比较让人满意的
+
+  <img src="https://i.loli.net/2021/07/18/BscMu8oTtxhVZ2P.png" alt="20210718211454" />
+
+- 与之差不多的是 TabNine,TabNine 是逐行预测,而 Copilot 是按块预测
+
+  <img src="https://i.loli.net/2021/07/18/Hu8vR6rIlkcixpe.png" alt="20210718212117" />
+
+- 下面二句也是 Copilot 生成的 (hhh 自卖自夸)
+
+  与之相比,我们可以看到,Copilot 是比较高效的,而 TabNine 是比较简单的,但是 Copilot 可以更加精准的预测,而 TabNine 只能预测一个字符
+
+  而 Copilot 可以预测一个单词,这也是 Copilot 的优势所在

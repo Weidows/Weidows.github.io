@@ -5,6 +5,8 @@ categories:
 tags:
   -
 katex: false
+comments: true
+aside: true
 cover:
 top_img:
 date: {{ date }}
@@ -15,7 +17,7 @@ date: {{ date }}
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-26 22:21:04
+ * @LastEditTime: 2021-07-19 18:19:08
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\scaffolds\post.md
  * @Description:
  * @!: *********************************************************************
