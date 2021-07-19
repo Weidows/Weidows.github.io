@@ -11,7 +11,7 @@ tags:
   - JavaScript
 katex: false
 date: 2021-07-18 09:20:22
-cover:
+cover: https://i.loli.net/2021/07/19/NP5ztqTGecYrpiv.png
 top_img:
 ---
 
@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-18 21:27:05
+ * @LastEditTime: 2021-07-19 22:24:57
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\Copilot.md
  * @Description:
  * @!: *********************************************************************

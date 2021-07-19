@@ -27,8 +27,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install
-          npm run steam
-          npm run build
-          npm run deploy
+          npm run get-bilibili-steam
+          npm run 一键三连
         env:
           CI: true

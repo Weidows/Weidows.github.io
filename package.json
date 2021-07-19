@@ -3,11 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "一键三连": "hexo clean && hexo generate && hexo server",
-    "更新 bilibili / steam": "hexo bangumi -u && hexo steam -u",
+    "一键三连": "hexo clean && hexo generate && hexo deploy",
+    "get-bilibili-steam": "hexo bangumi -u && hexo steam -u",
     "server / test": "hexo server"
   },
   "hexo": {
