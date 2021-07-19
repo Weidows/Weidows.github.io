@@ -1,0 +1,444 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>两种inject自定义Js/CSS文件方法 &amp;&amp; Pjax冲突解决方案 | ⭐️齐下无贰⭐️</title><meta name="keywords" content="备忘录,Website,HTML,CSS,Hexo,Pjax"><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="hexo 渲染 通过主题文件注入 通过修改内部文件注入 Pjax 使 JS 渲染失效解决方案  文件定位:    hexo 渲染  不知道为啥,hexo 只渲染 source 下面*.html 文件,而不会渲染*.HTML 文件.   通过主题文件注入  一般是写在theme&#x2F;xxx&#x2F;source&#x2F;里的js和css里面 随便起个名字,比如我的叫 mine.js 和 mine.css,里面写上需"><meta property="og:type" content="article"><meta property="og:title" content="两种inject自定义Js&#x2F;CSS文件方法 &amp;&amp; Pjax冲突解决方案"><meta property="og:url" content="https://weidows.github.io/post/Web/Node/Hexo/inject_method/"><meta property="og:site_name" content="⭐️齐下无贰⭐️"><meta property="og:description" content="hexo 渲染 通过主题文件注入 通过修改内部文件注入 Pjax 使 JS 渲染失效解决方案  文件定位:    hexo 渲染  不知道为啥,hexo 只渲染 source 下面*.html 文件,而不会渲染*.HTML 文件.   通过主题文件注入  一般是写在theme&#x2F;xxx&#x2F;source&#x2F;里的js和css里面 随便起个名字,比如我的叫 mine.js 和 mine.css,里面写上需"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg"><meta property="article:published_time" content="2020-08-30T17:35:01.000Z"><meta property="article:modified_time" content="2021-07-19T14:35:24.351Z"><meta property="article:author" content="⎛⎝Weidows⎠⎞"><meta property="article:tag" content="备忘录"><meta property="article:tag" content="Website"><meta property="article:tag" content="HTML"><meta property="article:tag" content="CSS"><meta property="article:tag" content="Hexo"><meta property="article:tag" content="Pjax"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg"><link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/tudoulei.png"><link rel="canonical" href="https://weidows.github.io/post/Web/Node/Hexo/inject_method/"><link rel="preconnect" href="//cdn.jsdelivr.net"><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="google-site-verification" content="63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y"><meta name="google-site-verification" content="TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY"><meta name="msvalidate.01" content="B99F807E806B2C297FF5818253DDD408"><meta name="baidu-site-verification" content="code-82v5yxnEC4"><meta name="baidu-site-verification" content="code-iDy54Uv2f1"><meta name="baidu-site-verification" content="code-IfmDfNug1l"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload='this.media="all"'><script>const GLOBAL_CONFIG={root:"/",algolia:void 0,localSearch:{path:"search.xml",languages:{hits_empty:"找不到您查询的内容：${query}"}},translate:void 0,noticeOutdate:{limitDay:365,position:"top",messagePrev:"It has been",messageNext:"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},highlight:{plugin:"highlighjs",highlightCopy:!0,highlightLang:!0},copy:{success:"复制成功",error:"复制错误",noSupport:"浏览器不支持"},relativeDate:{homepage:!1,post:!1},runtime:"天",date_suffix:{just:"刚刚",min:"分钟前",hour:"小时前",day:"天前",month:"个月前"},copyright:void 0,lightbox:"fancybox",Snackbar:void 0,source:{jQuery:"https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js",justifiedGallery:{js:"https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js",css:"https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css"},fancybox:{js:"https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js",css:"https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"}},isPhotoFigcaption:!1,islazyload:!0,isanchor:!0}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={isPost:!0,isHome:!1,isHighlightShrink:!1,isToc:!0,postUpdate:"2021-07-19 22:35:24"}</script><noscript><style type="text/css">#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    })(window)</script><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script>var Weidows={device:function(){var t=navigator.userAgent.toLowerCase();t.match(/ipad/i),t.match(/iphone os/i),t.match(/midp/i),t.match(/rv:1.2.3.4/i),t.match(/ucweb/i),t.match(/android/i),t.match(/windows ce/i),t.match(/windows mobile/i)},cheatTitle:function(){let t,i=document.title,e=$('[rel="shortcut icon"]').attr("href");document.addEventListener("visibilitychange",function(){document.hidden?($('[rel="shortcut icon"]').attr("href","https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/74ef2ed780ee230c08866adfa01dbe297b5467b4.png"),document.title="你滴,过来滴干活! |"+i,clearTimeout(t)):($('[rel="shortcut icon"]').attr("href","https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png"),document.title="你滴,良民滴干活! |"+i,t=setTimeout(function(){document.title=i,$('[rel="shortcut icon"]').attr("href",e)},2e3))})},footFish:function(){$("#footer-wrap").css({position:"absolute","text-align":"center",top:0,right:0,left:0,bottom:0}),$("footer").append('<div class="container" id="jsi-flying-fish-container"></div>');var t={POINT_INTERVAL:5,FISH_COUNT:3,MAX_INTERVAL_COUNT:50,INIT_HEIGHT_RATE:.5,THRESHOLD:50,init:function(){this.setParameters(),this.reconstructMethods(),this.setup(),this.bindEvent(),this.render()},setParameters:function(){this.$window=$(window),this.$container=$("#jsi-flying-fish-container"),this.$canvas=$("<canvas />"),this.context=this.$canvas.appendTo(this.$container).get(0).getContext("2d"),this.points=[],this.fishes=[],this.watchIds=[]},createSurfacePoints:function(){var t=Math.round(this.width/this.POINT_INTERVAL);this.pointInterval=this.width/(t-1),this.points.push(new s(this,0));for(var i=1;i<t;i++){var e=new s(this,i*this.pointInterval),h=this.points[i-1];e.setPreviousPoint(h),h.setNextPoint(e),this.points.push(e)}},reconstructMethods:function(){this.watchWindowSize=this.watchWindowSize.bind(this),this.jdugeToStopResize=this.jdugeToStopResize.bind(this),this.startEpicenter=this.startEpicenter.bind(this),this.moveEpicenter=this.moveEpicenter.bind(this),this.reverseVertical=this.reverseVertical.bind(this),this.render=this.render.bind(this)},setup:function(){this.points.length=0,this.fishes.length=0,this.watchIds.length=0,this.intervalCount=this.MAX_INTERVAL_COUNT,this.width=this.$container.width(),this.height=this.$container.height(),this.fishCount=this.FISH_COUNT*this.width/500*this.height/500,this.$canvas.attr({width:this.width,height:this.height}),this.reverse=!1,this.fishes.push(new e(this)),this.createSurfacePoints()},watchWindowSize:function(){this.clearTimer(),this.tmpWidth=this.$window.width(),this.tmpHeight=this.$window.height(),this.watchIds.push(setTimeout(this.jdugeToStopResize,this.WATCH_INTERVAL))},clearTimer:function(){for(;0<this.watchIds.length;)clearTimeout(this.watchIds.pop())},jdugeToStopResize:function(){var t=this.$window.width(),i=this.$window.height(),e=t==this.tmpWidth&&i==this.tmpHeight;this.tmpWidth=t,this.tmpHeight=i,e&&this.setup()},bindEvent:function(){this.$window.on("resize",this.watchWindowSize),this.$container.on("mouseenter",this.startEpicenter),this.$container.on("mousemove",this.moveEpicenter),this.$container.on("click",this.reverseVertical)},getAxis:function(t){var i=this.$container.offset();return{x:t.clientX-i.left+this.$window.scrollLeft(),y:t.clientY-i.top+this.$window.scrollTop()}},startEpicenter:function(t){this.axis=this.getAxis(t)},moveEpicenter:function(t){t=this.getAxis(t);this.axis||(this.axis=t),this.generateEpicenter(t.x,t.y,t.y-this.axis.y),this.axis=t},generateEpicenter:function(t,i,e){i<this.height/2-this.THRESHOLD||i>this.height/2+this.THRESHOLD||((t=Math.round(t/this.pointInterval))<0||t>=this.points.length||this.points[t].interfere(i,e))},reverseVertical:function(){this.reverse=!this.reverse;for(var t=0,i=this.fishes.length;t<i;t++)this.fishes[t].reverseVertical()},controlStatus:function(){for(var t=0,i=this.points.length;t<i;t++)this.points[t].updateSelf();for(t=0,i=this.points.length;t<i;t++)this.points[t].updateNeighbors();this.fishes.length<this.fishCount&&0==--this.intervalCount&&(this.intervalCount=this.MAX_INTERVAL_COUNT,this.fishes.push(new e(this)))},render:function(){requestAnimationFrame(this.render),this.controlStatus(),this.context.clearRect(0,0,this.width,this.height),this.context.fillStyle="hsl(0, 0%, 95%)";for(var t=0,i=this.fishes.length;t<i;t++)this.fishes[t].render(this.context);this.context.save(),this.context.globalCompositeOperation="xor",this.context.beginPath(),this.context.moveTo(0,this.reverse?0:this.height);for(t=0,i=this.points.length;t<i;t++)this.points[t].render(this.context);this.context.lineTo(this.width,this.reverse?0:this.height),this.context.closePath(),this.context.fill(),this.context.restore()}},s=function(t,i){this.renderer=t,this.x=i,this.init()};s.prototype={SPRING_CONSTANT:.03,SPRING_FRICTION:.9,WAVE_SPREAD:.3,ACCELARATION_RATE:.01,init:function(){this.initHeight=this.renderer.height*this.renderer.INIT_HEIGHT_RATE,this.height=this.initHeight,this.fy=0,this.force={previous:0,next:0}},setPreviousPoint:function(t){this.previous=t},setNextPoint:function(t){this.next=t},interfere:function(t,i){this.fy=this.renderer.height*this.ACCELARATION_RATE*(0<=this.renderer.height-this.height-t?-1:1)*Math.abs(i)},updateSelf:function(){this.fy+=this.SPRING_CONSTANT*(this.initHeight-this.height),this.fy*=this.SPRING_FRICTION,this.height+=this.fy},updateNeighbors:function(){this.previous&&(this.force.previous=this.WAVE_SPREAD*(this.height-this.previous.height)),this.next&&(this.force.next=this.WAVE_SPREAD*(this.height-this.next.height))},render:function(t){this.previous&&(this.previous.height+=this.force.previous,this.previous.fy+=this.force.previous),this.next&&(this.next.height+=this.force.next,this.next.fy+=this.force.next),t.lineTo(this.x,this.renderer.height-this.height)}};var e=function(t){this.renderer=t,this.init()};e.prototype={GRAVITY:.4,init:function(){this.direction=Math.random()<.5,this.x=this.direction?this.renderer.width+this.renderer.THRESHOLD:-this.renderer.THRESHOLD,this.previousY=this.y,this.vx=this.getRandomValue(4,10)*(this.direction?-1:1),this.renderer.reverse?(this.y=this.getRandomValue(+this.renderer.height/10,4*this.renderer.height/10),this.vy=this.getRandomValue(2,5),this.ay=this.getRandomValue(.05,.2)):(this.y=this.getRandomValue(6*this.renderer.height/10,9*this.renderer.height/10),this.vy=this.getRandomValue(-5,-2),this.ay=this.getRandomValue(-.2,-.05)),this.isOut=!1,this.theta=0,this.phi=0},getRandomValue:function(t,i){return t+(i-t)*Math.random()},reverseVertical:function(){this.isOut=!this.isOut,this.ay*=-1},controlStatus:function(t){this.previousY=this.y,this.x+=this.vx,this.y+=this.vy,this.vy+=this.ay,this.renderer.reverse?this.y>this.renderer.height*this.renderer.INIT_HEIGHT_RATE?(this.vy-=this.GRAVITY,this.isOut=!0):(this.isOut&&(this.ay=this.getRandomValue(.05,.2)),this.isOut=!1):this.y<this.renderer.height*this.renderer.INIT_HEIGHT_RATE?(this.vy+=this.GRAVITY,this.isOut=!0):(this.isOut&&(this.ay=this.getRandomValue(-.2,-.05)),this.isOut=!1),this.isOut||(this.theta+=Math.PI/20,this.theta%=2*Math.PI,this.phi+=Math.PI/30,this.phi%=2*Math.PI),this.renderer.generateEpicenter(this.x+(this.direction?-1:1)*this.renderer.THRESHOLD,this.y,this.y-this.previousY),(0<this.vx&&this.x>this.renderer.width+this.renderer.THRESHOLD||this.vx<0&&this.x<-this.renderer.THRESHOLD)&&this.init()},render:function(t){t.save(),t.translate(this.x,this.y),t.rotate(Math.PI+Math.atan2(this.vy,this.vx)),t.scale(1,this.direction?1:-1),t.beginPath(),t.moveTo(-30,0),t.bezierCurveTo(-20,15,15,10,40,0),t.bezierCurveTo(15,-10,-20,-15,-30,0),t.fill(),t.save(),t.translate(40,0),t.scale(.9+.2*Math.sin(this.theta),1),t.beginPath(),t.moveTo(0,0),t.quadraticCurveTo(5,10,20,8),t.quadraticCurveTo(12,5,10,0),t.quadraticCurveTo(12,-5,20,-8),t.quadraticCurveTo(5,-10,0,0),t.fill(),t.restore(),t.save(),t.translate(-3,0),t.rotate((Math.PI/3+Math.PI/10*Math.sin(this.phi))*(this.renderer.reverse?-1:1)),t.beginPath(),this.renderer.reverse?(t.moveTo(5,0),t.bezierCurveTo(10,10,10,30,0,40),t.bezierCurveTo(-12,25,-8,10,0,0)):(t.moveTo(-5,0),t.bezierCurveTo(-10,-10,-10,-30,0,-40),t.bezierCurveTo(12,-25,8,-10,0,0)),t.closePath(),t.fill(),t.restore(),t.restore(),this.controlStatus(t)}},$(function(){t.init()})},appender:function(){if(document.getElementById("go-up").innerHTML+="<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='data:image/png;base64,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' title='芜湖起飞!' >",null==document.getElementById("page-header-child-1")&&null!=document.getElementById("recent-posts")){let t=document.createElement("div"),i=document.createElement("div");t.id="page-header-child-1",i.id="page-header-child-2",document.getElementById("page-header").prepend(t,i)}null==document.getElementById("sakura")&&(document.getElementById("web_bg").innerHTML+="<canvas id='sakura' style='position: relative;width: 100%;height: 100vh;'></canvas>")},log:function(){setTimeout(function(){console.clear(),console.log("%c  _  _  ____  __  ____   __   _  _  ____ \t齐下无贰 Listening...\n / )( \\(  __)(  )(    \\ /  \\ / )( \\/ ___) \thttps://github.com/Weidows\n \\ /\\ / ) _)  )(  ) D ((  O )\\ /\\ /\\___ \\ \thttps://gitee.com/Weidows\n (_/\\_)(____)(__)(____/ \\__/ (_/\\_)(____/ \t来这想干点啥好事⁉?😉\n","color: #6aff00;background: #0c222e;")},1)},all:function(){this.cheatTitle(),this.appender(),this.log()},re:function(){this.appender()}}</script><script id="sakura_point_vsh" type="x-shader/x_vertex">uniform mat4 uProjection;
+      uniform mat4 uModelview;
+      uniform vec3 uResolution;
+      uniform vec3 uOffset;
+      uniform vec3 uDOF;  //x:focus distance, y:focus radius, z:max radius
+      uniform vec3 uFade; //x:start distance, y:half distance, z:near fade start
+
+      attribute vec3 aPosition;
+      attribute vec3 aEuler;
+      attribute vec2 aMisc; //x:size, y:fade
+
+      varying vec3 pposition;
+      varying float psize;
+      varying float palpha;
+      varying float pdist;
+
+      //varying mat3 rotMat;
+      varying vec3 normX;
+      varying vec3 normY;
+      varying vec3 normZ;
+      varying vec3 normal;
+
+      varying float diffuse;
+      varying float specular;
+      varying float rstop;
+      varying float distancefade;
+
+      void main(void) {
+          // Projection is based on vertical angle
+          vec4 pos = uModelview * vec4(aPosition + uOffset, 1.0);
+          gl_Position = uProjection * pos;
+          gl_PointSize = aMisc.x * uProjection[1][1] / -pos.z * uResolution.y * 0.5;
+
+          pposition = pos.xyz;
+          psize = aMisc.x;
+          pdist = length(pos.xyz);
+          palpha = smoothstep(0.0, 1.0, (pdist - 0.1) / uFade.z);
+
+          vec3 elrsn = sin(aEuler);
+          vec3 elrcs = cos(aEuler);
+          mat3 rotx = mat3(
+              1.0, 0.0, 0.0,
+              0.0, elrcs.x, elrsn.x,
+              0.0, -elrsn.x, elrcs.x
+          );
+          mat3 roty = mat3(
+              elrcs.y, 0.0, -elrsn.y,
+              0.0, 1.0, 0.0,
+              elrsn.y, 0.0, elrcs.y
+          );
+          mat3 rotz = mat3(
+              elrcs.z, elrsn.z, 0.0,
+              -elrsn.z, elrcs.z, 0.0,
+              0.0, 0.0, 1.0
+          );
+          mat3 rotmat = rotx * roty * rotz;
+          normal = rotmat[2];
+
+          mat3 trrotm = mat3(
+              rotmat[0][0], rotmat[1][0], rotmat[2][0],
+              rotmat[0][1], rotmat[1][1], rotmat[2][1],
+              rotmat[0][2], rotmat[1][2], rotmat[2][2]
+          );
+          normX = trrotm[0];
+          normY = trrotm[1];
+          normZ = trrotm[2];
+
+          const vec3 lit = vec3(0.6917144638660746, 0.6917144638660746, -0.20751433915982237);
+
+          float tmpdfs = dot(lit, normal);
+          if(tmpdfs < 0.0) {
+              normal = -normal;
+              tmpdfs = dot(lit, normal);
+          }
+          diffuse = 0.4 + tmpdfs;
+
+          vec3 eyev = normalize(-pos.xyz);
+          if(dot(eyev, normal) > 0.0) {
+              vec3 hv = normalize(eyev + lit);
+              specular = pow(max(dot(hv, normal), 0.0), 20.0);
+          }
+          else {
+              specular = 0.0;
+          }
+
+          rstop = clamp((abs(pdist - uDOF.x) - uDOF.y) / uDOF.z, 0.0, 1.0);
+          rstop = pow(rstop, 0.5);
+          //-0.69315 = ln(0.5)
+          distancefade = min(1.0, exp((uFade.x - pdist) * 0.69315 / uFade.y));
+      }</script><script id="sakura_point_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+
+      uniform vec3 uDOF;  //x:focus distance, y:focus radius, z:max radius
+      uniform vec3 uFade; //x:start distance, y:half distance, z:near fade start
+
+      const vec3 fadeCol = vec3(0.08, 0.03, 0.06);
+
+      varying vec3 pposition;
+      varying float psize;
+      varying float palpha;
+      varying float pdist;
+
+      //varying mat3 rotMat;
+      varying vec3 normX;
+      varying vec3 normY;
+      varying vec3 normZ;
+      varying vec3 normal;
+
+      varying float diffuse;
+      varying float specular;
+      varying float rstop;
+      varying float distancefade;
+
+      float ellipse(vec2 p, vec2 o, vec2 r) {
+          vec2 lp = (p - o) / r;
+          return length(lp) - 1.0;
+      }
+
+      void main(void) {
+          vec3 p = vec3(gl_PointCoord - vec2(0.5, 0.5), 0.0) * 2.0;
+          vec3 d = vec3(0.0, 0.0, -1.0);
+          float nd = normZ.z; //dot(-normZ, d);
+          if(abs(nd) < 0.0001) discard;
+
+          float np = dot(normZ, p);
+          vec3 tp = p + d * np / nd;
+          vec2 coord = vec2(dot(normX, tp), dot(normY, tp));
+
+          //angle = 15 degree
+          const float flwrsn = 0.258819045102521;
+          const float flwrcs = 0.965925826289068;
+          mat2 flwrm = mat2(flwrcs, -flwrsn, flwrsn, flwrcs);
+          vec2 flwrp = vec2(abs(coord.x), coord.y) * flwrm;
+
+          float r;
+          if(flwrp.x < 0.0) {
+              r = ellipse(flwrp, vec2(0.065, 0.024) * 0.5, vec2(0.36, 0.96) * 0.5);
+          }
+          else {
+              r = ellipse(flwrp, vec2(0.065, 0.024) * 0.5, vec2(0.58, 0.96) * 0.5);
+          }
+
+          if(r > rstop) discard;
+
+          vec3 col = mix(vec3(1.0, 0.8, 0.75), vec3(1.0, 0.9, 0.87), r);
+          float grady = mix(0.0, 1.0, pow(coord.y * 0.5 + 0.5, 0.35));
+          col *= vec3(1.0, grady, grady);
+          col *= mix(0.8, 1.0, pow(abs(coord.x), 0.3));
+          col = col * diffuse + specular;
+
+          col = mix(fadeCol, col, distancefade);
+
+          float alpha = (rstop > 0.001)? (0.5 - r / (rstop * 2.0)) : 1.0;
+          alpha = smoothstep(0.0, 1.0, alpha) * palpha;
+
+          gl_FragColor = vec4(col * 0.5, alpha);
+      }</script><script id="fx_common_vsh" type="x-shader/x_vertex">uniform vec3 uResolution;
+      attribute vec2 aPosition;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          gl_Position = vec4(aPosition, 0.0, 1.0);
+          texCoord = aPosition.xy * 0.5 + vec2(0.5, 0.5);
+          screenCoord = aPosition.xy * vec2(uResolution.z, 1.0);
+      }</script><script id="bg_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+
+      uniform vec2 uTimes;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          vec3 col;
+          float c;
+          vec2 tmpv = texCoord * vec2(0.8, 1.0) - vec2(0.95, 1.0);
+          c = exp(-pow(length(tmpv) * 1.8, 2.0));
+          col = mix(vec3(0.02, 0.0, 0.03), vec3(0.96, 0.98, 1.0) * 1.5, c);
+          gl_FragColor = vec4(col * 0.5, 1.0);
+      }</script><script id="fx_brightbuf_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform vec2 uDelta;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          vec4 col = texture2D(uSrc, texCoord);
+          gl_FragColor = vec4(col.rgb * 2.0 - vec3(0.5), 1.0);
+      }</script><script id="fx_dirblur_r4_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform vec2 uDelta;
+      uniform vec4 uBlurDir; //dir(x, y), stride(z, w)
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          vec4 col = texture2D(uSrc, texCoord);
+          col = col + texture2D(uSrc, texCoord + uBlurDir.xy * uDelta);
+          col = col + texture2D(uSrc, texCoord - uBlurDir.xy * uDelta);
+          col = col + texture2D(uSrc, texCoord + (uBlurDir.xy + uBlurDir.zw) * uDelta);
+          col = col + texture2D(uSrc, texCoord - (uBlurDir.xy + uBlurDir.zw) * uDelta);
+          gl_FragColor = col / 5.0;
+      }</script><script id="fx_common_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform vec2 uDelta;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          gl_FragColor = texture2D(uSrc, texCoord);
+      }</script><script id="pp_final_vsh" type="x-shader/x_vertex">uniform vec3 uResolution;
+      attribute vec2 aPosition;
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+      void main(void) {
+          gl_Position = vec4(aPosition, 0.0, 1.0);
+          texCoord = aPosition.xy * 0.5 + vec2(0.5, 0.5);
+          screenCoord = aPosition.xy * vec2(uResolution.z, 1.0);
+      }</script><script id="pp_final_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform sampler2D uBloom;
+      uniform vec2 uDelta;
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+      void main(void) {
+          vec4 srccol = texture2D(uSrc, texCoord) * 2.0;
+          vec4 bloomcol = texture2D(uBloom, texCoord);
+          vec4 col;
+          col = srccol + bloomcol * (vec4(1.0) + srccol);
+          col *= smoothstep(1.0, 0.0, pow(length((texCoord - vec2(0.5)) * 2.0), 1.2) * 0.5);
+          col = pow(col, vec4(0.45454545454545)); //(1.0 / 2.2)
+
+          gl_FragColor = vec4(col.rgb, 1.0);
+          gl_FragColor.a = 1.0;
+      }</script><script>var Vector3={},Matrix44={};Vector3.create=function(e,r,t){return{x:e,y:r,z:t}},Vector3.dot=function(e,r){return e.x*r.x+e.y*r.y+e.z*r.z},Vector3.cross=function(e,r,t){e.x=r.y*t.z-r.z*t.y,e.y=r.z*t.x-r.x*t.z,e.z=r.x*t.y-r.y*t.x},Vector3.normalize=function(e){var r=e.x*e.x+e.y*e.y+e.z*e.z;1e-5<r&&(r=1/Math.sqrt(r),e.x*=r,e.y*=r,e.z*=r)},Vector3.arrayForm=function(e){return e.array?(e.array[0]=e.x,e.array[1]=e.y,e.array[2]=e.z):e.array=new Float32Array([e.x,e.y,e.z]),e.array},Matrix44.createIdentity=function(){return new Float32Array([1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1])},Matrix44.loadProjection=function(e,r,t,o,n){t=o*Math.tan(t*Math.PI/180*.5)*2,r*=t;e[0]=2*o/r,e[1]=0,e[2]=0,e[3]=0,e[4]=0,e[5]=2*o/t,e[6]=0,e[7]=0,e[8]=0,e[9]=0,e[10]=-(n+o)/(n-o),e[11]=-1,e[12]=0,e[13]=0,e[14]=-2*n*o/(n-o),e[15]=0},Matrix44.loadLookAt=function(e,r,t,o){var n=Vector3.create(r.x-t.x,r.y-t.y,r.z-t.z);Vector3.normalize(n);t=Vector3.create(1,0,0);Vector3.cross(t,o,n),Vector3.normalize(t);o=Vector3.create(1,0,0);Vector3.cross(o,n,t),Vector3.normalize(o),e[0]=t.x,e[1]=o.x,e[2]=n.x,e[3]=0,e[4]=t.y,e[5]=o.y,e[6]=n.y,e[7]=0,e[8]=t.z,e[9]=o.z,e[10]=n.z,e[11]=0,e[12]=-(r.x*e[0]+r.y*e[4]+r.z*e[8]),e[13]=-(r.x*e[1]+r.y*e[5]+r.z*e[9]),e[14]=-(r.x*e[2]+r.y*e[6]+r.z*e[10]),e[15]=1};var gl,timeInfo={start:0,prev:0,delta:0,elapsed:0},renderSpec={width:0,height:0,aspect:1,array:new Float32Array(3),halfWidth:0,halfHeight:0,halfArray:new Float32Array(3)};function deleteRenderTarget(e){gl.deleteFramebuffer(e.frameBuffer),gl.deleteRenderbuffer(e.renderBuffer),gl.deleteTexture(e.texture)}function createRenderTarget(e,r){var t={width:e,height:r,sizeArray:new Float32Array([e,r,e/r]),dtxArray:new Float32Array([1/e,1/r])};return t.frameBuffer=gl.createFramebuffer(),t.renderBuffer=gl.createRenderbuffer(),t.texture=gl.createTexture(),gl.bindTexture(gl.TEXTURE_2D,t.texture),gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,e,r,0,gl.RGBA,gl.UNSIGNED_BYTE,null),gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_S,gl.CLAMP_TO_EDGE),gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_T,gl.CLAMP_TO_EDGE),gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,gl.LINEAR),gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,gl.LINEAR),gl.bindFramebuffer(gl.FRAMEBUFFER,t.frameBuffer),gl.framebufferTexture2D(gl.FRAMEBUFFER,gl.COLOR_ATTACHMENT0,gl.TEXTURE_2D,t.texture,0),gl.bindRenderbuffer(gl.RENDERBUFFER,t.renderBuffer),gl.renderbufferStorage(gl.RENDERBUFFER,gl.DEPTH_COMPONENT16,e,r),gl.framebufferRenderbuffer(gl.FRAMEBUFFER,gl.DEPTH_ATTACHMENT,gl.RENDERBUFFER,t.renderBuffer),gl.bindTexture(gl.TEXTURE_2D,null),gl.bindRenderbuffer(gl.RENDERBUFFER,null),gl.bindFramebuffer(gl.FRAMEBUFFER,null),t}function compileShader(e,r){e=gl.createShader(e);if(gl.shaderSource(e,r),gl.compileShader(e),gl.getShaderParameter(e,gl.COMPILE_STATUS))return e;r=gl.getShaderInfoLog(e);return gl.deleteShader(e),console.error(r),null}function createShader(e,r,t,o){e=compileShader(gl.VERTEX_SHADER,e),r=compileShader(gl.FRAGMENT_SHADER,r);if(null==e||null==r)return null;var n=gl.createProgram();if(gl.attachShader(n,e),gl.attachShader(n,r),gl.deleteShader(e),gl.deleteShader(r),gl.linkProgram(n),!gl.getProgramParameter(n,gl.LINK_STATUS)){r=gl.getProgramInfoLog(n);return console.error(r),null}if(t){n.uniforms={};for(var a=0;a<t.length;a++)n.uniforms[t[a]]=gl.getUniformLocation(n,t[a])}if(o){n.attributes={};for(a=0;a<o.length;a++){var i=o[a];n.attributes[i]=gl.getAttribLocation(n,i)}}return n}function useShader(e){for(var r in gl.useProgram(e),e.attributes)gl.enableVertexAttribArray(e.attributes[r])}function unuseShader(e){for(var r in e.attributes)gl.disableVertexAttribArray(e.attributes[r]);gl.useProgram(null)}renderSpec.setSize=function(e,r){renderSpec.width=e,renderSpec.height=r,renderSpec.aspect=renderSpec.width/renderSpec.height,renderSpec.array[0]=renderSpec.width,renderSpec.array[1]=renderSpec.height,renderSpec.array[2]=renderSpec.aspect,renderSpec.halfWidth=Math.floor(e/2),renderSpec.halfHeight=Math.floor(r/2),renderSpec.halfArray[0]=renderSpec.halfWidth,renderSpec.halfArray[1]=renderSpec.halfHeight,renderSpec.halfArray[2]=renderSpec.halfWidth/renderSpec.halfHeight};var projection={angle:60,nearfar:new Float32Array([.1,100]),matrix:Matrix44.createIdentity()},camera={position:Vector3.create(0,0,100),lookat:Vector3.create(0,0,0),up:Vector3.create(0,1,0),dof:Vector3.create(10,4,8),matrix:Matrix44.createIdentity()},pointFlower={},meshFlower={},sceneStandBy=!1,BlossomParticle=function(){this.velocity=new Array(3),this.rotation=new Array(3),this.position=new Array(3),this.euler=new Array(3),this.size=1,this.alpha=1,this.zkey=0};function createPointFlowers(){var e=gl.getParameter(gl.ALIASED_POINT_SIZE_RANGE);renderSpec.pointSize={min:e[0],max:e[1]};var r=document.getElementById("sakura_point_vsh").textContent,e=document.getElementById("sakura_point_fsh").textContent;pointFlower.program=createShader(r,e,["uProjection","uModelview","uResolution","uOffset","uDOF","uFade"],["aPosition","aEuler","aMisc"]),useShader(pointFlower.program),pointFlower.offset=new Float32Array([0,0,0]),pointFlower.fader=Vector3.create(0,10,0),pointFlower.numFlowers=1600,pointFlower.particles=new Array(pointFlower.numFlowers),pointFlower.dataArray=new Float32Array(8*pointFlower.numFlowers),pointFlower.positionArrayOffset=0,pointFlower.eulerArrayOffset=3*pointFlower.numFlowers,pointFlower.miscArrayOffset=6*pointFlower.numFlowers,pointFlower.buffer=gl.createBuffer(),gl.bindBuffer(gl.ARRAY_BUFFER,pointFlower.buffer),gl.bufferData(gl.ARRAY_BUFFER,pointFlower.dataArray,gl.DYNAMIC_DRAW),gl.bindBuffer(gl.ARRAY_BUFFER,null),unuseShader(pointFlower.program);for(var t=0;t<pointFlower.numFlowers;t++)pointFlower.particles[t]=new BlossomParticle}function initPointFlowers(){pointFlower.area=Vector3.create(20,20,20),pointFlower.area.x=pointFlower.area.y*renderSpec.aspect,pointFlower.fader.x=10,pointFlower.fader.y=pointFlower.area.z,pointFlower.fader.z=.1;function e(){return 2*Math.random()-1}for(var r,t=2*Math.PI,o=Vector3.create(0,0,0),n=0;n<pointFlower.numFlowers;n++){var a=pointFlower.particles[n];o.x=.3*e()+.8,o.y=.2*e()-1,o.z=.3*e()+.5,Vector3.normalize(o),r=+Math.random()+2,a.setVelocity(o.x*r,o.y*r,o.z*r),a.setRotation(e()*t*.5,e()*t*.5,e()*t*.5),a.setPosition(e()*pointFlower.area.x,e()*pointFlower.area.y,e()*pointFlower.area.z),a.setEulerAngles(Math.random()*Math.PI*2,Math.random()*Math.PI*2,Math.random()*Math.PI*2),a.setSize(.9+.1*Math.random())}}function renderPointFlowers(){function e(e,r,t){Math.abs(e.position[r])-.5*e.size>t&&(0<e.position[r]?e.position[r]-=2*t:e.position[r]+=2*t)}function r(e,r){e.euler[r]=e.euler[r]%t,e.euler[r]<0&&(e.euler[r]+=t)}for(var t=2*Math.PI,o=(pointFlower.area.x,pointFlower.area.y,pointFlower.area.z,0);o<pointFlower.numFlowers;o++)(l=pointFlower.particles[o]).update(timeInfo.delta,timeInfo.elapsed),e(l,0,pointFlower.area.x),e(l,1,pointFlower.area.y),e(l,2,pointFlower.area.z),r(l,0),r(l,1),r(l,2),l.alpha=1,l.zkey=camera.matrix[2]*l.position[0]+camera.matrix[6]*l.position[1]+camera.matrix[10]*l.position[2]+camera.matrix[14];pointFlower.particles.sort(function(e,r){return e.zkey-r.zkey});for(var n=pointFlower.positionArrayOffset,a=pointFlower.eulerArrayOffset,i=pointFlower.miscArrayOffset,o=0;o<pointFlower.numFlowers;o++){var l=pointFlower.particles[o];pointFlower.dataArray[n]=l.position[0],pointFlower.dataArray[n+1]=l.position[1],pointFlower.dataArray[n+2]=l.position[2],n+=3,pointFlower.dataArray[a]=l.euler[0],pointFlower.dataArray[a+1]=l.euler[1],pointFlower.dataArray[a+2]=l.euler[2],a+=3,pointFlower.dataArray[i]=l.size,pointFlower.dataArray[i+1]=l.alpha,i+=2}gl.enable(gl.BLEND),gl.blendFunc(gl.SRC_ALPHA,gl.ONE_MINUS_SRC_ALPHA);var f=pointFlower.program;useShader(f),gl.uniformMatrix4fv(f.uniforms.uProjection,!1,projection.matrix),gl.uniformMatrix4fv(f.uniforms.uModelview,!1,camera.matrix),gl.uniform3fv(f.uniforms.uResolution,renderSpec.array),gl.uniform3fv(f.uniforms.uDOF,Vector3.arrayForm(camera.dof)),gl.uniform3fv(f.uniforms.uFade,Vector3.arrayForm(pointFlower.fader)),gl.bindBuffer(gl.ARRAY_BUFFER,pointFlower.buffer),gl.bufferData(gl.ARRAY_BUFFER,pointFlower.dataArray,gl.DYNAMIC_DRAW),gl.vertexAttribPointer(f.attributes.aPosition,3,gl.FLOAT,!1,0,pointFlower.positionArrayOffset*Float32Array.BYTES_PER_ELEMENT),gl.vertexAttribPointer(f.attributes.aEuler,3,gl.FLOAT,!1,0,pointFlower.eulerArrayOffset*Float32Array.BYTES_PER_ELEMENT),gl.vertexAttribPointer(f.attributes.aMisc,2,gl.FLOAT,!1,0,pointFlower.miscArrayOffset*Float32Array.BYTES_PER_ELEMENT);for(o=1;o<2;o++){var c=-2*o;pointFlower.offset[0]=-1*pointFlower.area.x,pointFlower.offset[1]=-1*pointFlower.area.y,pointFlower.offset[2]=pointFlower.area.z*c,gl.uniform3fv(f.uniforms.uOffset,pointFlower.offset),gl.drawArrays(gl.POINT,0,pointFlower.numFlowers),pointFlower.offset[0]=-1*pointFlower.area.x,pointFlower.offset[1]=+pointFlower.area.y,pointFlower.offset[2]=pointFlower.area.z*c,gl.uniform3fv(f.uniforms.uOffset,pointFlower.offset),gl.drawArrays(gl.POINT,0,pointFlower.numFlowers),pointFlower.offset[0]=+pointFlower.area.x,pointFlower.offset[1]=-1*pointFlower.area.y,pointFlower.offset[2]=pointFlower.area.z*c,gl.uniform3fv(f.uniforms.uOffset,pointFlower.offset),gl.drawArrays(gl.POINT,0,pointFlower.numFlowers),pointFlower.offset[0]=+pointFlower.area.x,pointFlower.offset[1]=+pointFlower.area.y,pointFlower.offset[2]=pointFlower.area.z*c,gl.uniform3fv(f.uniforms.uOffset,pointFlower.offset),gl.drawArrays(gl.POINT,0,pointFlower.numFlowers)}pointFlower.offset[0]=0,pointFlower.offset[1]=0,pointFlower.offset[2]=0,gl.uniform3fv(f.uniforms.uOffset,pointFlower.offset),gl.drawArrays(gl.POINT,0,pointFlower.numFlowers),gl.bindBuffer(gl.ARRAY_BUFFER,null),unuseShader(f),gl.enable(gl.DEPTH_TEST),gl.disable(gl.BLEND)}function createEffectProgram(e,r,t,o){var n={},a=["uResolution","uSrc","uDelta"];t&&(a=a.concat(t));t=["aPosition"];return o&&(t=t.concat(o)),n.program=createShader(e,r,a,t),useShader(n.program),n.dataArray=new Float32Array([-1,-1,1,-1,-1,1,1,1]),n.buffer=gl.createBuffer(),gl.bindBuffer(gl.ARRAY_BUFFER,n.buffer),gl.bufferData(gl.ARRAY_BUFFER,n.dataArray,gl.STATIC_DRAW),gl.bindBuffer(gl.ARRAY_BUFFER,null),unuseShader(n.program),n}function useEffect(e,r){e=e.program;useShader(e),gl.uniform3fv(e.uniforms.uResolution,renderSpec.array),null!=r&&(gl.uniform2fv(e.uniforms.uDelta,r.dtxArray),gl.uniform1i(e.uniforms.uSrc,0),gl.activeTexture(gl.TEXTURE0),gl.bindTexture(gl.TEXTURE_2D,r.texture))}function drawEffect(e){gl.bindBuffer(gl.ARRAY_BUFFER,e.buffer),gl.vertexAttribPointer(e.program.attributes.aPosition,2,gl.FLOAT,!1,0,0),gl.drawArrays(gl.TRIANGLE_STRIP,0,4)}function unuseEffect(e){unuseShader(e.program)}BlossomParticle.prototype.setVelocity=function(e,r,t){this.velocity[0]=e,this.velocity[1]=r,this.velocity[2]=t},BlossomParticle.prototype.setRotation=function(e,r,t){this.rotation[0]=e,this.rotation[1]=r,this.rotation[2]=t},BlossomParticle.prototype.setPosition=function(e,r,t){this.position[0]=e,this.position[1]=r,this.position[2]=t},BlossomParticle.prototype.setEulerAngles=function(e,r,t){this.euler[0]=e,this.euler[1]=r,this.euler[2]=t},BlossomParticle.prototype.setSize=function(e){this.size=e},BlossomParticle.prototype.update=function(e,r){this.position[0]+=this.velocity[0]*e,this.position[1]+=this.velocity[1]*e,this.position[2]+=this.velocity[2]*e,this.euler[0]+=this.rotation[0]*e,this.euler[1]+=this.rotation[1]*e,this.euler[2]+=this.rotation[2]*e};var effectLib={};function createEffectLib(){var e=document.getElementById("fx_common_vsh").textContent,r=document.getElementById("bg_fsh").textContent;effectLib.sceneBg=createEffectProgram(e,r,["uTimes"],null),r=document.getElementById("fx_brightbuf_fsh").textContent,effectLib.mkBrightBuf=createEffectProgram(e,r,null,null),r=document.getElementById("fx_dirblur_r4_fsh").textContent,effectLib.dirBlur=createEffectProgram(e,r,["uBlurDir"],null),e=document.getElementById("pp_final_vsh").textContent,r=document.getElementById("pp_final_fsh").textContent,effectLib.finalComp=createEffectProgram(e,r,["uBloom"],null)}function createBackground(){}function initBackground(){}function renderBackground(){gl.disable(gl.DEPTH_TEST),useEffect(effectLib.sceneBg,null),gl.uniform2f(effectLib.sceneBg.program.uniforms.uTimes,timeInfo.elapsed,timeInfo.delta),drawEffect(effectLib.sceneBg),unuseEffect(effectLib.sceneBg),gl.enable(gl.DEPTH_TEST)}var postProcess={};function createPostProcess(){}function initPostProcess(){}function renderPostProcess(){gl.enable(gl.TEXTURE_2D),gl.disable(gl.DEPTH_TEST);function e(e,r){gl.bindFramebuffer(gl.FRAMEBUFFER,e.frameBuffer),gl.viewport(0,0,e.width,e.height),r&&(gl.clearColor(0,0,0,0),gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT))}e(renderSpec.wHalfRT0,!0),useEffect(effectLib.mkBrightBuf,renderSpec.mainRT),drawEffect(effectLib.mkBrightBuf),unuseEffect(effectLib.mkBrightBuf);for(var r=0;r<2;r++){var t=+r+1.5,o=+r+2;e(renderSpec.wHalfRT1,!0),useEffect(effectLib.dirBlur,renderSpec.wHalfRT0),gl.uniform4f(effectLib.dirBlur.program.uniforms.uBlurDir,t,0,o,0),drawEffect(effectLib.dirBlur),unuseEffect(effectLib.dirBlur),e(renderSpec.wHalfRT0,!0),useEffect(effectLib.dirBlur,renderSpec.wHalfRT1),gl.uniform4f(effectLib.dirBlur.program.uniforms.uBlurDir,0,t,0,o),drawEffect(effectLib.dirBlur),unuseEffect(effectLib.dirBlur)}gl.bindFramebuffer(gl.FRAMEBUFFER,null),gl.viewport(0,0,renderSpec.width,renderSpec.height),gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT),useEffect(effectLib.finalComp,renderSpec.mainRT),gl.uniform1i(effectLib.finalComp.program.uniforms.uBloom,1),gl.activeTexture(gl.TEXTURE1),gl.bindTexture(gl.TEXTURE_2D,renderSpec.wHalfRT0.texture),drawEffect(effectLib.finalComp),unuseEffect(effectLib.finalComp),gl.enable(gl.DEPTH_TEST)}var SceneEnv={};function createScene(){createEffectLib(),createBackground(),createPointFlowers(),createPostProcess(),sceneStandBy=!0}function initScene(){initBackground(),initPointFlowers(),initPostProcess(),camera.position.z=pointFlower.area.z+projection.nearfar[0],projection.angle=180*Math.atan2(pointFlower.area.y,camera.position.z+pointFlower.area.z)/Math.PI*2,Matrix44.loadProjection(projection.matrix,renderSpec.aspect,projection.angle,projection.nearfar[0],projection.nearfar[1])}function renderScene(){Matrix44.loadLookAt(camera.matrix,camera.position,camera.lookat,camera.up),gl.enable(gl.DEPTH_TEST),gl.bindFramebuffer(gl.FRAMEBUFFER,renderSpec.mainRT.frameBuffer),gl.viewport(0,0,renderSpec.mainRT.width,renderSpec.mainRT.height),gl.clearColor(.005,0,.05,0),gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT),renderBackground(),renderPointFlowers(),renderPostProcess()}function onResize(e){makeCanvasFullScreen(document.getElementById("sakura")),setViewports(),sceneStandBy&&initScene()}function setViewports(){renderSpec.setSize(gl.canvas.width,gl.canvas.height),gl.clearColor(.2,.2,.5,1),gl.viewport(0,0,renderSpec.width,renderSpec.height);function e(e,r,t){var o=renderSpec[e];o&&deleteRenderTarget(o),renderSpec[e]=createRenderTarget(r,t)}e("mainRT",renderSpec.width,renderSpec.height),e("wFullRT0",renderSpec.width,renderSpec.height),e("wFullRT1",renderSpec.width,renderSpec.height),e("wHalfRT0",renderSpec.halfWidth,renderSpec.halfHeight),e("wHalfRT1",renderSpec.halfWidth,renderSpec.halfHeight)}function render(){renderScene()}var animating=!0;function toggleAnimation(e){(animating^=!0)&&animate(),e&&(e.innerHTML=animating?"Stop":"Start")}function stepAnimation(){animating||animate()}function animate(){var e=new Date;timeInfo.elapsed=(e-timeInfo.start)/1e3,timeInfo.delta=(e-timeInfo.prev)/1e3,timeInfo.prev=e,animating&&requestAnimationFrame(animate),render()}function makeCanvasFullScreen(e){e.width=window.outerWidth,e.height=window.outerHeight}window.addEventListener("load",function(e){var r=document.getElementById("sakura");try{makeCanvasFullScreen(r),gl=r.getContext("experimental-webgl")}catch(e){return alert("WebGL not supported."+e),void console.error(e)}window.addEventListener("resize",onResize),setViewports(),createScene(),initScene(),timeInfo.start=new Date,timeInfo.prev=timeInfo.start,animate()}),function(r,e){r["r"+e]=r["r"+e]||r["webkitR"+e]||r["mozR"+e]||r["msR"+e]||r["oR"+e]||function(e){r.setTimeout(e,1e3/60)}}(window,"equestAnimationFrame")</script><meta name="generator" content="Hexo 5.4.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" onerror='onerror=null,src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp"' alt="avatar"></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">103</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">109</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">29</div></a></div></div></div><hr><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://travellings.now.sh"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 本站</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/random"><span>随机文章</span></a></li><li><a class="site-page" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://weidows.gitee.io"><i class="fa-fw fas fa-bath"></i><span> Gitee站</span></a></li><li><a class="site-page" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub站</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-rocket"></i><span> 传送门</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows-projects"><span>Weidows-projects</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows?tab=repositories"><span>GitHub仓库</span></a></li><li><a class="site-page" href="/generator"><span>几个生成器</span></a></li><li><a class="site-page" href="https://weidows.github.io/ssl"><span>SSL状态检测</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://stats.uptimerobot.com/22R3Pfkjzv"><span>站点状态检测</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery_data"><i class="fa-fw fas fa-camera"></i><span> 相册</span></a></li><li><a class="site-page" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li><li><a class="site-page" href="/tags/bangumis"><i class="fa-fw fas fa-laptop"></i><span> 番剧</span></a></li><li><a class="site-page" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/about"><i class="fa-fw fas fa-user"></i><span> -&gt;我&lt;-</span></a></li><li><a class="site-page" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image:url(https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg)"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">⭐️齐下无贰⭐️</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://travellings.now.sh"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 本站</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/random"><span>随机文章</span></a></li><li><a class="site-page" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://weidows.gitee.io"><i class="fa-fw fas fa-bath"></i><span> Gitee站</span></a></li><li><a class="site-page" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub站</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-rocket"></i><span> 传送门</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows-projects"><span>Weidows-projects</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows?tab=repositories"><span>GitHub仓库</span></a></li><li><a class="site-page" href="/generator"><span>几个生成器</span></a></li><li><a class="site-page" href="https://weidows.github.io/ssl"><span>SSL状态检测</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://stats.uptimerobot.com/22R3Pfkjzv"><span>站点状态检测</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery_data"><i class="fa-fw fas fa-camera"></i><span> 相册</span></a></li><li><a class="site-page" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li><li><a class="site-page" href="/tags/bangumis"><i class="fa-fw fas fa-laptop"></i><span> 番剧</span></a></li><li><a class="site-page" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/about"><i class="fa-fw fas fa-user"></i><span> -&gt;我&lt;-</span></a></li><li><a class="site-page" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">两种inject自定义Js/CSS文件方法 &amp;&amp; Pjax冲突解决方案</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-08-30T17:35:01.000Z" title="发表于 2020-08-31 01:35:01">2020-08-31</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-07-19T14:35:24.351Z" title="更新于 2021-07-19 22:35:24">2021-07-19</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/Web/">Web</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/Web/Node/">Node</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/Web/Node/Hexo/">Hexo</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">770</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>2分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span><span class="post-meta-separator">|</span><span class="post-meta-commentcount"><i class="far fa-comments fa-fw post-meta-icon"></i><span class="post-meta-label">评论数:</span><a href="/post/Web/Node/Hexo/inject_method/#post-comment"><span class="waline-comment-count" id="/post/Web/Node/Hexo/inject_method/"></span></a></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><ul><li><a href="#hexo-%E6%B8%B2%E6%9F%93">hexo 渲染</a></li><li><a href="#%E9%80%9A%E8%BF%87%E4%B8%BB%E9%A2%98%E6%96%87%E4%BB%B6%E6%B3%A8%E5%85%A5">通过主题文件注入</a></li><li><a href="#%E9%80%9A%E8%BF%87%E4%BF%AE%E6%94%B9%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6%E6%B3%A8%E5%85%A5">通过修改内部文件注入</a></li><li><a href="#pjax-%E4%BD%BF-js-%E6%B8%B2%E6%9F%93%E5%A4%B1%E6%95%88%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88">Pjax 使 JS 渲染失效解决方案</a><ul><li><a href="#%E6%96%87%E4%BB%B6%E5%AE%9A%E4%BD%8D">文件定位:</a></li></ul></li></ul><h1>hexo 渲染</h1><ul><li>不知道为啥,hexo 只渲染 source 下面*.html 文件,而不会渲染*.HTML 文件.</li></ul><hr><h1>通过主题文件注入</h1><ul><li>一般是写在<code>theme/xxx/source/</code>里的<code>js</code>和<code>css</code>里面</li><li>随便起个名字,比如我的叫 mine.js 和 mine.css,里面写上需要的内容</li><li>在主题配置文件<code>_config.yml</code>里找到<code>inject:</code>字段,一般 css 在 head,js 在 bottom 里,如下:</li></ul><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">inject:</span><br><span class="line">  head:</span><br><span class="line">    - &lt;link <span class="attribute">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attribute">href</span>=<span class="string">&quot;./css/mine.css&quot;</span>&gt;</span><br><span class="line">  bottom:</span><br><span class="line">    - &lt;script <span class="attribute">src</span>=<span class="string">&quot;./js/mine.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure><ul><li>但是务必注意这样引入只对<code>某一层</code>目录生效,比如上面只对 public/第一层目录生效,其中子目录无效,如果想使其生效:</li></ul><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">inject:</span><br><span class="line">  head:</span><br><span class="line">    - &lt;link <span class="attribute">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attribute">href</span>=<span class="string">&quot;./css/mine.css&quot;</span>&gt;</span><br><span class="line">    - &lt;link <span class="attribute">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attribute">href</span>=<span class="string">&quot;../css/mine.css&quot;</span>&gt;</span><br><span class="line">    - &lt;link <span class="attribute">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attribute">href</span>=<span class="string">&quot;../../css/mine.css&quot;</span>&gt;</span><br><span class="line">  bottom:</span><br><span class="line">    - &lt;script <span class="attribute">src</span>=<span class="string">&quot;./js/mine.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line">    - &lt;script <span class="attribute">src</span>=<span class="string">&quot;../js/mine.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line">    - &lt;script <span class="attribute">src</span>=<span class="string">&quot;../../js/mine.js&quot;</span>&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure><ul><li>喏,这样是让第一二三层生效了,以此类推.</li></ul><hr><h1>通过修改内部文件注入</h1><ul><li>首先操作如上面一样新建文件并写好 js 和 css 文件,只是注入方式不同</li><li>找到<code>theme/xxx/layout/include/layout.pug</code>,在内部添加如下:</li></ul><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">script(<span class="attribute">src</span>=<span class="string">&#x27;js/mine.js&#x27;</span>)</span><br><span class="line">link(<span class="attribute">rel</span>=<span class="string">&#x27;stylesheet&#x27;</span>, <span class="attribute">href</span>=<span class="string">&#x27;css/mine.css&#x27;</span>)</span><br></pre></td></tr></table></figure><ul><li>这两个分别是引入 js 和 css,可以分别在 body 和 head 里加入,注意缩进格式!</li><li>解释:<ul><li>在 Hexo generate 时会把<code>theme/xxx/source/</code>里你写的文件复制到<code>public/</code>对应目录里</li><li>一般 Hexo 在引用时根目录是<code>public/</code>,所以上面找的是<code>public/js/mine.js</code>和<code>public/css/mine.css</code></li><li>这样注入可能因为渲染位置和时机不对而未生效,需要酌情使用</li></ul></li></ul><hr><h1>Pjax 使 JS 渲染失效解决方案</h1><ul><li>用过的都知道 Pjax 可以让网页在非跳转的情况下局部刷新来使网页加载速度提升</li><li>但是会带来非常多的 Bug,比如某些依赖 JS 渲染和加载的插件无效化,或者监听和交互不奏效</li><li>网上搜的有些是让各种插件本身屈服 Pjax 各种修改渲染策略</li><li>这里提出一个虽然不是新方法但是也是个不错的解决方案:</li></ul><hr><h2 id="文件定位">文件定位:</h2><ul><li>这里修改的是 Butterfly 自带的 Pjax 第三方 pug,如有不同需要自行查找</li><li>找到<code>themes/butterfly/layout/includes/third-party/pjax.pug</code>,打开开始修改</li><li>定位 <code>document.addEventListener('pjax:complete', function ()</code>这一行,这是监听 Pjax 跳转页面是否完成的函数,并执行跳转完成后的指令</li><li>原理就是让 Pjax 加载完成页面后再让 JS 渲染一遍(但是可能有些局部渲染还是无法生效)</li><li>复制需要重载的 JS,粘贴到这个函数括号内部,并 Hexo Server 测试一下,如不生效也没法治了…</li></ul></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">⎛⎝Weidows⎠⎞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://weidows.github.io/post/Web/Node/Hexo/inject_method/">https://weidows.github.io/post/Web/Node/Hexo/inject_method/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://weidows.github.io" target="_blank">⭐️齐下无贰⭐️</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E5%A4%87%E5%BF%98%E5%BD%95/">备忘录</a><a class="post-meta__tags" href="/tags/Website/">Website</a><a class="post-meta__tags" href="/tags/HTML/">HTML</a><a class="post-meta__tags" href="/tags/CSS/">CSS</a><a class="post-meta__tags" href="/tags/Hexo/">Hexo</a><a class="post-meta__tags" href="/tags/Pjax/">Pjax</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css" media="print" onload='this.media="all"'><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button button--animated"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_ful.jpeg" target="_blank"><img class="post-qr-code-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat.jpeg" alt="微信"></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/alipay_ful.jpeg" target="_blank"><img class="post-qr-code-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/alipay.jpeg" alt="支付宝"></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/post/experience/shell/shell/"><img class="prev-cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg" onerror='onerror=null,src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg"' alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">💧一些常用终端命令.</div></div></a></div><div class="next-post pull-right"><a href="/post/Web/Node/Hexo/Hexo-fansy.mmd/"><img class="next-cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg" onerror='onerror=null,src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg"' alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">Hexo-pages里一些奇奇怪怪的写法</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span> 相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/Web/Node/Hexo/Hexo-fansy.mmd/" title="Hexo-pages里一些奇奇怪怪的写法"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">Hexo-pages里一些奇奇怪怪的写法</div></div></a></div><div><a href="/post/tools/Git/GitHub-Pages-deploy/" title="一篇扫清:GitHub-Pages自动化部署 + github/gitee选择"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">一篇扫清:GitHub-Pages自动化部署 + github/gitee选择</div></div></a></div><div><a href="/post/Web/Node/Hexo/Hexo-plugin/" title="淦翻Hexo各种插件安装+调试"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/kMeomhHj91xn6T2.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">淦翻Hexo各种插件安装+调试</div></div></a></div><div><a href="/post/experience/PHP_interface/" title="关于在不会PHP的情况下调用PHP API"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Dxy6jwQotKsIEX5.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">关于在不会PHP的情况下调用PHP API</div></div></a></div><div><a href="/post/Web/css/ClassKeyWords/" title="CSS命名规范"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">CSS命名规范</div></div></a></div><div><a href="/post/Web/Node/Hexo/Hexo-SEO/" title="👌Hexo-SEO 搜索引擎优化"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">👌Hexo-SEO 搜索引擎优化</div></div></a></div></div></div><hr><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="card-info-avatar is-center"><img class="avatar-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" onerror='this.onerror=null,this.src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp"' alt="avatar"><div class="author-info__name">⎛⎝Weidows⎠⎞</div><div class="author-info__description">油盐齐下，锅铲无贰。</div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">103</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">109</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">29</div></a></div></div><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Weidows" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:utsuko27@qq.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg" target="_blank" title="QQ号"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg" target="_blank" title="微信号"><i class="fab fa-weixin"></i></a><a class="social-icon" href="/+86-18330785221" target="_blank" title="手机号"><i class="fad fa-phone-rotary"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn card-announcement-animation"></i><span>公告</span></div><div class="announcement_content"><center><h2 style="color:#0ff">-> 欢迎,锟斤拷! <-</h2><img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/aimi.png"><h2 style="color:#ff1493">站内图片需要IPv6加载</h2></center></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">1.</span> <span class="toc-text">hexo 渲染</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">2.</span> <span class="toc-text">通过主题文件注入</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">3.</span> <span class="toc-text">通过修改内部文件注入</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">4.</span> <span class="toc-text">Pjax 使 JS 渲染失效解决方案</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%96%87%E4%BB%B6%E5%AE%9A%E4%BD%8D"><span class="toc-number">4.1.</span> <span class="toc-text">文件定位:</span></a></li></ol></li></ol></div></div></div></div></main><footer id="footer" style="background-image:url(https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg)"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2021 <i style="color:#ff6a6a" class="fa fa-heartbeat"></i> ⎛⎝Weidows⎠⎞</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://gitee.com/Weidows/Weidows" target="_blank" title="静态网页托管于 Github + Gitee" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Github + Gitee-Pages</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.jsdelivr.com/" target="_blank" title="jsDelivr + SM.MS 提供 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">JsDelivr + SM.MS</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://www.beian.miit.gov.cn/" target="_blank" title="备案" data-pjax-state=""><span class="badge-subject">冀ICP备</span><span class="badge-value bg-orange">2333-3号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"></div></div></div><hr><div id="local-search-results"></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (true){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/js/search/local-search.js"></script><script>var preloader = {
+  endLoading: () => {
+    document.body.style.overflow = 'auto';
+    document.getElementById('loading-box').classList.add("loaded")
+  },
+  initLoading: () => {
+    document.body.style.overflow = '';
+    document.getElementById('loading-box').classList.remove("loaded")
+
+  }
+}
+window.addEventListener('load',preloader.endLoading())</script><div class="js-pjax"><script>if (document.getElementsByClassName('mermaid').length) {
+  if (window.mermaidJsLoad) mermaid.init()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(() => {
+      window.mermaidJsLoad = true
+      mermaid.initialize({
+        theme: 'default',
+      })
+      true && mermaid.init()
+    })
+  }
+}</script><script>function loadWaline(){function e(){let e={el:"#waline-wrap",serverURL:"https://waline-sigma.vercel.app",avatar:"monsterid",path:location.pathname,emojiCDN:"",emojiMaps:{"heo-再见":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/再见.png","heo-呲牙笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呲牙笑.png","heo-微笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/微笑.png","heo-亲亲":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/亲亲.png","heo-愤怒":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/愤怒.png","heo-惊吓":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惊吓.png","heo-尴尬":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/尴尬.png","heo-捂嘴笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/捂嘴笑.png","heo-捂脸":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/捂脸.png","heo-生病":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/生病.png","heo-绿帽":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/绿帽.png","heo-鼓掌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/鼓掌.png","heo-抠鼻":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/抠鼻.png","heo-感动":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/感动.png","heo-吐血":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吐血.png","heo-鬼脸":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/鬼脸.png","heo-擦汗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/擦汗.png","heo-惊讶":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惊讶.png","heo-恶心":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/恶心.png","heo-禁言":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/禁言.png","heo-睡觉":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/睡觉.png","heo-笑哭":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/笑哭.png","heo-思考":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/思考.png","heo-疑问":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疑问.png","heo-奋斗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/奋斗.png","heo-耍酷":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/耍酷.png","heo-吵架":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吵架.png","heo-眩晕":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/眩晕.png","heo-哭泣":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哭泣.png","heo-开心":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/开心.png","heo-害羞":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/害羞.png","heo-喜欢":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/喜欢.png","heo-烦恼":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/烦恼.png","heo-爆炸":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/爆炸.png","heo-熬夜":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熬夜.png","heo-吃瓜":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吃瓜.png","heo-阴险":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/阴险.png","heo-狗头":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头.png","heo-滑稽":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽.png","heo-被打":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/被打.png","heo-哈士奇":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇.png","heo-大笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/大笑.png","heo-加班":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/加班.png","heo-唱歌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/唱歌.png","heo-纠结":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/纠结.png","heo-发红包":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/发红包.png","heo-送福":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/送福.png","heo-牛年进宝":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/牛年进宝.png","heo-狗头围脖":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头围脖.png","heo-狗头花":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头花.png","heo-狗头草":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头草.png","heo-头秃":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/头秃.png","heo-狗头胖次":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头胖次.png","heo-我看好你":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png","heo-好的":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好的.png","heo-好奇":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好奇.png","heo-偷偷看":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/偷偷看.png","heo-危险":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/危险.png","heo-小丑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小丑.png","heo-引起不适":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/引起不适.png","heo-滑稽喝水":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽喝水.png","heo-熊猫":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫.png","heo-熊猫唱歌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫唱歌.png","heo-打牌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打牌.png","heo-哈士奇失去意识":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇失去意识.png","heo-应援":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/应援.png","heo-熊猫喜欢":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫喜欢.png","heo-疼痛":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疼痛.png","heo-勉强笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/勉强笑.png","heo-看穿一切":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/看穿一切.png","heo-滑稽狂汗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽狂汗.png","heo-不好意思":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png","heo-菜狗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗.png","heo-难以置信":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/难以置信.png","heo-月饼":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/月饼.png","heo-滑稽被子":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png","heo-倚墙笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png","heo-出家人":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png","heo-菜狗花":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗花.png","heo-黑线":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/黑线.png","heo-呦吼":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呦吼.png","heo-有没有搞错":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png","heo-打咩":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打咩.png","heo-扶额":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/扶额.png"}};new Waline(e)}"function"==typeof Waline?e():getScript("https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js").then(e)}function loadOtherComment(){loadWaline()}setTimeout(loadWaline,0)</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
+  'title',
+  '#config-diff',
+  '#body-wrap',
+  '#rightside-config-hide',
+  '#rightside-config-show',
+  '.js-pjax'
+]
+
+if (false) {
+  pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
+}
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  if (typeof gtag === 'function') {
+    gtag('config', '', {'page_path': window.location.pathname});
+  }
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // Analytics
+  if (false) {
+    MtaH5.pgv()
+  }
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+
+  Weidows.re();
+})
+
+document.addEventListener('pjax:send', function () {
+  typeof preloader === 'object' && preloader.initLoading()
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script data-pjax src="https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js"></script><script data-pjax>function GithubCalendarConfig(){var t=document.getElementById("recent-posts");t&&"/"==location.pathname&&(console.log("已挂载github calendar"),t.insertAdjacentHTML("afterbegin",'<div class="recent-post-item" style="width:100%;height:auto;padding:10px;"><div id="github_loading" style="width:10%;height:100%;margin:0 auto;display: block"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 50 50" style="enable-background:new 0 0 50 50" xml:space="preserve"><path fill="#d0d0d0" d="M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z" transform="rotate(275.098 25 25)"><animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform></path></svg></div><div id="github_container"></div></div>')),GithubCalendar("https://python-github-calendar-api.vercel.app/api?Weidows",["#ebedf0","#fdcdec","#fc9bd9","#fa6ac5","#f838b2","#f5089f","#c4067e","#92055e","#540336","#48022f","#30021f"],"Weidows")}document.getElementById("recent-posts")&&GithubCalendarConfig()</script><style>#github_container{min-height:280px}@media screen and (max-width:650px){#github_container{min-height:0}}</style><style></style><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({pluginRootPath:"live2dw/",pluginJsPath:"lib/",pluginModelPath:"assets/",tagMode:!1,debug:!1,model:{jsonPath:"/live2dw/assets/tororo.model.json"},display:{position:"left",width:180,height:300},mobile:{show:!1},react:{opacity:.7},log:!1})</script></body></html>

@@ -1,0 +1,2210 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hexo-pages里一些奇奇怪怪的写法 | ⭐️齐下无贰⭐️</title><meta name="keywords" content="备忘录,Website,Markdown,HTML,Hexo"><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="Hexo 文章标题 &amp; 格式  肯定要背过的 以下是没用过或无效的   标签外挂 Gallery 相册图库  div 式写法 效果: 另一种相册形式(自动排列)   tag-hide  inline(一行内) Block(块) toggle(收缩框)   mermaid tabs(标签块) Button  写法: 好康的 demo:   _config.yml 图片引入  Hexo 文">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hexo-pages里一些奇奇怪怪的写法">
+<meta property="og:url" content="https://weidows.github.io/post/Web/Node/Hexo/Hexo-fansy.mmd/">
+<meta property="og:site_name" content="⭐️齐下无贰⭐️">
+<meta property="og:description" content="Hexo 文章标题 &amp; 格式  肯定要背过的 以下是没用过或无效的   标签外挂 Gallery 相册图库  div 式写法 效果: 另一种相册形式(自动排列)   tag-hide  inline(一行内) Block(块) toggle(收缩框)   mermaid tabs(标签块) Button  写法: 好康的 demo:   _config.yml 图片引入  Hexo 文">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg">
+<meta property="article:published_time" content="2020-08-26T17:13:03.000Z">
+<meta property="article:modified_time" content="2021-07-19T14:35:24.351Z">
+<meta property="article:author" content="⎛⎝Weidows⎠⎞">
+<meta property="article:tag" content="备忘录">
+<meta property="article:tag" content="Website">
+<meta property="article:tag" content="Markdown">
+<meta property="article:tag" content="HTML">
+<meta property="article:tag" content="Hexo">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg"><link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/tudoulei.png"><link rel="canonical" href="https://weidows.github.io/post/Web/Node/Hexo/Hexo-fansy.mmd/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta name="google-site-verification" content="63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y"/><meta name="google-site-verification" content="TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY"/><meta name="msvalidate.01" content="B99F807E806B2C297FF5818253DDD408"/><meta name="baidu-site-verification" content="code-82v5yxnEC4"/><meta name="baidu-site-verification" content="code-iDy54Uv2f1"/><meta name="baidu-site-verification" content="code-IfmDfNug1l"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    jQuery: 'https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js',
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+    },
+    fancybox: {
+      js: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isanchor: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = { 
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2021-07-19 22:35:24'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    })(window)</script><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script>var Weidows = {
+  //- 判断移动端设备
+  device: function () {
+    var sUserAgent = navigator.userAgent.toLowerCase();
+    var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+    var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+    var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+    var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+    var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+    var bIsAndroid = sUserAgent.match(/android/i) == "android";
+    var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+    var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+    if (
+      !(
+        bIsIpad ||
+        bIsIphoneOs ||
+        bIsMidp ||
+        bIsUc7 ||
+        bIsUc ||
+        bIsAndroid ||
+        bIsCE ||
+        bIsWM
+      )
+    ) {
+      //- this.footFish();
+    }
+  },
+  //- 变换标题
+  cheatTitle: function () {
+    let i, o = document.title,herf=$('[rel="shortcut icon"]').attr("href");
+    document.addEventListener("visibilitychange", function () {
+      document.hidden
+        ? ($('[rel="shortcut icon"]').attr(
+            "href",
+            "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/74ef2ed780ee230c08866adfa01dbe297b5467b4.png"
+          ),
+          (document.title = "你滴,过来滴干活! |"+o),
+          clearTimeout(i))
+        : ($('[rel="shortcut icon"]').attr(
+            "href",
+            "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png"
+          ),
+          (document.title = "你滴,良民滴干活! |"+o),
+          (i = setTimeout(function () {
+              document.title = o;
+              $('[rel="shortcut icon"]').attr(
+                "href",
+                herf
+              );
+            }, 2e3)));
+    });
+  },
+  //- 页脚footer养鱼
+  footFish: function () {
+    $("#footer-wrap").css({
+      position: "absolute",
+      "text-align": "center",
+      top: 0,
+      right: 0,
+      left: 0,
+      bottom: 0,
+      // "z-index": 99,
+    }),
+      $("footer").append(
+        '<div class="container" id="jsi-flying-fish-container"></div>'
+      );
+    var RENDERER = {
+      POINT_INTERVAL: 5,
+      FISH_COUNT: 3,
+      MAX_INTERVAL_COUNT: 50,
+      INIT_HEIGHT_RATE: 0.5,
+      THRESHOLD: 50,
+
+      init: function () {
+        this.setParameters();
+        this.reconstructMethods();
+        this.setup();
+        this.bindEvent();
+        this.render();
+      },
+      setParameters: function () {
+        this.$window = $(window);
+        this.$container = $("#jsi-flying-fish-container");
+        this.$canvas = $("<canvas />");
+        this.context = this.$canvas
+          .appendTo(this.$container)
+          .get(0)
+          .getContext("2d");
+        this.points = [];
+        this.fishes = [];
+        this.watchIds = [];
+      },
+      createSurfacePoints: function () {
+        var count = Math.round(this.width / this.POINT_INTERVAL);
+        this.pointInterval = this.width / (count - 1);
+        this.points.push(new SURFACE_POINT(this, 0));
+
+        for (var i = 1; i < count; i++) {
+          var point = new SURFACE_POINT(this, i * this.pointInterval),
+            previous = this.points[i - 1];
+
+          point.setPreviousPoint(previous);
+          previous.setNextPoint(point);
+          this.points.push(point);
+        }
+      },
+      reconstructMethods: function () {
+        this.watchWindowSize = this.watchWindowSize.bind(this);
+        this.jdugeToStopResize = this.jdugeToStopResize.bind(this);
+        this.startEpicenter = this.startEpicenter.bind(this);
+        this.moveEpicenter = this.moveEpicenter.bind(this);
+        this.reverseVertical = this.reverseVertical.bind(this);
+        this.render = this.render.bind(this);
+      },
+      setup: function () {
+        this.points.length = 0;
+        this.fishes.length = 0;
+        this.watchIds.length = 0;
+        this.intervalCount = this.MAX_INTERVAL_COUNT;
+        this.width = this.$container.width();
+        this.height = this.$container.height();
+        this.fishCount =
+          (((this.FISH_COUNT * this.width) / 500) * this.height) / 500;
+        this.$canvas.attr({ width: this.width, height: this.height });
+        this.reverse = false;
+
+        this.fishes.push(new FISH(this));
+        this.createSurfacePoints();
+      },
+      watchWindowSize: function () {
+        this.clearTimer();
+        this.tmpWidth = this.$window.width();
+        this.tmpHeight = this.$window.height();
+        this.watchIds.push(
+          setTimeout(this.jdugeToStopResize, this.WATCH_INTERVAL)
+        );
+      },
+      clearTimer: function () {
+        while (this.watchIds.length > 0) {
+          clearTimeout(this.watchIds.pop());
+        }
+      },
+      jdugeToStopResize: function () {
+        var width = this.$window.width(),
+          height = this.$window.height(),
+          stopped = width == this.tmpWidth && height == this.tmpHeight;
+
+        this.tmpWidth = width;
+        this.tmpHeight = height;
+
+        if (stopped) {
+          this.setup();
+        }
+      },
+      bindEvent: function () {
+        this.$window.on("resize", this.watchWindowSize);
+        this.$container.on("mouseenter", this.startEpicenter);
+        this.$container.on("mousemove", this.moveEpicenter);
+        this.$container.on("click", this.reverseVertical);
+      },
+      getAxis: function (event) {
+        var offset = this.$container.offset();
+
+        return {
+          x: event.clientX - offset.left + this.$window.scrollLeft(),
+          y: event.clientY - offset.top + this.$window.scrollTop(),
+        };
+      },
+      startEpicenter: function (event) {
+        this.axis = this.getAxis(event);
+      },
+      moveEpicenter: function (event) {
+        var axis = this.getAxis(event);
+
+        if (!this.axis) {
+          this.axis = axis;
+        }
+        this.generateEpicenter(axis.x, axis.y, axis.y - this.axis.y);
+        this.axis = axis;
+      },
+      generateEpicenter: function (x, y, velocity) {
+        if (
+          y < this.height / 2 - this.THRESHOLD ||
+          y > this.height / 2 + this.THRESHOLD
+        ) {
+          return;
+        }
+        var index = Math.round(x / this.pointInterval);
+
+        if (index < 0 || index >= this.points.length) {
+          return;
+        }
+        this.points[index].interfere(y, velocity);
+      },
+      reverseVertical: function () {
+        this.reverse = !this.reverse;
+
+        for (var i = 0, count = this.fishes.length; i < count; i++) {
+          this.fishes[i].reverseVertical();
+        }
+      },
+      controlStatus: function () {
+        for (var i = 0, count = this.points.length; i < count; i++) {
+          this.points[i].updateSelf();
+        }
+        for (var i = 0, count = this.points.length; i < count; i++) {
+          this.points[i].updateNeighbors();
+        }
+        if (this.fishes.length < this.fishCount) {
+          if (--this.intervalCount == 0) {
+            this.intervalCount = this.MAX_INTERVAL_COUNT;
+            this.fishes.push(new FISH(this));
+          }
+        }
+      },
+      render: function () {
+        requestAnimationFrame(this.render);
+        this.controlStatus();
+        this.context.clearRect(0, 0, this.width, this.height);
+        this.context.fillStyle = "hsl(0, 0%, 95%)";
+
+        for (var i = 0, count = this.fishes.length; i < count; i++) {
+          this.fishes[i].render(this.context);
+        }
+        this.context.save();
+        this.context.globalCompositeOperation = "xor";
+        this.context.beginPath();
+        this.context.moveTo(0, this.reverse ? 0 : this.height);
+
+        for (var i = 0, count = this.points.length; i < count; i++) {
+          this.points[i].render(this.context);
+        }
+        this.context.lineTo(this.width, this.reverse ? 0 : this.height);
+        this.context.closePath();
+        this.context.fill();
+        this.context.restore();
+      },
+    };
+    var SURFACE_POINT = function (renderer, x) {
+      this.renderer = renderer;
+      this.x = x;
+      this.init();
+    };
+    SURFACE_POINT.prototype = {
+      SPRING_CONSTANT: 0.03,
+      SPRING_FRICTION: 0.9,
+      WAVE_SPREAD: 0.3,
+      ACCELARATION_RATE: 0.01,
+
+      init: function () {
+        this.initHeight =
+          this.renderer.height * this.renderer.INIT_HEIGHT_RATE;
+        this.height = this.initHeight;
+        this.fy = 0;
+        this.force = { previous: 0, next: 0 };
+      },
+      setPreviousPoint: function (previous) {
+        this.previous = previous;
+      },
+      setNextPoint: function (next) {
+        this.next = next;
+      },
+      interfere: function (y, velocity) {
+        this.fy =
+          this.renderer.height *
+          this.ACCELARATION_RATE *
+          (this.renderer.height - this.height - y >= 0 ? -1 : 1) *
+          Math.abs(velocity);
+      },
+      updateSelf: function () {
+        this.fy += this.SPRING_CONSTANT * (this.initHeight - this.height);
+        this.fy *= this.SPRING_FRICTION;
+        this.height += this.fy;
+      },
+      updateNeighbors: function () {
+        if (this.previous) {
+          this.force.previous =
+            this.WAVE_SPREAD * (this.height - this.previous.height);
+        }
+        if (this.next) {
+          this.force.next =
+            this.WAVE_SPREAD * (this.height - this.next.height);
+        }
+      },
+      render: function (context) {
+        if (this.previous) {
+          this.previous.height += this.force.previous;
+          this.previous.fy += this.force.previous;
+        }
+        if (this.next) {
+          this.next.height += this.force.next;
+          this.next.fy += this.force.next;
+        }
+        context.lineTo(this.x, this.renderer.height - this.height);
+      },
+    };
+    var FISH = function (renderer) {
+      this.renderer = renderer;
+      this.init();
+    };
+    FISH.prototype = {
+      GRAVITY: 0.4,
+
+      init: function () {
+        this.direction = Math.random() < 0.5;
+        this.x = this.direction
+          ? this.renderer.width + this.renderer.THRESHOLD
+          : -this.renderer.THRESHOLD;
+        this.previousY = this.y;
+        this.vx = this.getRandomValue(4, 10) * (this.direction ? -1 : 1);
+
+        if (this.renderer.reverse) {
+          this.y = this.getRandomValue(
+            (this.renderer.height * 1) / 10,
+            (this.renderer.height * 4) / 10
+          );
+          this.vy = this.getRandomValue(2, 5);
+          this.ay = this.getRandomValue(0.05, 0.2);
+        } else {
+          this.y = this.getRandomValue(
+            (this.renderer.height * 6) / 10,
+            (this.renderer.height * 9) / 10
+          );
+          this.vy = this.getRandomValue(-5, -2);
+          this.ay = this.getRandomValue(-0.2, -0.05);
+        }
+        this.isOut = false;
+        this.theta = 0;
+        this.phi = 0;
+      },
+      getRandomValue: function (min, max) {
+        return min + (max - min) * Math.random();
+      },
+      reverseVertical: function () {
+        this.isOut = !this.isOut;
+        this.ay *= -1;
+      },
+      controlStatus: function (context) {
+        this.previousY = this.y;
+        this.x += this.vx;
+        this.y += this.vy;
+        this.vy += this.ay;
+
+        if (this.renderer.reverse) {
+          if (
+            this.y >
+            this.renderer.height * this.renderer.INIT_HEIGHT_RATE
+          ) {
+            this.vy -= this.GRAVITY;
+            this.isOut = true;
+          } else {
+            if (this.isOut) {
+              this.ay = this.getRandomValue(0.05, 0.2);
+            }
+            this.isOut = false;
+          }
+        } else {
+          if (
+            this.y <
+            this.renderer.height * this.renderer.INIT_HEIGHT_RATE
+          ) {
+            this.vy += this.GRAVITY;
+            this.isOut = true;
+          } else {
+            if (this.isOut) {
+              this.ay = this.getRandomValue(-0.2, -0.05);
+            }
+            this.isOut = false;
+          }
+        }
+        if (!this.isOut) {
+          this.theta += Math.PI / 20;
+          this.theta %= Math.PI * 2;
+          this.phi += Math.PI / 30;
+          this.phi %= Math.PI * 2;
+        }
+        this.renderer.generateEpicenter(
+          this.x + (this.direction ? -1 : 1) * this.renderer.THRESHOLD,
+          this.y,
+          this.y - this.previousY
+        );
+
+        if (
+          (this.vx > 0 &&
+            this.x > this.renderer.width + this.renderer.THRESHOLD) ||
+          (this.vx < 0 && this.x < -this.renderer.THRESHOLD)
+        ) {
+          this.init();
+        }
+      },
+      render: function (context) {
+        context.save();
+        context.translate(this.x, this.y);
+        context.rotate(Math.PI + Math.atan2(this.vy, this.vx));
+        context.scale(1, this.direction ? 1 : -1);
+        context.beginPath();
+        context.moveTo(-30, 0);
+        context.bezierCurveTo(-20, 15, 15, 10, 40, 0);
+        context.bezierCurveTo(15, -10, -20, -15, -30, 0);
+        context.fill();
+
+        context.save();
+        context.translate(40, 0);
+        context.scale(0.9 + 0.2 * Math.sin(this.theta), 1);
+        context.beginPath();
+        context.moveTo(0, 0);
+        context.quadraticCurveTo(5, 10, 20, 8);
+        context.quadraticCurveTo(12, 5, 10, 0);
+        context.quadraticCurveTo(12, -5, 20, -8);
+        context.quadraticCurveTo(5, -10, 0, 0);
+        context.fill();
+        context.restore();
+
+        context.save();
+        context.translate(-3, 0);
+        context.rotate(
+          (Math.PI / 3 + (Math.PI / 10) * Math.sin(this.phi)) *
+            (this.renderer.reverse ? -1 : 1)
+        );
+
+        context.beginPath();
+
+        if (this.renderer.reverse) {
+          context.moveTo(5, 0);
+          context.bezierCurveTo(10, 10, 10, 30, 0, 40);
+          context.bezierCurveTo(-12, 25, -8, 10, 0, 0);
+        } else {
+          context.moveTo(-5, 0);
+          context.bezierCurveTo(-10, -10, -10, -30, 0, -40);
+          context.bezierCurveTo(12, -25, 8, -10, 0, 0);
+        }
+        context.closePath();
+        context.fill();
+        context.restore();
+        context.restore();
+        this.controlStatus(context);
+      },
+    };
+    $(function () {
+      RENDERER.init();
+    });
+  },
+  //- 添加功能性标签
+  appender: function () {
+    document.getElementById("go-up").innerHTML +=
+      "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='data:image/png;base64,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' title='芜湖起飞!' >";
+    if((document.getElementById("page-header-child-1")==null)&&(document.getElementById("recent-posts")!=null)){
+      //- 添加视觉差名片
+      let child1 = document.createElement("div"),
+      child2 = document.createElement("div");
+      child1.id = "page-header-child-1";
+      child2.id = "page-header-child-2";
+      document.getElementById("page-header").prepend(child1,child2);
+    }
+    //- sakura animation
+    if(document.getElementById("sakura")==null){
+      document.getElementById("web_bg").innerHTML += "<canvas id='sakura' style='position: relative;width: 100%;height: 100vh;'></canvas>";
+    }
+  },
+  //- 终端输出
+  log: function () {
+    setTimeout(function () {
+      console.clear();
+      console.log(
+        "%c  _  _  ____  __  ____   __   _  _  ____ \t齐下无贰 Listening...\n / )( \\(  __)(  )(    \\ /  \\ / )( \\/ ___) \thttps://github.com/Weidows\n \\ /\\ / ) _)  )(  ) D ((  O )\\ /\\ /\\___ \\ \thttps://gitee.com/Weidows\n (_/\\_)(____)(__)(____/ \\__/ (_/\\_)(____/ \t来这想干点啥好事⁉?😉\n",
+        "color: #6aff00;background: #0c222e;"
+      );
+    }, 1);
+  },
+  //- 初始化
+  all: function () {
+    //- this.device();
+    this.cheatTitle();
+    this.appender();
+    this.log();
+  },
+  //- 适配pjax刷新
+  re: function () {
+    //- this.device();
+    this.appender();
+  },
+};
+</script><!--  sakura shader--><script id="sakura_point_vsh" type="x-shader/x_vertex">uniform mat4 uProjection;
+      uniform mat4 uModelview;
+      uniform vec3 uResolution;
+      uniform vec3 uOffset;
+      uniform vec3 uDOF;  //x:focus distance, y:focus radius, z:max radius
+      uniform vec3 uFade; //x:start distance, y:half distance, z:near fade start
+
+      attribute vec3 aPosition;
+      attribute vec3 aEuler;
+      attribute vec2 aMisc; //x:size, y:fade
+
+      varying vec3 pposition;
+      varying float psize;
+      varying float palpha;
+      varying float pdist;
+
+      //varying mat3 rotMat;
+      varying vec3 normX;
+      varying vec3 normY;
+      varying vec3 normZ;
+      varying vec3 normal;
+
+      varying float diffuse;
+      varying float specular;
+      varying float rstop;
+      varying float distancefade;
+
+      void main(void) {
+          // Projection is based on vertical angle
+          vec4 pos = uModelview * vec4(aPosition + uOffset, 1.0);
+          gl_Position = uProjection * pos;
+          gl_PointSize = aMisc.x * uProjection[1][1] / -pos.z * uResolution.y * 0.5;
+
+          pposition = pos.xyz;
+          psize = aMisc.x;
+          pdist = length(pos.xyz);
+          palpha = smoothstep(0.0, 1.0, (pdist - 0.1) / uFade.z);
+
+          vec3 elrsn = sin(aEuler);
+          vec3 elrcs = cos(aEuler);
+          mat3 rotx = mat3(
+              1.0, 0.0, 0.0,
+              0.0, elrcs.x, elrsn.x,
+              0.0, -elrsn.x, elrcs.x
+          );
+          mat3 roty = mat3(
+              elrcs.y, 0.0, -elrsn.y,
+              0.0, 1.0, 0.0,
+              elrsn.y, 0.0, elrcs.y
+          );
+          mat3 rotz = mat3(
+              elrcs.z, elrsn.z, 0.0,
+              -elrsn.z, elrcs.z, 0.0,
+              0.0, 0.0, 1.0
+          );
+          mat3 rotmat = rotx * roty * rotz;
+          normal = rotmat[2];
+
+          mat3 trrotm = mat3(
+              rotmat[0][0], rotmat[1][0], rotmat[2][0],
+              rotmat[0][1], rotmat[1][1], rotmat[2][1],
+              rotmat[0][2], rotmat[1][2], rotmat[2][2]
+          );
+          normX = trrotm[0];
+          normY = trrotm[1];
+          normZ = trrotm[2];
+
+          const vec3 lit = vec3(0.6917144638660746, 0.6917144638660746, -0.20751433915982237);
+
+          float tmpdfs = dot(lit, normal);
+          if(tmpdfs < 0.0) {
+              normal = -normal;
+              tmpdfs = dot(lit, normal);
+          }
+          diffuse = 0.4 + tmpdfs;
+
+          vec3 eyev = normalize(-pos.xyz);
+          if(dot(eyev, normal) > 0.0) {
+              vec3 hv = normalize(eyev + lit);
+              specular = pow(max(dot(hv, normal), 0.0), 20.0);
+          }
+          else {
+              specular = 0.0;
+          }
+
+          rstop = clamp((abs(pdist - uDOF.x) - uDOF.y) / uDOF.z, 0.0, 1.0);
+          rstop = pow(rstop, 0.5);
+          //-0.69315 = ln(0.5)
+          distancefade = min(1.0, exp((uFade.x - pdist) * 0.69315 / uFade.y));
+      }
+</script><script id="sakura_point_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+
+      uniform vec3 uDOF;  //x:focus distance, y:focus radius, z:max radius
+      uniform vec3 uFade; //x:start distance, y:half distance, z:near fade start
+
+      const vec3 fadeCol = vec3(0.08, 0.03, 0.06);
+
+      varying vec3 pposition;
+      varying float psize;
+      varying float palpha;
+      varying float pdist;
+
+      //varying mat3 rotMat;
+      varying vec3 normX;
+      varying vec3 normY;
+      varying vec3 normZ;
+      varying vec3 normal;
+
+      varying float diffuse;
+      varying float specular;
+      varying float rstop;
+      varying float distancefade;
+
+      float ellipse(vec2 p, vec2 o, vec2 r) {
+          vec2 lp = (p - o) / r;
+          return length(lp) - 1.0;
+      }
+
+      void main(void) {
+          vec3 p = vec3(gl_PointCoord - vec2(0.5, 0.5), 0.0) * 2.0;
+          vec3 d = vec3(0.0, 0.0, -1.0);
+          float nd = normZ.z; //dot(-normZ, d);
+          if(abs(nd) < 0.0001) discard;
+
+          float np = dot(normZ, p);
+          vec3 tp = p + d * np / nd;
+          vec2 coord = vec2(dot(normX, tp), dot(normY, tp));
+
+          //angle = 15 degree
+          const float flwrsn = 0.258819045102521;
+          const float flwrcs = 0.965925826289068;
+          mat2 flwrm = mat2(flwrcs, -flwrsn, flwrsn, flwrcs);
+          vec2 flwrp = vec2(abs(coord.x), coord.y) * flwrm;
+
+          float r;
+          if(flwrp.x < 0.0) {
+              r = ellipse(flwrp, vec2(0.065, 0.024) * 0.5, vec2(0.36, 0.96) * 0.5);
+          }
+          else {
+              r = ellipse(flwrp, vec2(0.065, 0.024) * 0.5, vec2(0.58, 0.96) * 0.5);
+          }
+
+          if(r > rstop) discard;
+
+          vec3 col = mix(vec3(1.0, 0.8, 0.75), vec3(1.0, 0.9, 0.87), r);
+          float grady = mix(0.0, 1.0, pow(coord.y * 0.5 + 0.5, 0.35));
+          col *= vec3(1.0, grady, grady);
+          col *= mix(0.8, 1.0, pow(abs(coord.x), 0.3));
+          col = col * diffuse + specular;
+
+          col = mix(fadeCol, col, distancefade);
+
+          float alpha = (rstop > 0.001)? (0.5 - r / (rstop * 2.0)) : 1.0;
+          alpha = smoothstep(0.0, 1.0, alpha) * palpha;
+
+          gl_FragColor = vec4(col * 0.5, alpha);
+      }
+</script><!--  effects--><script id="fx_common_vsh" type="x-shader/x_vertex">uniform vec3 uResolution;
+      attribute vec2 aPosition;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          gl_Position = vec4(aPosition, 0.0, 1.0);
+          texCoord = aPosition.xy * 0.5 + vec2(0.5, 0.5);
+          screenCoord = aPosition.xy * vec2(uResolution.z, 1.0);
+      }
+</script><script id="bg_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+
+      uniform vec2 uTimes;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          vec3 col;
+          float c;
+          vec2 tmpv = texCoord * vec2(0.8, 1.0) - vec2(0.95, 1.0);
+          c = exp(-pow(length(tmpv) * 1.8, 2.0));
+          col = mix(vec3(0.02, 0.0, 0.03), vec3(0.96, 0.98, 1.0) * 1.5, c);
+          gl_FragColor = vec4(col * 0.5, 1.0);
+      }
+</script><script id="fx_brightbuf_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform vec2 uDelta;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          vec4 col = texture2D(uSrc, texCoord);
+          gl_FragColor = vec4(col.rgb * 2.0 - vec3(0.5), 1.0);
+      }
+</script><script id="fx_dirblur_r4_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform vec2 uDelta;
+      uniform vec4 uBlurDir; //dir(x, y), stride(z, w)
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          vec4 col = texture2D(uSrc, texCoord);
+          col = col + texture2D(uSrc, texCoord + uBlurDir.xy * uDelta);
+          col = col + texture2D(uSrc, texCoord - uBlurDir.xy * uDelta);
+          col = col + texture2D(uSrc, texCoord + (uBlurDir.xy + uBlurDir.zw) * uDelta);
+          col = col + texture2D(uSrc, texCoord - (uBlurDir.xy + uBlurDir.zw) * uDelta);
+          gl_FragColor = col / 5.0;
+      }
+</script><!--  effect fragment shader template--><script id="fx_common_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform vec2 uDelta;
+
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+
+      void main(void) {
+          gl_FragColor = texture2D(uSrc, texCoord);
+      }
+</script><!--  post processing--><script id="pp_final_vsh" type="x-shader/x_vertex">uniform vec3 uResolution;
+      attribute vec2 aPosition;
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+      void main(void) {
+          gl_Position = vec4(aPosition, 0.0, 1.0);
+          texCoord = aPosition.xy * 0.5 + vec2(0.5, 0.5);
+          screenCoord = aPosition.xy * vec2(uResolution.z, 1.0);
+      }
+</script><script id="pp_final_fsh" type="x-shader/x_fragment">#ifdef GL_ES
+      //precision mediump float;
+      precision highp float;
+      #endif
+      uniform sampler2D uSrc;
+      uniform sampler2D uBloom;
+      uniform vec2 uDelta;
+      varying vec2 texCoord;
+      varying vec2 screenCoord;
+      void main(void) {
+          vec4 srccol = texture2D(uSrc, texCoord) * 2.0;
+          vec4 bloomcol = texture2D(uBloom, texCoord);
+          vec4 col;
+          col = srccol + bloomcol * (vec4(1.0) + srccol);
+          col *= smoothstep(1.0, 0.0, pow(length((texCoord - vec2(0.5)) * 2.0), 1.2) * 0.5);
+          col = pow(col, vec4(0.45454545454545)); //(1.0 / 2.2)
+
+          gl_FragColor = vec4(col.rgb, 1.0);
+          gl_FragColor.a = 1.0;
+      }
+</script><script>// Utilities
+var Vector3 = {};
+var Matrix44 = {};
+Vector3.create = function (x, y, z) {
+  return { x: x, y: y, z: z };
+};
+Vector3.dot = function (v0, v1) {
+  return v0.x * v1.x + v0.y * v1.y + v0.z * v1.z;
+};
+Vector3.cross = function (v, v0, v1) {
+  v.x = v0.y * v1.z - v0.z * v1.y;
+  v.y = v0.z * v1.x - v0.x * v1.z;
+  v.z = v0.x * v1.y - v0.y * v1.x;
+};
+Vector3.normalize = function (v) {
+  var l = v.x * v.x + v.y * v.y + v.z * v.z;
+  if (l > 0.00001) {
+    l = 1.0 / Math.sqrt(l);
+    v.x *= l;
+    v.y *= l;
+    v.z *= l;
+  }
+};
+Vector3.arrayForm = function (v) {
+  if (v.array) {
+    v.array[0] = v.x;
+    v.array[1] = v.y;
+    v.array[2] = v.z;
+  } else {
+    v.array = new Float32Array([v.x, v.y, v.z]);
+  }
+  return v.array;
+};
+Matrix44.createIdentity = function () {
+  return new Float32Array([
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+  ]);
+};
+Matrix44.loadProjection = function (m, aspect, vdeg, near, far) {
+  var h = near * Math.tan(((vdeg * Math.PI) / 180.0) * 0.5) * 2.0;
+  var w = h * aspect;
+
+  m[0] = (2.0 * near) / w;
+  m[1] = 0.0;
+  m[2] = 0.0;
+  m[3] = 0.0;
+
+  m[4] = 0.0;
+  m[5] = (2.0 * near) / h;
+  m[6] = 0.0;
+  m[7] = 0.0;
+
+  m[8] = 0.0;
+  m[9] = 0.0;
+  m[10] = -(far + near) / (far - near);
+  m[11] = -1.0;
+
+  m[12] = 0.0;
+  m[13] = 0.0;
+  m[14] = (-2.0 * far * near) / (far - near);
+  m[15] = 0.0;
+};
+Matrix44.loadLookAt = function (m, vpos, vlook, vup) {
+  var frontv = Vector3.create(
+    vpos.x - vlook.x,
+    vpos.y - vlook.y,
+    vpos.z - vlook.z
+  );
+  Vector3.normalize(frontv);
+  var sidev = Vector3.create(1.0, 0.0, 0.0);
+  Vector3.cross(sidev, vup, frontv);
+  Vector3.normalize(sidev);
+  var topv = Vector3.create(1.0, 0.0, 0.0);
+  Vector3.cross(topv, frontv, sidev);
+  Vector3.normalize(topv);
+
+  m[0] = sidev.x;
+  m[1] = topv.x;
+  m[2] = frontv.x;
+  m[3] = 0.0;
+
+  m[4] = sidev.y;
+  m[5] = topv.y;
+  m[6] = frontv.y;
+  m[7] = 0.0;
+
+  m[8] = sidev.z;
+  m[9] = topv.z;
+  m[10] = frontv.z;
+  m[11] = 0.0;
+
+  m[12] = -(vpos.x * m[0] + vpos.y * m[4] + vpos.z * m[8]);
+  m[13] = -(vpos.x * m[1] + vpos.y * m[5] + vpos.z * m[9]);
+  m[14] = -(vpos.x * m[2] + vpos.y * m[6] + vpos.z * m[10]);
+  m[15] = 1.0;
+};
+
+//
+var timeInfo = {
+  start: 0,
+  prev: 0, // Date
+  delta: 0,
+  elapsed: 0, // Number(sec)
+};
+
+//
+var gl;
+var renderSpec = {
+  width: 0,
+  height: 0,
+  aspect: 1,
+  array: new Float32Array(3),
+  halfWidth: 0,
+  halfHeight: 0,
+  halfArray: new Float32Array(3),
+  // and some render targets. see setViewport()
+};
+renderSpec.setSize = function (w, h) {
+  renderSpec.width = w;
+  renderSpec.height = h;
+  renderSpec.aspect = renderSpec.width / renderSpec.height;
+  renderSpec.array[0] = renderSpec.width;
+  renderSpec.array[1] = renderSpec.height;
+  renderSpec.array[2] = renderSpec.aspect;
+
+  renderSpec.halfWidth = Math.floor(w / 2);
+  renderSpec.halfHeight = Math.floor(h / 2);
+  renderSpec.halfArray[0] = renderSpec.halfWidth;
+  renderSpec.halfArray[1] = renderSpec.halfHeight;
+  renderSpec.halfArray[2] = renderSpec.halfWidth / renderSpec.halfHeight;
+};
+
+function deleteRenderTarget(rt) {
+  gl.deleteFramebuffer(rt.frameBuffer);
+  gl.deleteRenderbuffer(rt.renderBuffer);
+  gl.deleteTexture(rt.texture);
+}
+
+function createRenderTarget(w, h) {
+  var ret = {
+    width: w,
+    height: h,
+    sizeArray: new Float32Array([w, h, w / h]),
+    dtxArray: new Float32Array([1.0 / w, 1.0 / h]),
+  };
+  ret.frameBuffer = gl.createFramebuffer();
+  ret.renderBuffer = gl.createRenderbuffer();
+  ret.texture = gl.createTexture();
+
+  gl.bindTexture(gl.TEXTURE_2D, ret.texture);
+  gl.texImage2D(
+    gl.TEXTURE_2D,
+    0,
+    gl.RGBA,
+    w,
+    h,
+    0,
+    gl.RGBA,
+    gl.UNSIGNED_BYTE,
+    null
+  );
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+
+  gl.bindFramebuffer(gl.FRAMEBUFFER, ret.frameBuffer);
+  gl.framebufferTexture2D(
+    gl.FRAMEBUFFER,
+    gl.COLOR_ATTACHMENT0,
+    gl.TEXTURE_2D,
+    ret.texture,
+    0
+  );
+
+  gl.bindRenderbuffer(gl.RENDERBUFFER, ret.renderBuffer);
+  gl.renderbufferStorage(gl.RENDERBUFFER, gl.DEPTH_COMPONENT16, w, h);
+  gl.framebufferRenderbuffer(
+    gl.FRAMEBUFFER,
+    gl.DEPTH_ATTACHMENT,
+    gl.RENDERBUFFER,
+    ret.renderBuffer
+  );
+
+  gl.bindTexture(gl.TEXTURE_2D, null);
+  gl.bindRenderbuffer(gl.RENDERBUFFER, null);
+  gl.bindFramebuffer(gl.FRAMEBUFFER, null);
+
+  return ret;
+}
+
+function compileShader(shtype, shsrc) {
+  var retsh = gl.createShader(shtype);
+
+  gl.shaderSource(retsh, shsrc);
+  gl.compileShader(retsh);
+
+  if (!gl.getShaderParameter(retsh, gl.COMPILE_STATUS)) {
+    var errlog = gl.getShaderInfoLog(retsh);
+    gl.deleteShader(retsh);
+    console.error(errlog);
+    return null;
+  }
+  return retsh;
+}
+
+function createShader(vtxsrc, frgsrc, uniformlist, attrlist) {
+  var vsh = compileShader(gl.VERTEX_SHADER, vtxsrc);
+  var fsh = compileShader(gl.FRAGMENT_SHADER, frgsrc);
+
+  if (vsh == null || fsh == null) {
+    return null;
+  }
+
+  var prog = gl.createProgram();
+  gl.attachShader(prog, vsh);
+  gl.attachShader(prog, fsh);
+
+  gl.deleteShader(vsh);
+  gl.deleteShader(fsh);
+
+  gl.linkProgram(prog);
+  if (!gl.getProgramParameter(prog, gl.LINK_STATUS)) {
+    var errlog = gl.getProgramInfoLog(prog);
+    console.error(errlog);
+    return null;
+  }
+
+  if (uniformlist) {
+    prog.uniforms = {};
+    for (var i = 0; i < uniformlist.length; i++) {
+      prog.uniforms[uniformlist[i]] = gl.getUniformLocation(
+        prog,
+        uniformlist[i]
+      );
+    }
+  }
+
+  if (attrlist) {
+    prog.attributes = {};
+    for (var i = 0; i < attrlist.length; i++) {
+      var attr = attrlist[i];
+      prog.attributes[attr] = gl.getAttribLocation(prog, attr);
+    }
+  }
+
+  return prog;
+}
+
+function useShader(prog) {
+  gl.useProgram(prog);
+  for (var attr in prog.attributes) {
+    gl.enableVertexAttribArray(prog.attributes[attr]);
+  }
+}
+
+function unuseShader(prog) {
+  for (var attr in prog.attributes) {
+    gl.disableVertexAttribArray(prog.attributes[attr]);
+  }
+  gl.useProgram(null);
+}
+
+/////
+var projection = {
+  angle: 60,
+  nearfar: new Float32Array([0.1, 100.0]),
+  matrix: Matrix44.createIdentity(),
+};
+var camera = {
+  position: Vector3.create(0, 0, 100),
+  lookat: Vector3.create(0, 0, 0),
+  up: Vector3.create(0, 1, 0),
+  dof: Vector3.create(10.0, 4.0, 8.0),
+  matrix: Matrix44.createIdentity(),
+};
+
+var pointFlower = {};
+var meshFlower = {};
+var sceneStandBy = false;
+
+var BlossomParticle = function () {
+  this.velocity = new Array(3);
+  this.rotation = new Array(3);
+  this.position = new Array(3);
+  this.euler = new Array(3);
+  this.size = 1.0;
+  this.alpha = 1.0;
+  this.zkey = 0.0;
+};
+
+BlossomParticle.prototype.setVelocity = function (vx, vy, vz) {
+  this.velocity[0] = vx;
+  this.velocity[1] = vy;
+  this.velocity[2] = vz;
+};
+
+BlossomParticle.prototype.setRotation = function (rx, ry, rz) {
+  this.rotation[0] = rx;
+  this.rotation[1] = ry;
+  this.rotation[2] = rz;
+};
+
+BlossomParticle.prototype.setPosition = function (nx, ny, nz) {
+  this.position[0] = nx;
+  this.position[1] = ny;
+  this.position[2] = nz;
+};
+
+BlossomParticle.prototype.setEulerAngles = function (rx, ry, rz) {
+  this.euler[0] = rx;
+  this.euler[1] = ry;
+  this.euler[2] = rz;
+};
+
+BlossomParticle.prototype.setSize = function (s) {
+  this.size = s;
+};
+
+BlossomParticle.prototype.update = function (dt, et) {
+  this.position[0] += this.velocity[0] * dt;
+  this.position[1] += this.velocity[1] * dt;
+  this.position[2] += this.velocity[2] * dt;
+
+  this.euler[0] += this.rotation[0] * dt;
+  this.euler[1] += this.rotation[1] * dt;
+  this.euler[2] += this.rotation[2] * dt;
+};
+
+function createPointFlowers() {
+  // get point sizes
+  var prm = gl.getParameter(gl.ALIASED_POINT_SIZE_RANGE);
+  renderSpec.pointSize = { min: prm[0], max: prm[1] };
+
+  var vtxsrc = document.getElementById("sakura_point_vsh").textContent;
+  var frgsrc = document.getElementById("sakura_point_fsh").textContent;
+
+  pointFlower.program = createShader(
+    vtxsrc,
+    frgsrc,
+    ["uProjection", "uModelview", "uResolution", "uOffset", "uDOF", "uFade"],
+    ["aPosition", "aEuler", "aMisc"]
+  );
+
+  useShader(pointFlower.program);
+  pointFlower.offset = new Float32Array([0.0, 0.0, 0.0]);
+  pointFlower.fader = Vector3.create(0.0, 10.0, 0.0);
+
+  // paramerters: velocity[3], rotate[3]
+  pointFlower.numFlowers = 1600;
+  pointFlower.particles = new Array(pointFlower.numFlowers);
+  // vertex attributes {position[3], euler_xyz[3], size[1]}
+  pointFlower.dataArray = new Float32Array(
+    pointFlower.numFlowers * (3 + 3 + 2)
+  );
+  pointFlower.positionArrayOffset = 0;
+  pointFlower.eulerArrayOffset = pointFlower.numFlowers * 3;
+  pointFlower.miscArrayOffset = pointFlower.numFlowers * 6;
+
+  pointFlower.buffer = gl.createBuffer();
+  gl.bindBuffer(gl.ARRAY_BUFFER, pointFlower.buffer);
+  gl.bufferData(gl.ARRAY_BUFFER, pointFlower.dataArray, gl.DYNAMIC_DRAW);
+  gl.bindBuffer(gl.ARRAY_BUFFER, null);
+
+  unuseShader(pointFlower.program);
+
+  for (var i = 0; i < pointFlower.numFlowers; i++) {
+    pointFlower.particles[i] = new BlossomParticle();
+  }
+}
+
+function initPointFlowers() {
+  //area
+  pointFlower.area = Vector3.create(20.0, 20.0, 20.0);
+  pointFlower.area.x = pointFlower.area.y * renderSpec.aspect;
+
+  pointFlower.fader.x = 10.0; //env fade start
+  pointFlower.fader.y = pointFlower.area.z; //env fade half
+  pointFlower.fader.z = 0.1; //near fade start
+
+  //particles
+  var PI2 = Math.PI * 2.0;
+  var tmpv3 = Vector3.create(0, 0, 0);
+  var tmpv = 0;
+  var symmetryrand = function () {
+    return Math.random() * 2.0 - 1.0;
+  };
+  for (var i = 0; i < pointFlower.numFlowers; i++) {
+    var tmpprtcl = pointFlower.particles[i];
+
+    //velocity
+    tmpv3.x = symmetryrand() * 0.3 + 0.8;
+    tmpv3.y = symmetryrand() * 0.2 - 1.0;
+    tmpv3.z = symmetryrand() * 0.3 + 0.5;
+    Vector3.normalize(tmpv3);
+    tmpv = 2.0 + Math.random() * 1.0;
+    tmpprtcl.setVelocity(tmpv3.x * tmpv, tmpv3.y * tmpv, tmpv3.z * tmpv);
+
+    //rotation
+    tmpprtcl.setRotation(
+      symmetryrand() * PI2 * 0.5,
+      symmetryrand() * PI2 * 0.5,
+      symmetryrand() * PI2 * 0.5
+    );
+
+    //position
+    tmpprtcl.setPosition(
+      symmetryrand() * pointFlower.area.x,
+      symmetryrand() * pointFlower.area.y,
+      symmetryrand() * pointFlower.area.z
+    );
+
+    //euler
+    tmpprtcl.setEulerAngles(
+      Math.random() * Math.PI * 2.0,
+      Math.random() * Math.PI * 2.0,
+      Math.random() * Math.PI * 2.0
+    );
+
+    //size
+    tmpprtcl.setSize(0.9 + Math.random() * 0.1);
+  }
+}
+
+function renderPointFlowers() {
+  //update
+  var PI2 = Math.PI * 2.0;
+  var limit = [pointFlower.area.x, pointFlower.area.y, pointFlower.area.z];
+  var repeatPos = function (prt, cmp, limit) {
+    if (Math.abs(prt.position[cmp]) - prt.size * 0.5 > limit) {
+      //out of area
+      if (prt.position[cmp] > 0) {
+        prt.position[cmp] -= limit * 2.0;
+      } else {
+        prt.position[cmp] += limit * 2.0;
+      }
+    }
+  };
+  var repeatEuler = function (prt, cmp) {
+    prt.euler[cmp] = prt.euler[cmp] % PI2;
+    if (prt.euler[cmp] < 0.0) {
+      prt.euler[cmp] += PI2;
+    }
+  };
+
+  for (var i = 0; i < pointFlower.numFlowers; i++) {
+    var prtcl = pointFlower.particles[i];
+    prtcl.update(timeInfo.delta, timeInfo.elapsed);
+    repeatPos(prtcl, 0, pointFlower.area.x);
+    repeatPos(prtcl, 1, pointFlower.area.y);
+    repeatPos(prtcl, 2, pointFlower.area.z);
+    repeatEuler(prtcl, 0);
+    repeatEuler(prtcl, 1);
+    repeatEuler(prtcl, 2);
+
+    prtcl.alpha = 1.0; //(pointFlower.area.z - prtcl.position[2]) * 0.5;
+
+    prtcl.zkey =
+      camera.matrix[2] * prtcl.position[0] +
+      camera.matrix[6] * prtcl.position[1] +
+      camera.matrix[10] * prtcl.position[2] +
+      camera.matrix[14];
+  }
+
+  // sort
+  pointFlower.particles.sort(function (p0, p1) {
+    return p0.zkey - p1.zkey;
+  });
+
+  // update data
+  var ipos = pointFlower.positionArrayOffset;
+  var ieuler = pointFlower.eulerArrayOffset;
+  var imisc = pointFlower.miscArrayOffset;
+  for (var i = 0; i < pointFlower.numFlowers; i++) {
+    var prtcl = pointFlower.particles[i];
+    pointFlower.dataArray[ipos] = prtcl.position[0];
+    pointFlower.dataArray[ipos + 1] = prtcl.position[1];
+    pointFlower.dataArray[ipos + 2] = prtcl.position[2];
+    ipos += 3;
+    pointFlower.dataArray[ieuler] = prtcl.euler[0];
+    pointFlower.dataArray[ieuler + 1] = prtcl.euler[1];
+    pointFlower.dataArray[ieuler + 2] = prtcl.euler[2];
+    ieuler += 3;
+    pointFlower.dataArray[imisc] = prtcl.size;
+    pointFlower.dataArray[imisc + 1] = prtcl.alpha;
+    imisc += 2;
+  }
+
+  //draw
+  gl.enable(gl.BLEND);
+  //gl.disable(gl.DEPTH_TEST);
+  gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
+
+  var prog = pointFlower.program;
+  useShader(prog);
+
+  gl.uniformMatrix4fv(prog.uniforms.uProjection, false, projection.matrix);
+  gl.uniformMatrix4fv(prog.uniforms.uModelview, false, camera.matrix);
+  gl.uniform3fv(prog.uniforms.uResolution, renderSpec.array);
+  gl.uniform3fv(prog.uniforms.uDOF, Vector3.arrayForm(camera.dof));
+  gl.uniform3fv(prog.uniforms.uFade, Vector3.arrayForm(pointFlower.fader));
+
+  gl.bindBuffer(gl.ARRAY_BUFFER, pointFlower.buffer);
+  gl.bufferData(gl.ARRAY_BUFFER, pointFlower.dataArray, gl.DYNAMIC_DRAW);
+
+  gl.vertexAttribPointer(
+    prog.attributes.aPosition,
+    3,
+    gl.FLOAT,
+    false,
+    0,
+    pointFlower.positionArrayOffset * Float32Array.BYTES_PER_ELEMENT
+  );
+  gl.vertexAttribPointer(
+    prog.attributes.aEuler,
+    3,
+    gl.FLOAT,
+    false,
+    0,
+    pointFlower.eulerArrayOffset * Float32Array.BYTES_PER_ELEMENT
+  );
+  gl.vertexAttribPointer(
+    prog.attributes.aMisc,
+    2,
+    gl.FLOAT,
+    false,
+    0,
+    pointFlower.miscArrayOffset * Float32Array.BYTES_PER_ELEMENT
+  );
+
+  // doubler
+  for (var i = 1; i < 2; i++) {
+    var zpos = i * -2.0;
+    pointFlower.offset[0] = pointFlower.area.x * -1.0;
+    pointFlower.offset[1] = pointFlower.area.y * -1.0;
+    pointFlower.offset[2] = pointFlower.area.z * zpos;
+    gl.uniform3fv(prog.uniforms.uOffset, pointFlower.offset);
+    gl.drawArrays(gl.POINT, 0, pointFlower.numFlowers);
+
+    pointFlower.offset[0] = pointFlower.area.x * -1.0;
+    pointFlower.offset[1] = pointFlower.area.y * 1.0;
+    pointFlower.offset[2] = pointFlower.area.z * zpos;
+    gl.uniform3fv(prog.uniforms.uOffset, pointFlower.offset);
+    gl.drawArrays(gl.POINT, 0, pointFlower.numFlowers);
+
+    pointFlower.offset[0] = pointFlower.area.x * 1.0;
+    pointFlower.offset[1] = pointFlower.area.y * -1.0;
+    pointFlower.offset[2] = pointFlower.area.z * zpos;
+    gl.uniform3fv(prog.uniforms.uOffset, pointFlower.offset);
+    gl.drawArrays(gl.POINT, 0, pointFlower.numFlowers);
+
+    pointFlower.offset[0] = pointFlower.area.x * 1.0;
+    pointFlower.offset[1] = pointFlower.area.y * 1.0;
+    pointFlower.offset[2] = pointFlower.area.z * zpos;
+    gl.uniform3fv(prog.uniforms.uOffset, pointFlower.offset);
+    gl.drawArrays(gl.POINT, 0, pointFlower.numFlowers);
+  }
+
+  //main
+  pointFlower.offset[0] = 0.0;
+  pointFlower.offset[1] = 0.0;
+  pointFlower.offset[2] = 0.0;
+  gl.uniform3fv(prog.uniforms.uOffset, pointFlower.offset);
+  gl.drawArrays(gl.POINT, 0, pointFlower.numFlowers);
+
+  gl.bindBuffer(gl.ARRAY_BUFFER, null);
+  unuseShader(prog);
+
+  gl.enable(gl.DEPTH_TEST);
+  gl.disable(gl.BLEND);
+}
+
+// effects
+//common util
+function createEffectProgram(vtxsrc, frgsrc, exunifs, exattrs) {
+  var ret = {};
+  var unifs = ["uResolution", "uSrc", "uDelta"];
+  if (exunifs) {
+    unifs = unifs.concat(exunifs);
+  }
+  var attrs = ["aPosition"];
+  if (exattrs) {
+    attrs = attrs.concat(exattrs);
+  }
+
+  ret.program = createShader(vtxsrc, frgsrc, unifs, attrs);
+  useShader(ret.program);
+
+  ret.dataArray = new Float32Array([
+    -1.0,
+    -1.0,
+    1.0,
+    -1.0,
+    -1.0,
+    1.0,
+    1.0,
+    1.0,
+  ]);
+  ret.buffer = gl.createBuffer();
+  gl.bindBuffer(gl.ARRAY_BUFFER, ret.buffer);
+  gl.bufferData(gl.ARRAY_BUFFER, ret.dataArray, gl.STATIC_DRAW);
+
+  gl.bindBuffer(gl.ARRAY_BUFFER, null);
+  unuseShader(ret.program);
+
+  return ret;
+}
+
+// basic usage
+// useEffect(prog, srctex({'texture':texid, 'dtxArray':(f32)[dtx, dty]})); //basic initialize
+// gl.uniform**(...); //additional uniforms
+// drawEffect()
+// unuseEffect(prog)
+// TEXTURE0 makes src
+function useEffect(fxobj, srctex) {
+  var prog = fxobj.program;
+  useShader(prog);
+  gl.uniform3fv(prog.uniforms.uResolution, renderSpec.array);
+
+  if (srctex != null) {
+    gl.uniform2fv(prog.uniforms.uDelta, srctex.dtxArray);
+    gl.uniform1i(prog.uniforms.uSrc, 0);
+
+    gl.activeTexture(gl.TEXTURE0);
+    gl.bindTexture(gl.TEXTURE_2D, srctex.texture);
+  }
+}
+function drawEffect(fxobj) {
+  gl.bindBuffer(gl.ARRAY_BUFFER, fxobj.buffer);
+  gl.vertexAttribPointer(
+    fxobj.program.attributes.aPosition,
+    2,
+    gl.FLOAT,
+    false,
+    0,
+    0
+  );
+  gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
+}
+function unuseEffect(fxobj) {
+  unuseShader(fxobj.program);
+}
+
+var effectLib = {};
+function createEffectLib() {
+  var vtxsrc, frgsrc;
+  //common
+  var cmnvtxsrc = document.getElementById("fx_common_vsh").textContent;
+
+  //background
+  frgsrc = document.getElementById("bg_fsh").textContent;
+  effectLib.sceneBg = createEffectProgram(cmnvtxsrc, frgsrc, ["uTimes"], null);
+
+  // make brightpixels buffer
+  frgsrc = document.getElementById("fx_brightbuf_fsh").textContent;
+  effectLib.mkBrightBuf = createEffectProgram(cmnvtxsrc, frgsrc, null, null);
+
+  // direction blur
+  frgsrc = document.getElementById("fx_dirblur_r4_fsh").textContent;
+  effectLib.dirBlur = createEffectProgram(
+    cmnvtxsrc,
+    frgsrc,
+    ["uBlurDir"],
+    null
+  );
+
+  //final composite
+  vtxsrc = document.getElementById("pp_final_vsh").textContent;
+  frgsrc = document.getElementById("pp_final_fsh").textContent;
+  effectLib.finalComp = createEffectProgram(vtxsrc, frgsrc, ["uBloom"], null);
+}
+
+// background
+function createBackground() {
+  //console.log("create background");
+}
+function initBackground() {
+  //console.log("init background");
+}
+function renderBackground() {
+  gl.disable(gl.DEPTH_TEST);
+
+  useEffect(effectLib.sceneBg, null);
+  gl.uniform2f(
+    effectLib.sceneBg.program.uniforms.uTimes,
+    timeInfo.elapsed,
+    timeInfo.delta
+  );
+  drawEffect(effectLib.sceneBg);
+  unuseEffect(effectLib.sceneBg);
+
+  gl.enable(gl.DEPTH_TEST);
+}
+
+// post process
+var postProcess = {};
+function createPostProcess() {
+  //console.log("create post process");
+}
+function initPostProcess() {
+  //console.log("init post process");
+}
+
+function renderPostProcess() {
+  gl.enable(gl.TEXTURE_2D);
+  gl.disable(gl.DEPTH_TEST);
+  var bindRT = function (rt, isclear) {
+    gl.bindFramebuffer(gl.FRAMEBUFFER, rt.frameBuffer);
+    gl.viewport(0, 0, rt.width, rt.height);
+    if (isclear) {
+      gl.clearColor(0, 0, 0, 0);
+      gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+    }
+  };
+
+  //make bright buff
+  bindRT(renderSpec.wHalfRT0, true);
+  useEffect(effectLib.mkBrightBuf, renderSpec.mainRT);
+  drawEffect(effectLib.mkBrightBuf);
+  unuseEffect(effectLib.mkBrightBuf);
+
+  // make bloom
+  for (var i = 0; i < 2; i++) {
+    var p = 1.5 + 1 * i;
+    var s = 2.0 + 1 * i;
+    bindRT(renderSpec.wHalfRT1, true);
+    useEffect(effectLib.dirBlur, renderSpec.wHalfRT0);
+    gl.uniform4f(effectLib.dirBlur.program.uniforms.uBlurDir, p, 0.0, s, 0.0);
+    drawEffect(effectLib.dirBlur);
+    unuseEffect(effectLib.dirBlur);
+
+    bindRT(renderSpec.wHalfRT0, true);
+    useEffect(effectLib.dirBlur, renderSpec.wHalfRT1);
+    gl.uniform4f(effectLib.dirBlur.program.uniforms.uBlurDir, 0.0, p, 0.0, s);
+    drawEffect(effectLib.dirBlur);
+    unuseEffect(effectLib.dirBlur);
+  }
+
+  //display
+  gl.bindFramebuffer(gl.FRAMEBUFFER, null);
+  gl.viewport(0, 0, renderSpec.width, renderSpec.height);
+  gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+
+  useEffect(effectLib.finalComp, renderSpec.mainRT);
+  gl.uniform1i(effectLib.finalComp.program.uniforms.uBloom, 1);
+  gl.activeTexture(gl.TEXTURE1);
+  gl.bindTexture(gl.TEXTURE_2D, renderSpec.wHalfRT0.texture);
+  drawEffect(effectLib.finalComp);
+  unuseEffect(effectLib.finalComp);
+
+  gl.enable(gl.DEPTH_TEST);
+}
+
+/////
+var SceneEnv = {};
+function createScene() {
+  createEffectLib();
+  createBackground();
+  createPointFlowers();
+  createPostProcess();
+  sceneStandBy = true;
+}
+
+function initScene() {
+  initBackground();
+  initPointFlowers();
+  initPostProcess();
+
+  //camera.position.z = 17.320508;
+  camera.position.z = pointFlower.area.z + projection.nearfar[0];
+  projection.angle =
+    ((Math.atan2(pointFlower.area.y, camera.position.z + pointFlower.area.z) *
+      180.0) /
+      Math.PI) *
+    2.0;
+  Matrix44.loadProjection(
+    projection.matrix,
+    renderSpec.aspect,
+    projection.angle,
+    projection.nearfar[0],
+    projection.nearfar[1]
+  );
+}
+
+function renderScene() {
+  //draw
+  Matrix44.loadLookAt(camera.matrix, camera.position, camera.lookat, camera.up);
+
+  gl.enable(gl.DEPTH_TEST);
+
+  //gl.bindFramebuffer(gl.FRAMEBUFFER, null);
+  gl.bindFramebuffer(gl.FRAMEBUFFER, renderSpec.mainRT.frameBuffer);
+  gl.viewport(0, 0, renderSpec.mainRT.width, renderSpec.mainRT.height);
+  gl.clearColor(0.005, 0, 0.05, 0);
+  gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+
+  renderBackground();
+  renderPointFlowers();
+  renderPostProcess();
+}
+
+/////
+function onResize(e) {
+  makeCanvasFullScreen(document.getElementById("sakura"));
+  setViewports();
+  if (sceneStandBy) {
+    initScene();
+  }
+}
+
+function setViewports() {
+  renderSpec.setSize(gl.canvas.width, gl.canvas.height);
+
+  gl.clearColor(0.2, 0.2, 0.5, 1.0);
+  gl.viewport(0, 0, renderSpec.width, renderSpec.height);
+
+  var rtfunc = function (rtname, rtw, rth) {
+    var rt = renderSpec[rtname];
+    if (rt) deleteRenderTarget(rt);
+    renderSpec[rtname] = createRenderTarget(rtw, rth);
+  };
+  rtfunc("mainRT", renderSpec.width, renderSpec.height);
+  rtfunc("wFullRT0", renderSpec.width, renderSpec.height);
+  rtfunc("wFullRT1", renderSpec.width, renderSpec.height);
+  rtfunc("wHalfRT0", renderSpec.halfWidth, renderSpec.halfHeight);
+  rtfunc("wHalfRT1", renderSpec.halfWidth, renderSpec.halfHeight);
+}
+
+function render() {
+  renderScene();
+}
+
+var animating = true;
+function toggleAnimation(elm) {
+  animating ^= true;
+  if (animating) animate();
+  if (elm) {
+    elm.innerHTML = animating ? "Stop" : "Start";
+  }
+}
+
+function stepAnimation() {
+  if (!animating) animate();
+}
+
+function animate() {
+  var curdate = new Date();
+  timeInfo.elapsed = (curdate - timeInfo.start) / 1000.0;
+  timeInfo.delta = (curdate - timeInfo.prev) / 1000.0;
+  timeInfo.prev = curdate;
+
+  if (animating) requestAnimationFrame(animate);
+  render();
+}
+
+function makeCanvasFullScreen(canvas) {
+  canvas.width = window.outerWidth;
+  canvas.height = window.outerHeight;
+}
+
+window.addEventListener("load", function (e) {
+  var canvas = document.getElementById("sakura");
+  try {
+    makeCanvasFullScreen(canvas);
+    gl = canvas.getContext("experimental-webgl");
+  } catch (e) {
+    alert("WebGL not supported." + e);
+    console.error(e);
+    return;
+  }
+
+  window.addEventListener("resize", onResize);
+
+  setViewports();
+  createScene();
+  initScene();
+
+  timeInfo.start = new Date();
+  timeInfo.prev = timeInfo.start;
+  animate();
+});
+
+//set window.requestAnimationFrame
+(function (w, r) {
+  w["r" + r] =
+    w["r" + r] ||
+    w["webkitR" + r] ||
+    w["mozR" + r] ||
+    w["msR" + r] ||
+    w["oR" + r] ||
+    function (c) {
+      w.setTimeout(c, 1000 / 60);
+    };
+})(window, "equestAnimationFrame");</script><meta name="generator" content="Hexo 5.4.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" onerror="onerror=null;src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">103</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">109</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">29</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://travellings.now.sh"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 本站</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/random"><span> 随机文章</span></a></li><li><a class="site-page" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://weidows.gitee.io"><i class="fa-fw fas fa-bath"></i><span> Gitee站</span></a></li><li><a class="site-page" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub站</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-rocket"></i><span> 传送门</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows-projects"><span> Weidows-projects</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows?tab=repositories"><span> GitHub仓库</span></a></li><li><a class="site-page" href="/generator"><span> 几个生成器</span></a></li><li><a class="site-page" href="https://weidows.github.io/ssl"><span> SSL状态检测</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://stats.uptimerobot.com/22R3Pfkjzv"><span> 站点状态检测</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery_data"><i class="fa-fw fas fa-camera"></i><span> 相册</span></a></li><li><a class="site-page" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li><li><a class="site-page" href="/tags/bangumis"><i class="fa-fw fas fa-laptop"></i><span> 番剧</span></a></li><li><a class="site-page" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/about"><i class="fa-fw fas fa-user"></i><span> -&gt;我&lt;-</span></a></li><li><a class="site-page" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">⭐️齐下无贰⭐️</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://travellings.now.sh"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 本站</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/random"><span> 随机文章</span></a></li><li><a class="site-page" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://weidows.gitee.io"><i class="fa-fw fas fa-bath"></i><span> Gitee站</span></a></li><li><a class="site-page" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub站</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-rocket"></i><span> 传送门</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows-projects"><span> Weidows-projects</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://github.com/Weidows?tab=repositories"><span> GitHub仓库</span></a></li><li><a class="site-page" href="/generator"><span> 几个生成器</span></a></li><li><a class="site-page" href="https://weidows.github.io/ssl"><span> SSL状态检测</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://stats.uptimerobot.com/22R3Pfkjzv"><span> 站点状态检测</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery_data"><i class="fa-fw fas fa-camera"></i><span> 相册</span></a></li><li><a class="site-page" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li><li><a class="site-page" href="/tags/bangumis"><i class="fa-fw fas fa-laptop"></i><span> 番剧</span></a></li><li><a class="site-page" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/about"><i class="fa-fw fas fa-user"></i><span> -&gt;我&lt;-</span></a></li><li><a class="site-page" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Hexo-pages里一些奇奇怪怪的写法</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-08-26T17:13:03.000Z" title="发表于 2020-08-27 01:13:03">2020-08-27</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-07-19T14:35:24.351Z" title="更新于 2021-07-19 22:35:24">2021-07-19</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/Web/">Web</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/Web/Node/">Node</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/Web/Node/Hexo/">Hexo</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">1.7k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>7分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span><span class="post-meta-separator">|</span><span class="post-meta-commentcount"><i class="far fa-comments fa-fw post-meta-icon"></i><span class="post-meta-label">评论数:</span><a href="/post/Web/Node/Hexo/Hexo-fansy.mmd/#post-comment"><span class="waline-comment-count" id="/post/Web/Node/Hexo/Hexo-fansy.mmd/"></span></a></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><!--
+ * @Author: Weidows
+ * @Date: 2020-08-27 01:13:03
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-06-27 12:42:02
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
+-->
+<ul>
+<li><a href="#hexo-%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98--%E6%A0%BC%E5%BC%8F">Hexo 文章标题 &amp; 格式</a>
+<ul>
+<li><a href="#%E8%82%AF%E5%AE%9A%E8%A6%81%E8%83%8C%E8%BF%87%E7%9A%84">肯定要背过的</a></li>
+<li><a href="#%E4%BB%A5%E4%B8%8B%E6%98%AF%E6%B2%A1%E7%94%A8%E8%BF%87%E6%88%96%E6%97%A0%E6%95%88%E7%9A%84">以下是没用过或无效的</a></li>
+</ul>
+</li>
+<li><a href="#%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82">标签外挂</a></li>
+<li><a href="#gallery-%E7%9B%B8%E5%86%8C%E5%9B%BE%E5%BA%93">Gallery 相册图库</a>
+<ul>
+<li><a href="#div-%E5%BC%8F%E5%86%99%E6%B3%95">div 式写法</a></li>
+<li><a href="#%E6%95%88%E6%9E%9C">效果:</a></li>
+<li><a href="#%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%9B%B8%E5%86%8C%E5%BD%A2%E5%BC%8F%E8%87%AA%E5%8A%A8%E6%8E%92%E5%88%97">另一种相册形式(自动排列)</a></li>
+</ul>
+</li>
+<li><a href="#tag-hide">tag-hide</a>
+<ul>
+<li><a href="#inline%E4%B8%80%E8%A1%8C%E5%86%85">inline(一行内)</a></li>
+<li><a href="#block%E5%9D%97">Block(块)</a></li>
+<li><a href="#toggle%E6%94%B6%E7%BC%A9%E6%A1%86">toggle(收缩框)</a></li>
+</ul>
+</li>
+<li><a href="#mermaid">mermaid</a></li>
+<li><a href="#tabs%E6%A0%87%E7%AD%BE%E5%9D%97">tabs(标签块)</a></li>
+<li><a href="#button">Button</a>
+<ul>
+<li><a href="#%E5%86%99%E6%B3%95">写法:</a></li>
+<li><a href="#%E5%A5%BD%E5%BA%B7%E7%9A%84-demo">好康的 demo:</a></li>
+</ul>
+</li>
+<li><a href="#_configyml">_config.yml</a></li>
+<li><a href="#%E5%9B%BE%E7%89%87%E5%BC%95%E5%85%A5">图片引入</a></li>
+</ul>
+<h1>Hexo 文章标题 &amp; 格式</h1>
+<p>在 markdown 文章里面最开头(如果不是开头的话报错),弄上如下框框</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="string">下面的格式标签写在这里</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
+<h2 id="肯定要背过的">肯定要背过的</h2>
+<figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="symbol">title:</span> <span class="meta"># 网站标题</span></span><br><span class="line"><span class="symbol">categories:</span> <span class="meta"># 分类(只能单线)</span></span><br><span class="line">  - category_1</span><br><span class="line">  - category_1_1</span><br><span class="line">  - category_1_1_1</span><br><span class="line"><span class="symbol">tags:</span>  <span class="meta"># 标签(可以多标)</span></span><br><span class="line">  - tag_1</span><br><span class="line">  - tag_2</span><br><span class="line"><span class="symbol">type:</span> <span class="string">&quot;&quot;</span> <span class="meta"># 指定这个页面的类型(比如categories/tags)</span></span><br><span class="line"><span class="symbol">cover:</span> <span class="meta"># 封面图片,注意不能用../命令,双引号有无均可</span></span><br><span class="line"><span class="symbol">comments:</span> <span class="meta"># 评论开关 true/false</span></span><br><span class="line"><span class="symbol">date:</span> <span class="meta"># 创建时间</span></span><br><span class="line"><span class="symbol">updated:</span>  <span class="meta"># 更新时间</span></span><br><span class="line"><span class="symbol">description:</span> <span class="meta"># 网站描述</span></span><br><span class="line"><span class="symbol">aside:</span> <span class="meta"># 侧边栏开关</span></span><br><span class="line"><span class="symbol">top_img:</span> <span class="meta"># 文章banner图,如果有cover的话默认用的是cover(这个可以给_post之外的用),其隐藏前缀目录为Website/public/注意格式应为:images/xxx,但是这样会使_posts里文章的相关文章封面失效,需要用URL</span></span><br></pre></td></tr></table></figure>
+<h2 id="以下是没用过或无效的">以下是没用过或无效的</h2>
+<figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="symbol">keywords:</span> <span class="meta"># 网站关键词</span></span><br><span class="line"><span class="symbol">author:</span> <span class="meta"># 网站作者</span></span><br><span class="line"><span class="symbol">language:</span> <span class="meta"># 语言, 一般填 &#x27;zh-CN&#x27;</span></span><br><span class="line"><span class="symbol">timezone:</span> <span class="meta"># 时区, 可以不填</span></span><br></pre></td></tr></table></figure>
+<hr>
+<h1>标签外挂</h1>
+<ul>
+<li>写法:</li>
+</ul>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">&#123;%<span class="built_in"> note default </span>%&#125;</span><br><span class="line">default 提示块标籤</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;%<span class="built_in"> note </span>primary no-icon %&#125;</span><br><span class="line">primary 提示块标籤</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;%<span class="built_in"> note </span>success %&#125;</span><br><span class="line">success 提示块标籤</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;%<span class="built_in"> note </span><span class="builtin-name">info</span> %&#125;</span><br><span class="line"><span class="builtin-name">info</span> 提示块标籤</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;%<span class="built_in"> note </span><span class="builtin-name">warning</span> %&#125;</span><br><span class="line"><span class="builtin-name">warning</span> 提示块标籤</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;%<span class="built_in"> note </span>danger %&#125;</span><br><span class="line">danger 提示块标籤</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>
+<p>显示效果:</p>
+<div class="note default flat"><p>default 提示块标籤</p>
+</div>
+<div class="note primary no-icon flat"><p>primary 提示块标籤</p>
+</div>
+<div class="note success flat"><p>success 提示块标籤</p>
+</div>
+<div class="note info flat"><p>info 提示块标籤</p>
+</div>
+<div class="note warning flat"><p>warning 提示块标籤</p>
+</div>
+<div class="note danger flat"><p>danger 提示块标籤</p>
+</div>
+</li>
+</ul>
+<hr>
+<h1>Gallery 相册图库</h1>
+<h2 id="div-式写法">div 式写法</h2>
+<figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">&lt;<span class="keyword">div</span> <span class="keyword">class</span>=<span class="string">&quot;gallery-group-main&quot;</span>&gt;</span><br><span class="line">&#123;% galleryGroup name <span class="keyword">description</span> link img-url %&#125;</span><br><span class="line">&#123;% galleryGroup name <span class="keyword">description</span> link img-url %&#125;</span><br><span class="line">&lt;/<span class="keyword">div</span>&gt;</span><br><span class="line"></span><br><span class="line">name：图库名字</span><br><span class="line"><span class="keyword">description</span>：图库描述</span><br><span class="line">link：连接到对应相册的地址</span><br><span class="line">img-url：图库封面的地址</span><br><span class="line"></span><br><span class="line">例如:</span><br><span class="line">&lt;<span class="keyword">div</span> <span class="keyword">class</span>=<span class="string">&quot;gallery-group-main&quot;</span>&gt;</span><br><span class="line">&#123;% galleryGroup PrettyGreen 一些养眼的绿色植物 tags<span class="regexp">/gallery_data/</span>PrettyGreen https:<span class="comment">//cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpg %&#125;</span></span><br><span class="line">&lt;/<span class="keyword">div</span>&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="效果">效果:</h2>
+  <div class="gallery-group-main">
+  
+  <figure class="gallery-group">
+  <img class="gallery-group-img" src= "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp" data-lazy-src='https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">壁纸</div>
+  <p>收藏的一些壁纸</p>
+  <a href='/Gallery/wallpaper'></a>
+  </figcaption>
+  </figure>
+  
+  
+  <figure class="gallery-group">
+  <img class="gallery-group-img" src= "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp" data-lazy-src='https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">漫威</div>
+  <p>关于漫威的图片</p>
+  <a href='/Gallery/marvel'></a>
+  </figcaption>
+  </figure>
+  
+  
+  <figure class="gallery-group">
+  <img class="gallery-group-img" src= "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp" data-lazy-src='https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">
+  <figcaption>
+  <div class="gallery-group-name">OH MY GIRL</div>
+  <p>关于OH MY GIRL的图片</p>
+  <a href='/Gallery/ohmygirl'></a>
+  </figcaption>
+  </figure>
+  
+  </div>
+<h2 id="另一种相册形式-自动排列">另一种相册形式(自动排列)</h2>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;% gallery %&#125;</span><br><span class="line">![<span class="string">图片描述</span>](<span class="link">图片地址</span>)</span><br><span class="line">![<span class="string">图片描述</span>](<span class="link">图片地址</span>)</span><br><span class="line">![<span class="string">图片描述</span>](<span class="link">图片地址</span>)</span><br><span class="line">&#123;% endgallery %&#125;</span><br></pre></td></tr></table></figure>
+<hr>
+<h1>tag-hide</h1>
+<h2 id="inline-一行内">inline(一行内)</h2>
+<figure class="highlight maxima"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="symbol">%</span> hideInline <span class="built_in">content</span>,<span class="built_in">display</span>,bg,<span class="built_in">color</span> <span class="symbol">%</span>&#125;</span><br><span class="line"></span><br><span class="line">  <span class="built_in">content</span>: 文本内容</span><br><span class="line">  <span class="built_in">display</span>: 按钮显示的文字 (可选)</span><br><span class="line">  bg: 按钮的背景颜色 (可选)</span><br><span class="line">  <span class="built_in">color</span>: 按钮文字的颜色 (可选)</span><br></pre></td></tr></table></figure>
+<ul>
+<li>
+<p>例如 1:</p>
+<p><code>我是谁:&#123;% hideInline Weidows,查看答案,#FF7242,#fff %&#125;</code></p>
+<p>我是谁:<span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: #FF7242;color: #fff">查看答案
+  </button><span class="hide-content">Weidows</span></span></p>
+</li>
+</ul>
+<h2 id="Block-块">Block(块)</h2>
+<figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-tag">&#123;% <span class="name">hideBlock</span> display,bg,color %&#125;</span></span><br><span class="line"><span class="xml">content</span></span><br><span class="line"><span class="template-tag">&#123;% <span class="name">endhideBlock</span> %&#125;</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>
+<p>例如 2:</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% hideBlock 我是谁 %&#125;</span><br><span class="line">爷是:</span><br><span class="line">Weidows</span><br><span class="line">&#123;% endhideBlock %&#125;</span><br></pre></td></tr></table></figure>
+<div class="hide-block"><button type="button" class="hide-button button--animated" style="">我是谁
+    </button><div class="hide-content"><p>爷是:<br>
+Weidows</p>
+</div></div>
+</li>
+</ul>
+<h2 id="toggle-收缩框">toggle(收缩框)</h2>
+<figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-tag">&#123;% <span class="name">hideToggle</span> display,bg,color %&#125;</span></span><br><span class="line"><span class="xml">content</span></span><br><span class="line"><span class="template-tag">&#123;% <span class="name">endhideToggle</span> %&#125;</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>
+<p>例如 3:</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;% hideToggle 我是谁 %&#125;</span><br><span class="line">爷是:</span><br><span class="line">Weidows</span><br><span class="line">&#123;% endhideToggle %&#125;</span><br></pre></td></tr></table></figure>
+<div class="hide-toggle" ><div class="hide-button toggle-title" style=""><i class="fas fa-caret-right fa-fw"></i><span>我是谁</span></div>
+    <div class="hide-content"><p>爷是:<br>
+Weidows</p>
+</div></div>
+</li>
+<li>
+<p>tag-hide 内的标签外挂 content 内都不建议有 h1 - h6 等标题。因为 Toc 会把隐藏内容标题也显示出来，而且当滚动屏幕时，如果隐藏内容没有显示出来，会导致 Toc 的滚动出现异常。</p>
+</li>
+</ul>
+<hr>
+<h1>mermaid</h1>
+<ul>
+<li>
+<p>写法:</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% mermaid %&#125;</span><br><span class="line">内容</span><br><span class="line">&#123;% endmermaid %&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>例如:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#123;% mermaid %&#125;</span><br><span class="line">pie</span><br><span class="line">  title Key elements in Product X</span><br><span class="line">  &quot;Calcium&quot; : 42.96</span><br><span class="line">  &quot;Potassium&quot; : 50.05</span><br><span class="line">  &quot;Magnesium&quot; : 10.01</span><br><span class="line">  &quot;Iron&quot; : 5</span><br><span class="line">&#123;% endmermaid %&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>显示:</p>
+<div class="mermaid">pie
+  title Key elements in Product X
+  &quot;Calcium&quot; : 42.96
+  &quot;Potassium&quot; : 50.05
+  &quot;Magnesium&quot; : 10.01
+  &quot;Iron&quot; : 5</div>
+</li>
+<li>
+<p>官方原文:</p>
+<blockquote>
+<ul>
+<li>mermaid 标籤不允许嵌套于一些隐藏属性的标籤外挂，例如: tag-hide 内的标籤外挂和 tabs 标籤外挂，这会导致 mermaid 图示无法正常显示，使用时请留意。</li>
+<li>请不要压缩 html 代码，不然会导致 mermaid 显示异常</li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>压缩HTML很有必要,如何排除这种添加了mermaid的HTML文件呢?</p>
+<blockquote>
+<p>我用的如下方式: 把添加了mermaid的markdown文件命名为 <code>xxx.mmd.md</code>,这样neat时就会被排除了.</p>
+</blockquote>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">neat_html:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">exclude:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&quot;**/*.mmd/*&quot;</span></span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+<hr>
+<h1>tabs(标签块)</h1>
+<ul>
+<li>
+<p>写法:</p>
+<figure class="highlight pgsql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs <span class="keyword">Unique</span> <span class="type">name</span>, [<span class="keyword">index</span>] %&#125;</span><br><span class="line">&lt;!<span class="comment">-- tab [Tab caption] [@icon] --&gt;</span></span><br><span class="line">markdown内容(<span class="keyword">inline</span>)</span><br><span class="line">&lt;!<span class="comment">-- endtab --&gt;</span></span><br><span class="line">&#123;% endtabs %&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">Unique</span> <span class="type">name</span>   : <span class="keyword">Unique</span> <span class="type">name</span> <span class="keyword">of</span> tabs block tag <span class="keyword">without</span> comma.</span><br><span class="line">                Will be used <span class="keyword">in</span> #id<span class="string">&#x27;s as prefix for each tab with their index numbers.</span></span><br><span class="line"><span class="string">                If there are whitespaces in name, for generate #id all whitespaces will replaced by dashes.</span></span><br><span class="line"><span class="string">                Only for current url of post/page must be unique!</span></span><br><span class="line"><span class="string">[index]       : Index number of active tab.</span></span><br><span class="line"><span class="string">                If not specified, first tab (1) will be selected.</span></span><br><span class="line"><span class="string">                If index is -1, no tab will be selected. It&#x27;</span>s will be something <span class="keyword">like</span> spoiler.</span><br><span class="line">                Optional parameter.</span><br><span class="line">[Tab caption] : Caption <span class="keyword">of</span> <span class="keyword">current</span> tab.</span><br><span class="line">                <span class="keyword">If</span> <span class="keyword">not</span> caption specified, <span class="keyword">unique</span> <span class="type">name</span> <span class="keyword">with</span> tab <span class="keyword">index</span> suffix will be used <span class="keyword">as</span> caption <span class="keyword">of</span> tab.</span><br><span class="line">                <span class="keyword">If</span> <span class="keyword">not</span> caption specified, but specified icon, caption will empty.</span><br><span class="line">                Optional parameter.</span><br><span class="line">[@icon]       : FontAwesome icon <span class="type">name</span> (<span class="keyword">full</span>-<span class="type">name</span>, look <span class="keyword">like</span> <span class="string">&#x27;fas fa-font&#x27;</span>)</span><br><span class="line">                Can be specified <span class="keyword">with</span> <span class="keyword">or</span> <span class="keyword">without</span> space; e.g. <span class="string">&#x27;Tab caption @icon&#x27;</span> <span class="keyword">similar</span> <span class="keyword">to</span> <span class="string">&#x27;Tab caption@icon&#x27;</span>.</span><br><span class="line">                Optional parameter.</span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>例如: (test2 标签为预选状态,找不到的话就是第一个)</p>
+<figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="template-tag">&#123;% <span class="name">tabs</span> test2 %&#125;</span></span><br><span class="line"><span class="xml"><span class="comment">&lt;!-- tab 第一个Tab --&gt;</span></span></span><br><span class="line"><span class="xml">**tab名字为第一个Tab**</span></span><br><span class="line"><span class="xml"><span class="comment">&lt;!-- endtab --&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="xml"><span class="comment">&lt;!-- tab @fab fa-apple-pay --&gt;</span></span></span><br><span class="line"><span class="xml">**只有图标 没有Tab名字**</span></span><br><span class="line"><span class="xml"><span class="comment">&lt;!-- endtab --&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="xml"><span class="comment">&lt;!-- tab 炸弹@fas fa-bomb --&gt;</span></span></span><br><span class="line"><span class="xml">**名字+icon**</span></span><br><span class="line"><span class="xml"><span class="comment">&lt;!-- endtab --&gt;</span></span></span><br><span class="line"><span class="template-tag">&#123;% <span class="name">endtabs</span> %&#125;</span></span><br></pre></td></tr></table></figure>
+</li>
+<li>
+<p>显示:</p>
+<div class="tabs" id="test2"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test2-1">第一个Tab</button></li><li class="tab"><button type="button" data-href="#test2-2"><i class="fab fa-apple-pay" style="text-align: center;"></i></button></li><li class="tab"><button type="button" data-href="#test2-3"><i class="fas fa-bomb"></i>炸弹</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test2-1"><p><strong>tab 名字为第一个 Tab</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test2-2"><p><strong>只有图标 没有 Tab 名字</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test2-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+</li>
+</ul>
+<hr>
+<h1>Button</h1>
+<h2 id="写法">写法:</h2>
+<figure class="highlight inform7"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">&#123;% btn <span class="comment">[url]</span>,<span class="comment">[text]</span>,<span class="comment">[icon]</span>,<span class="comment">[color]</span> <span class="comment">[style]</span> <span class="comment">[layout]</span> <span class="comment">[position]</span> <span class="comment">[size]</span> %&#125;</span><br><span class="line"></span><br><span class="line">  <span class="comment">[url]</span>         : 链接</span><br><span class="line">  <span class="comment">[text]</span>        : 按钮文字</span><br><span class="line">  <span class="comment">[icon]</span>        : <span class="comment">[可选]</span> 图标</span><br><span class="line">  <span class="comment">[color]</span>       : <span class="comment">[可选]</span> 按钮背景顔色(默认style时）</span><br><span class="line">                        按钮字体和边框顔色(outline时)</span><br><span class="line">                        default/blue/pink/red/purple/orange/green</span><br><span class="line">  <span class="comment">[style]</span>       : <span class="comment">[可选]</span> 按钮样式 默认实心</span><br><span class="line">                        outline/留空</span><br><span class="line">  <span class="comment">[layout]</span>      : <span class="comment">[可选]</span> 按钮佈局 默认为line</span><br><span class="line">                        block/留空</span><br><span class="line">  <span class="comment">[position]</span>    : <span class="comment">[可选]</span> 按钮位置 前提是设置了layout为block 默认为左边</span><br><span class="line">                        center/right/留空</span><br><span class="line">  <span class="comment">[size]</span>        : <span class="comment">[可选]</span> 按钮大小</span><br><span class="line">                        larger/留空</span><br></pre></td></tr></table></figure>
+<h2 id="好康的-demo">好康的 demo:</h2>
+<figure class="highlight processing"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&#123;% btn <span class="string">&#x27;http://www.jerryc.me&#x27;</span>,JerryC,far fa-hand-<span class="built_in">point</span>-right,outline <span class="built_in">blue</span> larger %&#125;</span><br><span class="line">&#123;% btn <span class="string">&#x27;http://www.jerryc.me&#x27;</span>,JerryC,far fa-hand-<span class="built_in">point</span>-right,outline pink larger %&#125;</span><br><span class="line">&#123;% btn <span class="string">&#x27;http://www.jerryc.me&#x27;</span>,JerryC,far fa-hand-<span class="built_in">point</span>-right,outline <span class="built_in">red</span> larger %&#125;</span><br><span class="line">&#123;% btn <span class="string">&#x27;http://www.jerryc.me&#x27;</span>,JerryC,far fa-hand-<span class="built_in">point</span>-right,outline purple larger %&#125;</span><br><span class="line">&#123;% btn <span class="string">&#x27;http://www.jerryc.me&#x27;</span>,JerryC,far fa-hand-<span class="built_in">point</span>-right,outline orange larger %&#125;</span><br><span class="line">&#123;% btn <span class="string">&#x27;http://www.jerryc.me&#x27;</span>,JerryC,far fa-hand-<span class="built_in">point</span>-right,outline <span class="built_in">green</span> larger %&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>演示:<a class="btn-beautify button--animated outline blue larger" target="_blank" rel="noopener" href="http://www.jerryc.me" 
+  title="JerryC"><i class="far fa-hand-point-right fa-fw"></i><span>JerryC</span></a>
+<a class="btn-beautify button--animated outline pink larger" target="_blank" rel="noopener" href="http://www.jerryc.me" 
+  title="JerryC"><i class="far fa-hand-point-right fa-fw"></i><span>JerryC</span></a>
+<a class="btn-beautify button--animated outline red larger" target="_blank" rel="noopener" href="http://www.jerryc.me" 
+  title="JerryC"><i class="far fa-hand-point-right fa-fw"></i><span>JerryC</span></a>
+<a class="btn-beautify button--animated outline purple larger" target="_blank" rel="noopener" href="http://www.jerryc.me" 
+  title="JerryC"><i class="far fa-hand-point-right fa-fw"></i><span>JerryC</span></a>
+<a class="btn-beautify button--animated outline orange larger" target="_blank" rel="noopener" href="http://www.jerryc.me" 
+  title="JerryC"><i class="far fa-hand-point-right fa-fw"></i><span>JerryC</span></a>
+<a class="btn-beautify button--animated outline green larger" target="_blank" rel="noopener" href="http://www.jerryc.me" 
+  title="JerryC"><i class="far fa-hand-point-right fa-fw"></i><span>JerryC</span></a>
+</li>
+</ul>
+<hr>
+<h1>_config.yml</h1>
+<ul>
+<li>合并:把 themes/xxx/_config.yml 移动到 source/_data/里,并改名为 xxx.yml</li>
+<li>我所遇到的各种问题
+<ul>
+<li>这里面 inject js/css 功能只能插入本地的,而且必须是./形式</li>
+<li>css 的 inject 在 head,js 的 inject 在 body,不能改变位置(失效)</li>
+<li>valine 设置处的 placeholder 不能写带单引号的内容,会导致整个 valine 评论崩溃不显示</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h1>图片引入</h1>
+<ul>
+<li>引入图片,在 source 里面当路径正确出现图片时,还需要再加一层</li>
+<li>因为在 Hexo generate 时会多出现一层路径,需要在 source 里多一个…/</li>
+</ul>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">⎛⎝Weidows⎠⎞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://weidows.github.io/post/Web/Node/Hexo/Hexo-fansy.mmd/">https://weidows.github.io/post/Web/Node/Hexo/Hexo-fansy.mmd/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://weidows.github.io" target="_blank">⭐️齐下无贰⭐️</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E5%A4%87%E5%BF%98%E5%BD%95/">备忘录</a><a class="post-meta__tags" href="/tags/Website/">Website</a><a class="post-meta__tags" href="/tags/Markdown/">Markdown</a><a class="post-meta__tags" href="/tags/HTML/">HTML</a><a class="post-meta__tags" href="/tags/Hexo/">Hexo</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button button--animated"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_ful.jpeg" target="_blank"><img class="post-qr-code-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat.jpeg" alt="微信"/></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/alipay_ful.jpeg" target="_blank"><img class="post-qr-code-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/alipay.jpeg" alt="支付宝"/></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/post/Web/Node/Hexo/inject_method/"><img class="prev-cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg" onerror="onerror=null;src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg'" alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">两种inject自定义Js/CSS文件方法 &amp;&amp; Pjax冲突解决方案</div></div></a></div><div class="next-post pull-right"><a href="/post/Java/jvm_model/"><img class="next-cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg" onerror="onerror=null;src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">JVM内存模型</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span> 相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/Web/Node/Hexo/inject_method/" title="两种inject自定义Js/CSS文件方法 && Pjax冲突解决方案"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">两种inject自定义Js/CSS文件方法 && Pjax冲突解决方案</div></div></a></div><div><a href="/post/tools/Git/GitHub-Pages-deploy/" title="一篇扫清:GitHub-Pages自动化部署 + github/gitee选择"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">一篇扫清:GitHub-Pages自动化部署 + github/gitee选择</div></div></a></div><div><a href="/post/Web/Node/Hexo/Hexo-plugin/" title="淦翻Hexo各种插件安装+调试"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/kMeomhHj91xn6T2.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">淦翻Hexo各种插件安装+调试</div></div></a></div><div><a href="/post/experience/PHP_interface/" title="关于在不会PHP的情况下调用PHP API"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Dxy6jwQotKsIEX5.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">关于在不会PHP的情况下调用PHP API</div></div></a></div><div><a href="/post/Web/Node/Hexo/Hexo-SEO/" title="👌Hexo-SEO 搜索引擎优化"><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">👌Hexo-SEO 搜索引擎优化</div></div></a></div><div><a href="/post/Web/Node/Hexo/optimize/" title="🚀网站优化记录."><img class="cover" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2021-07-19</div><div class="title">🚀网站优化记录.</div></div></a></div></div></div><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="card-info-avatar is-center"><img class="avatar-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp'" alt="avatar"/><div class="author-info__name">⎛⎝Weidows⎠⎞</div><div class="author-info__description">油盐齐下，锅铲无贰。</div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">103</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">109</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">29</div></a></div></div><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Weidows" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:utsuko27@qq.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg" target="_blank" title="QQ号"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg" target="_blank" title="微信号"><i class="fab fa-weixin"></i></a><a class="social-icon" href="/+86-18330785221" target="_blank" title="手机号"><i class="fad fa-phone-rotary"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn card-announcement-animation"></i><span>公告</span></div><div class="announcement_content"><center><h2 style="color:aqua">-> 欢迎,锟斤拷! <-</h2><img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/aimi.png" /><h2 style="color:deeppink">站内图片需要IPv6加载</h2></center></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">1.</span> <span class="toc-text">Hexo 文章标题 &amp; 格式</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%82%AF%E5%AE%9A%E8%A6%81%E8%83%8C%E8%BF%87%E7%9A%84"><span class="toc-number">1.1.</span> <span class="toc-text">肯定要背过的</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BB%A5%E4%B8%8B%E6%98%AF%E6%B2%A1%E7%94%A8%E8%BF%87%E6%88%96%E6%97%A0%E6%95%88%E7%9A%84"><span class="toc-number">1.2.</span> <span class="toc-text">以下是没用过或无效的</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">2.</span> <span class="toc-text">标签外挂</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">3.</span> <span class="toc-text">Gallery 相册图库</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#div-%E5%BC%8F%E5%86%99%E6%B3%95"><span class="toc-number">3.1.</span> <span class="toc-text">div 式写法</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%95%88%E6%9E%9C"><span class="toc-number">3.2.</span> <span class="toc-text">效果:</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%9B%B8%E5%86%8C%E5%BD%A2%E5%BC%8F-%E8%87%AA%E5%8A%A8%E6%8E%92%E5%88%97"><span class="toc-number">3.3.</span> <span class="toc-text">另一种相册形式(自动排列)</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">4.</span> <span class="toc-text">tag-hide</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#inline-%E4%B8%80%E8%A1%8C%E5%86%85"><span class="toc-number">4.1.</span> <span class="toc-text">inline(一行内)</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Block-%E5%9D%97"><span class="toc-number">4.2.</span> <span class="toc-text">Block(块)</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#toggle-%E6%94%B6%E7%BC%A9%E6%A1%86"><span class="toc-number">4.3.</span> <span class="toc-text">toggle(收缩框)</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">5.</span> <span class="toc-text">mermaid</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">6.</span> <span class="toc-text">tabs(标签块)</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">7.</span> <span class="toc-text">Button</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%86%99%E6%B3%95"><span class="toc-number">7.1.</span> <span class="toc-text">写法:</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%A5%BD%E5%BA%B7%E7%9A%84-demo"><span class="toc-number">7.2.</span> <span class="toc-text">好康的 demo:</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">8.</span> <span class="toc-text">_config.yml</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">9.</span> <span class="toc-text">图片引入</span></a></li></ol></div></div></div></div></main><footer id="footer" style="background-image: url('https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg')"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2021 <i style="color:#FF6A6A" class="fa fa-heartbeat"></i> ⎛⎝Weidows⎠⎞</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://gitee.com/Weidows/Weidows" target="_blank" title="静态网页托管于 Github + Gitee" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Github + Gitee-Pages</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.jsdelivr.com/" target="_blank" title="jsDelivr + SM.MS 提供 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">JsDelivr + SM.MS</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://www.beian.miit.gov.cn/" target="_blank" title="备案" data-pjax-state=""><span class="badge-subject">冀ICP备</span><span class="badge-value bg-orange">2333-3号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.autoSpacingPage()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.autoSpacingPage()
+      })
+  }
+}
+
+function panguInit () {
+  if (true){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/js/search/local-search.js"></script><script>var preloader = {
+  endLoading: () => {
+    document.body.style.overflow = 'auto';
+    document.getElementById('loading-box').classList.add("loaded")
+  },
+  initLoading: () => {
+    document.body.style.overflow = '';
+    document.getElementById('loading-box').classList.remove("loaded")
+
+  }
+}
+window.addEventListener('load',preloader.endLoading())</script><div class="js-pjax"><script>if (document.getElementsByClassName('mermaid').length) {
+  if (window.mermaidJsLoad) mermaid.init()
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(() => {
+      window.mermaidJsLoad = true
+      mermaid.initialize({
+        theme: 'default',
+      })
+      true && mermaid.init()
+    })
+  }
+}</script><script>function loadWaline () {
+  function initWaline () {
+    let initData = {
+      el: '#waline-wrap',
+      serverURL: 'https://waline-sigma.vercel.app',
+      avatar: 'monsterid',
+      path: location.pathname,
+      emojiCDN: '',
+      emojiMaps: {"heo-再见":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/再见.png","heo-呲牙笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呲牙笑.png","heo-微笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/微笑.png","heo-亲亲":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/亲亲.png","heo-愤怒":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/愤怒.png","heo-惊吓":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惊吓.png","heo-尴尬":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/尴尬.png","heo-捂嘴笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/捂嘴笑.png","heo-捂脸":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/捂脸.png","heo-生病":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/生病.png","heo-绿帽":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/绿帽.png","heo-鼓掌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/鼓掌.png","heo-抠鼻":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/抠鼻.png","heo-感动":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/感动.png","heo-吐血":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吐血.png","heo-鬼脸":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/鬼脸.png","heo-擦汗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/擦汗.png","heo-惊讶":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/惊讶.png","heo-恶心":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/恶心.png","heo-禁言":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/禁言.png","heo-睡觉":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/睡觉.png","heo-笑哭":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/笑哭.png","heo-思考":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/思考.png","heo-疑问":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疑问.png","heo-奋斗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/奋斗.png","heo-耍酷":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/耍酷.png","heo-吵架":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吵架.png","heo-眩晕":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/眩晕.png","heo-哭泣":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哭泣.png","heo-开心":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/开心.png","heo-害羞":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/害羞.png","heo-喜欢":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/喜欢.png","heo-烦恼":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/烦恼.png","heo-爆炸":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/爆炸.png","heo-熬夜":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熬夜.png","heo-吃瓜":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/吃瓜.png","heo-阴险":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/阴险.png","heo-狗头":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头.png","heo-滑稽":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽.png","heo-被打":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/被打.png","heo-哈士奇":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇.png","heo-大笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/大笑.png","heo-加班":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/加班.png","heo-唱歌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/唱歌.png","heo-纠结":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/纠结.png","heo-发红包":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/发红包.png","heo-送福":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/送福.png","heo-牛年进宝":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/牛年进宝.png","heo-狗头围脖":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头围脖.png","heo-狗头花":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头花.png","heo-狗头草":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头草.png","heo-头秃":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/头秃.png","heo-狗头胖次":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/狗头胖次.png","heo-我看好你":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/我看好你.png","heo-好的":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好的.png","heo-好奇":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/好奇.png","heo-偷偷看":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/偷偷看.png","heo-危险":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/危险.png","heo-小丑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/小丑.png","heo-引起不适":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/引起不适.png","heo-滑稽喝水":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽喝水.png","heo-熊猫":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫.png","heo-熊猫唱歌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫唱歌.png","heo-打牌":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打牌.png","heo-哈士奇失去意识":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/哈士奇失去意识.png","heo-应援":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/应援.png","heo-熊猫喜欢":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫喜欢.png","heo-疼痛":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/疼痛.png","heo-勉强笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/勉强笑.png","heo-看穿一切":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/看穿一切.png","heo-滑稽狂汗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽狂汗.png","heo-不好意思":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/不好意思.png","heo-菜狗":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗.png","heo-难以置信":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/难以置信.png","heo-月饼":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/月饼.png","heo-滑稽被子":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/滑稽被子.png","heo-倚墙笑":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/倚墙笑.png","heo-出家人":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png","heo-菜狗花":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/菜狗花.png","heo-黑线":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/黑线.png","heo-呦吼":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/呦吼.png","heo-有没有搞错":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/有没有搞错.png","heo-打咩":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/打咩.png","heo-扶额":"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/扶额.png"},
+    }
+    
+    if (false) {
+      const otherData = false
+      initData = Object.assign(initData, otherData)
+    }
+    
+    const waline = new Waline(initData)
+  }
+
+  if (typeof Waline === 'function') initWaline() 
+  else getScript('https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js').then(initWaline)
+}
+
+if ('Waline' === 'Waline' || !false) {
+  if (false) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
+  'title',
+  '#config-diff',
+  '#body-wrap',
+  '#rightside-config-hide',
+  '#rightside-config-show',
+  '.js-pjax'
+]
+
+if (false) {
+  pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
+}
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  if (typeof gtag === 'function') {
+    gtag('config', '', {'page_path': window.location.pathname});
+  }
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // Analytics
+  if (false) {
+    MtaH5.pgv()
+  }
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+
+  Weidows.re();
+})
+
+document.addEventListener('pjax:send', function () {
+  typeof preloader === 'object' && preloader.initLoading()
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><!-- hexo injector body_end start -->
+  <script data-pjax src="https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js"></script>
+  <script data-pjax>
+        function GithubCalendarConfig(){
+            var git_githubapiurl ="https://python-github-calendar-api.vercel.app/api?Weidows";
+            var git_color =['#ebedf0', '#fdcdec', '#fc9bd9', '#fa6ac5', '#f838b2', '#f5089f', '#c4067e', '#92055e', '#540336', '#48022f', '#30021f'];
+            var git_user ="Weidows";
+            var parent_div_git = document.getElementById('recent-posts');
+            var git_div_html = '<div class="recent-post-item" style="width:100%;height:auto;padding:10px;"><div id="github_loading" style="width:10%;height:100%;margin:0 auto;display: block"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 50 50" style="enable-background:new 0 0 50 50" xml:space="preserve"><path fill="#d0d0d0" d="M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z" transform="rotate(275.098 25 25)"><animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform></path></svg></div><div id="github_container"></div></div>';
+            if(parent_div_git && location.pathname =='/'){
+                console.log('已挂载github calendar')
+                // parent_div_git.innerHTML=git_div_html+parent_div_git.innerHTML // 无报错，但不影响使用(支持pjax跳转)
+                parent_div_git.insertAdjacentHTML("afterbegin",git_div_html) // 有报错，但不影响使用(支持pjax跳转)
+            };
+            GithubCalendar(git_githubapiurl,git_color,git_user)
+        }
+        if(document.getElementById('recent-posts')){
+            GithubCalendarConfig()
+        }
+    </script>
+    <style>#github_container{min-height:280px}@media screen and (max-width:650px) {#github_container{background-image:;min-height:0px}}</style>
+    <style></style><!-- hexo injector body_end end --><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/tororo.model.json"},"display":{"position":"left","width":180,"height":300},"mobile":{"show":false},"react":{"opacity":0.7},"log":false});</script></body></html>
