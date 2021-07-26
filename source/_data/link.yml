@@ -1,58 +1,5 @@
-- class_name: 巨人的肩膀
-  class_desc: 大佬的伟大是此处一切美的颜料,大佬们是地基,但必须站在楼顶!
-  link_list:
-    - name: JerryC
-      link: https://jerryc.me/
-      avatar: https://jerryc.me/image/avatar.png
-      descr: 今日事,今日畢
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
-    - name: 小康博客
-      link: https://www.antmoe.com/
-      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
-      descr: 一个收藏回忆与分享技术的地方！
-    - name: cungudafa
-      link: https://cungudafa.top
-      avatar: https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg
-      descr: 一个学习记录者
-    - name: Mashiro
-      link: https://2heng.xin
-      avatar: https://view.moezx.cc/images/2018/03/27/avatar.jpg
-      descr: 樱花庄的白猫
-    - name: Hermoso
-      link: www.webpages.show
-      avatar: http://tu.webpages.show/avatar/avatar.png
-      descr: 时间如一捧流沙,缓缓的在指间流尽
-    - name: 璃心
-      link: https://luoyou.art/
-      avatar: https://user-images.githubusercontent.com/60562661/74096556-7c5f5e80-4b3b-11ea-817b-b289ffba24a3.jpg
-      descr: 人工智能-深度学习，计算机视觉，算法，数学
-    - name: Sky03’s Blog
-      link: https://blog.sky03.cn/
-      avatar: https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io/medias/avatar.jpg
-      descr: 梦想注定是孤独的旅程。。。
-    - name:  ConstOwn
-      link: https://blog.juanertu.com
-      avatar: https://blog.juanertu.com/images/avatar.png
-      descr: 能与你一起成长，我荣幸之至。
-    - name: Heo
-      link: https://blog.zhheo.com/
-      avatar: https://blog.zhheo.com/img/avatar.png
-      descr: 爱折腾的设计师
-    # - name:
-    #   link:
-    #   avatar:
-    #   descr:
-    - name: Weidows
-      link: https://weidows.gitee.io/
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
-      descr: 此人没有其他朋友了
-
-
 - class_name: 路宇同行客
-  class_desc: 不管有没有转弯,那些路标实实在在的在窗里窗外出现过..
+  class_desc: 如侠客一般游走于各路上的行者. (俗称校友)
   link_list:
     - name: CregskiN
       link: https://github.com/CregskiN
@@ -82,15 +29,43 @@
     #   link:
     #   avatar:
     #   descr:
-    - name: Weidows
-      link: https://weidows.gitee.io/
+    - name: ⭐️齐下无贰⭐️
+      link: https://weidows.gitee.io
       avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
-      descr: 此人没有其他朋友了
+      descr: 此人没有其他朋友了..
 
 
-- class_name: 友朋自远方来,不亦乐乎?
-  class_desc: 我的两个朋友想认识你,我的左手想,我的右手也想...
+- class_name: 巨人的肩膀
+  class_desc: 此情此景,一切美的颜料!
   link_list:
+    - name: JerryC
+      link: https://butterfly.js.org/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 今日事,今日畢
+    - name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+    - name: cungudafa
+      link: https://cungudafa.top
+      avatar: https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg
+      descr: 一个学习记录者
+    - name: Mashiro
+      link: https://2heng.xin
+      avatar: https://view.moezx.cc/images/2018/03/27/avatar.jpg
+      descr: 樱花庄的白猫
+    - name: Sky03’s Blog
+      link: https://blog.sky03.cn/
+      avatar: https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io/medias/avatar.jpg
+      descr: 梦想注定是孤独的旅程。。。
+    - name: ConstOwn
+      link: https://blog.juanertu.com
+      avatar: https://blog.juanertu.com/images/avatar.png
+      descr: 能与你一起成长，我荣幸之至。
+    - name: Heo
+      link: https://blog.zhheo.com/
+      avatar: https://blog.zhheo.com/img/avatar.png
+      descr: 爱折腾的设计师
     - name: uncleacc
       link: https://www.fezhu.top
       avatar: https://cdn.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
@@ -108,8 +83,8 @@
       avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
       descr: 不是只会写业务代码の前端攻城狮
     - name: Flexiston
-      link: 'https://flesx.cn'
-      avatar: 'https://rmt.dogedoge.com/fetch/Flexiston/storage/ava.jpg?fmt=webp'
+      link: "https://flesx.cn"
+      avatar: "https://rmt.dogedoge.com/fetch/Flexiston/storage/ava.jpg?fmt=webp"
       descr: 立即行动吧，未来要自己争取
     - name: 山河
       link: https://sang.pub/
@@ -118,11 +93,11 @@
     - name: HCLonely
       link: https://blog.hclonely.com/
       avatar: https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@latest/img/avatar.jpg
-      descr:  一个懒人的博客
+      descr: 一个懒人的博客
     - name: 昔日博客
       link: http://bk.hyk416.cn
       avatar: https://bk.hyk416.cn/wp-content/uploads/2019/12/hyk0416_avatar-96x96.jpg
-      descr:  一个喜欢捣鼓的技术宅男
+      descr: 一个喜欢捣鼓的技术宅男
     - name: 清梦
       link: https://ahzoo.cn/
       avatar: https://ahzoo.cn/img/avatar.jpg
@@ -139,7 +114,7 @@
     #   link:
     #   avatar:
     #   descr:
-    - name: Weidows
-      link: https://weidows.gitee.io/
+    - name: ⭐️齐下无贰⭐️
+      link: https://weidows.gitee.io
       avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
-      descr: 此人没有其他朋友了
+      descr: 此人没有其他朋友了..

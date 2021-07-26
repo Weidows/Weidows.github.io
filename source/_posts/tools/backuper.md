@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-07 11:09:39
+ * @LastEditTime: 2021-07-23 11:09:33
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\backuper.md
  * @Description:
  * @!: *********************************************************************
@@ -63,7 +63,7 @@ top_img:
 
 > 这里只是提供一个思路,具体怎么备份还需要根据系统、需求、位置来决定.
 
-- 仅仅需要一个脚本 [我的备份脚本](https://github.com/Weidows-projects/Programming-Configuration/blob/master/local/backup.bat)
+- 仅仅需要一个脚本 [我的备份脚本](https://github.com/Weidows-projects/Programming-Configuration/blob/master/local/utils.bat)
 
   ```bat
   @REM 开机后设置备份,使用start是在新的终端同时进行的,call是按顺序依次

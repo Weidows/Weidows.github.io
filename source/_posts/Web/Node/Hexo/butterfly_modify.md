@@ -19,7 +19,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:05:05
+ * @LastEditTime: 2021-07-26 13:56:34
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\butterfly_modify.md
 -->
 
@@ -277,7 +277,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 # 适配 Pjax
 
-- 定位`~buttery/layout/include/third-party/pjax.pug`
+- 定位`~butterfly/layout/include/third-party/pjax.pug`
 
   - 在`document.addEventListener('pjax:complete', function () {}`里最后插入
   - `注意缩进对齐!`

@@ -18,7 +18,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-02 11:39:10
+ * @LastEditTime: 2021-07-23 15:39:23
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -38,6 +38,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
   - [Chocolatey](#chocolatey)
 - [好文传送](#好文传送)
 - [安装异常](#安装异常)
+  - [网络原因](#网络原因)
+  - [环境原因](#环境原因)
 - [更新&备份&推荐](#更新备份推荐)
 
 # 引入变量
@@ -251,6 +253,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 # 安装异常
 
+## 网络原因
+
 - 比如我在用 scoop 安装 pwsh 时,会遇到 MD5 不匹配或者与 GitHub 连接异常的情况,安装失败
 - 举例:
   - 我安装`gitkraken`时,不开 aria2 下载出错,开了的话下载特慢,而且下载时间趋近无穷..
@@ -296,6 +300,18 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
   ```shell
   scoop config aria2-enabled true
   ```
+
+---
+
+## 环境原因
+
+- 这是个极其 dan 疼的报错,什么都没告诉你,还怼了句不明不白的话.
+
+  > ERROR Shovel flavour of scoop is required
+
+- 报错原因是软件安装所需要的环境没满足
+
+  具体是什么环境需要自己查,每个软件不一样
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

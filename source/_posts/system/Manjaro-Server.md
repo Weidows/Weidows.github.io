@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
  * @Author: Weidows
  * @Date: 2021-02-03 14:00:21
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-07 00:18:55
+ * @LastEditTime: 2021-07-23 10:23:55
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Manjaro-Server.md
  * @Description:
  * @!: *********************************************************************
@@ -33,6 +33,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
   - [更新](#更新)
 - [配置 docker](#配置-docker)
 - [软件安装](#软件安装)
+- [更新失败](#更新失败)
+  - [文件冲突](#文件冲突)
 
 # 系统选择
 
@@ -141,6 +143,8 @@ sudo pacman-mirrors -i -c China -m rank
 
 ## 更新
 
+换源后执行一下,更新本地软件包数据库.
+
 - 更新软件包
 
   ```
@@ -150,7 +154,7 @@ sudo pacman-mirrors -i -c China -m rank
 - 更新所有
 
   ```
-  pacman -Syu
+  pacman -Syyu
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -168,3 +172,34 @@ sudo pacman-mirrors -i -c China -m rank
 ```
 sudo pacman -S docker
 ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 更新失败
+
+## 文件冲突
+
+- 这种删掉它提示的文件就好了,可能会报好多个,如下:
+
+  ```
+  有冲突的文件:
+  - plasma-workspace：/usr/lib/qt/plugins/kcm_formats.so 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/lib/qt/plugins/kcms/kcm_autostart.so 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/lib/qt/plugins/kcms/kcm_nightcolor.so 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/lib/qt/plugins/kcms/kcm_notifications.so 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/share/doc/HTML/ca/kcontrol/autostart/index.cache.bz2 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/share/doc/HTML/ca/kcontrol/autostart/index.docbook 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/share/doc/HTML/ca/kcontrol/formats/index.cache.bz2 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/share/doc/HTML/ca/kcontrol/formats/index.docbook 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  - plasma-workspace：/usr/share/doc/HTML/ca/kcontrol/notifications/index.cache.bz2 已经存在于文件系统中（所有者为plasma-desktop-primex）
+  ```
+
+- 把提示的内容复制进文本编辑器 (比如 VScode)
+
+  `- plasma-workspace：` 和 `已经存在于文件系统中（所有者为plasma-desktop-primex）` 都是重复的,按 `Ctrl + shift + L` 可以选中全部,然后删掉,再去掉换行符整合到一行,结果如下:
+
+  ```
+  sudo rm /usr/lib/qt/plugins/kcm_formats.so /usr/lib/qt/plugins/kcms/kcm_autostart.so /usr/lib/qt/plugins/kcms/kcm_nightcolor.so /usr/lib/qt/plugins/kcms/kcm_notifications.so /usr/share/doc/HTML/ca/kcontrol/autostart/index.cache.bz2 /usr/share/doc/HTML/ca/kcontrol/autostart/index.docbook /usr/share/doc/HTML/ca/kcontrol/formats/index.cache.bz2 /usr/share/doc/HTML/ca/kcontrol/formats/index.docbook /usr/share/doc/HTML/ca/kcontrol/notifications/index.cache.bz2 /usr/share/doc/HTML/ca/kcontrol/notifications/index.docbook /usr/share/doc/HTML/de/kcontrol/autostart/index.cache.bz2 /usr/share/doc/HTML/de/kcontrol/autostart/index.docbook /usr/share/doc/HTML/de/kcontrol/formats/index.cache.bz2 /usr/share/doc/HTML/de/kcontrol/formats/index.docbook /usr/share/doc/HTML/en/kcontrol/autostart/index.cache.bz2 /usr/share/doc/HTML/en/kcontrol/autostart/index.docbook /usr/share/doc/HTML/en/kcontrol/formats/index.cache.bz2 /usr/share/doc/HTML/en/kcontrol/formats/index.docbook /usr/share/doc/HTML/en/kcontrol/notifications/index.cache.bz2
+  ```
+
+- 然后复制进 console 执行->再次更新->成功!

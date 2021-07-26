@@ -17,13 +17,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-06 18:55:33
+ * @LastEditTime: 2021-07-23 14:27:53
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\shell.md
 -->
 
 - [通用](#通用)
   - [文件末尾追加命令](#文件末尾追加命令)
   - [输出重定向](#输出重定向)
+  - [启动程序](#启动程序)
 - [CMD/PowerShell](#cmdpowershell)
 - [Linux](#linux)
   - [查杀进程](#查杀进程)
@@ -73,9 +74,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 > [2>/dev/null 和>/dev/null 2>&1 和 2>&1>/dev/null 的区别](https://blog.csdn.net/longgeaisisi/article/details/90519690)
 
+---
+
+## 启动程序
+
+> [同步(Synchronous)和异步(Asynchronous)](https://www.cnblogs.com/IT-CPC/p/10898871.html) 同步，就是调用某个东西是，调用方得等待这个调用返回结果才能继续往后执行。异步，和同步相反 调用方不会理解得到结果，而是在调用发出后调用者可用继续执行后续操作，被调用者通过状体来通知调用者，或者通过回掉函数来处理这个调用
+
+- start 异步
+
+- call 同步
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # CMD/PowerShell
+
+> [批处理定义子程序](https://www.hxstrive.com/article/804.htm)
 
 |              指令              |       作用       |
 | :----------------------------: | :--------------: |
@@ -89,6 +102,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 |          `copy/xcopy`          |    复制/剪切     |
 |         `start + exe`          |   打开应用程序   |
 | `start/explore + URL/HTML文件` | 用默认浏览器打开 |
+|      `microsoft-edge:URL`      | 用 edge 打开 URL |
 
 - 注意 cmd 不支持`/`作为路径,PowerShell 支持
 
