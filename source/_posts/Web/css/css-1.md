@@ -47,7 +47,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
   - [圆角边框](#圆角边框)
   - [阴影](#阴影)
 
-# [GitHub 源码](https://github.com/Weidows/Weidows/tree/master/Web/css)
+# [GitHub 源码](https://github.com/Weidows/Java/tree/master/Web/css)
 
 # 需要了解的
 

@@ -73,4 +73,4 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
 
 # 源码链接
 
-> [源码链接](https://github.com/Weidows/Weidows/blob/master/.vscode/lights-on.css)
+> [源码链接](https://github.com/Weidows-projects/weidows-beautify-pack/blob/main/css/lights-on.css)

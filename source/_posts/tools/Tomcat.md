@@ -98,7 +98,7 @@ top_img:
 
 - `JavaWeb\src\main\webapp\WEB-INF\web.xml` 是 web 项目核心应用
 
-> [点这里参考项目结构](https://github.com/Weidows/Weidows/tree/master/JavaWeb/demo-0)
+> [点这里参考项目结构](https://github.com/Weidows/Java/tree/master/JavaWeb/demo-0)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

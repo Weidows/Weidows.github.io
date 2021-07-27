@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-07 19:28:43
+ * @LastEditTime: 2021-07-26 15:26:47
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -23,10 +23,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 - [窗口逸出](#窗口逸出)
   - [解决方案](#解决方案)
-- [打开终端](#打开终端)
-  - [方法一](#方法一)
-  - [方法二](#方法二)
-  - [方法三](#方法三)
+- [终端](#终端)
+  - [打开方式](#打开方式)
+    - [方法一](#方法一)
+    - [方法二](#方法二)
+    - [方法三](#方法三)
+  - [切换路径](#切换路径)
 - [压缩包内容异常](#压缩包内容异常)
 - [office](#office)
   - [`office2019` 和 `office365` 区别.](#office2019-和-office365-区别)
@@ -50,23 +52,48 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 - => `解决`!
 
-# 打开终端
+# 终端
 
-## 方法一
+## 打开方式
+
+### 方法一
 
 `Windows + R`,输入 cmd,回车就出来了.
 
-## 方法二
+### 方法二
 
 在文件夹空白处按住`shift + 右键`,会出来`在此处打开PowerShell窗口`
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/4HflJZPK8W95i1A.png" alt="20210103142309" />
 
-## 方法三
+### 方法三
 
 直接在路径栏中输入 cmd 回车.
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jvCbW19uq6ohExN.png" alt="20210103142458" />
+
+---
+
+## 切换路径
+
+- 秃然一天,发现 cmd 路径无法切换??!!
+
+  > 百度了一下找到了原因: [cmd 下无法切换路径问题](https://blog.csdn.net/weixin_38089515/article/details/76339030)
+
+  如下,需要先切换一下盘符..
+
+  ```cmd
+  C:\Users\29845>cd D:\Game\Github\Programming-Configuration\lists
+
+  C:\Users\29845>cd D:\
+
+  C:\Users\29845>cd D:
+  D:\
+
+  C:\Users\29845>d:
+
+  D:\>
+  ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

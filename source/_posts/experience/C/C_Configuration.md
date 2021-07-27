@@ -15,16 +15,16 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fsj7FMhOw2WpigX.jpg
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-11 23:43:02
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\C\C_Configuration.md
+ * @LastEditTime: 2021-07-27 16:43:24
+ * @FilePath: \Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 
 - [编译器](#编译器)
 - [配置语言环境](#配置语言环境)
 - [VScode 内插件配置](#vscode-内插件配置)
 - [VScode 工作区配置](#vscode-工作区配置)
-  - [`launch.json`](#launchjson)
-  - [`task.json`](#taskjson)
+  - [launch.json](#launchjson)
+  - [task.json](#taskjson)
   - [源码 Github 链接](#源码-github-链接)
 - [`重头戏!`--解决乱码问题](#重头戏--解决乱码问题)
   - [解决方案:](#解决方案)
@@ -67,22 +67,21 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 - `llvm-mingw`
 
-  - scoop 里发现的神奇环境,是 win-clang
+  - scoop 里发现的神奇环境,是 clang/gcc 都有
 
 ---
 
 # 配置语言环境
 
-- 下载`MinGW64编译器`,这个不用安装,解压到想放的位置就行(注意存放路径不要出现中文或特殊符号)
+1. 下载`MinGW64编译器`,解压到想放的位置就行(注意存放路径不要出现中文或特殊符号)
 
-- 然后打开`MinGW64\bin`并复制其路径,比如:
-  `D:\Game\Dev-Cpp\MinGW64\bin`
+2. 然后打开 `MinGW64\bin` 并复制其路径,比如: `D:\Game\Dev-Cpp\MinGW64\bin`
 
-- 打开系统属性配置`环境变量`,在`Path`中新建添加以上路径
+3. 打开系统属性配置`环境变量`,在`Path`中新建添加以上路径
 
-- 好了,现在 gcc/g++编译器可以正常使用了
+4. 重启电脑 -> 现在 gcc/g++编译器可以正常使用了
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # VScode 内插件配置
 
@@ -90,7 +89,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 - 再下载`Code Runner`,用于直接通过一条指定指令来编译运行程序 (除非不嫌麻烦想敲又臭又长的命令行执行)
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # VScode 工作区配置
 
@@ -101,13 +100,13 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
   - 注意如果代码源文件取名`包含中文`肯定会导致调试程序`报错`(但是可以用 Code Runner 运行)
 
 ```
-- .vscode
-  - launch.json
-  - setting.json
-  - task.json
+|> .vscode
+  |> launch.json  (必须)
+  |> setting.json (非必须)
+  |> task.json    (必须)
 ```
 
-## `launch.json`
+## launch.json
 
 ```
 {
@@ -139,7 +138,9 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 }
 ```
 
-## `task.json`
+---
+
+## task.json
 
 ```
 {
@@ -161,7 +162,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 }
 ```
 
-## [源码 Github 链接](https://github.com/Weidows/Weidows/tree/master/.vscode)
+## [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/others/.vscode)
 
 ---
 

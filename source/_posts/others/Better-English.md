@@ -10,7 +10,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-07-26 09:53:32
-cover:
+cover: https://i.loli.net/2021/07/26/kpxVB81cI4T2Xbg.jpg
 top_img:
 ---
 
@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-26 11:27:16
+ * @LastEditTime: 2021-07-27 09:42:33
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -99,6 +99,18 @@ top_img:
 - specific
 
   adj. 特殊的，`特定的`；明确的；详细的；[药] 具有特效的, n. 特性；细节；特效药
+
+- persist
+
+  vi. 存留，坚持 (`持久化`)；持续，固执 vt. 坚持说，反复说
+
+- bind
+
+  vi. `结合`；装订；有约束力；过紧, vt. 绑；约束；装订；包扎；凝固, n. 捆绑；困境；讨厌的事情；植物的藤蔓, n. (Bind)人名；(德)宾德
+
+- split
+
+  vt. 分离；使分离；劈开；离开；分解 vi. 离开；被劈开；断绝关系 n. 劈开；裂缝
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
