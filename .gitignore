@@ -2,7 +2,10 @@
 Thumbs.db
 db.json
 *.log
+*.aux
+*.pdf
+*.gz
 
 node_modules
-.deploy_git
 public
+Others/local
