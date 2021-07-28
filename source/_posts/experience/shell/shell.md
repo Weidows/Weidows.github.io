@@ -17,8 +17,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-23 14:27:53
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\shell.md
+ * @LastEditTime: 2021-07-28 10:33:14
+ * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
 - [通用](#通用)
@@ -89,6 +89,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 # CMD/PowerShell
 
 > [批处理定义子程序](https://www.hxstrive.com/article/804.htm)
+
+> [批处理命令之 Start 的详细用法](https://www.cnblogs.com/qlqwjy/p/8445993.html)
 
 |              指令              |       作用       |
 | :----------------------------: | :--------------: |

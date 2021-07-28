@@ -11,8 +11,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twe
  * @Author: Weidows
  * @Date: 2020-08-23 20:54:56
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:56:13
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
+ * @LastEditTime: 2021-07-28 11:01:45
+ * @FilePath: \Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
 -->
 
 - [一.简介](#一简介)
@@ -31,7 +31,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twe
 由于老师在课程中没给出源代码,有些知识点没有涉及到,需要源码作为参考,但是个人百度谷歌了半天没找到真正所需要的(甚至有人卖...)
 
 这篇给出的是 _6.3_ 的源码,如果 **寻找第七章的或者其他的** 可以去我的 GitHub 仓库上找,已经给出介绍了
-[仓库地址](https://github.com/Weidows/Weidows)
+[仓库地址](https://github.com/Weidows/Java/tree/c737692bc2a65c351e1ac1408f0c706e011f1881/Java/src/main/java/twenty/july/my_interface)
 
 如果复制代码的话需要改一下 Package 和 import
 

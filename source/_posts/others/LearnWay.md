@@ -15,8 +15,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-11 17:43:57
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\LearnWay.md
+ * @LastEditTime: 2021-07-28 14:51:10
+ * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -27,21 +27,30 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [进阶课程](#进阶课程)
   - [链表](#链表)
 - [Java](#java)
-  - [入门](#入门)
-  - [进阶](#进阶)
-  - [就业级](#就业级)
-  - [阶段回顾](#阶段回顾)
-  - [单元测试 Junit](#单元测试-junit)
-  - [文档注释](#文档注释)
-  - [Lambda](#lambda)
-  - [多线程](#多线程)
-  - [网络编程](#网络编程)
-  - [深/浅 clone](#深浅-clone)
-  - [JavaWeb](#javaweb)
-  - [I/O](#io)
-  - [GUI](#gui)
-  - [MyBatis](#mybatis)
+  - [阶段](#阶段)
+    - [入门](#入门)
+    - [进阶](#进阶)
+    - [就业级](#就业级)
+    - [阶段回顾](#阶段回顾)
+    - [网络编程](#网络编程)
+    - [JavaWeb](#javaweb)
+  - [特性](#特性)
+    - [文档注释](#文档注释)
+    - [Lambda](#lambda)
+    - [多线程](#多线程)
+    - [深/浅 clone](#深浅-clone)
+    - [GUI](#gui)
+  - [框架](#框架)
+    - [MyBatis](#mybatis)
+    - [Spring](#spring)
+    - [Spring MVC](#spring-mvc)
+    - [Spring Boot](#spring-boot)
   - [工具类](#工具类)
+    - [I/O](#io)
+    - [OPTIONAL](#optional)
+    - [URL](#url)
+    - [Stream](#stream)
+    - [单元测试 Junit](#单元测试-junit)
 - [前端](#前端)
   - [HTML/CSS](#htmlcss)
     - [入门](#入门-1)
@@ -51,8 +60,10 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
     - [进阶](#进阶-2)
     - [异步](#异步)
     - [Console](#console)
-    - [自执行函数](#自执行函数)
+    - [闭包](#闭包)
+    - [Ajax](#ajax)
   - [跨域](#跨域)
+- [Python](#python)
 - [工具](#工具)
   - [Git](#git)
     - [Git push](#git-push)
@@ -79,6 +90,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [单片机](#单片机)
   - [数据库](#数据库)
     - [MySQL](#mysql)
+    - [MongoDB](#mongodb)
   - [计算机网络](#计算机网络)
   - [算法](#算法)
     - [P/NP 问题](#pnp-问题)
@@ -150,19 +162,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 入门
+## 阶段
+
+### 入门
 
 > [零基础学 Java 语言](https://www.icourse163.org/course/0809ZJU013-1001541001?outvandor=zw_mooc_pclszykctj_)
 
 ---
 
-## 进阶
+### 进阶
 
 > [面向对象程序设计——Java 语言](https://www.icourse163.org/course/0809ZJU012-1001542001?outvandor=zw_mooc_pclszykctj_)
 
 ---
 
-## 就业级
+### 就业级
 
 > [求知讲堂零基础 Java 入门编程视频教程 学完可就业](https://www.bilibili.com/video/BV1CJ411m7gg)
 
@@ -170,7 +184,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 阶段回顾
+### 阶段回顾
 
 > [【狂神说 Java】JavaSE 阶段回顾总结](https://www.bilibili.com/video/BV1MJ411v7tJ?from=search&seid=6413568957300849811)
 
@@ -178,35 +192,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 单元测试 Junit
-
-> [JUnit：别再用 main 方法测试了，好吗？](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247490821&idx=1&sn=855b8ede1287dd95787a010c3245c8e7&chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&xtrack=1&scene=90&subscene=93&sessionid=1609292024&clicktime=1609292488&enterid=1609292488&ascene=56&devicetype=android-29&version=27001637&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&wx_header=1)
-
----
-
-## 文档注释
-
-> [Java 文档注释用法+JavaDoc 的使用详解](https://blog.csdn.net/lsy0903/article/details/89893934)
-
----
-
-## Lambda
-
-> [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html)
-
-> [关于 Java Lambda 表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
-
----
-
-## 多线程
-
-> [【狂神说 Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
-
-> [狂神说多线程笔记](https://blog.csdn.net/weixin_41963554/article/details/108808824)
-
----
-
-## 网络编程
+### 网络编程
 
 > [【狂神说 Java】网络编程实战讲解](https://www.bilibili.com/video/BV1LJ411z7vY)
 
@@ -214,15 +200,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 深/浅 clone
-
-> [详解 Java 中的 clone 方法 -- 原型模式](https://blog.csdn.net/zhangjg_blog/article/details/18369201)
-
-> [java 中深克隆与浅克隆的区别](https://zhidao.baidu.com/question/123775480.html)
-
----
-
-## JavaWeb
+### JavaWeb
 
 > [【狂神说 Java】JavaWeb 入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
 
@@ -230,21 +208,47 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## I/O
+## 特性
 
-- 序列化/ObjectOutputStream
+### 文档注释
 
-  > [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
+> [Java 文档注释用法+JavaDoc 的使用详解](https://blog.csdn.net/lsy0903/article/details/89893934)
 
 ---
 
-## GUI
+### Lambda
+
+> [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html)
+
+> [关于 Java Lambda 表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
+
+---
+
+### 多线程
+
+> [【狂神说 Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
+
+> [狂神说多线程笔记](https://blog.csdn.net/weixin_41963554/article/details/108808824)
+
+---
+
+### 深/浅 clone
+
+> [详解 Java 中的 clone 方法 -- 原型模式](https://blog.csdn.net/zhangjg_blog/article/details/18369201)
+
+> [java 中深克隆与浅克隆的区别](https://zhidao.baidu.com/question/123775480.html)
+
+---
+
+### GUI
 
 > [Java-GUI 快速入门](https://blog.csdn.net/qq_42035966/article/details/82258199)
 
 ---
 
-## MyBatis
+## 框架
+
+### MyBatis
 
 > [【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 
@@ -252,19 +256,57 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
+### Spring
+
+> [什么？搞 Java 的你还不会 Spring？一篇文章带你掌握](https://blog.csdn.net/qq_42453117/article/details/104758942)
+
+> [【狂神说 Java】Spring5 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
+
+---
+
+### Spring MVC
+
+> [SpringMVC 笔记（狂神）](https://blog.csdn.net/weixin_44635198/article/details/107444925)
+
+> [【狂神说 Java】SpringMVC 最新教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
+
+> [@Controller 和@RestController 的区别？](https://www.cnblogs.com/clwydjgs/p/9255046.html)
+
+> [【狂神说 Java】SSM 框架最新整合教学 IDEA 版](https://www.bilibili.com/video/BV1RE41127rv)
+
+---
+
+### Spring Boot
+
+> [Spring Boot 常用注解（绝对经典）](https://blog.csdn.net/guorui_java/article/details/107379648)
+
+---
+
 ## 工具类
 
-- OPTIONAL
+### I/O
 
-  > [理解、学习与使用 JAVA 中的 OPTIONAL](https://www.cnblogs.com/zhangboyu/p/7580262.html)
+- 序列化/ObjectOutputStream
 
-- URL
+  > [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
 
-  > [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
+---
 
-- Stream
+### OPTIONAL
 
-  > [Java8 Stream 详解](https://blog.csdn.net/happyheng/article/details/52832313)
+> [理解、学习与使用 JAVA 中的 OPTIONAL](https://www.cnblogs.com/zhangboyu/p/7580262.html)
+
+### URL
+
+> [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
+
+### Stream
+
+> [Java8 Stream 详解](https://blog.csdn.net/happyheng/article/details/52832313)
+
+### 单元测试 Junit
+
+> [JUnit：别再用 main 方法测试了，好吗？](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247490821&idx=1&sn=855b8ede1287dd95787a010c3245c8e7&chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&xtrack=1&scene=90&subscene=93&sessionid=1609292024&clicktime=1609292488&enterid=1609292488&ascene=56&devicetype=android-29&version=27001637&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&wx_header=1)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -330,15 +372,29 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 自执行函数
+### 闭包
 
 > [JS 自执行函数原理及用法](https://www.jb51.net/article/166905.htm)
+
+---
+
+### Ajax
+
+> [【狂神说 Java】一小时掌握 Ajax](https://www.bilibili.com/video/BV1Kt411u7BV)
 
 ---
 
 ## 跨域
 
 > [😡 一次解决 CORS 经验记录.](./../../Web/JavaScript/CORS)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# Python
+
+- 菜鸟教程:
+
+  > [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -513,11 +569,19 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ### MySQL
 
-> [【狂神说 Java】MySQL 最新教程通俗易懂](https://www.bilibili.com/video/BV1NJ411J79W)
-
-> [狂神说数据库笔记](https://blog.csdn.net/weixin_45483328/article/details/113759286?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
-
 - 要点清晰,能很快速的顺下来需要掌握的东西.
+
+  > [【狂神说 Java】MySQL 最新教程通俗易懂](https://www.bilibili.com/video/BV1NJ411J79W)
+
+  > [狂神说数据库笔记](https://blog.csdn.net/weixin_45483328/article/details/113759286?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
+
+---
+
+### MongoDB
+
+- 有 MySQL 基础能很快上手
+
+  > [krislinzhao/StudyNotes](https://github.com/krislinzhao/StudyNotes/tree/master/MongoDB)
 
 ---
 
@@ -551,8 +615,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 # 面试
 
-> [MetaAPP 部分笔试题](https://blog.csdn.net/weixin_38607253/article/details/114154414)
-
-> [什么是“堆”,"栈","堆栈","队列",它们的区别](https://www.cnblogs.com/guoxiaoyan/p/8664150.html)
-
-> [到底产生几个 String 对象](https://www.cnblogs.com/timecloud/p/6555868.html)
+> 1. [MetaAPP 部分笔试题](https://blog.csdn.net/weixin_38607253/article/details/114154414)
+> 2. [什么是“堆”,"栈","堆栈","队列",它们的区别](https://www.cnblogs.com/guoxiaoyan/p/8664150.html)
+> 3. [到底产生几个 String 对象](https://www.cnblogs.com/timecloud/p/6555868.html)
+> 4. [浅谈 Java 中的 equals 和==](https://www.cnblogs.com/dolphin0520/p/3592500.html)
