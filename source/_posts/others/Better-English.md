@@ -18,8 +18,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-27 09:42:33
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\Better-English.md
+ * @LastEditTime: 2021-08-05 15:22:24
+ * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -27,6 +27,7 @@ top_img:
 - [简介](#简介)
 - [单词](#单词)
 - [短语](#短语)
+- [领域](#领域)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -110,7 +111,31 @@ top_img:
 
 - split
 
-  vt. 分离；使分离；劈开；离开；分解 vi. 离开；被劈开；断绝关系 n. 劈开；裂缝
+  vt. `分离`；使分离；劈开；离开；分解 vi. 离开；被劈开；断绝关系 n. 劈开；裂缝
+
+- extract
+
+  vt. 取出；`提取/解压`；榨取；摘除, n. 提取物；摘录；摘要, n. (Extract)人名；(英)埃斯特利（人名）
+
+- compact
+
+  adj. 紧密的；`压缩的`；简洁的；紧凑的, n. 压缩；简洁；紧凑
+
+- compress
+
+  vt. `压缩`；压紧；使缩小, n. 压缩；压紧
+
+- ambiguous
+
+  adj. 模糊不清的，模棱两可的；`不明确的`，不明朗的；引起歧义的
+
+- horizontal
+
+  adj. `水平的`；地平线的；同一阶层的
+
+- vertical
+
+  adj. `垂直的`，直立的；[解剖] 头顶的，顶点的；[植]纵长的，直上的
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -129,3 +154,35 @@ top_img:
   for you , for coder
 
 ---
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 领域
+
+- 资格/证书
+
+  - MBA
+
+    MBA 一般指工商管理硕士。
+
+  - MPA
+
+    MPA 一般指公共管理硕士。
+
+  <img src="https://i.loli.net/2021/08/01/yYPIdsJCQ5Mz4Lq.png" alt="20210801180232" />
+
+---
+
+- 网络
+
+  - LAN
+
+    局域网(Local Area Network)
+
+  - WAN
+
+    广域网(Wide Area Network)
+
+  - WLAN
+
+    无线局域网(Wireless LAN)

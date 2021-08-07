@@ -3,7 +3,7 @@ title: 🎉IDEA魔改记录.
 date: 2021-01-01 11:06:59
 categories:
   - tools
-  - IDEA
+  - Jetbrains
 tags:
   - IDEA
   - Maven
@@ -16,8 +16,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
  * @Author: Weidows
  * @Date: 2021-01-01 11:06:59
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-23 09:01:02
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\IDEA\Modification.md
+ * @LastEditTime: 2021-07-29 14:12:20
+ * @FilePath: \Blog-private\source\_posts\tools\Jetbrains\Modification.md
  * @Description:
  * @!: *********************************************************************
 -->

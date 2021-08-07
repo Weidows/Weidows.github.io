@@ -15,8 +15,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-26 15:26:47
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Windows.md
+ * @LastEditTime: 2021-08-05 18:26:07
+ * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -37,6 +37,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
   - [推荐文章](#推荐文章)
 - [各种路径](#各种路径)
 - [颜色配置](#颜色配置)
+- [虚拟机代理不通](#虚拟机代理不通)
 
 # 窗口逸出
 
@@ -188,3 +189,17 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
   <img src="https://i.loli.net/2021/05/20/7gNxJSafiq5X81w.png" alt="20210520164845" />
 
   <img src="https://i.loli.net/2021/05/20/a7ZbKmyWYJcxIOG.png" alt="20210520164128" />
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 虚拟机代理不通
+
+- win 下开了个虚拟机,本想着让本机代理虚拟机网络,结果不知为什么一直不通:
+
+  本机能连到虚拟机,但是虚拟机连不到本机,一直 ping 不通
+
+- 那么,有可能是下面这个问题:
+
+  <img src="https://i.loli.net/2021/08/05/ml7LUWTfPMzaEhA.png" alt="20210805182546" />
+
+- 坑了好久啊!!!
