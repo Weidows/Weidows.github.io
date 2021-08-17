@@ -14,8 +14,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-10 19:27:33
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Git\matters.md
+ * @LastEditTime: 2021-08-07 16:48:39
+ * @FilePath: \Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
 
@@ -28,6 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
   - [问题一](#问题一)
   - [问题二](#问题二)
 - [被墙问题](#被墙问题)
+- [版本回退](#版本回退)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -127,3 +128,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
   [https]
     proxy = localhost://127.0.0.1:7890
   ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 版本回退
+
+不小心把 ssh 私钥 copy 到了 git 库里提到了 github 上,差点 GG
+
+> [Git 恢复之前版本的两种方法 reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
+
+1. reset 到出错提交的前一个提交
+2. 修改,提交
+3. 强制提交(不强制的话不行): git push origin master -f

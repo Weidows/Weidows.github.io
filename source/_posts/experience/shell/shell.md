@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-28 10:33:14
+ * @LastEditTime: 2021-08-07 14:03:38
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -28,7 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 - [CMD/PowerShell](#cmdpowershell)
 - [Linux](#linux)
   - [查杀进程](#查杀进程)
-- [宝塔](#宝塔)
+  - [宝塔](#宝塔)
 - [Git](#git)
 - [Docker](#docker)
 - [Vim](#vim)
@@ -112,16 +112,17 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 # Linux
 
-|             指令             |                             作用                              |
-| :--------------------------: | :-----------------------------------------------------------: |
-|           `ls/ll`            |                    列出当前目录的所有东西                     |
-|          `su root`           |               获取最高权限(需要输入 root 密码)                |
-|          `ifconfig`          |                         查看网络配置                          |
-|          `dhclient`          |                       DHCP 重新配置 IP                        |
-| `./xxx.sh start/restart/xxx` |                     启动/重启 shell 脚本                      |
-|   `docker list\|grep abc`    |        筛选 docker list 命令中含有 abc 字符串的结果集         |
-|       `nohup xxx.sh &`       | 不挂起执行 xxx (退出终端不影响程序运行),需要 ps/kill 杀死进程 |
-|    `tail -n 20 README.md`    |           输出 READMD 最后 20 行内容(默认是 10 行)            |
+|                    指令                     |                             作用                              |
+| :-----------------------------------------: | :-----------------------------------------------------------: |
+|                   `ls/ll`                   |                    列出当前目录的所有东西                     |
+|                  `su root`                  |               获取最高权限(需要输入 root 密码)                |
+|                 `ifconfig`                  |                         查看网络配置                          |
+|                 `dhclient`                  |                       DHCP 重新配置 IP                        |
+|        `./xxx.sh start/restart/xxx`         |                     启动/重启 shell 脚本                      |
+|           `docker list\|grep abc`           |        筛选 docker list 命令中含有 abc 字符串的结果集         |
+|              `nohup xxx.sh &`               | 不挂起执行 xxx (退出终端不影响程序运行),需要 ps/kill 杀死进程 |
+|           `tail -n 20 README.md`            |           输出 READMD 最后 20 行内容(默认是 10 行)            |
+| `systemctl start/enable/status xxx.service` |                  xxx 服务-开启/开机启动/状态                  |
 
 > [Linux nohup 命令](https://www.runoob.com/linux/linux-comm-nohup.html)
 
@@ -143,9 +144,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 > [Linux 命令神器：lsof](https://www.jianshu.com/p/a3aa6b01b2e1)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+---
 
-# 宝塔
+## 宝塔
 
 |           指令           |       作用       |
 | :----------------------: | :--------------: |

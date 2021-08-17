@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-05 15:22:24
+ * @LastEditTime: 2021-08-13 14:53:28
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -136,6 +136,14 @@ top_img:
 - vertical
 
   adj. `垂直的`，直立的；[解剖] 头顶的，顶点的；[植]纵长的，直上的
+
+- blocklist / allowlist
+
+  黑 / 白名单, blacklist / whitelist 这样的带有歧视色彩, 避免使用.
+
+- marvelous
+
+  adj. 了不起的；非凡的；令人惊异的；不平常的
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

@@ -17,8 +17,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-07 19:19:16
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\node.md
+ * @LastEditTime: 2021-08-16 10:45:44
+ * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
 
@@ -32,6 +32,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 - [local 全局依赖](#local-全局依赖)
 - [运行报错](#运行报错)
 - [推荐文章](#推荐文章)
+- [多版本管理](#多版本管理)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -203,3 +204,27 @@ node_modules\pascal-case\dist\index.js:21
 # 推荐文章
 
 > [很多人上来就删除的 package-lock.json，还有这么多你不知道的（深度内容）](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247496886&idx=1&sn=513b863b8468fcfaf8c8e750ce266899&chksm=97c66918a0b1e00eb920d278ae03b10ebe1d765db0e17cb8fe5bc60b737fb3c6af1d96fcf724&mpshare=1&scene=23&srcid=0327cIro7WXAp1jgObHXuKCE&sharer_sharetime=1616807246544&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 多版本管理
+
+- 主流的有 nvm / n 两种
+
+  - n 在 mac 和 linux 上比较好装,在 win 上就别想了.
+
+- 安装 nvm
+
+  ```
+  scoop install nvm
+  ```
+
+- 使用 nvm
+
+  > [node 多版本管理工具——nvm](https://segmentfault.com/a/1190000021690038)
+
+  遇到这个报错的话,是因为环境变量还没起效,重启电脑
+
+  ```
+  ERROR open \settings.txt: The system cannot find the file specified.
+  ```
