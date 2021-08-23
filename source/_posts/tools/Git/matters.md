@@ -14,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-07 16:48:39
+ * @LastEditTime: 2021-08-23 10:24:20
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -93,13 +93,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ## 问题二
 
-- 自己的仓库在转移到组织后,推送时报:"无权限推送到 xxx 仓库"
+- 推送时报:"无权限推送到 xxx 仓库"
+
+  问题原因是`本地的认证失效了`,但是 Git 并不会自动清除让你重新认证
 
 - 我遇到这个问题是在 Git 某次更新后, `credential.helper store` 情况下.
 
-- 解决办法跟上面相反,是需要把 `~/.gitconfig` 中的 `[credential]` 这块去掉.
+---
 
-  - 经测试,去掉这个并没有使问题一复现,所以问题一应该是版本问题,新版本解决了.
+- 解决办法: 删掉 `~/.git-credentials` 这个文件,它失效了
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

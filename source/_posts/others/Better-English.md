@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-13 14:53:28
+ * @LastEditTime: 2021-08-20 11:09:22
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -95,6 +95,10 @@ top_img:
 
     n. 扳机；起因，引起反应的事；`触发器`，引爆装置, v. 触发，引起；开动（装置）, n. (Trigger) 特里杰（人名）
 
+  - i18n
+
+    （其来源是英文单词 internationalization 的首末字符 i 和 n，18 为中间的字符数）是“国际化”的简称。
+
 ---
 
 - specific
@@ -144,6 +148,14 @@ top_img:
 - marvelous
 
   adj. 了不起的；非凡的；令人惊异的；不平常的
+
+- strategy
+
+  n.战略；战略部署；战略学
+
+- dynamic
+
+  adj. 动态的；动力的；动力学的；有活力的
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

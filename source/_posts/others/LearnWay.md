@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-28 14:51:10
+ * @LastEditTime: 2021-08-18 11:46:51
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -91,6 +91,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
   - [数据库](#数据库)
     - [MySQL](#mysql)
     - [MongoDB](#mongodb)
+    - [通用](#通用)
   - [计算机网络](#计算机网络)
   - [算法](#算法)
     - [P/NP 问题](#pnp-问题)
@@ -582,6 +583,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 - 有 MySQL 基础能很快上手
 
   > [krislinzhao/StudyNotes](https://github.com/krislinzhao/StudyNotes/tree/master/MongoDB)
+
+---
+
+### 通用
+
+> 质量相当高的文章: [MySQL 单列索引和组合索引的区别介绍](https://blog.csdn.net/wxwzy738/article/details/17590305)
 
 ---
 

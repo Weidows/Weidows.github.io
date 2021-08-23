@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-17 20:17:52
+ * @LastEditTime: 2021-08-18 10:31:30
  * @FilePath: \Blog-private\source\_posts\Java\SQL\sql-problem.md
  * @Description:
  * @!: *********************************************************************
@@ -26,6 +26,7 @@ top_img:
 - [简介](#简介)
 - [模糊查询](#模糊查询)
 - [where](#where)
+- [多索引排序](#多索引排序)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -111,4 +112,18 @@ top_img:
   </select>
   ```
 
-- 在 SQL 支持的情况下,还是套<where>标签更好,它能处理 `where and` 这种情况.
+- 在 SQL 支持的情况下,还是套`<where>`标签更好,它能处理 `where and` 这种情况.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+# 多索引排序
+
+- 有时一个表中多个字段需要加索引
+
+  但是这样导致每次添加/更新数据时排序都会变化
+
+  前端接到的数据可以认为是无序化的,如何解决呢?
+
+---
+
+- 挺简单的 `order by id`
