@@ -19,8 +19,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
  * @Author: Weidows
  * @Date: 2021-02-07 01:11:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-12 17:13:46
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\optimize.md
+ * @LastEditTime: 2021-08-29 15:15:38
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\optimize.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -55,21 +55,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 
   ***
 
-- js 的美化,追加到 `main.js`
+- js 的美化,全部整合到 `utils.js`
 
-  - 请求数加 0,加载策略优化,时间降低.
+  - 请求数加 0,加载策略优化,时间降低; Weidows对象直接全局加载生效且不被GC.
 
-  - 只加一行调用代码.
+  - 把 js 代码全堆在最后,暴露 `Weidows.re()` 供 pjax 调用.
 
   ***
 
 - pug 的修改降低为 3 处,方便升级换代,都在此目录下: `themes\butterfly\layout\includes\`
 
-  - `footer.pug`- 标签
+  - `additional-js.pug` - 末尾追加樱花特效
 
-  - `head.pug` - 打包 js 美化代码
+  - `footer.pug`- 页脚标签+改注脚样式
 
-  - `third-party\pjax.pug` - 适配 pjax 刷新.
+  - `third-party\pjax.pug` - 调用 Weidows.re(),适配 pjax 刷新
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

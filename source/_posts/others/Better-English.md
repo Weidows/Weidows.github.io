@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-20 11:09:22
+ * @LastEditTime: 2021-08-28 23:56:22
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -99,6 +99,10 @@ top_img:
 
     （其来源是英文单词 internationalization 的首末字符 i 和 n，18 为中间的字符数）是“国际化”的简称。
 
+  - grid
+
+    n. 网格；格子，栅格；输电网
+
 ---
 
 - specific
@@ -157,6 +161,14 @@ top_img:
 
   adj. 动态的；动力的；动力学的；有活力的
 
+- authentication
+
+  n. 证明；鉴定；证实
+
+- claim
+
+  v. 宣称；要求，索取；引起（注意）；获得；夺去（生命）；索赔（钱财）；需要
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 短语
@@ -178,20 +190,6 @@ top_img:
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 # 领域
-
-- 资格/证书
-
-  - MBA
-
-    MBA 一般指工商管理硕士。
-
-  - MPA
-
-    MPA 一般指公共管理硕士。
-
-  <img src="https://i.loli.net/2021/08/01/yYPIdsJCQ5Mz4Lq.png" alt="20210801180232" />
-
----
 
 - 网络
 

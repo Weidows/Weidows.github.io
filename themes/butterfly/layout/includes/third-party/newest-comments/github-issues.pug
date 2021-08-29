@@ -15,15 +15,13 @@ script.
     }
 
     const findTrueUrl = (array) => {
-      let url = ''
       Promise.all(array.map(item =>
         fetch(item.url).then(resp => resp.json()).then(data => {
+          const urlArray = data.body.match(/(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?/ig)
           if (data.user.login === 'utterances-bot') {
-            url = data.body.match(/https?\:\/\/[^\" ]+/ig).slice(-1)
-            return url[0]
+            return urlArray.pop()
           } else {
-            url = data.body.match(/https?\:\/\/[^\" ]+/i)
-            return url[0]
+            return urlArray.shift()
           }
         })
       )).then(res => {
@@ -40,7 +38,7 @@ script.
     }
 
     const getComment = () => {
-      fetch('https://api.github.com/repos/!{theme.newest_comments.github_issues.repo}/issues/comments?sort=updated&direction=desc&per_page=!{theme.newest_comments.limit}&page=1',{
+      fetch('https://api.github.com/repos/!{userRepo}/issues/comments?sort=updated&direction=desc&per_page=!{theme.newest_comments.limit}&page=1',{
         "headers": {
           Accept: 'application/vnd.github.v3.html+json'
         }

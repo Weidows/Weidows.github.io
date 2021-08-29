@@ -4,7 +4,7 @@
 # format: name: link || icon
 # sub-menu
 # name || icon:
-#   name || link || icon
+#   name: link || icon
 
 menu:
   # Home: / || fas fa-home
@@ -12,37 +12,35 @@ menu:
   # Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
-  #   - Music || /music/ || fas fa-music
-  #   - Movie || /movies/ || fas fa-video
+  #   Music: /music/ || fas fa-music
+  #   Movie: /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
   首页: / || fas fa-plane
   开往: https://travellings.now.sh || fas fa-car
   本站|| fas fa-home:
-    - 随机文章 || random
-    - 标 签 || tags || fas fa-tags
-    - 分 类 || categories || fas fa-folder-open
-    - 时间轴 || archives || fas fa-archive
-    - Gitee站 || https://weidows.gitee.io || fas fa-bath
-    - GitHub站 || https://weidows.github.io || fas fa-shower
+    随机文章: random
+    标 签: tags || fas fa-tags
+    分 类: categories || fas fa-folder-open
+    时间轴: archives || fas fa-archive
+    Gitee站: https://weidows.gitee.io || fas fa-bath
+    GitHub站: https://weidows.github.io || fas fa-shower
   传送门|| fas fa-rocket:
-    - Weidows-projects || https://github.com/Weidows-projects
-    - GitHub仓库 || https://github.com/Weidows?tab=repositories
-    - 几个生成器 || generator
-    - SSL状态检测 || https://weidows.github.io/ssl
-    - 站点状态检测 || https://stats.uptimerobot.com/22R3Pfkjzv
+    Weidows-projects: https://github.com/Weidows-projects
+    GitHub仓库: https://github.com/Weidows?tab=repositories
+    几个生成器: generator
+    SSL状态检测: https://weidows.github.io/ssl
+    站点状态检测: https://stats.uptimerobot.com/22R3Pfkjzv
   兴趣爱好||fas fa-list:
-    - 相册 || gallery_data || fas fa-camera
-    - 说说 || artitalk || fa fa-comment
-    - 番剧 || tags/bangumis || fas fa-laptop
-    - 游戏 || tags/games || fas fa-gamepad
-    # - 豆瓣观影 || movies
-    # - 豆瓣阅读 || books
+    相册: gallery_data || fas fa-camera
+    说说: artitalk || fa fa-comment
+    番剧: tags/bangumis || fas fa-laptop
+    游戏: tags/games || fas fa-gamepad
   关于||fas fa-heart:
-    - ->我<- || tags/about || fas fa-user
-    - 友人帐 || tags/link || fas fa-link
-    - 留言板 || tags/comment || fas fa-comments
-    - 简👶历 || tags/resume || fas fa-user
+    ->我<-: tags/about || fas fa-user
+    友人帐: tags/link || fas fa-link
+    留言板: tags/comment || fas fa-comments
+    简👶历: tags/resume || fas fa-user
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -54,6 +52,7 @@ highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / 
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
+highlight_height_limit: false # unit: px
 code_word_wrap: true
 
 # copy settings
@@ -68,6 +67,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
+  # fab fa-github: https://github.com/xxxxx || Github
+  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
   fab fa-github: https://github.com/Weidows || Github
   fas fa-envelope: mailto:utsuko27@qq.com || Email
   fab fa-qq: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/QQ.jpeg || QQ号
@@ -166,7 +167,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: "Page Not Found"
+  subtitle: "走错路了呢."
   background: https://cdn.jsdelivr.net/gh/Weidows/Images/img/404.jpg
 
 post_meta:
@@ -216,8 +217,14 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
+    # - img: /img/wechat.jpg
+    #   link:
+    #   text: wechat
+    # - img: /img/alipay.jpg
+    #   link:
+    #   text: alipay
     - img: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat.jpeg"
       link: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_ful.jpeg"
       text: 微信
@@ -231,7 +238,7 @@ post_edit:
   enable: false
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url:
+  url: https://github.com/Weidows/Blog-private/edit/main/source/_posts
 
 # Related Articles
 related_post:
@@ -296,13 +303,14 @@ comments:
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
   lazyload: false
-  count: true # Display comment count in post's top_img
+  count: false # Display comment count in post's top_img
   card_post_count: false # Display comment count in Home Page
 
 # disqus
 # https://disqus.com/
 disqus:
   shortname:
+  apikey: # For newest comments widget
 
 # Alternative Disqus - Render comments with Disqus API
 # DisqusJS 評論系統，可以實現在網路審查地區載入 Disqus 評論列表，兼容原版
@@ -334,6 +342,7 @@ gitalk:
   distractionFreeMode: false # Facebook-like distraction free mode.
   pagerDirection: last # Comment sorting direction, available values are last and first.
   createIssueManually: false # Gitalk will create a corresponding github issue for your every single page automatically
+  option:
 
 # valine
 # https://valine.js.org
@@ -358,10 +367,18 @@ valine:
 waline:
   serverURL: https://waline-sigma.vercel.app # Waline server address url
   avatar: monsterid # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
-  dark: "auto"
-  emojiCDN: [] # emoji CDN
+  avatarCDN: # Gravatar CDN baseURL
   bg: # waline background
+  visitor: true
   option:
+    emoji:
+      [
+        "https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/",
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus",
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili",
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq",
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba",
+      ]
 
 # utterances
 # https://utteranc.es/
@@ -387,6 +404,7 @@ facebook_comments:
 twikoo:
   envId:
   region:
+  visitor: false
   option:
 
 # Chat Services
@@ -435,7 +453,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: # 支持H5标识
+  custom_text:
   copyright: false # Copyright of theme and framework
 
 # Analysis
@@ -485,31 +503,23 @@ google_adsense:
 # Verification (站長驗證)
 # --------------------------------------
 
-# Google Webmaster tools verification setting
-# See: https://www.google.com/webmasters/
-google_site_verification:
-  - 63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y #GitHub
-  - TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY #Gitee
-
-# Bing Webmaster tools verification setting
-# See: https://www.bing.com/webmaster/
-bing_site_verification:
-  - B99F807E806B2C297FF5818253DDD408 #GitHub+Gitee
-
-# Baidu Webmaster tools verification setting
-# See: https://ziyuan.baidu.com/site/
-baidu_site_verification:
-  - code-82v5yxnEC4
-  - code-iDy54Uv2f1
-  - code-IfmDfNug1l #Gitee
-
-# 360 Webmaster tools verification setting
-# see http://zhanzhang.so.com/
-qihu_site_verification:
-
-# Yandex Webmaster tools verification setting
-# see https://webmaster.yandex.com/
-yandex_site_verification:
+site_verification:
+  # - name: google-site-verification
+  #   content: xxxxxx
+  # - name: baidu-site-verification
+  #   content: xxxxxxx
+  - name: google-site-verification #GitHub
+    content: 63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y
+  - name: google-site-verification #Gitee
+    content: TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY
+  - name: bing-site-verification #GitHub+Gitee
+    content: B99F807E806B2C297FF5818253DDD408
+  - name: baidu-site-verification
+    content: code-82v5yxnEC4
+  - name: baidu-site-verification
+    content: code-iDy54Uv2f1
+  - name: baidu-site-verification #Gitee
+    content: code-IfmDfNug1l
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
@@ -556,7 +566,7 @@ background:
 footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
-rightside-bottom: "150px"
+rightside-bottom: "15vh"
 
 # Enter transitions (開啓網頁進入效果)
 enter_transitions: true
@@ -606,7 +616,7 @@ fireworks:
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
   enable: false
-  mobile: true
+  mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
@@ -626,7 +636,7 @@ display_mode: dark
 # Beautify (美化頁面顯示)
 beautify:
   enable: true
-  field: post # site/post
+  field: site # site/post
   title-prefix-icon: "🚀"
   title-prefix-icon-color: "#00ff63"
 
@@ -669,7 +679,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: "May all the beauty to be bless."
+  sub: "May all the beauty to be bless.✨"
 
 # Loading Animation (加載動畫)
 preloader: true
@@ -742,17 +752,6 @@ newest_comments:
   limit: 6
   storage: 10 # unit: mins, save data to localStorage
   avatar: true
-  # You can only choose one, or neither
-  valine: false
-  github_issues:
-    enable: false
-    repo:
-  disqus:
-    enable: false
-    forum:
-    api_key:
-  twikoo: false
-  waline: false
 
 # Bottom right button (右下角按鈕)
 # --------------------------------------
@@ -764,7 +763,7 @@ change_font_size: false
 translate:
   enable: false
   # The text of a button
-  default: 簡
+  default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -804,7 +803,7 @@ fancybox: true
 # --------------------------------------
 
 # mermaid
-# see https://github.com/knsv/mermaid
+# see https://github.com/mermaid-js/mermaid
 mermaid:
   enable: true
   # built-in themes: default/forest/dark/neutral
@@ -827,14 +826,7 @@ note:
 # other
 # --------------------------------------
 
-# Artitalk
-# see https://artitalk.js.org/
-artitalk:
-  appId:
-  appKey:
-  option:
-
-# Pjax [Beta]
+# Pjax
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
@@ -869,10 +861,12 @@ pangu:
   field: post # site/post
 
 # Lazyload (圖片懶加載)
-# https://github.com/verlok/lazyload
+# https://github.com/verlok/vanilla-lazyload
 lazyload:
   enable: true
-  post: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp"
+  field: site # site/post
+  placeholder: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp"
+  blur: false
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
@@ -897,7 +891,6 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
@@ -939,8 +932,8 @@ CDN:
   # math
   mathjax: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   katex: https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css
-  katex_copytex: https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js
-  katex_copytex_css: https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css
+  katex_copytex: https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/copy-tex.min.js
+  katex_copytex_css: https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/copy-tex.css
   mermaid: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
 
   # count
@@ -990,5 +983,3 @@ CDN:
   prismjs_js: https://cdn.jsdelivr.net/npm/prismjs/prism.min.js
   prismjs_lineNumber_js: https://cdn.jsdelivr.net/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js
   prismjs_autoloader: https://cdn.jsdelivr.net/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
-
-  artitalk: https://cdn.jsdelivr.net/npm/artitalk
