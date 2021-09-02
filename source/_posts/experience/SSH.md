@@ -7,15 +7,15 @@ tags:
   - SSH
   - Linux
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
-# top_img:
+top_img:
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-12-07 00:12:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:01:29
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\SSH.md
+ * @LastEditTime: 2021-09-02 15:46:56
+ * @FilePath: \Blog-private\source\_posts\experience\SSH.md
  * @Description:
 -->
 
@@ -33,9 +33,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 手动挡
+## 手动挡
 
-## 生成公私秘钥
+### 生成公私秘钥
 
 - 比如
 
@@ -52,7 +52,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ---
 
-## 配置连通
+### 配置连通
 
 - 在.ssh 下新建`config`文件,参照以下模板:
 
@@ -77,7 +77,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ---
 
-## 测试命令
+### 测试命令
 
 - 终端进入这个.ssh 文件夹(不在这个文件夹下无法导通)
 
@@ -92,9 +92,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 自动挡
+## 自动挡
 
-## FinalShell
+### FinalShell
 
 - 连接树莓派,ip 为`192.168.43.119`,用户名为`pi`,密码为默认的`raspberry`
 
@@ -102,7 +102,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## VScode 连接
+### VScode 连接
 
 - 安装插件`Remote-SSH`
 
@@ -133,9 +133,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 存在の问题
+## 存在の问题
 
-## root-denied
+### root-denied
 
 - 某些系统对 ssh 不开放 root,比如`Deepin`,网上有开放方法
 
@@ -143,7 +143,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ---
 
-## VScode-ssh-断开连接
+### VScode-ssh-断开连接
 
 - 按照上面配合后使用完全没有问题,但是 ssh 连接后一段时间你没有跟远程机传输数据的话,连接就会断开
 
@@ -161,7 +161,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8hkiBs34PZ2eRIu.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# TCP 保活
+## TCP 保活
 
 - 没特殊需求的话不需要配置.
 

@@ -6,7 +6,7 @@ categories:
 tags:
   - Docker
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -14,8 +14,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-21 09:37:03
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\docker.md
+ * @LastEditTime: 2021-09-02 15:50:51
+ * @FilePath: \Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -42,7 +42,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 名词引入
+## 名词引入
 
 - 首先`Docker`是啥就不解释了.
 
@@ -58,7 +58,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ---
 
-## docker-Dockerfile
+### docker-Dockerfile
 
 > [Docker Dockerfile](https://www.runoob.com/docker/docker-dockerfile.html)
 
@@ -66,7 +66,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ---
 
-## docker-compose
+### docker-compose
 
 > [docker 与 docker-compose 区别](https://blog.csdn.net/weixin_43165750/article/details/106108234)
 
@@ -76,7 +76,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ---
 
-## docker-machine
+### docker-machine
 
 > [Docker 三剑客之 docker-machine](https://zhuanlan.zhihu.com/p/93459073)
 
@@ -84,9 +84,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装启动
+## 安装启动
 
-## Ubuntu-Server
+### Ubuntu-Server
 
 - `Ubuntu-Server`装系统时就带有`Docker`安装选项,直接安装即可,但是会遇到下面[权限问题及解决办法](#解决权限问题)
 
@@ -183,7 +183,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ---
 
-## Windows
+### Windows
 
 - 在 `Windows` 上安装就比较复杂了,牵扯到很多东西.
 
@@ -207,7 +207,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 解决权限问题
+## 解决权限问题
 
 > [解决 Ubuntu18.04 启动 Docker“Got permission denied while trying to connect to the Docker daemon socket“问题](https://blog.csdn.net/liangllhahaha/article/details/92077065)
 
@@ -233,7 +233,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 启动 docker
+## 启动 docker
 
 > [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
 
@@ -263,21 +263,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 加速
+## 加速
 
-## 镜像加速
+### 镜像加速
 
 - 登录阿里云并找到[`容器镜像服务`](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
 
 - 阿里会给一个加速地址,把地址复制到 Docker 设置里就可.
 
-### Windows
+#### Windows
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/wG1JgIPTof5yN6b.png" alt="20210205010825" />
 
 ---
 
-### Manjaro
+#### Manjaro
 
 - 新建或者修改`/etc/docker/daemon.json`
 
@@ -296,7 +296,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg
 
 ---
 
-## 设置代理
+### 设置代理
 
 > 参考: [docker docs](https://docs.docker.com/config/daemon/systemd/)
 
@@ -327,7 +327,7 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 命令行执行
+## 命令行执行
 
 - 有些文档为了观看性写成如下格式,无法直接执行,需要弄成一行.
 
@@ -350,7 +350,7 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# VScode+docker
+## VScode+docker
 
 - 在 Manjaro 虚拟机中启动 docker 服务,然后用 vscode-ssh 连接 manjaro
 
@@ -362,7 +362,7 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Portainer
+## Portainer
 
 > [Docker 安装管理面板--Portainer](https://blog.csdn.net/tian330726/article/details/102987572)
 
@@ -388,7 +388,7 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 容器自启
+## 容器自启
 
 ```
 # 开启
@@ -400,6 +400,6 @@ docker update --restart=no <CONTAINER ID>
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 常用命令
+## 常用命令
 
 > [💧 一些常用终端命令.#docker](../../experience/shell/shell#docker)

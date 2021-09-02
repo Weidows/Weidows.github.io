@@ -6,7 +6,7 @@ categories:
 tags:
   - Markdown
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -35,7 +35,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
   - [键盘样式](#键盘样式)
 - [注意点](#注意点)
 
-# 基本的
+## 基本的
 
 - `> 内容`
 
@@ -45,17 +45,17 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-- `- ## 内容`
+- `- ### 内容`
 
   - 段落形式的标题,如下
 
-  - ### 这是一个段落标题,h3 字号
+  - #### 这是一个段落标题,h3 字号
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 新奇写法
+## 新奇写法
 
-## `[![]()]()`
+### `[![]()]()`
 
 - 这样写是把图片嵌套进了链接里,如下:
 
@@ -69,7 +69,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-## `[]: URL`
+### `[]: URL`
 
 - 类似定义变量(引用)
 
@@ -87,7 +87,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-## 对话
+### 对话
 
 > 发现自: [Axb 的自我修养](http://blog.2baxb.me/),样式如下:
 
@@ -109,7 +109,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-## 引用+条目
+### 引用+条目
 
 - 样式:
 
@@ -125,21 +125,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 文字样式
+## 文字样式
 
-## `*斜体*` 或 `_斜体_`
+### `*斜体*` 或 `_斜体_`
 
 - 样式:
   _斜体_
 
 ---
 
-## `**粗体**`
+### `**粗体**`
 
 - 样式:
   **粗体**
 
-## `标识字`
+### `标识字`
 
 - 样式:
 
@@ -147,16 +147,16 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-## `~~中划线~~`
+### `~~中划线~~`
 
 - 样式
   ~~样式演示~~
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# HTML 标签
+## HTML 标签
 
-## 收缩框
+### 收缩框
 
 ```HTML
 <details>
@@ -173,7 +173,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-## 下划线
+### 下划线
 
 ```HTML
 <u>文字</u>
@@ -184,7 +184,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ---
 
-## 键盘样式
+### 键盘样式
 
 ```
 <kbd>Ctrl + shift + [</kbd>
@@ -195,7 +195,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 注意点
+## 注意点
 
 1. markdown 文件写的超过 1K 行后,每次格式化和页面加载的性能损耗是恐怖的,所以尽量控制 markdown 行数别太多
 

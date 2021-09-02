@@ -30,13 +30,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 简介
+## 简介
 
 一顿课程下来,SQL 语法是熟悉了,但是做到业务层面,不圆滑之处暴露出来惹.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 模糊查询
+## 模糊查询
 
 - 包括模糊查询中文
 
@@ -68,7 +68,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# where
+## where
 
 - 开发中可能经常见到: `where 1 = 1` ,这是干什么用的?
 
@@ -116,7 +116,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 多索引排序
+## 多索引排序
 
 - 有时一个表中多个字段需要加索引
 

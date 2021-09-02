@@ -29,13 +29,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg
 - [Pjax 使 JS 渲染失效解决方案](#pjax-使-js-渲染失效解决方案)
   - [文件定位:](#文件定位)
 
-# hexo 渲染
+## hexo 渲染
 
 - 不知道为啥,hexo 只渲染 source 下面*.html 文件,而不会渲染*.HTML 文件.
 
 ---
 
-# 通过主题文件注入
+## 通过主题文件注入
 
 - 一般是写在`theme/xxx/source/`里的`js`和`css`里面
 - 随便起个名字,比如我的叫 mine.js 和 mine.css,里面写上需要的内容
@@ -67,7 +67,7 @@ inject:
 
 ---
 
-# 通过修改内部文件注入
+## 通过修改内部文件注入
 
 - 首先操作如上面一样新建文件并写好 js 和 css 文件,只是注入方式不同
 - 找到`theme/xxx/layout/include/layout.pug`,在内部添加如下:
@@ -85,7 +85,7 @@ link(rel='stylesheet', href='css/mine.css')
 
 ---
 
-# Pjax 使 JS 渲染失效解决方案
+## Pjax 使 JS 渲染失效解决方案
 
 - 用过的都知道 Pjax 可以让网页在非跳转的情况下局部刷新来使网页加载速度提升
 - 但是会带来非常多的 Bug,比如某些依赖 JS 渲染和加载的插件无效化,或者监听和交互不奏效
@@ -94,7 +94,7 @@ link(rel='stylesheet', href='css/mine.css')
 
 ---
 
-## 文件定位:
+### 文件定位:
 
 - 这里修改的是 Butterfly 自带的 Pjax 第三方 pug,如有不同需要自行查找
 - 找到`themes/butterfly/layout/includes/third-party/pjax.pug`,打开开始修改

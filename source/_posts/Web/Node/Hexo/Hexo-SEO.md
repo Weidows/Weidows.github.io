@@ -10,7 +10,7 @@ tags:
   - Website
   - SEO
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -31,7 +31,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png
   - [Hexo 标签验证网站](#hexo-标签验证网站)
 - [添加站点地图](#添加站点地图)
 
-# 安装插件
+## 安装插件
 
 - 分别是生成百度和谷歌站点地图的插件.
 
@@ -42,7 +42,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png
 
 ---
 
-# 配置文件
+## 配置文件
 
 - 根目录的`_config.yml`中添加以下:
 
@@ -86,14 +86,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png
 
 ---
 
-# 站长添加网站
+## 站长添加网站
 
-## 注意
+### 注意
 
 - 因为 `Hexo` 会对 HTML 文件进行修改,所以`无法通过文件验证添加网站`
   - 可以通过 HTML 标签方式,比较方便.
 
-## Hexo 标签验证网站
+### Hexo 标签验证网站
 
 - 我使用的是 Butterfly 主题,主体间会有所不同,定位如下文件:
   - themes/butterfly/layout/includes/layout.pug
@@ -110,7 +110,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vfMgXj4aswWDh2Z.png
 
 ---
 
-# 添加站点地图
+## 添加站点地图
 
 - 百度
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - Github
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -32,14 +32,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 首页绿格子
+## 首页绿格子
 
 - Github 不显示 fork 仓库的 commit
   - 比如 Auto-green 需要独立出来
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# License 选择
+## License 选择
 
 ![License](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/46lbZztfLjkM2n7.jpg)
 
@@ -47,14 +47,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 国内时区错位问题
+## 国内时区错位问题
 
 - 我在东八区,布置的 GitHub Action 是 0 点执行
   - 结果是在早上八点多才执行的(大概是八点半左右,误差<5min)
   - 因为 GitHub 服务器不是在国内,时区不同,其对应的大概是欧洲伦敦那块的标准时区.
 - `结论`:布置 Action 定时任务时,设置的时间要早八个小时(对应东八区)
 
-# 博客域名
+## 博客域名
 
 - GitHub 与 Gitee-pages 部署域名规则不同.
 
@@ -65,15 +65,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 删除远程分支
+## 删除远程分支
 
 - 不能删除当前默认分支.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 凭证和权限
+## 凭证和权限
 
-## 问题一
+### 问题一
 
 - 本地 git 有时候会遇到 github 凭证失效问题
 
@@ -91,7 +91,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ---
 
-## 问题二
+### 问题二
 
 - 推送时报:"无权限推送到 xxx 仓库"
 
@@ -105,7 +105,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 被墙问题
+## 被墙问题
 
 - 有时候 github 会被墙,导致无法推送,需要挂代理
 
@@ -133,7 +133,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 版本回退
+## 版本回退
 
 不小心把 ssh 私钥 copy 到了 git 库里提到了 github 上,差点 GG
 

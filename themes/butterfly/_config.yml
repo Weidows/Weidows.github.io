@@ -19,7 +19,6 @@ menu:
   首页: / || fas fa-plane
   开往: https://travellings.now.sh || fas fa-car
   本站|| fas fa-home:
-    随机文章: random
     标 签: tags || fas fa-tags
     分 类: categories || fas fa-folder-open
     时间轴: archives || fas fa-archive
@@ -32,7 +31,7 @@ menu:
     SSL状态检测: https://weidows.github.io/ssl
     站点状态检测: https://stats.uptimerobot.com/22R3Pfkjzv
   兴趣爱好||fas fa-list:
-    相册: gallery_data || fas fa-camera
+    相册: gallery || fas fa-camera
     说说: artitalk || fa fa-comment
     番剧: tags/bangumis || fas fa-laptop
     游戏: tags/games || fas fa-gamepad
@@ -104,7 +103,7 @@ mathjax:
 katex:
   enable: true
   per_page: false
-  hide_scrollbar: true
+  hide_scrollbar: false
 
 # Image (圖片設置)
 # --------------------------------------
@@ -235,10 +234,10 @@ reward:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
+  enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/Weidows/Blog-private/edit/main/source/_posts
+  url: https://github.com/Weidows/Blog-private/edit/main/source/
 
 # Related Articles
 related_post:

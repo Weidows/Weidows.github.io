@@ -36,16 +36,16 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 前端分离
+## 前端分离
 
-## 逻辑
+### 逻辑
 
 - 判断
 - 循环
 
 ---
 
-## 事件
+### 事件
 
 - 浏览器事件
   - window
@@ -62,7 +62,7 @@ top_img:
 
 ---
 
-# 视图
+## 视图
 
 > HTML + CSS
 
@@ -71,7 +71,7 @@ top_img:
 
 ---
 
-# 通信
+## 通信
 
 - xhr
 - JQuery->Ajax
@@ -79,35 +79,35 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Vue 简析
+## Vue 简析
 
 > SOC 关注点分离原则.
 
-## 视图
+### 视图
 
 - HTML+css+js
 
 ---
 
-## 网络通信
+### 网络通信
 
 - axios
 
 ---
 
-## 页面跳转
+### 页面跳转
 
 - vue-router
 
 ---
 
-## 状态管理
+### 状态管理
 
 - vuex
 
 ---
 
-## Vue-UI
+### Vue-UI
 
 - 飞冰 ice (阿里)
 

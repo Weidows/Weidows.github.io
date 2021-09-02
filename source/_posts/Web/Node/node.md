@@ -10,14 +10,14 @@ tags:
   - yarn
   - package
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
-# top_img:
+top_img:
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-16 10:45:44
+ * @LastEditTime: 2021-09-02 17:26:59
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -32,11 +32,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 - [local 全局依赖](#local-全局依赖)
 - [运行报错](#运行报错)
 - [推荐文章](#推荐文章)
-- [多版本管理](#多版本管理)
+- [node 多版本管理](#node-多版本管理)
+- [版本拟定](#版本拟定)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 环境配置
+## 环境配置
 
 - 之前一直在乐此不疲的修改 npm 和 yarn 的 global 路径,因为每次 Node.js 更新会导致目录索引失效...
 
@@ -44,7 +45,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装 yarn
+## 安装 yarn
 
 - Node.js 是 JavaScript 运行环境,某个项目运行起来会需要一些依赖
 
@@ -72,7 +73,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 换阿里源
+## 换阿里源
 
 - 替换源地址
 
@@ -104,7 +105,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 依赖升级
+## 依赖升级
 
 - package path 简介
 
@@ -134,20 +135,20 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 参数及常用命令
+## 参数及常用命令
 
 > [详见 yarn 的常用命令](https://www.cnblogs.com/lililia/p/10482169.html)
 
 - 按照 package.json 文件的配置安装 module 到 node_modules/里面
 
-## `-g(global)`
+### `-g(global)`
 
 - 全局安装/卸载
 - 注意脚手架如果是全局安装的话,卸载也要加上`-g`才能全局卸载.
 
 ---
 
-## `-save`
+### `-save`
 
 - 默认直接 install 会安装进那个目录,但是不会修改 package.json 文件
 - 加上-save 会修改文件,使下次 npm install 也会安装
@@ -157,7 +158,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# local 全局依赖
+## local 全局依赖
 
 - npm
 
@@ -188,7 +189,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 运行报错
+## 运行报错
 
 ```
 node_modules\pascal-case\dist\index.js:21
@@ -201,13 +202,13 @@ node_modules\pascal-case\dist\index.js:21
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 推荐文章
+## 推荐文章
 
 > [很多人上来就删除的 package-lock.json，还有这么多你不知道的（深度内容）](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247496886&idx=1&sn=513b863b8468fcfaf8c8e750ce266899&chksm=97c66918a0b1e00eb920d278ae03b10ebe1d765db0e17cb8fe5bc60b737fb3c6af1d96fcf724&mpshare=1&scene=23&srcid=0327cIro7WXAp1jgObHXuKCE&sharer_sharetime=1616807246544&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 多版本管理
+## node 多版本管理
 
 - 主流的有 nvm / n 两种
 
@@ -228,3 +229,21 @@ node_modules\pascal-case\dist\index.js:21
   ```
   ERROR open \settings.txt: The system cannot find the file specified.
   ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 版本拟定
+
+- 之前一直手动起草 package.json 中的 version,略显笨拙
+
+  不知道 npm 自带 version 管理功能
+
+- `npm version`
+
+  > npm version [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease [--preid=<prerelease-id>] | from-git]
+
+  喏,可以拟定大小版本.
+
+  一般用这三个: major(大) -> minor(小) -> patch(补丁)
+
+  另外需要注意,使用之前要 `git commit`,不然没法使用.

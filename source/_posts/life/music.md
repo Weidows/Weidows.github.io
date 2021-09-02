@@ -7,7 +7,7 @@ tags:
   - 音乐
   - 哲学
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -30,7 +30,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 序章
+## 序章
 
 - 关于我为什么更喜欢`日文歌`而非中文,我自身也一直在寻找答案.
 
@@ -38,7 +38,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 端倪
+## 端倪
 
 - 今天刷 B 站,像往常一样,看到了崩坏三的 MV->周深唱的`Rubia`
 
@@ -79,7 +79,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 调用
+## 调用
 
 - 回归正题,结合实际音乐来谈一下~
 
@@ -109,7 +109,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 收尾
+## 收尾
 
 - 到这里该收束一下了,我更喜欢日文歌的原因:
 
@@ -147,7 +147,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 扩充
+## 扩充
 
 - 我发现我对于`作曲家`的执著大于歌手的执著.
 - 我喜欢的作曲家创作的很多曲子都很合我胃口,当然这话跟放屁一样,同一个作曲家的作品风格当然是差不多的啦!
@@ -174,7 +174,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FW48e5VR3BOgvca.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 摘录
+## 摘录
 
 > “人，是会思考的芦苇。” ——帕斯卡，《思想录》
 

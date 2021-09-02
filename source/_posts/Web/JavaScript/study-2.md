@@ -8,7 +8,7 @@ tags:
   - JavaScript
   - 笔记
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/tifKj6dA92BVezU.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -45,13 +45,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/tifKj6dA92BVezU.png
   - [函数传递](#函数传递)
   - [方法](#方法)
 
-# 续
+## 续
 
 > 上接[🐱‍🏍JavaScript 学习笔记-(壹)](../study-1)
 
 ---
 
-# 对象
+## 对象
 
 - JavaScript 中的所有的键都是`字符串`，值是任意对象！
 - JavaScript 中定义对象用`{}`,定义数组用`[]`.
@@ -68,7 +68,7 @@ var person = {
 
 ---
 
-## 调用
+### 调用
 
 - 调用并不存在的属性,会提示 undefined,并不会报错.
 
@@ -79,7 +79,7 @@ console.log(person.work); // undefined
 
 ---
 
-## 对象属性赋值/添加
+### 对象属性赋值/添加
 
 ```js
 person.age = 4;
@@ -98,7 +98,7 @@ person.run = function () {
 
 ---
 
-## 删除属性
+### 删除属性
 
 ```js
 delete person.age;
@@ -116,7 +116,7 @@ person; /**
 
 ---
 
-## 判断对象是否有某属性
+### 判断对象是否有某属性
 
 ```js
 console.log("email" in person); // true
@@ -128,9 +128,9 @@ console.log(person.hasOwnProperty("toString")); // false
 
 ---
 
-# 流程控制
+## 流程控制
 
-## 基本
+### 基本
 
 - 像是 if-else,for,while 跟 Java 一模一样.
 - 遍历`对象用for-in`,遍历`数组用for-of`
@@ -143,7 +143,7 @@ console.log(person.hasOwnProperty("toString")); // false
 
 ---
 
-## forEach 循环
+### forEach 循环
 
 - 内部是匿名函数.
 
@@ -159,7 +159,7 @@ age.forEach(function (element, index, array) {
 
 ---
 
-## for-in 循环
+### for-in 循环
 
 - 与 Java 不同,java 给的是数组内指定元素的克隆体,JavaScript 给的是指定元素的索引下标.
 - 跟 for 循环差别只在于数组大小是否可知.
@@ -173,7 +173,7 @@ for (let index in age) {
 
 ---
 
-## for-of 循环
+### for-of 循环
 
 - 与 Java 的 for-each 循环一样.
 - 遍历数据而非 index.
@@ -186,9 +186,9 @@ for (let num of age) {
 
 ---
 
-# Map & Set
+## Map & Set
 
-## Map
+### Map
 
 - 通过 key-value 存储数据
   - key 是字符串,value 是任意数据.
@@ -219,7 +219,7 @@ console.log(map); // Map { 'Jack' => 90, 'haha' => 80 }
 
 ---
 
-## Set
+### Set
 
 - 无序不重复,Set 和 Map 类似，Set 只存储 key，且 key 不重复。
 
@@ -262,11 +262,11 @@ console.log(set.has(3)); // false
 
 ---
 
-# 函数
+## 函数
 
 如果没有执行 return，函数执行完也会返回结果，结果是 `undefined`
 
-## 定义方式一
+### 定义方式一
 
 ```js
 function abs(x) {
@@ -284,7 +284,7 @@ console.log(abs(-10)); // 10
 
 ---
 
-## 定义方式二
+### 定义方式二
 
 - 好怪哦,不过跟上面等价(推荐用上面那种)
 
@@ -309,7 +309,7 @@ console.log(abs(-10)); // 10
 
 ---
 
-## 参数传递问题
+### 参数传递问题
 
 - 利用关键字 argument ,它是函数传入的参数数组
 
@@ -360,7 +360,7 @@ console.log(abs(-10)); // 10
 
 ---
 
-## 变量作用域
+### 变量作用域
 
 - 跟 Java 一模一样.
 
@@ -426,7 +426,7 @@ console.log(abs(-10)); // 10
 
 ---
 
-## 全局变量/函数
+### 全局变量/函数
 
 - 所有的全局变量/函数是绑定在 windows 对象上的(浏览器中,如果是 node 中就不行)
 
@@ -457,7 +457,7 @@ console.log(abs(-10)); // 10
 
 ---
 
-## 函数传递
+### 函数传递
 
 - 通过[定义方法二](#定义方式二)这种,了解到函数和变量实际是互通的
 
@@ -476,7 +476,7 @@ func_2(); // 这里是func.
 
 ---
 
-## 方法
+### 方法
 
 - 定义在对象里的函数
 

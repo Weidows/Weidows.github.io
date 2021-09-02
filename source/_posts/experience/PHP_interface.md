@@ -21,14 +21,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Dxy6jwQotKsIEX5.jpg
 - [简单调用](#简单调用)
 - [GET 方式的直接使用](#get-方式的直接使用)
 
-# 简单调用
+## 简单调用
 
 - 他会提供相应接口给你的，具体调用方法就相当于讲求某个链接,如：
   `http://localhost/operate.php?act=get_user_list&type=json`
 - 在这里 operate.php 相当于一个接口，其中 get_user_list 是一个 API（获取用户列表），讲求返回的数据类型为 JSON 格式。
 - 你只需要在你 PHP 代码中执行这条链接他就会返回。
 
-# GET 方式的直接使用
+## GET 方式的直接使用
 
 \$file_contents = file_get_content('http://localhost/operate.php?act=get_user_list&type=json')
 

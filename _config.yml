@@ -144,30 +144,16 @@ steam:
     # host: localhost # 代理ip或域名
     # port: 7890 # 代理端口
 
-# douban:
-#   user: 222366733
-#   builtin: true
-#   timeout: 10000
-#   book:
-#     title: "⭐图书馆⭐"
-#     quote: "书是人类进步的阶梯,但时代变了---留意下有没有电梯."
-#   movie:
-#     title: "⭐电影院⭐"
-#     quote: "他山之石,可以攻玉.嗯,是对的."
-
 # 博文压缩 - hexo-neat
 neat_enable: true
-# 压缩html
 neat_html:
   enable: true
   exclude:
     - "**/*.mmd/*"
-# 压缩css
 neat_css:
   enable: true
   exclude:
     - "**/*.min.css"
-# 压缩js
 neat_js:
   enable: true
   mangle: true
@@ -235,12 +221,14 @@ githubcalendar:
   calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
+
 markdown:
   plugins:
     - plugin:
       name: '@neilsustc/markdown-it-katex'
       options:
         strict: false
+
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/

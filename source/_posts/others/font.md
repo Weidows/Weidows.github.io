@@ -8,7 +8,7 @@ tags:
   - VScode
   - 推荐
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
@@ -27,7 +27,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
   - [简单介绍](#简单介绍)
   - [VScode 中开启连字](#vscode-中开启连字)
 
-# 等宽字体
+## 等宽字体
 
 - `Fira Code`(Most popular)
 - `Operator Mono`(Very strange && beautiful)
@@ -43,7 +43,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
 - Operator Mono 字体
   ![jhKmYOnMX1pecEI](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/NceHJmuqKvM4XUL.jpg)
 
-# 非等宽字体
+## 非等宽字体
 
 - `Comic Sans MS`
 - `Candara`
@@ -52,7 +52,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
 
   ***
 
-# 中文字体
+## 中文字体
 
 - `问藏书房`
 - `汉仪楷体简`
@@ -61,7 +61,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
 
 ---
 
-# VScode 中字体系列设置
+## VScode 中字体系列设置
 
 ```
 "editor.fontFamily": "'Operator Mono Lig','问藏书房'"
@@ -75,7 +75,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
 
 ---
 
-# VScode 中定义关键字体样式
+## VScode 中定义关键字体样式
 
 - 在 VScode 设置中加入如下配置(可以根据需要酌情调整)
 
@@ -131,9 +131,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
 }
 ```
 
-# `连字效果`
+## `连字效果`
 
-## 简单介绍
+### 简单介绍
 
 - 连字效果是将`>=`,`<=`,`==`等等连接起来的效果,编程方面比较好看,`需要使用的字体支持`.
 - 下载的字体文件一般有`.ttf` / `.otf`,分别对应 True Type Font 和 Open Type Font
@@ -141,6 +141,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Xx1sQuZiCoPKAfD.jpg
   - .ttf 肯定打不开,.otf 有的字体支持有的不支持(而且同一种字体的.otf 有可能也存在"带有连字效果和不带有连字效果"两种文件)
   - font 文件带有`Lig`/`Ligatures`的话`有可能`是带有连字效果的字体
 
-## VScode 中开启连字
+### VScode 中开启连字
 
 - "editor.fontLigatures": true

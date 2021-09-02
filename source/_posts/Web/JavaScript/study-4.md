@@ -9,7 +9,7 @@ tags:
   - 笔记
   - JQuery
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/qg3OyNzScKB5aHh.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -32,7 +32,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/qg3OyNzScKB5aHh.png
   - [Ajax](#ajax)
 - [巩固](#巩固)
 
-# 开头
+## 开头
 
 - 写在一开始.
 - 批判思维开场 - `JQuery` 过时了吗?
@@ -44,11 +44,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/qg3OyNzScKB5aHh.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# JQuery
+## JQuery
 
 > [JQuery API 中文文档](https://jquery.cuishifeng.cn/)
 
-## 使用
+### 使用
 
 - JQuery 是个 JavaScript 函数库,使用方法:
   - `$(selector).action()`
@@ -76,7 +76,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/qg3OyNzScKB5aHh.png
 
 ---
 
-## 选择器
+### 选择器
 
 ```js
 //原生js，选择器少，麻烦不好记
@@ -98,7 +98,7 @@ $(".class1").click;
 
 ---
 
-## 事件
+### 事件
 
 - 鼠标事件
 
@@ -151,7 +151,7 @@ $(".class1").click;
 
 ---
 
-## 操作 DOM
+### 操作 DOM
 
 ```html
 <!DOCTYPE html>
@@ -188,13 +188,13 @@ $(".class1").click;
 
 ---
 
-## Ajax
+### Ajax
 
 后面有后端对接时再讲.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 巩固
+## 巩固
 
 1. 找一些美化比较好的网站,扒下来 HTML
 

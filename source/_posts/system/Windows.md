@@ -7,7 +7,7 @@ tags:
   - Windows
   - 计算机系统
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -39,13 +39,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 - [颜色配置](#颜色配置)
 - [虚拟机代理不通](#虚拟机代理不通)
 
-# 窗口逸出
+## 窗口逸出
 
 - 之前弄了个副屏,有些应用窗口在副屏中打开
 
 - 于是,在不装副屏时,那些窗口打开时还是在那个位置,而且摸不到他们没法拖过来...
 
-## 解决方案
+### 解决方案
 
 - <kbd>alt</kbd> + <kbd>Tab</kbd> 切换到那个窗口.
 
@@ -53,21 +53,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 - => `解决`!
 
-# 终端
+## 终端
 
-## 打开方式
+### 打开方式
 
-### 方法一
+#### 方法一
 
 `Windows + R`,输入 cmd,回车就出来了.
 
-### 方法二
+#### 方法二
 
 在文件夹空白处按住`shift + 右键`,会出来`在此处打开PowerShell窗口`
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/4HflJZPK8W95i1A.png" alt="20210103142309" />
 
-### 方法三
+#### 方法三
 
 直接在路径栏中输入 cmd 回车.
 
@@ -75,7 +75,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ---
 
-## 切换路径
+### 切换路径
 
 - 秃然一天,发现 cmd 路径无法切换??!!
 
@@ -98,7 +98,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 压缩包内容异常
+## 压缩包内容异常
 
 - 今天下载了一个压缩包(原本大小 163M,带密码),打开之后是这样：
 
@@ -112,9 +112,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# office
+## office
 
-## `office2019` 和 `office365` 区别.
+### `office2019` 和 `office365` 区别.
 
 1. 像是 office2015,office2017,office2019 这种的一般是买电脑时就预装在电脑里的
 
@@ -136,7 +136,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ---
 
-## 网页版 office
+### 网页版 office
 
 网页版 office 任何 Microsoft 账号都可以免费使用,域名也一样: `www.office.com` ,但是分为 office 和 office365 两种界面
 
@@ -150,7 +150,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ---
 
-## 举栗
+### 举栗
 
 - 我的一个微软账号订阅是 `Microsoft Office365 A1` ,就是最普通的教育版,学校通过申请但没购买更高级的服务.
 
@@ -160,7 +160,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ---
 
-## 推荐文章
+### 推荐文章
 
 > [Office2019 与 office365 有什么区别？有些人还蒙在鼓里！](https://baijiahao.baidu.com/s?id=1629077774897211140&wfr=spider&for=pc)
 
@@ -168,7 +168,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 各种路径
+## 各种路径
 
 - 字体
 
@@ -184,7 +184,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 颜色配置
+## 颜色配置
 
   <img src="https://i.loli.net/2021/05/20/7gNxJSafiq5X81w.png" alt="20210520164845" />
 
@@ -192,7 +192,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 虚拟机代理不通
+## 虚拟机代理不通
 
 - win 下开了个虚拟机,本想着让本机代理虚拟机网络,结果不知为什么一直不通:
 

@@ -29,9 +29,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# [仓库地址](https://github.com/Weidows-projects/Programming-Configuration)
+## [仓库地址](https://github.com/Weidows-projects/Programming-Configuration)
 
-# 问题
+## 问题
 
 - 大概...我们经常会遇到这种问题:
 
@@ -53,13 +53,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 解决方案
+## 解决方案
 
 - 以上遇到的问题我们可以借助 `名单备份 & 配置备份` 解决,因为只要知道软件名字和配置,就可以全部恢复
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 实现
+## 实现
 
 > 这里只是提供一个思路,具体怎么备份还需要根据系统、需求、位置来决定.
 
@@ -103,7 +103,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 解析
+## 解析
 
 - 1.首先需要指定 `HOME_PATH`用户配置目录 和 `BACKUP_DIR`备份到的位置
 
@@ -152,7 +152,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 敏感信息
+## 敏感信息
 
 - 有些敏感信息我们想备份但并不想让 Git 存储,比如`.ssh`中的秘钥
 
@@ -160,7 +160,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 结束
+## 结束
 
 - 至此备份脚本就可以了,可以 [看看备份结果](https://github.com/Weidows-projects/Programming-Configuration)
 

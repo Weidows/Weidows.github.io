@@ -29,7 +29,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
 - [github-action 自动化部署](#github-action-自动化部署)
   - [解释:](#解释)
 
-# GitHub/Gitee 选择
+## GitHub/Gitee 选择
 
 - 速度来看,GitHub 在加载速度上略超 Gitee,部署速度 Gitee 略快(但是这项几乎不影响体验)
 - 但是就图片加载来看,GitHub 还是远不如 Gitee,可以考虑图床或者 JsDelivr 做 CDN 来解决
@@ -38,7 +38,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
 
 ---
 
-# 解决方案
+## 解决方案
 
 - 如果你想部署在 GitHub 上但是却因为它不识别那个路径
   - 尝试修改博客根目录下的`_config.yml`,把`public_dir: public`改为`public_dir: docs`
@@ -47,7 +47,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
 
 ---
 
-# 开启
+## 开启
 
 - `Gitee`
   ![20201122112033](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dpIgQvz93ltRCPD.jpg)
@@ -56,9 +56,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
 
 ---
 
-# GitHub 自动化部署
+## GitHub 自动化部署
 
-## 安装 Hexo-deployer
+### 安装 Hexo-deployer
 
 - (注意 cnpm 好像不行)
 
@@ -69,26 +69,24 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
 - 在`_config.yml` 里添加以下内容(注意缩进不要错)
 
   ```
-
   deploy:
   type: git # 用本项目的 git 进行提交 & 推送
   repo: 这里填入 GitHub 仓库 URL
   branch: master # 这里写想要部署到的分支名(没有对应分支的话会自动新建)
-
   ```
 
 - 在对应仓库的设置里找到 github-pages 然后选择对应分支,系统就会自动部署并发出你的博客链接了
 
 ---
 
-# 另一种更加方便完美的解决方案
+## 另一种更加方便完美的解决方案
 
 - 因为搭建这个博客的工作目录可能并不是一个独立的 git 仓库
 - (就是它被包含在其他仓库里,而非自己是一个独立仓库)
 - 这种情况下上面的 deployer 就鸡鸡了(没法用了,除非自己改),有没有解决方案呢?
 - 有,使用 github-action 自动化部署!
 
-# github-action 自动化部署
+## github-action 自动化部署
 
 文件目录: `Blogroot/.github/workflows/deploy.yml`
 (简单点就是.github 跟 public,source 等等同级目录),写入下面内容:
@@ -123,7 +121,7 @@ jobs:
           FOLDER: Website/public # 想部署的文件夹
 ```
 
-## 解释:
+### 解释:
 
 - name 随意起
 - on:[push]意思是在推送时触发 action

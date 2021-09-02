@@ -6,7 +6,7 @@ categories:
 tags:
   - 设计
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hIrnjdOpX2wAcgv.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -27,7 +27,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hIrnjdOpX2wAcgv.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 头图设计
+## 头图设计
 
 - 一张好看的图片能有啥效果?
 
@@ -60,9 +60,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hIrnjdOpX2wAcgv.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 呈现方式
+## 呈现方式
 
-## 图>字
+### 图>字
 
 - 有些情况下,同样的内容,同样的格式性,图片效果还是会更显著
 
@@ -72,7 +72,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hIrnjdOpX2wAcgv.jpg
 
 ---
 
-## 非标准与留白
+### 非标准与留白
 
 - 比如上面的两张图,有毛边效果,用的好的话可以让人眼前一亮(我截的图比较差)
 

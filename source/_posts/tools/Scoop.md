@@ -10,7 +10,7 @@ tags:
   - 工具
   - 推荐
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -42,7 +42,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
   - [环境原因](#环境原因)
 - [更新&备份&推荐](#更新备份推荐)
 
-# 引入变量
+## 引入变量
 
 - 软件包管理器: 就像是 360 软件管家,腾讯软件管家之类的
 
@@ -50,7 +50,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 各个优缺点
+## 各个优缺点
 
 - Scoop
 
@@ -82,7 +82,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Scoop 安装
+## Scoop 安装
 
 - 安装前先设置下 Scoop 的`安装路径`
 - 下面操作需要在 pwsh 中进行,没有的话可以手动操作.
@@ -155,7 +155,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Chocolatey 安装
+## Chocolatey 安装
 
 - 首先设置环境变量 `ChocolateyInstall` ,值为要安装的位置,如下
 
@@ -167,7 +167,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# scoop-completion
+## scoop-completion
 
 - scoop 命令按 tab 自动补全
 
@@ -181,9 +181,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ---
 
-# 加速下载
+## 加速下载
 
-## 通过 aria2
+### 通过 aria2
 
 - 安装 `aria2`
 
@@ -197,7 +197,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ---
 
-## 通过代理
+### 通过代理
 
 - 设置代理
 
@@ -215,7 +215,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Scoop 绝活
+## Scoop 绝活
 
 - 他把当前版本的目录创建了一个`伪目录:current`,这个伪目录指向当前版本号的目录
 - 比如这里的`current/node.exe`实际上指向`15.5.1/node.exe`
@@ -227,9 +227,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置文件
+## 配置文件
 
-## Scoop
+### Scoop
 
 > 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
 
@@ -237,13 +237,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ---
 
-## Chocolatey
+### Chocolatey
 
 > 在 `Chocolatey\config\chocolatey.config` 这个文件里.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 好文传送
+## 好文传送
 
 > [Windows 下 Scoop 安装、配置与使用](https://blog.csdn.net/luoyooi/article/details/102990113)
 
@@ -251,9 +251,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装异常
+## 安装异常
 
-## 网络原因
+### 网络原因
 
 - 比如我在用 scoop 安装 pwsh 时,会遇到 MD5 不匹配或者与 GitHub 连接异常的情况,安装失败
 - 举例:
@@ -303,7 +303,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ---
 
-## 环境原因
+### 环境原因
 
 - 这是个极其 dan 疼的报错,什么都没告诉你,还怼了句不明不白的话.
 
@@ -315,7 +315,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/vJbmzfMU231dDlq.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 更新&备份&推荐
+## 更新&备份&推荐
 
 - 检查软件更新:
 

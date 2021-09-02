@@ -11,7 +11,7 @@ tags:
   - Website
   - 魔改
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -35,9 +35,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Why?
+## Why?
 
-## `Why do this?`
+### `Why do this?`
 
 - 这网站有太多需要简化的东西了,很多样式是`直接引入的css和js`
 
@@ -45,7 +45,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 概览
+## 概览
 
 - 对于 css 的所有修改,全部整合进`mine.styl`
 
@@ -73,13 +73,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 契合
+## 契合
 
 > 结合 [butterfly 内部魔改记录](./butterfly_modify)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 优化 css
+## 优化 css
 
 - 以往的 css 是直接引入的文件,在客户端加载时还是会耗费一些不菲时间加载+渲染出来
 
@@ -116,7 +116,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 优化 js
+## 优化 js
 
 - 跟 css 一样,我原先也是直接一个`mine.js`引入的
 
@@ -134,7 +134,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/inlt356CXhAOExo.jpg
   })
   ```
 
-## 再次魔改
+### 再次魔改
 
 - 因为某些美化函数会被 pjax 功能搞失效,直接把函数放进 main.js 的话,pjax 无法再次使用
 

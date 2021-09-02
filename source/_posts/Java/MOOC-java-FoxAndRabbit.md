@@ -26,7 +26,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twe
 - [View](#view)
 - [FoxAndRabbit](#foxandrabbit)
 
-# 一.简介
+## 一.简介
 
 由于老师在课程中没给出源代码,有些知识点没有涉及到,需要源码作为参考,但是个人百度谷歌了半天没找到真正所需要的(甚至有人卖...)
 
@@ -35,11 +35,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twe
 
 如果复制代码的话需要改一下 Package 和 import
 
-# 二.代码片段
+## 二.代码片段
 
 ![目录结构](https://img-blog.csdnimg.cn/20200727081719904.jpg#pic_center)
 
-# Animal
+## Animal
 
 ```java
 /*
@@ -118,7 +118,7 @@ public abstract class Animal {
 }
 ```
 
-# Fox
+## Fox
 
 ```java
 /*
@@ -178,7 +178,7 @@ public class Fox extends Animal implements Cell {
 }
 ```
 
-# Rabbit
+## Rabbit
 
 ```java
 /*
@@ -223,7 +223,7 @@ public class Rabbit extends Animal implements Cell {
 }
 ```
 
-# Cell
+## Cell
 
 ```java
 /*
@@ -253,7 +253,7 @@ public interface Cell {//注意这里不能写成interface class
 }
 ```
 
-# Field
+## Field
 
 ```java
 /*
@@ -374,7 +374,7 @@ public class Field {
 }
 ```
 
-# Location
+## Location
 
 ```java
 /*
@@ -405,7 +405,7 @@ public class Location {
 }
 ```
 
-# View
+## View
 
 ```java
 /*
@@ -459,7 +459,7 @@ public class View extends JPanel {
 }
 ```
 
-# FoxAndRabbit
+## FoxAndRabbit
 
 ```java
 /*

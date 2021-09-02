@@ -7,7 +7,7 @@ tags:
   - Aria2
   - 工具
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -37,7 +37,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 简介
+## 简介
 
 - `Aria2`是一个命令行下载器,没有 UI 界面
 
@@ -49,7 +49,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 需求
+## 需求
 
 1. 个人需要一个`多线程`下载器,其实也不用强调,因为目前大多数下载器都是多线程的
 
@@ -63,35 +63,35 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 横向对比
+## 横向对比
 
-## IDM
+### IDM
 
 - 支持的协议太少了,而且不太好用,优点是它可以抓取网页中的音视频下载,但是对于我来说,下载音乐并不靠这个,下载视频(B 站和油管的),它都不支持,不过倒是支持个上面的批量下载.
 - 总的来说是我的第二选择.
 
 ---
 
-## Motrix
+### Motrix
 
 - 底层就是用的 Aria2,所以说支持的协议挺多的,确实不错但是奈何我用不着...
   - 现在`Aria2+AriaNg`已经足够满足我了.
 
 ---
 
-## 迅雷
+### 迅雷
 
 - Emmm 跟我的需求有点不一样,排除.
 
 ---
 
-## FFmpeg
+### FFmpeg
 
 - 哈哈哈,没用过,不了解
 
 ---
 
-## Aria2+AriaNg
+### Aria2+AriaNg
 
 - 这个就是主角,也就是我正在用的.
 
@@ -101,7 +101,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置 Aria2
+## 配置 Aria2
 
 - 用过 Scoop 的应该都知道 Aria2,一般安装 Scoop 时都会装上
 
@@ -217,7 +217,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置浏览器
+## 配置浏览器
 
 - 上面提到了,需要安装`Aria2 for Chrome`或者`Aria Manager`之类的插件
 
@@ -235,7 +235,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 启动 Aria2-RPC
+## 启动 Aria2-RPC
 
 - 实现原理是让`Aria2.exe`程序读取`conf`文件跑起来`RPC服务`,然后浏览器插件连接这个 RPC 实现界面化管理.
 
@@ -267,7 +267,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 开机自启/后台运行
+## 开机自启/后台运行
 
 - Aria2 本身特别小,后台一直开着没影响,我们让他开机自启,在后台一直挂着.
 
@@ -283,7 +283,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VD9X6TrFWc5yCfi.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 参考
+## 参考
 
 - 本篇文章介绍不是很平滑,建议结合参照文章一同食用.
 

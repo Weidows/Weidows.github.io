@@ -11,7 +11,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
 -->
 
-# _Contact/联系方式:)_
+## _Contact/联系方式:)_
 
 <center>
 
@@ -61,7 +61,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 `掘金`: {% btn 'https://juejin.im/user/2858385965329790',@Weidows,far fa-hand-point-right,outline pink larger %}
 
-`二维码集合`: {% btn '../../gallery_data/Private/QRcode',QRcode,far fa-hand-point-right,outline pink larger %}
+`二维码集合`: {% btn '../../gallery/Private/QRcode',QRcode,far fa-hand-point-right,outline pink larger %}
 {% endhideToggle %}
 
 <!-- endtab -->
@@ -72,7 +72,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 ---
 
-# _Brief Intro/简介_
+## _Brief Intro/简介_
 
 <center>
 
@@ -148,6 +148,6 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## _Missing your way? ->_{% btn 'https://github.com/Weidows',My Profile,far fa-hand-point-right,outline blue %} {% btn '/',Home Page,far fa-hand-point-right,outline red %}
+### _Missing your way? ->_{% btn 'https://github.com/Weidows',My Profile,far fa-hand-point-right,outline blue %} {% btn '/',Home Page,far fa-hand-point-right,outline red %}
 
 ![20201124010028](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HigcC3IaqbeFSOW.jpg)

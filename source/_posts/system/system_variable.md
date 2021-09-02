@@ -34,17 +34,17 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 深入环境变量
+## 深入环境变量
 
 > [🎇 深入解析 Window 环境变量.](../深入环境变量)
 
-# Scoop
+## Scoop
 
 > 详见[🙌Windows 平台软件包管理器选择-Scoop](../../tools/Scoop)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# JDK
+## JDK
 
 > 通过 Scoop 安装会自动设置
 
@@ -58,7 +58,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Maven
+## Maven
 
 > 内部修改耦合 [🎉IDEA 魔改记录.](../../tools/IDEA/Modification#maven)
 
@@ -82,13 +82,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Git
+## Git
 
 > 用 Scoop 安装自带环境变量,不用配置.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Python
+## Python
 
 > 通过 Scoop 安装会自动设置
 
@@ -106,6 +106,6 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Node.js
+## Node.js
 
 > 详见[⬆ Node.js 环境配置 && 使用](../../Web/Node/node)

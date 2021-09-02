@@ -20,7 +20,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/To4BF7XM1xEmanh.jpg
 - [匿名对象一 (Test.java)](#匿名对象一-testjava)
 - [匿名对象二 (Circle.java)](#匿名对象二-circlejava)
 
-# 匿名对象一 (Test.java)
+## 匿名对象一 (Test.java)
 
 ![anonymous_object_1](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/aqpo7tPHMDxAkbn.jpg)
 
@@ -52,7 +52,7 @@ public static void main(String[] args) {
 
 ---
 
-# 匿名对象二 (Circle.java)
+## 匿名对象二 (Circle.java)
 
 ![anonymous_object_2](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PtY473dAChgsqpQ.jpg)
 

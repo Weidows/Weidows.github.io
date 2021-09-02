@@ -8,7 +8,7 @@ tags:
   - VScode
   - 插件
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -32,7 +32,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 - [剖析 package.json](#剖析-packagejson)
 - [文章推荐](#文章推荐)
 
-# 前期准备
+## 前期准备
 
 > 首先准备好点子(扩展,主题啥的)具体是想要做啥.
 
@@ -40,7 +40,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ---
 
-# 开发
+## 开发
 
 - 可以照葫芦画瓢,反正基本都是开源的,别乱复制粘贴就好.
 
@@ -60,7 +60,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ---
 
-# 打包
+## 打包
 
 - 安装`vsce`
 
@@ -78,9 +78,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ---
 
-# 发布
+## 发布
 
-## 网页发布
+### 网页发布
 
 - 进入[https://marketplace.visualstudio.com/VSCode](https://marketplace.visualstudio.com/VSCode)
 
@@ -94,7 +94,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ---
 
-## 命令行发布
+### 命令行发布
 
 - 这种发布方法比较适合结合 GitHub 使用,自动化流程.
 
@@ -118,7 +118,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 结合 GitHub
+## 结合 GitHub
 
 - 发现 package.json 中必须用 https 协议传输数据,于是 local 的 images`无法显示`
 
@@ -139,7 +139,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 剖析 package.json
+## 剖析 package.json
 
 - 借用`Git Graph`插件简单分析一下 package 中的配置 (因为文件过长,已删掉一部分)
 
@@ -259,7 +259,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 文章推荐
+## 文章推荐
 
 > [VS Code 插件开发入门教程](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649833093&idx=1&sn=27bc83c81db8490d52b169ab3ef3fa67&chksm=f175f446c6027d509e9ecdba48271efd51c3c057fd04d90fe8cee0720f01cf3e275d7b25df6c&mpshare=1&scene=23&srcid=0312NhWlH2sedoutfqkNpB7j&sharer_sharetime=1615557271958&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 

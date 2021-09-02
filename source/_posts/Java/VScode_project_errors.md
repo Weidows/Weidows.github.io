@@ -8,26 +8,26 @@ tags:
   - VScode
   - Maven
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/xiSTXMhqsgzD7UP.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:15:42
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\VScode_project_errors.md
+ * @LastEditTime: 2021-09-02 15:30:55
+ * @FilePath: \Blog-private\source\_posts\Java\VScode_project_errors.md
 -->
 
-- [问题:](#问题)
-- [`解决:`](#解决)
+- [问题](#问题)
+- [解决](#解决)
 
-# 问题:
+## 问题
 
 - 在打开 VScode 后 Java 虚拟机已经启动,但是并没有识别工作区里面 Maven 的项目
 - 所以 Java 只能提供语法上的错误检查,无法基于项目提供开发环境(包括编译)
 - 总之就是--->`报错(none-project)`,而且大部分功能无法使用
 
-# `解决:`
+## 解决
 
 - 经过一番折腾发现这是 Project 检测机制的问题,如下
 

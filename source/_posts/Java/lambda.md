@@ -33,13 +33,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 参照
+## 参照
 
 > 在此文章记录了: [😍Weidows の成长路线.#lambda](../../others/LearnWay#lambda)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 简单讲解
+## 简单讲解
 
 - Lambda 是函数话编程,Java8 引入的特性,有广泛使用.
 
@@ -47,7 +47,7 @@ top_img:
 
 ---
 
-# 快速上手
+## 快速上手
 
 - 比如这里有如下代码,写线程时很常见,Runnable 是一个函数化的接口,可以用 Lambda 简化
 
@@ -72,7 +72,7 @@ top_img:
 
 ---
 
-# 进一步
+## 进一步
 
 ```Java
 public class Lambda {
@@ -136,7 +136,7 @@ interface GreetingService {
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 作用域
+## 作用域
 
 ```Java
 public class Lambda2 {
@@ -163,7 +163,7 @@ public class Lambda2 {
 
 ---
 
-# forEach
+## forEach
 
 ```Java
 public class ForEach {
@@ -196,7 +196,7 @@ public class ForEach {
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 多线程
+## 多线程
 
 - 例如我们需要一个实现 Runnable 接口的名为 `myYield`的对象
 
@@ -204,7 +204,7 @@ public class ForEach {
 
 ---
 
-## 创建新类
+### 创建新类
 
 - 复杂,对于像是 Runnable 这种函数化接口,这样实现起来麻烦
 
@@ -230,7 +230,7 @@ class MyYield implements Runnable {
 
 ---
 
-## 匿名内部类
+### 匿名内部类
 
 - 比上面的简单些,但还可以用 Lambda 更简化
 
@@ -254,7 +254,7 @@ public class TestYield {
 
 ---
 
-## Lambda
+### Lambda
 
 - 在会用 Lambda 情况下,代码可读性和简洁度大于匿名内部类
 

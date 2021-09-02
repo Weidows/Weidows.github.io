@@ -8,7 +8,7 @@ tags:
   - 备忘录
   - 设计
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -28,7 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 快捷键
+## 快捷键
 
 |        功能        |   快捷键   |
 | :----------------: | :--------: |
@@ -37,7 +37,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
 
 ---
 
-# 解锁图层
+## 解锁图层
 
 - 索引模式无法解锁
 
@@ -51,7 +51,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
 
 ---
 
-# 透明背景
+## 透明背景
 
 - 选择->色彩范围，点击取色
   ![20201129121309](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/QxWfLSMuHa9GD1e.jpg)
@@ -59,7 +59,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 定向变色
+## 定向变色
 
 - 变色前后对比
 
@@ -75,6 +75,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dHzXmg92Lok1cfK.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 去水印
+## 去水印
 
 > [PS 去水印的方法和技巧](https://zhuanlan.zhihu.com/p/45458379)

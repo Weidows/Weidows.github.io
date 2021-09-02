@@ -29,14 +29,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 - [上机操作](#上机操作)
 - [闲杂问题](#闲杂问题)
 
-# 前言
+## 前言
 
 - 此文不太适合纯小白,对电脑系统方面一无所知的请及时退出
 - 最好准备好充足时间来看这篇文章,此篇文章会给你带来重启电脑至少 100 次的经验;
 
 ---
 
-# 准备工作
+## 准备工作
 
 - 硬件设备:
   - 电脑,一个 U 盘(8G 完全够用,也可以用读卡器+SD 卡替代)
@@ -47,15 +47,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 
 ---
 
-# 备份工作
+## 备份工作
 
 **把自己所有盘里的重要资料尽量备份,一定要做好背水一战的觉悟**
 
 ---
 
-# 两种启动方式
+## 两种启动方式
 
-## 传统 Bios 启动(legacy 启动)
+### 传统 Bios 启动(legacy 启动)
 
 - 硬盘分区简单明确,只要分出来足够大的分区(如 C 盘,D 盘...),用安装器把系统安装进去,基本就完成安装了,安装时会自动在这个硬盘的某个[神秘]的地方添加一条引导记录(如果记录被改或删的话,就算系统完好也不会启动)
 
@@ -63,7 +63,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 
 - 另外,对于 Windows,网上有 UEFI+Bios 引导修复工具,可以通用
 
-## UEFI 模式启动(EFI 启动)
+### UEFI 模式启动(EFI 启动)
 
 - 当前"高新"电脑普遍使用的模式,特点是开机时按某个键(不同电脑不一样)进入 bios 界面很好看(从 2012 年以后的主板都支持 UEFI 了,只不过这种"高新"的默认就是 UEFI);
 - 当前来说主板都支持 UEFI,可以通过 Bios 界面 Boot>>Launch CSM 的开关来改变启动方式
@@ -74,7 +74,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 
   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200307195931138.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5ODIzMjk1,size_16,color_FFFFFF,t_70)
 
-# 硬盘格式简介
+## 硬盘格式简介
 
 - **1.硬盘格式与分区格式(NTFS,FAT32...)是两回事**
   - 硬盘格式主流就两种,`GPT` 和 `MBR`.
@@ -84,14 +84,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 
 ---
 
-# 两种硬盘格式
+## 两种硬盘格式
 
-## GPT 格式
+### GPT 格式
 
 - 以后的主流格式,目前 2020 年还在两种格式的过渡期,此格式硬盘特点是有一块小分区(ESP 引导区)用来存放系统启动的文件,此分区绝对不要动(除非有自信弄懂了,不然有可能所有系统都无法启动);
 - 此格式硬盘只能用来引导 UEFI 模式启动的系统(不要担心,如果原来是 MBR+传统 BIOS 启动,在硬盘格式从 MBR 到 GPT 转换时 Windows 的启动模式也会自动从 bios 变为 UEFI;但对于 linux 系统,其复杂涉及挂载点和 GRUB2 代码更改,难以操作,最简便的方法是重装系统)
 
-## MBR 格式
+### MBR 格式
 
 - 只能用来引导传统 bios(legacy 启动),目前还常见的格式,特点是在系统分区根目录里会有一个 Boot 文件夹(如 C:\Boot 但有可能是隐藏的,看不到);
 - 电脑商的最爱,对于 Windows 适配好,但是最大的问题是对于 linux 和黑苹果的兼容问题(某些无法安装);
@@ -102,13 +102,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
 
 ---
 
-# 上机操作
+## 上机操作
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200307201943243.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5ODIzMjk1,size_16,color_FFFFFF,t_70)
 
 ---
 
-# 闲杂问题
+## 闲杂问题
 
 - 装好系统后系统的睡眠模式无法使用(装睡问题)
 

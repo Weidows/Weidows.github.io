@@ -27,13 +27,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 这是啥子?
+## 这是啥子?
 
 - 这是一篇关于如何低成本满足 `VR 观影`体验的 `介绍/推荐` 方案教程.
 
 ---
 
-# 需求表
+## 需求表
 
 - 硬件: 手机,电脑,VR 眼镜 (网购几十元的放手机的那种)
 
@@ -47,7 +47,7 @@ top_img:
 
 ---
 
-# 连接屏幕
+## 连接屏幕
 
 - 安装完 spacedesk`必须重启`才能用手机扫描到并连接上 (注意电脑和手机需要在同一网络环境下才能扫描到)
 
@@ -61,7 +61,7 @@ top_img:
 
 ---
 
-# 设置视频
+## 设置视频
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210313183727.png" alt="20210313183727" />
 

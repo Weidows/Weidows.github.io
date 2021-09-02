@@ -9,7 +9,7 @@ tags:
   - 服务器
   - Ubuntu
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -17,8 +17,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
  * @Author: Weidows
  * @Date: 2021-02-02 02:04:38
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:20:06
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\virtual-server.md
+ * @LastEditTime: 2021-09-02 15:47:06
+ * @FilePath: \Blog-private\source\_posts\system\virtual-server.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -28,7 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
 - [配置静态 IP](#配置静态-ip)
 - [软件备份](#软件备份)
 
-# 下载安装
+## 下载安装
 
 - 官网上下载 ISO 文件就行,挺快的
 
@@ -50,7 +50,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 换源
+## 换源
 
 > [Ubuntu 20.04 换国内源 清华源 阿里源 中科大源 163 源](https://blog.csdn.net/xiangxianghehe/article/details/105688062)
 
@@ -58,7 +58,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置静态 IP
+## 配置静态 IP
 
 > [ubuntu 18.04 设置静态 ip 方法](https://www.cnblogs.com/yaohong/p/11593989.html)
 
@@ -119,7 +119,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
   - 地址啥的按照规则设
 
   ```yaml
-  # This is the network config written by 'subiquity'
+  ## This is the network config written by 'subiquity'
   network:
     ethernets:
       ens33:
@@ -136,7 +136,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 软件备份
+## 软件备份
 
 - 找软件的话可以用`apt search XXX`来找
 

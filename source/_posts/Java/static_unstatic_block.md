@@ -20,13 +20,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XNzZpVAlmohqKHY.jpg
 - [Person.java](#personjava)
 - [Test.java](#testjava)
 
-# 就俩文件,谨此
+## 就俩文件,谨此
 
 图片下方给出了源代码,折叠起来了.
 
 ---
 
-# Person.java
+## Person.java
 
 ![UpRI1nOdso2Z4ak](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GCvw1FlIot7T5iA.jpg)
 {% hideToggle 源代码 %}
@@ -97,7 +97,7 @@ class TestPerson {
 
 ---
 
-# Test.java
+## Test.java
 
 ![Q9r36pXoBen4Hcy](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XZ7JLfemrapqcC8.jpg)
 {% hideToggle 源代码 %}

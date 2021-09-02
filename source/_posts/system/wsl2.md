@@ -8,7 +8,7 @@ tags:
   - 计算机系统
   - Windows
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -43,7 +43,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
   - [dpkg](#dpkg)
 - [痛点解决](#痛点解决)
 
-# 小吐槽
+## 小吐槽
 
 - 搜文章头图时发现...百度和谷歌差距有点大...
 
@@ -57,9 +57,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 指南
+## 指南
 
-## 官方的
+### 官方的
 
 - 这个微软是官方的,讲的很详细.
 
@@ -67,7 +67,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ---
 
-## 名词解释
+### 名词解释
 
 - 下面牵扯到很多名词,乍一看会`蒙圈`.
 
@@ -95,9 +95,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装步骤
+## 安装步骤
 
-## 系统
+### 系统
 
 - 首先 Windows64 位系统版本号必须大于等于 `1903`.
 
@@ -105,7 +105,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ---
 
-## 功能
+### 功能
 
 - [x] 启用适用于 Linux 的 Windows 子系统
 
@@ -119,7 +119,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ---
 
-## 配置
+### 配置
 
 - 下载并安装
 
@@ -165,7 +165,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装完成
+## 安装完成
 
 - 第一次打开时他会先安装一小会儿,然后让你输入用户名和密码,创建新用户
 
@@ -184,9 +184,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# VScode+wsl
+## VScode+wsl
 
-## Terminal
+### Terminal
 
 - 网上大多数人推荐`Windows Terminal`,我觉得也不错,不过没用,直接用的`VScode`
 
@@ -196,7 +196,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ---
 
-## Remote 开发
+### Remote 开发
 
 - wsl 相当于在内网开了一台电脑,会有一个`内网ip`
 
@@ -210,7 +210,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 地址映射
+## 地址映射
 
 - 安装 wsl 之后就可以通过`\\wsl$`访问到自己的虚拟机
 
@@ -234,9 +234,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# IDEA+wsl
+## IDEA+wsl
 
-## terminal
+### terminal
 
 - 设置里打开 `File -> Settings -> Tools -> Terminal`
 
@@ -252,7 +252,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 后记
+## 后记
 
 - 本来开始想的是开发环境转到 wsl 内部
 
@@ -296,9 +296,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# wsl 软件安装
+## wsl 软件安装
 
-## apt?
+### apt?
 
 > [Linux 中 apt 与 apt-get 命令的区别与解释](https://www.sysgeek.cn/apt-vs-apt-get/)
 
@@ -306,12 +306,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/oXzU4HnQvdJPS5f.png
 
 ---
 
-## dpkg
+### dpkg
 
 > [怎么理解 ubuntu 中的软件包管理器 apt 和 dpkg](https://blog.csdn.net/LEON1741/article/details/85127000)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 痛点解决
+## 痛点解决
 
 > [本篇文章会介绍 win10 中 wsl2 的安装和使用以及遇到的常见问题比如如何固定 wsl2 地址等问题的总结。](https://www.cnblogs.com/kuangdaoyizhimei/p/14175143.html#_label2_0)

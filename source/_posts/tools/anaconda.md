@@ -34,7 +34,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 简介
+## 简介
 
 > anaconda 官网: https://www.anaconda.com/products/individual
 
@@ -50,7 +50,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装
+## 安装
 
 - 可以选择官网下载安装包安装,我这里是用的 `scoop `安装的
 
@@ -60,7 +60,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 测试
+## 测试
 
 - 一个很关键的步骤: `重启电脑`. 如果没重启的话,环境变量有可能不生效,肯定无法正常打开.
 
@@ -91,7 +91,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置文件位置
+## 配置文件位置
 
 - Windows 中:
 
@@ -101,7 +101,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 镜像加速&代理
+## 镜像加速&代理
 
 > 清华镜像站给了教程: [Anaconda 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
 
@@ -159,7 +159,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 修改依赖路径
+## 修改依赖路径
 
 - conda 和 pip 共同的第三方依赖安装路径 (Anaconda 的依赖路径在其内部,不需要修改)
 
@@ -208,7 +208,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# PyTorch
+## PyTorch
 
 > [windows10 下安装 GPU 版 pytorch 简明教程](https://zhuanlan.zhihu.com/p/54350088)
 
@@ -250,7 +250,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# CUDA & cuDNN
+## CUDA & cuDNN
 
 - 这两个是为了调用显卡性能,加速训练.
 
@@ -280,13 +280,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装依赖
+## 安装依赖
 
 > [pip 和 conda 批量导出、安装组件(requirements.txt)](https://blog.csdn.net/chekongfu/article/details/83187591)
 
 ---
 
-# 激活终端
+## 激活终端
 
 ```
 conda init 终端名(powershell)
@@ -294,7 +294,7 @@ conda init 终端名(powershell)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 实例
+## 实例
 
 > 通过一段音频,合成相似声音的项目: [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 

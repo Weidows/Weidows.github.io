@@ -8,7 +8,7 @@ tags:
   - IDEA
   - Maven
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -28,7 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
   - [本地仓库路径](#本地仓库路径)
   - [使用外部 Maven](#使用外部-maven)
 
-# Maven
+## Maven
 
 - 在我发现 Scoop 安装和配置 Maven 有多么便利前,我是这样想的:
 
@@ -50,13 +50,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
 
   > [附上已换源和配置本地仓库的配置文件](https://github.com/Weidows/Programming-Configuration/blob/master/Maven/conf/settings.xml)
 
-## 环境变量
+### 环境变量
 
 > 参照[💥 系统开发环境配置](../../../system/system_variable#Maven)
 
 ---
 
-## 换阿里源
+### 换阿里源
 
 - 找到 `~/conf/settings.xml`
 
@@ -112,7 +112,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
 
 ---
 
-## 本地仓库路径
+### 本地仓库路径
 
 - 同上
 
@@ -122,7 +122,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
 
 ---
 
-## 使用外部 Maven
+### 使用外部 Maven
 
 - IDEA 是自带捆绑 Maven 的,因为上面原因,我们使用 Scoop 又安装了一个,所以需要在 IDEA 里修改下设置
 

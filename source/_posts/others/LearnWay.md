@@ -7,7 +7,7 @@ tags:
   - 成长路线
   - 备忘录
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-18 11:46:51
+ * @LastEditTime: 2021-09-02 18:00:05
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -63,6 +63,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
     - [闭包](#闭包)
     - [Ajax](#ajax)
   - [跨域](#跨域)
+  - [工具类](#工具类-1)
 - [Python](#python)
 - [工具](#工具)
   - [Git](#git)
@@ -100,7 +101,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# `申明`
+## `申明`
 
 - 注意最好不要`完全照着这个学`.
 
@@ -128,7 +129,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# C/C++
+## C/C++
 
 - 个人比较喜欢把 C 和 C++放在一起,虽然 C++并没学过(不过倒是能看懂).
 
@@ -136,25 +137,25 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 入门课程
+### 入门课程
 
 > [程序设计入门——C 语言](https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_)
 
 ---
 
-## 进阶课程
+### 进阶课程
 
 > [C 语言程序设计进阶](https://www.icourse163.org/course/ZJU-200001)
 
 ---
 
-## 链表
+### 链表
 
 > [1 个小时学会单链表，C 语言数据结构专题](https://www.bilibili.com/video/BV1Rb411F738)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Java
+## Java
 
 - 靠翁凯老师入的门,之后又深挖了其他课程.
 - 在这里推荐下老师们吧,不是广告,只是很感激`领路人`.
@@ -163,21 +164,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 阶段
+### 阶段
 
-### 入门
+#### 入门
 
 > [零基础学 Java 语言](https://www.icourse163.org/course/0809ZJU013-1001541001?outvandor=zw_mooc_pclszykctj_)
 
 ---
 
-### 进阶
+#### 进阶
 
 > [面向对象程序设计——Java 语言](https://www.icourse163.org/course/0809ZJU012-1001542001?outvandor=zw_mooc_pclszykctj_)
 
 ---
 
-### 就业级
+#### 就业级
 
 > [求知讲堂零基础 Java 入门编程视频教程 学完可就业](https://www.bilibili.com/video/BV1CJ411m7gg)
 
@@ -185,7 +186,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 阶段回顾
+#### 阶段回顾
 
 > [【狂神说 Java】JavaSE 阶段回顾总结](https://www.bilibili.com/video/BV1MJ411v7tJ?from=search&seid=6413568957300849811)
 
@@ -193,7 +194,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 网络编程
+#### 网络编程
 
 > [【狂神说 Java】网络编程实战讲解](https://www.bilibili.com/video/BV1LJ411z7vY)
 
@@ -201,7 +202,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### JavaWeb
+#### JavaWeb
 
 > [【狂神说 Java】JavaWeb 入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
 
@@ -209,15 +210,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 特性
+### 特性
 
-### 文档注释
+#### 文档注释
 
 > [Java 文档注释用法+JavaDoc 的使用详解](https://blog.csdn.net/lsy0903/article/details/89893934)
 
 ---
 
-### Lambda
+#### Lambda
 
 > [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html)
 
@@ -225,7 +226,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 多线程
+#### 多线程
 
 > [【狂神说 Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 
@@ -233,7 +234,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 深/浅 clone
+#### 深/浅 clone
 
 > [详解 Java 中的 clone 方法 -- 原型模式](https://blog.csdn.net/zhangjg_blog/article/details/18369201)
 
@@ -241,15 +242,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### GUI
+#### GUI
 
 > [Java-GUI 快速入门](https://blog.csdn.net/qq_42035966/article/details/82258199)
 
 ---
 
-## 框架
+### 框架
 
-### MyBatis
+#### MyBatis
 
 > [【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 
@@ -257,7 +258,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### Spring
+#### Spring
 
 > [什么？搞 Java 的你还不会 Spring？一篇文章带你掌握](https://blog.csdn.net/qq_42453117/article/details/104758942)
 
@@ -265,7 +266,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### Spring MVC
+#### Spring MVC
 
 > [SpringMVC 笔记（狂神）](https://blog.csdn.net/weixin_44635198/article/details/107444925)
 
@@ -277,15 +278,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### Spring Boot
+#### Spring Boot
 
 > [Spring Boot 常用注解（绝对经典）](https://blog.csdn.net/guorui_java/article/details/107379648)
 
 ---
 
-## 工具类
+### 工具类
 
-### I/O
+#### I/O
 
 - 序列化/ObjectOutputStream
 
@@ -293,34 +294,34 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### OPTIONAL
+#### OPTIONAL
 
 > [理解、学习与使用 JAVA 中的 OPTIONAL](https://www.cnblogs.com/zhangboyu/p/7580262.html)
 
-### URL
+#### URL
 
 > [System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等](https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html)
 
-### Stream
+#### Stream
 
 > [Java8 Stream 详解](https://blog.csdn.net/happyheng/article/details/52832313)
 
-### 单元测试 Junit
+#### 单元测试 Junit
 
 > [JUnit：别再用 main 方法测试了，好吗？](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247490821&idx=1&sn=855b8ede1287dd95787a010c3245c8e7&chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&xtrack=1&scene=90&subscene=93&sessionid=1609292024&clicktime=1609292488&enterid=1609292488&ascene=56&devicetype=android-29&version=27001637&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&wx_header=1)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 前端
+## 前端
 
-## HTML/CSS
+### HTML/CSS
 
 - 一般这俩是合在一起学的,相关性较强.
 - 都是`前端基础`,但是后端也必须要会.
 
 ---
 
-### 入门
+#### 入门
 
 > [黑马程序员 pink 老师前端入门视频教程 HTML5+CSS3+移动端布局-flex 布局 rem 布局响应式布局摹客蓝湖使用-简单有趣好玩](https://www.bilibili.com/video/BV14J4114768)
 
@@ -330,13 +331,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 进阶
+#### 进阶
 
 > [【狂神说 Java】CSS3 最新教程快速入门通俗易懂](https://www.bilibili.com/video/BV1YJ411a7dy)
 
 - 一个字,很不错!
 
-### Markdown
+#### Markdown
 
 - 这个没有什么特效课程,需要循序渐进的使用 markdown 记笔记,把一些关键词用熟悉,渐渐地文章就变得好起来了
 
@@ -344,26 +345,27 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## JavaScript
+### JavaScript
 
-### 进阶
+#### 进阶
 
 > [【狂神说 Java】JavaScript 最新教程通俗易懂](https://www.bilibili.com/video/BV1JJ41177di)
 
 - 因为有 Java 基础,入门阶段直接过去了.
 
-- 狂神老师出的都很...上头!
+  - 狂神老师出的都很...上头!
+
   - 就是那个味!
 
 ---
 
-### 异步
+#### 异步
 
 > [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 
 ---
 
-### Console
+#### Console
 
 > [如何在控制台中隐藏日志消息的来源？](http://cn.voidcc.com/question/p-nyquxitt-dn.html)
 
@@ -373,25 +375,33 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 闭包
+#### 闭包
 
 > [JS 自执行函数原理及用法](https://www.jb51.net/article/166905.htm)
 
 ---
 
-### Ajax
+#### Ajax
 
 > [【狂神说 Java】一小时掌握 Ajax](https://www.bilibili.com/video/BV1Kt411u7BV)
 
 ---
 
-## 跨域
+### 跨域
 
 > [😡 一次解决 CORS 经验记录.](./../../Web/JavaScript/CORS)
 
+---
+
+### 工具类
+
+- 干活时搞了一下午.map,被这个问答糊脸了
+
+  > [为什么 javascript map 函数返回 undefined？(Why does javascript map function return undefined?)](https://www.it1352.com/1014899.html)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Python
+## Python
 
 - 菜鸟教程:
 
@@ -399,9 +409,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 工具
+## 工具
 
-## Git
+### Git
 
 - 这应该是所有程序员必会的技能了,没有保留的余地.
 
@@ -413,45 +423,45 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### Git push
+#### Git push
 
 > [Git push 常见用法](https://www.cnblogs.com/qianqiannian/p/6008140.html)
 
 ---
 
-### 多远程
+#### 多远程
 
 > [一个项目 push 到多个远程 Git 仓库](https://segmentfault.com/a/1190000011294144)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## VScode
+### VScode
 
-### 主题适配
+#### 主题适配
 
 > [VScode 自定义主题 界面 UI 配色 语法配色](https://blog.csdn.net/weixin_45599654/article/details/109306462)
 
 ---
 
-### 插件(包)开发/发布
+#### 插件(包)开发/发布
 
 > [VScode 插件开发（五）插件包](https://segmentfault.com/a/1190000020435312)
 
 ---
 
-### Emmet
+#### Emmet
 
 > [【Emmet】HTML 速写之 Emmet 语法规则](https://blog.csdn.net/qq_33744228/article/details/80910377)
 
 ---
 
-## Docker
+### Docker
 
 > [初探 Docker](https://www.bilibili.com/video/BV1vD4y1X7ce)
 
 ---
 
-## 正则表达式
+### 正则表达式
 
 > [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 
@@ -459,9 +469,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 泛域
+## 泛域
 
-## 2038 问题
+### 2038 问题
 
 > [2038 年问题](https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin)
 
@@ -470,7 +480,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 自信
+### 自信
 
 > [上班 4 年，现在却只会调工具包，AI 程序员崩溃了](https://blog.csdn.net/m0_46163918/article/details/114883501?utm_source=app&app_version=4.5.4)
 
@@ -485,13 +495,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 编码习惯
+### 编码习惯
 
 > [优秀程序员都在注意的 10 个点](https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735619936&idx=1&sn=56562e359badd5afb27529ebc41d77b9&chksm=b6ab39d481dcb0c21f5696373b0882fdfc0a06cbce7e4cf45529847012a1990b0758d45e6244&mpshare=1&scene=23&srcid=0505Bype3cbVTtcSBVgUS3Ed&sharer_sharetime=1620190642862&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
 ---
 
-## 文档编写
+### 文档编写
 
 - emmm,Ummm...这是个如何优雅拉屎的艺术
 
@@ -505,11 +515,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 代理
+### 代理
 
 > [SS/SSR/V2Ray/Clash 简介和客户端软件下载](https://congcong0806.github.io/2018/04/20/SS/)
 
-## 图灵测试
+### 图灵测试
 
 > [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
 
@@ -519,7 +529,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 设计
+## 设计
 
 - 跳到新文章吧,写在这太长.
 
@@ -527,15 +537,15 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 理论课程
+## 理论课程
 
-## 数据结构
+### 数据结构
 
 > [二叉树的前,中,后序遍历详解](https://www.cnblogs.com/zmc940317/articles/10925497.html)
 
 ---
 
-## 操作系统
+### 操作系统
 
 > [一句话+一张图说清楚——银行家算法](https://blog.csdn.net/qq_33414271/article/details/80245715)
 
@@ -543,14 +553,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 > [调度算法的介绍及优缺点](https://blog.csdn.net/lala_wang/article/details/81116781?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)
 
-### 进程,线程,CPU 核心,并行,并发
+#### 进程,线程,CPU 核心,并行,并发
 
 - 总结了一下:
   > [🤷‍♂️ 进程,线程,CPU 核心,并行,并发大杂碎!](../../system/process-thread)
 
 ---
 
-## 编译原理
+### 编译原理
 
 > [编译原理：总结](https://blog.csdn.net/qq_39384184/article/details/86037568)
 
@@ -558,7 +568,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 单片机
+### 单片机
 
 > [【一天掌握 51 单片机基础】*单片机原理及应用*东北大学（高宏亮 主讲）](https://www.bilibili.com/video/BV1sE411L7j5)
 
@@ -566,9 +576,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 数据库
+### 数据库
 
-### MySQL
+#### MySQL
 
 - 要点清晰,能很快速的顺下来需要掌握的东西.
 
@@ -578,7 +588,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### MongoDB
+#### MongoDB
 
 - 有 MySQL 基础能很快上手
 
@@ -586,21 +596,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-### 通用
+#### 通用
 
 > 质量相当高的文章: [MySQL 单列索引和组合索引的区别介绍](https://blog.csdn.net/wxwzy738/article/details/17590305)
 
 ---
 
-## 计算机网络
+### 计算机网络
 
 > [IP 地址，子网掩码、默认网关，DNS 服务器之间的联系与区别](https://blog.csdn.net/hexf9632/article/details/93469788)
 
 ---
 
-## 算法
+### 算法
 
-### P/NP 问题
+#### P/NP 问题
 
 > [P 对 NP 问题](https://baike.baidu.com/item/P%E5%AF%B9NP%E9%97%AE%E9%A2%98)
 
@@ -612,7 +622,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ---
 
-## 论文
+### 论文
 
 - 关键时候挺好用的功能
 
@@ -620,7 +630,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 面试
+## 面试
 
 > 1. [MetaAPP 部分笔试题](https://blog.csdn.net/weixin_38607253/article/details/114154414)
 > 2. [什么是“堆”,"栈","堆栈","队列",它们的区别](https://www.cnblogs.com/guoxiaoyan/p/8664150.html)

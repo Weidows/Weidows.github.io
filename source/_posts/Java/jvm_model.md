@@ -31,7 +31,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg
     - [1.AWT 错误](#1awt-错误)
     - [2.JVM 错误](#2jvm-错误)
 
-# 子父类加载
+## 子父类加载
 
 - 最近发现的一个知识漏洞
 
@@ -39,32 +39,32 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# JVM 内存模型
+## JVM 内存模型
 
-## `堆heap`:
+### `堆heap`:
 
 所有的对象(包括定义的对象和字符串对象)
 
-## `栈stack`:
+### `栈stack`:
 
 基础数据类型,以及对象的引用(对象在堆内部的地址)
 
-## `方法区method`:
+### `方法区method`:
 
 所有的 class 和 static 变量
 
 ---
 
-# 举个栗子
+## 举个栗子
 
 Person p = new Person();
 栈里面存的就是 p,这个 p 指向堆里面 new Person()出来的那个对象地址
 
 ---
 
-# `重点!`
+## `重点!`
 
-## 在 Student stu = new Student(); 过程中,子类对象的实例化过程:
+### 在 Student stu = new Student(); 过程中,子类对象的实例化过程:
 
 - `方法区`:
 
@@ -90,7 +90,7 @@ Person p = new Person();
 
   5. 初始化完毕后,将堆内存中的地址赋给引用变量,子类构造方法出栈
 
-## Java 引用变量有两个类型:`编译时类型` && `运行时类型`
+### Java 引用变量有两个类型:`编译时类型` && `运行时类型`
 
 - 编译时类型有声明该变量是使用的类型决定
 - 运行时类型由实际赋给该变量的对象决定
@@ -101,7 +101,7 @@ Person p = new Person();
 
 ---
 
-# 虚拟方法调用例子
+## 虚拟方法调用例子
 
 ```
 Person e = new Student();
@@ -112,11 +112,11 @@ e.getInfo();
 
 ---
 
-# JVM Errors
+## JVM Errors
 
-### 1.AWT 错误
+#### 1.AWT 错误
 
-### 2.JVM 错误
+#### 2.JVM 错误
 
 - StackOverflow
 - OutOfMemory

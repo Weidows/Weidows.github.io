@@ -8,7 +8,7 @@ tags:
   - CSS
   - 笔记
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -44,11 +44,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 - [动画](#动画)
 - [总结](#总结)
 
-# [GitHub 源码](https://github.com/Weidows/Java/tree/master/Web/css)
+## [GitHub 源码](https://github.com/Weidows/Java/tree/master/Web/css)
 
-# 浮动
+## 浮动
 
-## 元素层级分类
+### 元素层级分类
 
 - 块级元素
   - h1~h6(markdown 中不是 )
@@ -66,7 +66,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## display
+### display
 
 ```HTML
 <!DOCTYPE html>
@@ -109,7 +109,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## float
+### float
 
 - float
   - left
@@ -189,7 +189,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## Clear
+### Clear
 
 - 清除(左/右)浮动效果,使元素像是标准文档流一样向下排布(但是并不在标准文档流).
 - right
@@ -206,7 +206,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## Overflow
+### Overflow
 
 - 溢出
 - hidden 越界部分隐藏(使用多)
@@ -215,9 +215,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## 父级边框塌陷问题
+### 父级边框塌陷问题
 
-### 问题
+#### 问题
 
 - 问题就是内部的元素超出父级的边框(越界).
 - float 导致漂浮元素另成一层,即使 clear 也不按照标准文档流排布.
@@ -229,13 +229,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-### 扩大父级元素
+#### 扩大父级元素
 
 - 简单粗暴,直接把父级元素拉大,但是很拉胯.
 
 ---
 
-### 增添空 div
+#### 增添空 div
 
 - 在漂浮元素下面(一定要是下面)添加空 div,然后设置属性 clear.
 
@@ -273,7 +273,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
   ***
 
-### 自动溢出
+#### 自动溢出
 
 - 在父类里添加 `overflow` 属性
 - (因为父级边框并没有设边界大小,所以其大小就是 div 可容纳的包括浮动内部元素的范围大小)
@@ -290,7 +290,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
   ***
 
-### 添加伪类(优)
+#### 添加伪类(优)
 
 - 此方法类似第二个添加空 div,就是利用伪类在父类后面添加空标签后 clear
 
@@ -305,20 +305,20 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
   ***
 
-### 小结
+#### 小结
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/eO8DhqcTSmuBUYA.png" alt="20201206002751" />
 
 ---
 
-# 定位
+## 定位
 
 - `position`
   - relative
   - absolute
   - fix
 
-## 相对定位
+### 相对定位
 
 - `position: relative;`
   - left
@@ -400,7 +400,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## 绝对定位
+### 绝对定位
 
 - `position:absolute;`
 - 基于上下左右进行定位.
@@ -429,7 +429,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## 固定定位
+### 固定定位
 
 - `position:fix;`
 - 把元素固定到浏览器某个位置不动.
@@ -479,7 +479,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-## z-index
+### z-index
 
 - `z-index: 0;`
 - 默认是 0,最高无限,类似 PS 的图层堆叠效果.
@@ -560,13 +560,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDI9s7KpSGW3ELw.png
 
 ---
 
-# 动画
+## 动画
 
 - css 一般只用来做小型动画或者渐变,复杂的一般用 JS.
 - 稍作了解,需要的话网上找代码.
 
 ---
 
-# 总结
+## 总结
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/IfeB2C4M9LuWXom.jpg" alt="20200507153758833" />

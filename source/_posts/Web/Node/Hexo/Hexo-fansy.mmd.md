@@ -42,7 +42,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
 - [\_config.yml](#_configyml)
 - [图片引入](#图片引入)
 
-# Hexo 文章标题 & 格式
+## Hexo 文章标题 & 格式
 
 在 markdown 文章里面最开头(如果不是开头的话报错),弄上如下框框
 
@@ -52,7 +52,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
 ---
 ```
 
-## 肯定要背过的
+### 肯定要背过的
 
 ```
 title: # 网站标题
@@ -73,7 +73,7 @@ aside: # 侧边栏开关
 top_img: # 文章banner图,如果有cover的话默认用的是cover(这个可以给_post之外的用),其隐藏前缀目录为Website/public/注意格式应为:images/xxx,但是这样会使_posts里文章的相关文章封面失效,需要用URL
 ```
 
-## 以下是没用过或无效的
+### 以下是没用过或无效的
 
 ```
 keywords: # 网站关键词
@@ -84,7 +84,7 @@ timezone: # 时区, 可以不填
 
 ---
 
-# 标签外挂
+## 标签外挂
 
 - 写法:
 
@@ -141,9 +141,9 @@ danger 提示块标籤
 
 ---
 
-# Gallery 相册图库
+## Gallery 相册图库
 
-## div 式写法
+### div 式写法
 
 ```
 <div class="gallery-group-main">
@@ -158,11 +158,11 @@ img-url：图库封面的地址
 
 例如:
 <div class="gallery-group-main">
-{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery_data/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpg %}
+{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpg %}
 </div>
 ```
 
-## 效果:
+### 效果:
 
   <div class="gallery-group-main">
   {% galleryGroup '壁纸' '收藏的一些壁纸' '/Gallery/wallpaper' https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/T7Mu8Aod3egmC4Q.png %}
@@ -170,7 +170,7 @@ img-url：图库封面的地址
   {% galleryGroup 'OH MY GIRL' '关于OH MY GIRL的图片' '/Gallery/ohmygirl' https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hOqbQ3BIwa6KWpo.jpg %}
   </div>
 
-## 另一种相册形式(自动排列)
+### 另一种相册形式(自动排列)
 
 ```
 {% gallery %}
@@ -182,9 +182,9 @@ img-url：图库封面的地址
 
 ---
 
-# tag-hide
+## tag-hide
 
-## inline(一行内)
+### inline(一行内)
 
 ```
 {% hideInline content,display,bg,color %}
@@ -201,7 +201,7 @@ img-url：图库封面的地址
 
   我是谁:{% hideInline Weidows,查看答案,#FF7242,#fff %}
 
-## Block(块)
+### Block(块)
 
 ```
 {% hideBlock display,bg,color %}
@@ -223,7 +223,7 @@ content
   Weidows
   {% endhideBlock %}
 
-## toggle(收缩框)
+### toggle(收缩框)
 
 ```
 {% hideToggle display,bg,color %}
@@ -249,7 +249,7 @@ content
 
 ---
 
-# mermaid
+## mermaid
 
 - 写法:
 
@@ -301,7 +301,7 @@ content
 
 ---
 
-# tabs(标签块)
+## tabs(标签块)
 
 - 写法:
 
@@ -368,9 +368,9 @@ content
 
 ---
 
-# Button
+## Button
 
-## 写法:
+### 写法:
 
 ```
 {% btn [url],[text],[icon],[color] [style] [layout] [position] [size] %}
@@ -391,7 +391,7 @@ content
                         larger/留空
 ```
 
-## 好康的 demo:
+### 好康的 demo:
 
 ```
 {% btn 'http://www.jerryc.me',JerryC,far fa-hand-point-right,outline blue larger %}
@@ -412,7 +412,7 @@ content
 
 ---
 
-# \_config.yml
+## \_config.yml
 
 - 合并:把 themes/xxx/\_config.yml 移动到 source/\_data/里,并改名为 xxx.yml
 - 我所遇到的各种问题
@@ -422,7 +422,7 @@ content
 
 ---
 
-# 图片引入
+## 图片引入
 
 - 引入图片,在 source 里面当路径正确出现图片时,还需要再加一层
 - 因为在 Hexo generate 时会多出现一层路径,需要在 source 里多一个../

@@ -9,7 +9,7 @@ tags:
   - VScode
   - 备忘录
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fsj7FMhOw2WpigX.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
@@ -30,7 +30,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fsj7FMhOw2WpigX.jpg
   - [解决方案:](#解决方案)
 - [另外一个问题--多文件编译](#另外一个问题--多文件编译)
 
-# 编译器
+## 编译器
 
 C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思路.
 
@@ -71,7 +71,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 ---
 
-# 配置语言环境
+## 配置语言环境
 
 1. 下载`MinGW64编译器`,解压到想放的位置就行(注意存放路径不要出现中文或特殊符号)
 
@@ -83,7 +83,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# VScode 内插件配置
+## VScode 内插件配置
 
 - 下载`C/C++`插件,这个是必须的,功能支持很全面 (虽然 Bug 很多,但是确实无可替代...)
 
@@ -91,7 +91,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# VScode 工作区配置
+## VScode 工作区配置
 
 - 以上配置还不能使用 VScode 直接编译运行 C/Cpp 文件,需要配置工作区的编译运行逻辑(各个工作区分别配置),其配置文件是在名为.vscode 的文件夹下,结构参下:
 
@@ -106,7 +106,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
   |> task.json    (必须)
 ```
 
-## launch.json
+### launch.json
 
 ```
 {
@@ -140,7 +140,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 ---
 
-## task.json
+### task.json
 
 ```
 {
@@ -162,11 +162,11 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 }
 ```
 
-## [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/others/.vscode)
+### [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/others/.vscode)
 
 ---
 
-# `重头戏!`--解决乱码问题
+## `重头戏!`--解决乱码问题
 
 - 接下来,个人找到了一个解决方案,不敢说全网独一份,但是咱确实没见到过.
 
@@ -176,7 +176,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
   ***
 
-## 解决方案:
+### 解决方案:
 
 - 源文件`使用UTF-8`编码,改写 Code Runner 运行规则
 - (找到配置文件里面的`code-runner.executorMap`),修改如下:
@@ -191,7 +191,7 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
 
 ---
 
-# 另外一个问题--多文件编译
+## 另外一个问题--多文件编译
 
 - 默认的 Code Runner 执行的命令只能编译运行一个 C/C++源文件,但是很多情况下需要编译链接多文件的项目,上面我提供的命令支持编译同一目录下的所有 C/C++源文件
 

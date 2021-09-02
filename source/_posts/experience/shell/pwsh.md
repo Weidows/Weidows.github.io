@@ -9,14 +9,14 @@ tags:
   - PowerShell
   - 备忘录
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-03 12:40:14
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\shell\pwsh.md
+ * @LastEditTime: 2021-09-02 15:46:04
+ * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
 - [预览](#预览)
@@ -26,13 +26,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
 - [`oh-my-posh`主题](#oh-my-posh主题)
 - [启用管理员模式](#启用管理员模式)
 
-# 预览
+## 预览
 
 ![siDz8M1QlGIanE3](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/L26PcmM3KnW9YfT.jpg)
 
 ---
 
-# 环境配置
+## 环境配置
 
 - 不同于 Windows 自带的 Windows PowerShell,这个 PowerShell(也叫 posh/pwsh) 需要另行安装(百度搜,安装上就行)
 
@@ -48,7 +48,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
 
 ---
 
-# 安装插件
+## 安装插件
 
 - 概览:
 
@@ -87,7 +87,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
 
 ---
 
-# 启用主题及插件
+## 启用主题及插件
 
 > [我的配置文件链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/PowerShell/Microsoft.PowerShell_profile.ps1)
 
@@ -124,7 +124,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
   ```
   # Enable Prediction History
   Set-PSReadLineOption -PredictionSource History
-  # Advanced Autocompletion for arrow keys
+  ## Advanced Autocompletion for arrow keys
   Set-PSReadlineKeyHandler -Key UpArrow -Function HistorySearchBackward
   Set-PSReadlineKeyHandler -Key DownArrow -Function HistorySearchForward
   ```
@@ -135,7 +135,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
 
 ---
 
-# `oh-my-posh`主题
+## `oh-my-posh`主题
 
 - 查看所有主题
 
@@ -189,7 +189,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p8sZuCArYPLI93d.jpg
 
 ---
 
-# 启用管理员模式
+## 启用管理员模式
 
 - 作用就是让右键文件时出现管理员权限
   - 实际上没啥用,并不太推荐使用.

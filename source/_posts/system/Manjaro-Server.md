@@ -9,7 +9,7 @@ tags:
   - 服务器
   - 虚拟机
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -17,8 +17,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
  * @Author: Weidows
  * @Date: 2021-02-03 14:00:21
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-23 10:23:55
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\Manjaro-Server.md
+ * @LastEditTime: 2021-09-02 15:46:42
+ * @FilePath: \Blog-private\source\_posts\system\Manjaro-Server.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -36,7 +36,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
 - [更新失败](#更新失败)
   - [文件冲突](#文件冲突)
 
-# 系统选择
+## 系统选择
 
 - 关于我为什么最后选择了作为 Server 来说比较冷门的 `Manjaro`
 
@@ -50,7 +50,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
 
 ---
 
-## 我的需求
+### 我的需求
 
 - 我想让服务器比较稳定,因为在主机上用`VMware` 开的虚拟机,所以性能消耗要求不高.
 
@@ -68,7 +68,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 启用 ssh 服务
+## 启用 ssh 服务
 
 > [Manjaro Linux 系统 ssh：connect to host localhost port 22: Connection refused 解决方法](https://blog.csdn.net/SUDDEV/article/details/85314469)
 
@@ -90,7 +90,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
 
 ---
 
-## 故障排除
+### 故障排除
 
 - 如果 ssh 服务开启了,连接步骤也没错,但是就是连不上,有可能是 ssh 旧记录的问题
 
@@ -107,11 +107,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YqH4ru9kGy5UdLt.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 换源
+## 换源
 
 > [arch/Manjaro 添加国内源以及社区源](https://blog.csdn.net/weixin_43968923/article/details/86349914)
 
-## 自动
+### 自动
 
 ```
 sudo pacman-mirrors -i -c China -m rank
@@ -119,29 +119,29 @@ sudo pacman-mirrors -i -c China -m rank
 
 ---
 
-## 手动
+### 手动
 
 - 找到`/etc/pacman.d/mirrorlist`,备份之后修改:
 
   - 越靠上优先级越高.
 
   ```
-  ## 中科大
+  # 中科大
   Server = https://mirrors.ustc.edu.cn/manjaro/stable/$repo/$arch
 
-  ##  清华大学
+  #  清华大学
   Server = https://mirrors.tuna.tsinghua.edu.cn/manjaro/stable/$repo/$arch
 
-  ## 上海交通大学
+  # 上海交通大学
   Server = https://mirrors.sjtug.sjtu.edu.cn/manjaro/stable/$repo/$arch
 
-  ## 浙江大学
+  # 浙江大学
   Server = https://mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
   ```
 
 ---
 
-## 更新
+### 更新
 
 换源后执行一下,更新本地软件包数据库.
 
@@ -159,13 +159,13 @@ sudo pacman-mirrors -i -c China -m rank
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置 docker
+## 配置 docker
 
 > 详见 [🌈 初探 Docker.](../../system/docker)
 
 > [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
 
-# 软件安装
+## 软件安装
 
 > [msys2 pacman 常用命令以及添加国内源加速 pacman](https://blog.csdn.net/john_bh/article/details/104652224)
 
@@ -175,9 +175,9 @@ sudo pacman -S docker
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 更新失败
+## 更新失败
 
-## 文件冲突
+### 文件冲突
 
 - 这种删掉它提示的文件就好了,可能会报好多个,如下:
 

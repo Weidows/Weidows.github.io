@@ -27,14 +27,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 冒号 :
+## 冒号 :
 
 - yaml 元素标签后加个冒号表示结束,这俩要紧挨着,但是与冒号后跟着的值要空出一个空格
   这样 `keyword: value`
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 连字符(减号) -
+## 连字符(减号) -
 
 - 在 keyword 下面用-连续赋值,一定要注意缩进,连字符与 value 之间也需要有空格
 - 另外不能保证这一排 value 是同一级的
@@ -48,7 +48,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 单引号 '
+## 单引号 '
 
 - 这魂淡肯定是成对出现,但又不是跟双引号一样`可有可无`
 - 当 generate 时报错(一长溜)但又不知道啥原因时,尝试寻找一下这个的错
@@ -56,7 +56,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 
 ---
 
-# GitHub-Action
+## GitHub-Action
 
 - 集成化任务
 
@@ -69,6 +69,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 新经验
+## 新经验
 
 > [YAML 入门教程](https://www.runoob.com/w3cnote/yaml-intro.html)

@@ -9,7 +9,7 @@ tags:
   - VScode
   - 备忘录
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
@@ -26,7 +26,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
   - [结合 Code Runner 运行(_全网独家_)](#结合-code-runner-运行全网独家)
   - [安装`Processing中文助手`](#安装processing中文助手)
 
-# 环境需求
+## 环境需求
 
 1. 需要在电脑里下载好 Processing 主程序.
 
@@ -40,7 +40,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
 
 ---
 
-# 编译环境
+## 编译环境
 
 - 找到工作区目录下的.vscode/tasks.json,添加以下代码(已优化过,百度上找的兼容性差,这个更好些:)
 
@@ -78,7 +78,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
 
 - 上面的代码是在 tasks:[]层级内部,为避免覆盖其他环境配置(比如 gcc),需要格外注意,可以参考我的如下配置
 
-## [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/.vscode/launch.json)
+### [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/.vscode/launch.json)
 
 ---
 
@@ -95,9 +95,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
   - a.pde                   路径不对
 ```
 
-# 进阶玩法
+## 进阶玩法
 
-## 结合 Code Runner 运行(_全网独家_)
+### 结合 Code Runner 运行(_全网独家_)
 
 - 找到`VScode-Code Runner`插件配置文件里的`code-runner.executorMap`,参照其他语言在{}里添加如下代码
   ```
@@ -105,6 +105,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
   ```
 - 现在,写完.pde 按上面的快捷键或 Code Runner 的`小三角`都可以运行了!
 
-## 安装`Processing中文助手`
+### 安装`Processing中文助手`
 
 - 装上就对了,反正挺好用的

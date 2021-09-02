@@ -8,7 +8,7 @@ tags:
   - JavaScript
   - 笔记
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lu7MVrgdPExk6Rc.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -47,7 +47,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lu7MVrgdPExk6Rc.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 对象
+## 对象
 
 - 几种标准对象
 
@@ -64,7 +64,7 @@ console.log(typeof undefined); // undefined
 
 ---
 
-## Date
+### Date
 
 ```js
 var time = new Date();
@@ -96,7 +96,7 @@ console.log(log_time.toUTCString()); //  Wed, 20 Jan 2021 13:19:06 GMT
 
 ---
 
-## Json
+### Json
 
 - 目前网络数据传输最主要格式.
 
@@ -129,7 +129,7 @@ console.log(log_time.toUTCString()); //  Wed, 20 Jan 2021 13:19:06 GMT
 
 ---
 
-## AJAX
+### AJAX
 
 - 三种请求方法:
 
@@ -143,11 +143,11 @@ console.log(log_time.toUTCString()); //  Wed, 20 Jan 2021 13:19:06 GMT
 
 ---
 
-# 面向对象
+## 面向对象
 
 - 与 Java 中`类-对象`有些不同.
 
-## 原型
+### 原型
 
 - 通过原型创建对象
 
@@ -183,7 +183,7 @@ console.log(log_time.toUTCString()); //  Wed, 20 Jan 2021 13:19:06 GMT
 
 ---
 
-## 类和继承
+### 类和继承
 
 - 跟 Java 几乎一模一样了!
 
@@ -224,11 +224,11 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 ---
 
-# BOM 对象
+## BOM 对象
 
 - `browser object model`
 
-## window
+### window
 
 - 这个对象代表浏览器窗口
 
@@ -236,7 +236,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 ---
 
-## ~~Navigator~~
+### ~~Navigator~~
 
 - Navigator 封装了浏览器的信息
 
@@ -246,7 +246,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 ---
 
-## screen
+### screen
 
 - 屏幕信息
 
@@ -257,7 +257,7 @@ screen.height; // 1080
 
 ---
 
-## `location`
+### `location`
 
 - location 代表当前页面的 URL 信息
 - 重要,常用!
@@ -266,7 +266,7 @@ screen.height; // 1080
 
 ---
 
-## document
+### document
 
 - document 代表当前的页面，HTML DOM 文档树
 - 获取/更改标题
@@ -303,7 +303,7 @@ screen.height; // 1080
 
 ---
 
-# DOM 对象‼
+## DOM 对象‼
 
 - `document object model` 浏览器网页就是一个 Dom 树形结构！
 
@@ -316,7 +316,7 @@ screen.height; // 1080
 
   ***
 
-## 获得节点
+### 获得节点
 
 - 要操作一个 Dom 节点，必须要先获得这个 Dom 节点.
 - 之后尽量都使用 jQuery()
@@ -330,7 +330,7 @@ var children = app.children;
 
 ---
 
-## 更新节点
+### 更新节点
 
 ```html
 <!DOCTYPE html>
@@ -358,7 +358,7 @@ var children = app.children;
 
 ---
 
-## 删除节点
+### 删除节点
 
 - 需要先获取父节点,在通过父节点删除目标子节点.
 
@@ -393,7 +393,7 @@ var children = app.children;
 
 ---
 
-## 插入节点
+### 插入节点
 
 ```HTML
 <!DOCTYPE html>
@@ -440,7 +440,7 @@ var children = app.children;
 
 ---
 
-## 排列节点
+### 排列节点
 
 ```HTML
 <!DOCTYPE html>
@@ -468,7 +468,7 @@ var children = app.children;
 
 ---
 
-# 操作表单
+## 操作表单
 
 - 表单主要用来提交信息
   - 文本框----text
@@ -480,7 +480,7 @@ var children = app.children;
 
 ---
 
-## 获得表单信息
+### 获得表单信息
 
 ```HTML
 <!DOCTYPE html>
@@ -525,7 +525,7 @@ var children = app.children;
 
 ---
 
-## 提交表单
+### 提交表单
 
 ```HTML
 <!DOCTYPE html>

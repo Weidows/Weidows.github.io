@@ -38,9 +38,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# [关联项目](https://github.com/Weidows/awesome-image-collector)
+## [关联项目](https://github.com/Weidows/awesome-image-collector)
 
-# 简介
+## 简介
 
 跨域资源共享 CORS (Cross-origin resource sharing)
 
@@ -54,7 +54,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 剖析原料
+## 剖析原料
 
 - 现在我这有两个网站,每个网站对应一个图片域名
 
@@ -77,9 +77,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 问题展示
+## 问题展示
 
-## 图片显示
+### 图片显示
 
 - 图片显示不受 CORS 是否开启影响,这两个图片域名在任何域名下都可以显示
 
@@ -87,7 +87,7 @@ top_img:
 
   <img src="https://i.loli.net/2021/07/09/DPsTiHyMeRcl8JU.png" alt="20210709222815" />
 
-## fetch 获取数据
+### fetch 获取数据
 
 - `i.loli.net` 这个域名开启了 CORS
 
@@ -117,7 +117,7 @@ top_img:
 
 ---
 
-## Canvas 操作
+### Canvas 操作
 
 - Canvas 操作 img 要求最严格
 
@@ -127,7 +127,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 需求
+## 需求
 
 - 现在有一个需求:
 
@@ -139,7 +139,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 解决方案
+## 解决方案
 
 - 寻找了很多资料,这里贴上优秀文章
 
@@ -165,6 +165,6 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 收尾
+## 收尾
 
 现在,可以成功 fetch 跨域图片数据了,再把 img 设置 crossorigin="anonymous"就完事了 `\>A</`

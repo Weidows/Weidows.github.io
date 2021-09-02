@@ -31,7 +31,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 简介
+## 简介
 
 - 开发时总有几个英文单词/短语,`今天背过,明天就忘.`
 
@@ -39,7 +39,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 单词
+## 单词
 
 - 不易区分的
 
@@ -171,7 +171,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 短语
+## 短语
 
 - how2 , html2pug
 
@@ -189,7 +189,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 领域
+## 领域
 
 - 网络
 

@@ -6,7 +6,7 @@ categories:
 tags:
   - 树莓派
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -28,7 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 无屏幕(线)解决方案
+## 无屏幕(线)解决方案
 
 - 刚到手的树莓派裸机没屏幕和 Mini-HDMI 线,用 ssh 连接.
 - 首先,用手机或者电脑开热点
@@ -73,7 +73,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# SSH 连接
+## SSH 连接
 
 - 用 ssh 软件连接,我用的是 `FinalShell`与`VScode`
 
@@ -85,7 +85,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 设置密码
+## 设置密码
 
 - 连接成功后设置 root 账户密码
 
@@ -103,7 +103,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 树莓派系统设置
+## 树莓派系统设置
 
 - (可在 ssh 中显示)
   ```
@@ -112,7 +112,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# VNC 连接
+## VNC 连接
 
 - 没屏幕或者没 Mini-HDMI 线时最佳方案.
 - 首先[下载 VNC 软件](https://www.realvnc.com/en/connect/download/viewer)
@@ -123,7 +123,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Screenfetch
+## Screenfetch
 
 - 显示系统、主题信息
   ```
@@ -137,7 +137,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 花样玩法
+## 花样玩法
 
 1. 声控可视化乐谱
 2. 宝塔 Linux

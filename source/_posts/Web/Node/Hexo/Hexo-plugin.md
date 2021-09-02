@@ -18,11 +18,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/kMeomhHj91xn6T2.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-23 09:09:34
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-plugin.md
+ * @LastEditTime: 2021-09-02 15:29:57
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-plugin.md
 -->
 
-# 常用的 Hexo 自身命令
+## 常用的 Hexo 自身命令
 
 - 安装 Hexo-cli(命令行支持插件,它自动包含 hexo 本身)
 
@@ -64,7 +64,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/kMeomhHj91xn6T2.jpg
 
 ---
 
-# 安装渲染器
+## 安装渲染器
 
 - pug 和 stylus 渲染器
 
@@ -74,23 +74,23 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/kMeomhHj91xn6T2.jpg
 
 ---
 
-# 添加 tags/categories/link 页面
+## 添加 tags/categories/link 页面
 
 - 可以通过修改 markdown 来更换标题和 top_img
 
-## tags
+### tags
 
 ```
 hexo new page tags
 ```
 
-## categories
+### categories
 
 ```
 hexo new page categories
 ```
 
-## link
+### link
 
 ```
 hexo new page link
@@ -132,7 +132,7 @@ hexo new page link
 
 ---
 
-# 安装 deployer
+## 安装 deployer
 
 - (这个不能用阿里源) && 编译部署三部曲(GitHub 需要,Gitee 不用)
 - 安装:
@@ -160,7 +160,7 @@ hexo new page link
 
 ---
 
-# 一条龙服务
+## 一条龙服务
 
 - 正常的测试流程为
 
@@ -187,7 +187,7 @@ hexo new page link
 
 ---
 
-# 安装 Live2D
+## 安装 Live2D
 
 - 安装:(不能用 npm 这俩二选一)
   - `npm install --save hexo-helper-live2d`
@@ -199,7 +199,7 @@ hexo new page link
 
 ---
 
-# comment & search & 字数统计
+## comment & search & 字数统计
 
 - 依次都装上:
   - `npm install hexo-generator-search --save`
@@ -217,7 +217,7 @@ hexo new page link
 
 ---
 
-# 添加 bilibili 番剧
+## 添加 bilibili 番剧
 
 - 安装 `npm install hexo-bilibili-bangumi --save`
 - 配置: 写入`_config.yml` 里(root/里的)
@@ -226,15 +226,15 @@ hexo new page link
   bangumi:
     enable: true
     path: #页面路径
-    vmid: # 哔哩哔哩番剧页面的 vmid(uid)
-    title: "追番列表" # 页面的标题
-    quote: "生命不息，追番不止！" # 写在页面开头的一段话，支持 html 语法
-    show: 1 # 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
-    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.gif" # 图片加载完成前的 loading 图片
-    metaColor: #  meta 部分(简介上方)字体颜色
-    color: # 简介字体颜色
+    vmid: ## 哔哩哔哩番剧页面的 vmid(uid)
+    title: "追番列表" ## 页面的标题
+    quote: "生命不息，追番不止！" ## 写在页面开头的一段话，支持 html 语法
+    show: 1 ## 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
+    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.gif" ## 图片加载完成前的 loading 图片
+    metaColor: ##  meta 部分(简介上方)字体颜色
+    color: ## 简介字体颜色
     webp:
-    progress: # 获取番剧数据时是否显示进度条，默认true
+    progress: ## 获取番剧数据时是否显示进度条，默认true
   ```
 
 - 创建页面,进入 root/命令行,执行: `hexo new page bangumis` ;当然也可以直接在 source/直接新建一个 markdown,然后把文件头 type 写为这样:`type: "bangumis"` ,亲自尝试过可以不用.md,在\_data 里只放上数据文件 bangumis.json 就可以在指定路径生成了
@@ -242,7 +242,7 @@ hexo new page link
 
 ---
 
-# 添加站点地图
+## 添加站点地图
 
 - 百度专用
 
@@ -256,7 +256,7 @@ hexo new page link
   npm install hexo-generator-sitemap --save
   ```
 
-## 配置文件
+### 配置文件
 
 > `root/_config.yml`
 
@@ -271,20 +271,20 @@ sitemap:
 
 ---
 
-# Steam 游戏页面
+## Steam 游戏页面
 
-## 安装
+### 安装
 
 ```
 npm install hexo-steam-games --save
 ```
 
-## 配置
+### 配置
 
 ```yml
 steam:
   enable: true
-  steamId: "76561198321099712" # steam64位Id(需要放在引号里),将steam库设置为公开
+  steamId: "xxx" # steam64位Id(需要放在引号里),将steam库设置为公开
   path: tags/games.html # 页面路径，默认steamgames/index.html
   title: ⭐️养鸡场⭐️
   quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
@@ -296,7 +296,7 @@ steam:
     port: # 代理端口
 ```
 
-## 使用
+### 使用
 
 - `Hexo g` 之前 `hexo steam -u` (如果失败需要手动)
 - 浏览器打开`https://steamcommunity.com/profiles/76561198321099712/games/?tab=all` {steamId}和{tab}分别替换为上面配置中提到的 steamId 和 tab
@@ -322,22 +322,22 @@ steam:
 
 ---
 
-# 音乐 aplayer(已弃用)
+## 音乐 aplayer(已弃用)
 
-## 安装
+### 安装
 
 ```
 npm install --save hexo-tag-aplayer
 ```
 
-## 使用
+### 使用
 
 - 如果 per_page 关了的话在需要开启的页面 Front-matter 添加
   ```
   aplayer: true
   ```
 
-## Meting
+### Meting
 
 > 吸底 mini 播放器
 
@@ -347,12 +347,12 @@ npm install --save hexo-tag-aplayer
   ```yml
   inject:
     head:
-      # - <link rel="stylesheet" href="./css/mine.css">
+      ## - <link rel="stylesheet" href="./css/mine.css">
     bottom:
-      # - <script src="./js/mine.js"></script>
-      # - <script src="../js/mine.js"></script>
-      # - <script src="../../js/mine.js"></script>
-      # - <script src="../../../js/mine_post.js"></script>
+      ## - <script src="./js/mine.js"></script>
+      ## - <script src="../js/mine.js"></script>
+      ## - <script src="../../js/mine.js"></script>
+      ## - <script src="../../../js/mine_post.js"></script>
   ```
 
 - 这里介绍另一种全局 inject 的方法:
@@ -366,15 +366,15 @@ npm install --save hexo-tag-aplayer
 
 ---
 
-# 安装豆瓣(已停用)
+## 安装豆瓣(已停用)
 
-## 安装
+### 安装
 
 ```
 npm install hexo-douban --save
 ```
 
-## 使用
+### 使用
 
 ```yml
 douban:
@@ -401,7 +401,7 @@ douban:
 
 ---
 
-# Gulp
+## Gulp
 
 - Cli 和模块
 
@@ -489,7 +489,7 @@ douban:
 
 ---
 
-# Random 页面
+## Random 页面
 
 - 安装依赖和插件
   ```
@@ -501,30 +501,26 @@ douban:
 
 ---
 
-# hexo-neat(压缩)
+## hexo-neat(压缩)
 
-## 安装
+### 安装
 
 ```
 npm install hexo-neat --save
 ```
 
-## 配置
+### 配置
 
 ```yml
-# hexo-neat
 # 博文压缩
 neat_enable: true
-# 压缩html
 neat_html:
   enable: true
   exclude:
-# 压缩css
 neat_css:
   enable: true
   exclude:
     - "**/*.min.css"
-# 压缩js
 neat_js:
   enable: true
   mangle: true
@@ -538,7 +534,7 @@ neat_js:
 
 ---
 
-# 注意事项 & 常见问题
+## 注意事项 & 常见问题
 
 - 注意如果 repo 命名时没加.github.io 的后缀,那么只能 deploy 到 gh-pages 分支(否则出错)
 

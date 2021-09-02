@@ -8,7 +8,7 @@ tags:
   - CSS
   - 笔记
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
@@ -47,9 +47,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
   - [圆角边框](#圆角边框)
   - [阴影](#阴影)
 
-# [GitHub 源码](https://github.com/Weidows/Java/tree/master/Web/css)
+## [GitHub 源码](https://github.com/Weidows/Java/tree/master/Web/css)
 
-# 需要了解的
+## 需要了解的
 
 - 前端分离有利于 SEO 优化,便于搜索引擎收录
   - Vue 框架极其难被收录
@@ -57,11 +57,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
 
 ---
 
-# 样式引入
+## 样式引入
 
 - 优先级: 行内样式>内部样式>外部样式
 
-## 内部样式
+### 内部样式
 
 ```css
 <style>
@@ -71,7 +71,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
 
 ---
 
-## 外部样式
+### 外部样式
 
 - 链接式(css3)
 
@@ -87,7 +87,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
 </style>
 ```
 
-## 行内样式
+### 行内样式
 
 ```css
 <h1 style="color:aqua">行内样式</h1>
@@ -95,13 +95,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
 
 ---
 
-# 选择器
+## 选择器
 
-## 基本选择器
+### 基本选择器
 
 - 优先级: id > class > 标签
 
-### 标签选择器
+#### 标签选择器
 
 ```css
 div {
@@ -109,7 +109,7 @@ div {
 }
 ```
 
-### 类选择器
+#### 类选择器
 
 ```css
 .Span {
@@ -117,7 +117,7 @@ div {
 }
 ```
 
-### id 选择器
+#### id 选择器
 
 - id 必须保证全局唯一
 
@@ -129,9 +129,9 @@ div {
 
 ---
 
-## 层次选择器
+### 层次选择器
 
-### 后代选择器
+#### 后代选择器
 
 - 在某个元素的后面所有
 
@@ -142,7 +142,7 @@ ul p {
 }
 ```
 
-### 子选择器
+#### 子选择器
 
 - 只选择后面的一代
 
@@ -153,7 +153,7 @@ body > p {
 }
 ```
 
-### 相邻(兄弟)选择器
+#### 相邻(兄弟)选择器
 
 - 对于选中的标签的下一个同级标签
 
@@ -165,7 +165,7 @@ body > p {
 
 - 类似上面,这个是选择后面所有的同级标签
 
-### 通用(兄弟)选择器
+#### 通用(兄弟)选择器
 
 ```css
 #action ~ p {
@@ -175,7 +175,7 @@ body > p {
 
 ---
 
-## 结构伪类选择器
+### 结构伪类选择器
 
 ```html
 <html lang="en">
@@ -226,7 +226,7 @@ body > p {
 
 ---
 
-## 属性选择器(常用)
+### 属性选择器(常用)
 
 - 相当于 class + id 选择器
 
@@ -312,9 +312,9 @@ body > p {
 
 ---
 
-# 网页美化
+## 网页美化
 
-## 字体样式
+### 字体样式
 
 ```css
 * {
@@ -340,7 +340,7 @@ body > p {
 
 ---
 
-## 文本样式
+### 文本样式
 
 - 颜色 `color`
 - 对齐方式 `text-align`
@@ -410,7 +410,7 @@ body > p {
 
 ---
 
-## 超链接伪类
+### 超链接伪类
 
 ```HTML
 <!DOCTYPE html>
@@ -448,7 +448,7 @@ body > p {
 
 ---
 
-## 列表
+### 列表
 
 - HTML
 
@@ -552,11 +552,11 @@ body > p {
 
 ---
 
-## 盒子模型
+### 盒子模型
 
 ![RaeLiJknrlFpfYQ](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/D94Uxjch8gsEJAm.jpg)
 
-## 圆角边框
+### 圆角边框
 
 - 美化常用,比如头像都是方形的图片,用这个来把头像框变成圆形
 
@@ -595,7 +595,7 @@ body > p {
 
 ---
 
-## 阴影
+### 阴影
 
 ```html
 <!DOCTYPE html>

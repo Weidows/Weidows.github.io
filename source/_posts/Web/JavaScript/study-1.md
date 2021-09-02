@@ -8,7 +8,7 @@ tags:
   - JavaScript
   - 笔记
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
-# top_img:
+top_img:
 ---
 
 <!--
@@ -16,8 +16,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:22:34
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\study-1.md
+ * @LastEditTime: 2021-09-02 15:32:44
+ * @FilePath: \Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -65,11 +65,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
   - [多维数组](#多维数组)
   - [fill()](#fill)
 
-# 借鉴(抄袭 2333)
+## 借鉴(抄袭 2333)
 
 > [【狂神说 Java】JavaScript 学习笔记](https://blog.csdn.net/pan_h1995/article/details/105974385)
 
-# 前端知识体系
+## 前端知识体系
 
 想要成为真正的“互联网 Java 全栈工程师”还有很长的一段路要走，其中前端是绕不开的一门必修课。
 
@@ -79,14 +79,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
   ***
 
-## css 预处理器
+### css 预处理器
 
 - SASS：基于 Ruby ，通过服务端处理，功能强大。解析效率高。需要学习 Ruby 语言，上手难度高于 LESS。
 - LESS：基于 NodeJS，通过客户端处理，使用简单。功能比 SASS 简单，解析效率也低于 SASS，但在实际开发中足够了，所以如果我们后台人员如果需要的话，`建议使用 LESS。`
 
   ***
 
-## JavaScript 框架
+### JavaScript 框架
 
 - `JQuery`:大家熟知的 JavaScript 库，优点就是简化了 DOM 操作，缺点就是 DOM 操作太频繁，影响前端性能；在前端眼里使用它`仅仅是为了兼容 IE6，7，8`
 - `Angular`:Google 收购的前端框架，由一群 Java 程序员开发，其特点是将后台的 MVC 模式搬到了前端并增加了模块化开发的理念，与微软合作，采用了 TypeScript 语法开发；对后台程序员友好，对前端程序员不太友好；最大的缺点是版本迭代不合理（如 1 代–>2 代，除了名字，基本就是两个东西
@@ -96,7 +96,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
   ***
 
-## UI 框架
+### UI 框架
 
 - `Ant-Design`：阿里巴巴出品，基于 React 的 UI 框架
 - `ElementUI、iview、ice`：饿了么出品，基于 Vue 的 UI 框架
@@ -105,14 +105,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
   ***
 
-## JavaScript 构建工具
+### JavaScript 构建工具
 
 - `Babel`：JS 编译工具，主要用于浏览器不支持的 ES 新特性，比如用于编译 TypeScript
 - `WebPack`：模块打包器，主要作用就是打包、压缩、合并及按序加载
 
   ***
 
-## 三端统一
+### 三端统一
 
 - 混合开发（Hybrid App）
   - 云打包：HBuild -> HBuildX，DCloud 出品；API Cloud
@@ -121,9 +121,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
 ---
 
-# Hello-World
+## Hello-World
 
-## 内部开撸
+### 内部开撸
 
 - 放在 head 或者 body 里面都可以,一般放在 head 中.
   - 需要注意如果 js 对 DOM 进行操作,标签位置会影响加载顺序以导致对 DOM 的操作可能无效.
@@ -136,7 +136,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
 ---
 
-## 外部引入
+### 外部引入
 
 ```html
 <script src="js/1.js"></script>
@@ -146,7 +146,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
 ---
 
-## type
+### type
 
 ```HTML
 <!--不用显示定义type，也默认就是javaScript-->
@@ -155,7 +155,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
 ---
 
-## demo
+### demo
 
 ```html
 <!DOCTYPE html>
@@ -186,7 +186,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
 ---
 
-# 浏览器调试
+## 浏览器调试
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Q8tygmLE41kB6pX.png" alt="20201220232055" />
 
@@ -199,9 +199,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
 
 ---
 
-# 数据类型
+## 数据类型
 
-## 变量
+### 变量
 
 ```
 123       //整数123
@@ -214,19 +214,19 @@ Infinity  // 表示无限大
 
 ---
 
-## 字符串
+### 字符串
 
 ‘abc’ “abc”
 
 ---
 
-## 布尔值
+### 布尔值
 
 true，false
 
 ---
 
-## 逻辑运算
+### 逻辑运算
 
 - && 两个都为真，结果为真
 
@@ -236,7 +236,7 @@ true，false
 
 ---
 
-## 比较运算符
+### 比较运算符
 
 - = 赋值
 
@@ -252,7 +252,7 @@ true，false
 
 ---
 
-## 浮点数
+### 浮点数
 
 - 跟 C 语言一样,某些浮点数运算存在一定的精度损失.
 
@@ -270,14 +270,14 @@ true，false
 
 ---
 
-## null && undefined
+### null && undefined
 
 - null 定义了但是事空的
 - undefined 未定义的
 
 ---
 
-## 数组
+### 数组
 
 - 定义,跟 Java 异曲同工.
 
@@ -294,7 +294,7 @@ true，false
 
 ---
 
-## 对象
+### 对象
 
 - 对象是大括号，数组是中括号
 - 每个属性之间使用逗号隔开，最后一个属性不需要逗号
@@ -324,7 +324,7 @@ true，false
 
 ---
 
-## 严格检查模式
+### 严格检查模式
 
 - js 里定义变量几种方法:
 
@@ -347,9 +347,9 @@ true，false
 
 ---
 
-# 字符串
+## 字符串
 
-## 转义字符
+### 转义字符
 
 - (基本跟 Java 一样)
 
@@ -357,13 +357,13 @@ true，false
 \'
 \n
 \t
-\u4e2d    \u#### Unicode字符
+\u4e2d    \u*** Unicode字符
 \x41	Ascall字符
 ```
 
 ---
 
-## 多行字符串
+### 多行字符串
 
 ```js
 //tab上面 esc下面
@@ -376,7 +376,7 @@ var msg = `hello
 
 ---
 
-## 模板字符串
+### 模板字符串
 
 ```js
 let name = "Tom";
@@ -387,7 +387,7 @@ console.log(msg);
 
 ---
 
-## 函数调用
+### 函数调用
 
 ```js
 let str = `123`;
@@ -401,7 +401,7 @@ console.log(str[1]); // 2
 
 ---
 
-## 字符串的可变性
+### 字符串的可变性
 
 - 同 Java 的 String 对象,其本身不可变
 
@@ -411,7 +411,7 @@ str[1] = 0; // 这样会报错,因为字符串是read-only的.
 
 ---
 
-## 大小写转换
+### 大小写转换
 
 - 跟 Java 一样
 
@@ -422,7 +422,7 @@ str.toLowerCase();
 
 ---
 
-## 子串
+### 子串
 
 - `[)` 左闭右开区间
 
@@ -433,13 +433,13 @@ student.substring(1, 3); //[1,3)
 
 ---
 
-# 数组
+## 数组
 
 ```js
 var arr = [1, 2, 3, 4, 5, 6]; //通过下标取值和赋值
 ```
 
-## 长度
+### 长度
 
 - 支持动态扩容,扩出来的元素位置是 undefined,如果缩小 length 的话,超出部分元素会丢失.
 
@@ -451,7 +451,7 @@ arr.length = 0; // 缩小
 
 ---
 
-## indexOf()
+### indexOf()
 
 - 获取元素位置
 - `1` 与 `"1"` 是不同元素.
@@ -463,7 +463,7 @@ arr.indexOf("1");
 
 ---
 
-## slice()
+### slice()
 
 - 等同于 subString()
 - 截取数组并返回子数组
@@ -476,7 +476,7 @@ console.log(arr); // [ 2, 3, 4, 5 ]
 
 ---
 
-## push(),pop(),unshift(),shift()
+### push(),pop(),unshift(),shift()
 
 - 分别是尾部添加/删除,头部添加/删除.
 
@@ -498,7 +498,7 @@ console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
 
 ---
 
-## reverse(),sort()
+### reverse(),sort()
 
 ```js
 var arr = [1, 2, 3, 4, 5, 6];
@@ -512,7 +512,7 @@ console.log(arr); // [ 1, 2, 3, 4, 5, 6 ]
 
 ---
 
-## concat()
+### concat()
 
 - 数组连接
 - 并没有修改原来的数组,只是返回了一个新的数组.
@@ -526,7 +526,7 @@ console.log(arr1.concat(arr2)); // [ 'a', 'b', 'c', 1, 2, 3 ]
 
 ---
 
-## join()
+### join()
 
 - 打印拼接数组，使用特定的字符串连接
 
@@ -538,7 +538,7 @@ console.log(arr.join("-")); // a-b-c
 
 ---
 
-## 多维数组
+### 多维数组
 
 - 没啥花活.
 
@@ -553,7 +553,7 @@ arr; // [ [ 'a', 'b', 'c' ], [ 1, 2, 3 ] ]
 
 ---
 
-## fill()
+### fill()
 
 ```js
 var arr = [];

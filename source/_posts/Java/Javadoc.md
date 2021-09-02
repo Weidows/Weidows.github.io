@@ -7,7 +7,7 @@ tags:
   - Java
   - Javadoc
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iHZCgtN4OpsuDj5.jpg
-# top_img:
+top_img:
 ---
 
 <!--
@@ -24,7 +24,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iHZCgtN4OpsuDj5.jpg
     - [在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会....一团乱麻!](#在命令行当前目录生成-javadoc-文档注意存放目录最好是空的不然会一团乱麻)
 - [Java 命名规范](#java-命名规范)
 
-# 文档注释方法
+## 文档注释方法
 
 - 在类/方法上面写个`/**`就会出来
 - 文档注释会在代码提示中显示,也可以用 Javadoc 生成文档
@@ -32,13 +32,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iHZCgtN4OpsuDj5.jpg
 
 ---
 
-# 常用标签
+## 常用标签
 
 - `<p>` Passage 段落标签
 
 ---
 
-# 常用@
+## 常用@
 
 - `@author`
 - `@version`
@@ -53,9 +53,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iHZCgtN4OpsuDj5.jpg
 
 ---
 
-# Generate
+## Generate
 
-### 在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会....一团乱麻!
+#### 在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会....一团乱麻!
 
 ```
 javadoc -encoding UTF-8 -charset UTF-8 Path/文件名
@@ -63,7 +63,7 @@ javadoc -encoding UTF-8 -charset UTF-8 Path/文件名
 
 ---
 
-# Java 命名规范
+## Java 命名规范
 
 1. 见名知意
 

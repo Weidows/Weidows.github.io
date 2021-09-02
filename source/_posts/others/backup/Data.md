@@ -23,9 +23,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p2W5KHlnUMxbBOq.jpg
 - [大前端工具](#大前端工具)
   - [uglifyjs](#uglifyjs)
 
-# 大前端工具
+## 大前端工具
 
-## uglifyjs
+### uglifyjs
 
 ```
 yarn global add uglify-js

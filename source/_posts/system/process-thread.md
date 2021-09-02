@@ -32,7 +32,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 引子
+## 引子
 
 - 谈操作系统会了解到`进程与线程`
 - 谈 CPU 会听到`几核几线程`
@@ -40,13 +40,13 @@ top_img:
 
 ---
 
-# 进程与线程
+## 进程与线程
 
 - 简单层级关系: `应用程序->一至多个进程->一至多个线程`
 
 > 线程是调度的基本单位，而进程则是资源拥有的基本单位。
 
-## 进程
+### 进程
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210305222645.png" alt="20210305222645" />
 
@@ -89,7 +89,7 @@ top_img:
 
 ---
 
-## 线程
+### 线程
 
 - 轮到线程了:
 
@@ -115,7 +115,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 几核几线程
+## 几核几线程
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210305210405.png" alt="20210305210405" />
 
@@ -133,7 +133,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 并行与并发
+## 并行与并发
 
 - 实际上,网上对这两个词义一定程度上在混用~
 
@@ -145,7 +145,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 参照&推荐阅读
+## 参照&推荐阅读
 
 > [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4NTk4Ng==&mid=2247486625&idx=1&sn=f35d340727b0e8e23f82ff7c5182c893&chksm=c37bfc8cf40c759a084effb4c5b253ad50ad0be02b8b8dea073fa333ca6adefce6ef8cb6db9f&mpshare=1&scene=23&srcid=0305mrfN5sGJ1jI9aPxUFqjU&sharer_sharetime=1614936389002&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 

@@ -36,7 +36,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
   - [fzf](#fzf)
   - [tldr](#tldr)
 
-# 通用
+## 通用
 
 |     指令     |             作用             |
 | :----------: | :--------------------------: |
@@ -54,7 +54,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-## 文件末尾追加命令
+### 文件末尾追加命令
 
 |                       指令                       |                    作用                     |
 | :----------------------------------------------: | :-----------------------------------------: |
@@ -64,7 +64,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-## 输出重定向
+### 输出重定向
 
 |       指令        |                                    作用                                     |
 | :---------------: | :-------------------------------------------------------------------------: |
@@ -76,7 +76,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-## 启动程序
+### 启动程序
 
 > [同步(Synchronous)和异步(Asynchronous)](https://www.cnblogs.com/IT-CPC/p/10898871.html) 同步，就是调用某个东西是，调用方得等待这个调用返回结果才能继续往后执行。异步，和同步相反 调用方不会理解得到结果，而是在调用发出后调用者可用继续执行后续操作，被调用者通过状体来通知调用者，或者通过回掉函数来处理这个调用
 
@@ -86,7 +86,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# CMD/PowerShell
+## CMD/PowerShell
 
 > [批处理定义子程序](https://www.hxstrive.com/article/804.htm)
 
@@ -110,7 +110,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Linux
+## Linux
 
 |                    指令                     |                             作用                              |
 | :-----------------------------------------: | :-----------------------------------------------------------: |
@@ -130,7 +130,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-## 查杀进程
+### 查杀进程
 
 |              指令               |                     作用                      |
 | :-----------------------------: | :-------------------------------------------: |
@@ -146,7 +146,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-## 宝塔
+### 宝塔
 
 |           指令           |       作用       |
 | :----------------------: | :--------------: |
@@ -154,7 +154,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Git
+## Git
 
 |                  指令                  |   作用   |
 | :------------------------------------: | :------: |
@@ -169,7 +169,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Docker
+## Docker
 
 |                   指令                    |                 作用                 |
 | :---------------------------------------: | :----------------------------------: |
@@ -179,7 +179,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Vim
+## Vim
 
 | 指令  |                  作用                   |
 | :---: | :-------------------------------------: |
@@ -187,13 +187,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 扩展程序
+## 扩展程序
 
 > [5 款超级好用的命令行工具，提升你的开发效率！](https://zhuanlan.zhihu.com/p/176277245)
 
 > [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247500080&idx=2&sn=64d4a8f3e4013ba7a77f25502cf945dd&chksm=97c65c9ea0b1d58881e761a4bd69fa1136b87102e94d301685a085f2c6b09670dac5f5781e6a&mpshare=1&scene=23&srcid=07058VtSWw1T2LusxMXcZtRs&sharer_sharetime=1625473567691&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
-## fzf
+### fzf
 
 - 与 grep 相似,不同点:
 
@@ -208,7 +208,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ---
 
-## tldr
+### tldr
 
 - 命令帮助文档,优化版的 man
 

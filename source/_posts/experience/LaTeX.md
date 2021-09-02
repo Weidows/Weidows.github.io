@@ -14,8 +14,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-19 22:38:52
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\LaTeX.md
+ * @LastEditTime: 2021-09-02 15:54:44
+ * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -33,7 +33,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 简介
+## 简介
 
 - 好奇学术论文是怎么写的吗? 此文章尽做大努力把什么是 Tex 系统给你整闭环了 😁
 
@@ -45,7 +45,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 链接搜集
+## 链接搜集
 
 > [维基百科 - TeX](https://zh.wikipedia.org/wiki/TeX) 很详细的介绍了 TeX 是什么东西,也关联介绍了 TeX 衍生的各种引擎/软件.
 
@@ -53,7 +53,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 安装
+## 安装
 
 - 1.在 win 下推荐用 `MikTaX` 吧,主流而且比较小. scoop-main 仓库中的 latex 实际上就是 最小安装版本的 MikTaX,试了一遍这个 latex 最好,其他的要么下载失败,要么安装报错 😡😡😡.
 
@@ -161,7 +161,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 报错
+## 报错
 
 - 这个情况是因为没重启,尝试重启电脑+重启 VScode
 
@@ -175,7 +175,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 实际效果
+## 实际效果
 
 - 完成上面步骤后在.tex 会生成几个文件,比如:
 
@@ -193,7 +193,7 @@ top_img:
 
   <img src="https://i.loli.net/2021/06/26/JqWuNUzkIE9eAYy.png" alt="20210626214236" />
 
-# 公式渲染
+## 公式渲染
 
 - 在写 markdown 文章时可能不会注意到这个问题,因为大多数编辑器支持公式渲染 (比如 VScode 预览、CSDN 在线编辑等等),如下图 VScode 内置的 markdown 预览:
 
@@ -217,9 +217,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 误区
+## 误区
 
-> ## 渲染 LaTeX 文档 != 渲染公式
+> ### 渲染 LaTeX 文档 != 渲染公式
 
 1. 我们上面使用 MikTaX 渲染 LaTeX 文档是为了排版获取指定样式的 PDF 文档 -> `渲染LaTeX文档`
 
@@ -229,7 +229,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# Butterfly+KaTeX
+## Butterfly+KaTeX
 
 > 来自官方博客的文档: [Butterfly 安裝文檔(四) 主題配置-2](https://butterfly.js.org/posts/ceeb73f/#Math-%E6%95%B8%E5%AD%B8)
 
@@ -265,7 +265,7 @@ top_img:
           b_{2}  \\
           b_{3}  \\
           \vdots \\
-          b_{n}  \\字体圈欣意冠黑体
+          b_{n}  \\
       \end{bmatrix}
   $$
 
@@ -273,10 +273,10 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 怎么写?
+## 怎么写?
 
-> ## 终于到了这个环节了,分为公式和内容两部分 😎
+> ### 终于到了这个环节了,分为公式和内容两部分 😎
 
-## 公式
+### 公式
 
 > ~~面向知乎学编程~~: [LaTeX 公式篇](https://zhuanlan.zhihu.com/p/110756681)

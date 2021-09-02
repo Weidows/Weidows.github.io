@@ -8,7 +8,7 @@ tags:
   - CSS
   - 备忘录
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
@@ -25,13 +25,13 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg
 - [导航](#导航)
 - [功能](#功能)
 
-# 命名规则
+## 命名规则
 
 - 简单来说完全可以使用 Java 或 C 语言的规范,可以使用连字符"-"链接单词增强辨识度,不要用汉字
 
 ---
 
-# 常见 class 关键词
+## 常见 class 关键词
 
 - `布局类：`header, footer, container, main, content, aside, page, section
 - `包裹类：`wrap, inner
@@ -55,7 +55,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg
 
 ---
 
-# 页面结构
+## 页面结构
 
 - `容器`: container/wrap
 - `整体宽度：`wrapper
@@ -70,7 +70,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg
 
 ---
 
-# 导航
+## 导航
 
 - `导航：`nav
 - `导航：`mainnav/globalnav
@@ -86,7 +86,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg
 
 ---
 
-# 功能
+## 功能
 
 - `标志：`logo
 - `登录：`login

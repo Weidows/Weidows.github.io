@@ -9,7 +9,7 @@ tags:
   - CSS
   - 美化
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
-# top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/
+top_img:
 ---
 
 <!--
@@ -24,7 +24,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
 - [CSS 引入](#css-引入)
 - [源码链接](#源码链接)
 
-# 简介
+## 简介
 
 - 大半夜水群,发现群友扯皮发了一张美照(就是代码)
 - 惊艳老夫一整天! 赶紧想办法把他整出来!
@@ -35,7 +35,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
 
 ---
 
-# 需要的东西
+## 需要的东西
 
 - `Custom CSS and JS Loader`
 
@@ -50,7 +50,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
 
 ---
 
-# CSS 引入
+## CSS 引入
 
 - 在 VScode 设置文件里加入下面的代码
 
@@ -71,6 +71,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 源码链接
+## 源码链接
 
 > [源码链接](https://github.com/Weidows-projects/weidows-beautify-pack/blob/main/css/lights-on.css)

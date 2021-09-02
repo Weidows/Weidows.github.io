@@ -37,7 +37,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 配置
+## 配置
 
 > [💥 系统开发环境配置](../../system/system_variable#maven)
 
@@ -45,7 +45,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# VScode
+## VScode
 
 - 安装 `Tomcat for Java` 插件,配置好 Tomcat 本体路径和 `data` 路径
 
@@ -84,7 +84,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 创建项目
+## 创建项目
 
 > 解释一下为什么要用 Maven,还需要创建项目: `Tomcat 只能运行 Maven 创建的类型为 webapp 的这种项目`,
 
@@ -102,7 +102,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# IDEA
+## IDEA
 
 - IDEA 配置连接 Tomcat 需要在创建完 webapp 项目之后,否则连不上
 
@@ -120,7 +120,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 虚拟主机/代理
+## 虚拟主机/代理
 
 - 通过修改 `Tomcat/conf/server.xml`和 hosts 文件实现虚拟主机.
 
@@ -184,9 +184,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 乱码问题
+## 乱码问题
 
-## 终端乱码
+### 终端乱码
 
 - 在启动 Tomcat 时,终端内中文乱码:
 
@@ -200,7 +200,7 @@ top_img:
 
 ---
 
-## 网页中文乱码
+### 网页中文乱码
 
 - 我们开发的页面,无论是动/静态,只要不指定编码格式,中文肯定乱码
 

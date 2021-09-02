@@ -24,7 +24,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SuYiVEyqvkWDAB6.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 开启 snippet
+## 开启 snippet
 
 - 首先需要打开 markdown 文件的 `quickSuggestions`,因为其默认是未开启状态
 
@@ -40,7 +40,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SuYiVEyqvkWDAB6.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 增添代码片段
+## 增添代码片段
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/r19TEcwA3GxNpVk.png" alt="20210131221522" />
 
@@ -58,7 +58,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SuYiVEyqvkWDAB6.jpg
         "tags:",
         "  - ",
         "cover: ",
-        "# top_img: ",
+        "top_img: ",
         "---",
         "",
         ""
@@ -71,6 +71,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SuYiVEyqvkWDAB6.jpg
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 我的模板
+## 我的模板
 
 > [源码 Github 链接](https://gist.github.com/Weidows/a9d0949b9a8e2c75e5177789a9eb71e8#file-snippets-mine-json-code-snippets)

@@ -33,7 +33,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-# 魔改滚动条
+## 魔改滚动条
 
 - 找到`mine.styl`添加以下: (注意缩进格式)
 
@@ -67,7 +67,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# 文章背板透明
+## 文章背板透明
 
 - 在 mine.styl 内添加
 
@@ -79,7 +79,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# footer 类 github 小标签
+## footer 类 github 小标签
 
 - 在`mine.styl`在尾部添加层叠样式:
 
@@ -209,7 +209,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# 添加 footer 小红心
+## 添加 footer 小红心
 
 - 找到`~butterfly/layout/includes/footer.pug`(同上)
 
@@ -231,7 +231,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# 修改鼠标样式
+## 修改鼠标样式
 
 - 在 mine.styl 里添加以下:
 
@@ -275,7 +275,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# 适配 Pjax
+## 适配 Pjax
 
 - 定位`~butterfly/layout/include/third-party/pjax.pug`
 
@@ -289,7 +289,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
 
 ---
 
-# 优化
+## 优化
 
 - 上面很多东西已被优化过,方法都还能用,优化过程:
   > [🚀 网站优化记录.](../optimize)
