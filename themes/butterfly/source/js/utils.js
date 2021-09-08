@@ -253,53 +253,31 @@ const btf = {
 //- 我的美化
 var Weidows = {
   //- 判断移动端设备
-  device: function () {
-    var sUserAgent = navigator.userAgent.toLowerCase();
-    var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
-    var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
-    var bIsMidp = sUserAgent.match(/midp/i) == "midp";
-    var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
-    var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
-    var bIsAndroid = sUserAgent.match(/android/i) == "android";
-    var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
-    var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
-    if (
-      !(
-        bIsIpad ||
-        bIsIphoneOs ||
-        bIsMidp ||
-        bIsUc7 ||
-        bIsUc ||
-        bIsAndroid ||
-        bIsCE ||
-        bIsWM
-      )
-    ) {
-      //- this.footFish();
-    }
-  },
-  //- 变换标题
-  cheatTitle: function () {
-    let i,
-      o = document.title,
-      h = document.getElementsByTagName("link")[0].href;
-    document.addEventListener("visibilitychange", function () {
-      if (document.hidden) {
-        document.getElementsByTagName("link")[0].href =
-          "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/74ef2ed780ee230c08866adfa01dbe297b5467b4.png";
-        document.title = "❤大爷来玩呀~❤ |" + o;
-        clearTimeout(i);
-      } else {
-        document.getElementsByTagName("link")[0].href =
-          "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png";
-        document.title = "🤣性感dows,在线胡说🤣 |" + o;
-        i = setTimeout(function () {
-          document.title = o;
-          document.getElementsByTagName("link")[0].href = h;
-        }, 2e3);
-      }
-    });
-  },
+    // device: function () {
+    //   var sUserAgent = navigator.userAgent.toLowerCase();
+    //   var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+    //   var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+    //   var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+    //   var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+    //   var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+    //   var bIsAndroid = sUserAgent.match(/android/i) == "android";
+    //   var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+    //   var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+    //   if (
+    //     !(
+    //       bIsIpad ||
+    //       bIsIphoneOs ||
+    //       bIsMidp ||
+    //       bIsUc7 ||
+    //       bIsUc ||
+    //       bIsAndroid ||
+    //       bIsCE ||
+    //       bIsWM
+    //     )
+    //   ) {
+    //     //- this.footFish();
+    //   }
+    // },
   //- 页脚footer养鱼
     //- footFish: function () {
     //-   $("#footer-wrap").css({
@@ -690,8 +668,9 @@ var Weidows = {
     //-     RENDERER.init();
     //-   });
     //- },
-  //- 添加功能性标签
+  //- 添加功能性标签/输出
   appender: function () {
+    // 小火箭
     document.getElementById("go-up").innerHTML +=
       "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='data:image/png;base64,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' title='芜湖起飞!' >";
     if (
@@ -705,14 +684,14 @@ var Weidows = {
       child2.id = "page-header-child-2";
       document.getElementById("page-header").prepend(child1, child2);
     }
+
     //- sakura animation
     if (document.getElementById("sakura") == null) {
       document.getElementById("web_bg").innerHTML +=
         "<canvas id='sakura' style='position: relative;width: 100%;height: 100vh;'></canvas>";
     }
-  },
-  //- 终端输出
-  log: function () {
+
+    //- 终端输出
     setTimeout(function () {
       console.clear();
       console.log(
@@ -721,17 +700,55 @@ var Weidows = {
       );
     }, 1);
   },
+
   //- 初始化
   all: function () {
-    //- this.device();
-    this.cheatTitle();
     this.appender();
-    this.log();
+
+    //- 变换标题
+    (() => {
+      let i,
+        o = document.title,
+        h = document.getElementsByTagName("link")[0].href;
+      document.addEventListener("visibilitychange", function () {
+        if (document.hidden) {
+          document.getElementsByTagName("link")[0].href =
+            "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/74ef2ed780ee230c08866adfa01dbe297b5467b4.png";
+          document.title = "❤大爷来玩呀~❤ |" + o;
+          clearTimeout(i);
+        } else {
+          document.getElementsByTagName("link")[0].href =
+            "https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/ComicExpression/34e594f5a6b38285aa8bc7f005861ca1b383d1e2.png";
+          document.title = "🤣性感dows,在线胡说🤣 |" + o;
+          i = setTimeout(function () {
+            document.title = o;
+            document.getElementsByTagName("link")[0].href = h;
+          }, 2e3);
+        }
+      });
+    })();
+
+    // 防止恶意debug
+      // (() =>  {
+      //   if (
+      //     window.outerHeight - window.innerHeight > 200 ||
+      //     window.outerWidth - window.innerWidth > 200
+      //   ) {
+      //     document.body.innerHTML = "检测到非法调试,请关闭后刷新重试!";
+      //   }
+      //   setInterval(() => {
+      //     (function () {
+      //       return false;
+      //     }
+      //       ["constructor"]("debugger")
+      //       ["call"]());
+      //   }, 50);
+      // })();
   },
+
   //- 适配pjax刷新
   re: function () {
     this.appender();
-    this.log();
-  },
+  }
 };
 Weidows.all();

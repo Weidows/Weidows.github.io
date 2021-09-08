@@ -13,8 +13,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-10 15:42:47
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\markdown.md
+ * @LastEditTime: 2021-09-08 19:31:33
+ * @FilePath: \Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
 
@@ -24,6 +24,7 @@ top_img:
   - [`[]: URL`](#-url)
   - [对话](#对话)
   - [引用+条目](#引用条目)
+  - [多行引用](#多行引用)
 - [文字样式](#文字样式)
   - [`*斜体*` 或 `_斜体_`](#斜体-或-_斜体_)
   - [`**粗体**`](#粗体)
@@ -116,12 +117,54 @@ top_img:
   > - 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
   > - 监听器经常在 GUI 编程中使用.
 
+  > 1. 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+  > 2. 监听器经常在 GUI 编程中使用.
+
+  ***
+
 - 写法:
 
   ```markdown
   > - 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
   > - 监听器经常在 GUI 编程中使用.
+
+  > 1. 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+  > 2. 监听器经常在 GUI 编程中使用.
   ```
+
+---
+
+### 多行引用
+
+偶然发现的,挺实用的
+
+- 一般引用只能一行,多行引用写成这样的话
+
+  ```md
+  > asdfghjkl
+  > zxcvbnm
+
+  > asdfghjkl zxcvbnm
+  ```
+
+  实际上长得一样
+
+  > asdfghjkl
+  > zxcvbnm
+
+  > asdfghjkl zxcvbnm
+
+  ***
+
+- 改成这样就对了:
+
+  ```md
+  > asdfghjkl \
+  > zxcvbnm
+  ```
+
+  > asdfghjkl \
+  > zxcvbnm
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

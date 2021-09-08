@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-28 23:56:22
+ * @LastEditTime: 2021-09-07 20:29:36
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -168,6 +168,22 @@ top_img:
 - claim
 
   v. 宣称；要求，索取；引起（注意）；获得；夺去（生命）；索赔（钱财）；需要
+
+- init -> initialize
+
+  vt. 初始化
+
+- widget
+
+  n. 装饰物；小机械；小部件；未定名的主要新产品
+
+- demo -> demonstration
+
+  n. 演示；演示课；演示片；演示会
+
+- refactor
+
+  n. & vt. 重构
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

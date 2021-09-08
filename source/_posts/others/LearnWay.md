@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 18:00:05
+ * @LastEditTime: 2021-09-07 20:33:21
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -62,6 +62,8 @@ top_img:
     - [Console](#console)
     - [闭包](#闭包)
     - [Ajax](#ajax)
+  - [框架](#框架-1)
+    - [Vue.js](#vuejs)
   - [跨域](#跨域)
   - [工具类](#工具类-1)
 - [Python](#python)
@@ -82,6 +84,7 @@ top_img:
   - [文档编写](#文档编写)
   - [代理](#代理)
   - [图灵测试](#图灵测试)
+  - [IaaS，PaaS，SaaS](#iaaspaassaas)
 - [设计](#设计)
 - [理论课程](#理论课程)
   - [数据结构](#数据结构)
@@ -386,6 +389,17 @@ top_img:
 > [【狂神说 Java】一小时掌握 Ajax](https://www.bilibili.com/video/BV1Kt411u7BV)
 
 ---
+### 框架
+
+#### Vue.js
+
+- 啊这,这文章快成推销了
+
+  有一段时间没跟着视频学习了,光看文章的话,学起来还挺快
+
+  > [狂神说 Vue笔记](https://blog.csdn.net/DDDDeng_/article/details/107475920)
+
+---
 
 ### 跨域
 
@@ -526,6 +540,12 @@ top_img:
 - 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
 
   <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />
+
+---
+
+### IaaS，PaaS，SaaS
+
+> [IaaS，PaaS，SaaS 的区别](https://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
