@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-07 14:03:38
+ * @LastEditTime: 2021-09-09 17:53:02
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -25,6 +25,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
   - [文件末尾追加命令](#文件末尾追加命令)
   - [输出重定向](#输出重定向)
   - [启动程序](#启动程序)
+  - [清垃圾(?](#清垃圾)
 - [CMD/PowerShell](#cmdpowershell)
 - [Linux](#linux)
   - [查杀进程](#查杀进程)
@@ -78,11 +79,37 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ### 启动程序
 
-> [同步(Synchronous)和异步(Asynchronous)](https://www.cnblogs.com/IT-CPC/p/10898871.html) 同步，就是调用某个东西是，调用方得等待这个调用返回结果才能继续往后执行。异步，和同步相反 调用方不会理解得到结果，而是在调用发出后调用者可用继续执行后续操作，被调用者通过状体来通知调用者，或者通过回掉函数来处理这个调用
+> [同步(Synchronous)和异步(Asynchronous)](https://www.cnblogs.com/IT-CPC/p/10898871.html) 同步，就是调用某个东西时，调用方得等待这个调用返回结果才能继续往后执行。异步，和同步相反 调用方不会理解得到结果，而是在调用发出后调用者可用继续执行后续操作，被调用者通过状体来通知调用者，或者通过回掉函数来处理这个调用
+>
+> - start 异步
+> - call 同步
 
-- start 异步
+---
 
-- call 同步
+### 清垃圾(?
+
+- 写脚本时,如果遇到两种情况:
+
+  1. 要删除某路径下所有东西
+
+  2. 路径是变量
+
+  那就有可能就变成删库跑路了..
+
+  ***
+
+- 比如
+
+  ```bat
+  set PATH=%1
+  rm -rf %PATH%/*
+  ```
+
+  ***
+
+- PATH 靠调用脚本时传入的参数来定义,没传参数的话就 undefined,以至于下一行变成大名鼎鼎的
+
+  `rm -rf /*`
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

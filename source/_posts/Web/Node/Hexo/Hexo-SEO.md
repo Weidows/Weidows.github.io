@@ -18,8 +18,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-18 16:39:24
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:06:24
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Hexo\Hexo-SEO.md
+ * @LastEditTime: 2021-09-10 15:04:46
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-SEO.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -30,6 +30,7 @@ top_img:
   - [注意](#注意)
   - [Hexo 标签验证网站](#hexo-标签验证网站)
 - [添加站点地图](#添加站点地图)
+- [注意点](#注意点)
 
 ## 安装插件
 
@@ -40,7 +41,7 @@ top_img:
   npm install hexo-generator-sitemap --save
   ```
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 配置文件
 
@@ -84,7 +85,7 @@ top_img:
     </url>
   ```
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 站长添加网站
 
@@ -108,7 +109,7 @@ top_img:
   - hexo deploy
   - page 部署才能验证
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 添加站点地图
 
@@ -120,3 +121,13 @@ top_img:
 - 另外
   - 百度添加 sitemap 后一直处于等待状态是正常的,别在意...
   - 谷歌添加 sitemap 一般第一次会失败,删掉重新添加就好了(立即生效)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 注意点
+
+- 不推荐文章目录使用: `<h1>` 标签也就是 `#`
+
+  - 多个一级标题对 SEO 不友好
+
+  - 建议使用 `<h1>` 也就是 `##`

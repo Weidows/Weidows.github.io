@@ -8,8 +8,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-27 13:42:34
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\resume.md
+ * @LastEditTime: 2021-09-12 20:57:13
+ * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
 <h1 align="center">
@@ -22,7 +22,7 @@ top_img:
 
 |      求职意向       |                GitHub                 |                博客                 |      邮箱       |   手机/微信   |
 | :-----------------: | :-----------------------------------: | :---------------------------------: | :-------------: | :-----------: |
-| `Java实习-薪资面议` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.gitee.io) | utsuko27@qq.com | `18330785221` |
+| `Java (其他也行呢)` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.gitee.io) | utsuko27@qq.com | `18330785221` |
 
 </center>
 
@@ -30,10 +30,9 @@ top_img:
 
 ## 教育经历
 
-#### `河北农业大学`
-
-- **专业**：`计算机科学与技术 一本`
-- **学年**：`23届-在校生` （2019~2023）
+- **学校**：`河北农业大学`
+- **专业**：`计算机科学与技术 统招一本`
+- **学年**：`23届` （2019~23）
 <!-- - **外语能力**： -->
 
 #### **比赛经历**
@@ -42,13 +41,13 @@ top_img:
 
 ## 专业技能
 
-|    领域    | 简单介绍 ([概览学过的内容](https://weidows.github.io/post/others/LearnWay))                                                                                         |
-| :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **后端**  | 熟练 `Java` 高级（反射、多线程、IO）；熟练运用 `MyBatis`、JDBC 与 `MySQL` 进行数据交互。                                                                            |
-|  **前端**  | 熟悉 HTML/CSS、JavaScript，利用多个开源项目整改美化后搭建个人博客，已更新`上百篇文章`；熟练使用 `npm、yarn`，了解 node 等前端工具和框架；开发过`多个 VScode 插件`。 |
-| **服务器** | 熟悉`各类云平台、VMware、docker、树莓派`，接触过分布式微服务运维现场，掌握 `Linux` 开发常用技能。                                                                   |
-|  **工具**  | 精通使用 `VScode、IDEA` 进行程序开发测试，也可熟练使用 VisualStudio、Eclipse、DBeaver、Anaconda、DevEco 等工具。                                                    |
-|  **Git**   | 精通使用 `GitHub/Gitee` 进行代码和流程管理、参与多个组织社区和`数十个仓库`开源工作。                                                                                |
+|    领域    | 简单介绍 ([概览学过的内容](https://weidows.github.io/post/others/LearnWay))                                                                                               |
+| :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **后端**  | 熟练 `SSM + Spring Boot`；有丰富 `MySQL,PostgreSQL,MaxCompute` 使用经验,熟悉 MongoDB。                                                                                    |
+|  **前端**  | 熟悉`前端三剑客 + ES6 + Vue`，利用多个开源项目整改搭建个人博客持续更新`上百篇文章`；熟练使用 `npm/yarn/webpack`，了解 node 等前端工具和框架；开发过多个 `VScode 小插件`。 |
+| **服务器** | 熟悉`各类云平台、VMware、docker、树莓派`，接触过分布式微服务运维现场，掌握 `Linux/shell` 开发常用技能。                                                                   |
+|  **工具**  | 精通 `VScode、IDEA` 进行程序开发测试，熟练使用 VisualStudio、Eclipse、DBeaver、Anaconda、DevEco 等工具; 熟悉 `Python` 充当工具                                            |
+|  **Git**   | 精通 `GitHub/Gitee/Gitlab` 进行流程/分支管理、参与多个组织社区和数十个仓库开源工作。                                                                                      |
 
 <!-- ## 实习经历
 

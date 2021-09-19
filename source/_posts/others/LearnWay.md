@@ -15,17 +15,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-07 20:33:21
+ * @LastEditTime: 2021-09-09 18:57:30
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
 -->
 
 - [`申明`](#申明)
-- [C/C++](#cc)
-  - [入门课程](#入门课程)
-  - [进阶课程](#进阶课程)
-  - [链表](#链表)
 - [Java](#java)
   - [阶段](#阶段)
     - [入门](#入门)
@@ -45,6 +41,7 @@ top_img:
     - [Spring](#spring)
     - [Spring MVC](#spring-mvc)
     - [Spring Boot](#spring-boot)
+    - [日志](#日志)
   - [工具类](#工具类)
     - [I/O](#io)
     - [OPTIONAL](#optional)
@@ -66,8 +63,14 @@ top_img:
     - [Vue.js](#vuejs)
   - [跨域](#跨域)
   - [工具类](#工具类-1)
-- [Python](#python)
-- [工具](#工具)
+- [辅助语言](#辅助语言)
+  - [C/C++](#cc)
+    - [入门课程](#入门课程)
+    - [进阶课程](#进阶课程)
+    - [链表](#链表)
+  - [Python](#python)
+    - [工具](#工具)
+- [开发工具](#开发工具)
   - [Git](#git)
     - [Git push](#git-push)
     - [多远程](#多远程)
@@ -132,32 +135,6 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## C/C++
-
-- 个人比较喜欢把 C 和 C++放在一起,虽然 C++并没学过(不过倒是能看懂).
-
-- 全程学的`翁凯`老师的,讲的很好.
-
----
-
-### 入门课程
-
-> [程序设计入门——C 语言](https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_)
-
----
-
-### 进阶课程
-
-> [C 语言程序设计进阶](https://www.icourse163.org/course/ZJU-200001)
-
----
-
-### 链表
-
-> [1 个小时学会单链表，C 语言数据结构专题](https://www.bilibili.com/video/BV1Rb411F738)
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
 ## Java
 
 - 靠翁凯老师入的门,之后又深挖了其他课程.
@@ -199,16 +176,14 @@ top_img:
 
 #### 网络编程
 
-> [【狂神说 Java】网络编程实战讲解](https://www.bilibili.com/video/BV1LJ411z7vY)
-
+> [【狂神说 Java】网络编程实战讲解](https://www.bilibili.com/video/BV1LJ411z7vY) \
 > [【狂神说 Java】网络编程](https://blog.csdn.net/weixin_45717355/article/details/110945343)
 
 ---
 
 #### JavaWeb
 
-> [【狂神说 Java】JavaWeb 入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
-
+> [【狂神说 Java】JavaWeb 入门到实战](https://www.bilibili.com/video/BV12J411M7Sj) \
 > [B 站---【狂神说 Java】JavaWeb 入门到实战---笔记](https://blog.csdn.net/bell_love/article/details/105667638)
 
 ---
@@ -223,16 +198,14 @@ top_img:
 
 #### Lambda
 
-> [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html)
-
+> [Java Lambda 表达式](https://www.runoob.com/java/java8-lambda-expressions.html) \
 > [关于 Java Lambda 表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 
 ---
 
 #### 多线程
 
-> [【狂神说 Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
-
+> [【狂神说 Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF) \
 > [狂神说多线程笔记](https://blog.csdn.net/weixin_41963554/article/details/108808824)
 
 ---
@@ -255,28 +228,23 @@ top_img:
 
 #### MyBatis
 
-> [【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
-
+> [【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx) \
 > [狂神说 Java Mybatis 笔记](https://blog.csdn.net/DDDDeng_/article/details/106927021)
 
 ---
 
 #### Spring
 
-> [什么？搞 Java 的你还不会 Spring？一篇文章带你掌握](https://blog.csdn.net/qq_42453117/article/details/104758942)
-
+> [什么？搞 Java 的你还不会 Spring？一篇文章带你掌握](https://blog.csdn.net/qq_42453117/article/details/104758942) \
 > [【狂神说 Java】Spring5 最新完整教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 
 ---
 
 #### Spring MVC
 
-> [SpringMVC 笔记（狂神）](https://blog.csdn.net/weixin_44635198/article/details/107444925)
-
-> [【狂神说 Java】SpringMVC 最新教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
-
-> [@Controller 和@RestController 的区别？](https://www.cnblogs.com/clwydjgs/p/9255046.html)
-
+> [SpringMVC 笔记（狂神）](https://blog.csdn.net/weixin_44635198/article/details/107444925) \
+> [【狂神说 Java】SpringMVC 最新教程 IDEA 版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu) \
+> [@Controller 和@RestController 的区别？](https://www.cnblogs.com/clwydjgs/p/9255046.html) \
 > [【狂神说 Java】SSM 框架最新整合教学 IDEA 版](https://www.bilibili.com/video/BV1RE41127rv)
 
 ---
@@ -287,13 +255,17 @@ top_img:
 
 ---
 
+#### 日志
+
+> [Java最详细常用日志框架介绍](https://blog.csdn.net/u013068377/article/details/107239878)
+
+---
+
 ### 工具类
 
 #### I/O
 
-- 序列化/ObjectOutputStream
-
-  > [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
+> 序列化/ObjectOutputStream [对象操作流 ObjectOutputStream](https://blog.csdn.net/cc1969281777/article/details/87068106)
 
 ---
 
@@ -389,6 +361,7 @@ top_img:
 > [【狂神说 Java】一小时掌握 Ajax](https://www.bilibili.com/video/BV1Kt411u7BV)
 
 ---
+
 ### 框架
 
 #### Vue.js
@@ -397,7 +370,7 @@ top_img:
 
   有一段时间没跟着视频学习了,光看文章的话,学起来还挺快
 
-  > [狂神说 Vue笔记](https://blog.csdn.net/DDDDeng_/article/details/107475920)
+  > [狂神说 Vue 笔记](https://blog.csdn.net/DDDDeng_/article/details/107475920)
 
 ---
 
@@ -415,15 +388,42 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## Python
+## 辅助语言
+
+### C/C++
+
+- 个人比较喜欢把 C 和 C++放在一起,虽然 C++并没学过(不过倒是能看懂).
+
+- 全程学的`翁凯`老师的,讲的很好.
+
+#### 入门课程
+
+> [程序设计入门——C 语言](https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_)
+
+#### 进阶课程
+
+> [C 语言程序设计进阶](https://www.icourse163.org/course/ZJU-200001)
+
+#### 链表
+
+> [1 个小时学会单链表，C 语言数据结构专题](https://www.bilibili.com/video/BV1Rb411F738)
+
+---
+
+### Python
 
 - 菜鸟教程:
 
   > [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 
+#### 工具
+
+> [Python 配置管理的几种方式](https://www.cnblogs.com/wanglvtao/p/11140025.html) \
+> [Python 类型强制转换和字符串的操作](https://blog.csdn.net/qq_42967398/article/details/88078788)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 工具
+## 开发工具
 
 ### Git
 
@@ -519,8 +519,7 @@ top_img:
 
 - emmm,Ummm...这是个如何优雅拉屎的艺术
 
-  > [最全！软件开发类项目关键文档内容要求](https://www.jianshu.com/p/a7984927cfb9)
-
+  > [最全！软件开发类项目关键文档内容要求](https://www.jianshu.com/p/a7984927cfb9) \
   > [软件需求，概要设计，详细设计（文档）怎么做，做什么？](https://www.jianshu.com/p/a52fe78962f0)
 
 - 一个挺像样的项目文档:
@@ -567,32 +566,27 @@ top_img:
 
 ### 操作系统
 
-> [一句话+一张图说清楚——银行家算法](https://blog.csdn.net/qq_33414271/article/details/80245715)
-
-> [操作系统：经典进程同步问题 之 生产者-消费者问题、读者-写者问题、哲学家进餐问题](https://blog.csdn.net/a745233700/article/details/86011504)
-
+> [一句话+一张图说清楚——银行家算法](https://blog.csdn.net/qq_33414271/article/details/80245715) \
+> [操作系统：经典进程同步问题 之 生产者-消费者问题、读者-写者问题、哲学家进餐问题](https://blog.csdn.net/a745233700/article/details/86011504) \
 > [调度算法的介绍及优缺点](https://blog.csdn.net/lala_wang/article/details/81116781?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)
 
 #### 进程,线程,CPU 核心,并行,并发
 
-- 总结了一下:
-  > [🤷‍♂️ 进程,线程,CPU 核心,并行,并发大杂碎!](../../system/process-thread)
+> 我给总结了一下: [🤷‍♂️ 进程,线程,CPU 核心,并行,并发大杂碎!](../../system/process-thread)
 
 ---
 
 ### 编译原理
 
-> [编译原理：总结](https://blog.csdn.net/qq_39384184/article/details/86037568)
-
-- 结合其他视频或者课程阅读,效果更好些.
+> [编译原理：总结](https://blog.csdn.net/qq_39384184/article/details/86037568) \
+> 结合其他视频或者课程阅读,效果更好些.
 
 ---
 
 ### 单片机
 
-> [【一天掌握 51 单片机基础】*单片机原理及应用*东北大学（高宏亮 主讲）](https://www.bilibili.com/video/BV1sE411L7j5)
-
-- 比较通俗易懂,课程/课件质量相当高.
+> [【一天掌握 51 单片机基础】*单片机原理及应用*东北大学（高宏亮 主讲）](https://www.bilibili.com/video/BV1sE411L7j5) \
+> 比较通俗易懂,课程/课件质量相当高.
 
 ---
 
@@ -602,8 +596,7 @@ top_img:
 
 - 要点清晰,能很快速的顺下来需要掌握的东西.
 
-  > [【狂神说 Java】MySQL 最新教程通俗易懂](https://www.bilibili.com/video/BV1NJ411J79W)
-
+  > [【狂神说 Java】MySQL 最新教程通俗易懂](https://www.bilibili.com/video/BV1NJ411J79W) \
   > [狂神说数据库笔记](https://blog.csdn.net/weixin_45483328/article/details/113759286?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
 
 ---
@@ -632,10 +625,8 @@ top_img:
 
 #### P/NP 问题
 
-> [P 对 NP 问题](https://baike.baidu.com/item/P%E5%AF%B9NP%E9%97%AE%E9%A2%98)
-
-> [算法复杂度与 NP 问题](https://www.omegaxyz.com/2019/04/22/np/?hilite=%27filled%27,%27o.e.m%27)
-
+> [P 对 NP 问题](https://baike.baidu.com/item/P%E5%AF%B9NP%E9%97%AE%E9%A2%98) \
+> [算法复杂度与 NP 问题](https://www.omegaxyz.com/2019/04/22/np/?hilite=%27filled%27,%27o.e.m%27) \
 > [贪婪算法案例、np 完全问题及 java 代码实现](http://www.cainiaoxueyuan.com/suanfa/4517.html)
 
 - 非常经典和值得探索的问题 (经验接收自`@河北工业大学`)
@@ -644,9 +635,8 @@ top_img:
 
 ### 论文
 
-- 关键时候挺好用的功能
-
-  > [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960)
+> 关键时候挺好用的功能 \
+> [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-07 20:29:36
+ * @LastEditTime: 2021-09-10 16:11:10
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -185,6 +185,10 @@ top_img:
 
   n. & vt. 重构
 
+- tutorial
+
+  n. （大学导师）个别指导时间，辅导课；辅导材料，使用说明书；软件教程
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 短语
@@ -195,11 +199,13 @@ top_img:
 
   how to , html to pug 这种意思
 
-- 4U , 4coder
+- 4U , 4coder , SLF4J
 
   4 -> four -> for
 
   for you , for coder
+
+  Simple Logging Facade for Java
 
 ---
 
@@ -209,14 +215,11 @@ top_img:
 
 - 网络
 
-  - LAN
+  - LAN - 局域网 (Local Area Network)
 
-    局域网(Local Area Network)
+  - WAN - 广域网 (Wide Area Network)
 
-  - WAN
+  - WLAN - 无线局域网 (Wireless LAN)
 
-    广域网(Wide Area Network)
-
-  - WLAN
-
-    无线局域网(Wireless LAN)
+> - 网站 \
+>   [QPS、TPS、并发用户数、吞吐量关系](https://juejin.cn/post/6844904084504313863?utm_source=gold_browser_extension)
