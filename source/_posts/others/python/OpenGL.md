@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-20 00:16:10
+ * @LastEditTime: 2021-09-24 08:55:24
  * @FilePath: \Blog-private\source\_posts\others\python\OpenGL.md
  * @Description:
  * @!: *********************************************************************
@@ -78,5 +78,27 @@ pip install PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl
 ---
 
 ### 测试
+
+画个静态茶壶
+
 ```python
+from OpenGL.GL import *
+from OpenGL.GLU import *
+from OpenGL.GLUT import *
+
+
+def drawFunc():
+    glClear(GL_COLOR_BUFFER_BIT)
+    glutWireTeapot(0.5)
+    glFlush()
+
+
+glutInit()
+glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA)
+glutInitWindowSize(400, 400)
+
+#参数为b类型而不是string
+glutCreateWindow(b"Teapot")
+glutDisplayFunc(drawFunc)
+glutMainLoop()
 ```

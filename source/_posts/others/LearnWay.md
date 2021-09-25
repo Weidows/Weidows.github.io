@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-09 18:57:30
+ * @LastEditTime: 2021-09-20 17:51:10
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -257,7 +257,7 @@ top_img:
 
 #### 日志
 
-> [Java最详细常用日志框架介绍](https://blog.csdn.net/u013068377/article/details/107239878)
+> [Java 最详细常用日志框架介绍](https://blog.csdn.net/u013068377/article/details/107239878)
 
 ---
 
@@ -433,7 +433,7 @@ top_img:
 
 - 前前后后用过的 git 可视化程序有`SourceTree`,`gitkraken`,`github`,`vscode`等等...
 
-- 要是说建议路线嘛,推荐先入手`vscode`,特容易上手,然后是`SourceTree`,这个可以对很多深入功能有较强的理解,反正我最后用的是`VScode+gitgraph插件`,足够了.
+- 要是说建议路线嘛,推荐先入手`vscode`,特容易上手,然后是`SourceTree`,这个可以对很多深入功能有较强的理解,反正我最后用的是`VScode + gitgraph 插件`,足够了.
 
 ---
 
@@ -488,9 +488,8 @@ top_img:
 ### 2038 问题
 
 > [2038 年问题](https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin)
-
-- 问题不算大,Windows 平台与 linux 平台都有相应的推迟解决方案了.
-- Linux 推到 2486 年了,还早了去了.
+>
+> - 问题不大不小,Windows 平台与 linux 平台都有相应的推迟解决方案了.
 
 ---
 
@@ -534,11 +533,10 @@ top_img:
 
 ### 图灵测试
 
+> - 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
+>   <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />
+
 > [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
-
-- 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
-
-  <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />
 
 ---
 
@@ -611,7 +609,9 @@ top_img:
 
 #### 通用
 
-> 质量相当高的文章: [MySQL 单列索引和组合索引的区别介绍](https://blog.csdn.net/wxwzy738/article/details/17590305)
+> 1. 质量相当高的文章: [MySQL 单列索引和组合索引的区别介绍](https://blog.csdn.net/wxwzy738/article/details/17590305)
+> 2. [我们为什么要分库分表？](https://mp.weixin.qq.com/s/3ZdACGiA0SutmbDxMeF-UA) \
+>    这篇封神了,把我最近在数据库业务设计方面的疑问解决了.
 
 ---
 
@@ -625,18 +625,17 @@ top_img:
 
 #### P/NP 问题
 
-> [P 对 NP 问题](https://baike.baidu.com/item/P%E5%AF%B9NP%E9%97%AE%E9%A2%98) \
-> [算法复杂度与 NP 问题](https://www.omegaxyz.com/2019/04/22/np/?hilite=%27filled%27,%27o.e.m%27) \
-> [贪婪算法案例、np 完全问题及 java 代码实现](http://www.cainiaoxueyuan.com/suanfa/4517.html)
-
-- 非常经典和值得探索的问题 (经验接收自`@河北工业大学`)
+> 1. [P 对 NP 问题](https://baike.baidu.com/item/P%E5%AF%B9NP%E9%97%AE%E9%A2%98)
+> 2. [算法复杂度与 NP 问题](https://www.omegaxyz.com/2019/04/22/np/?hilite=%27filled%27,%27o.e.m%27)
+> 3. [贪婪算法案例、np 完全问题及 java 代码实现](http://www.cainiaoxueyuan.com/suanfa/4517.html) \
+>    非常经典和值得探索的问题 (经验接收自`@河北工业大学`)
 
 ---
 
 ### 论文
 
-> 关键时候挺好用的功能 \
-> [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960)
+> 1. [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960) \
+>    关键时候挺好用的功能
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -646,3 +645,5 @@ top_img:
 > 2. [什么是“堆”,"栈","堆栈","队列",它们的区别](https://www.cnblogs.com/guoxiaoyan/p/8664150.html)
 > 3. [到底产生几个 String 对象](https://www.cnblogs.com/timecloud/p/6555868.html)
 > 4. [浅谈 Java 中的 equals 和==](https://www.cnblogs.com/dolphin0520/p/3592500.html)
+> 5. [字节终面：两个文件的公共 url 怎么找？](https://mp.weixin.qq.com/s/SytfnrsYqequ2M7CnSY-IA) / [小米面试：孔融找梨](https://mp.weixin.qq.com/s/TdJWFxrDAadK9UXar4WiRA) \
+>    通过 hash 降低时间复杂度, 以及通过 hash 分治降低空间复杂度

@@ -16,7 +16,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-08 19:15:57
+ * @LastEditTime: 2021-09-24 08:46:46
  * @FilePath: \Blog-private\source\_posts\others\Better-Chinese.md
  * @Description:
  * @!: *********************************************************************
@@ -25,8 +25,8 @@ top_img:
 - [参照-简介](#参照-简介)
 - [正文](#正文)
   - [穿透](#穿透)
-  - [幂等性](#幂等性)
   - [部署/上线](#部署上线)
+  - [幂等性](#幂等性)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -44,12 +44,12 @@ top_img:
 
 前端所展示的内容与需求/实际不一致 (比如我 100 岁,后端给的是 10 岁)
 
-### 幂等性
-
 ### 部署/上线
 
 部署: 把代码从开发机丢到服务器上跑
 
 上线: 代码在测试环境跑没问题,然后迁到生产环境
+
+### 幂等性
 
 > [什么是幂等性](https://blog.csdn.net/miachen520/article/details/91039661)

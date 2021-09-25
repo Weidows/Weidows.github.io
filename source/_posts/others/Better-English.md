@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-10 16:11:10
+ * @LastEditTime: 2021-09-22 17:55:51
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -102,6 +102,10 @@ top_img:
   - grid
 
     n. 网格；格子，栅格；输电网
+
+  - router
+
+
 
 ---
 
@@ -193,11 +197,11 @@ top_img:
 
 ## 短语
 
-- how2 , html2pug
+- how2 , html2pug , P2P
 
   2 -> two -> to , 也就是说:
 
-  how to , html to pug 这种意思
+  how to , html to pug , Peer to Peer 这种意思
 
 - 4U , 4coder , SLF4J
 

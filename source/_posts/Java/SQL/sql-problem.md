@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-18 10:31:30
+ * @LastEditTime: 2021-09-25 19:42:22
  * @FilePath: \Blog-private\source\_posts\Java\SQL\sql-problem.md
  * @Description:
  * @!: *********************************************************************
@@ -27,6 +27,8 @@ top_img:
 - [模糊查询](#模糊查询)
 - [where](#where)
 - [多索引排序](#多索引排序)
+- [Mariadb 无法远程连接](#mariadb-无法远程连接)
+- [数据源连接不上](#数据源连接不上)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -127,3 +129,40 @@ top_img:
 ---
 
 - 挺简单的 `order by id`
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## Mariadb 无法远程连接
+
+- 在 manjaro 虚拟机装了个 mariadb
+
+  主机与虚拟机已经连通,但是 mariadb 无法连接上 (授权失败)
+
+  > Host '192.168.114.1' is not allowed to connect to this MariaDB server
+
+  因为 mariadb 默认只允许 localhost 连接
+
+  ***
+
+- 网上找了一堆文章,大多是 `grant 授权` , `改配置文件` 之类的
+
+  试了下,各种碰壁 , 这里给个简单方法
+
+  ***
+
+- 直接 `新建一个用户`
+
+  用户名随意 , host 填 `%` (也就是允许所有)
+
+  远程连接时连这个用户就行了.
+
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 数据源连接不上
+
+> Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+
+- 这个情况大多是配置属性没写对,重点看一下标记的地方
+
+  <img src="https://i.loli.net/2021/09/25/MJChF9w2mufaBtj.png" alt="20210925193945" />

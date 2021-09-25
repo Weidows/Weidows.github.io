@@ -13,8 +13,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-18 09:18:19
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\RaspberryPi.md
+ * @LastEditTime: 2021-09-26 00:23:55
+ * @FilePath: \Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
 
@@ -24,6 +24,16 @@ top_img:
 - [树莓派系统设置](#树莓派系统设置)
 - [VNC 连接](#vnc-连接)
 - [Screenfetch](#screenfetch)
+- [彩色灯带](#彩色灯带)
+  - [硬件连接](#硬件连接)
+  - [安装工具链](#安装工具链)
+  - [安装驱动](#安装驱动)
+  - [修改配置文件](#修改配置文件)
+  - [测试运行](#测试运行)
+  - [增强-音乐频谱](#增强-音乐频谱)
+    - [装环境](#装环境)
+    - [测试运行](#测试运行-1)
+  - [灯带检测](#灯带检测)
 - [花样玩法](#花样玩法)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -137,8 +147,157 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
+## 彩色灯带
+
+### 硬件连接
+
+本人用的 派 4B, WS2812B 型号灯带,分三根线(颜色可能并不一致,红黑绿白)
+
+有能力的话可以改成杜邦母口,我没有,直接拿小刀豁开绝缘皮插的,也行
+
+- 这里只是做的临时序号,GPIO 并不是这么排的,`此处只用第一排`
+
+  ```树莓派GPIO抽象画
+  _____________________
+  | 1 2 3 4 5 6 7 ....
+  | 1 2 3 4 5 6 7 ....
+  |
+  |        CPU
+  |
+  _____________________
+  ```
+
+- 接线
+
+  一般都有红线,+5V, 接 1
+
+  中间的线是数据线,接 6
+
+  另一根是 GND,接 3
+
+---
+
+### 安装工具链
+
+```
+sudo apt -y install scons swig
+```
+
+### 安装驱动
+
+```
+sudo pip3 install rpi_ws281x
+```
+
+- 很有可能并不能生效 (ModuleNotFoundError: No module named 'rpi_ws281x'),需要下载编译源码
+
+  ```
+  git clone https://github.com/jgarff/rpi_ws281x.git
+  cd rpi_ws281x
+  scons
+  cd ./python/
+  sudo python3 ./setup.py install
+  ```
+
+  ***
+
+  - 上面不要这样写,会报错 : ~~sudo python ./python/setup.py install~~
+
+    ```
+    running install
+    running bdist_egg
+    running egg_info
+    creating rpi_ws281x.egg-info
+    writing rpi_ws281x.egg-info/PKG-INFO
+    writing top-level names to rpi_ws281x.egg-info/top_level.txt
+    writing dependency_links to rpi_ws281x.egg-info/dependency_links.txt
+    writing manifest file 'rpi_ws281x.egg-info/SOURCES.txt'
+    file neopixel.py (for module neopixel) not found
+    reading manifest file 'rpi_ws281x.egg-info/SOURCES.txt'
+    writing manifest file 'rpi_ws281x.egg-info/SOURCES.txt'
+    installing library code to build/bdist.linux-armv7l/egg
+    running install_lib
+    running build_py
+    file neopixel.py (for module neopixel) not found
+    file neopixel.py (for module neopixel) not found
+    running build_ext
+    building '_rpi_ws281x' extension
+    swigging rpi_ws281x.i to rpi_ws281x_wrap.c
+    swig -python -o rpi_ws281x_wrap.c rpi_ws281x.i
+    Unable to find file 'rpi_ws281x.i'.
+    error: command 'swig' failed with exit status 1
+    ```
+
+---
+
+### 修改配置文件
+
+- 用 nano/vim 或者 Kate 打开修改
+
+  ```
+  sudo nano ./examples/strandtest.py
+  ```
+
+  需要改两处:
+
+  1. 依赖 import 处添加
+
+  ```
+  from neopixel import *
+  ```
+
+  2. LED 灯珠数(根据灯带实际数量)
+
+  ***
+
+- 把这个文件复制出来 (不然不能运行)
+
+  ```
+  sudo cp ./examples/strandtest.py .
+  ```
+
+### 测试运行
+
+```
+sudo python3 ./strandtest.py
+```
+
+---
+
+### 增强-音乐频谱
+
+首先搞一下硬件: 树莓派没有板载输入声卡,`需要 USB 免驱声卡 + 3.5mm有线可录音耳机` (调查了一番没有替代方案)
+
+可以去买一个拓展坞,有的会附带 (当时我都缺,正好可以一刀切)
+
+#### 装环境
+
+```
+sudo apt-get install portaudio19-dev libatlas-base-dev
+// 一定注意是pip3安装! 不是pip; 运行时也必须是 python3
+sudo pip3 install numpy scipy pyqtgraph pyaudio
+```
+
+#### 测试运行
+
+```
+git clone https://github.com/scottlawsonbc/audio-reactive-led-strip.git
+sudo python3 audio-reactive-led-strip/python/visualization.py
+```
+
+---
+
+### 灯带检测
+
+灯带是否损坏可以一头接上+5V + GND, 在另一头短接试试
+
+如果树莓派重启,则说明灯带没问题
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
 ## 花样玩法
 
+0. 可以参考一下,防止吃灰
 1. 声控可视化乐谱
 2. 宝塔 Linux
 3. 旁路由器
@@ -147,7 +306,7 @@ top_img:
 6. 个人网站搭建
 7. 虚拟机/远程 docker
 8. 尝试多系统
-9. `OpenWrt系统` (此系统支持 3,6,7,10,11,12)
+9. OpenWrt
 10. 当梯子 NAT
 11. 文件服务器
 12. 内网穿透
