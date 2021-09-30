@@ -1,16 +1,6 @@
 {
 	"files": [
 		{
-			"path": "source/_posts/Web/Node.js/node.md",
-			"bookmarks": [
-				{
-					"line": 144,
-					"column": 0,
-					"label": ""
-				}
-			]
-		},
-		{
 			"path": "source/_posts/others/backup/快捷键.md",
 			"bookmarks": [
 				{
@@ -31,11 +21,11 @@
 			]
 		},
 		{
-			"path": "../Github/Programming-Configuration/local/start.vbs",
+			"path": "../Github/Programming-Configuration/local/utils.bat",
 			"bookmarks": [
 				{
-					"line": 11,
-					"column": 8,
+					"line": 2,
+					"column": 11,
 					"label": ""
 				}
 			]
@@ -44,18 +34,8 @@
 			"path": "../../Documents/PowerShell/Microsoft.PowerShell_profile.ps1",
 			"bookmarks": [
 				{
-					"line": 0,
+					"line": 1,
 					"column": 10,
-					"label": ""
-				}
-			]
-		},
-		{
-			"path": "../Github/Programming-Configuration/local/utils.bat",
-			"bookmarks": [
-				{
-					"line": 0,
-					"column": 0,
 					"label": ""
 				}
 			]

@@ -5,6 +5,7 @@ categories:
   - system
 tags:
   - 树莓派
+  - 服务器
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HM1ew2iAGobaCRr.png
 top_img:
 ---
@@ -13,12 +14,12 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-26 00:23:55
+ * @LastEditTime: 2021-09-26 10:23:17
  * @FilePath: \Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
 
-- [无屏幕(线)解决方案](#无屏幕线解决方案)
+- [无屏幕操作指南](#无屏幕操作指南)
 - [SSH 连接](#ssh-连接)
 - [设置密码](#设置密码)
 - [树莓派系统设置](#树莓派系统设置)
@@ -38,7 +39,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 无屏幕(线)解决方案
+## 无屏幕操作指南
 
 - 刚到手的树莓派裸机没屏幕和 Mini-HDMI 线,用 ssh 连接.
 - 首先,用手机或者电脑开热点
@@ -171,7 +172,7 @@ top_img:
 
   一般都有红线,+5V, 接 1
 
-  中间的线是数据线,接 6
+  中间的线是信号线,接 6
 
   另一根是 GND,接 3
 
@@ -291,7 +292,7 @@ sudo python3 audio-reactive-led-strip/python/visualization.py
 
 灯带是否损坏可以一头接上+5V + GND, 在另一头短接试试
 
-如果树莓派重启,则说明灯带没问题
+如果树莓派重启,则说明灯带电源没问题,要是不能亮的话就是信号线有问题或者电压不足
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

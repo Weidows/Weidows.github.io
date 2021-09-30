@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 15:50:51
+ * @LastEditTime: 2021-09-30 12:09:46
  * @FilePath: \Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -25,20 +25,23 @@ top_img:
   - [docker-compose](#docker-compose)
   - [docker-machine](#docker-machine)
 - [安装启动](#安装启动)
-  - [Ubuntu-Server](#ubuntu-server)
+  - [the-best-Manjaro](#the-best-manjaro)
   - [Windows](#windows)
-- [解决权限问题](#解决权限问题)
-- [启动 docker](#启动-docker)
+  - [Ubuntu-Server](#ubuntu-server)
+  - [解决权限问题](#解决权限问题)
 - [加速](#加速)
   - [镜像加速](#镜像加速)
     - [Windows](#windows-1)
     - [Manjaro](#manjaro)
   - [设置代理](#设置代理)
-- [命令行执行](#命令行执行)
-- [VScode+docker](#vscodedocker)
-- [Portainer](#portainer)
-- [容器自启](#容器自启)
+- [docker 管理](#docker-管理)
+  - [VScode+docker](#vscodedocker)
+  - [Portainer](#portainer)
 - [常用命令](#常用命令)
+  - [docker 自启](#docker-自启)
+  - [容器自启](#容器自启)
+- [命令行执行](#命令行执行)
+- [多数据库管理](#多数据库管理)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -85,6 +88,38 @@ top_img:
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 安装启动
+
+### the-best-Manjaro
+
+- manjaro 里搜 `docker` 和 `docker-compose` 安装,然后配置下面的 [镜像加速](#manjaro) 和 [docker 自启](#docker-自启)
+
+- ok, Manjaro 没有其他任何坑!
+
+---
+
+### Windows
+
+- 在 `Windows` 上安装就比较复杂了,牵扯到很多东西.
+
+- Docker 基于 Linux 系统实现,所以无法直接安装在 Windows 上,需要虚拟化支持.
+
+  - 这就需要借助`wsl`或者`Virtual box`或者`hyper-v`了(建议用 wsl)
+
+  > 详见 [🎇 尝试转投 wsl 生态.#名词解释](../wsl2#名词解释)
+
+  - 这里提一下,如果想用 hyper-v 引擎,只需要勾选`hyper-v`功能就行,wsl 的那两个不用开(当然开了对 docker 也没影响)
+
+---
+
+- 安装 docker 前,需要装好 wsl,下面文章到`最后`安装系统之前,都需要过一遍才能装好 wsl2
+
+  > [🎇 尝试转投 wsl 生态.#配置](../wsl2#配置)
+
+- 装好 wsl 后去 docker 官网下载 `Docker desktop for window`,安装.
+
+- 装好 docker 之后 `重启` 才能正常使用!
+
+---
 
 ### Ubuntu-Server
 
@@ -183,31 +218,7 @@ top_img:
 
 ---
 
-### Windows
-
-- 在 `Windows` 上安装就比较复杂了,牵扯到很多东西.
-
-- Docker 基于 Linux 系统实现,所以无法直接安装在 Windows 上,需要虚拟化支持.
-
-  - 这就需要借助`wsl`或者`Virtual box`或者`hyper-v`了(建议用 wsl)
-
-  > 详见 [🎇 尝试转投 wsl 生态.#名词解释](../wsl2#名词解释)
-
-  - 这里提一下,如果想用 hyper-v 引擎,只需要勾选`hyper-v`功能就行,wsl 的那两个不用开(当然开了对 docker 也没影响)
-
----
-
-- 安装 docker 前,需要装好 wsl,下面文章到`最后`安装系统之前,都需要过一遍才能装好 wsl2
-
-  > [🎇 尝试转投 wsl 生态.#配置](../wsl2#配置)
-
-- 装好 wsl 后去 docker 官网下载 `Docker desktop for window`,安装.
-
-- 装好 docker 之后 `重启` 才能正常使用!
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
-## 解决权限问题
+### 解决权限问题
 
 > [解决 Ubuntu18.04 启动 Docker“Got permission denied while trying to connect to the Docker daemon socket“问题](https://blog.csdn.net/liangllhahaha/article/details/92077065)
 
@@ -229,36 +240,6 @@ top_img:
   sudo groupadd docker          #添加docker用户组
   sudo gpasswd -a $USER docker  #将当前用户添加至docker用户组
   newgrp docker                 #更新docker用户组
-  ```
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
-## 启动 docker
-
-> [在 Manjaro Linux 系统使用 Docker](https://blog.huangz.me/2020/docker-on-linux.html)
-
-- 启动服务
-
-  ```
-  sudo systemctl start docker.service
-  ```
-
-- 开机自动启动 docker 服务
-
-  ```
-  sudo systemctl enable docker.service
-  ```
-
-- 重新载入配置
-
-  ```
-  sudo systemctl daemon-reload
-  ```
-
-- 重启 docker
-
-  ```
-  sudo systemctl restart docker
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -300,57 +281,36 @@ top_img:
 
 > 参考: [docker docs](https://docs.docker.com/config/daemon/systemd/)
 
-- 国内网络环境拉取镜像非常慢,挂代理可以快很多.
+- 国内网络环境拉取镜像非常慢,挂代理可以快很多. (不过一般配置了上面的镜像加速就用不着配置代理了)
 
-1. 新建文件夹
+- 1.新建文件夹
 
-```
-sudo mkdir -p /etc/systemd/system/docker.service.d
-```
+  ```
+  sudo mkdir -p /etc/systemd/system/docker.service.d
+  ```
 
-2. 新建文件 `/etc/systemd/system/docker.service.d/http-proxy.conf`,添加内容:
+- 2.新建文件 `/etc/systemd/system/docker.service.d/http-proxy.conf`,添加内容:
 
-```conf
-[Service]
-Environment="HTTP_PROXY=http://192.168.2.109:7890"
-```
+  ```conf
+  [Service]
+  Environment="HTTP_PROXY=http://192.168.2.109:7890"
+  ```
 
-3. 如果需要其他协议的代理,可以再添加,如下:
+- 3.如果需要其他协议的代理,可以再添加,如下:
 
-```conf
-[Service]
-Environment="HTTP_PROXY=http://192.168.2.109:7890"
-Environment="HTTPS_PROXY=https://192.168.2.109:7890"
-```
+  ```conf
+  [Service]
+  Environment="HTTP_PROXY=http://192.168.2.109:7890"
+  Environment="HTTPS_PROXY=https://192.168.2.109:7890"
+  ```
 
-4. [重新载入配置 & 重启 docker](#启动-docker)
+4. [重新载入配置 & 重启 docker](#docker-自启)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 命令行执行
+## docker 管理
 
-- 有些文档为了观看性写成如下格式,无法直接执行,需要弄成一行.
-
-  - 前
-
-  ```
-  docker run -d \
-    -p 8088:8088 \
-    --name next-terminal \
-    --restart always ghcr.io/dushixiang/next-terminal:latest
-  ```
-
-  - 后
-
-  ```
-  docker run -d -p 8088:8088 --name next-terminal --restart always ghcr.io/dushixiang/next-terminal:latest
-  ```
-
-- 最后重启 docker,用 `docker info` 检查一下就好了
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
-## VScode+docker
+### VScode+docker
 
 - 在 Manjaro 虚拟机中启动 docker 服务,然后用 vscode-ssh 连接 manjaro
 
@@ -360,9 +320,9 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 - 另外再安装`Resource Monitor`这个插件可以监控远程机资源消耗(如上图最下方)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+---
 
-## Portainer
+### Portainer
 
 > [Docker 安装管理面板--Portainer](https://blog.csdn.net/tian330726/article/details/102987572)
 
@@ -388,7 +348,39 @@ Environment="HTTPS_PROXY=https://192.168.2.109:7890"
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 容器自启
+## 常用命令
+
+> [💧 一些常用终端命令.#docker](../../experience/shell/shell#docker)
+
+### docker 自启
+
+- 启动服务
+
+  ```
+  sudo systemctl start docker.service
+  ```
+
+- 开机自动启动 docker 服务
+
+  ```
+  sudo systemctl enable docker.service
+  ```
+
+- 重新载入配置
+
+  ```
+  sudo systemctl daemon-reload
+  ```
+
+- 重启 docker
+
+  ```
+  sudo systemctl restart docker
+  ```
+
+---
+
+### 容器自启
 
 ```
 # 开启
@@ -398,8 +390,85 @@ docker update --restart=always <CONTAINER ID>
 docker update --restart=no <CONTAINER ID>
 ```
 
+---
+
+## 命令行执行
+
+- 有些文档为了观看性写成如下格式,无法直接执行,需要弄成一行.
+
+  - 前
+
+    ```
+    docker run -d \
+      -p 8088:8088 \
+      --name next-terminal \
+      --restart always ghcr.io/dushixiang/next-terminal:latest
+    ```
+
+  - 后
+
+    ```
+    docker run -d -p 8088:8088 --name next-terminal --restart always ghcr.io/dushixiang/next-terminal:latest
+    ```
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 常用命令
+## 多数据库管理
 
-> [💧 一些常用终端命令.#docker](../../experience/shell/shell#docker)
+- 开发时需要好几个不同的数据库
+
+  1. 在 win 主机上安装配置的话,必然各种 bug,大部分时间还空浪费性能
+
+  2. 于是考虑在虚拟机上装,但是鉴于各种系统环境还不一样,每个数据库挨个配置和解决 bug 都废手
+
+  3. 于是让数据库进入 docker
+
+- 通过 `docker-compose.yml` 一条龙管理 (免去了每个数据库安装,开通远程连接,配置账户这些麻烦)
+
+  ```yml
+  version: "3.1"
+  services:
+  # redis 无密码
+    redis:
+      image: redis:latest
+      restart: always
+      container_name: "redis-app"
+      command: redis-server /usr/local/etc/redis/redis.conf
+      ports:
+      - 6379:6379
+      volumes:
+      - ./redis.conf:/usr/local/etc/redis/redis.conf
+      - /data/redis:/data
+  # mongo root-2333
+    mongo:
+      image: mongo:latest
+      restart: always
+      container_name: "mongo-app"
+      environment:
+        MONGO_INITDB_ROOT_USERNAME: root
+        MONGO_INITDB_ROOT_PASSWORD: 2333
+      ports:
+      - 27017:27017
+      volumes:
+      - /data/mongo:/etc/mongo
+  # mariadb root-2333
+    mariadb:
+      image: mariadb:latest
+      restart: always
+      container_name: "mariadb-app"
+      ports:
+        # 端口映射
+        - 3306:3306
+      volumes:
+        # 容器与宿主机时间同步
+        - /etc/localtime:/etc/localtime
+        # 数据库目录映射
+        - ./config/mariadb:/var/lib/mysql
+        # （推荐）如果要使用自定义的MySQL配置，则可以在主机上的目录中创建备用配置文件，然后将该目录位置/etc/mysql/conf.d安装在mariadb容器内。自己所需的配置文件可以放在自己服务器./config/data/mariadb-config里面
+        - ./config/mariadb-config:/etc/mysql/conf.d
+      environment:
+        TIME_ZONE: Asia/Shanghai
+        MYSQL_ROOT_PASSWORD: 2333
+  ```
+
+- 进此配置目录执行 `docker-compose up`

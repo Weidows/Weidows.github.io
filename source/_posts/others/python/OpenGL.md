@@ -6,6 +6,7 @@ categories:
 tags:
   - Python
   - OpenGL
+  - C
 katex: false
 comments: true
 aside: true
@@ -18,16 +19,21 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-24 08:55:24
+ * @LastEditTime: 2021-09-28 08:59:49
  * @FilePath: \Blog-private\source\_posts\others\python\OpenGL.md
  * @Description:
  * @!: *********************************************************************
 -->
 
 - [简介](#简介)
-- [配置环境](#配置环境)
+- [Python](#python)
   - [报错](#报错)
   - [测试](#测试)
+- [C](#c)
+  - [下载-引入库](#下载-引入库)
+  - [改配置](#改配置)
+  - [注意点](#注意点)
+  - [测试](#测试-1)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -37,9 +43,13 @@ top_img:
 
   老师给的是 VS + OpenGL + C/C++ 的方式
 
-  我...做 Java 的,没怎么接触过 VS,也没装; C/C++功底也不强
+  我...一向写 Java 的,没怎么接触过 VS,也没装; C/C++功底也不强
 
-  转 `VScode + Python + pyopengl 库` 这条路,好装好写好调试.
+- 转路
+
+  1. `VScode + Python + pyopengl 库`
+
+  2. `Vscode + mingw64 + glut 库`
 
   ***
 
@@ -47,9 +57,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 配置环境
+## Python
 
-- 先装 vscode 和 Python/anaconda,这俩没问题
+- 先装 vscode 和 Python / anaconda,这俩没问题
 
 - 通过 pip (conda 不行) 安装 `pyopengl` 库
 
@@ -79,7 +89,7 @@ pip install PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl
 
 ### 测试
 
-画个静态茶壶
+画个静态茶壶, 就是文章封面图
 
 ```python
 from OpenGL.GL import *
@@ -101,4 +111,145 @@ glutInitWindowSize(400, 400)
 glutCreateWindow(b"Teapot")
 glutDisplayFunc(drawFunc)
 glutMainLoop()
+```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## C
+
+如果你喜欢 VScode 调试 C/C++,而不想装体型庞大的 Visual Studio
+
+如果你想通过简单的配置就让 VScode 能调试 OpenGL
+
+恭喜,马上就好!
+
+---
+
+### 下载-引入库
+
+> 下载压缩包: [OpenGL-library](https://github.com/Weidows-projects/Programming-Configuration/releases/tag/1.0.0) \
+> 在 Vscode 里调试的话,用的是 `glut.64.zip` ,另一个 32.zip 是给 Visual Studio 用的 \
+> 把压缩包里的文件,严格按照目录名复制到你的编译器里 (MinGW64 / Clang / gcc 里面都会有对应目录) \
+> 参照: [Win10 + VSCode + GLUT 配置](http://t.zoukankan.com/cralor-p-14015063.html)
+
+---
+
+### 改配置
+
+- 在编译时需要加上 `-l glut32 -l glu32 -l opengl32` 这一段才行, 需要做两个修改
+
+- .vscode/tasks.json
+
+  ```json
+  {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        //这是我的g++环境配置
+        "type": "shell",
+        "label": "C/C++: gcc.exe build active file",
+        "command": "g++", //就是在shell里输入的gcc
+        "args": [
+          "-g",
+          "${file}",
+          "-o",
+          "${fileDirname}\\${fileBasenameNoExtension}.exe",
+          "-l",
+          "glut32",
+          "-l",
+          "glu32",
+          "-l",
+          "opengl32"
+        ],
+        "problemMatcher": ["$gcc"],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      } //gcc配置到这里结束
+    ]
+  }
+  ```
+
+- .vscode/tasks.json
+
+  ```json
+  {
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+      "stdlib.h": "c",
+      "stdio.h": "c",
+      "string.h": "c",
+      "math.h": "c",
+      "glut.h": "c",
+      "windows.h": "c"
+    },
+    "code-runner.executorMap": {
+      "c": "chcp 65001 && gcc *.c -o $fileNameWithoutExt -l glut32 -l glu32 -l opengl32 && ./$fileNameWithoutExt",
+      "cpp": "chcp 65001 && g++ *.cpp -o $fileNameWithoutExt -l glut32 -l glu32 -l opengl32 && ./$fileNameWithoutExt",
+      "pde": "processing-java --force --sketch=$dir --output=$dir/out --run"
+    }
+  }
+  ```
+
+> 完整链接: https://github.com/Weidows-projects/Programming-Configuration/tree/master/others/.vscode
+
+---
+
+### 注意点
+
+有点小遗憾,VScode 的调试器并不能很好的兼容中文,意思就是如果 C/Cpp `文件路径/文件名有中文` 的话 debug 会报错
+
+不过通过 Code Runner 直接运行的话就算有中文也没问题
+
+---
+
+### 测试
+
+```c
+#include <GL/glut.h>
+#include <stdlib.h>
+void Initial(void)
+{
+  glMatrixMode(GL_PROJECTION); //设置投影参数，表示下面进行投影变换。若改GL_PROJECTION为GL_MODEVIEW则进行视图变换。
+  glLoadIdentity();            //通常我们在需要进行投影变换时要把当前矩形设置为单位矩阵，即glLoadIdentity()
+  gluOrtho2D(0.0, 200.0, 0.0, 200.0);
+}
+
+void Display(void)
+{
+  glClear(GL_COLOR_BUFFER_BIT);
+  glPushMatrix(); //操作矩阵堆栈,调用函数，相当于把矩阵放到堆栈上
+  glColor3f(1.0f, 1.0f, 1.0f);
+  glTranslated(100, 100, 0);
+  glTranslated(70, 0, 0);
+  glRotated(-90, 0, 0, 1);
+  glScaled(0.25, 0.25, 0.0);
+  glTranslated(-100, -100, 0);
+  glBegin(GL_POLYGON);
+  glVertex2f(50, 50);
+  glVertex2f(150, 50);
+  glVertex2f(100, 150);
+  glEnd();
+  glPopMatrix();
+
+  glBegin(GL_POLYGON); //opengl要求指定顶点的位置必须在glBegin()后面，同时在glEnd()后面。
+  glVertex2f(50, 50);
+  glVertex2f(150, 50);
+  glVertex2f(100, 150);
+  glEnd();
+  glFlush();
+}
+
+int main(int argc, char **argv)
+{
+  glutInit(&argc, argv);
+  glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB); //使用单缓存模式，如果GLUT_DOUBLE则为双缓存模式
+  glutInitWindowSize(600, 600);                //设置窗口大小
+  glutInitWindowPosition(100, 100);            //设置窗口位置
+  glutCreateWindow("Triangle");
+  glutDisplayFunc(Display);
+  Initial();
+  glutMainLoop();
+}
 ```
