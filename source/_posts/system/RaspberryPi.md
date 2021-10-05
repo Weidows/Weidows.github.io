@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-26 10:23:17
+ * @LastEditTime: 2021-10-02 18:53:46
  * @FilePath: \Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
@@ -262,6 +262,10 @@ sudo pip3 install rpi_ws281x
 ```
 sudo python3 ./strandtest.py
 ```
+
+- 在公司第一次跑起来的样子
+
+  <img src="https://i.loli.net/2021/10/02/NEHvdbItiS5XPsp.jpg" alt="1632587136736" />
 
 ---
 

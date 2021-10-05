@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-30 12:09:46
+ * @LastEditTime: 2021-10-05 09:34:57
  * @FilePath: \Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
@@ -35,7 +35,7 @@ top_img:
     - [Manjaro](#manjaro)
   - [设置代理](#设置代理)
 - [docker 管理](#docker-管理)
-  - [VScode+docker](#vscodedocker)
+  - [VScode-docker](#vscode-docker)
   - [Portainer](#portainer)
 - [常用命令](#常用命令)
   - [docker 自启](#docker-自启)
@@ -53,9 +53,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jhuS34tCPsd8qzO.png" alt="20210131002505" />
 
-- 找到 docker 家族有几个特殊的工具`docker-Dockerfile`,`docker-compose`,`docker-machine`
-
-  - 这几个工具不需要单另安装,docker 内部自带.
+- 找到 docker 家族有几个特殊的工具`docker-Dockerfile`, `docker-compose`, `docker-machine`
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ylYzZV2vthOpcsW.png" alt="20210131004332" />
 
@@ -63,27 +61,23 @@ top_img:
 
 ### docker-Dockerfile
 
-> [Docker Dockerfile](https://www.runoob.com/docker/docker-dockerfile.html)
-
+> [Docker Dockerfile](https://www.runoob.com/docker/docker-dockerfile.html) \
 > Dockerfile 是一个用来构建镜像的文本文件，文本内容包含了一条条构建镜像所需的指令和说明。
 
 ---
 
 ### docker-compose
 
-> [docker 与 docker-compose 区别](https://blog.csdn.net/weixin_43165750/article/details/106108234)
-
+> [docker 与 docker-compose 区别](https://blog.csdn.net/weixin_43165750/article/details/106108234) \
 > docker 是一个容器，你如果要是安装服务也是要单独一个一个的安装，如果你使用了 docker-compose 的话 就可以使用一个 docker-compose.yml 脚本一键安装
-
-- 说来其是管理同一个 docker 下多个服务的.
+> 说来其是管理同一个 docker 下多个服务的.
 
 ---
 
 ### docker-machine
 
-> [Docker 三剑客之 docker-machine](https://zhuanlan.zhihu.com/p/93459073)
-
-- 这个是用来管理多个 docker 的.
+> [Docker 三剑客之 docker-machine](https://zhuanlan.zhihu.com/p/93459073) \
+> 这个是用来管理多个 docker 的.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -310,7 +304,7 @@ top_img:
 
 ## docker 管理
 
-### VScode+docker
+### VScode-docker
 
 - 在 Manjaro 虚拟机中启动 docker 服务,然后用 vscode-ssh 连接 manjaro
 
@@ -394,7 +388,7 @@ docker update --restart=no <CONTAINER ID>
 
 ## 命令行执行
 
-- 有些文档为了观看性写成如下格式,无法直接执行,需要弄成一行.
+- 有些文档为了观看性写成如下格式,有的终端无法直接执行,需要弄成一行.
 
   - 前
 
@@ -428,18 +422,18 @@ docker update --restart=no <CONTAINER ID>
   ```yml
   version: "3.1"
   services:
-  # redis 无密码
+    # redis 无密码
     redis:
       image: redis:latest
       restart: always
       container_name: "redis-app"
       command: redis-server /usr/local/etc/redis/redis.conf
       ports:
-      - 6379:6379
+        - 6379:6379
       volumes:
-      - ./redis.conf:/usr/local/etc/redis/redis.conf
-      - /data/redis:/data
-  # mongo root-2333
+        - ./redis.conf:/usr/local/etc/redis/redis.conf
+        - /data/redis:/data
+    # mongo root-2333
     mongo:
       image: mongo:latest
       restart: always
@@ -448,10 +442,10 @@ docker update --restart=no <CONTAINER ID>
         MONGO_INITDB_ROOT_USERNAME: root
         MONGO_INITDB_ROOT_PASSWORD: 2333
       ports:
-      - 27017:27017
+        - 27017:27017
       volumes:
-      - /data/mongo:/etc/mongo
-  # mariadb root-2333
+        - /data/mongo:/etc/mongo
+    # mariadb root-2333
     mariadb:
       image: mariadb:latest
       restart: always

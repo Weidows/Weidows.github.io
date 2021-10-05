@@ -678,7 +678,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: "May all the beauty to be bless.✨"
+  sub: "May all the beauty be bless.✨"
 
 # Loading Animation (加載動畫)
 preloader: true

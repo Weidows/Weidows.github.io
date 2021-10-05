@@ -1,7 +1,7 @@
 ---
 title: 🥵OpenGL-蚌埠之路
 categories:
-  - others
+  - experience
   - python
 tags:
   - Python
@@ -19,8 +19,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-28 08:59:49
- * @FilePath: \Blog-private\source\_posts\others\python\OpenGL.md
+ * @LastEditTime: 2021-10-02 18:58:12
+ * @FilePath: \Blog-private\source\_posts\experience\python\OpenGL.md
  * @Description:
  * @!: *********************************************************************
 -->

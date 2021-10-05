@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-22 17:55:51
+ * @LastEditTime: 2021-10-04 21:01:04
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -192,6 +192,10 @@ top_img:
 - tutorial
 
   n. （大学导师）个别指导时间，辅导课；辅导材料，使用说明书；软件教程
+
+- enhance
+
+  v. 增强，提高，改善
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

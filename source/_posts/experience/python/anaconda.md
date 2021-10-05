@@ -1,7 +1,8 @@
 ---
 title: 👍Anaconda-Python-水漂浅探池深浅.
 categories:
-  - tools
+  - experience
+  - python
 tags:
   - Anaconda
   - Python
@@ -14,8 +15,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-01 10:33:33
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\anaconda.md
+ * @LastEditTime: 2021-10-02 19:01:44
+ * @FilePath: \Blog-private\source\_posts\experience\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -57,6 +58,14 @@ top_img:
   - 下载->安装->配置环境变量->改变运行环境, 在 scoop 中一步就可以完成,很方便 (官方的库中没有这个软件,需要添加其他库,`dorado`)
 
   - 这样安装避免了很多麻烦和错误,非常推荐!
+
+  ***
+
+- 小毛病
+
+  anaconda 会把 scoop 里的环境识别为两个 (但实际上就一个)
+
+  <img src="https://i.loli.net/2021/10/02/X7dTaEoHmbr6W29.png" alt="20211002190135" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

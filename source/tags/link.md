@@ -9,7 +9,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your
  * @Author: Weidows
  * @Date: 2020-08-22 20:18:14
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-29 15:26:56
+ * @LastEditTime: 2021-10-05 10:16:51
  * @FilePath: \Blog-private\source\tags\link.md
 -->
 
@@ -29,7 +29,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your
 - name: ⭐️齐下无贰⭐️
   link: https://weidows.gitee.io
   avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
-  descr: May all the beauty to be bless.✨
+  descr: May all the beauty be bless.✨
 ```
 
 {% endnote %}

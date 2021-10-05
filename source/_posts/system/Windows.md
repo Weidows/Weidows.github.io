@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-05 18:26:07
+ * @LastEditTime: 2021-10-03 22:57:21
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -186,9 +186,25 @@ top_img:
 
 ## 颜色配置
 
-  <img src="https://i.loli.net/2021/05/20/7gNxJSafiq5X81w.png" alt="20210520164845" />
+LSP mode : on
 
-  <img src="https://i.loli.net/2021/05/20/a7ZbKmyWYJcxIOG.png" alt="20210520164128" />
+改进多次的色板 (HDR:OFF，开了的话色彩很怪
+
+离人类默认视角越来越远了。。
+
+- <details>
+
+    <summary> 前后对比一下 </summary>
+
+  ***
+
+  <img src="https://i.loli.net/2021/10/03/BqtgHf8aNvOolLx.jpg" alt="1633272756273" />
+  <img src="https://i.loli.net/2021/10/03/iPN5wTS9bLX8vAl.jpg" alt="1633272761799" />
+  </details>
+
+- 面板
+
+  <img src="https://i.loli.net/2021/10/03/xvO7Uia6nql81Z2.jpg" alt="1633272772176" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

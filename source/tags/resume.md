@@ -8,7 +8,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-12 20:57:13
+ * @LastEditTime: 2021-09-30 20:42:08
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
@@ -35,9 +35,17 @@ top_img:
 - **学年**：`23届` （2019~23）
 <!-- - **外语能力**： -->
 
-#### **比赛经历**
+#### 竞赛经历
 
 - `2020.9`：大二上参与 CCPC 与 HBCPC 程序设计大赛并获得铜牌。
+
+## 实习经历
+
+- 北京用友畅捷通 2021.7 - 2021.9
+
+  - 主要负责开发/维护企业内部管理系统 (SpringBoot+Vue), 对接 Jira/Gitlab/Jenkins 等平台 API 和操作多类数据库.
+
+  - 接手过大数据平台 DataWorks-Python 的项目试探工作.
 
 ## 专业技能
 
@@ -49,11 +57,7 @@ top_img:
 |  **工具**  | 精通 `VScode、IDEA` 进行程序开发测试，熟练使用 VisualStudio、Eclipse、DBeaver、Anaconda、DevEco 等工具; 熟悉 `Python` 充当工具                                            |
 |  **Git**   | 精通 `GitHub/Gitee/Gitlab` 进行流程/分支管理、参与多个组织社区和数十个仓库开源工作。                                                                                      |
 
-<!-- ## 实习经历
-
-- 暂无 -->
-
-## 优势
+<!-- ## 优势
 
 1. 面临复杂问题,熟练通过 CSDN、、GitHub、Google、Stack Overflow 等平台寻找解决方案。
 
@@ -61,7 +65,7 @@ top_img:
 
 3. 良好的注释习惯和编程规范，不会写出常见的 Bug。
 
-4. 强大的自驱学习能力，基础经验扎实，各领域上手迅速。
+4. 强大的自驱学习能力，基础经验扎实，各领域上手迅速。 -->
 
 ## 开发图表
 
