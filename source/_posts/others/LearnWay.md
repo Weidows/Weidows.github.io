@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-20 17:51:10
+ * @LastEditTime: 2021-10-06 18:26:27
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -102,6 +102,7 @@ top_img:
   - [计算机网络](#计算机网络)
   - [算法](#算法)
     - [P/NP 问题](#pnp-问题)
+    - [Hash-算法](#hash-算法)
   - [论文](#论文)
 - [面试](#面试)
 
@@ -629,6 +630,20 @@ top_img:
 > 2. [算法复杂度与 NP 问题](https://www.omegaxyz.com/2019/04/22/np/?hilite=%27filled%27,%27o.e.m%27)
 > 3. [贪婪算法案例、np 完全问题及 java 代码实现](http://www.cainiaoxueyuan.com/suanfa/4517.html) \
 >    非常经典和值得探索的问题 (经验接收自`@河北工业大学`)
+
+---
+
+#### Hash-算法
+
+- 用来校验文本/文件,主流有三类,不同算法产生的 hash code 不同
+
+  MD5
+
+  CRC-32, CRC-64
+
+  SHA-1, SHA-256, SHA-384, SHA-512
+
+> 校验方法: [文件完整性校验](https://blog.csdn.net/weixin_30799995/article/details/94896898)
 
 ---
 
