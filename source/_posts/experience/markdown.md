@@ -1,5 +1,5 @@
 ---
-title: Markdown中一些新奇写法.
+title: Markdown 中一些新奇写法.
 date: 2020-11-30 00:09:37
 categories:
   - experience
@@ -13,7 +13,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-08 19:31:33
+ * @LastEditTime: 2021-10-09 17:21:32
  * @FilePath: \Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
@@ -25,6 +25,7 @@ top_img:
   - [对话](#对话)
   - [引用+条目](#引用条目)
   - [多行引用](#多行引用)
+  - [巨号字体](#巨号字体)
 - [文字样式](#文字样式)
   - [`*斜体*` 或 `_斜体_`](#斜体-或-_斜体_)
   - [`**粗体**`](#粗体)
@@ -166,6 +167,26 @@ top_img:
   > asdfghjkl \
   > zxcvbnm
 
+---
+
+### 巨号字体
+
+- 上面的是巨号,下面的是一号标题,怎样,够大吧?
+
+  <img src="https://i.loli.net/2021/10/09/CFqJIgubvXhxtrA.png" alt="20211009171608" />
+
+- 写法: `h1 标签 + 列表 + 一级标题`
+
+  ```markdown
+  <h1 align="center">
+
+  - # 🌈Keeper
+
+  基于 [`GitHub-Action`](./.github/workflows/daily.yml) 的定时任务集合.
+
+  </h1>
+  ```
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 文字样式
@@ -242,4 +263,4 @@ top_img:
 
 1. markdown 文件写的超过 1K 行后,每次格式化和页面加载的性能损耗是恐怖的,所以尽量控制 markdown 行数别太多
 
-2. 不同平台对 markdown 渲染不同,有可能会产生格式不对称问题.
+2. 不同平台对 markdown 渲染不同,有可能会产生格式不对称问题. (例如 GitHub 与 Gitee 的 README 渲染就不一样)

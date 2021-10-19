@@ -29,7 +29,7 @@
     "hexo-renderer-pug": "^2.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
-    "hexo-steam-games": "^1.2.0",
+    "hexo-steam-games": "^1.2.1",
     "hexo-submit-urls-to-search-engine": "^2.1.0",
     "hexo-wordcount": "^6.0.1",
     "live2d-widget-model-tororo": "^1.0.5"

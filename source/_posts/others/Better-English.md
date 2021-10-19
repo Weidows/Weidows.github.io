@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-04 21:01:04
+ * @LastEditTime: 2021-10-07 21:42:36
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -104,8 +104,6 @@ top_img:
     n. 网格；格子，栅格；输电网
 
   - router
-
-
 
 ---
 
@@ -196,6 +194,10 @@ top_img:
 - enhance
 
   v. 增强，提高，改善
+
+- extraction
+
+  n. 取出，提炼；血统
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

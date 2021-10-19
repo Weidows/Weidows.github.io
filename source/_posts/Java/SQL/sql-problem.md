@@ -1,10 +1,13 @@
 ---
-title: 🚚SQL：我跌跌撞撞的奔向你~
+title: 🚚开发之旅~
 categories:
   - Java
   - SQL
 tags:
   - SQL
+  - 前端
+  - JSON
+  - Docker
 katex: false
 comments: true
 aside: true
@@ -17,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-30 18:30:21
+ * @LastEditTime: 2021-10-15 13:07:26
  * @FilePath: \Blog-private\source\_posts\Java\SQL\sql-problem.md
  * @Description:
  * @!: *********************************************************************
@@ -30,12 +33,15 @@ top_img:
 - [Mariadb 无法远程连接](#mariadb-无法远程连接)
 - [数据源连接不上](#数据源连接不上)
 - [docker-databases](#docker-databases)
+- [接口数据速览](#接口数据速览)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 简介
 
 一顿课程下来,SQL 语法是熟悉了,但是做到业务层面,不圆滑之处暴露出来惹.
+
+不只是 SQL,包括工作中常用的技巧.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -174,3 +180,21 @@ top_img:
 用 docker 跑数据库真的是太 Jier 好使了!
 
 > 在另一篇文章: [🌈 初探 Docker.](../../system/../docker#多数据库管理)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 接口数据速览
+
+- 前端接到 JSON 数据总是需要看一下,通过 postman 那种不是很便捷
+
+  于是之前我一直是找到响应->复制->粘贴到 vscode 格式化
+
+  <img src="https://i.loli.net/2021/10/15/n8bTu926i3eXmfh.png" alt="20211015130205" />
+
+- 偶然发现有个更方便的手段: 浏览器`前端助手插件`
+
+  安装后直接双击请求,跳出的新页面就是已经格式化好的
+
+  <img src="https://i.loli.net/2021/10/15/axDBtA1YhiFylob.png" alt="20211015130109" />
+
+  <img src="https://i.loli.net/2021/10/15/Zb92EoeCIJ37zLg.png" alt="20211015130815" />

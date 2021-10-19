@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-06 18:26:27
+ * @LastEditTime: 2021-10-19 23:10:07
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -103,6 +103,7 @@ top_img:
   - [算法](#算法)
     - [P/NP 问题](#pnp-问题)
     - [Hash-算法](#hash-算法)
+    - [排序算法](#排序算法)
   - [论文](#论文)
 - [面试](#面试)
 
@@ -644,6 +645,12 @@ top_img:
   SHA-1, SHA-256, SHA-384, SHA-512
 
 > 校验方法: [文件完整性校验](https://blog.csdn.net/weixin_30799995/article/details/94896898)
+
+---
+
+#### 排序算法
+
+> [上厕所的功夫，学会了快速排序算法](https://mp.weixin.qq.com/s?__biz=Mzg3MzU2Njk3MA==&mid=2247492793&idx=1&sn=79ab61671459c3a2d627d5a3e1eb7ec0&chksm=cedca32cf9ab2a3aabf3b02d26c991ca4f56a49078a28ad97433c6645d003b559de4e98e706d&mpshare=1&scene=23&srcid=1019M2F6aYi9B8WEFHtfu4sr&sharer_sharetime=1634632120052&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
 ---
 

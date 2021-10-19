@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-03 22:57:21
+ * @LastEditTime: 2021-10-12 10:24:34
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -38,6 +38,7 @@ top_img:
 - [各种路径](#各种路径)
 - [颜色配置](#颜色配置)
 - [虚拟机代理不通](#虚拟机代理不通)
+- [数据迁移](#数据迁移)
 
 ## 窗口逸出
 
@@ -219,3 +220,23 @@ LSP mode : on
   <img src="https://i.loli.net/2021/08/05/ml7LUWTfPMzaEhA.png" alt="20210805182546" />
 
 - 坑了好久啊!!!
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 数据迁移
+
+- 想把电脑里的歌复制进手机里,拿数据线连上了之后复制
+
+  总是会卡死在某个进度,还得重新开始
+
+  <img src="https://i.loli.net/2021/10/12/S9AokmK7MsqTIxw.png" alt="20211012102328" />
+
+  一番查找发现是因为歌名有的含有特殊字符
+
+  在`跨设备迁移`或者`压缩(Win自带)`时文件名无法被正常解析
+
+  ***
+
+- 这样的话可以试试换个压缩软件 (7z)
+
+  在电脑上压缩后复制到手机,然后手机解压就可以获取到这种怪名文件了.

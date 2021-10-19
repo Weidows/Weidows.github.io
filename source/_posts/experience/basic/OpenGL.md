@@ -1,12 +1,13 @@
 ---
-title: 🥵OpenGL-蚌埠之路
+title: 🥵OpenGL-conan-蚌埠之路
 categories:
   - experience
-  - python
+  - basic
 tags:
   - Python
   - OpenGL
   - C
+  - conan
 katex: false
 comments: true
 aside: true
@@ -19,8 +20,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-02 18:58:12
- * @FilePath: \Blog-private\source\_posts\experience\python\OpenGL.md
+ * @LastEditTime: 2021-10-17 19:53:35
+ * @FilePath: \Blog-private\source\_posts\experience\basic\OpenGL.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -34,6 +35,7 @@ top_img:
   - [改配置](#改配置)
   - [注意点](#注意点)
   - [测试](#测试-1)
+- [依赖管理](#依赖管理)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -253,3 +255,21 @@ int main(int argc, char **argv)
   glutMainLoop();
 }
 ```
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 依赖管理
+
+- 起因
+
+  搞到的 C/C++代码头文件总是会缺少某些库 (比如 glux,glaux 这种)
+
+  硬从网上找 binary 复制进编译器格外的不优雅,而且需要的库一旦多起来十分繁琐
+
+  ***
+
+- 于是,找了一下 C/C++的依赖管理工具:
+
+  比较流行的是 vcpkg / conan
+
+  [vspkg 安装必须需要 visualstudio](https://github.com/microsoft/vcpkg/blob/master/README_zh_CN.md#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-windows),劝退我了
