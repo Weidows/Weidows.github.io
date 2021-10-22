@@ -863,7 +863,7 @@ pangu:
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
   enable: true
-  field: post # site/post
+  field: site # site/post
   placeholder: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp"
   blur: false
 

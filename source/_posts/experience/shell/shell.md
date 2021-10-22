@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-09 17:53:02
+ * @LastEditTime: 2021-10-20 09:43:45
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -39,19 +39,23 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ## 通用
 
-|     指令     |             作用             |
-| :----------: | :--------------------------: |
-|     `cd`     |         打开指定目录         |
-|    `cd..`    |           上层目录           |
-|  `Ctrl + L`  |             清屏             |
-|    `exit`    |             退出             |
-|    `ping`    |       测试网络通断状态       |
-|  `Ctrl + C`  |         停止当前任务         |
-|   `mkdir`    |          新建文件夹          |
-|  `cp/mv/rm`  |     文件复制、移动与删除     |
-| `curl + URL` | 访问 URL(可加参数,具体百度)  |
-|    `pwd`     |        显示当前全路径        |
-|    `cat`     | (按参数格式)输出文件所有内容 |
+|                   指令                   |                 作用                 |
+| :--------------------------------------: | :----------------------------------: |
+| `cd path` // `cd ..` // `cd /` // `cd ~` | 进入 指定 // 上层 // 根 // home 目录 |
+|                `Ctrl + L`                |                 清屏                 |
+|                  `exit`                  |                 退出                 |
+|                  `ping`                  |           测试网络通断状态           |
+|                `Ctrl + C`                |             停止当前任务             |
+|                  `exit`                  |            停止任务或终端            |
+|                 `mkdir`                  |              新建文件夹              |
+|            `cp(xcopy)/mv/rm`             |       文件(夹)复制、移动与删除       |
+|               `curl + URL`               |     访问 URL(可加参数,具体百度)      |
+|                  `pwd`                   |            显示当前全路径            |
+|                 `dir/ls`                 |        列出当前目录(样式不同)        |
+|                  `cat`                   |     (按参数格式)输出文件所有内容     |
+|                 `clear`                  |                 清屏                 |
+|                  `echo`                  |         回显,常用作文本输出          |
+|       `shutdown -h now` / `reboot`       |             关机 / 重启              |
 
 ---
 
@@ -69,6 +73,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 |       指令        |                                    作用                                     |
 | :---------------: | :-------------------------------------------------------------------------: |
+|   `ls > ls.txt`   |                         把 ls 输出内容输出到 ls.txt                         |
 |   `>/dev/null`    | 把标准输出重定向到黑洞,相当于(1>/dev/null) 标准输入 0,标准输出 1,标准错误 2 |
 | `>/dev/null 2>&1` |               把标准错误重定向到标准输出,也就是这俩都进了黑洞               |
 | `2>&1 >/dev/null` |               把标准错误重定向到标准输出(屏幕),标准输出进黑洞               |
@@ -115,23 +120,19 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ## CMD/PowerShell
 
-> [批处理定义子程序](https://www.hxstrive.com/article/804.htm)
-
+> [批处理定义子程序](https://www.hxstrive.com/article/804.htm)\
 > [批处理命令之 Start 的详细用法](https://www.cnblogs.com/qlqwjy/p/8445993.html)
 
-|              指令              |       作用       |
-| :----------------------------: | :--------------: |
-|             `dir`              |     列出目录     |
-|              `md`              |     创建目录     |
-|              `rd`              |     删除目录     |
-|             `cd/`              |    返回根目录    |
-|             `del`              |     删除文件     |
-|          `cls/clear`           |       清屏       |
-|           `ipconfig`           |   查看网络配置   |
-|          `copy/xcopy`          |    复制/剪切     |
-|         `start + exe`          |   打开应用程序   |
-| `start/explore + URL/HTML文件` | 用默认浏览器打开 |
-|      `microsoft-edge:URL`      | 用 edge 打开 URL |
+|              指令              |       作用        |
+| :----------------------------: | :---------------: |
+|              `md`              | 创建目录,同 mkdir |
+|              `rd`              |  删除目录,同 rm   |
+|             `del`              |     删除文件      |
+|             `cls`              |   清屏,同 clear   |
+|           `ipconfig`           |   查看网络配置    |
+|         `start + exe`          |   打开应用程序    |
+| `start/explore + URL/HTML文件` | 用默认浏览器打开  |
+|      `microsoft-edge:URL`      | 用 edge 打开 URL  |
 
 - 注意 cmd 不支持`/`作为路径,PowerShell 支持
 
@@ -141,7 +142,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 |                    指令                     |                             作用                              |
 | :-----------------------------------------: | :-----------------------------------------------------------: |
-|                   `ls/ll`                   |                    列出当前目录的所有东西                     |
 |                  `su root`                  |               获取最高权限(需要输入 root 密码)                |
 |                 `ifconfig`                  |                         查看网络配置                          |
 |                 `dhclient`                  |                       DHCP 重新配置 IP                        |
@@ -150,10 +150,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 |              `nohup xxx.sh &`               | 不挂起执行 xxx (退出终端不影响程序运行),需要 ps/kill 杀死进程 |
 |           `tail -n 20 README.md`            |           输出 READMD 最后 20 行内容(默认是 10 行)            |
 | `systemctl start/enable/status xxx.service` |                  xxx 服务-开启/开机启动/状态                  |
+|                `touch a.txt`                |                        创建 a.txt 文件                        |
 
-> [Linux nohup 命令](https://www.runoob.com/linux/linux-comm-nohup.html)
-
-> [Linux tail 命令](https://www.runoob.com/linux/linux-comm-tail.html)
+> [Linux nohup 命令](https://www.runoob.com/linux/linux-comm-nohup.html) \
+> [Linux tail 命令](https://www.runoob.com/linux/linux-comm-tail.html) \
+> [基于 VSCode 和 CMake 进行 C/C++开发「第一讲」linux 系统介绍](https://mp.weixin.qq.com/s?__biz=MzIwMjU3NDI5Ng==&mid=2247483948&idx=1&sn=6eed2f766b1a815c9bcca38cf9ccd3c2&chksm=96ddd29ba1aa5b8d240d2c7cf9902b24f48ab36b196b86f7ea6d0b987c4538108276e6e273e6&mpshare=1&scene=23&srcid=1020CNuclmVRrL4LTW9lyHwq&sharer_sharetime=1634691119252&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
 ---
 
@@ -165,10 +166,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 |          `kill -9 pid`          |                   杀死进程                    |
 | `lsof -i:8080 / -i@12:34:56:78` | Linux 中一切皆文件,此命令可以显示指定文件信息 |
 
-> [ps -ef 和 ps -aux 和 ps aux](https://blog.csdn.net/weixin_38756990/article/details/72638084)
-
-> [Linux kill 命令](https://www.runoob.com/linux/linux-comm-kill.html)
-
+> [ps -ef 和 ps -aux 和 ps aux](https://blog.csdn.net/weixin_38756990/article/details/72638084)\
+> [Linux kill 命令](https://www.runoob.com/linux/linux-comm-kill.html)\
 > [Linux 命令神器：lsof](https://www.jianshu.com/p/a3aa6b01b2e1)
 
 ---
@@ -216,8 +215,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ## 扩展程序
 
-> [5 款超级好用的命令行工具，提升你的开发效率！](https://zhuanlan.zhihu.com/p/176277245)
-
+> [5 款超级好用的命令行工具，提升你的开发效率！](https://zhuanlan.zhihu.com/p/176277245)\
 > [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247500080&idx=2&sn=64d4a8f3e4013ba7a77f25502cf945dd&chksm=97c65c9ea0b1d58881e761a4bd69fa1136b87102e94d301685a085f2c6b09670dac5f5781e6a&mpshare=1&scene=23&srcid=07058VtSWw1T2LusxMXcZtRs&sharer_sharetime=1625473567691&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
 ### fzf
@@ -237,7 +235,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ### tldr
 
-- 命令帮助文档,优化版的 man
+命令帮助文档,优化版的 man,有个类似的工具 `cheat.sh`,一番角逐之下我还是用的 tldr
 
 |   指令    |
 | :-------: |
