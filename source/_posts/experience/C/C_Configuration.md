@@ -1,5 +1,5 @@
 ---
-title: 一篇文章帮你装好C/C++和VScode环境
+title: 👌茅塞顿开之C/C++-VScode-xmake
 date: 2020-10-3 22:46:17
 categories:
   - experience
@@ -7,6 +7,7 @@ categories:
 tags:
   - C
   - VScode
+  - Cmake
   - 备忘录
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fsj7FMhOw2WpigX.jpg
 top_img:
@@ -15,43 +16,52 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-27 16:43:24
+ * @LastEditTime: 2021-10-28 15:34:00
  * @FilePath: \Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 
-- [编译器](#编译器)
-- [配置语言环境](#配置语言环境)
-- [VScode 内插件配置](#vscode-内插件配置)
-- [VScode 工作区配置](#vscode-工作区配置)
-  - [launch.json](#launchjson)
-  - [task.json](#taskjson)
-  - [源码 Github 链接](#源码-github-链接)
-- [`重头戏!`--解决乱码问题](#重头戏--解决乱码问题)
-  - [解决方案:](#解决方案)
-- [另外一个问题--多文件编译](#另外一个问题--多文件编译)
+- [编译器介绍](#编译器介绍)
+- [环境安装](#环境安装)
+- [多种运行方式](#多种运行方式)
+  - [所用代码](#所用代码)
+  - [方法一](#方法一)
+  - [方法二](#方法二)
+  - [方法三](#方法三)
+  - [方法四](#方法四)
+- [参考-推荐](#参考-推荐)
+  - [C/C++开发模板](#cc开发模板)
 
-## 编译器
+## 编译器介绍
 
-C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思路.
+C/C++编译器好多种(因为编译依赖平台),而且名字起得特别扭,列几个常见的理理思路.
 
-- `gcc` (The GNU Compiler Collection)
+> 有一定基础的话可以根据此网页了解,并且推荐下此编译器集合: [WinLibs standalone build of GCC and MinGW-w64 for Windows](https://winlibs.com/)
 
-  - `MinGW`
-  - `MinGW-w64` (常叫做 `MinGW64`)
+- gcc + MinGW-w64
 
-  ```
-  MinGW-w64是一套可自由使用和自由发布的Windows特定头文件和使用GNU工具集导入库的集合，它支持GCC编译器在Windows系统上创建的。它有分叉的。2007年，为了支持64位和新的api，此后被广泛使用和分布。
+  - `gcc`(GNU Compiler Collection),多种语言(C/C++,Object-c,Fortran,D)的编译器
 
-  MinGW 的全称是：Minimalist GNU on Windows 。它实际上是将经典的开源 C语言 编译器 GCC 移植到了 Windows 平台下，并且包含了 Win32API ，因此可以将源代码编译为可在 Windows 中运行的可执行程序。而且还可以使用一些 Windows 不具备的，Linux平台下的开发工具。一句话来概括：MinGW 就是 GCC 的 Windows 版本
+  - gdb(GNU Project debugger),调试器
 
-  以上是 MinGW 的介绍，MinGW-w64 与 MinGW 的区别在于 MinGW 只能编译生成32位可执行程序，而 MinGW-w64 则可以编译生成 64位 或 32位 可执行程序。
+  - MinGW , `MinGW-w64` (常叫做 `MinGW64`),win 平台的 C 库
 
-  正因为如此，MinGW 现已被 MinGW-w64 所取代，且 MinGW 也早已停止了更新
-  ```
+    ```
+    MinGW-w64是一套可自由使用和自由发布的Windows特定头文件和使用GNU工具集导入库的集合，它支持GCC编译器在Windows系统上创建的。它有分叉的。2007年，为了支持64位和新的api，此后被广泛使用和分布。
 
-- `llvm`
+    MinGW 的全称是：Minimalist GNU on Windows 。它实际上是将经典的开源 C语言 编译器 GCC 移植到了 Windows 平台下，并且包含了 Win32API ，因此可以将源代码编译为可在 Windows 中运行的可执行程序。而且还可以使用一些 Windows 不具备的，Linux平台下的开发工具。一句话来概括：MinGW 就是 GCC 的 Windows 版本
 
-  - `Clang`
+    以上是 MinGW 的介绍，MinGW-w64 与 MinGW 的区别在于 MinGW 只能编译生成32位可执行程序，而 MinGW-w64 则可以编译生成 64位 或 32位 可执行程序。
+
+    正因为如此，MinGW 现已被 MinGW-w64 所取代，且 MinGW 也早已停止了更新
+    ```
+
+  - 这几个结合起来就是 win 平台的 gcc 编译器了,一般在网上找的 mingw64 编译器会包含上面的三个 (你可以在 Dev C++中找到 mingw64 编译器)
+
+---
+
+- llvm
+
+  - Clang
   - LLDB
   - OpenMP
 
@@ -65,134 +75,394 @@ C/C++编译器好多种,而且名字起得特别扭,列几个常见的理理思�
   来源：简书
   ```
 
-- `llvm-mingw`
+- msvc
 
-  - scoop 里发现的神奇环境,是 clang/gcc 都有
+  微软家的编译器, visual studio 内置的,通用性不强.
 
 ---
 
-## 配置语言环境
+- 到这里再提一嘴这个工具: [WinLibs standalone build of GCC and MinGW-w64 for Windows](https://winlibs.com/)
 
-1. 下载`MinGW64编译器`,解压到想放的位置就行(注意存放路径不要出现中文或特殊符号)
-
-2. 然后打开 `MinGW64\bin` 并复制其路径,比如: `D:\Game\Dev-Cpp\MinGW64\bin`
-
-3. 打开系统属性配置`环境变量`,在`Path`中新建添加以上路径
-
-4. 重启电脑 -> 现在 gcc/g++编译器可以正常使用了
+  它内置了上面提到的 gcc/llvm 等工具,比较大所以库很丰富
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## VScode 内插件配置
+## 环境安装
 
-- 下载`C/C++`插件,这个是必须的,功能支持很全面 (虽然 Bug 很多,但是确实无可替代...)
+可以先去看下面的`多种运行方式`,再来找合适的环境.
 
-- 再下载`Code Runner`,用于直接通过一条指定指令来编译运行程序 (除非不嫌麻烦想敲又臭又长的命令行执行)
+- 编译器
+
+  安装上面提到的 `winlibs` 或者 `mingw64 / msvc / llvm`...
+
+  太过基础,不会百度.
+
+- 编译工具
+
+  这里选用 `xmake`,不用 cmake
+
+  依赖管理工具用 xmake 自带的 xrepo,需要的话可以另装 `vcpkg`
+
+- VScode 内插件
+
+  必须: `C/C++`
+
+  方法二: `Code Runner`
+
+  方法四: `xmake`
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## VScode 工作区配置
+## 多种运行方式
 
-- 以上配置还不能使用 VScode 直接编译运行 C/Cpp 文件,需要配置工作区的编译运行逻辑(各个工作区分别配置),其配置文件是在名为.vscode 的文件夹下,结构参下:
+排序: 简单 -> 困难
 
-  - 注意如果已存在其他语言配置(如 Java,Python 等),需要结合内容`谨慎插入`,以免原有配置失效!
-  - C/C++运行调试环境仅需`launch.json`和`task.json`
-  - 注意如果代码源文件取名`包含中文`肯定会导致调试程序`报错`(但是可以用 Code Runner 运行)
+### 所用代码
 
-```
-|> .vscode
-  |> launch.json  (必须)
-  |> setting.json (非必须)
-  |> task.json    (必须)
-```
+- 单文件 `main.cpp`
 
-### launch.json
+  ```cpp
+  #include <stdio.h>
 
-```
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      //C/C++配置开始
-      "name": "C/C++", // 配置名称，将会在启动配置的下拉菜单中显示
-      "type": "cppdbg", // 配置类型，这里只能为cppdbg
-      "request": "launch", // 请求配置类型，可以为launch（启动）或attach（附加）
-      "program": "${fileDirname}//${fileBasenameNoExtension}.exe", // 将要进行调试的程序的路径
-      "args": [], // 程序调试时传递给程序的命令行参数，一般设为空即可
-      "stopAtEntry": false, // 设为true时程序将暂停在程序入口处，一般设置为false
-      "cwd": "${workspaceFolder}", // 调试程序时的工作目录，一般为${workspaceRoot}即代码所在目录 workspaceRoot已被弃用，现改为workspaceFolder
-      "environment": [],
-      "externalConsole": true, // 调试时是否显示控制台窗口，一般设置为true显示控制台
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb.exe", // miDebugger的路径，注意这里要与MinGw的路径对应
-      "preLaunchTask": "C/C++: gcc.exe build active file",
-      "setupCommands": [
-        {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
-        }
-      ]
-    } //配置结束
-  ]
-}
-```
-
----
-
-### task.json
-
-```
-{
-  "version": "2.0.0",
-  "tasks": [
-    {
-      //这是我的g++环境配置
-      "type": "shell",
-      "label": "C/C++: gcc.exe build active file",
-      "command": "g++", //就是在shell里输入的gcc
-      "args": ["-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe"],
-      "problemMatcher": ["$gcc"],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      }
-    } //gcc配置到这里结束
-  ]
-}
-```
-
-### [源码 Github 链接](https://github.com/Weidows/Programming-Configuration/blob/master/others/.vscode)
-
----
-
-## `重头戏!`--解决乱码问题
-
-- 接下来,个人找到了一个解决方案,不敢说全网独一份,但是咱确实没见到过.
-
-- 因为 MinGW64 编译器并不能指定源文件编码,而且 Windows 系统下终端默认使用的是`GBK`显示,于是只能用 GBK 保存运行才不乱码(但是 VScode 终端只能接收 UTF-8 数据)
-
-  - 于是,种种冲突`乱码了`...
+  int main()
+  {
+    printf("hello");
+    return 0;
+  }
+  ```
 
   ***
 
-### 解决方案:
+- 多文件
 
-- 源文件`使用UTF-8`编码,改写 Code Runner 运行规则
-- (找到配置文件里面的`code-runner.executorMap`),修改如下:
+  - `0.cpp`
 
-```
-    "c": "chcp 65001 && gcc *.c -o $fileNameWithoutExt && ./$fileNameWithoutExt",
-    "cpp": "chcp 65001 && g++ *.cpp -o $fileNameWithoutExt && ./$fileNameWithoutExt",
-```
+    ```cpp
+    int a(){
+      return 0;
+    }
+    ```
 
-- 其原理就是让 Windows 下的 Console 在运行时转到 UTF-8 代码页 65001 显示(因为默认情况下为 GBK936 页会使 UTF-8 输出数据乱码)
-  - `提倡任何语言都使用UTF-8`编码,当然如果是 Linux/Mac 系统下不需要更改代码页,需要把上面相应的`chcp 65001 &&`去掉.
+  - `0.h`
+
+    ```cpp
+    int a();
+    ```
+
+  - `1.cpp`
+
+    ```cpp
+    #include <stdio.h>
+    #include <0.h>
+
+    int main()
+    {
+      printf("hello-1,我,%d", a());
+      return 0;
+    }
+    ```
 
 ---
 
-## 另外一个问题--多文件编译
+### 方法一
 
-- 默认的 Code Runner 执行的命令只能编译运行一个 C/C++源文件,但是很多情况下需要编译链接多文件的项目,上面我提供的命令支持编译同一目录下的所有 C/C++源文件
+最原始的运行方式,用不着解释:
 
-  - 但是需要注意修改后此目录下所有源文件都参与编译(不管项目是不是需要它),所以需要格外注意源文件所属的目录及层级结构.
+```
+g++ main.cpp -o main.exe
+```
+
+---
+
+### 方法二
+
+- 上面的虽简单但是繁琐
+
+  于是 vscode 里有个插件 `code runner` 可以自动产生上面的命令,而且可以自定义,下面逐步讲解完善:
+
+  ***
+
+- 比如中文乱码问题:
+
+  win 系统中终端默认按照 GBK 编码显示,但是程序输出是 UTF-8 编码的(除非源文件是 GBK 编码,但是不建议这么做)
+
+  可以在代码运行前把终端编码页转到 utf-8 就行了
+
+  修改 vscode 配置文件,`chcp 65001`就是转到 utf-8 页
+
+  ```json
+  "code-runner.executorMap": {
+    "c": "chcp 65001 && gcc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt",
+    "cpp": "chcp 65001 && g++ $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt",
+  }
+  ```
+
+  ***
+
+- 转移生成文件
+
+  默认生成的 xxx.exe 在同级目录,很影响观瞻,把它挪到 `workspaceRoot/build/`
+
+  ```json
+  "code-runner.executorMap": {
+    "c": "chcp 65001 && gcc $fileName -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+    "cpp": "chcp 65001 && g++ $fileName -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+  }
+  ```
+
+  ***
+
+- 再如多文件编译链接问题:
+
+  默认的 Code Runner 执行的命令只能编译运行一个 C/C++源文件
+
+  但是很多情况下需要编译链接多文件的项目,可以修改成这样:
+
+  ```json
+  "code-runner.executorMap": {
+    "c": "chcp 65001 && gcc *.c -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+    "cpp": "chcp 65001 && g++ *.cpp -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+  }
+  ```
+
+  需要注意修改后目录下所有源文件都参与编译(不管项目是不是需要它)
+
+- 再如编译时链接库 (可以这么干,但是并不好)
+
+  ```json
+  "code-runner.executorMap": {
+    "c": "chcp 65001 && gcc *.c -I . -l glut32 -l glu32 -l opengl32 -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+    "cpp": "chcp 65001 && g++ *.cpp -I . -l glut32 -l glu32 -l opengl32 -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+  }
+  ```
+
+- 此项配置适用性很广
+
+  文件堆放可以随意,文件名/目录名中`可以含有中文`
+
+  缺点是无法调试,对需要依赖库的工程性项目不友好
+
+---
+
+### 方法三
+
+- 通过 vscode 本身,也是可以 run/debug 的
+
+  在 vscode 内右键文件内容,有个`生成和调试活动文件`,不用动回车几下
+
+  会生成下面两个文件,然后应该就能 run/debug 了
+
+  ```
+  |> .vscode
+    |> launch.json
+    |> task.json
+  ```
+
+  - <details>
+
+      <summary> 默认生成文件内容 </summary>
+
+    ***
+
+    ```json
+    {
+      // 使用 IntelliSense 了解相关属性。
+      // 悬停以查看现有属性的描述。
+      // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+      "version": "0.2.0",
+      "configurations": [
+        {
+          "name": "g++.exe - 生成和调试活动文件",
+          "type": "cppdbg",
+          "request": "launch",
+          "program": "${workspaceRoot}\\build\\${fileBasenameNoExtension}.exe",
+          "args": [],
+          "stopAtEntry": false,
+          "cwd": "${fileDirname}",
+          "environment": [],
+          "externalConsole": false,
+          "MIMode": "gdb",
+          "miDebuggerPath": "gdb.exe",
+          "setupCommands": [
+            {
+              "description": "为 gdb 启用整齐打印",
+              "text": "-enable-pretty-printing",
+              "ignoreFailures": true
+            }
+          ],
+          "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+        }
+      ]
+    }
+    ```
+
+    ```json
+    {
+      "tasks": [
+        {
+          "type": "cppbuild",
+          "label": "C/C++: g++.exe 生成活动文件",
+          "command": "D:\\Game\\Scoop\\apps\\winlibs-mingw-llvm\\current\\bin\\g++.exe",
+          "args": [
+            "-fdiagnostics-color=always",
+            "-g",
+            "${file}",
+            "-o",
+            "${fileDirname}\\${fileBasenameNoExtension}.exe"
+          ],
+          "options": {
+            "cwd": "${fileDirname}"
+          },
+          "problemMatcher": ["$gcc"],
+          "group": {
+            "kind": "build",
+            "isDefault": true
+          },
+          "detail": "调试器生成的任务。"
+        }
+      ],
+      "version": "2.0.0"
+    }
+    ```
+
+    </details>
+
+- 介绍一下其调用流程:
+
+  按 F5 调试 -> launch.json -> preLaunchTask -> tasks.json -> g++ -> main.cpp -> main.exe
+
+  反过来看,最先执行的是 task.json 里的 g++.exe (看 args 那里跟上面的第二种运行方式里很像)
+
+  g++ 生成了 main.exe 文件,然后 launch.JSON 中的 gdb.exe 接过来 main.exe 开始调试
+
+- 跟上面方法二类似,可以修改参数来添加功能
+
+- launch.json
+
+  ```json
+  {
+    // 使用 IntelliSense 了解相关属性。
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "g++.exe - 生成和调试活动文件",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}\\build\\${fileBasenameNoExtension}.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "gdb.exe",
+        "setupCommands": [
+          {
+            "description": "为 gdb 启用整齐打印",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ],
+        "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+      }
+    ]
+  }
+  ```
+
+- tasks.json
+
+  ```json
+  {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "type": "cppbuild",
+        "label": "C/C++: g++.exe 生成活动文件",
+        "command": "g++",
+        "args": [
+          "-g",
+          "*.cpp",
+          "-I",
+          ".",
+          "-o",
+          "${workspaceRoot}\\build\\${fileBasenameNoExtension}.exe"
+        ],
+        "options": {
+          "cwd": "${fileDirname}"
+        },
+        "problemMatcher": ["$gcc"],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  ```
+
+  ***
+
+- 再介绍一下利弊
+
+  比第二个方法自定义性更强,`可以直接输出中文不乱码`
+
+  缺点也很上头,`源文件名字/路径中不能带中文` (不信可以试试,直接报错)
+
+---
+
+### 方法四
+
+- 上面的几个方法比较面向小 demo,最后这个是`面向工程性`的 (需要一定能力基础)
+
+  使用 `xmake.lua` 替换了上面方法中的拼接参数行为,而且可以通过 xmake 管理链接库/编译器等,比如:
+
+  ```lua
+  -- 引用.lib形式的静态库会报错,所以要用shared动态链接库版本
+  add_requires("freeglut",{configs = {shared = true}})
+
+  -- 全局添加依赖
+  add_packages("freeglut")
+
+  -- 同一 target 只能有一个 main(),否则需要另起名字
+  target("test")
+      set_kind("binary")
+      add_files("src/test/*.cpp")
+
+      -- 单个添加依赖,当已经全局添加时,会产生歧义,添加静态版本
+      add_packages("freeglut")
+
+      -- 更改编译器,比如 gcc/clang/msvc...
+      add_toolchains("gcc")
+  ```
+
+  ***
+
+- 深入过程中试过其他的工具链: cmake / vcpkg / conan, 为什么选用的 `xmake + xrepo + vcpkg` ? 对比一下吧
+
+  cmake 语法很怪,学习成本高配置难,尤其是与其搭配的 vcpkg/conan 安装的依赖引入比较棘手,网上对它的诟病很多
+
+  conan 库少,而且结合 cmake 体验起来并不如 xmake+xrepo
+
+  xmake 自带 xrepo,而且 xrepo 可以装 vcpkg/conan/brew 的库
+
+  再装个 vcpkg 用来搜索库以及提供给 xrepo 调用安装库 (这个需要安装 visualstudio buildtools 英文版本)
+
+- 坏处
+
+  网上用 cmake 的人/项目很多,对于 xmake 的教程还是比较稀缺
+
+  不过能走到这步的大都可以自行探索了..
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 参考-推荐
+
+### [C/C++开发模板](https://github.com/Weidows/C--)
+
+参考了很多文章/教程,迭代了数个版本,下面是脚印
+
+> [基于 VSCode 和 CMake 实现 C/C++开发 | Linux 篇](https://www.bilibili.com/video/BV1fy4y1b7TC?p=23)\
+> [xmake vs cmake 对比分析](https://zhuanlan.zhihu.com/p/67854244)\
+> [SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)

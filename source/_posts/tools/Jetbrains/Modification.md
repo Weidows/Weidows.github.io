@@ -16,7 +16,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-01 11:06:59
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-29 14:12:20
+ * @LastEditTime: 2021-10-28 15:44:16
  * @FilePath: \Blog-private\source\_posts\tools\Jetbrains\Modification.md
  * @Description:
  * @!: *********************************************************************
@@ -48,7 +48,7 @@ top_img:
 
 - 它抽离出 Maven 的内部用户配置文件`conf/settings.xml`在`persist`里面,不会被更新覆写.
 
-  > [附上已换源和配置本地仓库的配置文件](https://github.com/Weidows/Programming-Configuration/blob/master/Maven/conf/settings.xml)
+  > [附上已换源和配置本地仓库的配置文件](https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/maven/conf/settings.xml)
 
 ### 环境变量
 

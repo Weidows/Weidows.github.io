@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 17:26:59
+ * @LastEditTime: 2021-10-28 15:43:15
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -166,18 +166,12 @@ top_img:
   npm install -g eslint
   ```
 
-  > [npm-global.bak](https://github.com/Weidows/Programming-Configuration/blob/534a5e4da0711a64e78679164dcba880b5973980/lists/npm-global.bak)
-
-  ***
-
 - yarn
 
   ```shell
   yarn global add hexo-cli
   yarn global add vsce
   ```
-
-  > [yarn-global.bak](https://github.com/Weidows/Programming-Configuration/blob/e05220b9de0fcef3df5f54fb199ff6fe9727c0da/lists/yarn-global.bak)
 
 ---
 

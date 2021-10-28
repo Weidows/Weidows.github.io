@@ -18,8 +18,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-23 15:39:23
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Scoop.md
+ * @LastEditTime: 2021-10-28 15:48:39
+ * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -233,8 +233,6 @@ top_img:
 
 > 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
 
-> [我的配置文件链接](https://github.com/Weidows/Programming-Configuration/tree/master/Scoop/config.json)
-
 ---
 
 ### Chocolatey
@@ -336,10 +334,5 @@ top_img:
 
 - 备份: [方法可见: 🎃backuper~开发环境备份.](../backuper)
 
-  - 库
-
-    > [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop-buckets.bak)
-
-  - 软件
-
-    > [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop-apps.bak)
+  > - 库: [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak)
+  > - 软件: [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak)

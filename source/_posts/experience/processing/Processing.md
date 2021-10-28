@@ -15,13 +15,12 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-27 22:08:08
+ * @LastEditTime: 2021-10-28 15:41:52
  * @FilePath: \Blog-private\source\_posts\experience\processing\Processing.md
 -->
 
 - [环境需求](#环境需求)
 - [编译环境](#编译环境)
-  - [源码 Github 链接(文章不一定保证更新,此处是最新)](#源码-github-链接文章不一定保证更新此处是最新)
 - [进阶玩法](#进阶玩法)
   - [结合 Code Runner](#结合-code-runner)
   - [安装`Processing中文助手`](#安装processing中文助手)
@@ -75,8 +74,6 @@ top_img:
   ```
 
 - 上面的代码是在 tasks:[]层级内部,为避免覆盖其他环境配置(比如 gcc),需要格外注意,可以参考我的如下配置
-
-  ### [源码 Github 链接(文章不一定保证更新,此处是最新)](https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/.vscode/launch.json)
 
 ---
 

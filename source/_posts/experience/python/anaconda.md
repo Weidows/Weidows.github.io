@@ -15,7 +15,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-02 19:01:44
+ * @LastEditTime: 2021-10-24 17:21:05
  * @FilePath: \Blog-private\source\_posts\experience\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -29,9 +29,11 @@ top_img:
 - [修改依赖路径](#修改依赖路径)
 - [PyTorch](#pytorch)
 - [CUDA & cuDNN](#cuda--cudnn)
-- [安装依赖](#安装依赖)
-- [激活终端](#激活终端)
+- [导出-安装依赖](#导出-安装依赖)
 - [实例](#实例)
+- [终端](#终端)
+  - [激活终端](#激活终端)
+  - [环境不一致](#环境不一致)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -104,9 +106,9 @@ top_img:
 
 - Windows 中:
 
-  - conda: `C:\Users\用户名\.condarc`
+  - conda: `~\.condarc 和 .conda\`
 
-  - pip: `C:\Users\用户名\pip\pip.ini`
+  - pip: `~\pip\pip.ini`
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -114,11 +116,13 @@ top_img:
 
 > 清华镜像站给了教程: [Anaconda 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
 
-- 添加进设置:
+- 通过 navigator 添加进设置,或者直接修改 ~/.condarc
 
   <img src="https://i.loli.net/2021/05/20/LRMdx5KAIEvGpkg.png" alt="20210520095331" />
 
-- 官方给的 https 协议的,会报错:
+- <details>
+
+    <summary> 如果官方给的 https 协议的,会报错 </summary>
 
   ```
   PS D:\Game\Github\Blog-private> conda search cuda
@@ -134,26 +138,28 @@ top_img:
 
   ***
 
-- 找了半天教程,发现只有一篇有效: `https -> http`
+  - 找了半天教程,发现只有一篇有效: `https -> http`
 
-  > [Anaconda 使用 conda 连接网络出现错误](https://segmentfault.com/q/1010000008668178)
+    > [Anaconda 使用 conda 连接网络出现错误](https://segmentfault.com/q/1010000008668178)
 
-  ```
-  channels:
-    - defaults
-  show_channel_urls: true
-  default_channels:
-    - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
-    - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
-    - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
-  custom_channels:
-    conda-forge: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
-    msys2: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
-    bioconda: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
-    menpo: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
-    pytorch: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
-    simpleitk: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
-  ```
+    ```
+    channels:
+      - defaults
+    show_channel_urls: true
+    default_channels:
+      - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+      - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+      - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+    custom_channels:
+      conda-forge: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+      msys2: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+      bioconda: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+      menpo: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+      pytorch: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+      simpleitk: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+    ```
+
+  </details>
 
 ---
 
@@ -170,7 +176,15 @@ top_img:
 
 ## 修改依赖路径
 
-- conda 和 pip 共同的第三方依赖安装路径 (Anaconda 的依赖路径在其内部,不需要修改)
+> [pip install 默认安装路径修改](https://www.cnblogs.com/maggieq8324/p/12099068.html)
+
+- anaconda 安装后默认情况下 pip/conda 的库会堆在 anaconda 里面(所以一般不用动了)
+
+- 依赖路径
+
+  ```
+  python -m site
+  ```
 
   ```
   ❯   python -m site
@@ -191,28 +205,10 @@ top_img:
   ENABLE_USER_SITE: False
   ```
 
-> [pip install 默认安装路径修改](https://www.cnblogs.com/maggieq8324/p/12099068.html)
-
-- 依赖路径
-
-  ```
-  python -m site
-  ```
-
-- 配置文件路径 (修改.py 文件)
+- 配置文件路径 (非必要不然不要修改,此处可以更改上面的 USER_BASE/USER_SITE,但实测并未生效)
 
   ```
   python -m site -help
-  ```
-
-- 修改配置文件(注意路径是'\',另外注意是否有转义字符,会导致出错)
-
-  ```py
-  # for distutils.commands.install
-  # These values are initialized by the getuserbase() and getusersitepackages()
-  # functions, through the main() function when Python starts.
-  USER_SITE = "D:\Game\Scoop\persist\\anaconda3\Scripts"
-  USER_BASE = "D:\Game\Scoop\persist\\anaconda3\site-packages"
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -289,17 +285,66 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 安装依赖
+## 导出-安装依赖
 
 > [pip 和 conda 批量导出、安装组件(requirements.txt)](https://blog.csdn.net/chekongfu/article/details/83187591)
 
----
+- 安装依赖
 
-## 激活终端
+  ```
+  pip install -r requirements.txt
+  conda install --file requirements.txt (尽量不要用,有很多问题)
+  conda env create -f env.yaml
+  ```
 
-```
-conda init 终端名(powershell)
-```
+- 导出依赖
+
+  ```
+  pip freeze > requirements.txt
+  conda list -e > requirements.txt
+  conda env export > env.yaml
+
+  ```
+
+- <details>
+
+    <summary> conda/pip 导出的 requirement.txt 有可能有个问题 </summary>
+
+  ***
+
+  - pip 导出的,以及安装报错
+
+    ```txt
+    anaconda-client @ file:///C:/ci/anaconda-client_1624480273070/work
+    anaconda-navigator==2.1.0
+    anyio==3.3.4
+    appdirs==1.4.4
+    argon2-cffi @ file:///C:/ci/argon2-cffi_1613037959010/work
+    async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+    attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+    audioread==2.1.9
+    Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+    backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+    backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
+    backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+    backports.weakref==1.0.post1
+    beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+    bleach @ file:///tmp/build/80754af9/bleach_1626470256873/work
+    brotlipy==0.7.0
+    ```
+
+    ```
+    ❯ pip install -r .\pip-list.bak
+    Looking in indexes: http://mirrors.aliyun.com/pypi/simple/
+    Processing c:\ci\anaconda-client_1624480273070\work
+    ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: 'C:\\ci\\anaconda-client_1624480273070\\work'
+    ```
+
+    解决办法就是硬匹配所有 ` @ file:` 把后面的删掉.
+
+    ***
+
+  </details>
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -314,3 +359,42 @@ conda init 终端名(powershell)
 - 深度学习项目吃显存好离谱啊!
 
   <img src="https://i.loli.net/2021/05/21/mB2WXqxHsfRIwaJ.png" alt="20210521104118" />
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 终端
+
+### 激活终端
+
+```
+conda init 终端名(powershell)
+```
+
+---
+
+### 环境不一致
+
+- 之前遇到个问题苦恼了很久:
+
+  有一个 py 脚本我想通过 bat 脚本调用执行,但是一直报错
+
+  ```
+  Traceback (most recent call last):
+    File "D:\Game\Scoop\apps\anaconda3\current\lib\site-packages\urllib3\connectionpool.py", line 688, in urlopen
+      conn = self._get_conn(timeout=pool_timeout)
+    File "D:\Game\Scoop\apps\anaconda3\current\lib\site-packages\urllib3\connectionpool.py", line 280, in _get_conn
+      return conn or self._new_conn()
+    File "D:\Game\Scoop\apps\anaconda3\current\lib\site-packages\urllib3\connectionpool.py", line 979, in _new_conn
+      raise SSLError(
+  urllib3.exceptions.SSLError: Can't connect to HTTPS URL because the SSL module is not available.
+  ```
+
+  大致意思就是缺少依赖,但是我已经装好依赖了,而且通过 PowerShell 可以正常运行
+
+- 后来突然想到是 python 环境没开:
+
+  ```
+  conda activate base
+  ```
+
+  事情不大,烦恼不小
