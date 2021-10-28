@@ -16,7 +16,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-24 08:46:46
+ * @LastEditTime: 2021-10-28 22:14:59
  * @FilePath: \Blog-private\source\_posts\others\Better-Chinese.md
  * @Description:
  * @!: *********************************************************************
@@ -27,6 +27,9 @@ top_img:
   - [穿透](#穿透)
   - [部署/上线](#部署上线)
   - [幂等性](#幂等性)
+  - [灰度测试](#灰度测试)
+  - [炼丹](#炼丹)
+  - [人工智能](#人工智能)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -44,12 +47,39 @@ top_img:
 
 前端所展示的内容与需求/实际不一致 (比如我 100 岁,后端给的是 10 岁)
 
+---
+
 ### 部署/上线
 
 部署: 把代码从开发机丢到服务器上跑
 
 上线: 代码在测试环境跑没问题,然后迁到生产环境
 
+---
+
 ### 幂等性
 
 > [什么是幂等性](https://blog.csdn.net/miachen520/article/details/91039661)
+
+---
+
+### 灰度测试
+
+> [灰度测试是什么意思呢？](https://zhuanlan.zhihu.com/p/124912164)
+
+功能/业务性测试,一般不是由程序员负责的东西
+
+---
+
+### 炼丹
+
+一般来说就是用计算机训练项目
+
+> 很有趣的回答: [深度学习·炼丹入门](https://zhuanlan.zhihu.com/p/23781756?utm_source=qq&utm_medium=social&utm_oi=807874781918658560)
+
+---
+
+### 人工智能
+
+> <img src="https://i.loli.net/2021/10/28/ZCXDmhEQoFkK7Jd.png" alt="20211028221518" />\
+> [一文看懂人工智能、机器学习、深度学习与神经网络之间的区别与关系](https://zhuanlan.zhihu.com/p/86794447)

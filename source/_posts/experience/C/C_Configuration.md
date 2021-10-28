@@ -16,7 +16,7 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-28 15:34:00
+ * @LastEditTime: 2021-10-28 19:30:15
  * @FilePath: \Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 
@@ -465,4 +465,5 @@ g++ main.cpp -o main.exe
 
 > [基于 VSCode 和 CMake 实现 C/C++开发 | Linux 篇](https://www.bilibili.com/video/BV1fy4y1b7TC?p=23)\
 > [xmake vs cmake 对比分析](https://zhuanlan.zhihu.com/p/67854244)\
-> [SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)
+> [SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)\
+> [打包一沓开源的 C/C++ 包管理工具送给你！](https://zhuanlan.zhihu.com/p/79872095)

@@ -704,7 +704,7 @@ aside:
     enable: true
     content: <center><h2 style="color:aqua">-> 欢迎,锟斤拷! <-</h2><img src="https://cdn.jsdelivr.net/gh/Weidows/Images@master/img/aimi.png" /><h2 style="color:deeppink">站内图片需要IPv6加载</h2></center>
   card_recent_post:
-    enable: true
+    enable: false
     limit: 5 # if set 0 will show all
     sort: updated # date or updated
     sort_order: # Don't modify the setting unless you know how it works
