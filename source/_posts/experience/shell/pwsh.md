@@ -15,7 +15,7 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 15:46:04
+ * @LastEditTime: 2021-10-29 20:56:02
  * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
@@ -23,7 +23,7 @@ top_img:
 - [环境配置](#环境配置)
 - [安装插件](#安装插件)
 - [启用主题及插件](#启用主题及插件)
-- [`oh-my-posh`主题](#oh-my-posh主题)
+- [oh-my-posh](#oh-my-posh)
 - [启用管理员模式](#启用管理员模式)
 
 ## 预览
@@ -50,30 +50,36 @@ top_img:
 
 ## 安装插件
 
-- 概览:
-
-  <img src="https://i.loli.net/2021/07/03/EnsJraWfTcMN43Z.png" alt="20210703121024" />
-
-- `oh-my-posh3` (Posh 增强主题)
+- `oh-my-posh` (Posh 增强主题)
 
   ```
   Install-Module oh-my-posh
   ```
 
+  <img src="https://i.loli.net/2021/10/29/1d9Xs6ADR3MaNCy.png" alt="20211029164044" />
+
   ***
 
 - `PoshFuck`
 
-  - (不必在意格式,复制就行)
+  不必在意格式,复制就行
 
   ```
   Set-ExecutionPolicy RemoteSigned
     iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/mattparkes/PoShFuck/master/Install-TheFucker.ps1'))
   ```
 
+  <img src="https://i.loli.net/2021/10/29/JMwQv4UEDaZ1sob.png" alt="20211029164014" />
+
   ***
 
-- `posh-git` (用于扩展 Posh 里的 Git)
+- `posh-git` (用于扩展 Posh 里的 Git 自动补全)
+
+  ```
+  Install-Module posh-git
+  ```
+
+  <img src="https://i.loli.net/2021/10/29/6wLnWidyZxf7IsT.png" alt="20211029163651" />
 
   ***
 
@@ -91,7 +97,7 @@ top_img:
 
 > [我的配置文件链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/PowerShell/Microsoft.PowerShell_profile.ps1)
 
-- `启用主题`: ~/文档/PowerShell/Microsoft.PowerShell_profile.ps1 加上以下字段
+- `启用主题`: ~/文档/PowerShell/Microsoft.PowerShell_profile.ps1 / $profile 加上以下字段
 
   ```
   Import-Module oh-my-posh
@@ -133,9 +139,9 @@ top_img:
 
   - 清除打开时的版本信息,在最后一行添加: `clear`
 
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## `oh-my-posh`主题
+## oh-my-posh
 
 - 查看所有主题
 
@@ -149,45 +155,7 @@ top_img:
   Set-PoshPrompt -Theme xxx
   ```
 
-  - (自上之下按本人推荐程度排序,`萝卜白菜各有所爱`,希望能找到您喜欢的~)
-
-  ***
-
-- 推荐
-
-  ```
-  Powerlevel10k-Classic (好看没的说)
-  AgnosterPlus
-  Paradox (最常用)
-  PowerLine (上一个不换行形式)
-  Avit
-  Darkblood (看起来还行)
-  tehrob
-  Pararussel
-  Material
-  Zash
-  ```
-
-  ***
-
-- 不是很推荐的
-
-  ```
-  Honukai
-  Agnoster
-  ys
-  Sorin
-  Star
-  Lambda
-  pure
-  Powerlevel10k-Lean
-  Punk
-  robbyrussell
-  Fish (错位)
-  qwerty
-  ```
-
----
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 启用管理员模式
 

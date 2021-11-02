@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-22 23:54:40
+ * @LastEditTime: 2021-11-01 22:36:30
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -651,7 +651,11 @@ top_img:
 
 #### 排序算法
 
-> [上厕所的功夫，学会了快速排序算法](https://mp.weixin.qq.com/s?__biz=Mzg3MzU2Njk3MA==&mid=2247492793&idx=1&sn=79ab61671459c3a2d627d5a3e1eb7ec0&chksm=cedca32cf9ab2a3aabf3b02d26c991ca4f56a49078a28ad97433c6645d003b559de4e98e706d&mpshare=1&scene=23&srcid=1019M2F6aYi9B8WEFHtfu4sr&sharer_sharetime=1634632120052&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
+> - [上厕所的功夫，学会了快速排序算法](https://mp.weixin.qq.com/s?__biz=Mzg3MzU2Njk3MA==&mid=2247492793&idx=1&sn=79ab61671459c3a2d627d5a3e1eb7ec0&chksm=cedca32cf9ab2a3aabf3b02d26c991ca4f56a49078a28ad97433c6645d003b559de4e98e706d&mpshare=1&scene=23&srcid=1019M2F6aYi9B8WEFHtfu4sr&sharer_sharetime=1634632120052&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)\
+>   在某区间中取最左/最右为基准,并给定左右两边移动指针;\
+>   左边有坑取有指针的值比较,比基准大的话不动,小的话移动到左边的坑; 右边有坑时相反.
+> - [图解排序算法(四)之归并排序](https://www.cnblogs.com/chengxiao/p/6194356.html)\
+>
 
 ---
 

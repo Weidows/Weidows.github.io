@@ -16,7 +16,7 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-28 19:30:15
+ * @LastEditTime: 2021-11-01 22:11:01
  * @FilePath: \Blog-private\source\_posts\experience\C\C_Configuration.md
 -->
 
@@ -445,7 +445,7 @@ g++ main.cpp -o main.exe
 
   conan 库少,而且结合 cmake 体验起来并不如 xmake+xrepo
 
-  xmake 自带 xrepo,而且 xrepo 可以装 vcpkg/conan/brew 的库
+  xmake 自带 xrepo,而且 xrepo 可以装 vcpkg/conan/brew 的库,而且支持中文路径/文件名
 
   再装个 vcpkg 用来搜索库以及提供给 xrepo 调用安装库 (这个需要安装 visualstudio buildtools 英文版本)
 
@@ -463,6 +463,7 @@ g++ main.cpp -o main.exe
 
 参考了很多文章/教程,迭代了数个版本,下面是脚印
 
+> [xmake 从入门到精通 10：多个子工程目标的依赖配置](https://tboox.org/cn/2019/12/13/quickstart-10-target-deps/)\
 > [基于 VSCode 和 CMake 实现 C/C++开发 | Linux 篇](https://www.bilibili.com/video/BV1fy4y1b7TC?p=23)\
 > [xmake vs cmake 对比分析](https://zhuanlan.zhihu.com/p/67854244)\
 > [SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)\

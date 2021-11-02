@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-23 10:24:20
+ * @LastEditTime: 2021-11-02 15:00:15
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -29,6 +29,7 @@ top_img:
   - [问题二](#问题二)
 - [被墙问题](#被墙问题)
 - [版本回退](#版本回退)
+- [缩小仓库体积](#缩小仓库体积)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -142,3 +143,35 @@ top_img:
 1. reset 到出错提交的前一个提交
 2. 修改,提交
 3. 强制提交(不强制的话不行): git push origin master -f
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 缩小仓库体积
+
+有的仓库因为有时候会提交图片,导致仓库体积格外的庞大
+
+而且大到一定程度会被平台检查 (所以要想办法缩小)
+
+---
+
+- 我要压缩的是 [Keeper](https://github.com/Weidows-projects/Keeper) 项目
+
+  因为每天都要提交一张必应壁纸,所以一年下来体积到了 400+ MB
+
+  我想把壁纸拿走,并且把 git 中提交记录也删掉以抹除体积
+
+  ***
+
+- 开始我想的是把现有文件复制到一个新建的库,再把这个库 force push 到 github
+
+  出乎意料,旧的提交并没有消失; 可以看到强推 `重构` 前面有一个断档,那之前的就是旧提交
+
+  <img src="https://i.loli.net/2021/11/02/u7LGbXWSoVExcNm.png" alt="20211102134046" />
+
+  ***
+
+- 为什么出现这情况? 我给画了个图
+
+  <img src="https://i.loli.net/2021/11/02/bfclOgwDjq6ZoM3.png" alt="20211102144127" />
+
+  所以,原因是没删除 github 上的 tags,删掉就没了捏

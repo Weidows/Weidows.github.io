@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-12 10:24:34
+ * @LastEditTime: 2021-11-01 20:27:43
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -86,15 +86,20 @@ top_img:
 
   ```cmd
   C:\Users\29845>cd D:\Game\Github\Programming-Configuration\lists
-
-  C:\Users\29845>cd D:\
+  C:\Users\29845>
 
   C:\Users\29845>cd D:
   D:\
 
   C:\Users\29845>d:
-
   D:\>
+  ```
+
+- 再次找了一下,发现 powershell 不会遇到这问题,cmd 有另一个方法: 加上 `/d`
+
+  ```
+  D:\Game\Github\Blog-private>cd /d C:\Users
+  C:\Users>
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
