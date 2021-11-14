@@ -12,9 +12,7 @@
 		"name": "Programming-Configuration",
 		"rootPath": "D:\\Game\\Github\\Programming-Configuration",
 		"paths": [],
-		"tags": [
-			"Personal"
-		],
+		"tags": [],
 		"enabled": true
 	},
 	{
@@ -49,7 +47,9 @@
 		"name": "Keeper",
 		"rootPath": "D:\\Game\\Github\\Keeper",
 		"paths": [],
-		"tags": [],
+		"tags": [
+			"Personal"
+		],
 		"enabled": true
 	}
 ]

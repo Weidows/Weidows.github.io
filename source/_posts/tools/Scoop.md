@@ -18,7 +18,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-28 15:48:39
+ * @LastEditTime: 2021-11-08 11:00:11
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -303,13 +303,15 @@ top_img:
 
 ### 环境原因
 
-- 这是个极其 dan 疼的报错,什么都没告诉你,还怼了句不明不白的话.
+- 这是个让人费解的报错,什么都没告诉你还怼了句不明不白的话.
 
   > ERROR Shovel flavour of scoop is required
 
-- 报错原因是软件安装所需要的环境没满足
+- 去看看这个项目:
 
-  具体是什么环境需要自己查,每个软件不一样
+  > https://github.com/Ash258/Scoop-Core
+
+  大概意思: shovel 是 scoop-core 替换增强版,你需要安装这家伙 (虽然用的人并不是很多)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

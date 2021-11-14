@@ -19,6 +19,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "../../../Documents/PowerShell/Microsoft.PowerShell_profile.ps1",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 40,
+					"label": ""
+				}
+			]
 		}
 	]
 }

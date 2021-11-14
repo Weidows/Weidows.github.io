@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-02 15:00:15
+ * @LastEditTime: 2021-11-09 16:09:48
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -22,11 +22,13 @@ top_img:
 - [首页绿格子](#首页绿格子)
 - [License 选择](#license-选择)
 - [国内时区错位问题](#国内时区错位问题)
-- [博客域名](#博客域名)
+- [pages 域名](#pages-域名)
 - [删除远程分支](#删除远程分支)
 - [凭证和权限](#凭证和权限)
   - [问题一](#问题一)
   - [问题二](#问题二)
+  - [问题三](#问题三)
+  - [问题四](#问题四)
 - [被墙问题](#被墙问题)
 - [版本回退](#版本回退)
 - [缩小仓库体积](#缩小仓库体积)
@@ -55,7 +57,7 @@ top_img:
   - 因为 GitHub 服务器不是在国内,时区不同,其对应的大概是欧洲伦敦那块的标准时区.
 - `结论`:布置 Action 定时任务时,设置的时间要早八个小时(对应东八区)
 
-## 博客域名
+## pages 域名
 
 - GitHub 与 Gitee-pages 部署域名规则不同.
 
@@ -100,9 +102,74 @@ top_img:
 
 - 我遇到这个问题是在 Git 某次更新后, `credential.helper store` 情况下.
 
+  解决办法: 删掉 `~/.git-credentials` 这个文件,它失效了
+
 ---
 
-- 解决办法: 删掉 `~/.git-credentials` 这个文件,它失效了
+### 问题三
+
+- push 本地仓库到 github 时遇到:
+
+  > refusing to allow an OAuth App to create or update workflow `.github/workflo
+
+  这是由于仓库中更改了 workflow(github-action) 的内容,而且本地 git 仓库是用 OAuth 方式认证的
+
+  ***
+
+- 解决办法的话,网上其他文章是一水的改凭据 (我不想这么干)
+
+  于是,可以试着安装 `github-cli` ,然后用 PTA (personal access token) 认证登录 (如果已经登录过就再次刷新登录)
+
+  ```
+  gh auth login
+
+  是否用github-cli来认证github网站 -> 是
+  HTTPS/SSh -> 选HTTPS
+  填入PTA登录成功
+  ```
+
+  ***
+
+- 成功后可以看到 ~/.gitconfig 多了几行
+
+  ```
+  [credential "https://github.com"]
+    helper = !D:\\Game\\Scoop\\apps\\Github-CLI\\current\\bin\\gh.exe auth git-credential
+  ```
+
+  现在再次推送应该没问题了.
+
+---
+
+### 问题四
+
+```
+> git pull --tags origin master
+From https://github.com/Weidows-projects/Programming-Configuration
+ * branch            master     -> FETCH_HEAD
+hint: You have divergent branches and need to specify how to reconcile them.
+hint: You can do so by running one of the following commands sometime before
+hint: your next pull:
+hint:
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint:
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: Need to specify how to reconcile divergent branches.
+```
+
+- 解决:
+
+  ```
+  git config pull.ff false
+  git config --global pull.rebase false
+  ```
+
+  > https://www.fenovice.com/
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

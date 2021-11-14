@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-01 22:36:30
+ * @LastEditTime: 2021-11-09 10:19:42
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -537,9 +537,8 @@ top_img:
 ### 图灵测试
 
 > - 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
->   <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />
-
-> [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
+>   <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />\
+>   [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
 
 ---
 
@@ -655,7 +654,6 @@ top_img:
 >   在某区间中取最左/最右为基准,并给定左右两边移动指针;\
 >   左边有坑取有指针的值比较,比基准大的话不动,小的话移动到左边的坑; 右边有坑时相反.
 > - [图解排序算法(四)之归并排序](https://www.cnblogs.com/chengxiao/p/6194356.html)\
->
 
 ---
 
@@ -668,8 +666,8 @@ top_img:
 
 ### 论文
 
-> 1. [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960) \
->    关键时候挺好用的功能
+> 1. [如何将 CNKI 论文信息转换成你想要的参考文献格式](https://cloud.tencent.com/developer/news/231960) 关键时候挺好用的功能 \
+> 2. [论文引用怎么标注？](https://www.zhihu.com/question/381137645)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

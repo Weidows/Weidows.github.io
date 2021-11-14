@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-20 09:43:45
+ * @LastEditTime: 2021-11-14 15:15:39
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -39,23 +39,25 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ## 通用
 
-|                   指令                   |                 作用                 |
-| :--------------------------------------: | :----------------------------------: |
-| `cd path` // `cd ..` // `cd /` // `cd ~` | 进入 指定 // 上层 // 根 // home 目录 |
-|                `Ctrl + L`                |                 清屏                 |
-|                  `exit`                  |                 退出                 |
-|                  `ping`                  |           测试网络通断状态           |
-|                `Ctrl + C`                |             停止当前任务             |
-|                  `exit`                  |            停止任务或终端            |
-|                 `mkdir`                  |              新建文件夹              |
-|            `cp(xcopy)/mv/rm`             |       文件(夹)复制、移动与删除       |
-|               `curl + URL`               |     访问 URL(可加参数,具体百度)      |
-|                  `pwd`                   |            显示当前全路径            |
-|                 `dir/ls`                 |        列出当前目录(样式不同)        |
-|                  `cat`                   |     (按参数格式)输出文件所有内容     |
-|                 `clear`                  |                 清屏                 |
-|                  `echo`                  |         回显,常用作文本输出          |
-|       `shutdown -h now` / `reboot`       |             关机 / 重启              |
+|                   指令                   |                 作用                  |
+| :--------------------------------------: | :-----------------------------------: |
+| `cd path` // `cd ..` // `cd /` // `cd ~` | 进入 指定 // 上层 // 根 // home 目录  |
+|                `Ctrl + L`                |                 清屏                  |
+|                  `exit`                  |                 退出                  |
+|                  `ping`                  |           测试网络通断状态            |
+|                `Ctrl + C`                |             停止当前任务              |
+|                  `exit`                  |            停止任务或终端             |
+|                 `mkdir`                  |              新建文件夹               |
+|            `cp(xcopy)/mv/rm`             |       文件(夹)复制、移动与删除        |
+|               `curl + URL`               |      访问 URL(可加参数,具体百度)      |
+|                  `pwd`                   |            显示当前全路径             |
+|                 `dir/ls`                 |        列出当前目录(样式不同)         |
+|                  `cat`                   |     (按参数格式)输出文件所有内容      |
+|                 `clear`                  |                 清屏                  |
+|                  `echo`                  |          回显,常用作文本输出          |
+|       `shutdown -h now` / `reboot`       |              关机 / 重启              |
+|             `ls \| grep abc`             |  过滤 ls 的输出,只显示含"abc"的内容   |
+|          `ls \| tee [-a] t.log`          | 显示 ls 输出同时[追加]输出到 t.log 里 |
 
 ---
 
@@ -146,7 +148,6 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 |                 `ifconfig`                  |                         查看网络配置                          |
 |                 `dhclient`                  |                       DHCP 重新配置 IP                        |
 |        `./xxx.sh start/restart/xxx`         |                     启动/重启 shell 脚本                      |
-|           `docker list\|grep abc`           |        筛选 docker list 命令中含有 abc 字符串的结果集         |
 |              `nohup xxx.sh &`               | 不挂起执行 xxx (退出终端不影响程序运行),需要 ps/kill 杀死进程 |
 |           `tail -n 20 README.md`            |           输出 READMD 最后 20 行内容(默认是 10 行)            |
 | `systemctl start/enable/status xxx.service` |                  xxx 服务-开启/开机启动/状态                  |
@@ -197,11 +198,12 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 ## Docker
 
-|                   指令                    |                 作用                 |
-| :---------------------------------------: | :----------------------------------: |
-|             `docker ps [-a]`              |            列出[所有]容器            |
-| `docker ps --filter "abcd`/status=running | 筛选出含"abcd"/状态为 running 的容器 |
-|              docker kill xxx              |            关闭 xxx 容器             |
+|                    指令                     |                      作用                      |
+| :-----------------------------------------: | :--------------------------------------------: |
+|              `docker ps [-a]`               |                 列出[所有]容器                 |
+| `docker ps --filter "abcd / status=running` |      筛选出含"abcd"/状态为 running 的容器      |
+|              `docker kill xxx`              |                 关闭 xxx 容器                  |
+|          `docker list\| grep abc`           | 筛选 docker list 命令中含有 abc 字符串的结果集 |
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

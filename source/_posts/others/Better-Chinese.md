@@ -16,7 +16,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-28 22:14:59
+ * @LastEditTime: 2021-11-09 23:56:57
  * @FilePath: \Blog-private\source\_posts\others\Better-Chinese.md
  * @Description:
  * @!: *********************************************************************
@@ -30,6 +30,7 @@ top_img:
   - [灰度测试](#灰度测试)
   - [炼丹](#炼丹)
   - [人工智能](#人工智能)
+  - [预发环境-影子流量](#预发环境-影子流量)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -83,3 +84,9 @@ top_img:
 
 > <img src="https://i.loli.net/2021/10/28/ZCXDmhEQoFkK7Jd.png" alt="20211028221518" />\
 > [一文看懂人工智能、机器学习、深度学习与神经网络之间的区别与关系](https://zhuanlan.zhihu.com/p/86794447)
+
+---
+
+### 预发环境-影子流量
+
+> [谈一谈线上事故的故事](https://segmentfault.com/a/1190000039805146)
