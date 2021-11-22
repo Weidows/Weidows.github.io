@@ -18,7 +18,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-08 11:00:11
+ * @LastEditTime: 2021-11-20 14:40:35
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -26,20 +26,21 @@ top_img:
 
 - [引入变量](#引入变量)
 - [各个优缺点](#各个优缺点)
-- [Scoop 安装](#scoop-安装)
-- [Chocolatey 安装](#chocolatey-安装)
-- [scoop-completion](#scoop-completion)
-- [加速下载](#加速下载)
-  - [通过 aria2](#通过-aria2)
-  - [通过代理](#通过代理)
-- [Scoop 绝活](#scoop-绝活)
-- [配置文件](#配置文件)
+- [安装](#安装)
   - [Scoop](#scoop)
   - [Chocolatey](#chocolatey)
+- [功能提升](#功能提升)
+  - [scoop-completion](#scoop-completion)
+  - [加速下载](#加速下载)
+- [Scoop 绝活](#scoop-绝活)
+- [配置文件](#配置文件)
+  - [Scoop](#scoop-1)
+  - [Chocolatey](#chocolatey-1)
 - [好文传送](#好文传送)
-- [安装异常](#安装异常)
+- [报错异常](#报错异常)
   - [网络原因](#网络原因)
   - [环境原因](#环境原因)
+  - [内核更换报错](#内核更换报错)
 - [更新&备份&推荐](#更新备份推荐)
 
 ## 引入变量
@@ -82,7 +83,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## Scoop 安装
+## 安装
+
+### Scoop
 
 - 安装前先设置下 Scoop 的`安装路径`
 - 下面操作需要在 pwsh 中进行,没有的话可以手动操作.
@@ -153,9 +156,9 @@ top_img:
     Type 'scoop help <command>' to get help for a specific command.
     ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+---
 
-## Chocolatey 安装
+### Chocolatey
 
 - 首先设置环境变量 `ChocolateyInstall` ,值为要安装的位置,如下
 
@@ -167,7 +170,9 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## scoop-completion
+## 功能提升
+
+### scoop-completion
 
 - scoop 命令按 tab 自动补全
 
@@ -181,13 +186,9 @@ top_img:
 
 ---
 
-## 加速下载
+### 加速下载
 
-### 通过 aria2
-
-- 安装 `aria2`
-
-- 配置
+- 通过 aria2,配置:
 
   ```shell
   scoop config aria2-split 32
@@ -197,16 +198,14 @@ top_img:
 
 ---
 
-### 通过代理
-
-- 设置代理
+- 通过代理:
 
   ```
   scoop config proxy localhost:7890
   choco config set proxy localhost:7890
   ```
 
-- 移除代理
+  移除代理:
 
   ```
   scoop config rm proxy
@@ -249,7 +248,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 安装异常
+## 报错异常
 
 ### 网络原因
 
@@ -313,28 +312,27 @@ top_img:
 
   大概意思: shovel 是 scoop-core 替换增强版,你需要安装这家伙 (虽然用的人并不是很多)
 
+### 内核更换报错
+
+- 把内核换成了 Gitee 上的,出现了报错:
+
+  ```
+  Updating Scoop...
+  Your configuration specifies to merge with the ref 'refs/heads/main'
+  from the remote, but no such ref was fetched.
+  ERROR Update failed.
+  ```
+
+- 仔细检查了下是分支问题
+
+  远程上是 master 分支,而本地配置为 main 分支 (配置文件在 ~/.config/scoop/config.yml)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 更新&备份&推荐
 
-- 检查软件更新:
 
-  ```
-  scoop status
-  ```
+- 备份方法可见: [🎃backuper~开发环境备份.](../backuper)
 
-  ***
-
-- 运行库(安装后就可以卸载)
-
-  ```
-  scoop install vcredist
-  scoop uninstall vcredist vcredist2005 vcredist2008 vcredist2010 vcredist2012 vcredist2013
-
-  scoop install nvidia-display-driver-with-3d-vision-np
-  ```
-
-- 备份: [方法可见: 🎃backuper~开发环境备份.](../backuper)
-
-  > - 库: [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak)
-  > - 软件: [链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak)
+  > - 库: https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak
+  > - 软件: https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak

@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-14 15:15:39
+ * @LastEditTime: 2021-11-19 14:23:37
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -135,6 +135,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 |         `start + exe`          |   打开应用程序    |
 | `start/explore + URL/HTML文件` | 用默认浏览器打开  |
 |      `microsoft-edge:URL`      | 用 edge 打开 URL  |
+|            `xxx /?`            |    xxx 的帮助     |
 
 - 注意 cmd 不支持`/`作为路径,PowerShell 支持
 

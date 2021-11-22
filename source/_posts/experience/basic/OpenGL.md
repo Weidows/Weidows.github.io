@@ -1,5 +1,5 @@
 ---
-title: 🥵OpenGL-conan-蚌埠之路
+title: 🥵OpenGL-xmake-蚌埠住了
 categories:
   - experience
   - basic
@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-28 16:03:07
+ * @LastEditTime: 2021-11-20 12:15:26
  * @FilePath: \Blog-private\source\_posts\experience\basic\OpenGL.md
  * @Description:
  * @!: *********************************************************************
@@ -31,27 +31,23 @@ top_img:
   - [报错](#报错)
   - [测试](#测试)
 - [C](#c)
-  - [下载-引入库](#下载-引入库)
-  - [改配置](#改配置)
-  - [注意点](#注意点)
+  - [xmake-引入库](#xmake-引入库)
   - [测试](#测试-1)
-- [依赖管理](#依赖管理)
+  - [实例代码库](#实例代码库)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 简介
 
-- 大三了,学校开了图形学这门课程,让我们配置下环境
+- 学校开了图形学这门课程,让我们配置下环境
 
-  老师给的是 VS + OpenGL + C/C++ 的方式
-
-  我...一向写 Java 的,没怎么接触过 VS,装了几次不好用卸载了
+  老师给的是 VS + OpenGL + C/C++ + 复制库文件 的方式
 
 - 转路
 
   1. `VScode + Python + pyopengl 库`
 
-  2. `Vscode + C++ + opengl 库`
+  2. `Vscode + C++ + xmake(需要VisualStudio) + 各种库` (推荐方法)
 
   ***
 
@@ -119,159 +115,107 @@ glutMainLoop()
 
 ## C
 
-如果你喜欢 VScode 调试 C/C++,而不想装体型庞大的 Visual Studio
+如果你喜欢 VScode 调试 C/C++,而不想用比较复杂的 Visual Studio
 
 如果你想通过简单的配置就让 VScode 能调试 OpenGL
 
 恭喜,马上就好!
 
-首先,按照我另一篇文章: [👌茅塞顿开之C/C++-VScode-xmake](../../C/C_Configuration.md) 配置好 `vscode + C/C++` 的开发环境
+首先,按照我另一篇文章: [👌 茅塞顿开之 C/C++-VScode-xmake](../../C/C_Configuration.md) 配置好 `vscode + C/C++` 的开发环境
 
 ---
 
-### 下载-引入库
+### xmake-引入库
 
-> 下载压缩包: [OpenGL-library](https://github.com/Weidows-projects/Programming-Configuration/releases/tag/1.0.0) \
-> 在 Vscode 里调试的话,用的是 `glut.64.zip` ,另一个 32.zip 是给 Visual Studio 用的 \
-> 把压缩包里的文件,严格按照目录名复制到你的编译器里 (MinGW64 / Clang / gcc 里面都会有对应目录) \
-> 参照: [Win10 + VSCode + GLUT 配置](http://t.zoukankan.com/cralor-p-14015063.html)
+xmake 自带的 xrepo 可以安装 xrepo/vcpkg/conan 的库
 
----
+- 需要注意一下:
 
-### 改配置
+  虽然我这里使用 vscode + xmake,但是安装依赖时仍需要调用 visualstudio,必须安装
 
-- 在编译时需要加上 `-l glut32 -l glu32 -l opengl32` 这一段才行, 需要做两个修改
+  需要安装的有两个: `buildtools + visualstudio community`
 
-- .vscode/tasks.json
+  <img src="https://i.loli.net/2021/11/20/OuiQ8WnjASBJdtV.png" alt="20211120115814" />
 
-  ```json
-  {
-    "version": "2.0.0",
-    "tasks": [
-      {
-        //这是我的g++环境配置
-        "type": "shell",
-        "label": "C/C++: gcc.exe build active file",
-        "command": "g++", //就是在shell里输入的gcc
-        "args": [
-          "-g",
-          "${file}",
-          "-o",
-          "${fileDirname}\\${fileBasenameNoExtension}.exe",
-          "-l",
-          "glut32",
-          "-l",
-          "glu32",
-          "-l",
-          "opengl32"
-        ],
-        "problemMatcher": ["$gcc"],
-        "group": {
-          "kind": "build",
-          "isDefault": true
-        }
-      } //gcc配置到这里结束
-    ]
-  }
-  ```
+  buildtools 也就是生成工具只有那一个,裸装就好,里面的东西不用装
 
-- .vscode/tasks.json
+  visualstudio community 的话什么版本都行,xmake 都支持了,它里面必须装 `C++ 桌面开发`,不能装成其他的
 
-  ```json
-  {
-    "C_Cpp.errorSquiggles": "Enabled",
-    "files.associations": {
-      "stdlib.h": "c",
-      "stdio.h": "c",
-      "string.h": "c",
-      "math.h": "c",
-      "glut.h": "c",
-      "windows.h": "c"
-    },
-    "code-runner.executorMap": {
-      "c": "chcp 65001 && gcc *.c -o $fileNameWithoutExt -l glut32 -l glu32 -l opengl32 && ./$fileNameWithoutExt",
-      "cpp": "chcp 65001 && g++ *.cpp -o $fileNameWithoutExt -l glut32 -l glu32 -l opengl32 && ./$fileNameWithoutExt",
-      "pde": "processing-java --force --sketch=$dir --output=$dir/out --run"
-    }
-  }
-  ```
+  <img src="https://i.loli.net/2021/11/20/kWgXvhQ9M74V1Ho.png" alt="20211120115909" />
 
-> 完整链接: https://github.com/Weidows-projects/Programming-Configuration/tree/master/others/.vscode
+  语言包记得选中+英! 不然识别不到
 
----
-
-### 注意点
-
-有点小遗憾,VScode 的调试器并不能很好的兼容中文,意思就是如果 C/Cpp `文件路径/文件名有中文` 的话 debug 会报错
-
-不过通过 Code Runner 直接运行的话就算有中文也没问题
+  <img src="https://i.loli.net/2021/11/20/YxtcXgoI3ThPmqn.png" alt="20211120120254" />
 
 ---
 
 ### 测试
 
-```c
-#include <GL/glut.h>
-#include <stdlib.h>
-void Initial(void)
-{
-  glMatrixMode(GL_PROJECTION); //设置投影参数，表示下面进行投影变换。若改GL_PROJECTION为GL_MODEVIEW则进行视图变换。
-  glLoadIdentity();            //通常我们在需要进行投影变换时要把当前矩形设置为单位矩阵，即glLoadIdentity()
-  gluOrtho2D(0.0, 200.0, 0.0, 200.0);
-}
+- xmake.lua
 
-void Display(void)
-{
-  glClear(GL_COLOR_BUFFER_BIT);
-  glPushMatrix(); //操作矩阵堆栈,调用函数，相当于把矩阵放到堆栈上
-  glColor3f(1.0f, 1.0f, 1.0f);
-  glTranslated(100, 100, 0);
-  glTranslated(70, 0, 0);
-  glRotated(-90, 0, 0, 1);
-  glScaled(0.25, 0.25, 0.0);
-  glTranslated(-100, -100, 0);
-  glBegin(GL_POLYGON);
-  glVertex2f(50, 50);
-  glVertex2f(150, 50);
-  glVertex2f(100, 150);
-  glEnd();
-  glPopMatrix();
+  ```lua
+  -- 引用.lib形式的静态库会报错,所以要用shared动态链接库版本
+  add_requires("freeglut",{configs = {shared = true}})
 
-  glBegin(GL_POLYGON); //opengl要求指定顶点的位置必须在glBegin()后面，同时在glEnd()后面。
-  glVertex2f(50, 50);
-  glVertex2f(150, 50);
-  glVertex2f(100, 150);
-  glEnd();
-  glFlush();
-}
+  -- 全局添加依赖
+  add_packages("freeglut")
 
-int main(int argc, char **argv)
-{
-  glutInit(&argc, argv);
-  glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB); //使用单缓存模式，如果GLUT_DOUBLE则为双缓存模式
-  glutInitWindowSize(600, 600);                //设置窗口大小
-  glutInitWindowPosition(100, 100);            //设置窗口位置
-  glutCreateWindow("Triangle");
-  glutDisplayFunc(Display);
-  Initial();
-  glutMainLoop();
-}
-```
+  target("MazeGame")
+      set_kind("binary")
+      add_files("test.cpp")
+  target_end()
+  ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+- test.cpp
 
-## 依赖管理
+  ```c
+  #include <GL/glut.h>
+  #include <stdlib.h>
+  void Initial(void)
+  {
+    glMatrixMode(GL_PROJECTION); //设置投影参数，表示下面进行投影变换。若改GL_PROJECTION为GL_MODEVIEW则进行视图变换。
+    glLoadIdentity();            //通常我们在需要进行投影变换时要把当前矩形设置为单位矩阵，即glLoadIdentity()
+    gluOrtho2D(0.0, 200.0, 0.0, 200.0);
+  }
 
-- 起因
+  void Display(void)
+  {
+    glClear(GL_COLOR_BUFFER_BIT);
+    glPushMatrix(); //操作矩阵堆栈,调用函数，相当于把矩阵放到堆栈上
+    glColor3f(1.0f, 1.0f, 1.0f);
+    glTranslated(100, 100, 0);
+    glTranslated(70, 0, 0);
+    glRotated(-90, 0, 0, 1);
+    glScaled(0.25, 0.25, 0.0);
+    glTranslated(-100, -100, 0);
+    glBegin(GL_POLYGON);
+    glVertex2f(50, 50);
+    glVertex2f(150, 50);
+    glVertex2f(100, 150);
+    glEnd();
+    glPopMatrix();
 
-  搞到的 C/C++代码头文件总是会缺少某些库 (比如 glux,glaux 这种)
+    glBegin(GL_POLYGON); //opengl要求指定顶点的位置必须在glBegin()后面，同时在glEnd()后面。
+    glVertex2f(50, 50);
+    glVertex2f(150, 50);
+    glVertex2f(100, 150);
+    glEnd();
+    glFlush();
+  }
 
-  硬从网上找 binary 复制进编译器格外的不优雅,而且需要的库一旦多起来十分繁琐
+  int main(int argc, char **argv)
+  {
+    glutInit(&argc, argv);
+    glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB); //使用单缓存模式，如果GLUT_DOUBLE则为双缓存模式
+    glutInitWindowSize(600, 600);                //设置窗口大小
+    glutInitWindowPosition(100, 100);            //设置窗口位置
+    glutCreateWindow("Triangle");
+    glutDisplayFunc(Display);
+    Initial();
+    glutMainLoop();
+  }
+  ```
 
-  ***
+---
 
-- 于是,找了一下 C/C++的依赖管理工具:
-
-  比较流行的是 vcpkg / conan
-
-  [vspkg 安装必须需要 visualstudio](https://github.com/microsoft/vcpkg/blob/master/README_zh_CN.md#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-windows),劝退我了
+### [实例代码库](https://github.com/Weidows/C--)

@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-03 16:37:06
+ * @LastEditTime: 2021-11-23 00:12:47
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -39,6 +39,9 @@ top_img:
 - [颜色配置](#颜色配置)
 - [虚拟机代理不通](#虚拟机代理不通)
 - [数据迁移](#数据迁移)
+- [OneDrive](#onedrive)
+  - [打不开](#打不开)
+  - [硬盘错误](#硬盘错误)
 
 ## 窗口逸出
 
@@ -245,3 +248,45 @@ LSP mode : on
 - 这样的话可以试试换个压缩软件 (7z)
 
   在电脑上压缩后复制到手机,然后手机解压就可以获取到这种怪名文件了.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## OneDrive
+
+### 打不开
+
+> [Win10 Onedrive 打不开无法访问怎么办](https://zhidao.baidu.com/question/684463771223457772.html)
+
+---
+
+### 硬盘错误
+
+> 在重分析点缓冲区中的标记无效 0x80071129
+
+- 在 OneDrive 同步时网咯出了问题,然后这个文件夹就卡 bug 了,尝试过一下方法删除:
+
+  - 直接删
+
+  - 垃圾清理
+
+  - 各种解除占用,文件夹粉碎
+
+  - 右键硬盘 -> 属性 -> 工具 -> 查错 -> 重启 ([win10 系统在重分析点缓冲区中的标记无效 的解决方法](https://blog.csdn.net/COCO56/article/details/108634554))
+
+  - 进安全模式删除
+
+  - 进 PE 删除
+
+  - 修复模式命令行删除
+
+  ***
+
+- 通通不行,后来发现 Windows 有自带修复命令,试了试:
+
+  > [在 Windows 中使用磁盘修复命令 CHKDSK 检查并修复磁盘错误](https://www.disktool.cn/content-center/command-prompt-check-disk-6540.html)
+
+  ```
+  chkdsk E: /f
+  ```
+
+  然后会问占用问题,直接输 Y,很快就好了!
