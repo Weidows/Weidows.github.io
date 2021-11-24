@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-17 23:26:05
+ * @LastEditTime: 2021-11-23 23:15:33
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -110,6 +110,15 @@ top_img:
   2 -> two -> to , 也就是说:
 
   how to , html to pug , Peer to Peer 这种意思
+
+  | 英  | 汉                              |
+  | :-: | :------------------------------ |
+  | B2B | business to business,商家对商家 |
+  | C2C | consumer to consumer,个人对个人 |
+  | B2C | business to consumer,商家对个人 |
+  | O2O | online to offline,线上到线下    |
+
+  > [C2C、O2O、B2B、B2C 的区别在哪里？](https://www.zhihu.com/question/20171789)
 
 - 4U , 4coder , SLF4J
 

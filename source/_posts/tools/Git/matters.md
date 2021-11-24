@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-09 16:09:48
+ * @LastEditTime: 2021-11-24 11:37:22
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -32,6 +32,7 @@ top_img:
 - [被墙问题](#被墙问题)
 - [版本回退](#版本回退)
 - [缩小仓库体积](#缩小仓库体积)
+- [创建独立分支](#创建独立分支)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -242,3 +243,10 @@ fatal: Need to specify how to reconcile divergent branches.
   <img src="https://i.loli.net/2021/11/02/bfclOgwDjq6ZoM3.png" alt="20211102144127" />
 
   所以,原因是没删除 github 上的 tags,删掉就没了捏
+
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 创建独立分支
+
+> git checkout --orphan 新分支名

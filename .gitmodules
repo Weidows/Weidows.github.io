@@ -1,0 +1,10 @@
+# [submodule "themes/hexo-theme-obsidian"]
+# 	path = themes/hexo-theme-obsidian
+# 	url = https://hub.fastgit.org/bennyxguo/hexo-theme-obsidian.git
+# [submodule "themes/hexo-theme-aurora"]
+# 	path = themes/hexo-theme-aurora
+# 	url = https://github.com/auroral-ui/hexo-theme-aurora.git
+[submodule "themes/hexo-theme-butterfly"]
+	path = themes/hexo-theme-butterfly
+	url = https://github.com/Weidows/hexo-theme-butterfly.git
+	branch = mine
