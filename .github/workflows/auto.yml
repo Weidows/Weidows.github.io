@@ -9,6 +9,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2 # 下面这个最好设成 false
         with:
+          submodules: true
           persist-credentials: false
 
       - name: My-Tasks

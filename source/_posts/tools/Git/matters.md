@@ -14,7 +14,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-24 11:37:22
+ * @LastEditTime: 2021-11-24 17:00:26
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.md
  * @Description:
 -->
@@ -32,7 +32,11 @@ top_img:
 - [被墙问题](#被墙问题)
 - [版本回退](#版本回退)
 - [缩小仓库体积](#缩小仓库体积)
+  - [删除提交记录](#删除提交记录)
+  - [分支独立法](#分支独立法)
 - [创建独立分支](#创建独立分支)
+- [github-action](#github-action)
+  - [checkout](#checkout)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -216,6 +220,8 @@ fatal: Need to specify how to reconcile divergent branches.
 
 ## 缩小仓库体积
 
+### 删除提交记录
+
 有的仓库因为有时候会提交图片,导致仓库体积格外的庞大
 
 而且大到一定程度会被平台检查 (所以要想办法缩小)
@@ -244,9 +250,38 @@ fatal: Need to specify how to reconcile divergent branches.
 
   所以,原因是没删除 github 上的 tags,删掉就没了捏
 
+---
+
+### 分支独立法
+
+- 起初使用的是上面的方法,后来突然想到把这些大文件独立分支
+
+  当需要减小体积时,本地保留好当前内容然后直接删除分支
+
+  再重新拉起一个同名分支 force push
+
+- 这个方法应该更好些,避免删除不必要内容.
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 创建独立分支
 
 > git checkout --orphan 新分支名
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## github-action
+
+### checkout
+
+<img src="https://i.loli.net/2021/11/24/bPekAW2iuNHrd7D.png" alt="20211124165145" />
+
+- checkout 默认下只会检出默认分支,不会 clone submodules,可以设置自定义
+
+  ```
+  - name: Clone repository
+    uses: actions/checkout@v2
+    with:
+      ref: dev # checkout dev branch
+      submodules: true
+  ```
