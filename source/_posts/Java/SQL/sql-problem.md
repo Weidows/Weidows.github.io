@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-15 13:07:26
+ * @LastEditTime: 2021-12-04 08:59:48
  * @FilePath: \Blog-private\source\_posts\Java\SQL\sql-problem.md
  * @Description:
  * @!: *********************************************************************
@@ -30,10 +30,11 @@ top_img:
 - [模糊查询](#模糊查询)
 - [where](#where)
 - [多索引排序](#多索引排序)
-- [Mariadb 无法远程连接](#mariadb-无法远程连接)
+- [Mariadb-无法远程连接](#mariadb-无法远程连接)
 - [数据源连接不上](#数据源连接不上)
 - [docker-databases](#docker-databases)
 - [接口数据速览](#接口数据速览)
+- [外键-数据-导出入](#外键-数据-导出入)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -139,7 +140,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## Mariadb 无法远程连接
+## Mariadb-无法远程连接
 
 - 在 manjaro 虚拟机装了个 mariadb
 
@@ -198,3 +199,39 @@ top_img:
   <img src="https://i.loli.net/2021/10/15/axDBtA1YhiFylob.png" alt="20211015130109" />
 
   <img src="https://i.loli.net/2021/10/15/Zb92EoeCIJ37zLg.png" alt="20211015130815" />
+
+---
+
+## 外键-数据-导出入
+
+- 结组做数据库课设时发现,含有外键的表,create table 时会报错.
+
+  解决办法呢,比如下面的三个表
+
+  <img src="https://s2.loli.net/2021/12/04/lOuosRBpgCkGJWV.png" alt="20211204085119" />
+
+  先把 player 和 technology 两个表创建好,再创建 good_at 就不会报错了
+
+  (`也就是需要先创建外键指向的表,再创建含有外键的表`)
+
+  ***
+
+- insert 时还是会遇到问题,跟上面类似
+
+  > Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`test`.`test_user`, CONSTRAINT `fk_test_user_test_user_id` FOREIGN KEY (`test_user_id`) REFERENCES `test_user` (`id`))
+
+  先插入 player / technology 表,再插入 good_at 表
+
+  ***
+
+  实则还有种变相解决方法是在插入前 foreign_key_checks,插入后再打开:
+
+  ```sql
+  set
+    FOREIGN_KEY_CHECKS = 0;
+
+  INSERT INTO game(id,name,score,player) VALUES(1,'aggdm',0,2),(2,'cmera',10,10),(3,'hzxgy',10,14),(4,'ihqti',5,12),(5,'hozmy',5,6),(6,'wrcux',1,12),(7,'mlijv',1,9),(8,'qmnij',10,11),(9,'vswdc',7,14),(10,'gebit',6,11);
+
+  set
+    FOREIGN_KEY_CHECKS = 1;
+  ```

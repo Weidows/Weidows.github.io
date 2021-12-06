@@ -13,29 +13,32 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-09 17:21:32
+ * @LastEditTime: 2021-12-05 11:17:50
  * @FilePath: \Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
 
+- [注意点](#注意点)
 - [基本的](#基本的)
-- [新奇写法](#新奇写法)
-  - [`![]()`](#)
   - [`[]: URL`](#-url)
   - [对话](#对话)
   - [引用+条目](#引用条目)
   - [多行引用](#多行引用)
   - [巨号字体](#巨号字体)
 - [文字样式](#文字样式)
-  - [`*斜体*` 或 `_斜体_`](#斜体-或-_斜体_)
-  - [`**粗体**`](#粗体)
-  - [`标识字`](#标识字)
-  - [`~~中划线~~`](#中划线)
 - [HTML 标签](#html-标签)
   - [收缩框](#收缩框)
   - [下划线](#下划线)
   - [键盘样式](#键盘样式)
-- [注意点](#注意点)
+  - [文字遮盖](#文字遮盖)
+
+## 注意点
+
+1. markdown 文件写的超过 1K 行后,每次格式化/页面加载的性能损耗是恐怖的,而且不利于观看,所以尽量控制 markdown 行数别太多 (我是超过 500~600 行会分页)
+
+2. 不同平台对 markdown 渲染不同,有可能会产生格式不对称问题. (例如 GitHub / Gitee / CSDN 对 README 渲染就不一样)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 基本的
 
@@ -52,6 +55,67 @@ top_img:
   - 段落形式的标题,如下
 
   - #### 这是一个段落标题,h3 字号
+
+---
+
+- 模拟 console 输出
+
+  ````
+  ```console
+  ╰─ ls
+
+          Directory: D:\Repo\Weidows\Blog-private
+
+
+  Mode                LastWriteTime         Length Name
+  ----                -------------         ------ ----
+  d----         2021/2/13     16:16                  .github
+  d----        2021/11/21     14:32                  .vscode
+  d----        2021/11/25      0:30                  node_modules
+  d----        2021/11/30     14:45                  Others
+  d----        2021/11/26     21:00                  out
+  d----        2021/11/25      0:17                  public
+  d----         2021/5/23      0:07                  scaffolds
+  d----         2021/11/6     10:33                  source
+  d----        2021/11/25      9:46                  themes
+  -a---        2021/11/24     16:04           8324   _config.yml
+  -a---        2021/11/25      0:28             87   .gitignore
+  -a---        2021/11/25      9:46            436   .gitmodules
+  -a---        2021/11/25      0:19       55039465   db.json
+  -a---         2020/9/16     23:32          35184   LICENSE
+  -a---        2021/11/25      0:30         544859   package-lock.json
+  -a---        2021/11/25      0:09           1168   package.json
+  ````
+
+  ````
+
+  样式:
+
+  ```console
+  ╰─ ls
+
+          Directory: D:\Repo\Weidows\Blog-private
+
+
+  Mode                LastWriteTime         Length Name
+  ----                -------------         ------ ----
+  d----         2021/2/13     16:16                  .github
+  d----        2021/11/21     14:32                  .vscode
+  d----        2021/11/25      0:30                  node_modules
+  d----        2021/11/30     14:45                  Others
+  d----        2021/11/26     21:00                  out
+  d----        2021/11/25      0:17                  public
+  d----         2021/5/23      0:07                  scaffolds
+  d----         2021/11/6     10:33                  source
+  d----        2021/11/25      9:46                  themes
+  -a---        2021/11/24     16:04           8324   _config.yml
+  -a---        2021/11/25      0:28             87   .gitignore
+  -a---        2021/11/25      9:46            436   .gitmodules
+  -a---        2021/11/25      0:19       55039465   db.json
+  -a---         2020/9/16     23:32          35184   LICENSE
+  -a---        2021/11/25      0:30         544859   package-lock.json
+  -a---        2021/11/25      0:09           1168   package.json
+  ````
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -191,34 +255,19 @@ top_img:
 
 ## 文字样式
 
-### `*斜体*` 或 `_斜体_`
-
-- 样式:
-  _斜体_
-
----
-
-### `**粗体**`
-
-- 样式:
-  **粗体**
-
-### `标识字`
-
-- 样式:
-
-  `标识字`
-
----
-
-### `~~中划线~~`
-
-- 样式
-  ~~样式演示~~
+|    样式    | 写法                 |
+| :--------: | :------------------- |
+|   _斜体_   | \*斜体\* 或 \_斜体\_ |
+|  **粗体**  | \*\*粗体\*\*         |
+|  `标识字`  | \`标识字`            |
+| ~~中划线~~ | \~~中划线~~          |
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## HTML 标签
+
+<span style="background: grey; color: grey">遮盖体-select</span>
+<span style="background: grey; color: grey" onmouseout="this.style.background='grey';this.style.color='grey'" onmouseover="this.style=''">遮盖体-hove</span>
 
 ### 收缩框
 
@@ -229,9 +278,8 @@ top_img:
 </details>
 ```
 
-- 演示
-  <details>
-    <summary>收缩框标题</summary>
+- <details>
+    <summary>演示: 收缩框标题</summary>
     这里写内容
   </details>
 
@@ -243,8 +291,7 @@ top_img:
 <u>文字</u>
 ```
 
-- 样式
-  <u>文字</u>
+- 样式 <u>文字</u>
 
 ---
 
@@ -254,13 +301,18 @@ top_img:
 <kbd>Ctrl + shift + [</kbd>
 ```
 
-- 样式
-  <kbd>Ctrl + shift + [</kbd>
+- 样式 <kbd>Ctrl + shift + [</kbd>
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+---
 
-## 注意点
+### 文字遮盖
 
-1. markdown 文件写的超过 1K 行后,每次格式化和页面加载的性能损耗是恐怖的,所以尽量控制 markdown 行数别太多
+```
+<span style="background: grey; color: grey">遮盖体-select</span>
+<span style="background: grey; color: grey" onmouseout="this.style.background='grey';this.style.color='grey'" onmouseover="this.style=''">遮盖体-hove</span>
+```
 
-2. 不同平台对 markdown 渲染不同,有可能会产生格式不对称问题. (例如 GitHub 与 Gitee 的 README 渲染就不一样)
+- 样式:
+
+  <span style="background: grey; color: grey">遮盖体-select</span>
+  <span style="background: grey; color: grey" onmouseout="this.style.background='grey';this.style.color='grey'" onmouseover="this.style=''">遮盖体-hove</span>

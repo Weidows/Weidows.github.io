@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "02333809bd70046d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd59570bf4dcc236",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/experience/shell/奇技淫巧.md",
+            "mode": "source"
+          }
+        },
+        "group": "02377adefef64a2d"
+      },
+      {
+        "id": "ef89290b680a3b9b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/experience/shell/奇技淫巧.md",
+            "mode": "preview"
+          }
+        },
+        "group": "02377adefef64a2d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7887dc6b14e42ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e7da37d7cec679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1063c76fc3939111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0f4e71237c0b2ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4463efb2e86a14d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126c6e9368c38530",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/experience/shell/奇技淫巧.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7a533589feb8f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "51016a4155ea43d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9498906785b9a3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/experience/shell/奇技淫巧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf074812db8e60cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1db55a6d26445f95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec31cabb70bdba28",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "bd59570bf4dcc236",
+  "lastOpenFiles": [
+    "_posts/experience/shell/奇技淫巧.md",
+    "_posts/Web/JavaScript/CORS.md",
+    "_posts/tools/backuper.md",
+    "_posts/Web/JavaScript/study-1.md",
+    "_posts/system/system_variable.md",
+    "_posts/Web/css/css-1.md",
+    "_posts/Web/css/ClassKeyWords.md",
+    "gallery/Anime/Acfun.md",
+    "_posts/Java/MyBatis/1.md",
+    "_posts/others/LearnWay.md"
+  ]
+}

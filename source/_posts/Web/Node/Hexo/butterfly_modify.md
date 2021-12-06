@@ -19,8 +19,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-26 13:56:34
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\butterfly_modify.md
+ * @LastEditTime: 2021-12-06 12:41:10
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\butterfly_modify.md
 -->
 
 - [魔改滚动条](#魔改滚动条)
@@ -238,39 +238,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片202007252
   ```styl
   /* 鼠标图标 */
   body
-    cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/1.png), auto
+    cursor url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAADHklEQVRIia2WyWtTURSHv/veS8wzVpMmdjApxSIKdQJpS4ili1orijgP4MbpTxBEdKEgLqwLF9qVBcWFqOAILaLUjQsXVqUWbMUU0ZrW0smWaGPa5LnIu+mzdkjSHHjcd7nn/j7OucO5gn9NTOsb5NBEQUFt/Y4dX7/t3j08Egjcve/xVFTNAM1M1NLqO3eGu3V9RZEcNIxE4suXm7c7O8+c/f178AdZRKTItrCwbqtVHEAIRSkrO3msvv5zZ2np0ROmf0YRyQmqxxPcPJuTzeZaVlV1q6m6uqVF11f4M4HICLS8vNWr53MuLt6+ra7u7ZuCgtqt6UJkBJrD4S9OZ4LDUVRYU/O8Ze3aCxcBbT6QBCg2m2tZOgAAIVS1vPz8uWDw4QNgyVyQ1CJrmu5IFyDN59u7q7b2davTubxwNogECFXNHADg8QQqg8HWWSESgKo67NkAAFyu9eWBQHMzuJdOh1giWJxVBNLy8ys3BQLXbwCqFZICKIrdthAAQEnJkYN+/4HD0wECQAixoDtH2oYNly8BTqmrTA0pOQE4nWWlPt/+fVJbmcc/KyspObQP8xCm1kAIJWcwl2vjesBmBeTUnM6V/v8Ak5OR8VwB4vFojOR2Ta2BEY2GB3IFiEZ7B7DsIgMwhobefcwVYHi47SOQkACAeF/f49ZcAfr6nrZaAQYw0dPzuDkSCYUXKh6JdPf29Dx5BkwARgoAsbGOjtPXFgpobz91FWI/JUC1jImxsa6wpi3xer3BddmId3VdvtPd3dgEDANRIGEFGIDo73/xQdOcLq93c0aQT58a7nV0nLkCDAIRYBLMvWoBxAGjv//F+9HR9rDbXbHGbs/Pm0s4Egn1trUdbwiFGm8CA8BPIGbq/VMcBMlFdwAuwA2ax+fbs8Xv31Ptdles0nWfF2B8PDw4MtIWCocfvfr+/clLmBwy0zIqUzMTQPYFsIjklbuUZFHXMY++JdoJYNxMxxjwC/hjjhlWwZlMkLwN7SbMYf7LlMbNNERN0RjJnP/3tJyrBshoFPNTmTqYCROSYCodM75b0y0ys/nN+xj+C/Mh4eoX0xP+AAAAAElFTkSuQmCC"), auto
 
-  a
+  a,button,i,#upj
+  #footer-wrap a
+  #pagination .page-number,
+  #nav .site-page
     &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
-
-  button
-    &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
-
-  i
-    &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
-
-  #upj
-    &:hover
-      cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
-
-  #footer-wrap
-    a
-      &:hover
-        text-decoration none
-        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
-
-  #pagination
-    .page-number
-      &:hover
-        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
-
-  #nav
-    .site-page
-      &:hover
-        cursor url(https://cdn.jsdelivr.net/gh/Weidows/Images/img/cursor/2.png), auto
+      cursor url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAdCAYAAAC0T3x2AAADVUlEQVRIibWWXWgUVxTHfzOTZDe7mzHZbGIIIqTaJKxCNMYi9UEwEkkEUdSXFvoUX1of6ge+CIotRehjLbRgXypIiQhRfCkVfLCNokkkqZu0hl0/1qRJzGqS3SUfuztz+7AzcViiMzu2f7gw986d87vnnnPPHXAuyWj/m6Tq6raPurqePO3sjMbWrNna5gao2EEAZceOnquVlS2by8qCVaraFH727OfLgCgGJDuY462qam0xO8Hgtq2ApxiIE5AMeBXFV74yIPvLDZCTRToGwerba7flrkD/iZyAVsswiSLT3ZVHjY0nPt+//+VUe/uD/oqKxmYnYLsVKUDNkSNi0joohK5LkiwDjI9fu5HJvEqsW3f44Ph4z9XBwS+OAbp1umuQVbqezclyaYnZv3fv0KcbNhw7qqrNTcPDJ0/H479cAUQhqLAv24EKtbycmPV4QlUAS0uT0zdv1q8HsmaMpNra3R2dnWNje/eOjIbDZ88B5auAbWVCABTF5yN/5iTZMFbS1nbpx0Dgw42qGm7etOn8ua6uWERVW1rdwEwlkyNPgFITBFA2PHzqW01bWDIn+f0fNOzZ03e7rm5fh1vQ3NzQY/PZ9EiamOi9dedOx3FNW1w2XyqK379zZ+9PbkHz85Ex8hkoZPLplwGSiUTf7/39n30jhL5Sma0ZVaxmZ/+MABq8qVk6kAO0ZHL0hSSVBGpqdrW8zYAzCfHo0ZdfaVrmFZAzY7TiFZAYGfn6u0Tij8j7YFKpx/FMJv0awyNrCbLAsjP3739yJpOZTbsFTU39ehfIYomRVTqwDMwtLLwYHRjovuAGIoQuYrFLPRbQW+8VHRCp1F8TXm9tfTC4vbkYUDT6/bV4/PIV8qHIvgskMPZ2cvLWUCi0vTUQ2FjvBDI9/dvAw4dHz+h69iWwgI1HFpiuP3/e06co3opQ6OMwSKtWCiF0EY1evD442H02l1v8B5gnH3PH1dsHBIFqVW0KNzR0H1i7tn2Lz9dQJ0mlSjr9dHpm5vZQLPZDbyr1dwRIAK8NbzTTkB1IMmAeQAUqAb/RN3dDM1aeNrxIAkvGuLAaspN5c5YCXqN5gBJjPEc+UxcNQNYAiEIjTiWRP3ey4Y31sOfIB10vBLgB2X3zzj/XfwGZgTBog2BRwgAAAABJRU5ErkJggg=="), auto
   ```
 
 ---

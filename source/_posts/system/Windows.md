@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-23 00:12:47
+ * @LastEditTime: 2021-11-26 20:44:53
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -31,7 +31,7 @@ top_img:
   - [切换路径](#切换路径)
 - [压缩包内容异常](#压缩包内容异常)
 - [office](#office)
-  - [`office2019` 和 `office365` 区别.](#office2019-和-office365-区别)
+  - [diff-office2019-office365](#diff-office2019-office365)
   - [网页版 office](#网页版-office)
   - [举栗](#举栗)
   - [推荐文章](#推荐文章)
@@ -42,6 +42,10 @@ top_img:
 - [OneDrive](#onedrive)
   - [打不开](#打不开)
   - [硬盘错误](#硬盘错误)
+- [声音配置](#声音配置)
+  - [驱动](#驱动)
+  - [酷狗](#酷狗)
+  - [系统设置](#系统设置)
 
 ## 窗口逸出
 
@@ -123,7 +127,7 @@ top_img:
 
 ## office
 
-### `office2019` 和 `office365` 区别.
+### diff-office2019-office365
 
 1. 像是 office2015,office2017,office2019 这种的一般是买电脑时就预装在电脑里的
 
@@ -290,3 +294,28 @@ LSP mode : on
   ```
 
   然后会问占用问题,直接输 Y,很快就好了!
+
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 声音配置
+
+关于如何获得动听的声音..
+
+### 驱动
+
+- 如果你更新了一下驱动或者换了个耳机后,音效不堪入耳,那么检查一下这里是不是 `耳机`
+
+  <img src="https://i.loli.net/2021/11/26/8ybYHpIVDs5TMna.png" alt="20211126204114" />
+
+### 酷狗
+
+- 这个品牌当然会有很多诟病的地方,但是它的音效增强是在是强,尤其可以全局
+
+  <img src="https://i.loli.net/2021/11/26/C9Wpe6v5HgmBzE2.png" alt="20211126204303" />
+
+### 系统设置
+
+<img src="https://i.loli.net/2021/11/26/SH5AEKa2sk4TcNU.png" alt="20211126204420" />
+
+音质格式

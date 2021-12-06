@@ -6,7 +6,7 @@
 title: ⭐️齐下无贰⭐️
 subtitle: Weidows の Nest
 description: May all the beauty be bless.✨
-keywords: Weidows Website blog
+# keywords: Weidows Website blog
 author: ⎛⎝Weidows⎠⎞
 language: zh-CN
 timezone: Asia/Shanghai
@@ -96,13 +96,13 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+# include:
+# exclude:
+# ignore:
 
 live2d:
   enable: true
-  scriptFrom: local
+  scriptFrom: jsdelivr
   pluginRootPath: live2dw/
   pluginJsPath: lib/
   pluginModelPath: assets/
@@ -130,6 +130,8 @@ bangumi:
 
 sitemap:
   path: sitemap.xml
+  # tag: false
+  # category: false
 
 steam:
   enable: true
@@ -140,7 +142,8 @@ steam:
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
   imgUrl: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/DOAX-VenusVacation/%E6%A8%AA%E5%B1%8F/9f84a622d3519deb534a9da403e0e50b8daba6e9b5aeff0edb87ac8a880b616f.jpeg # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
-  proxy: # 如果无法访问steam社区的话请使用代理
+  # 如果无法访问steam社区的话请使用代理
+  proxy:
     # host: localhost # 代理ip或域名
     # port: 7890 # 代理端口
 
@@ -181,22 +184,21 @@ deploy:
 
 hexo_submit_urls_to_search_engine:
   submit_condition: count # Submitted condition, optional value: count | period, Now only supports count
-  count: 10 # Submit the latest 10 links
+  count: 100 # Submit the latest 10 links
   period: 900 # Submit a link with a modification time of 900 seconds
   google: 0 #  Whether to submit to Google, optional values: 1 | 0 (0: No; 1: Yes)
   bing: 1 #  Whether to submit to bing, optional value: 1 | 0 (0: no; 1: yes)
   baidu: 1 # Whether to submit to baidu, optional value: 1 | 0 (0: no; 1: yes)
   txt_path: submit_urls.txt ## The address of the text document, the link to be pushed will be saved in this text document
-  baidu_host: https://weidows.gitee.io ## Domain name registered in Baidu webmaster platform
+  baidu_host: https://weidows.github.io ## Domain name registered in Baidu webmaster platform
   baidu_token: tXk4TVcpo7pxHIuK ## Please note that this is your secret key, so do not publish the website source code in the public repository!
-  bing_host: https://weidows.gitee.io ## Domain name registered in Bing webmaster platform
+  bing_host: https://weidows.github.io ## Domain name registered in Bing webmaster platform
   bing_token: 603e84bf2d784f19bbbda4a04b706e81 ## Please note that this is your secret key, so do not publish the website source code in the public repository!
   google_host: https://weidows.github.io ## Domain name registered in Google webmaster platform
   google_key_file: Project.json #Store the json file of the google key in the root directory of the website (same location as the hexo _config.yml file), please do not publish the source code of the website in the public warehouse!
-  replace: 0  # Whether to replace some substrings in links, optional value: 1 | 0 (0: no; 1: yes)
+  replace: 0 # Whether to replace some substrings in links, optional value: 1 | 0 (0: no; 1: yes)
   find_what:
   replace_with:
-
 
 # Ice Kano Plus_in
 # Hexo Github Canlendar
@@ -221,16 +223,37 @@ githubcalendar:
   calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
+# 统计图表，支持发布文章统计、发布日历、Top标签统计、分类统计、分类雷达。
+# see https://www.npmjs.com/package/hexo-butterfly-charts
+charts:
+  enable: true # 是否启用功能
+  postsChart:
+    title: 🎉文章发布统计 # 设置文章发布统计的标题，默认为空
+    interval: 1 # 横坐标间隔
+  tagsChart:
+    title: 🎉标签统计 # 设置标签统计的标题，默认为空
+    interval: 0 # 横坐标间隔
+  postsCalendar_Title: #文章发布日历 # 设置发布日历的标题，默认为空
+  categoriesChart_Title: # 设置分类统计的标题，默认为空
+  categoriesRadar_Title: # 设置分类雷达的标题，默认为空
 
+# opitions for renderer
 markdown:
   plugins:
     - plugin:
-      name: '@neilsustc/markdown-it-katex'
+      name: "@neilsustc/markdown-it-katex"
       options:
         strict: false
 
+auto_dir_categorize:
+  enable: true # options:true, false; default is true
+  force: true # options:true, false; default is false
 
-# Extensions
+keywords: HTML, JavaScript, Hexo,Java, Vue,Shell,PowerShell
+tags:
+  HTML, JavaScript, Hexo,Java, Vue,Shell,PowerShell
+
+  # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-butterfly

@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-23 23:15:33
+ * @LastEditTime: 2021-12-05 00:11:24
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -68,6 +68,7 @@ top_img:
   |       grid        | n. 网格；格子，栅格；输电网                                                                                                                                                     |
   |      router       | n. [计] 路由器；刳刨者                                                                                                                                                          |
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
+  |      dynamic      | 动态的                                                                                                                                                                          |
 
 ---
 
@@ -127,6 +128,12 @@ top_img:
   for you , for coder
 
   Simple Logging Facade for Java
+
+- xxx-dl
+
+  dl -> download
+
+  比如 YouTube-dl
 
 ---
 

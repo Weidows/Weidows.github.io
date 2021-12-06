@@ -15,7 +15,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-24 17:21:05
+ * @LastEditTime: 2021-12-01 20:12:59
  * @FilePath: \Blog-private\source\_posts\experience\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -25,15 +25,16 @@ top_img:
 - [安装](#安装)
 - [测试](#测试)
 - [配置文件位置](#配置文件位置)
-- [镜像加速&代理](#镜像加速代理)
+- [镜像加速-代理](#镜像加速-代理)
 - [修改依赖路径](#修改依赖路径)
 - [PyTorch](#pytorch)
-- [CUDA & cuDNN](#cuda--cudnn)
+- [CUDA-cuDNN](#cuda-cudnn)
 - [导出-安装依赖](#导出-安装依赖)
 - [实例](#实例)
 - [终端](#终端)
   - [激活终端](#激活终端)
   - [环境不一致](#环境不一致)
+  - [更新依赖](#更新依赖)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -112,7 +113,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 镜像加速&代理
+## 镜像加速-代理
 
 > 清华镜像站给了教程: [Anaconda 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
 
@@ -158,6 +159,8 @@ top_img:
       pytorch: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
       simpleitk: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
     ```
+
+  - 最近又发现一个导致此错误的问题: 挂-梯,关掉试试.
 
   </details>
 
@@ -255,7 +258,7 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## CUDA & cuDNN
+## CUDA-cuDNN
 
 - 这两个是为了调用显卡性能,加速训练.
 
@@ -398,3 +401,11 @@ conda init 终端名(powershell)
   ```
 
   事情不大,烦恼不小
+
+---
+
+### 更新依赖
+
+```
+conda update --all
+```

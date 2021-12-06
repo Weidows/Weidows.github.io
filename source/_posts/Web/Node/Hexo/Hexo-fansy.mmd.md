@@ -18,11 +18,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-27 12:42:02
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
+ * @LastEditTime: 2021-12-05 23:50:15
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
 -->
 
-- [Hexo 文章标题 & 格式](#hexo-文章标题--格式)
+- [文章标题-格式](#文章标题-格式)
   - [肯定要背过的](#肯定要背过的)
   - [以下是没用过或无效的](#以下是没用过或无效的)
 - [标签外挂](#标签外挂)
@@ -38,11 +38,11 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
 - [tabs(标签块)](#tabs标签块)
 - [Button](#button)
   - [写法:](#写法)
-  - [好康的 demo:](#好康的-demo)
+  - [好康的-demo](#好康的-demo)
 - [\_config.yml](#_configyml)
 - [图片引入](#图片引入)
 
-## Hexo 文章标题 & 格式
+## 文章标题-格式
 
 在 markdown 文章里面最开头(如果不是开头的话报错),弄上如下框框
 
@@ -276,11 +276,11 @@ content
 
   {% mermaid %}
   pie
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" : 5
+  title Key elements in Product X
+  "Calcium" : 42.96
+  "Potassium" : 50.05
+  "Magnesium" : 10.01
+  "Iron" : 5
   {% endmermaid %}
 
 - 官方原文:
@@ -288,9 +288,9 @@ content
   > - mermaid 标籤不允许嵌套于一些隐藏属性的标籤外挂，例如: tag-hide 内的标籤外挂和 tabs 标籤外挂，这会导致 mermaid 图示无法正常显示，使用时请留意。
   > - 请不要压缩 html 代码，不然会导致 mermaid 显示异常
 
-- 压缩HTML很有必要,如何排除这种添加了mermaid的HTML文件呢?
+- 压缩 HTML 很有必要,如何排除这种添加了 mermaid 的 HTML 文件呢?
 
-  > 我用的如下方式: 把添加了mermaid的markdown文件命名为 `xxx.mmd.md`,这样neat时就会被排除了.
+  > 我用的如下方式: 把添加了 mermaid 的 markdown 文件命名为 `xxx.mmd.md`,这样 neat 时就会被排除了.
 
   ```yaml
   neat_html:
@@ -391,7 +391,7 @@ content
                         larger/留空
 ```
 
-### 好康的 demo:
+### 好康的-demo
 
 ```
 {% btn 'http://www.jerryc.me',JerryC,far fa-hand-point-right,outline blue larger %}
