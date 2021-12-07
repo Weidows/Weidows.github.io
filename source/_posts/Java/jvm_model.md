@@ -1,8 +1,6 @@
 ---
 title: JVM内存模型
 date: 2020-08-25 19:14:35
-categories:
-  - Java
 tags:
   - Java
   - JVM

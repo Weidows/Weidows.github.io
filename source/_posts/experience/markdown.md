@@ -1,8 +1,6 @@
 ---
 title: Markdown 中一些新奇写法.
 date: 2020-11-30 00:09:37
-categories:
-  - experience
 tags:
   - Markdown
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg

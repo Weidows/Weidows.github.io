@@ -1,8 +1,5 @@
 ---
 title: 😡一次解决CORS经验记录.
-categories:
-  - Web
-  - JavaScript
 tags:
   - JavaScript
   - CORS

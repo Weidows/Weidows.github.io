@@ -1,9 +1,6 @@
 ---
 title: ♻VScode插件开发流程.
 date: 2021-01-03 15:18:46
-categories:
-  - tools
-  - vscode
 tags:
   - VScode
   - 插件

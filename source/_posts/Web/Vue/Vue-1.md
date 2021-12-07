@@ -5,9 +5,6 @@ tags:
   - Vue
   - JavaScript
   - HTML
-categories:
-  - Web
-  - Vue
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SYd5WRK4xf1sGbN.png
 top_img:
 ---

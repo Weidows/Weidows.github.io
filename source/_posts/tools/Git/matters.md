@@ -1,9 +1,6 @@
 ---
 title: GitHub操作上的一些问题
 date: 2020-11-21 19:28:51
-categories:
-  - tools
-  - Git
 tags:
   - Github
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg

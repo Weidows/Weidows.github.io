@@ -1,8 +1,6 @@
 ---
 title: 😍Weidowsの成长路线.
 date: 2020-12-30 11:42:22
-categories:
-  - others
 tags:
   - 成长路线
   - 备忘录

@@ -1,8 +1,5 @@
 ---
 title: 😁调戏AI:Copilot
-categories:
-  - tools
-  - vscode
 tags:
   - VScode
   - Copilot

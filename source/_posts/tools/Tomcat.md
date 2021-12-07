@@ -1,7 +1,5 @@
 ---
 title: 🐱‍🏍Maven+Tomcat开发webapp.
-categories:
-  - tools
 tags:
   - Tomcat
   - Maven

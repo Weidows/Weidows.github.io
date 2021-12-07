@@ -1,8 +1,6 @@
 ---
 title: 一些字体和VScode字体设置
 date: 2020-10-18 23:18:10
-categories:
-  - others
 tags:
   - Font
   - VScode

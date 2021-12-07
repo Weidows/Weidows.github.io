@@ -1,8 +1,6 @@
 ---
 title: 🟡Ubuntu-Server搞机记录.
 date: 2021-02-02 02:04:38
-categories:
-  - system
 tags:
   - 计算机系统
   - 虚拟机

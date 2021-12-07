@@ -1,9 +1,6 @@
 ---
 title: Data-技术缓冲区.
 date: 2020-08-19 00:38:26
-categories:
-  - others
-  - backup
 tags:
   - 备忘录
   - Java

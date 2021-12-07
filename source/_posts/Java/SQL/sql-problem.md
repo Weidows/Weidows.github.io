@@ -1,8 +1,5 @@
 ---
 title: 🚚开发之旅~
-categories:
-  - Java
-  - SQL
 tags:
   - SQL
   - 前端

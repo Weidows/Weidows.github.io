@@ -1,8 +1,6 @@
 ---
 title: 🌈初探Docker.
 date: 2021-01-31 00:08:20
-categories:
-  - system
 tags:
   - Docker
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GYBrOKiMjNlC3ap.jpg

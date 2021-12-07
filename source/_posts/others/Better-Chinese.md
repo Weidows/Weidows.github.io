@@ -1,7 +1,5 @@
 ---
 title: 🤷‍♂️国人-不懂-国语.?
-categories:
-  - others
 tags:
   - 笔记
 katex: false

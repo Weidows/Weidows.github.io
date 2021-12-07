@@ -1,8 +1,6 @@
 ---
 title: Java(非)静态代码块及其作用
 date: 2020-09-04 10:49:16
-categories:
-  - Java
 tags:
   - Java
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XNzZpVAlmohqKHY.jpg

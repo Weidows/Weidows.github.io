@@ -1,9 +1,6 @@
 ---
 title: 🐱‍JavaScript学习笔记-(贰)
 date: 2020-12-30 18:09:38
-categories:
-  - Web
-  - JavaScript
 tags:
   - JavaScript
   - 笔记

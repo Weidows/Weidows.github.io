@@ -1,10 +1,6 @@
 ---
 title: 淦翻Hexo各种插件安装+调试
 date: 2020-08-25 00:05:52
-categories:
-  - Web
-  - Node
-  - Hexo
 tags:
   - Hexo
   - 备忘录

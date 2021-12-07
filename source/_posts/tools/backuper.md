@@ -1,7 +1,5 @@
 ---
 title: 🎃backuper~开发环境备份.
-categories:
-  - tools
 tags:
   - 工具
 date: 2021-06-25 11:16:51

@@ -1,8 +1,6 @@
 ---
 title: MOOC浙大翁凯教授Java第六章狐狸与兔子源代码
 date: 2020-08-23 20:54:56
-categories:
-  - Java
 tags: Java
 cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twenty/july/my_interface/interface/Cells173751.png
 ---

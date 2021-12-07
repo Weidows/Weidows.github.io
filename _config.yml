@@ -6,7 +6,7 @@
 title: ⭐️齐下无贰⭐️
 subtitle: Weidows の Nest
 description: May all the beauty be bless.✨
-# keywords: Weidows Website blog
+keywords: Weidows Website blog Java, Javadoc, VScode, Maven, 对象, 编码, 设计模式, JVM, Lambda, PS, 备忘录, 设计, API, 摄影, PHP, Website, LaTeX, yaml, SSH, Linux, Markdown, 音乐, 哲学, 生活, 健身, 笔记, 推荐, 面试, IDEA, HTML, CSS, JavaScript, English, 成长路线, Font, VR, 网课, Manjaro, 计算机系统, 服务器, 虚拟机, 树莓派, Windows, Docker, 多线程, 进程, CPU, Scoop, Git, Python, Node, Ubuntu, wsl2, 环境变量, Aria2, 工具, 图床, 爬虫, MS, package, Tomcat, MyBatis, Map, CRUD, 数据库, 注解, 日志, 分页, MySQL, JDBC, SQL, 前端, JSON, JavaWeb, Servlet, Cookie, Session, JSP, Filter, 架构, 反射, Vue, CORS, 大前端, JQuery, npm, yarn, C, Cmake, OpenGL, conan, 理论知识, Processing, Anaconda, shell, PowerShell, 宝塔面板, 搞笑, 高能, 快捷键, 浏览器, Hexo, Github, PyCharm, Copilot, 插件, Emmet, 美化, snippet, Node.Js, SEO, Pjax, butterfly, pug, styl, 优化, 魔改
 author: ⎛⎝Weidows⎠⎞
 language: zh-CN
 timezone: Asia/Shanghai
@@ -96,9 +96,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-# include:
-# exclude:
-# ignore:
+include:
+exclude:
+ignore:
 
 live2d:
   enable: true
@@ -249,9 +249,15 @@ auto_dir_categorize:
   enable: true # options:true, false; default is true
   force: true # options:true, false; default is false
 
-keywords: HTML, JavaScript, Hexo,Java, Vue,Shell,PowerShell
-tags:
-  HTML, JavaScript, Hexo,Java, Vue,Shell,PowerShell
+# https://github.com/dailyrandomphoto/hexo-easy-tags-plugin
+# enable (default: true) - enable this plugin, or disable it.
+# tag_name_case (default: 0) - option to transform all tags name to lowercase of uppercase. 0 no transform, 1 lowercase, 2 uppercase.
+# sort_ignore_case (default: true) - if set to false, the order of the tags is case sensitive. Affects list_tags(), tagcloud() helpers.
+# action (default: correct) - if set to report, print conflicted tags and exit.
+easy_tags_plugin:
+  enable: true
+  tag_name_case: 1
+  sort_ignore_case: true
 
   # Extensions
 ## Plugins: https://hexo.io/plugins/

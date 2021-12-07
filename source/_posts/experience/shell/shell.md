@@ -1,9 +1,6 @@
 ---
 title: 💧一些常用终端命令.
 date: 2020-09-03 17:35:04
-categories:
-  - experience
-  - shell
 tags:
   - shell
   - 备忘录

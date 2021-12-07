@@ -1,10 +1,6 @@
 ---
 title: 🚀网站优化记录.
 date: 2021-02-07 01:11:24
-categories:
-  - Web
-  - Node
-  - Hexo
 tags:
   - Hexo
   - 优化

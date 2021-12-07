@@ -1,7 +1,5 @@
 ---
 title: 🍹LaTeX~环形使者(?)
-categories:
-  - experience
 tags:
   - LaTeX
 katex: true

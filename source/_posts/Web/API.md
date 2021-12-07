@@ -1,8 +1,6 @@
 ---
 title: 自用 && 收藏的一些API
 date: 2020-11-30 19:28:08
-categories:
-  - Web
 tags:
   - 备忘录
   - API

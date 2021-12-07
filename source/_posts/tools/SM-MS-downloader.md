@@ -1,7 +1,5 @@
 ---
 title: SM.MS-批量下载器
-categories:
-  - tools
 tags:
   - 图床
   - 爬虫

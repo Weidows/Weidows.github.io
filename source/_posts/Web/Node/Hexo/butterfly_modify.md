@@ -1,10 +1,6 @@
 ---
 title: butterfly内部魔改记录
 date: 2020-09-03 22:49:05
-categories:
-  - Web
-  - Node
-  - Hexo
 tags:
   - butterfly
   - Hexo

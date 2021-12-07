@@ -1,8 +1,6 @@
 ---
 title: 😍Manjaro虚拟机充当服务器记录.
 date: 2021-02-03 14:00:21
-categories:
-  - system
 tags:
   - Manjaro
   - 计算机系统

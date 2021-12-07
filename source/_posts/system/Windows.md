@@ -1,8 +1,6 @@
 ---
 title: 💢Windows中一些奇奇怪怪逸事.
 date: 2020-12-28 13:49:19
-categories:
-  - system
 tags:
   - Windows
   - 计算机系统

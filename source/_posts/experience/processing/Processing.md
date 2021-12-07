@@ -1,9 +1,6 @@
 ---
 title: 用VScode编写调试Processing.pde程序
 date: 2020-10-2 23:56:50
-categories:
-  - experience
-  - processing
 tags:
   - Processing
   - VScode

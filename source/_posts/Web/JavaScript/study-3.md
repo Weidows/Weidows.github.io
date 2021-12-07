@@ -1,9 +1,6 @@
 ---
 title: 💔JavaScript学习笔记-(叁)
 date: 2021-01-20 01:47:21
-categories:
-  - Web
-  - JavaScript
 tags:
   - JavaScript
   - 笔记

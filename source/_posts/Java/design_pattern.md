@@ -1,8 +1,6 @@
 ---
 title: Java设计模式
 date: 2020-09-09 22:53:55
-categories:
-  - Java
 tags:
   - Java
   - 设计模式

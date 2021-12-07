@@ -1,8 +1,6 @@
 ---
 title: ✨炒鸡好用的下载器-Aria2
 date: 2021-01-29 12:59:50
-categories:
-  - tools
 tags:
   - Aria2
   - 工具

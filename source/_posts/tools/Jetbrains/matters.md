@@ -1,8 +1,5 @@
 ---
 title: 🤔Matters found in Jetbrains.
-categories:
-  - tools
-  - Jetbrains
 tags:
   - PyCharm
 katex: false

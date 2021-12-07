@@ -1,7 +1,5 @@
 ---
 title: 😁IDE选用指北.
-categories:
-  - others
 tags:
   - VScode
   - IDEA

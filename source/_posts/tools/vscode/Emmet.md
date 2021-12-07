@@ -1,9 +1,6 @@
 ---
 title: 😎上手Emmet.
 date: 2021-01-27 00:10:59
-categories:
-  - tools
-  - vscode
 tags:
   - VScode
   - Emmet

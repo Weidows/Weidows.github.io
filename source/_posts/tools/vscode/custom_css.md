@@ -1,9 +1,6 @@
 ---
 title: VScode撞上赛博朋克风!赛高!
 date: 2020-10-17 23:16:13
-categories:
-  - tools
-  - vscode
 tags:
   - VScode
   - CSS

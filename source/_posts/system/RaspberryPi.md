@@ -1,8 +1,6 @@
 ---
 title: 树莓派酱の吃灰日常.
 date: 2020-12-03 10:44:06
-categories:
-  - system
 tags:
   - 树莓派
   - 服务器

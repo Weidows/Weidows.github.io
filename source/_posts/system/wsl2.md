@@ -1,8 +1,6 @@
 ---
 title: 🎇尝试转投wsl生态.
 date: 2021-02-01 13:54:10
-categories:
-  - system
 tags:
   - wsl2
   - 计算机系统

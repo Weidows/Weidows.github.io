@@ -1,7 +1,5 @@
 ---
 title: 🍔Lambda表达式
-categories:
-  - Java
 tags:
   - Java
   - Lambda

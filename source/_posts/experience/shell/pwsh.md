@@ -1,9 +1,6 @@
 ---
 title: 如何让Windows下的终端变得漂亮和好用起来
 date: 2020-10-13 23:25:31
-categories:
-  - experience
-  - shell
 tags:
   - shell
   - PowerShell

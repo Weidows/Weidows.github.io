@@ -1,7 +1,5 @@
 ---
 title: {{ title }}
-categories:
-  -
 tags:
   -
 katex: false
@@ -17,7 +15,7 @@ date: {{ date }}
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 14:56:14
+ * @LastEditTime: 2021-12-07 10:05:22
  * @FilePath: \Blog-private\scaffolds\post.md
  * @Description:
  * @!: *********************************************************************

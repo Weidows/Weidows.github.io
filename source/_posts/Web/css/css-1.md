@@ -1,9 +1,6 @@
 ---
 title: CSS学习笔记-(一)
 date: 2020-11-10 00:49:54
-categories:
-  - Web
-  - css
 tags:
   - CSS
   - 笔记

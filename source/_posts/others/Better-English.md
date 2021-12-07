@@ -1,7 +1,5 @@
 ---
 title: 🧀Better-English-4-U
-categories:
-  - others
 tags:
   - English
   - 推荐

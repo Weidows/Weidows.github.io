@@ -1,9 +1,6 @@
 ---
 title: 👌JavaScript学习笔记-(肆)
 date: 2021-01-26 21:19:27
-categories:
-  - Web
-  - JavaScript
 tags:
   - JavaScript
   - 笔记

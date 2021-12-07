@@ -1,8 +1,5 @@
 ---
 title: 🥵OpenGL-xmake-蚌埠住了
-categories:
-  - experience
-  - basic
 tags:
   - Python
   - OpenGL

@@ -1,9 +1,6 @@
 ---
 title: VScode用户代码片段设置 && 使用
 date: 2020-08-25 19:14:35
-categories:
-  - tools
-  - vscode
 tags:
   - snippet
   - VScode

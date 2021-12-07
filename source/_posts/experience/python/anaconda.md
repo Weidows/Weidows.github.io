@@ -1,8 +1,5 @@
 ---
 title: 👍Anaconda-Python-水漂浅探池深浅.
-categories:
-  - experience
-  - python
 tags:
   - Anaconda
   - Python

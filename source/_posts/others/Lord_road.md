@@ -1,8 +1,6 @@
 ---
 title: 成长路线(倒叙)
 date: 2020-11-17 11:06:25
-categories:
-  - others
 tags:
   - 备忘录
   - 成长路线

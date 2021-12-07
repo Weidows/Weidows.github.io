@@ -1,8 +1,6 @@
 ---
 title: 🚫仅仅是一篇关于yaml文件语法虐待我后的小诟病
 date: 2020-09-03 18:20:56
-categories:
-  - experience
 tags:
   - yaml
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
@@ -41,10 +39,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 - 比如下面的 Blog 是 backup 的下一级,backup 是 categories 的下一级
 
 ```
-  categories:
-    - backup
-    - Blog
-```
+  ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

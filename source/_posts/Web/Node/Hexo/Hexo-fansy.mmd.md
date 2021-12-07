@@ -1,10 +1,6 @@
 ---
 title: Hexo-pages里一些奇奇怪怪的写法
 date: 2020-08-27 01:13:03
-categories:
-  - Web
-  - Node
-  - Hexo
 tags:
   - Hexo
   - 备忘录
