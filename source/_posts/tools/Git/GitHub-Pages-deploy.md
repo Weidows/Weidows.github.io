@@ -1,7 +1,7 @@
 ---
 title: 一篇扫清:GitHub-Pages自动化部署 + github/gitee选择
 date: 2020-08-23 10:54:41
-tag:
+tags:
   - 备忘录
   - Hexo
   - Website
@@ -13,8 +13,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
  * @Author: Weidows
  * @Date: 2020-08-23 10:54:41
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:02:59
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\GitHub\GitHub-Pages-deploy.md
+ * @LastEditTime: 2021-12-15 19:49:54
+ * @FilePath: \Blog-private\source\_posts\tools\Git\GitHub-Pages-deploy.md
 -->
 
 - [GitHub/Gitee 选择](#githubgitee-选择)

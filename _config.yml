@@ -96,9 +96,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+# include:
+# exclude:
+# ignore:
 
 live2d:
   enable: true
@@ -130,8 +130,8 @@ bangumi:
 
 sitemap:
   path: sitemap.xml
-  # tag: false
-  # category: false
+  tag: false
+  category: false
 
 steam:
   enable: true
@@ -241,7 +241,7 @@ charts:
 markdown:
   plugins:
     - plugin:
-      name: "@neilsustc/markdown-it-katex"
+      name: '@neilsustc/markdown-it-katex'
       options:
         strict: false
 

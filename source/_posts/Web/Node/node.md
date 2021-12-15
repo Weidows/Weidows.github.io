@@ -14,14 +14,16 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-28 15:43:15
+ * @LastEditTime: 2021-12-15 19:34:11
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
 
 - [环境配置](#环境配置)
 - [安装 yarn](#安装-yarn)
-- [换阿里源](#换阿里源)
+- [加速](#加速)
+  - [换阿里源](#换阿里源)
+  - [代理](#代理)
 - [依赖升级](#依赖升级)
 - [参数及常用命令](#参数及常用命令)
   - [`-g(global)`](#-gglobal)
@@ -70,11 +72,13 @@ top_img:
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-## 换阿里源
+## 加速
 
-- 替换源地址
+### 换阿里源
 
-  ```powershell
+- 默认源
+
+  ```console
   npm config set registry https://registry.npm.taobao.org
   yarn config set registry https://registry.npm.taobao.org
   ```
@@ -98,6 +102,29 @@ top_img:
 
   ```
   npm config set registry https://registry.npmjs.org
+  yarn config set registry https://registry.npmjs.org
+  ```
+
+---
+
+### 代理
+
+- 设置代理
+
+  ```console
+  npm config set proxy http://127.0.0.1:7890
+  npm config set https-proxy http://127.0.0.1:7890
+  yarn config set proxy http://127.0.0.1:7890
+  yarn config set https-proxy http://127.0.0.1:7890
+  ```
+
+- 删除代理
+
+  ```console
+  npm config delete proxy
+  npm config delete https-proxy
+  yarn config delete proxy
+  yarn config delete https-proxy
   ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
