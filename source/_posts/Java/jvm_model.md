@@ -11,8 +11,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-04-13 20:05:00
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\jvm_model.md
+ * @LastEditTime: 2021-12-20 21:19:30
+ * @FilePath: \Blog-private\source\_posts\Java\jvm_model.md
 -->
 
 - [子父类加载](#子父类加载)
@@ -28,6 +28,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg
 - [JVM Errors](#jvm-errors)
     - [1.AWT 错误](#1awt-错误)
     - [2.JVM 错误](#2jvm-错误)
+- [深浅-clone](#深浅-clone)
 
 ## 子父类加载
 
@@ -118,3 +119,11 @@ e.getInfo();
 
 - StackOverflow
 - OutOfMemory
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## 深浅-clone
+
+<img src="https://s2.loli.net/2021/12/20/8tr6DhL5wZeK4V3.png" alt="20211220211918" />
+
+<img src="https://s2.loli.net/2021/12/20/bFRma1xAZhJWpKT.png" alt="20211220211958" />

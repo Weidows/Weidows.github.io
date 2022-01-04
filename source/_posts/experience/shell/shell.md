@@ -14,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-19 14:23:37
+ * @LastEditTime: 2022-01-02 15:22:17
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -121,6 +121,8 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 > [批处理定义子程序](https://www.hxstrive.com/article/804.htm)\
 > [批处理命令之 Start 的详细用法](https://www.cnblogs.com/qlqwjy/p/8445993.html)
+
+> [bat 与 shell 互转 Appendix L. Converting DOS Batch Files to Shell Scripts](http://shouce.jb51.net/shell/dosbatch.html)
 
 |              指令              |       作用        |
 | :----------------------------: | :---------------: |
