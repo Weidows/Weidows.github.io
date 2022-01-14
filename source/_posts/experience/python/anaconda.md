@@ -12,7 +12,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-01 20:12:59
+ * @LastEditTime: 2022-01-11 00:40:14
  * @FilePath: \Blog-private\source\_posts\experience\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -32,6 +32,7 @@ top_img:
   - [激活终端](#激活终端)
   - [环境不一致](#环境不一致)
   - [更新依赖](#更新依赖)
+  - [报错](#报错)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -406,3 +407,24 @@ conda init 终端名(powershell)
 ```
 conda update --all
 ```
+
+---
+
+### 报错
+
+```console
+╭─    D:\Repo\Weidows\python   master                              ✔  22:53:48  ─╮
+╰─ python
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+ModuleNotFoundError: No module named 'site'
+
+Current thread 0x00002a54 (most recent call first):
+<no Python frame>
+```
+
+由于使用 scoop 安装的,我以为是我自己环境的错误,后来发现是因为安装脚本中 `persist` 软链接会导致 anaconda 内部错误
+
+这个库 `anaconda3_chawyehsu` 给的我启发,虽然这个安装脚本也不并不很好用
+
+于是我在自己库中添加了一个: https://github.com/Weidows-projects/scoop-3rd/blob/main/bucket/anaconda3.json

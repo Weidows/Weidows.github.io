@@ -16,7 +16,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-20 14:40:35
+ * @LastEditTime: 2022-01-14 16:50:24
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -39,6 +39,7 @@ top_img:
   - [网络原因](#网络原因)
   - [环境原因](#环境原因)
   - [内核更换报错](#内核更换报错)
+  - [scoop-search](#scoop-search)
 - [更新&备份&推荐](#更新备份推荐)
 
 ## 引入变量
@@ -325,10 +326,26 @@ top_img:
 
   远程上是 master 分支,而本地配置为 main 分支 (配置文件在 ~/.config/scoop/config.yml)
 
+### scoop-search
+
+```console
+╰─ scoop search 7 ─╯
+panic: runtime error: index out of range [1] with length 1
+
+goroutine 20 [running]:
+main.matchingManifests(0xc000102060, 0x21, 0xf1b3b8, 0x1, 0xc000052000, 0x10, 0x10)
+        /home/runner/work/scoop-search/scoop-search/main.go:133 +0x106b
+main.main.func1(0xc000092140, 0x15, 0xf1b3b8, 0x1, 0x0, 0xc000088270, 0xc000094150, 0xe92f00, 0xc0000d6070)
+        /home/runner/work/scoop-search/scoop-search/main.go:70 +0x185
+created by main.main
+        /home/runner/work/scoop-search/scoop-search/main.go:63 +0x253
+```
+
+排查了一遍,出现这种问题一般是因为`软件库有问题`, 而不是 scoop/scoop-search 的问题
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 更新&备份&推荐
-
 
 - 备份方法可见: [🎃backuper~开发环境备份.](../backuper)
 
