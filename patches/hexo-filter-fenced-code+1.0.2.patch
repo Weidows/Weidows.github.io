@@ -1,0 +1,14 @@
+diff --git a/node_modules/hexo-filter-fenced-code/lib/filter.js b/node_modules/hexo-filter-fenced-code/lib/filter.js
+index 10c0dac..843e4f5 100644
+--- a/node_modules/hexo-filter-fenced-code/lib/filter.js
++++ b/node_modules/hexo-filter-fenced-code/lib/filter.js
+@@ -82,7 +82,8 @@ var blockTags = [
+   'codeblock',
+   'pullquote',
+   'div',
+-  'section'
++  'section',
++  'mermaid'
+ ];
+ 
+ var inlineTags = [
