@@ -7,17 +7,17 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-14 12:45:41
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\tags\about.md
+ * @LastEditTime: 2022-01-16 17:00:29
+ * @FilePath: \Blog-private\source\tags\about.md
 -->
 
 ## _Contact/联系方式:)_
 
 <center>
 
-{% tabs 邮箱 %}
+{% tabs Email %}
 
-<!-- tab 邮箱@fas fa-tag -->
+<!-- tab Email@fas fa-tag -->
 
 {% btn 'mailto:utsuko27@qq.com',utsuko27@qq.com,far fa-hand-point-right,outline blue larger %}
 
@@ -29,7 +29,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 <!-- endtab -->
 
-<!-- tab 微信/公众号@fas fa-tag -->
+<!-- tab Wechat@fas fa-tag -->
 
 {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/wechat_public.jpeg',@齐下无贰 二维码,far fa-hand-point-right,outline purple larger %}
 
@@ -53,7 +53,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 
 <!-- endtab -->
 
-<!-- tab 其他@fas fa-tag -->
+<!-- tab Others@fas fa-tag -->
 
 {% hideToggle 展开 %}
 
@@ -79,6 +79,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 {% tabs Define %}
 
 <!-- tab Define@fas fa-tag -->
+
 
 - 花名: `齐下无贰`
 
@@ -145,9 +146,5 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
 {% endtabs %}
 
 </center>
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
-### _Missing your way? ->_{% btn 'https://github.com/Weidows',My Profile,far fa-hand-point-right,outline blue %} {% btn '/',Home Page,far fa-hand-point-right,outline red %}
 
 ![20201124010028](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HigcC3IaqbeFSOW.jpg)
