@@ -97,4 +97,6 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.j
 
 {% galleryGroup 开发环境 舒适的小窝. gallery/Private/开发环境 https://i.loli.net/2021/07/12/2uFUPLf4ObWd6kG.jpg %}
 
+{% galleryGroup 喜欢的花 鸢尾 gallery/Private/花 https://i.loli.net/2021/11/06/eKpO7sHWPLXkGvr.png %}
+
 </div>
