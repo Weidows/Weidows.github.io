@@ -1,7 +1,8 @@
 ---
-title: 🤔Matters found in Jetbrains.
+title: 🤔Matters found in IDEs.
 tags:
   - PyCharm
+  - VScode
 katex: false
 comments: true
 aside: true
@@ -14,13 +15,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-08-01 10:11:48
- * @FilePath: \Blog-private\source\_posts\tools\Jetbrains\matters.md
+ * @LastEditTime: 2022-01-25 01:36:56
+ * @FilePath: \Blog-private\source\_posts\tools\matters.md
  * @Description:
  * @!: *********************************************************************
 -->
 
 - [插件无法卸载](#插件无法卸载)
+- [VScode-源代码管理不显示](#vscode-源代码管理不显示)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -49,3 +51,29 @@ top_img:
 ---
 
 - 再重开就没报错了.
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+## VScode-源代码管理不显示
+
+- 问题就是这里的"源代码管理"无法显示出来
+
+  <img src="https://s2.loli.net/2022/01/25/L8rqen43hGBOoyF.png" alt="20220125012150" />
+
+  经各路探索 (改配置/清空数据重装...etc), 发现此问题只局限在我的某个项目,而且即使 fully restore 问题尚在
+
+  ***
+
+- 所以我认为这个问题存在于 vscode 可以同步的数据中
+
+  <img src="https://s2.loli.net/2022/01/25/WzhfPclbnYUg4R9.png" alt="20220125012636" />
+
+  那么,凶手比较明显了: `UI状态`
+
+  ***
+
+- 查找了一番,其定位在 `C:\Users\utsuk\AppData\Roaming\Code\User\globalStorage\state.vscdb`
+
+  打开这个文件,查找关键词 `null` 替换为 `""`
+
+OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!

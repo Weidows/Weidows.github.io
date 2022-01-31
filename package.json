@@ -40,6 +40,7 @@
     "hexo-server": "^3.0.0",
     "hexo-steam-games": "^1.2.1",
     "hexo-submit-urls-to-search-engine": "^2.1.0",
+    "hexo-tag-mmedia": "^1.1.7",
     "hexo-wordcount": "^6.0.1",
     "live2d-widget-model-tororo": "^1.0.5",
     "patch-package": "^6.4.7"

@@ -12,7 +12,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-05 19:38:55
+ * @LastEditTime: 2022-01-31 00:33:30
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -278,3 +278,7 @@ top_img:
 ### 公式
 
 > ~~面向知乎学编程~~: [LaTeX 公式篇](https://zhuanlan.zhihu.com/p/110756681)
+
+![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+
+搁置下蛋 (没接触过学术研究,所以鸽了

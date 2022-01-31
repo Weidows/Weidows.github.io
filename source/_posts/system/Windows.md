@@ -13,7 +13,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2021-11-26 20:44:53
+ * @LastEditTime: 2022-01-26 19:51:04
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -35,6 +35,8 @@ top_img:
   - [推荐文章](#推荐文章)
 - [各种路径](#各种路径)
 - [颜色配置](#颜色配置)
+  - [NVIDIA](#nvidia)
+  - [AMD](#amd)
 - [虚拟机代理不通](#虚拟机代理不通)
 - [数据迁移](#数据迁移)
 - [OneDrive](#onedrive)
@@ -203,6 +205,8 @@ LSP mode : on
 
 离人类默认视角越来越远了。。
 
+### NVIDIA
+
 - <details>
 
     <summary> 前后对比一下 </summary>
@@ -216,6 +220,12 @@ LSP mode : on
 - 面板
 
   <img src="https://i.loli.net/2021/10/03/xvO7Uia6nql81Z2.jpg" alt="1633272772176" />
+
+---
+
+### AMD
+
+<img src="https://s2.loli.net/2022/01/26/tVBIDOuSivQdPna.png" alt="20220126193700" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -292,7 +302,6 @@ LSP mode : on
   ```
 
   然后会问占用问题,直接输 Y,很快就好了!
-
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
