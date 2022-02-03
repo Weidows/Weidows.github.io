@@ -9,3 +9,4 @@ db.json
 node_modules
 public
 Others/out
+package-lock.json
