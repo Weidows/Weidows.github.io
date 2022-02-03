@@ -15,7 +15,7 @@
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
     "hexo": "^6.0.0",
-    "hexo-bilibili-bangumi": "^1.6.4",
+    "hexo-bilibili-bangumi": "^1.7.4",
     "hexo-butterfly-charts": "^1.1.3",
     "hexo-deployer-git": "^3.0.0",
     "hexo-directory-category": "^1.1.4",

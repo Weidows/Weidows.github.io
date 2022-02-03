@@ -16,7 +16,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-15 18:59:45
+ * @LastEditTime: 2022-02-03 19:33:51
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -101,6 +101,8 @@ top_img:
   |      extraction       | n. 取出，提炼；血统                                                                                                                                                     |
   |       allocate        | v. 分配，分派，划拨                                                                                                                                                     |
   |        primary        | adj. 主要的，首要的；<英>小学教育的，初级教育的；初级的，原发性的；最基本的，最根本的；第一手的，直接的；（有机化合物）连上一个碳原子的；（多指胺）（氨基酸顺序）一级的 |
+  |       definite        | 一定的                                                                                                                                                                  |
+  |       capacity        | 容量                                                                                                                                                                    |
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

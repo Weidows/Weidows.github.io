@@ -12,7 +12,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-31 00:33:30
+ * @LastEditTime: 2022-02-03 03:21:53
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -279,6 +279,8 @@ top_img:
 
 > ~~面向知乎学编程~~: [LaTeX 公式篇](https://zhuanlan.zhihu.com/p/110756681)
 
+基本上可以按图索骥了, 写了写: [👽通信技术-开坑自埋](../basic/通信技术#极化码)
+
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
-搁置下蛋 (没接触过学术研究,所以鸽了
+鸽置下蛋 (
