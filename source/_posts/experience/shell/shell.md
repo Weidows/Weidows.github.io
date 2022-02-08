@@ -14,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-02 15:22:17
+ * @LastEditTime: 2022-02-05 23:31:26
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -62,7 +62,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 |                       指令                       |                    作用                     |
 | :----------------------------------------------: | :-----------------------------------------: |
-|     `echo 'add content'>/home/data/test.sh`      |                删除原行内容                 |
+|     `echo 'add content'>/home/data/test.sh`      |               覆盖原文件内容                |
 |     `echo 'add content'>>/home/data/test.sh`     |                 在末尾追加                  |
 | `date +"%Y-%m-%d %H:%M:%S.%N" >> keepchange.txt` | 这种写法也可以,就是把前面当成字符串输入文件 |
 
@@ -163,7 +163,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 
 |              指令               |                     作用                      |
 | :-----------------------------: | :-------------------------------------------: |
-|          `ps -ef/aux`           |                   显示进程                    |
+|          `ps -ef/aux`           |        显示进程(注意多个进程用','隔开而非空格)        |
 |          `kill -9 pid`          |                   杀死进程                    |
 | `lsof -i:8080 / -i@12:34:56:78` | Linux 中一切皆文件,此命令可以显示指定文件信息 |
 

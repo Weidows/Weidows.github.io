@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-15 19:50:36
+ * @LastEditTime: 2022-02-07 01:03:26
  * @FilePath: \Blog-private\source\_posts\experience\basic\OpenGL.md
  * @Description:
  * @!: *********************************************************************
@@ -121,7 +121,7 @@ glutMainLoop()
 
 恭喜,马上就好!
 
-首先,按照我另一篇文章: [👌 茅塞顿开之 C/C++-VScode-xmake](../../C/C_Configuration.md) 配置好 `vscode + C/C++` 的开发环境
+首先,按照我另一篇文章: [👌 茅塞顿开之 C/C++-VScode-xmake](../../../others/cpp/C_Configuration) 配置好 `vscode + C/C++` 的开发环境
 
 ---
 

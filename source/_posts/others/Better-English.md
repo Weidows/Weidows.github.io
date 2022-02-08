@@ -16,7 +16,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-03 19:33:51
+ * @LastEditTime: 2022-02-08 19:07:27
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -68,6 +68,42 @@ top_img:
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
   |      dynamic      | 动态的                                                                                                                                                                          |
   |        API        | [application programming interface 应用程序接口](https://www.zhihu.com/question/19801131) <img src="https://s2.loli.net/2021/12/15/Mw1Ir2WhQT6CYso.png" alt="20211215182715" /> |
+
+---
+
+- 一些符号
+
+  |           英           | 符号  |
+  | :--------------------: | :---- |
+  |       underscore       | \_    |
+  |         dollar         | $     |
+  |        percent         | %     |
+  |         tilde          | ~     |
+  |           at           | @     |
+  |          hash          | #     |
+  |       dot/period       | .     |
+  |     forward-slash      | /     |
+  |     star/asterisk      | \*    |
+  |          plus          | +     |
+  |       dash/minus       | -     |
+  |         equal          | =     |
+  |         colon          | :     |
+  |       semi-colon       | ;     |
+  |         comma          | ,     |
+  |       back-quote       | `     |
+  |      single-quote      | '     |
+  |      double-quote      | "     |
+  | left/right-parenthesis | ( / ) |
+  |    left/right-brace    | { / } |
+  |   left/right-bracket   | [ / ] |
+  |    left/right-angle    | < / > |
+  |         caret          | ^     |
+  |       back-slash       | \     |
+  |     forward-slash      | /     |
+  |     question-mark      | ?     |
+  |    exclamation-mark    | !     |
+  |      dollar-sign       | $     |
+  |     and/ampersand      | &     |
 
 ---
 
@@ -156,4 +192,11 @@ top_img:
   > [QPS、TPS、并发用户数、吞吐量关系](https://juejin.cn/post/6844904084504313863?utm_source=gold_browser_extension)
 
 - 职位
+
   > [UED、UCD、UE、UI、交互设计这 5 个名词的概念有哪些区别？职位分别有什么不同？](https://www.zhihu.com/question/19908990)
+
+- 数学
+
+  |  英   | 汉     |
+  | :---: | :----- |
+  | given | 已知的 |
