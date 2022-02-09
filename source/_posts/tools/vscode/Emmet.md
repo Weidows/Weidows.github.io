@@ -5,7 +5,7 @@ tags:
   - VScode
   - Emmet
   - 工具
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/MSq5Z7OEhmRLI6d.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/MSq5Z7OEhmRLI6d.png
 top_img:
 ---
 
@@ -33,7 +33,7 @@ top_img:
 ## 简单上手
 
 - 如图
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/YOUTJGPcLpd7Bhn.png" alt="20210127001432" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/YOUTJGPcLpd7Bhn.png" alt="20210127001432" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

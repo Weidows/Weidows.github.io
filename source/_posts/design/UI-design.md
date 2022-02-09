@@ -3,7 +3,7 @@ title: 🙌UI平面设计.
 date: 2021-01-30 18:40:45
 tags:
   - 设计
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hIrnjdOpX2wAcgv.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/hIrnjdOpX2wAcgv.jpg
 top_img:
 ---
 
@@ -44,7 +44,7 @@ top_img:
 
 - 起初是因为看到 `@小康博客` 的文章头图,感觉很好看,于是去找的方案.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/FDGZKReixJE6aIt.png" alt="20210127191714" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/FDGZKReixJE6aIt.png" alt="20210127191714" />
 
 ---
 
@@ -64,9 +64,9 @@ top_img:
 
 - 有些情况下,同样的内容,同样的格式性,图片效果还是会更显著
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210226172913.png" alt="20210226172913" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/20210226172913.png" alt="20210226172913" />
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210226173119.png" alt="20210226173119" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/20210226173119.png" alt="20210226173119" />
 
 ---
 
@@ -76,4 +76,4 @@ top_img:
 
 - 还有留白(padding),下图的留白就不是很好,略小了
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210226173845.png" alt="20210226173845" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/20210226173845.png" alt="20210226173845" />

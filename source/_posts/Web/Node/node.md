@@ -6,7 +6,7 @@ tags:
   - npm
   - yarn
   - package
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/at4cvJXTRZw9bQH.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/at4cvJXTRZw9bQH.jpg
 top_img:
 ---
 

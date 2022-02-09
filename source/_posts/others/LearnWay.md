@@ -4,7 +4,7 @@ date: 2020-12-30 11:42:22
 tags:
   - 成长路线
   - 备忘录
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LAbU4pzmYKTEnOo.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/LAbU4pzmYKTEnOo.png
 top_img:
 ---
 
@@ -541,7 +541,7 @@ top_img:
 ### 图灵测试
 
 > - 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
->   <img src="https://i.loli.net/2021/06/26/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />\
+>   <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>\
 >   [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
 
 ---

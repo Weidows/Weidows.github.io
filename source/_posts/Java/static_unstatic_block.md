@@ -3,7 +3,7 @@ title: Java(非)静态代码块及其作用
 date: 2020-09-04 10:49:16
 tags:
   - Java
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XNzZpVAlmohqKHY.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/XNzZpVAlmohqKHY.jpg
 ---
 
 <!--
@@ -26,7 +26,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XNzZpVAlmohqKHY.jpg
 
 ## Person.java
 
-![UpRI1nOdso2Z4ak](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GCvw1FlIot7T5iA.jpg)
+![UpRI1nOdso2Z4ak](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/GCvw1FlIot7T5iA.jpg)
 {% hideToggle 源代码 %}
 
 ```java
@@ -97,7 +97,7 @@ class TestPerson {
 
 ## Test.java
 
-![Q9r36pXoBen4Hcy](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/XZ7JLfemrapqcC8.jpg)
+![Q9r36pXoBen4Hcy](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/XZ7JLfemrapqcC8.jpg)
 {% hideToggle 源代码 %}
 
 ```java

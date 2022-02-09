@@ -9,7 +9,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-09-19 22:37:25
-cover: https://i.loli.net/2021/09/19/u7wXjUH6bPNnMaL.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/u7wXjUH6bPNnMaL.png
 top_img:
 ---
 
@@ -135,17 +135,17 @@ xmake 自带的 xrepo 可以安装 xrepo/vcpkg/conan 的库
 
   需要安装的有两个: `buildtools + visualstudio community`
 
-  <img src="https://i.loli.net/2021/11/20/OuiQ8WnjASBJdtV.png" alt="20211120115814" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
   buildtools 也就是生成工具只有那一个,裸装就好,里面的东西不用装
 
   visualstudio community 的话什么版本都行,xmake 都支持了,它里面必须装 `C++ 桌面开发`,不能装成其他的
 
-  <img src="https://i.loli.net/2021/11/20/kWgXvhQ9M74V1Ho.png" alt="20211120115909" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
   语言包记得选中+英! 不然识别不到
 
-  <img src="https://i.loli.net/2021/11/20/YxtcXgoI3ThPmqn.png" alt="20211120120254" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ---
 

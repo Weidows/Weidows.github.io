@@ -4,7 +4,7 @@ date: 2020-12-28 13:49:19
 tags:
   - Windows
   - 计算机系统
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/VKmoJbNALH7PqrC.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/VKmoJbNALH7PqrC.png
 top_img:
 ---
 
@@ -73,13 +73,13 @@ top_img:
 
 在文件夹空白处按住`shift + 右键`,会出来`在此处打开PowerShell窗口`
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/4HflJZPK8W95i1A.png" alt="20210103142309" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/4HflJZPK8W95i1A.png" alt="20210103142309" />
 
 #### 方法三
 
 直接在路径栏中输入 cmd 回车.
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jvCbW19uq6ohExN.png" alt="20210103142458" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/jvCbW19uq6ohExN.png" alt="20210103142458" />
 
 ---
 
@@ -115,13 +115,13 @@ top_img:
 
 - 今天下载了一个压缩包(原本大小 163M,带密码),打开之后是这样：
 
-  <img src="https://i.loli.net/2021/06/27/kHyT5PwOSBltR3n.png" alt="20210627201846" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - 尝试解压,没问我密码,解压出来也是长这样的,我以为是下载时数据传输错误,重新下载了一遍,结果仍然是这样...
 
 - 于是尝试换软件打开压缩包 -> `7z`,太对了,正常打开了!(所以应该是系统自带的解压功能有问题)
 
-  <img src="https://i.loli.net/2021/06/27/62gOc1xLjyQfSVa.png" alt="20210627202415" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -155,11 +155,11 @@ top_img:
 
 - 如下图是 office: [https://www.office.com/?auth=1](https://www.office.com/?auth=1)
 
-  <img src="https://i.loli.net/2021/07/04/KrxdhIADz6l4uSE.png" alt="20210704100501" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - office365: [https://www.office.com/?auth=2](https://www.office.com/?auth=2)
 
-  <img src="https://i.loli.net/2021/07/04/jFnAHYlXwmf4Ka1.png" alt="20210704100827" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ---
 
@@ -213,19 +213,19 @@ LSP mode : on
 
   ***
 
-  <img src="https://i.loli.net/2021/10/03/BqtgHf8aNvOolLx.jpg" alt="1633272756273" />
-  <img src="https://i.loli.net/2021/10/03/iPN5wTS9bLX8vAl.jpg" alt="1633272761799" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
   </details>
 
 - 面板
 
-  <img src="https://i.loli.net/2021/10/03/xvO7Uia6nql81Z2.jpg" alt="1633272772176" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ---
 
 ### AMD
 
-<img src="https://s2.loli.net/2022/01/26/tVBIDOuSivQdPna.png" alt="20220126193700" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -237,7 +237,7 @@ LSP mode : on
 
 - 那么,有可能是下面这个问题:
 
-  <img src="https://i.loli.net/2021/08/05/ml7LUWTfPMzaEhA.png" alt="20210805182546" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - 坑了好久啊!!!
 
@@ -249,7 +249,7 @@ LSP mode : on
 
   总是会卡死在某个进度,还得重新开始
 
-  <img src="https://i.loli.net/2021/10/12/S9AokmK7MsqTIxw.png" alt="20211012102328" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
   一番查找发现是因为歌名有的含有特殊字符
 
@@ -313,16 +313,16 @@ LSP mode : on
 
 - 如果你更新了一下驱动或者换了个耳机后,音效不堪入耳,那么检查一下这里是不是 `耳机`
 
-  <img src="https://i.loli.net/2021/11/26/8ybYHpIVDs5TMna.png" alt="20211126204114" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ### 酷狗
 
 - 这个品牌当然会有很多诟病的地方,但是它的音效增强是在是强,尤其可以全局
 
-  <img src="https://i.loli.net/2021/11/26/C9Wpe6v5HgmBzE2.png" alt="20211126204303" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ### 系统设置
 
-<img src="https://i.loli.net/2021/11/26/SH5AEKa2sk4TcNU.png" alt="20211126204420" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 音质格式

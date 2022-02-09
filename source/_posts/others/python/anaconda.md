@@ -4,7 +4,7 @@ tags:
   - Anaconda
   - Python
 date: 2021-05-20 09:05:02
-cover: https://i.loli.net/2021/05/20/jJcYbf6mIBnFwlM.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/jJcYbf6mIBnFwlM.jpg
 top_img:
 ---
 
@@ -66,7 +66,7 @@ top_img:
 
   anaconda 会把 scoop 里的环境识别为两个 (但实际上就一个)
 
-  <img src="https://i.loli.net/2021/10/02/X7dTaEoHmbr6W29.png" alt="20211002190135" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -83,7 +83,7 @@ top_img:
 
 - 安装后开始菜单会出来这么几个东西:
 
-  <img src="https://i.loli.net/2021/05/20/huxAGIKqRzfLw1B.png" alt="20210520093618" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
   第一个就是 anaconda 主体;二三是终端,不用管它;四和六是附带的第三方软件.
 
@@ -91,7 +91,7 @@ top_img:
 
 - 点第一个,会弹出几次黑框,然后出现下面面板就没问题了.
 
-  <img src="https://i.loli.net/2021/05/20/gjLsbtl8XuP2Dxi.png" alt="20210520094007" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - 报错,无法打开:
 
@@ -117,7 +117,7 @@ top_img:
 
 - 通过 navigator 添加进设置,或者直接修改 ~/.condarc
 
-  <img src="https://i.loli.net/2021/05/20/LRMdx5KAIEvGpkg.png" alt="20210520095331" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - <details>
 
@@ -232,7 +232,7 @@ top_img:
 
 - 测试 (以下图方式进入 `Open with python`) :
 
-  <img src="https://i.loli.net/2021/05/20/T1Q6di82UE3sKV7.png" alt="20210520190432" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
   测试下方命令就可以了
 
@@ -355,11 +355,11 @@ top_img:
 
 - CUDA: on,可以看到 python 调用了 `CPU+GPU`
 
-  <img src="https://i.loli.net/2021/05/21/kPiAlhCcUYmWZwd.png" alt="20210521102521" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - 深度学习项目吃显存好离谱啊!
 
-  <img src="https://i.loli.net/2021/05/21/mB2WXqxHsfRIwaJ.png" alt="20210521104118" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

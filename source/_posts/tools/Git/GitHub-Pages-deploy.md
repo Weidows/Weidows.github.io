@@ -6,7 +6,7 @@ tags:
   - Hexo
   - Website
   - Github
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/ZN45JO19SVRihG8.png
 ---
 
 <!--
@@ -47,9 +47,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ZN45JO19SVRihG8.png
 ## 开启
 
 - `Gitee`
-  ![20201122112033](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/dpIgQvz93ltRCPD.jpg)
+  ![20201122112033](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/dpIgQvz93ltRCPD.jpg)
 - `Github`
-  ![20201122112109](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Ep8oz6eMxPadQ3s.jpg)
+  ![20201122112109](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/Ep8oz6eMxPadQ3s.jpg)
 
 ---
 

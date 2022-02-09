@@ -1,9 +1,9 @@
 ---
-title: Markdown 中一些新奇写法.
+title: 😶‍🌫️Markdown 中一些新奇写法.
 date: 2020-11-30 00:09:37
 tags:
   - Markdown
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/o6shLZ1G53qliBY.jpg
 top_img:
 ---
 
@@ -11,13 +11,15 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-05 11:17:50
+ * @LastEditTime: 2022-02-09 16:01:55
  * @FilePath: \Blog-private\source\_posts\experience\markdown.md
  * @Description:
 -->
 
 - [注意点](#注意点)
 - [基本的](#基本的)
+- [新奇写法](#新奇写法)
+  - [`![]()`](#)
   - [`[]: URL`](#-url)
   - [对话](#对话)
   - [引用+条目](#引用条目)
@@ -29,6 +31,7 @@ top_img:
   - [下划线](#下划线)
   - [键盘样式](#键盘样式)
   - [文字遮盖](#文字遮盖)
+  - [论文脚注](#论文脚注)
 
 ## 注意点
 
@@ -61,10 +64,7 @@ top_img:
   ````
   ```console
   ╰─ ls
-
           Directory: D:\Repo\Weidows\Blog-private
-
-
   Mode                LastWriteTime         Length Name
   ----                -------------         ------ ----
   d----         2021/2/13     16:16                  .github
@@ -83,18 +83,14 @@ top_img:
   -a---         2020/9/16     23:32          35184   LICENSE
   -a---        2021/11/25      0:30         544859   package-lock.json
   -a---        2021/11/25      0:09           1168   package.json
-  ````
-
+  ```
   ````
 
   样式:
 
   ```console
   ╰─ ls
-
           Directory: D:\Repo\Weidows\Blog-private
-
-
   Mode                LastWriteTime         Length Name
   ----                -------------         ------ ----
   d----         2021/2/13     16:16                  .github
@@ -113,7 +109,7 @@ top_img:
   -a---         2020/9/16     23:32          35184   LICENSE
   -a---        2021/11/25      0:30         544859   package-lock.json
   -a---        2021/11/25      0:09           1168   package.json
-  ````
+  ```
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -123,12 +119,12 @@ top_img:
 
 - 这样写是把图片嵌套进了链接里,如下:
 
-  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)
+  [![图片](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/o6shLZ1G53qliBY.jpg)](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/o6shLZ1G53qliBY.jpg)
 
 - 本来只是展示图片,现在点击图片跳转了.
 
   ```markdown
-  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)
+  [![图片](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/o6shLZ1G53qliBY.jpg)](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/o6shLZ1G53qliBY.jpg)
   ```
 
 ---
@@ -155,7 +151,7 @@ top_img:
 
 > 发现自: [Axb 的自我修养](http://blog.2baxb.me/),样式如下:
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210329091216.png" alt="20210329091216" />
+<img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/20210329091216.png" alt="20210329091216" />
 
 - 写法:
 
@@ -235,7 +231,7 @@ top_img:
 
 - 上面的是巨号,下面的是一号标题,怎样,够大吧?
 
-  <img src="https://i.loli.net/2021/10/09/CFqJIgubvXhxtrA.png" alt="20211009171608" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - 写法: `h1 标签 + 列表 + 一级标题`
 
@@ -314,3 +310,56 @@ top_img:
 
   <span style="background: grey; color: grey">遮盖体-select</span>
   <span style="background: grey; color: grey" onmouseout="this.style.background='grey';this.style.color='grey'" onmouseover="this.style=''">遮盖体-hove</span>
+
+---
+
+### 论文脚注
+
+- 可正反双向跳转
+
+  ```html
+  <sup id="cite_ref-01">[\[1\]](#cite_note-01)</sup>
+  <a name="cite_note-01" href="#cite_ref-01">[1]</a>
+  ```
+
+  ***
+
+论文脚注测试处 <sup id="cite_ref-02">[\[1\]](#cite_note-01)</sup>。 `<sup id="cite_ref-01">[\[1\]](#cite_note-01)</sup>`
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+论文脚注测试处 <sup id="cite_ref-02">[\[2\]](#cite_note-02)</sup>。 `<sup id="cite_ref-02">[\[2\]](#cite_note-02)</sup>`
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+    00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+<a name="cite_note-01" href="#cite_ref-01">[1]</a>：`<a name="cite_note-01" href="#cite_ref-01">[1]</a>`
+
+<a name="cite_note-02" href="#cite_ref-02">[2]</a>：`<a name="cite_note-02" href="#cite_ref-02">[2]</a>`

@@ -5,7 +5,7 @@ tags:
   - VScode
   - CSS
   - 美化
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/u9COBmdHbrgSakQ.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/u9COBmdHbrgSakQ.jpg
 top_img:
 ---
 
@@ -25,7 +25,7 @@ top_img:
 
 - 大半夜水群,发现群友扯皮发了一张美照(就是代码)
 - 惊艳老夫一整天! 赶紧想办法把他整出来!
-  ![23XdzqSlUGZPcym](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jkVQ7r2LuKMx8EB.jpg)
+  ![23XdzqSlUGZPcym](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/jkVQ7r2LuKMx8EB.jpg)
 - 这种荧光效果是 CSS 渲染成的,VScode 插件商店有现成的主题可供使用
   - 想广泛了解可以搜索关键词`SynthWave`,会有不少主题可供使用,但是需要注意如果你想应用这种荧光主题必须舍弃现在你所喜欢的某个主题了...
   - 于是,对我们魔改狂来说,这只是开始!
@@ -60,11 +60,11 @@ top_img:
 
   - 初版
 
-    ![20201124011913](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Mue7ZD5zR1vCkLf.jpg)
+    ![20201124011913](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/Mue7ZD5zR1vCkLf.jpg)
 
   - 二版
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210308184630.png" alt="20210308184630" />
+    <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/20210308184630.png" alt="20210308184630" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

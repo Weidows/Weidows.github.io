@@ -6,7 +6,7 @@ tags:
   - 虚拟机
   - 服务器
   - Ubuntu
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fCn6xEiuqQykO7d.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/fCn6xEiuqQykO7d.png
 top_img:
 ---
 
@@ -44,7 +44,7 @@ top_img:
 
 - 安装完成后长这样
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/en8lrzMPTpSN3wj.png" alt="20210202144325" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/en8lrzMPTpSN3wj.png" alt="20210202144325" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

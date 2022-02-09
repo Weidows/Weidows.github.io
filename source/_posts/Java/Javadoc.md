@@ -4,7 +4,7 @@ date: 2020-10-25 17:36:12
 tags:
   - Java
   - Javadoc
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iHZCgtN4OpsuDj5.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/iHZCgtN4OpsuDj5.jpg
 top_img:
 ---
 

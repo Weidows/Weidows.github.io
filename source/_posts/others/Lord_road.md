@@ -4,7 +4,7 @@ date: 2020-11-17 11:06:25
 tags:
   - 备忘录
   - 成长路线
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/jor1XfaHz9CQDcB.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/jor1XfaHz9CQDcB.jpg
 top_img:
 ---
 

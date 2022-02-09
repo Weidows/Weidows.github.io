@@ -7,7 +7,7 @@ tags:
   - Website
   - Node.Js
   - npm
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/kMeomhHj91xn6T2.jpg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/kMeomhHj91xn6T2.jpg
 ---
 
 <!--
@@ -112,15 +112,15 @@ hexo new page link
     link_list:
       - name: Youtube
         link: https://www.youtube.com/
-        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/9ZkGg8v3azHJfM1.png
+        avatar: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/9ZkGg8v3azHJfM1.png
         descr: 視頻網站
       - name: Weibo
         link: https://www.weibo.com/
-        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/TLJBum386vcnI1P.png
+        avatar: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/TLJBum386vcnI1P.png
         descr: 中國最大社交分享平台
       - name: Twitter
         link: https://twitter.com/
-        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/5VyHPQqR6LWF39a.png
+        avatar: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/5VyHPQqR6LWF39a.png
         descr: 社交分享平台
   ```
 
@@ -179,7 +179,7 @@ hexo new page link
   ```
 - 然后就可以一键使用了.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/CP6l7n1HmQ3uKaU.png" alt="20201205150401" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/CP6l7n1HmQ3uKaU.png" alt="20201205150401" />
 
 ---
 

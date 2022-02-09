@@ -4,7 +4,7 @@ date: 2021-01-03 15:18:46
 tags:
   - VScode
   - 插件
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/mjSy1DuPknbalrv.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/mjSy1DuPknbalrv.png
 top_img:
 ---
 
@@ -99,9 +99,9 @@ top_img:
 
 - 按着图操作
 
-  <img src="https://i.loli.net/2021/05/14/9JCgBdrQXALfYxu.png" alt="20210514153423" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
-  <img src="https://i.loli.net/2021/05/14/bwFfqWRchLsSKmx.png" alt="20210514153615" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
 
 - 然后复制获得的 token,下面就可以发布了
 

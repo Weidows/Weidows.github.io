@@ -9,7 +9,7 @@ tags:
   - Git
   - Python
   - Node
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/6XQhlDpwVMmnG4H.png
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/6XQhlDpwVMmnG4H.png
 top_img:
 ---
 
@@ -76,7 +76,7 @@ top_img:
 
 - IDEA 中设置也需要覆盖
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210325105220.png" alt="20210325105220" />
+  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/20210325105220.png" alt="20210325105220" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
