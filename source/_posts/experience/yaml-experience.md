@@ -3,7 +3,7 @@ title: 🚫仅仅是一篇关于yaml文件语法虐待我后的小诟病
 date: 2020-09-03 18:20:56
 tags:
   - yaml
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/rJLfcmTERGvAti4.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rJLfcmTERGvAti4.jpg
 ---
 
 <!--

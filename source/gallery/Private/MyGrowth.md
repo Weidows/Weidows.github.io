@@ -1,6 +1,6 @@
 ---
 title: ⭐ 带学生成长手册 ⭐
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/6t2qP1DoRUNyzSg.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/6t2qP1DoRUNyzSg.jpg
 ---
 
 <!--

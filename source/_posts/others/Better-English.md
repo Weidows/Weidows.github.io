@@ -8,7 +8,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-07-26 09:53:32
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/kpxVB81cI4T2Xbg.jpg
+cover: https://i.loli.net/2021/07/26/kpxVB81cI4T2Xbg.jpg
 top_img:
 ---
 
@@ -16,7 +16,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-09 18:48:39
+ * @LastEditTime: 2022-02-08 19:07:27
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -26,8 +26,6 @@ top_img:
 - [单词](#单词)
 - [短语](#短语)
 - [领域](#领域)
-- [学习](#学习)
-- [参考](#参考)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -69,7 +67,7 @@ top_img:
   |      router       | n. [计] 路由器；刳刨者                                                                                                                                                          |
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
   |      dynamic      | 动态的                                                                                                                                                                          |
-  |        API        | [application programming interface 应用程序接口](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/> |
+  |        API        | [application programming interface 应用程序接口](https://www.zhihu.com/question/19801131) <img src="https://s2.loli.net/2021/12/15/Mw1Ir2WhQT6CYso.png" alt="20211215182715" /> |
 
 ---
 
@@ -202,19 +200,3 @@ top_img:
   |  英   | 汉     |
   | :---: | :----- |
   | given | 已知的 |
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
-## 学习
-
-如何写好英文书面比较句<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
-
-人人都能用英语<sup id='cite_ref-02'>[\[2\]](#cite_note-02)</sup>
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
-
-## 参考
-
-<a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [如何写好英文书面比较句](https://github.com/xiaolai/writing-comparison-in-english)
-
-<a name='cite_note-02' href='#cite_ref-02'>[2]</a>: [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)

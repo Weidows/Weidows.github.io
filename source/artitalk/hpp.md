@@ -4,7 +4,7 @@ tags:
 categories:
 date: 2021-02-13 22:26:21
 cover:
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg
 ---
 
 <!--

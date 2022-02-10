@@ -3,7 +3,7 @@ title: 🎃backuper~开发环境备份.
 tags:
   - 工具
 date: 2021-06-25 11:16:51
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/VSpQ9Di1Ge5rtWm.png
+cover: https://i.loli.net/2021/06/25/VSpQ9Di1Ge5rtWm.png
 top_img:
 ---
 

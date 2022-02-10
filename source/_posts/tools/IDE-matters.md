@@ -7,7 +7,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-07-29 14:11:07
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/3nziTa5eU1CN9bG.jpg
+cover: https://i.loli.net/2021/08/01/3nziTa5eU1CN9bG.jpg
 top_img:
 ---
 
@@ -58,7 +58,7 @@ top_img:
 
 - 问题就是这里的"源代码管理"无法显示出来
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://s2.loli.net/2022/01/25/L8rqen43hGBOoyF.png" alt="20220125012150" />
 
   经各路探索 (改配置/清空数据重装...etc), 发现此问题只局限在我的某个项目,而且即使 fully restore 问题尚在
 
@@ -66,7 +66,7 @@ top_img:
 
 - 所以我认为这个问题存在于 vscode 可以同步的数据中
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://s2.loli.net/2022/01/25/WzhfPclbnYUg4R9.png" alt="20220125012636" />
 
   那么,凶手比较明显了: `UI状态`
 

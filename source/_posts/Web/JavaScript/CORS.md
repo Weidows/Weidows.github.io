@@ -8,7 +8,7 @@ tags:
   - 爬虫
 katex: false
 date: 2021-07-08 17:48:32
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/wrkFERH7aTMmdWp.png
+cover: https://i.loli.net/2021/07/08/wrkFERH7aTMmdWp.png
 top_img:
 ---
 
@@ -70,7 +70,7 @@ top_img:
 
   3. 没有的话就是没开启 CORS,有的话右面的参数就是允许 CORS 的域名范围.
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://i.loli.net/2021/07/09/ONQBnduEbS7Tsm6.png" alt="20210709232207" />
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
@@ -82,7 +82,7 @@ top_img:
 
   如图本地域名可以显示这两个域名下的图片 (各一张) 🥵
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://i.loli.net/2021/07/09/DPsTiHyMeRcl8JU.png" alt="20210709222815" />
 
 ### fetch 获取数据
 
@@ -92,7 +92,7 @@ top_img:
 
 - 如下,在两个主站域名测试都可以得到如下结果:
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://i.loli.net/2021/07/09/8lHUmQXwBtOg54R.png" alt="20210709221705" />
 
 - 变个卦:
 
@@ -110,7 +110,7 @@ top_img:
   Access to image at 'xxx' from origin 'xxx' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
   ```
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://i.loli.net/2021/07/09/DXuTiWS3vFgUYqO.png" alt="20210709222317" />
 
 ---
 

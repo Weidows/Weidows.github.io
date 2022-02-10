@@ -8,7 +8,7 @@ tags:
   - JavaScript
 katex: false
 date: 2021-07-18 09:20:22
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/NP5ztqTGecYrpiv.png
+cover: https://i.loli.net/2021/07/19/NP5ztqTGecYrpiv.png
 top_img:
 ---
 
@@ -178,11 +178,11 @@ Copilot: "明月神伤"
 
 - 虽然近日 Copilot 被喷代码抄袭,但是就功能性来讲,还是比较让人满意的
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://i.loli.net/2021/07/18/BscMu8oTtxhVZ2P.png" alt="20210718211454" />
 
 - 与之差不多的是 TabNine,TabNine 是逐行预测,而 Copilot 是按块预测
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/>
+  <img src="https://i.loli.net/2021/07/18/Hu8vR6rIlkcixpe.png" alt="20210718212117" />
 
 - 下面二句也是 Copilot 生成的 (hhh 自卖自夸)
 

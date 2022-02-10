@@ -7,14 +7,14 @@ tags:
   - Linux
   - 计算机系统
   - 宝塔面板
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/gTyr4jImCiDKYfx.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-09 16:36:14
+ * @LastEditTime: 2022-02-05 23:31:26
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -23,7 +23,6 @@ cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents
   - [输出重定向](#输出重定向)
   - [启动程序](#启动程序)
   - [清垃圾(?](#清垃圾)
-  - [与或-管道运算符](#与或-管道运算符)
 - [CMD/PowerShell](#cmdpowershell)
 - [Linux](#linux)
   - [查杀进程](#查杀进程)
@@ -116,18 +115,6 @@ cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents
 
   `rm -rf /*`
 
----
-
-### 与或-管道运算符
-
-command1 & command2 & command3: 不论成败都会执行
-
-command1 && command2 && command3: 左边全都执行成功/返回 0 才会执行右边的命令
-
-command1 || command2 || command2: 左边全都执行失败/返回 1 才会执行右边的命令
-
-command1 | command2: 把左边的命令的输出结果作为右边的命令的输入,例如 `ps | grep win`
-
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## CMD/PowerShell
@@ -176,7 +163,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 
 |              指令               |                     作用                      |
 | :-----------------------------: | :-------------------------------------------: |
-|          `ps -ef/aux`           |    显示进程(注意多个进程用','隔开而非空格)    |
+|          `ps -ef/aux`           |        显示进程(注意多个进程用','隔开而非空格)        |
 |          `kill -9 pid`          |                   杀死进程                    |
 | `lsof -i:8080 / -i@12:34:56:78` | Linux 中一切皆文件,此命令可以显示指定文件信息 |
 

@@ -4,7 +4,7 @@ date: 2021-01-01 11:06:59
 tags:
   - IDEA
   - Maven
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/UD8HeIc94LVai2v.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UD8HeIc94LVai2v.png
 top_img:
 ---
 
@@ -123,4 +123,4 @@ top_img:
 
 - IDEA 是自带捆绑 Maven 的,因为上面原因,我们使用 Scoop 又安装了一个,所以需要在 IDEA 里修改下设置
 
-  <img src="https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/rkegM7GmIxwKtyT.png" alt="20210128033817" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/rkegM7GmIxwKtyT.png" alt="20210128033817" />

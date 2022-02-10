@@ -4,7 +4,7 @@ date: 2020-12-30 18:09:38
 tags:
   - JavaScript
   - 笔记
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/tifKj6dA92BVezU.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/tifKj6dA92BVezU.png
 top_img:
 ---
 

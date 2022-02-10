@@ -1,6 +1,6 @@
 ---
 title: ⭐ 程序设计大赛 ⭐
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/CCPC/CCPC.png
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/CCPC.png
 ---
 
 <!--
@@ -30,6 +30,6 @@ top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documen
 ## 光阴/影纪念
 
 {% gallery %}
-![有口罩](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/CCPC/mmexport1601194890457.jpeg)
-![无口罩](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/CCPC/mmexport1601194895388.jpeg)
+![有口罩](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/mmexport1601194890457.jpeg)
+![无口罩](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/CCPC/mmexport1601194895388.jpeg)
 {% endgallery %}

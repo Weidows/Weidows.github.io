@@ -27,9 +27,9 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
 
 <div class="gallery-group-main">
 
-{% galleryGroup Hpp站 基于hexo-plus-plus+CloudFlare的说说页面. artitalk/hpp https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg %}
+{% galleryGroup Hpp站 基于hexo-plus-plus+CloudFlare的说说页面. artitalk/hpp https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg %}
 
-{% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/光宇科景/77.jpeg %}
+{% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/77.jpeg %}
 
 </div>
 

@@ -4,7 +4,7 @@ date: 2020-10-31 17:51:12
 tags:
   - Java
   - 编码
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/iIfQXvTEkuFobNr.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/iIfQXvTEkuFobNr.jpg
 top_img:
 ---
 

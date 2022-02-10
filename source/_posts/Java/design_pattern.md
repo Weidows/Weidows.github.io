@@ -4,7 +4,7 @@ date: 2020-09-09 22:53:55
 tags:
   - Java
   - 设计模式
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/M2NCl539nTvz6Vj.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/M2NCl539nTvz6Vj.jpg
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 title: ⭐ PrettyGreen ⭐
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/Nu9RF1.jpeg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpeg
 ---
 <!--
  * @Author: Weidows
@@ -11,15 +11,15 @@ top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documen
 -->
 ## 绿色植物
   {% gallery %}
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/Nu9goR.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/Nu9RF1.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuP226.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPcP1.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPfKO.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPg8x.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPhrD.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPrVJ.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPRxK.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPsa9.jpeg)
-  ![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/NuPy5R.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9goR.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuP226.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPcP1.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPfKO.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPg8x.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPhrD.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPrVJ.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPRxK.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPsa9.jpeg)
+  ![](https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/NuPy5R.jpeg)
   {% endgallery %}

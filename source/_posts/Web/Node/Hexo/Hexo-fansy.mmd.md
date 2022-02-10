@@ -7,7 +7,7 @@ tags:
   - Website
   - Markdown
   - HTML
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/grPxjQIqvA8mWtT.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/grPxjQIqvA8mWtT.jpg
 ---
 
 <!--
@@ -154,16 +154,16 @@ img-url：图库封面的地址
 
 例如:
 <div class="gallery-group-main">
-{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery/PrettyGreen https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/Nu9RF1.jpg %}
+{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/PrettyGreen/Nu9RF1.jpg %}
 </div>
 ```
 
 ### 效果:
 
   <div class="gallery-group-main">
-  {% galleryGroup '壁纸' '收藏的一些壁纸' '/Gallery/wallpaper' https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/T7Mu8Aod3egmC4Q.png %}
-  {% galleryGroup '漫威' '关于漫威的图片' '/Gallery/marvel' https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/8t97aVlp4hgyBGu.jpg %}
-  {% galleryGroup 'OH MY GIRL' '关于OH MY GIRL的图片' '/Gallery/ohmygirl' https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/hOqbQ3BIwa6KWpo.jpg %}
+  {% galleryGroup '壁纸' '收藏的一些壁纸' '/Gallery/wallpaper' https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/T7Mu8Aod3egmC4Q.png %}
+  {% galleryGroup '漫威' '关于漫威的图片' '/Gallery/marvel' https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/8t97aVlp4hgyBGu.jpg %}
+  {% galleryGroup 'OH MY GIRL' '关于OH MY GIRL的图片' '/Gallery/ohmygirl' https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/hOqbQ3BIwa6KWpo.jpg %}
   </div>
 
 ### 另一种相册形式(自动排列)

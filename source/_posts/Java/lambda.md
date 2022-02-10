@@ -4,7 +4,7 @@ tags:
   - Java
   - Lambda
 date: 2021-02-18 18:16:55
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/src=http___cdn.zimug.com_java-lambda-expressions-tutorial.jpg&refer=http___cdn.zimug.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/src=http___cdn.zimug.com_java-lambda-expressions-tutorial.jpg&refer=http___cdn.zimug.jpg
 top_img:
 ---
 

@@ -4,7 +4,7 @@ date: 2020-11-30 19:28:08
 tags:
   - 备忘录
   - API
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/post/U2VkeYvoMaXIsEp.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/U2VkeYvoMaXIsEp.jpg
 top_img:
 ---
 
