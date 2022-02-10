@@ -8,7 +8,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-06 11:33:24
+ * @LastEditTime: 2022-02-11 01:53:55
  * @FilePath: \Blog-private\source\tags\charts.md
  * @Description:
  * @!: *********************************************************************
@@ -22,4 +22,3 @@ top_img:
 <div id="tags-chart" data-length="10"></div>
 <div id="categories-chart"></div>
 <div id="categories-radar"></div>
-<script> setTimeOut('location.reload();', 10); </script>

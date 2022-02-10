@@ -2,27 +2,27 @@
 title: MOOC浙大翁凯教授Java第六章狐狸与兔子源代码
 date: 2020-08-23 20:54:56
 tags: Java
-cover: https://cdn.jsdelivr.net/gh/Weidows/Weidows@master/Java/src/main/java/twenty/july/my_interface/interface/Cells173751.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/1644492296776.png
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-23 20:54:56
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-28 11:01:45
+ * @LastEditTime: 2022-02-10 19:25:43
  * @FilePath: \Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
 -->
 
-- [一.简介](#一简介)
-- [二.代码片段](#二代码片段)
-- [Animal](#animal)
-- [Fox](#fox)
-- [Rabbit](#rabbit)
-- [Cell](#cell)
-- [Field](#field)
-- [Location](#location)
-- [View](#view)
-- [FoxAndRabbit](#foxandrabbit)
+1. [一.简介](#一简介)
+2. [二.代码片段](#二代码片段)
+3. [Animal](#animal)
+4. [Fox](#fox)
+5. [Rabbit](#rabbit)
+6. [Cell](#cell)
+7. [Field](#field)
+8. [Location](#location)
+9. [View](#view)
+10. [FoxAndRabbit](#foxandrabbit)
 
 ## 一.简介
 

@@ -1,34 +1,16 @@
 ---
 title: 深度病患解析
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/1.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225212.png
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-12-01 10:49:30
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-24 09:21:46
+ * @LastEditTime: 2022-02-11 03:40:06
  * @FilePath: \Blog-private\source\gallery\Private\Why-illness.md
  * @Description:
 -->
-
-## 外部解析
-
-{% gallery %}
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/1.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/2.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/3.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/4.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/5.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/6.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/7.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/8.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/9.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/10.jpg)
-![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/11.jpg)
-{% endgallery %}
-
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 
 ## 鼻子
 
@@ -68,10 +50,8 @@ top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documen
 
 - 务必读一下的文章
 
-  > [慢性鼻窦炎的治疗药与联合用药](https://m.medlive.cn/cms/research/157125)
-
-  > [糖皮质激素鼻炎副作用?](https://wapask-mip.39.net/bdsshz/question/60154095.html)
-
+  > [慢性鼻窦炎的治疗药与联合用药](https://m.medlive.cn/cms/research/157125) \
+  > [糖皮质激素鼻炎副作用?](https://wapask-mip.39.net/bdsshz/question/60154095.html) \
   > [鼻用糖皮质激素](https://m.baidu.com/bh/m/detail/kg_14979163500798759371)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)

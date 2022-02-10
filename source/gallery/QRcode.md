@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 14:55:23
+ * @LastEditTime: 2022-02-11 03:31:16
  * @FilePath: \Blog-private\source\gallery\Private\QRcode.md
 -->
 
@@ -27,6 +27,6 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg
 
 {% gallery %}
 ![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar-1.jpg)
+![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.jpg)
 ![](https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/timg.jpg)
 {% endgallery %}

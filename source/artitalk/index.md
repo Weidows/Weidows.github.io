@@ -1,5 +1,5 @@
 ---
-title: ⭐ Weidows の 低语 ⭐
+title: ⭐ Weidowsの低语 [Deprecated] ⭐
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
 ---
 
@@ -7,7 +7,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
  * @Author: Weidows
  * @Date: 2020-11-27 22:47:37
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 15:39:23
+ * @LastEditTime: 2022-02-11 03:54:40
  * @FilePath: \Blog-private\source\artitalk\index.md
  * @Description:
 -->

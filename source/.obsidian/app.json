@@ -1,4 +1,6 @@
 {
   "spellcheck": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

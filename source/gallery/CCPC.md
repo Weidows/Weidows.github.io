@@ -7,8 +7,8 @@ top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documen
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-28 17:39:30
- * @FilePath: \Weidows\Website\source\tags\gallery\CCPC.md
+ * @LastEditTime: 2022-02-11 03:37:31
+ * @FilePath: \Blog-private\source\gallery\Private\CCPC.md
 -->
 
 ## CCPC
@@ -27,9 +27,4 @@ top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documen
 
 ---
 
-## 光阴/影纪念
-
-{% gallery %}
-![有口罩](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/CCPC/mmexport1601194890457.jpeg)
-![无口罩](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/CCPC/mmexport1601194895388.jpeg)
-{% endgallery %}
+## [光阴/影纪念](https://47i7-my.sharepoint.com/:f:/g/personal/utsuko27_bilibili_hk_cn/Esk_35nRzXNIj8P76_KWnXwB5SN8YcghyXSEPlwlM-gVzw?e=IIPVDm)

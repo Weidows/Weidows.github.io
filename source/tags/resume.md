@@ -8,7 +8,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-10 18:32:11
+ * @LastEditTime: 2022-02-11 01:59:22
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
@@ -67,16 +67,20 @@ top_img:
 
 ## 开发图表
 
-<figure>
-  <!-- <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/52e64048-9e55-4aae-8330-448dd1cd1ec0.svg"></embed> -->
-  <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/eaaa34e5-e813-4c06-8793-5af9e53895f7.svg"></embed>
-</figure>
+<center>
 
-<img
-  loading="lazy"
-  id="wakatime"
-  class="pic loaded"
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=Weidows&amp;bg_color=222222&amp;text_color=DDD&amp;hide_border=true"
-  style="margin-left: 5%; margin-top: 2%"
-  onclick="window.open('https://wakatime.com/@Weidows','_blank')"
-/>
+  <figure>
+    <!-- <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/52e64048-9e55-4aae-8330-448dd1cd1ec0.svg"></embed> -->
+    <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/eaaa34e5-e813-4c06-8793-5af9e53895f7.svg"></embed>
+  </figure>
+
+  <img
+    loading="lazy"
+    id="wakatime"
+    class="pic loaded"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Weidows&amp;bg_color=222222&amp;text_color=DDD&amp;hide_border=true"
+    style="margin-left: 5%; margin-top: 2%"
+    onclick="window.open('https://wakatime.com/@Weidows','_blank')"
+  />
+
+</center>

@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bd59570bf4dcc236",
+        "id": "19d44f0eadd5ef1f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/experience/shell/奇技淫巧.md",
-            "mode": "source"
-          }
-        },
-        "group": "02377adefef64a2d"
-      },
-      {
-        "id": "ef89290b680a3b9b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/experience/shell/奇技淫巧.md",
-            "mode": "preview"
-          }
-        },
-        "group": "02377adefef64a2d"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -37,6 +21,7 @@
       {
         "id": "53e7da37d7cec679",
         "type": "tabs",
+        "dimension": 57.9646017699115,
         "children": [
           {
             "id": "1063c76fc3939111",
@@ -66,15 +51,14 @@
       {
         "id": "4463efb2e86a14d4",
         "type": "tabs",
+        "dimension": 42.0353982300885,
         "children": [
           {
             "id": "126c6e9368c38530",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/experience/shell/奇技淫巧.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -90,6 +74,7 @@
       {
         "id": "51016a4155ea43d5",
         "type": "tabs",
+        "dimension": 71.94690265486726,
         "children": [
           {
             "id": "f9498906785b9a3d",
@@ -97,14 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/experience/shell/奇技淫巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -122,6 +106,7 @@
       {
         "id": "1db55a6d26445f95",
         "type": "tabs",
+        "dimension": 28.053097345132745,
         "children": [
           {
             "id": "ec31cabb70bdba28",
@@ -135,19 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 558
   },
-  "active": "bd59570bf4dcc236",
+  "active": "19d44f0eadd5ef1f",
   "lastOpenFiles": [
+    "_posts/others/golang/blockchain.md",
+    "_posts/experience/basic/通信技术.md",
+    "_posts/experience/basic/基础知识.md",
+    "_posts/Java/Web/1.md",
+    "_posts/others/LearnWay.md",
     "_posts/experience/shell/奇技淫巧.md",
     "_posts/Web/JavaScript/CORS.md",
     "_posts/tools/backuper.md",
     "_posts/Web/JavaScript/study-1.md",
-    "_posts/system/system_variable.md",
-    "_posts/Web/css/css-1.md",
-    "_posts/Web/css/ClassKeyWords.md",
-    "gallery/Anime/Acfun.md",
-    "_posts/Java/MyBatis/1.md",
-    "_posts/others/LearnWay.md"
+    "_posts/system/system_variable.md"
   ]
 }
