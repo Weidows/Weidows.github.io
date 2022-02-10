@@ -5,7 +5,7 @@ tags:
   - Java
   - VScode
   - Maven
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/xiSTXMhqsgzD7UP.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/xiSTXMhqsgzD7UP.jpg
 top_img:
 ---
 

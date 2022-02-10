@@ -22,7 +22,7 @@ comments: false
 
 ---
 
-![索大](https://cdn.jsdelivr.net/gh/Weidows/Images/anime/Onepiece/QQ图片20190624124419.jpg)
+![索大](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/anime/Onepiece/QQ图片20190624124419.jpg)
 
 </h1>
 

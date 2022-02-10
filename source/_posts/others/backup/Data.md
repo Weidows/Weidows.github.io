@@ -5,7 +5,7 @@ tags:
   - 备忘录
   - Java
   - VScode
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/p2W5KHlnUMxbBOq.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/p2W5KHlnUMxbBOq.jpg
 ---
 
 <!--

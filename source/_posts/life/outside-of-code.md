@@ -4,7 +4,7 @@ tags:
   - 生活
   - 哲学
 date: 2021-02-28 17:56:01
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210228175624.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210228175624.png
 top_img:
 ---
 
@@ -42,7 +42,7 @@ top_img:
 
 ### 不要做他人都在做的事
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210228231643.png" alt="20210228231643" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210228231643.png" alt="20210228231643" />
 
 > - 不要被愚弄了，当你为了谋生一头扎进写代码的世界时，其实`你和中世纪小镇上开铁匠铺的铁匠没什么差别。`
 > - 首先，要有一个产品或服务。不能 提供东西的企业是没办法赚钱的，因为没有东西可卖。你有什么可以卖？你的产品或服务是什么？
@@ -53,9 +53,9 @@ top_img:
 
 你需要认识到仅有 服务或产品是不够的。想赚到钱，你就必须能让潜在的客户了解该产品或服务。
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210304114711.png" alt="20210304114711" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210304114711.png" alt="20210304114711" />
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210304115641.png" alt="20210304115641" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210304115641.png" alt="20210304115641" />
 
 ---
 
@@ -113,7 +113,7 @@ top_img:
 
   一位学长拿了 offer 然后老师给我们提了嘴"感受一下你们学长的风范，好好学习，天天向上"
 
-  <img src="https://i.loli.net/2021/11/25/hTM2rJVXvg4QNob.png" alt="20211125205822" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/hTM2rJVXvg4QNob.png" alt="20211125205822" />
 
   这位老师人很好做的也没什么问题啦,而且那学长也是狠角色自然让人崇拜羡慕
 
@@ -167,7 +167,7 @@ top_img:
 
   不用想这句话有没有道理,回想过去所有让我生气的事,好像大多数确实是能力不达导致的.
 
-  > <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210416125110.png" alt="20210416125110" />
+  > <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210416125110.png" alt="20210416125110" />
 
   ***
 

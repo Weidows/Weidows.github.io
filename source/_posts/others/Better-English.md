@@ -8,7 +8,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-07-26 09:53:32
-cover: https://i.loli.net/2021/07/26/kpxVB81cI4T2Xbg.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/kpxVB81cI4T2Xbg.jpg
 top_img:
 ---
 
@@ -67,7 +67,7 @@ top_img:
   |      router       | n. [计] 路由器；刳刨者                                                                                                                                                          |
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
   |      dynamic      | 动态的                                                                                                                                                                          |
-  |        API        | [application programming interface 应用程序接口](https://www.zhihu.com/question/19801131) <img src="https://s2.loli.net/2021/12/15/Mw1Ir2WhQT6CYso.png" alt="20211215182715" /> |
+  |        API        | [application programming interface 应用程序接口](https://cdn.jsdelivr.net/gh/Weidows/Images/post/Mw1Ir2WhQT6CYso.png" alt="20211215182715" /> |
 
 ---
 

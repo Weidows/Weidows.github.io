@@ -4,7 +4,7 @@ date: 2020-12-20 21:26:24
 tags:
   - JavaScript
   - 笔记
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/LUZ3oTm6ynYBGvN.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/LUZ3oTm6ynYBGvN.png
 top_img:
 ---
 
@@ -185,7 +185,7 @@ top_img:
 
 ## 浏览器调试
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/Q8tygmLE41kB6pX.png" alt="20201220232055" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/Q8tygmLE41kB6pX.png" alt="20201220232055" />
 
 - 调试 HTML 和 css 一般在 Element
 - console 控制台一般用来调试 JavaScript.

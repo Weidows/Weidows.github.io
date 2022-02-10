@@ -6,7 +6,7 @@ tags:
   - 进程
   - CPU
 date: 2021-03-05 21:08:33
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210305211525.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210305211525.png
 top_img:
 ---
 
@@ -46,7 +46,7 @@ top_img:
 
 ### 进程
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210305222645.png" alt="20210305222645" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210305222645.png" alt="20210305222645" />
 
 ---
 
@@ -91,7 +91,7 @@ top_img:
 
 - 轮到线程了:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210305231739.png" alt="20210305231739" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210305231739.png" alt="20210305231739" />
 
 - 这个比较简单了,线程是进程内部的,如上图两个 aria2c 进程中,分别有一个和三个线程
 
@@ -115,7 +115,7 @@ top_img:
 
 ## 几核几线程
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210305210405.png" alt="20210305210405" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210305210405.png" alt="20210305210405" />
 
 - 如上图,一个插槽对应一块结结实实的 CPU
 
@@ -135,7 +135,7 @@ top_img:
 
 - 实际上,网上对这两个词义一定程度上在混用~
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210306000528.png" alt="20210306000528" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210306000528.png" alt="20210306000528" />
 
 - 有个词叫`"并行不悖"`,记住这个就不会弄混了.
 

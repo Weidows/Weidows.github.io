@@ -1,6 +1,6 @@
 ---
 title: ⭐生成器Generator⭐
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PzOaDHJgMys9YdS.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/PzOaDHJgMys9YdS.jpg
 ---
 
 <!--
@@ -15,7 +15,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PzOaDHJgMys9YdS.jpg
 <h1 align="center">
 
 ⭐️ 抽象话生成器 ⭐️
-<a href="./Abstract_words" target="_blank">![20201122234944](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/h3QEIcbNJTw7rFA.jpg)</a>
+<a href="./Abstract_words" target="_blank">![20201122234944](https://cdn.jsdelivr.net/gh/Weidows/Images/post/h3QEIcbNJTw7rFA.jpg)</a>
 
 </h1>
 
@@ -24,7 +24,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PzOaDHJgMys9YdS.jpg
 <h1 align="center">
 
 ⭐️ 营销号生成器 ⭐️
-<a href="./marketing_generator" target="_blank">![20201122235435](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/MfzyGKdInjwxUWb.jpg)</a>
+<a href="./marketing_generator" target="_blank">![20201122235435](https://cdn.jsdelivr.net/gh/Weidows/Images/post/MfzyGKdInjwxUWb.jpg)</a>
 
 </h1>
 
@@ -33,7 +33,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PzOaDHJgMys9YdS.jpg
 <h1 align="center">
 
 ⭐️ 狗屁文章生成器 ⭐️
-<a href="./BullshitGenerator" target="_blank">![20201122235311](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/UyRE8gdvzqjNoOx.jpg)</a>
+<a href="./BullshitGenerator" target="_blank">![20201122235311](https://cdn.jsdelivr.net/gh/Weidows/Images/post/UyRE8gdvzqjNoOx.jpg)</a>
 
 </h1>
 

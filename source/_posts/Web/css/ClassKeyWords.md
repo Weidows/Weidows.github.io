@@ -4,7 +4,7 @@ date: 2020-08-11 09:45:50
 tags:
   - CSS
   - 备忘录
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/lsiaPmZhBq4EKg3.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/lsiaPmZhBq4EKg3.jpg
 top_img:
 ---
 

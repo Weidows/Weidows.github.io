@@ -8,7 +8,7 @@ tags:
   - 备忘录
   - HTML
   - CSS
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/z7JsMCr28A1Y53j.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/z7JsMCr28A1Y53j.jpg
 ---
 
 <!--

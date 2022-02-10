@@ -3,7 +3,7 @@ title: 😒Git/GitHub 一些操作问题
 date: 2020-11-21 19:28:51
 tags:
   - Github
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/JUkiZVF8s3ne1fz.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/JUkiZVF8s3ne1fz.jpg
 top_img:
 ---
 
@@ -46,7 +46,7 @@ top_img:
 
 ## License 选择
 
-![License](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/46lbZztfLjkM2n7.jpg)
+![License](https://cdn.jsdelivr.net/gh/Weidows/Images/post/46lbZztfLjkM2n7.jpg)
 
 > 感觉菜鸟教程的文章最详细: [各种开源协议介绍](https://www.runoob.com/w3cnote/open-source-license.html)
 
@@ -237,13 +237,13 @@ fatal: Need to specify how to reconcile divergent branches.
 
   出乎意料,旧的提交并没有消失; 可以看到强推 `重构` 前面有一个断档,那之前的就是旧提交
 
-  <img src="https://i.loli.net/2021/11/02/u7LGbXWSoVExcNm.png" alt="20211102134046" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/u7LGbXWSoVExcNm.png" alt="20211102134046" />
 
   ***
 
 - 为什么出现这情况? 我给画了个图
 
-  <img src="https://i.loli.net/2021/11/02/bfclOgwDjq6ZoM3.png" alt="20211102144127" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bfclOgwDjq6ZoM3.png" alt="20211102144127" />
 
   所以,原因是没删除 github 上的 tags,删掉就没了捏
 
@@ -271,7 +271,7 @@ fatal: Need to specify how to reconcile divergent branches.
 
 ### checkout
 
-<img src="https://i.loli.net/2021/11/24/bPekAW2iuNHrd7D.png" alt="20211124165145" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bPekAW2iuNHrd7D.png" alt="20211124165145" />
 
 - checkout 默认下只会检出默认分支,不会 clone submodules,可以设置自定义
 

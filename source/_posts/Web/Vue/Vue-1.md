@@ -5,7 +5,7 @@ tags:
   - Vue
   - JavaScript
   - HTML
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/SYd5WRK4xf1sGbN.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/SYd5WRK4xf1sGbN.png
 top_img:
 ---
 

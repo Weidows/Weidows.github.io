@@ -8,7 +8,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-30 20:42:08
+ * @LastEditTime: 2022-02-10 18:32:11
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
@@ -25,8 +25,6 @@ top_img:
 | `Java (其他也行呢)` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.gitee.io) | utsuko27@qq.com | `18330785221` |
 
 </center>
-
-<!-- <img src="https://i.loli.net/2021/06/01/DKsxk9fdXrG1MEH.jpg" alt="001" /> -->
 
 ## 教育经历
 

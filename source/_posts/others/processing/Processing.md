@@ -5,7 +5,7 @@ tags:
   - Processing
   - VScode
   - 备忘录
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/ztfiqOT5musnD7A.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/ztfiqOT5musnD7A.jpg
 top_img:
 ---
 

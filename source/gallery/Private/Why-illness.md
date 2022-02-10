@@ -1,6 +1,6 @@
 ---
 title: 深度病患解析
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/1.jpg
+top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/1.jpg
 ---
 
 <!--
@@ -15,17 +15,17 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/1.jpg
 ## 外部解析
 
 {% gallery %}
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/1.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/2.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/3.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/4.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/5.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/6.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/7.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/8.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/9.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/10.jpg)
-![](https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/11.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/1.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/2.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/3.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/4.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/5.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/6.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/7.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/8.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/9.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/10.jpg)
+![](https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Humor/病患解析/11.jpg)
 {% endgallery %}
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
@@ -48,11 +48,11 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Humor/病患解析/1.jpg
 
   - 第一种是`治疗性的药`,`无刺激性`,药效比较舒缓持久,`连续使用不超过三个月`; 价格正常 (60RMB 左右,一个月的剂量)
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210424225212.png" alt="20210424225212" />
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225212.png" alt="20210424225212" />
 
   - 第二种是辅助性用药,鼻内血管充血时可以喷一下疏通鼻腔,在用上一种药时这个药几乎没用,可以闲置,`持续用药不能超过一周`,否则出现副作用 (具体什么症状可以搜一下); 这个药便宜一些,好像是前者的一半.
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210424225402.png" alt="20210424225402" />
+    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225402.png" alt="20210424225402" />
 
   ***
 

@@ -8,7 +8,7 @@ tags:
   - pug
   - styl
   - CSS
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/Game/Honkai3/QQ图片20200725215845.jpeg
+cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Game/Honkai3/QQ图片20200725215845.jpeg
 ---
 
 <!--

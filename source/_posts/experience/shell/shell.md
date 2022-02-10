@@ -7,7 +7,7 @@ tags:
   - Linux
   - 计算机系统
   - 宝塔面板
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/gTyr4jImCiDKYfx.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 ---
 
 <!--

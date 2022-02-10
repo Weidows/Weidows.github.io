@@ -14,14 +14,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-08 20:00:40
+ * @LastEditTime: 2022-02-10 17:42:06
  * @FilePath: \Blog-private\source\_posts\others\golang\blockchain.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [参照](#参照)
-- [简介](#简介)
+1. [参照](#参照)
+2. [简介](#简介)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

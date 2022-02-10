@@ -3,7 +3,7 @@ title: 关于安装系统硬盘&引导那些事
 date: 2020-08-23 20:49:52
 tags:
   - 计算机系统
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/c4RC1zhqgl39Dp8.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/c4RC1zhqgl39Dp8.jpg
 ---
 
 <!--

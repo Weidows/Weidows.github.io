@@ -4,7 +4,7 @@ date: 2020-11-10 00:49:54
 tags:
   - CSS
   - 笔记
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/2WiEbNR47TznHcC.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/2WiEbNR47TznHcC.jpg
 top_img:
 ---
 
@@ -551,7 +551,7 @@ body > p {
 
 ### 盒子模型
 
-![RaeLiJknrlFpfYQ](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/D94Uxjch8gsEJAm.jpg)
+![RaeLiJknrlFpfYQ](https://cdn.jsdelivr.net/gh/Weidows/Images/post/D94Uxjch8gsEJAm.jpg)
 
 ### 圆角边框
 
@@ -587,8 +587,8 @@ body > p {
 
 - 效果图
 
-  ![coJYANqxg8vXuM2](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/PV6nfAx3vTCarDc.jpg)
-  ![NniKVFIq9AuBhts](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/v7gMKXbcIkBi4wF.jpg)
+  ![coJYANqxg8vXuM2](https://cdn.jsdelivr.net/gh/Weidows/Images/post/PV6nfAx3vTCarDc.jpg)
+  ![NniKVFIq9AuBhts](https://cdn.jsdelivr.net/gh/Weidows/Images/post/v7gMKXbcIkBi4wF.jpg)
 
 ---
 
@@ -622,4 +622,4 @@ body > p {
 ```
 
 - 效果图
-  ![tNEI4Mk93qx5HCv](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/HxtyER4QW7IJa9q.jpg)
+  ![tNEI4Mk93qx5HCv](https://cdn.jsdelivr.net/gh/Weidows/Images/post/HxtyER4QW7IJa9q.jpg)

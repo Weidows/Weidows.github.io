@@ -1,6 +1,6 @@
 ---
 title: ⭐ 陈茶酱醋 ⭐
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/Fantasy/光宇科景/77.jpeg
+top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/光宇科景/77.jpeg
 ---
 
 <!--

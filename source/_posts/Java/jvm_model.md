@@ -4,7 +4,7 @@ date: 2020-08-25 19:14:35
 tags:
   - Java
   - JVM
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/GQMENFX1sR4ubZY.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/GQMENFX1sR4ubZY.jpg
 ---
 
 <!--
@@ -124,6 +124,6 @@ e.getInfo();
 
 ## 深浅-clone
 
-<img src="https://s2.loli.net/2021/12/20/8tr6DhL5wZeK4V3.png" alt="20211220211918" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/8tr6DhL5wZeK4V3.png" alt="20211220211918" />
 
-<img src="https://s2.loli.net/2021/12/20/bFRma1xAZhJWpKT.png" alt="20211220211958" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bFRma1xAZhJWpKT.png" alt="20211220211958" />

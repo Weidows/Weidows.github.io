@@ -1,6 +1,6 @@
 ---
 title: ⭐ 带学生成长手册 ⭐
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/6t2qP1DoRUNyzSg.jpg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/6t2qP1DoRUNyzSg.jpg
 ---
 
 <!--

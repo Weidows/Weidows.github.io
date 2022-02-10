@@ -6,7 +6,7 @@ tags:
   - VScode
   - Cmake
   - 备忘录
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/fsj7FMhOw2WpigX.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/fsj7FMhOw2WpigX.jpg
 top_img:
 ---
 

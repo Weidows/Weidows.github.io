@@ -3,7 +3,7 @@ title: Markdown 中一些新奇写法.
 date: 2020-11-30 00:09:37
 tags:
   - Markdown
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg
 top_img:
 ---
 
@@ -123,12 +123,12 @@ top_img:
 
 - 这样写是把图片嵌套进了链接里,如下:
 
-  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)
+  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)
 
 - 本来只是展示图片,现在点击图片跳转了.
 
   ```markdown
-  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/o6shLZ1G53qliBY.jpg)
+  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)
   ```
 
 ---
@@ -155,7 +155,7 @@ top_img:
 
 > 发现自: [Axb 的自我修养](http://blog.2baxb.me/),样式如下:
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210329091216.png" alt="20210329091216" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210329091216.png" alt="20210329091216" />
 
 - 写法:
 
@@ -235,7 +235,7 @@ top_img:
 
 - 上面的是巨号,下面的是一号标题,怎样,够大吧?
 
-  <img src="https://i.loli.net/2021/10/09/CFqJIgubvXhxtrA.png" alt="20211009171608" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/CFqJIgubvXhxtrA.png" alt="20211009171608" />
 
 - 写法: `h1 标签 + 列表 + 一级标题`
 

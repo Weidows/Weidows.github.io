@@ -7,7 +7,7 @@ tags:
   - JavaScript
   - HTML
 date: 2021-04-18 11:54:15
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/QQ图片20210416221109.jpg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/QQ图片20210416221109.jpg
 top_img:
 ---
 
@@ -44,7 +44,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 2. 按 `F12` 进入 Console 控制台,输入下面代码: [-> 查看代码 <-](https://cdn.jsdelivr.net/gh/Weidows-projects/awesome-image-collector/implements/SM.MS-collector.js)
 
 3. 不出意外的话,左侧边栏会出现如下两个按钮:
-   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210418102023.png" alt="20210418102023" />
+   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210418102023.png" alt="20210418102023" />
 
 4. 现在可以使用了 => 下载本页面图片 => 全选 => 删除, 这样就导出了!
 

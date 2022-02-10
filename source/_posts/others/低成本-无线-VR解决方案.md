@@ -4,7 +4,7 @@ tags:
   - VR
   - 推荐
 date: 2021-03-13 18:17:44
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210313184315.png
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210313184315.png
 top_img:
 ---
 
@@ -53,7 +53,7 @@ top_img:
 
   - 按`Fn + F8`进入投影,也可以在右下角通知中心找到
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210313183255.png" alt="20210313183255" />
+  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210313183255.png" alt="20210313183255" />
 
   - `推荐`用第二个"复制",第三个"扩展"有可能会花屏
 
@@ -61,6 +61,6 @@ top_img:
 
 ## 设置视频
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/hpp/20210313183727.png" alt="20210313183727" />
+<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210313183727.png" alt="20210313183727" />
 
 - 然后没了,带上眼镜看就对了.
