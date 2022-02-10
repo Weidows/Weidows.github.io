@@ -14,29 +14,29 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/grPxjQIqvA8mWtT.jpg
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-05 23:50:15
+ * @LastEditTime: 2022-02-11 04:13:18
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
 -->
 
-- [文章标题-格式](#文章标题-格式)
-  - [肯定要背过的](#肯定要背过的)
-  - [以下是没用过或无效的](#以下是没用过或无效的)
-- [标签外挂](#标签外挂)
-- [Gallery 相册图库](#gallery-相册图库)
-  - [div 式写法](#div-式写法)
-  - [效果:](#效果)
-  - [另一种相册形式(自动排列)](#另一种相册形式自动排列)
-- [tag-hide](#tag-hide)
-  - [inline(一行内)](#inline一行内)
-  - [Block(块)](#block块)
-  - [toggle(收缩框)](#toggle收缩框)
-- [mermaid](#mermaid)
-- [tabs(标签块)](#tabs标签块)
-- [Button](#button)
-  - [写法:](#写法)
-  - [好康的-demo](#好康的-demo)
-- [\_config.yml](#_configyml)
-- [图片引入](#图片引入)
+1. [文章标题-格式](#文章标题-格式)
+   1. [肯定要背过的](#肯定要背过的)
+   2. [以下是没用过或无效的](#以下是没用过或无效的)
+2. [标签外挂](#标签外挂)
+3. [Gallery 相册图库](#gallery-相册图库)
+   1. [div 式写法](#div-式写法)
+   2. [效果:](#效果)
+   3. [另一种相册形式(自动排列)](#另一种相册形式自动排列)
+4. [tag-hide](#tag-hide)
+   1. [inline(一行内)](#inline一行内)
+   2. [Block(块)](#block块)
+   3. [toggle(收缩框)](#toggle收缩框)
+5. [mermaid](#mermaid)
+6. [tabs(标签块)](#tabs标签块)
+7. [Button](#button)
+   1. [写法:](#写法)
+   2. [好康的-demo](#好康的-demo)
+8. [\_config.yml](#_configyml)
+9. [图片引入](#图片引入)
 
 ## 文章标题-格式
 
@@ -154,7 +154,7 @@ img-url：图库封面的地址
 
 例如:
 <div class="gallery-group-main">
-{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery/PrettyGreen https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/PrettyGreen/Nu9RF1.jpg %}
+{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images/post/Nu9RF1.jpg %}
 </div>
 ```
 

@@ -1,14 +1,14 @@
 ---
 title: ⭐ 程序设计大赛 ⭐
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/CCPC/CCPC.png
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/CCPC.png
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 03:37:31
- * @FilePath: \Blog-private\source\gallery\Private\CCPC.md
+ * @LastEditTime: 2022-02-11 04:14:12
+ * @FilePath: \Blog-private\source\gallery\CCPC.md
 -->
 
 ## CCPC

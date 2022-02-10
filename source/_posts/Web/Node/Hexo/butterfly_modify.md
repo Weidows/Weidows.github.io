@@ -8,24 +8,24 @@ tags:
   - pug
   - styl
   - CSS
-cover: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Game/Honkai3/QQ图片20200725215845.jpeg
+cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/QQ图片20200725215845.jpeg
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-06 12:41:10
+ * @LastEditTime: 2022-02-11 04:12:36
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\butterfly_modify.md
 -->
 
-- [魔改滚动条](#魔改滚动条)
-- [文章背板透明](#文章背板透明)
-- [footer 类 github 小标签](#footer-类-github-小标签)
-- [添加 footer 小红心](#添加-footer-小红心)
-- [修改鼠标样式](#修改鼠标样式)
-- [适配 Pjax](#适配-pjax)
-- [优化](#优化)
+1. [魔改滚动条](#魔改滚动条)
+2. [文章背板透明](#文章背板透明)
+3. [footer 类 github 小标签](#footer-类-github-小标签)
+4. [添加 footer 小红心](#添加-footer-小红心)
+5. [修改鼠标样式](#修改鼠标样式)
+6. [适配 Pjax](#适配-pjax)
+7. [优化](#优化)
 
 ![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
 

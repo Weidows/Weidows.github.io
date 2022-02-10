@@ -1,14 +1,14 @@
 ---
 title: ⭐ 陈茶酱醋 ⭐
-top_img: https://47i7-my.sharepoint.com/personal/utsuko27_bilibili_hk_cn/Documents/Pictures/bed/gallery/Fantasy/光宇科景/77.jpeg
+top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/77.jpeg
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 11:15:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-02 08:21:01
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\artitalk\older_artitalk.md
+ * @LastEditTime: 2022-02-11 04:10:53
+ * @FilePath: \Blog-private\source\artitalk\older_artitalk.md
 -->
 
 <script type="text/javascript" src="https://unpkg.com/artitalk"></script>
