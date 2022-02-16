@@ -109,7 +109,7 @@ top_img:
   C:\Users>
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 压缩包内容异常
 
@@ -123,7 +123,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/62gOc1xLjyQfSVa.png" alt="20210627202415" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## office
 
@@ -179,7 +179,7 @@ top_img:
 
 > [OFFICE365 各版本、A1、A1P、E3、E5 等版本科普](https://shikey.com/2019/12/24/office365-versions-a1-a1p-e3-etc.html)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 各种路径
 
@@ -195,7 +195,7 @@ top_img:
 
   - `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 颜色配置
 
@@ -227,7 +227,7 @@ LSP mode : on
 
 <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/tVBIDOuSivQdPna.png" alt="20220126193700" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 虚拟机代理不通
 
@@ -241,7 +241,7 @@ LSP mode : on
 
 - 坑了好久啊!!!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 数据迁移
 
@@ -261,7 +261,7 @@ LSP mode : on
 
   在电脑上压缩后复制到手机,然后手机解压就可以获取到这种怪名文件了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## OneDrive
 
@@ -303,7 +303,7 @@ LSP mode : on
 
   然后会问占用问题,直接输 Y,很快就好了!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 声音配置
 

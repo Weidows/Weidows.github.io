@@ -15,17 +15,20 @@ date: {{ date }}
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-10 20:17:59
+ * @LastEditTime: 2022-02-17 01:48:17
  * @FilePath: \Blog-private\scaffolds\post.md
  * @Description:
  * @!: *********************************************************************
 -->
+## {{ title }}
 
-1. [简介](#简介)
-2. [参照](#参照)
+{% pullquote mindmap mindmap-md %}
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+- [{{ title }}](#-title-)
+- [参照](#参照)
 
-## 简介
+{% endpullquote %}
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照

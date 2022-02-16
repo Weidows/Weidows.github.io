@@ -33,7 +33,7 @@ uglifyjs xxx.js -o xxx.min.js
 uglifyjs xxx.js -m -o xxx.min.js // 更小
 ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 柔派使用盲区
 

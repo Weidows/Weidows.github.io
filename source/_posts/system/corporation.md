@@ -25,7 +25,7 @@ top_img:
 2. [开源软件-付费服务的选择](#开源软件-付费服务的选择)
 3. [参照](#参照)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -53,7 +53,7 @@ top_img:
 
   所以说一旦涉及 `机器服务`,买付费服务绝对是性价比更高的.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照
 

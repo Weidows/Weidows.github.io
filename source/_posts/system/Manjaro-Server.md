@@ -65,7 +65,7 @@ top_img:
 
   - 有的系统不带 root 账户,有的不开放.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 启用 ssh 服务
 
@@ -104,7 +104,7 @@ top_img:
 
   - Windows 上那个位置就是`C:\Users\你的用户名\.ssh`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 换源
 
@@ -156,7 +156,7 @@ sudo pacman-mirrors -i -c China -m rank
   pacman -Syyu
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置 docker
 
@@ -172,7 +172,7 @@ sudo pacman-mirrors -i -c China -m rank
 sudo pacman -S docker
 ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 更新失败
 
@@ -203,7 +203,7 @@ sudo pacman -S docker
 
 - 然后复制进 console 执行->再次更新->成功!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 虚拟机代理
 

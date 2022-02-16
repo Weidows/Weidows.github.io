@@ -19,7 +19,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/SuYiVEyqvkWDAB6.jpg
 - [增添代码片段](#增添代码片段)
 - [我的模板](#我的模板)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 开启 snippet
 
@@ -35,7 +35,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/SuYiVEyqvkWDAB6.jpg
   }
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 增添代码片段
 
@@ -66,7 +66,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/SuYiVEyqvkWDAB6.jpg
 
 - 这个片段就可以在 markdown 文件内输入`title`快速生成上面的模板,省去复制的麻烦了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 我的模板
 

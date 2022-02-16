@@ -15,17 +15,17 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-09 23:57:21
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\SM-MS-downloader.md
+ * @LastEditTime: 2022-02-11 17:49:55
+ * @FilePath: \Blog-private\source\_posts\tools\SM-MS-downloader.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [关联项目](#关联项目)
-- [简介](#简介)
-- [使用](#使用)
-- [问题](#问题)
-- [路标 & 技术调用](#路标--技术调用)
+1. [关联项目](#关联项目)
+2. [简介](#简介)
+3. [使用](#使用)
+4. [问题](#问题)
+5. [路标 & 技术调用](#路标--技术调用)
 
 ## [关联项目](https://github.com/Weidows/awesome-image-collector)
 
@@ -35,7 +35,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
 可以把对应页面的所有图片(一般是 30 张)获取并打包为 zip 文件下载下来
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 使用
 
@@ -48,7 +48,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
 4. 现在可以使用了 => 下载本页面图片 => 全选 => 删除, 这样就导出了!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 问题
 
@@ -60,15 +60,13 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
   > 检查一下网络是否可以正常访问 `i.loli.net` 这个域名,有可能是因为网络原因导致图片未成功加载
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 路标 & 技术调用
 
-> [博客文章地址](https://weidows.github.io/post/tools/SM-MS-downloader)
-
-> [Gitee 仓库地址](https://gitee.com/Weidows/SMMS-downloader)
-
-> [GitHub 仓库地址](https://github.com/Weidows/SM.MS-downloader)
+> [博客文章地址](https://weidows.github.io/post/tools/SM-MS-downloader) \
+> [Gitee 仓库地址](https://gitee.com/Weidows-projects/awesome-image-collector) \
+> [GitHub 仓库地址](https://github.com/Weidows-projects/awesome-image-collector)
 
 ---
 

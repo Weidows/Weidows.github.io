@@ -23,14 +23,14 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/rJLfcmTERGvAti4.jpg
 - [GitHub-Action](#github-action)
 - [新经验](#新经验)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 冒号 :
 
 - yaml 元素标签后加个冒号表示结束,这俩要紧挨着,但是与冒号后跟着的值要空出一个空格
   这样 `keyword: value`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 连字符(减号) -
 
@@ -41,7 +41,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/rJLfcmTERGvAti4.jpg
 ```
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 单引号 '
 
@@ -62,7 +62,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/rJLfcmTERGvAti4.jpg
   ```
 - 这种任务 uses 与 run 不能共存,可以有 with...
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 新经验
 

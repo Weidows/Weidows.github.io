@@ -49,7 +49,7 @@ top_img:
 
 通俗点讲就是我在某一个小区域花死劲了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 2021-03-14
 
@@ -79,7 +79,7 @@ SEO 方面，谷歌＞必应＞百度，准确度和收录速度差好几条街
 写到这里，就是为了记录一下，整理下思路，并寻找下一代内容呈现方式。
 这或许是二十一世纪二十年代的风口，不知会被谁打破当局。
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 2020-11-17
 

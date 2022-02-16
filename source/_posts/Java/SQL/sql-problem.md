@@ -33,7 +33,7 @@ top_img:
 - [接口数据速览](#接口数据速览)
 - [外键-数据-导出入](#外键-数据-导出入)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -41,7 +41,7 @@ top_img:
 
 不只是 SQL,包括工作中常用的技巧.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 模糊查询
 
@@ -73,7 +73,7 @@ top_img:
   </select>
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## where
 
@@ -121,7 +121,7 @@ top_img:
 
 - 在 SQL 支持的情况下,还是套`<where>`标签更好,它能处理 `where and` 这种情况.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 多索引排序
 
@@ -135,7 +135,7 @@ top_img:
 
 - 挺简单的 `order by id`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Mariadb-无法远程连接
 
@@ -161,7 +161,7 @@ top_img:
 
   远程连接时连这个用户就行了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 数据源连接不上
 
@@ -171,7 +171,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/MJChF9w2mufaBtj.png" alt="20210925193945" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## docker-databases
 
@@ -179,7 +179,7 @@ top_img:
 
 > 在另一篇文章: [🌈 初探 Docker.](../../system/../docker#多数据库管理)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 接口数据速览
 

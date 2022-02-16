@@ -14,25 +14,35 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-05 23:31:26
+ * @LastEditTime: 2022-02-17 01:56:44
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
-- [通用](#通用)
-  - [文件末尾追加命令](#文件末尾追加命令)
-  - [输出重定向](#输出重定向)
-  - [启动程序](#启动程序)
-  - [清垃圾(?](#清垃圾)
-- [CMD/PowerShell](#cmdpowershell)
-- [Linux](#linux)
-  - [查杀进程](#查杀进程)
-  - [宝塔](#宝塔)
-- [Git](#git)
-- [Docker](#docker)
-- [Vim](#vim)
-- [扩展程序](#扩展程序)
-  - [fzf](#fzf)
-  - [tldr](#tldr)
+# 💧 一些常用终端命令.
+
+{% pullquote mindmap mindmap-md %}
+
+- [💧 一些常用终端命令.](#-一些常用终端命令)
+  - [通用](#通用)
+    - [文件末尾追加命令](#文件末尾追加命令)
+    - [输出重定向](#输出重定向)
+    - [启动程序](#启动程序)
+    - [清垃圾(?](#清垃圾)
+    - [与或-管道运算符](#与或-管道运算符)
+  - [CMD/PowerShell](#cmdpowershell)
+  - [Linux](#linux)
+    - [查杀进程](#查杀进程)
+    - [宝塔](#宝塔)
+  - [Git](#git)
+  - [Docker](#docker)
+  - [Vim](#vim)
+  - [扩展程序](#扩展程序)
+    - [fzf](#fzf)
+    - [tldr](#tldr)
+
+{% endpullquote %}
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 通用
 
@@ -115,7 +125,19 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 
   `rm -rf /*`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+---
+
+### 与或-管道运算符
+
+command1 & command2 & command3: 不论成败都会执行
+
+command1 && command2 && command3: 左边全都执行成功/返回 0 才会执行右边的命令
+
+command1 || command2 || command2: 左边全都执行失败/返回 1 才会执行右边的命令
+
+command1 | command2: 把左边的命令的输出结果作为右边的命令的输入,例如 `ps | grep win`
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## CMD/PowerShell
 
@@ -138,7 +160,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 
 - 注意 cmd 不支持`/`作为路径,PowerShell 支持
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Linux
 
@@ -163,7 +185,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 
 |              指令               |                     作用                      |
 | :-----------------------------: | :-------------------------------------------: |
-|          `ps -ef/aux`           |        显示进程(注意多个进程用','隔开而非空格)        |
+|          `ps -ef/aux`           |    显示进程(注意多个进程用','隔开而非空格)    |
 |          `kill -9 pid`          |                   杀死进程                    |
 | `lsof -i:8080 / -i@12:34:56:78` | Linux 中一切皆文件,此命令可以显示指定文件信息 |
 
@@ -179,7 +201,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 | :----------------------: | :--------------: |
 | `/etc/init.d/bt default` | 查看宝塔面板入口 |
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Git
 
@@ -194,7 +216,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
   | `git commit -m "提交消息,可添加emoji😝"` | 提交 |
   | `git push [origin(远程名字,默认是origin) master(分支名字)]` | 推送 |
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Docker
 
@@ -205,7 +227,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 |              `docker kill xxx`              |                 关闭 xxx 容器                  |
 |          `docker list\| grep abc`           | 筛选 docker list 命令中含有 abc 字符串的结果集 |
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Vim
 
@@ -213,7 +235,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 | :---: | :-------------------------------------: |
 | `:q!` | 如何获得一个随机字符串? >让新手退出 vim |
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 扩展程序
 

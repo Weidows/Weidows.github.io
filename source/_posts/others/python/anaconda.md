@@ -12,29 +12,29 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-11 00:40:14
- * @FilePath: \Blog-private\source\_posts\experience\python\anaconda.md
+ * @LastEditTime: 2022-02-13 02:55:59
+ * @FilePath: \Blog-private\source\_posts\others\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [简介](#简介)
-- [安装](#安装)
-- [测试](#测试)
-- [配置文件位置](#配置文件位置)
-- [镜像加速-代理](#镜像加速-代理)
-- [修改依赖路径](#修改依赖路径)
-- [PyTorch](#pytorch)
-- [CUDA-cuDNN](#cuda-cudnn)
-- [导出-安装依赖](#导出-安装依赖)
-- [实例](#实例)
-- [终端](#终端)
-  - [激活终端](#激活终端)
-  - [环境不一致](#环境不一致)
-  - [更新依赖](#更新依赖)
-  - [报错](#报错)
+1. [简介](#简介)
+2. [安装](#安装)
+3. [测试](#测试)
+4. [配置文件位置](#配置文件位置)
+5. [镜像加速-代理](#镜像加速-代理)
+6. [修改依赖路径](#修改依赖路径)
+7. [PyTorch](#pytorch)
+8. [CUDA-cuDNN](#cuda-cudnn)
+9. [导出-安装依赖](#导出-安装依赖)
+10. [实例](#实例)
+11. [终端](#终端)
+   1. [激活终端](#激活终端)
+   2. [环境不一致](#环境不一致)
+   3. [更新依赖](#更新依赖)
+   4. [报错](#报错)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -50,7 +50,7 @@ top_img:
 
 > 此文章很清晰的介绍了 Anaconda 的安装使用: https://zhuanlan.zhihu.com/p/75717350
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 安装
 
@@ -68,7 +68,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/X7dTaEoHmbr6W29.png" alt="20211002190135" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 测试
 
@@ -99,7 +99,7 @@ top_img:
 
   2. 检查系统是不是开了 http 代理 (挂-了-梯-子?),把 http 模式换成 PAC 模式试试,我遇到这个错误可以这样解决
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置文件位置
 
@@ -109,7 +109,7 @@ top_img:
 
   - pip: `~\pip\pip.ini`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 镜像加速-代理
 
@@ -173,7 +173,7 @@ top_img:
   trusted-host = mirrors.aliyun.com
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 修改依赖路径
 
@@ -212,20 +212,18 @@ top_img:
   python -m site -help
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## PyTorch
 
-> [windows10 下安装 GPU 版 pytorch 简明教程](https://zhuanlan.zhihu.com/p/54350088)
-
-> [PyTorch 官网](https://pytorch.org/get-started/locally)
-
+> [windows10 下安装 GPU 版 pytorch 简明教程](https://zhuanlan.zhihu.com/p/54350088) \
+> [PyTorch 官网](https://pytorch.org/get-started/locally) \
 > [利用 Conda 安装深度学习框架 Pytorch](https://zhuanlan.zhihu.com/p/106394476)
 
 - 安装 (with CUDA 版本):
 
   ```
-  conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+  conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cudatoolkit=11.3 -c pytorch -c conda-forge
   ```
 
   ***
@@ -254,7 +252,7 @@ top_img:
           [0.4675, 0.3947, 0.1426]])
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## CUDA-cuDNN
 
@@ -284,7 +282,7 @@ top_img:
 
   `配置方法`: 解压,把`bin\`添加进 path
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 导出-安装依赖
 
@@ -347,7 +345,7 @@ top_img:
 
   </details>
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 实例
 
@@ -361,7 +359,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/mB2WXqxHsfRIwaJ.png" alt="20210521104118" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 终端
 

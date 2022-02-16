@@ -33,7 +33,7 @@ top_img:
 - [解决方案](#解决方案)
 - [收尾](#收尾)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## [关联项目](https://github.com/Weidows/awesome-image-collector)
 
@@ -49,7 +49,7 @@ top_img:
   2. fetch 获取数据
   3. canvas 操作
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 剖析原料
 
@@ -72,7 +72,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/ONQBnduEbS7Tsm6.png" alt="20210709232207" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 问题展示
 
@@ -122,7 +122,7 @@ top_img:
 
   2. img 标签设置属性 `crossorigin='anonymous'`,表示想要跨域,否则会报错 canvas 被污染
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 需求
 
@@ -134,7 +134,7 @@ top_img:
 
   -> 需要解决 canvas 跨域污染.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 解决方案
 
@@ -160,7 +160,7 @@ top_img:
 
   > [Allow CORS: Access-Control-Allow-Origin](https://microsoftedge.microsoft.com/addons/detail/allow-cors-accesscontro/bhjepjpgngghppolkjdhckmnfphffdag?hl=zh-CN)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 收尾
 

@@ -24,7 +24,7 @@ top_img:
 - [定向变色](#定向变色)
 - [去水印](#去水印)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 快捷键
 
@@ -55,7 +55,7 @@ top_img:
   ![20201129121309](https://cdn.jsdelivr.net/gh/Weidows/Images/post/QxWfLSMuHa9GD1e.jpg)
 - 选中后按 Delete
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 定向变色
 
@@ -71,7 +71,7 @@ top_img:
 
 - 填入目标色即可.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 去水印
 

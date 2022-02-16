@@ -42,7 +42,7 @@ top_img:
   - [获得表单信息](#获得表单信息)
   - [提交表单](#提交表单)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 对象
 

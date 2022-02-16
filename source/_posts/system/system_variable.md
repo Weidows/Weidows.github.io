@@ -30,7 +30,7 @@ top_img:
 - [Python](#python)
 - [Node.js](#nodejs)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 深入环境变量
 
@@ -40,7 +40,7 @@ top_img:
 
 > 详见[🙌Windows 平台软件包管理器选择-Scoop](../../tools/Scoop)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## JDK
 
@@ -54,7 +54,7 @@ top_img:
 
   - `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Maven
 
@@ -78,13 +78,13 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210325105220.png" alt="20210325105220" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Git
 
 > 用 Scoop 安装自带环境变量,不用配置.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Python
 
@@ -102,7 +102,7 @@ top_img:
 
   > [👍Anaconda-Python-水漂浅探池深浅.](../../others/python/anaconda)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Node.js
 

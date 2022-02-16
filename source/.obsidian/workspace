@@ -7,8 +7,12 @@
         "id": "19d44f0eadd5ef1f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/tools/Git/matters.mmd.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/tools/Git/matters.mmd.md"
+              }
             }
           }
         ]
@@ -82,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/tools/Git/matters.mmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +131,7 @@
   },
   "active": "19d44f0eadd5ef1f",
   "lastOpenFiles": [
+    "_posts/tools/Git/matters.mmd.md",
     "_posts/others/golang/blockchain.md",
     "_posts/experience/basic/通信技术.md",
     "_posts/experience/basic/基础知识.md",
@@ -132,7 +140,6 @@
     "_posts/experience/shell/奇技淫巧.md",
     "_posts/Web/JavaScript/CORS.md",
     "_posts/tools/backuper.md",
-    "_posts/Web/JavaScript/study-1.md",
-    "_posts/system/system_variable.md"
+    "_posts/Web/JavaScript/study-1.md"
   ]
 }

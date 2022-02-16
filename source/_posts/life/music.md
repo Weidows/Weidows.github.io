@@ -26,7 +26,7 @@ top_img:
 - [扩充](#扩充)
 - [摘录](#摘录)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 序章
 
@@ -34,7 +34,7 @@ top_img:
 
 - 直到...
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 端倪
 
@@ -75,7 +75,7 @@ top_img:
 
   - 图下面的符号连接起来成为一个整体,比单调排列更强调`组合之美`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 调用
 
@@ -105,7 +105,7 @@ top_img:
 
   - 中文因为气息变换大,连贯性低,假以伴奏的话,ummm 简单说起来就是抢戏,无论你多大声
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 收尾
 
@@ -143,7 +143,7 @@ top_img:
 
 - 当然,找到合适的路就对了,比如`安静的午后`,中文抒情歌,就很舒心.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 扩充
 
@@ -170,7 +170,7 @@ top_img:
 - 其他的应该还有,没注意到.
 - `酱紫吧`.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 摘录
 

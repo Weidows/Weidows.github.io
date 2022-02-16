@@ -32,7 +32,7 @@ top_img:
 
 - 在 VScode 里安装`Processing Language`插件,它支持语法高亮和代码补全
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 编译环境
 

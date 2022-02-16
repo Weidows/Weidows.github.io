@@ -29,7 +29,7 @@ top_img:
 - [优化 js](#优化-js)
   - [再次魔改](#再次魔改)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Why?
 
@@ -39,7 +39,7 @@ top_img:
 
 - 巨耗费渲染性能和时间(可以感觉出来加载这网站挺费劲的)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 概览
 
@@ -67,13 +67,13 @@ top_img:
 
   - `third-party\pjax.pug` - 调用 Weidows.re(),适配 pjax 刷新
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 契合
 
 > 结合 [butterfly 内部魔改记录](./butterfly_modify)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 优化 css
 
@@ -110,7 +110,7 @@ top_img:
 
 - 这样 css 优化就完成了
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 优化 js
 

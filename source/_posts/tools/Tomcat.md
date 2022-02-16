@@ -33,7 +33,7 @@ top_img:
   - [终端乱码](#终端乱码)
   - [网页中文乱码](#网页中文乱码)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置
 
@@ -41,7 +41,7 @@ top_img:
 
 > Maven 的核心思想：约定大于配置
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## VScode
 
@@ -80,7 +80,7 @@ top_img:
 
   - 后缀名是`.html`的话 URL 后缀可以不写,比如上面写成 `localhost:8080/000/2333` 也可以.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 创建项目
 
@@ -98,7 +98,7 @@ top_img:
 
 > [点这里参考项目结构](https://github.com/Weidows/Java/tree/master/JavaWeb/demo-0)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## IDEA
 
@@ -116,7 +116,7 @@ top_img:
 
 - 现在配置好了之后,IDEA 会自动完成项目`构建->部署->打开网页` (VScode 的话也可以手动做到)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 虚拟主机/代理
 
@@ -180,7 +180,7 @@ top_img:
 
   > <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210322100531.png" alt="20210322100531" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 乱码问题
 

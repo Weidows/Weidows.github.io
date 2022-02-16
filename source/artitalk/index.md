@@ -33,7 +33,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/317644.jpg
 
 </div>
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 鸣谢
 

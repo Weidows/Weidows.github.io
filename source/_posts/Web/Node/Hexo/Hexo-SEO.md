@@ -37,7 +37,7 @@ top_img:
   npm install hexo-generator-sitemap --save
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置文件
 
@@ -81,7 +81,7 @@ top_img:
     </url>
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 站长添加网站
 
@@ -105,7 +105,7 @@ top_img:
   - hexo deploy
   - page 部署才能验证
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 添加站点地图
 
@@ -118,7 +118,7 @@ top_img:
   - 百度添加 sitemap 后一直处于等待状态是正常的,别在意...
   - 谷歌添加 sitemap 一般第一次会失败,删掉重新添加就好了(立即生效)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 注意点
 

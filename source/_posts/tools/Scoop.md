@@ -48,7 +48,7 @@ top_img:
 
 - 此文章要介绍的是`Scoop`- 横向简单对比`Chocolatey`和`WinGet`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 各个优缺点
 
@@ -80,7 +80,7 @@ top_img:
 
 - 个人选择了 `Scoop`,下面主要讲 Scoop.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 安装
 
@@ -167,7 +167,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210314001245.png" alt="20210314001245" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 功能提升
 
@@ -211,7 +211,7 @@ top_img:
   choco config unset proxy
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Scoop 绝活
 
@@ -223,7 +223,7 @@ top_img:
 - 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
 - 这个功能太赞了!
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置文件
 
@@ -237,7 +237,7 @@ top_img:
 
 > 在 `Chocolatey\config\chocolatey.config` 这个文件里.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 好文传送
 
@@ -245,7 +245,7 @@ top_img:
 
 > [scoop——强大的 Windows 命令行包管理工具](https://www.jianshu.com/p/50993df76b1c)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 报错异常
 
@@ -343,7 +343,7 @@ created by main.main
 
 排查了一遍,出现这种问题一般是因为`软件库有问题`, 而不是 scoop/scoop-search 的问题
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 更新&备份&推荐
 

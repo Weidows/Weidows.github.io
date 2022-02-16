@@ -12,26 +12,28 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-03 03:21:53
+ * @LastEditTime: 2022-02-17 01:57:23
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [简介](#简介)
-- [链接搜集](#链接搜集)
-- [安装](#安装)
-- [报错](#报错)
-- [实际效果](#实际效果)
-- [公式渲染](#公式渲染)
-- [误区](#误区)
-- [Butterfly+KaTeX](#butterflykatex)
-- [怎么写?](#怎么写)
-  - [公式](#公式)
+# 🍹LaTeX~环形使者(?)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+{% pullquote mindmap mindmap-md %}
 
-## 简介
+- [🍹LaTeX~环形使者(?)](#latex环形使者)
+  - [链接搜集](#链接搜集)
+  - [安装](#安装)
+  - [报错](#报错)
+  - [实际效果](#实际效果)
+  - [公式渲染](#公式渲染)
+  - [误区](#误区)
+  - [Butterfly+KaTeX](#butterflykatex)
+  - [怎么写?](#怎么写)
+    - [公式](#公式)
+
+{% endpullquote %}
 
 - 好奇学术论文是怎么写的吗? 此文章尽做大努力把什么是 Tex 系统给你整闭环了 😁
 
@@ -41,7 +43,7 @@ top_img:
 
   TeX 生态的名词简直太 ☘ 了,翻阅了很多中英文文档/社区整理了这个图,差不多可以总结 TeX 生态常见/常用的引擎和发行软件.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 链接搜集
 
@@ -49,7 +51,7 @@ top_img:
 
 > [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/) 强烈推荐阅读的文章,无论是介绍,生态,还是使用方面都很通俗易懂.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 安装
 
@@ -157,7 +159,7 @@ top_img:
 
 - 4.VScode 右上角应该有编译标志 (或者按 `Ctrl + alt + B`),之后 MikTaX 应该会提醒你下载宏包 (因为软件本身很小,没包含进去),选择 China 的镜像源然后等它下载之后会自动编译.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 报错
 
@@ -171,7 +173,7 @@ top_img:
 
   - 暂时没办法,只有启用 KaTeX 的页面会出现这个错误,问题不大先搁置.jpg
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 实际效果
 
@@ -213,7 +215,7 @@ top_img:
 
 - 个人倾向在网页端用 Katex,更轻便快速.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 误区
 
@@ -225,7 +227,7 @@ top_img:
 
 3. 为了让 markdown 中 LaTeX 格式的公式也能得到正确显示,我们抽离出渲染公式这部分引擎 -> `KaTeX/MathJax` -> `专门用来渲染公式`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Butterfly+KaTeX
 
@@ -269,7 +271,7 @@ top_img:
 
   $$ \alpha^{2} + \beta = \Theta $$
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 怎么写?
 
@@ -279,8 +281,8 @@ top_img:
 
 > ~~面向知乎学编程~~: [LaTeX 公式篇](https://zhuanlan.zhihu.com/p/110756681)
 
-基本上可以按图索骥了, 写了写: [👽通信技术-开坑自埋](../basic/通信技术#极化码)
+基本上可以按图索骥了, 写了写: [👽 通信技术-开坑自埋](../basic/通信技术#极化码)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 鸽置下蛋 (

@@ -23,7 +23,7 @@ top_img:
 - [参照-简介](#参照-简介)
 - [正文](#正文)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照-简介
 
@@ -31,7 +31,7 @@ top_img:
 
 - 有些字眼/黑话属实难以揉捏透,看来看去大脑都高潮了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 正文
 

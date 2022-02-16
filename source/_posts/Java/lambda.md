@@ -29,13 +29,13 @@ top_img:
   - [匿名内部类](#匿名内部类)
   - [Lambda](#lambda)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照
 
 > 在此文章记录了: [😍Weidows の成长路线.#lambda](../../others/LearnWay#lambda)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简单讲解
 
@@ -132,7 +132,7 @@ interface GreetingService {
 }
 ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 作用域
 
@@ -192,7 +192,7 @@ public class ForEach {
 }
 ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 多线程
 

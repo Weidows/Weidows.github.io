@@ -3,6 +3,8 @@ title: 🤔Matters found in IDEs.
 tags:
   - PyCharm
   - VScode
+  - Goland
+  - IDEA
 katex: false
 comments: true
 aside: true
@@ -15,16 +17,18 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-25 01:36:56
- * @FilePath: \Blog-private\source\_posts\tools\matters.md
+ * @LastEditTime: 2022-02-16 02:35:43
+ * @FilePath: \Blog-private\source\_posts\tools\IDE-matters.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [插件无法卸载](#插件无法卸载)
-- [VScode-源代码管理不显示](#vscode-源代码管理不显示)
+1. [插件无法卸载](#插件无法卸载)
+2. [VScode-源代码管理不显示](#vscode-源代码管理不显示)
+3. [Jetbrains-系列快捷键配置转移](#jetbrains-系列快捷键配置转移)
+4. [参考](#参考)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 插件无法卸载
 
@@ -52,7 +56,7 @@ top_img:
 
 - 再重开就没报错了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## VScode-源代码管理不显示
 
@@ -77,3 +81,15 @@ top_img:
   打开这个文件,查找关键词 `null` 替换为 `""`
 
 OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## Jetbrains-系列快捷键配置转移
+
+在另一篇文章记载:<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 参考
+
+<a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [🐭 从零开始 Golang & blockchain](../others/golang/blockchain#Goland-快捷键导入)

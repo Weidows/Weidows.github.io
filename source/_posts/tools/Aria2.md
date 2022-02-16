@@ -36,7 +36,7 @@ top_img:
   - [自动更新 tracker](#自动更新-tracker)
 - [参考](#参考)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -48,7 +48,7 @@ top_img:
 
 > [为什么很多人都推荐 IDM 下载 说这才是下载神器 不限速的 比迅雷下载和百度网盘下载好多了？](https://www.zhihu.com/question/61896660)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 需求
 
@@ -62,7 +62,7 @@ top_img:
 
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/xi3DPVzARd8nWYt.png" alt="20210129155515" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 横向对比
 
@@ -103,7 +103,7 @@ top_img:
 
 - 我需要做的就是安装浏览器插件:`Aria2 for Chrome`或者`Aria Manager`之类的,让他连通作为 Aria2 的 UI 界面
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置
 
@@ -251,7 +251,7 @@ top_img:
 
 > [我的日常启动脚本](https://github.com/Weidows-projects/Keeper/blob/main/utils.bat)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 配置浏览器
 
@@ -269,7 +269,7 @@ top_img:
 
 - 其他的配置随意,这样,浏览器就配置好了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 问题-配置中已集成解决
 
@@ -333,7 +333,7 @@ top_img:
   echo bt-tracker=%trackerslist%>>%BACKUP_DIR%\others\aria2\aria2.conf
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参考
 

@@ -1,5 +1,5 @@
 ---
-title: 如何让Windows下的终端变得漂亮和好用起来
+title: 🉑pwsh极致专攻
 date: 2020-10-13 23:25:31
 tags:
   - shell
@@ -12,22 +12,29 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-29 20:56:02
+ * @LastEditTime: 2022-02-17 01:55:36
  * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
-- [预览](#预览)
-- [环境配置](#环境配置)
-- [安装插件](#安装插件)
-- [启用主题及插件](#启用主题及插件)
-- [oh-my-posh](#oh-my-posh)
-- [启用管理员模式](#启用管理员模式)
+# 🉑 pwsh 极致专攻
+
+{% pullquote mindmap mindmap-md %}
+
+- [🉑 pwsh 极致专攻](#-pwsh-极致专攻)
+  - [预览](#预览)
+  - [环境配置](#环境配置)
+  - [安装插件](#安装插件)
+  - [启用主题及插件](#启用主题及插件)
+  - [oh-my-posh](#oh-my-posh)
+  - [启用管理员模式](#启用管理员模式)
+
+{% endpullquote %}
 
 ## 预览
 
 ![siDz8M1QlGIanE3](https://cdn.jsdelivr.net/gh/Weidows/Images/post/L26PcmM3KnW9YfT.jpg)
 
----
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 环境配置
 
@@ -136,7 +143,7 @@ top_img:
 
   - 清除打开时的版本信息,在最后一行添加: `clear`
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## oh-my-posh
 
@@ -152,7 +159,7 @@ top_img:
   Set-PoshPrompt -Theme xxx
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 启用管理员模式
 

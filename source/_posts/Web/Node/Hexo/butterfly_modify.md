@@ -15,7 +15,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/QQ图片20200725215845.jp
  * @Author: Weidows
  * @Date: 2020-09-03 22:49:05
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 04:12:36
+ * @LastEditTime: 2022-02-11 17:47:56
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\butterfly_modify.md
 -->
 
@@ -27,7 +27,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/QQ图片20200725215845.jp
 6. [适配 Pjax](#适配-pjax)
 7. [优化](#优化)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 魔改滚动条
 
@@ -140,9 +140,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/QQ图片20200725215845.jp
         span.badge-value.bg-brightgreen Github+Gitee-Pages
 
     .github-badge
-      a(style='color:#fff', rel='external nofollow noopener noreferrer', href='https://www.jsdelivr.com/', target='_blank', title='jsDelivr + SM.MS 提供 CDN 加速服务', data-pjax-state='')
+      a(style='color:#fff', rel='external nofollow noopener noreferrer', href='https://www.jsdelivr.com/', target='_blank', title='jsDelivr 提供 CDN 加速服务', data-pjax-state='')
         span.badge-subject CDN
-        span.badge-value.bg-orange JsDelivr+SM.MS
+        span.badge-value.bg-orange JsDelivr
 
     .github-badge
       a(style='color:#fff', rel='external nofollow noopener noreferrer', href='http://creativecommons.org/licenses/by-nc-sa/4.0/', target='_blank', title='本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可', data-pjax-state='')

@@ -66,7 +66,7 @@ top_img:
 
     <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210308184630.png" alt="20210308184630" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 源码链接
 

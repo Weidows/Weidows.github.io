@@ -54,7 +54,7 @@ top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225212.png
   > [糖皮质激素鼻炎副作用?](https://wapask-mip.39.net/bdsshz/question/60154095.html) \
   > [鼻用糖皮质激素](https://m.baidu.com/bh/m/detail/kg_14979163500798759371)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 体检
 

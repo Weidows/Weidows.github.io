@@ -35,7 +35,7 @@ top_img:
   - [灯带检测](#灯带检测)
 - [花样玩法](#花样玩法)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 无屏幕操作指南
 
@@ -80,7 +80,7 @@ top_img:
 
 - 然后就可以用 ssh 连接这个 IP 地址了.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## SSH 连接
 
@@ -92,7 +92,7 @@ top_img:
 
 > 可参照 [✨SSH 远程连接.](../../experience/SSH#自动挡)
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 设置密码
 
@@ -110,7 +110,7 @@ top_img:
   sudo passwd --unlock root
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 树莓派系统设置
 
@@ -119,7 +119,7 @@ top_img:
   sudo raspi-config
   ```
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## VNC 连接
 
@@ -130,7 +130,7 @@ top_img:
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/DINsq97UmFPJbcZ.png" alt="20201204103843" />
 - OK.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Screenfetch
 
@@ -144,7 +144,7 @@ top_img:
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/XVzvAUq7G4tP1DO.png" alt="20201205143342" />
   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/iWXJzj5U9HyoG3R.png" alt="20201203115807" />
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 彩色灯带
 
@@ -296,7 +296,7 @@ sudo python3 audio-reactive-led-strip/python/visualization.py
 
 如果树莓派重启,则说明灯带电源没问题,要是不能亮的话就是信号线有问题或者电压不足
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 花样玩法
 

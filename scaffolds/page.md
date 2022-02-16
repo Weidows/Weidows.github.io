@@ -9,17 +9,21 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-10 20:17:36
+ * @LastEditTime: 2022-02-17 01:48:42
  * @FilePath: \Blog-private\scaffolds\page.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-1. [简介](#简介)
-2. [参照](#参照)
+## {{ title }}
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+{% pullquote mindmap mindmap-md %}
 
-## 简介
+- [{{ title }}](#-title-)
+- [参照](#参照)
+
+{% endpullquote %}
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照

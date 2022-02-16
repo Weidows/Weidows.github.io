@@ -39,7 +39,7 @@ top_img:
 
 - 多看文章就是好,hh,这次又收获了个`美美哒分割线`,如下
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## JQuery
 
@@ -189,7 +189,7 @@ $(".class1").click;
 
 后面有后端对接时再讲.
 
-![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 巩固
 
