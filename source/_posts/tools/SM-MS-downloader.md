@@ -1,5 +1,6 @@
 ---
 title: SM.MS-批量下载器
+password: ""
 tags:
   - 图床
   - 爬虫

@@ -1,13 +1,16 @@
 ---
 title: \咔📸嚓~!
+password: ""
 top_img:
+comments: true
+aside: true
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 03:51:41
+ * @LastEditTime: 2022-02-18 02:09:31
  * @FilePath: \Blog-private\source\gallery\index.md
 -->
 

@@ -1,6 +1,7 @@
 ---
 title: 🚫仅仅是一篇关于yaml文件语法虐待我后的小诟病
 date: 2020-09-03 18:20:56
+password: ""
 tags:
   - yaml
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/rJLfcmTERGvAti4.jpg

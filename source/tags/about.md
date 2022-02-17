@@ -1,13 +1,20 @@
 ---
 title: ⭐ 听说你找我? ⭐
+password: "2333"
+abstract: 加密文章, 请输入密码
+message:  反爬虫骑士 2333 (密码)
+wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
+wrong_hash_message: 啊咧,啊咧咧咧..
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/about_me.jpeg
+comments: true
+aside: false
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-16 17:00:29
+ * @LastEditTime: 2022-02-18 02:10:37
  * @FilePath: \Blog-private\source\tags\about.md
 -->
 

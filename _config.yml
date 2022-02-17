@@ -259,6 +259,17 @@ easy_tags_plugin:
   tag_name_case: 1
   sort_ignore_case: true
 
+
+# Security
+encrypt: # hexo-blog-encrypt
+  abstract: 加密文章, 请输入密码
+  message: 反爬虫骑士 2333 (密码)
+  tags:
+  - {name: encrypted, password: 2333}
+  wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
+  wrong_hash_message: 啊咧,啊咧咧咧..
+
+
   # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/

@@ -1,5 +1,6 @@
 ---
 title: {{ title }}
+password: ""
 tags:
   -
 katex: false

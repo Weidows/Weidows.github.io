@@ -1,6 +1,7 @@
 ---
 title: ✨SSH远程连接.
 date: 2020-12-07 00:12:52
+password: ""
 tags:
   - SSH
   - Linux

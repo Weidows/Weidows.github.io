@@ -1,5 +1,6 @@
 ---
 title: 🤔Matters found in IDEs.
+password: ""
 tags:
   - PyCharm
   - VScode
@@ -17,16 +18,16 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-16 02:35:43
+ * @LastEditTime: 2022-02-18 02:24:15
  * @FilePath: \Blog-private\source\_posts\tools\IDE-matters.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-1. [插件无法卸载](#插件无法卸载)
-2. [VScode-源代码管理不显示](#vscode-源代码管理不显示)
-3. [Jetbrains-系列快捷键配置转移](#jetbrains-系列快捷键配置转移)
-4. [参考](#参考)
+- [插件无法卸载](#插件无法卸载)
+- [VScode-源代码管理不显示](#vscode-源代码管理不显示)
+- [Jetbrains-系列快捷键配置转移](#jetbrains-系列快捷键配置转移)
+- [参考](#参考)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

@@ -1,6 +1,7 @@
 ---
 title: 🎉IDEA魔改记录.
 date: 2021-01-01 11:06:59
+password: ""
 tags:
   - IDEA
   - Maven

@@ -1,6 +1,7 @@
 ---
 title: 一篇扫清:GitHub-Pages自动化部署 + github/gitee选择
 date: 2020-08-23 10:54:41
+password: ""
 tags:
   - 备忘录
   - Hexo

@@ -1,5 +1,6 @@
 ---
 title: 低成本-无线-VR解决方案
+password: ""
 tags:
   - VR
   - 推荐

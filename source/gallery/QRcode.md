@@ -1,14 +1,17 @@
 ---
 title: ⭐️ 二维码 && 头像 ⭐️
+password: ""
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg
+comments: true
+aside: false
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 03:31:16
- * @FilePath: \Blog-private\source\gallery\Private\QRcode.md
+ * @LastEditTime: 2022-02-18 02:10:20
+ * @FilePath: \Blog-private\source\gallery\QRcode.md
 -->
 
 ## 二维码

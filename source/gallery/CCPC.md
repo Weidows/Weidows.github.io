@@ -1,13 +1,16 @@
 ---
 title: ⭐ 程序设计大赛 ⭐
+password: ""
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/CCPC.png
+comments: true
+aside: false
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 04:14:12
+ * @LastEditTime: 2022-02-18 02:09:19
  * @FilePath: \Blog-private\source\gallery\CCPC.md
 -->
 

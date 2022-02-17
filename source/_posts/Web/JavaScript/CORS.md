@@ -1,5 +1,6 @@
 ---
 title: 😡一次解决CORS经验记录.
+password: ""
 tags:
   - JavaScript
   - CORS

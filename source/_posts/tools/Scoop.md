@@ -1,6 +1,7 @@
 ---
 title: 🙌Windows平台软件包管理器选择-Scoop
 date: 2021-01-14 23:09:52
+password: ""
 tags:
   - Windows
   - Scoop

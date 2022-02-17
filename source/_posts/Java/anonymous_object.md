@@ -1,6 +1,7 @@
 ---
 title: 匿名对象 && 使用
 date: 2020-09-10 17:34:47
+password: ""
 tags:
   - Java
   - 对象

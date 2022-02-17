@@ -1,13 +1,16 @@
 ---
 title: ⭐ 陈茶酱醋 ⭐
+password: ""
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/77.jpeg
+comments: true
+aside: false
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 11:15:06
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 04:10:53
+ * @LastEditTime: 2022-02-18 03:08:52
  * @FilePath: \Blog-private\source\artitalk\older_artitalk.md
 -->
 

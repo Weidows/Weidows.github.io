@@ -1,5 +1,6 @@
 ---
 title: 🧀Better-English-4-U
+password: ""
 tags:
   - English
   - 推荐
@@ -16,20 +17,22 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-16 01:40:11
+ * @LastEditTime: 2022-02-17 02:43:44
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-1. [简介](#简介)
-2. [单词](#单词)
-3. [短语](#短语)
-4. [领域](#领域)
+# 🧀Better-English-4-U
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+{% pullquote mindmap mindmap-md %}
 
-## 简介
+- [🧀Better-English-4-U](#better-english-4-u)
+  - [单词](#单词)
+  - [短语](#短语)
+  - [领域](#领域)
+
+{% endpullquote %}
 
 - 开发时总有几个英文单词/短语,`今天背过,明天就忘.`
 

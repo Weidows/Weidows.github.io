@@ -1,14 +1,20 @@
 ---
 title: 🔴Resume🟢
-aside: false
+password: "2333"
+abstract: 加密文章, 请输入密码
+message:  反爬虫骑士 2333 (密码)
+wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
+wrong_hash_message: 啊咧,啊咧咧咧..
 top_img:
+comments: true
+aside: false
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 01:59:22
+ * @LastEditTime: 2022-02-18 02:38:04
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 

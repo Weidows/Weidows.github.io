@@ -1,5 +1,6 @@
 ---
 title: 🍹LaTeX~环形使者(?)
+password: ""
 tags:
   - LaTeX
 katex: true

@@ -1,5 +1,6 @@
 ---
 title: 🍔Lambda表达式
+password: ""
 tags:
   - Java
   - Lambda

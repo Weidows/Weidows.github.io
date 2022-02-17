@@ -1,14 +1,17 @@
 ---
 title: 深度病患解析
+password: ""
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225212.png
+comments: true
+aside: false
 ---
 
 <!--
  * @Author: Weidows
  * @Date: 2020-12-01 10:49:30
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 03:40:06
- * @FilePath: \Blog-private\source\gallery\Private\Why-illness.md
+ * @LastEditTime: 2022-02-18 02:10:26
+ * @FilePath: \Blog-private\source\gallery\Why-illness.md
  * @Description:
 -->
 

@@ -1,6 +1,7 @@
 ---
 title: Hexo-pages里一些奇奇怪怪的写法
 date: 2020-08-27 01:13:03
+password: ""
 tags:
   - Hexo
   - 备忘录
@@ -56,6 +57,7 @@ categories: # 分类(只能单线)
   - category_1
   - category_1_1
   - category_1_1_1
+password: ""
 tags:  # 标签(可以多标)
   - tag_1
   - tag_2

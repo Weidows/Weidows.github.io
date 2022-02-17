@@ -1,5 +1,6 @@
 ---
 title: 🥵OpenGL-xmake-蚌埠住了
+password: ""
 tags:
   - Python
   - OpenGL
