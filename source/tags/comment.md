@@ -11,7 +11,7 @@ aside: true
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 03:21:19
+ * @LastEditTime: 2022-02-18 19:21:07
  * @FilePath: \Blog-private\source\tags\comment.md
 -->
 
@@ -22,7 +22,5 @@ aside: true
 <a href="./link">出门右转`友人帐`签个到</a>
 
 路过的友人,聊两句?😘
-
----
 
 </h1>

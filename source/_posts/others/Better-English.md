@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 02:43:44
+ * @LastEditTime: 2022-02-18 20:22:14
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -70,7 +70,7 @@ top_img:
   |      router       | n. [计] 路由器；刳刨者                                                                                                                                                          |
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
   |      dynamic      | 动态的                                                                                                                                                                          |
-  |        API        | [application programming interface 应用程序接口](https://cdn.jsdelivr.net/gh/Weidows/Images/post/Mw1Ir2WhQT6CYso.png" alt="20211215182715" />                                   |
+  |        API        | ![application programming interface 应用程序接口](https://cdn.jsdelivr.net/gh/Weidows/Images/post/Mw1Ir2WhQT6CYso.png)                                                           |
   |     scaffolds     | 脚手架                                                                                                                                                                          |
 
 ---

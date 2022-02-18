@@ -2,7 +2,7 @@
 title: 🔴Resume🟢
 password: "2333"
 abstract: 加密文章, 请输入密码
-message:  反爬虫骑士 2333 (密码)
+message: 反爬虫骑士 2333 (密码)
 wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
 wrong_hash_message: 啊咧,啊咧咧咧..
 top_img:
@@ -14,7 +14,7 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 02:38:04
+ * @LastEditTime: 2022-02-18 21:33:52
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
@@ -73,20 +73,16 @@ aside: false
 
 ## 开发图表
 
-<center>
+<figure align="center">
+  <!-- <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/52e64048-9e55-4aae-8330-448dd1cd1ec0.svg"></embed> -->
+  <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/eaaa34e5-e813-4c06-8793-5af9e53895f7.svg"></embed>
+</figure>
 
-  <figure>
-    <!-- <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/52e64048-9e55-4aae-8330-448dd1cd1ec0.svg"></embed> -->
-    <embed src="https://wakatime.com/share/@bd43b19c-e71d-4edd-a297-cc2989d16939/eaaa34e5-e813-4c06-8793-5af9e53895f7.svg"></embed>
-  </figure>
-
-  <img
+<img
     loading="lazy"
     id="wakatime"
     class="pic loaded"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Weidows&amp;bg_color=222222&amp;text_color=DDD&amp;hide_border=true"
-    style="margin-left: 5%; margin-top: 2%"
+    style="align: center"
     onclick="window.open('https://wakatime.com/@Weidows','_blank')"
   />
-
-</center>
