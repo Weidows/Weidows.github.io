@@ -11,24 +11,22 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/bYSXP1NeutIjkRx.jpg
 top_img:
 ---
 
+# 国人-不懂-国语.?
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 02:42:27
+ * @LastEditTime: 2022-02-23 03:24:03
  * @FilePath: \Blog-private\source\_posts\others\Better-Chinese.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 🤷‍♂️ 国人-不懂-国语.?
-
-{% pullquote mindmap mindmap-md %}
-
-- [🤷‍♂️ 国人-不懂-国语.?](#️-国人-不懂-国语)
+```pullquote mindmap mindmap-md
+- [国人-不懂-国语.?](#国人-不懂-国语)
   - [正文](#正文)
-
-{% endpullquote %}
+```
 
 > 兄弟文章: [🧀Better-English-4-U](../Better-English)
 

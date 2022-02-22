@@ -14,21 +14,20 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/u7wXjUH6bPNnMaL.png
 top_img:
 ---
 
+# OpenGL-xmake-蚌埠住了
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 02:22:41
+ * @LastEditTime: 2022-02-23 03:21:58
  * @FilePath: \Blog-private\source\_posts\experience\basic\OpenGL.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 🥵OpenGL-xmake-蚌埠住了
-
-{% pullquote mindmap mindmap-md %}
-
-- [🥵OpenGL-xmake-蚌埠住了](#opengl-xmake-蚌埠住了)
+```pullquote mindmap mindmap-md
+- [OpenGL-xmake-蚌埠住了](#opengl-xmake-蚌埠住了)
   - [代码仓库](#代码仓库)
   - [Python](#python)
     - [报错](#报错)
@@ -37,8 +36,7 @@ top_img:
     - [xmake-引入库](#xmake-引入库)
     - [测试](#测试-1)
     - [实例代码库](#实例代码库)
-
-{% endpullquote %}
+```
 
 - 学校开了图形学这门课程,让我们配置下环境
 

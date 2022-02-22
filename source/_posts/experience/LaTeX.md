@@ -9,21 +9,20 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/pS96DOBEjeAaP1d.png
 top_img:
 ---
 
+# LaTeX~环形使者(?)
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 01:57:23
+ * @LastEditTime: 2022-02-23 03:22:24
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 🍹LaTeX~环形使者(?)
-
-{% pullquote mindmap mindmap-md %}
-
-- [🍹LaTeX~环形使者(?)](#latex环形使者)
+```pullquote mindmap mindmap-md
+- [LaTeX~环形使者(?)](#latex环形使者)
   - [链接搜集](#链接搜集)
   - [安装](#安装)
   - [报错](#报错)
@@ -33,8 +32,7 @@ top_img:
   - [Butterfly+KaTeX](#butterflykatex)
   - [怎么写?](#怎么写)
     - [公式](#公式)
-
-{% endpullquote %}
+```
 
 - 好奇学术论文是怎么写的吗? 此文章尽做大努力把什么是 Tex 系统给你整闭环了 😁
 

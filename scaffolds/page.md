@@ -12,24 +12,22 @@ aside: true
 ---
 
 
+# {{ title }}
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 02:54:18
+ * @LastEditTime: 2022-02-23 02:28:33
  * @FilePath: \Blog-private\scaffolds\page.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-## {{ title }}
-
-{% pullquote mindmap mindmap-md %}
-
+```pullquote mindmap mindmap-md
 - [{{ title }}](#-title-)
-- [参照](#参照)
-
-{% endpullquote %}
+  - [参照](#参照)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

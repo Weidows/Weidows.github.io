@@ -10,26 +10,24 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/p8sZuCArYPLI93d.jpg
 top_img:
 ---
 
+# pwsh 极致专攻
+
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 01:55:36
+ * @LastEditTime: 2022-02-23 03:22:48
  * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
-# 🉑 pwsh 极致专攻
-
-{% pullquote mindmap mindmap-md %}
-
-- [🉑 pwsh 极致专攻](#-pwsh-极致专攻)
+```pullquote mindmap mindmap-md
+- [pwsh 极致专攻](#pwsh-极致专攻)
   - [预览](#预览)
   - [环境配置](#环境配置)
   - [安装插件](#安装插件)
   - [启用主题及插件](#启用主题及插件)
   - [oh-my-posh](#oh-my-posh)
   - [启用管理员模式](#启用管理员模式)
-
-{% endpullquote %}
+```
 
 ## 预览
 

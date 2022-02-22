@@ -11,19 +11,18 @@ tags:
 cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 ---
 
+# 一些常用终端命令.
+
 <!--
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 01:56:44
+ * @LastEditTime: 2022-02-23 03:23:09
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
-# 💧 一些常用终端命令.
-
-{% pullquote mindmap mindmap-md %}
-
-- [💧 一些常用终端命令.](#-一些常用终端命令)
+```pullquote mindmap mindmap-md
+- [一些常用终端命令.](#一些常用终端命令)
   - [通用](#通用)
     - [文件末尾追加命令](#文件末尾追加命令)
     - [输出重定向](#输出重定向)
@@ -40,8 +39,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
   - [扩展程序](#扩展程序)
     - [fzf](#fzf)
     - [tldr](#tldr)
-
-{% endpullquote %}
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

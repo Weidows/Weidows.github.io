@@ -10,22 +10,21 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/LAbU4pzmYKTEnOo.png
 top_img:
 ---
 
+# Weidows の成长路线.
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 02:41:33
+ * @LastEditTime: 2022-02-23 03:30:38
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 😍Weidows の成长路线.
-
-{% pullquote mindmap mindmap-md %}
-
-- [😍Weidows の成长路线.](#weidows-の成长路线)
+```pullquote mindmap mindmap-md
+- [Weidows の成长路线.](#weidows-の成长路线)
   - [Java](#java)
     - [阶段](#阶段)
       - [入门](#入门)
@@ -113,8 +112,7 @@ top_img:
       - [其他零散的](#其他零散的)
     - [论文](#论文)
   - [面试](#面试)
-
-{% endpullquote %}
+```
 
 此篇就 `难以及时跟进` 与 `导向不明确` 的问题, 考虑当下 [deprecated]; 不久会重构推新!!
 

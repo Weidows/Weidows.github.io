@@ -13,26 +13,24 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/kpxVB81cI4T2Xbg.jpg
 top_img:
 ---
 
+# Better-English-4-U
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 20:22:14
+ * @LastEditTime: 2022-02-23 03:18:36
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 🧀Better-English-4-U
-
-{% pullquote mindmap mindmap-md %}
-
-- [🧀Better-English-4-U](#better-english-4-u)
+```pullquote mindmap mindmap-md
+- [Better-English-4-U](#better-english-4-u)
   - [单词](#单词)
   - [短语](#短语)
   - [领域](#领域)
-
-{% endpullquote %}
+```
 
 - 开发时总有几个英文单词/短语,`今天背过,明天就忘.`
 
@@ -70,7 +68,7 @@ top_img:
   |      router       | n. [计] 路由器；刳刨者                                                                                                                                                          |
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
   |      dynamic      | 动态的                                                                                                                                                                          |
-  |        API        | ![application programming interface 应用程序接口](https://cdn.jsdelivr.net/gh/Weidows/Images/post/Mw1Ir2WhQT6CYso.png)                                                           |
+  |        API        | ![application programming interface 应用程序接口](https://cdn.jsdelivr.net/gh/Weidows/Images/post/Mw1Ir2WhQT6CYso.png)                                                          |
   |     scaffolds     | 脚手架                                                                                                                                                                          |
 
 ---
@@ -106,7 +104,6 @@ top_img:
   |     forward-slash      | /     |
   |     question-mark      | ?     |
   |    exclamation-mark    | !     |
-  |      dollar-sign       | $     |
   |     and/ampersand      | &     |
 
 ---

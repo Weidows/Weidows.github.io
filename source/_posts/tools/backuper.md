@@ -12,8 +12,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-23 11:09:33
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\backuper.md
+ * @LastEditTime: 2022-02-23 02:20:22
+ * @FilePath: \Blog-private\source\_posts\tools\backuper.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -48,7 +48,7 @@ top_img:
 
   > 系统崩了,重装个系统吧... --> 重新配置环境 --> `RNM退钱!!!`
 
-  > 装完东西后经常忘记装了什么,比如 [我的环境清单](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop-apps.bak), 让我回顾装过什么东西简直是不可能 de
+  > 装完东西后经常忘记装了什么,比如 [我的环境清单](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak), 让我回顾装过什么东西简直是不可能 de
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -163,4 +163,4 @@ top_img:
 
 - 至此备份脚本就可以了,可以 [看看备份结果](https://github.com/Weidows-projects/Programming-Configuration)
 
-- 如何运行脚本? 可以手动或者添加进开机运行程序 [我的运行程序](https://github.com/Weidows-projects/Programming-Configuration/blob/master/local/start.vbs)
+- 如何运行脚本? 可以手动或者添加进开机运行程序 [我的运行程序](https://github.com/Weidows-projects/Keeper/blob/main/utils.bat)

@@ -12,19 +12,24 @@ cover:
 top_img:
 ---
 
+# 企业管理
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-10 21:03:41
- * @FilePath: \Blog-private\source\_posts\system\corporation.md
+ * @LastEditTime: 2022-02-23 03:17:24
+ * @FilePath: \Blog-private\source\_drafts\corporation.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-1. [简介](#简介)
-2. [开源软件-付费服务的选择](#开源软件-付费服务的选择)
-3. [参照](#参照)
+```pullquote mindmap mindmap-md
+- [企业管理](#企业管理)
+  - [简介](#简介)
+  - [开源软件-付费服务的选择](#开源软件-付费服务的选择)
+  - [参照](#参照)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

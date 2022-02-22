@@ -12,24 +12,24 @@ date: {{ date }}
 ---
 
 
+# {{ title }}
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-17 01:48:17
+ * @LastEditTime: 2022-02-23 02:28:46
  * @FilePath: \Blog-private\scaffolds\post.md
  * @Description:
  * @!: *********************************************************************
 -->
-## {{ title }}
 
-{% pullquote mindmap mindmap-md %}
-
+```pullquote mindmap mindmap-md
 - [{{ title }}](#-title-)
-- [参照](#参照)
-
-{% endpullquote %}
+  - [参照](#参照)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照
+暂无.
