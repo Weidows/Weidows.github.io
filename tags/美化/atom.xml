@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;美化&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2020-10-17T15:16:13.000Z</updated>
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="vscode" />
+    <category term="maven" />
+    <category term="对象" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="面试" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="deprecated" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="manjaro" />
+    <category term="计算机系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="git" />
+    <category term="python" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="工具" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="大前端" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="opengl" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="理论知识" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="shell" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="anaconda" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/tools/vscode/custom_css/</id>
+        <title>VScode 撞上赛博朋克风! 赛高!</title>
+        <link rel="alternate" href="https://weidows.github.io/post/tools/vscode/custom_css/"/>
+        <content type="html">&lt;!--
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-21 17:03:29
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\custom_css.md
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%80%E4%BB%8B&#34;&gt;简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9C%80%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF&#34;&gt;需要的东西&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#css-%E5%BC%95%E5%85%A5&#34;&gt;CSS 引入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%BA%90%E7%A0%81%E9%93%BE%E6%8E%A5&#34;&gt;源码链接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;简介 -14&#34;&gt;简介&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;大半夜水群, 发现群友扯皮发了一张美照(就是代码)&lt;/li&gt;
+&lt;li&gt;惊艳老夫一整天! 赶紧想办法把他整出来!&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/jkVQ7r2LuKMx8EB.jpg&#34; alt=&#34;23XdzqSlUGZPcym&#34;&gt;&lt;/li&gt;
+&lt;li&gt;这种荧光效果是 CSS 渲染成的,VScode 插件商店有现成的主题可供使用
+&lt;ul&gt;
+&lt;li&gt;想广泛了解可以搜索关键词&lt;code&gt;SynthWave&lt;/code&gt;, 会有不少主题可供使用, 但是需要注意如果你想应用这种荧光主题必须舍弃现在你所喜欢的某个主题了…&lt;/li&gt;
+&lt;li&gt;于是, 对我们魔改狂来说, 这只是开始!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;需要的东西&#34;&gt;需要的东西&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Custom CSS and JS Loader&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这是 VScode 商店里的一个插件, 用来引入用户想引入的 CSS/JS 文件&lt;/li&gt;
+&lt;li&gt;这篇文章只需要下载这一个插件, 其他的用不着~~~&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们想引入的 CSS 渲染文件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这个由于不同人, 不同审美, 在此只放下我个人的 CSS 源码&lt;/li&gt;
+&lt;li&gt;如果你想找其他版本可以搜 &lt;code&gt;SynthWave&lt;/code&gt; 来寻找符合心意的主题, 并定位其中的 CSS, 拿过来供自己使用(不违法:)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;CSS- 引入&#34;&gt;CSS 引入&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 VScode 设置文件里加入下面的代码&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;vscode_custom_css.imports&amp;quot;&lt;/span&gt;: [&lt;span class=&#34;string&#34;&gt;&amp;quot;[file:///D:/Game/Demo/Weidows/.vscode/lights-on.css](https://cdn.jsdelivr.net/gh/Weidows/Weidows/.vscode/lights-on.css)&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注意 &lt;code&gt; 路径 &lt;/code&gt; 和&lt;code&gt;文件名 &lt;/code&gt; 对应好,&lt;code&gt;必须修改&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上面步骤完成并引入下面 CSS 后, 就会产生如下效果:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;初版&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/Mue7ZD5zR1vCkLf.jpg&#34; alt=&#34;20201124011913&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;二版&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210308184630.png&#34; alt=&#34;20210308184630&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;源码链接&#34;&gt;源码链接&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/weidows-beautify-pack/blob/main/css/lights-on.css&#34;&gt;源码链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="vscode" />
+        <category term="css" />
+        <category term="美化" />
+        <updated>2020-10-17T15:16:13.000Z</updated>
+    </entry>
+</feed>

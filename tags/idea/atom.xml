@@ -1,0 +1,1341 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;idea&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-07-29T06:11:07.000Z</updated>
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="vscode" />
+    <category term="maven" />
+    <category term="对象" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="面试" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="deprecated" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="manjaro" />
+    <category term="计算机系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="git" />
+    <category term="python" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="工具" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="大前端" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="opengl" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="理论知识" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="shell" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="anaconda" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/tools/IDE-matters/</id>
+        <title>🤔Matters found in IDEs.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/tools/IDE-matters/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-02-18 02:24:15
+ * @FilePath: \Blog-private\source\_posts\tools\IDE-matters.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%8D%B8%E8%BD%BD&#34;&gt; 插件无法卸载 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode-%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E4%B8%8D%E6%98%BE%E7%A4%BA&#34;&gt;VScode- 源代码管理不显示 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#jetbrains-%E7%B3%BB%E5%88%97%E5%BF%AB%E6%8D%B7%E9%94%AE%E9%85%8D%E7%BD%AE%E8%BD%AC%E7%A7%BB&#34;&gt;Jetbrains- 系列快捷键配置转移 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%82%E8%80%83&#34;&gt; 参考 &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;插件无法卸载&#34;&gt; 插件无法卸载 &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt; 问题说明:&lt;/p&gt;
+&lt;p&gt; 我用的设置同步, 所以 IDEA 上的插件也被同步到 PyCharm 上了 &lt;/p&gt;
+&lt;p&gt; 但是有个 MyBatis 插件 PyCharm 不支持, 安装后重启直接报错, 而且插件面板也找不到它, 没法卸载 (于是每次启动 Pycharm 都会报错, 如下:)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;14:07 插件错误: 插件 ‘Free MyBatis plugin’ 之所以与 IntelliJ IDEA 兼容，只是因为它没有定义任何显式模块依赖项 &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt; 解决办法:&lt;/p&gt;
+&lt;p&gt; 进入: (用户名和版本号需要注意一下)&lt;/p&gt;
+&lt;figure class=&#34;highlight taggerscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;C:&lt;span class=&#34;symbol&#34;&gt;\U&lt;/span&gt;sers&lt;span class=&#34;symbol&#34;&gt;\2&lt;/span&gt;9845&lt;span class=&#34;symbol&#34;&gt;\A&lt;/span&gt;ppData&lt;span class=&#34;symbol&#34;&gt;\R&lt;/span&gt;oaming&lt;span class=&#34;symbol&#34;&gt;\J&lt;/span&gt;etBrains&lt;span class=&#34;symbol&#34;&gt;\P&lt;/span&gt;yCharm2021.1&lt;span class=&#34;symbol&#34;&gt;\p&lt;/span&gt;lugins&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt; 应该很容易就能找到那个残留的导致报错的家伙了, 直接 &lt;code&gt;delete&lt;/code&gt; !&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt; 再重开就没报错了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;VScode- 源代码管理不显示&#34;&gt;VScode- 源代码管理不显示 &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt; 问题就是这里的 &amp;quot; 源代码管理 &amp;quot; 无法显示出来 &lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/L8rqen43hGBOoyF.png&#34; alt=&#34;20220125012150&#34; /&gt;
+&lt;p&gt; 经各路探索 (改配置 / 清空数据重装…etc), 发现此问题只局限在我的某个项目, 而且即使 fully restore 问题尚在 &lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt; 所以我认为这个问题存在于 vscode 可以同步的数据中 &lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/WzhfPclbnYUg4R9.png&#34; alt=&#34;20220125012636&#34; /&gt;
+&lt;p&gt; 那么, 凶手比较明显了: &lt;code&gt;UI 状态 &lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt; 查找了一番, 其定位在 &lt;code&gt;C:\Users\utsuk\AppData\Roaming\Code\User\globalStorage\state.vscdb&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; 打开这个文件, 查找关键词 &lt;code&gt;null&lt;/code&gt; 替换为 &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;OK 了, 虽然项目的 UI 配置似乎会被重置, 但是确实修好了!&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Jetbrains- 系列快捷键配置转移&#34;&gt;Jetbrains- 系列快捷键配置转移 &lt;/h2&gt;
+&lt;p&gt; 在另一篇文章记载:&lt;sup id=&#39;cite_ref-01&#39;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参考 -2&#34;&gt; 参考 &lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-01&#39; href=&#39;#cite_ref-01&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;../others/golang/blockchain#Goland-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5&#34;&gt;🐭 从零开始 Golang &amp;amp; blockchain&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="vscode" />
+        <category term="idea" />
+        <category term="pycharm" />
+        <category term="goland" />
+        <updated>2021-07-29T06:11:07.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/tools/Tomcat/</id>
+        <title>🐱‍🏍Maven+Tomcat 开发 webapp.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/tools/Tomcat/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-30 12:50:22
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Tomcat.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE&#34;&gt;配置&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode&#34;&gt;VScode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE&#34;&gt;创建项目&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#idea&#34;&gt;IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%BB%A3%E7%90%86&#34;&gt;虚拟主机 / 代理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98&#34;&gt;乱码问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%88%E7%AB%AF%E4%B9%B1%E7%A0%81&#34;&gt;终端乱码&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81&#34;&gt;网页中文乱码&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置 -3&#34;&gt;配置&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../system/system_variable#maven&#34;&gt;💥 系统开发环境配置&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Maven 的核心思想：约定大于配置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;VScode-3&#34;&gt;VScode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装 &lt;code&gt;Tomcat for Java&lt;/code&gt; 插件, 配置好 Tomcat 本体路径和 &lt;code&gt;data&lt;/code&gt; 路径&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在侧边栏右键, 常用命令都有&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309155951.png&#34; alt=&#34;20210309155951&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新建 &lt;code&gt;index.html&lt;/code&gt; 文件, 放到 &lt;code&gt;tomcat/webapps/ROOT/&lt;/code&gt;目录下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;lt;!DOCTYPE &lt;span class=&#34;meta-keyword&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;lang&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;en&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;charset&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UTF-8&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;http-equiv&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;X-UA-Compatible&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;IE=edge&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;viewport&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;width=device-width, initial-scale=1.0&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;Document&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    测试&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;打开对应页面会有如下显示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309160418.png&#34; alt=&#34;20210309160418&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;ROOT/&lt;/code&gt;里面放的文件与浏览器 URL 相对应&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如 &lt;code&gt;ROOT/000/2333.html&lt;/code&gt; 浏览器就需要访问 &lt;code&gt;localhost:8080/000/2333.html&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后缀名是 &lt;code&gt;.html&lt;/code&gt; 的话 URL 后缀可以不写, 比如上面写成 &lt;code&gt;localhost:8080/000/2333&lt;/code&gt; 也可以.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;创建项目&#34;&gt;创建项目&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;解释一下为什么要用 Maven, 还需要创建项目: &lt;code&gt;Tomcat 只能运行 Maven 创建的类型为 webapp 的这种项目&lt;/code&gt;,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;推荐直接用 IDEA 创建 web 项目 (不用再导入 Servlet 包)&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210323233425.png&#34; alt=&#34;20210323233425&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后创建 &lt;code&gt;webapp&lt;/code&gt; 子模块, 在 &lt;code&gt;source/main/&lt;/code&gt; 下再新建两个目录(java 和 resources), 结构如下&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210323112637.png&#34; alt=&#34;20210323112637&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;JavaWeb\src\main\webapp\WEB-INF\web.xml&lt;/code&gt; 是 web 项目核心应用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows/Java/tree/master/JavaWeb/demo-0&#34;&gt;点这里参考项目结构&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;IDEA-2&#34;&gt;IDEA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 配置连接 Tomcat 需要在创建完 webapp 项目之后, 否则连不上&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;点’+&#39; 找到 Tomcat Server 并配置, 如图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210325110519.png&#34; alt=&#34;20210325110519&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在 IDEA 已经认识 Tomcat 了, 但还需要配置部署, 否则 Tomcat 不知道运行哪里&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这些工件就是这个项目用 Maven 构建之后产生的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210325110722.png&#34; alt=&#34;20210325110722&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在配置好了之后,IDEA 会自动完成项目 &lt;code&gt; 构建 -&amp;gt; 部署 -&amp;gt; 打开网页&lt;/code&gt; (VScode 的话也可以手动做到)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;虚拟主机 - 代理&#34;&gt;虚拟主机 / 代理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过修改 &lt;code&gt;Tomcat/conf/server.xml&lt;/code&gt;和 hosts 文件实现虚拟主机.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改 &lt;code&gt;name=&amp;quot;localhost&amp;quot;&lt;/code&gt; 为目标主机名, 比如改为&lt;code&gt;name=&amp;quot;weidows.com&amp;quot;&lt;/code&gt;, 下面注释处给标出了修改位置&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;yes&amp;quot;?&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Server&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;port&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;8005&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;shutdown&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;SHUTDOWN&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.startup.VersionLoggerListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.core.AprLifecycleListener&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;SSLEngine&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;on&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.core.JreMemoryLeakPreventionListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.mbeans.GlobalResourcesLifecycleListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.core.ThreadLocalLeakPreventionListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;GlobalNamingResources&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Resource&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UserDatabase&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;auth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Container&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.UserDatabase&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;description&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;User database that can be updated and saved&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;factory&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.users.MemoryUserDatabaseFactory&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;pathname&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;conf/tomcat-users.xml&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;GlobalNamingResources&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Service&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Catalina&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Connector&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;port&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;8080&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;protocol&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;HTTP/1.1&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;connectionTimeout&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;20000&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;redirectPort&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;8443&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Engine&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Catalina&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;defaultHost&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;localhost&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Realm&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.realm.LockOutRealm&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Realm&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.realm.UserDatabaseRealm&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;resourceName&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UserDatabase&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Realm&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 修改这下面一行 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Host&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;localhost&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;appBase&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;webapps&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;unpackWARs&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;autoDeploy&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;true&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Valve&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.valves.AccessLogValve&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;directory&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;logs&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;prefix&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;localhost_access_log&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;suffix&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;.txt&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;pattern&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;%h %l %u %t &lt;span class=&#34;symbol&#34;&gt;&amp;amp;quot;&lt;/span&gt;%r&lt;span class=&#34;symbol&#34;&gt;&amp;amp;quot;&lt;/span&gt; %s %b&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Host&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Engine&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Service&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Server&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;然后修改 host, 实现代理, 如下图第二行即为需要添加的&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309161039.png&#34; alt=&#34;20210309161039&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;含义就是: &lt;code&gt;在访问右边的主机时, 将它指向左边的地址&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比如浏览器访问 &lt;code&gt;localhost:8080&lt;/code&gt; 时, 实际上是访问的 &lt;code&gt;127.0.0.1:8080&lt;/code&gt;, 也就是本机地址&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;现在, 打开 Tomcat 服务, 他就会在本机 8080 端口监听, 当在浏览器输入 &lt;code&gt;weidows.com:8080&lt;/code&gt; 时, 会被 host 指向到&lt;code&gt;127.0.0.1:8080&lt;/code&gt;,Tomcat 服务器收到请求并回应&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;结构如下图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309163300.png&#34; alt=&#34;20210309163300&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;可能会存在的疑问: 同样是指向到 &lt;code&gt;127.0.0.1&lt;/code&gt;, 为什么 localhost:8080 或者直接 127.0.0.1:8080 无法访问到 &lt;a href=&#34;http://weidows.com:8080&#34;&gt;weidows.com:8080&lt;/a&gt; 页面?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这就像递归式问路, 首先问 host 知不知道 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt;,host 不直接知道, 它让我们问 Tomcat, 于是我们去 127.0.0.1:8080 问 Tomcat 知不知道 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;诶,Tomcat 它可以直接知道 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt; 在哪里, 于是浏览器就这么找到 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt; 页面了!&lt;/li&gt;
+&lt;li&gt;页面在 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt; 手里, 你要是去找 localhost:8080 或者 127.0.0.1 的话, 就是问错人了, 肯定是 404&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后附一张图, 根据序号来看, 条理比较清晰.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210322100531.png&#34; alt=&#34;20210322100531&#34; /&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;乱码问题&#34;&gt;乱码问题&lt;/h2&gt;
+&lt;h3 id=&#34;终端乱码&#34;&gt;终端乱码&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在启动 Tomcat 时, 终端内中文乱码:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;虽然这个对程序运行没有影响, 但是有些影响观瞻, 一般只会在 Window 遇到, 修改如下:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;找到 &lt;code&gt;Tomcat/conf/logging.properties&lt;/code&gt; 里面的 -&amp;gt; &lt;code&gt;java.util.logging.ConsoleHandler.encoding&lt;/code&gt;这一行 , 把 &lt;code&gt;UTF-8&lt;/code&gt;换为&lt;code&gt;GBK&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另一种方法: 把终端显示设置为 UTF-8&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210330125008.png&#34; alt=&#34;20210330125008&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;网页中文乱码&#34;&gt;网页中文乱码&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我们开发的页面, 无论是动 / 静态, 只要不指定编码格式, 中文肯定乱码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;需要做的就是在开发网页时, 指定 &lt;code&gt;CharacterEncoding = UTF-8&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="java" />
+        <category term="vscode" />
+        <category term="maven" />
+        <category term="website" />
+        <category term="笔记" />
+        <category term="idea" />
+        <category term="服务器" />
+        <category term="tomcat" />
+        <updated>2021-03-25T02:39:26.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/others/IDEs/</id>
+        <title>😁IDE 选用指北.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/others/IDEs/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-25 11:00:54
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\IDEs.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E8%A8%80&#34;&gt;前言&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E7%AB%AF&#34;&gt;前端&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E9%A1%B5%E6%9C%8D%E5%8A%A1%E5%99%A8&#34;&gt;网页服务器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode&#34;&gt;VScode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#idea&#34;&gt;IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#markdown&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tomcat&#34;&gt;Tomcat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;前言 -2&#34;&gt;前言&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开互联网前端课程了, 对于工具的选用确实有些杂乱, 五花八门&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下面简单展示两款 IDE 吧–&amp;gt; &lt;code&gt;VScode&lt;/code&gt; 与 &lt;code&gt;IDEA&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;VScode 全称 &lt;code&gt;Visual Studio Code&lt;/code&gt;, 是开源免费的, 有编程界最丰富的插件市场&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 全称 &lt;code&gt;IntelliJ IDEA&lt;/code&gt;, 有开源免费版, 也有收费版(对大型项目有更好的支持), 目前口评最好的 Java 开发工具.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;工具跟随需求, 首先我们先探讨下具体需要它做什么?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;方便编写前端 (HTML,CSS,JavaScript,stylus,less), 框架(React,Vue,Angular) 等等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;能架设起网页服务器(localhost:xxxx 可以访问)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最好具备一定的插件扩展性.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持读写 &lt;code&gt;.md&lt;/code&gt; 格式的 markdown 文件.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;前端&#34;&gt;前端&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;首先, 编写方面没啥可说的,VScode 在前端 / 框架方面支持都是数一数二的,IDEA 的话, 拿来写前端其实也相当出色.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;网页服务器&#34;&gt;网页服务器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;教学老师用的是 MyEclipse+tomcat 架设的网页服务器, 搭建时需要搞 MyEclipse,&lt;s&gt;破解&lt;/s&gt;, 配置 Tomcat(而且 Tomcat 需要 JDK)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;别提多头疼了!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我写这个文章就是为了解决这个问题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;VScode 很多优秀扩展开箱即用网页服务器!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 原生支持网页服务器!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下面介绍怎么用:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可供参考的测试 html 文件:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;lt;!DOCTYPE &lt;span class=&#34;meta-keyword&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;lang&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;en&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;charset&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UTF-8&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;Title&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;script&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;script&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;css&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;      &lt;span class=&#34;selector-id&#34;&gt;#divMove&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;width&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;500px&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;height&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;500px&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;border&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;1px&lt;/span&gt; solid &lt;span class=&#34;number&#34;&gt;#ff0000&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;font-size&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;30px&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;text-align&lt;/span&gt;: center;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;      &amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 要求：获取鼠标当前的一个坐标 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    Mouse &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;mouseMove&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;divMove&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;在这里移动鼠标试试&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;script&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;javascript&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;/**&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;       * ! 当网页元素加载完毕之后，响应事件&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;       * 原型: $(document).ready(function()&amp;#123;&amp;#125;);&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;       * 简化后的: $(function ()&amp;#123;&amp;#125;);&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;       */&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;      $(&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;        $(&lt;span class=&#34;string&#34;&gt;&amp;quot;#divMove&amp;quot;&lt;/span&gt;).mousemove(&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;e&lt;/span&gt;) &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;          $(&lt;span class=&#34;string&#34;&gt;&amp;quot;#mouseMove&amp;quot;&lt;/span&gt;).text(&lt;span class=&#34;string&#34;&gt;&amp;quot;X: &amp;quot;&lt;/span&gt; + e.pageX + &lt;span class=&#34;string&#34;&gt;&amp;quot;Y: &amp;quot;&lt;/span&gt; + e.pageY);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;        &amp;#125;);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;      &amp;#125;);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;script&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;VScode&#34;&gt;VScode&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装, 汉化, 之后搜下面的插件, 两个都非常不错, 个人更推荐第二个&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302223844.png&#34; alt=&#34;20210302223844&#34; /&gt;
+&lt;hr&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224003.png&#34; alt=&#34;20210302224003&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后随便打开一个.html 文件, 按照文档使用就好了&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;比如我用的第二款, 右键菜单就可以直接打开网页服务器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224353.png&#34; alt=&#34;20210302224353&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;效果如下&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224509.png&#34; alt=&#34;20210302224509&#34; /&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224806.png&#34; alt=&#34;20210302224806&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;IDEA&#34;&gt;IDEA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;直接打开一个 HTML 文件, 右上角会出现开启网页服务器的小标志&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有什么浏览器点什么就好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302225318.png&#34; alt=&#34;20210302225318&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;效果&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302225450.png&#34; alt=&#34;20210302225450&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;废话不多说, 先展示下我写博客时的样子&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302220625.png&#34; alt=&#34;20210302220625&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;VScode 与 IDEA 原生支持读写 markdown 文件, 而且支持都很不错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302221020.png&#34; alt=&#34;20210302221020&#34; /&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;个人使用 VScode 写比较多, 因为有很多提升效率的扩展&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Tomcat&#34;&gt;Tomcat&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;此处抽离到另一篇文章了: &lt;a href=&#34;../../tools/Tomcat&#34;&gt;🐱‍🏍Maven+Tomcat 开发 webapp.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="推荐" />
+        <category term="vscode" />
+        <category term="idea" />
+        <category term="html" />
+        <category term="css" />
+        <category term="javascript" />
+        <updated>2021-03-02T13:53:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/tools/Jetbrains/Modification/</id>
+        <title>🎉IDEA 魔改记录.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/tools/Jetbrains/Modification/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-01 11:06:59
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-10-28 15:44:16
+ * @FilePath: \Blog-private\source\_posts\tools\Jetbrains\Modification.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#maven&#34;&gt;Maven&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&#34;&gt;环境变量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8D%A2%E9%98%BF%E9%87%8C%E6%BA%90&#34;&gt;换阿里源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%AC%E5%9C%B0%E4%BB%93%E5%BA%93%E8%B7%AF%E5%BE%84&#34;&gt;本地仓库路径&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BD%BF%E7%94%A8%E5%A4%96%E9%83%A8-maven&#34;&gt;使用外部 Maven&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Maven-2&#34;&gt;Maven&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在我发现 Scoop 安装和配置 Maven 有多么便利前, 我是这样想的:&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;- 发现 IDEA 是自带 Maven 的, 没必要自己再安装一个, 直接白嫖她的!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 路径是 `IDEA&lt;span class=&#34;regexp&#34;&gt;/plugins/m&lt;/span&gt;aven&lt;span class=&#34;regexp&#34;&gt;/lib/m&lt;/span&gt;aven3`&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后来发现随着 IDEA 更新, 每次配置文件都需要改, 环境变量也需要自己配, 总之很麻烦…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是, 直接 Scoop 安装吧!&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop install maven&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;它抽离出 Maven 的内部用户配置文件 &lt;code&gt;conf/settings.xml&lt;/code&gt; 在&lt;code&gt;persist&lt;/code&gt;里面, 不会被更新覆写.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/maven/conf/settings.xml&#34;&gt;附上已换源和配置本地仓库的配置文件&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;环境变量&#34;&gt;环境变量&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;参照&lt;a href=&#34;../../../system/system_variable#Maven&#34;&gt;💥 系统开发环境配置&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;换阿里源 -2&#34;&gt;换阿里源&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找到 &lt;code&gt;~/conf/settings.xml&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修改为下面依赖:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;mirrors&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- mirror&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  | Specifies a repository mirror site to use instead of a given repository. The repository that&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  | this mirror serves has an ID that matches the mirrorOf element of this mirror. IDs are used&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  | for inheritance and direct lookup purposes, and must be unique across the set of mirrors.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  |&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  &amp;lt;mirror&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;id&amp;gt;mirrorId&amp;lt;/id&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;mirrorOf&amp;gt;repositoryId&amp;lt;/mirrorOf&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;name&amp;gt;Human Readable Name for this Mirror.&amp;lt;/name&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;url&amp;gt;http://my.repository.com/repo/path&amp;lt;/url&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  &amp;lt;/mirror&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 阿里云仓库 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;mirror&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;alimaven&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;mirrorOf&lt;/span&gt;&amp;gt;&lt;/span&gt;central&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;mirrorOf&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;name&lt;/span&gt;&amp;gt;&lt;/span&gt;aliyun maven&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;name&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;url&lt;/span&gt;&amp;gt;&lt;/span&gt;http://maven.aliyun.com/nexus/content/repositories/central/&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;url&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;mirror&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 阿里云仓库 2 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;mirror&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;mirrorId&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;mirrorOf&lt;/span&gt;&amp;gt;&lt;/span&gt;central&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;mirrorOf&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;name&lt;/span&gt;&amp;gt;&lt;/span&gt;aliyun maven&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;name&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;url&lt;/span&gt;&amp;gt;&lt;/span&gt;https://maven.aliyun.com/repository/public&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;url&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;mirror&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 中央仓库 1 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- &amp;lt;mirror&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;id&amp;gt;repo1&amp;lt;/id&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;mirrorOf&amp;gt;central&amp;lt;/mirrorOf&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;name&amp;gt;Human Readable Name for this Mirror.&amp;lt;/name&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;url&amp;gt;http://repo1.maven.org/maven2/&amp;lt;/url&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  &amp;lt;/mirror&amp;gt; --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 中央仓库 2 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- &amp;lt;mirror&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;id&amp;gt;repo2&amp;lt;/id&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;mirrorOf&amp;gt;central&amp;lt;/mirrorOf&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;name&amp;gt;Human Readable Name for this Mirror.&amp;lt;/name&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;    &amp;lt;url&amp;gt;http://repo2.maven.org/maven2/&amp;lt;/url&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;  &amp;lt;/mirror&amp;gt; --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;mirrors&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;本地仓库路径&#34;&gt;本地仓库路径&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;同上&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;localRepository&lt;/span&gt;&amp;gt;&lt;/span&gt; D:/Game/Scoop/persist/maven/conf/settings.xml&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;localRepository&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;使用外部 -Maven&#34;&gt;使用外部 Maven&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 是自带捆绑 Maven 的, 因为上面原因, 我们使用 Scoop 又安装了一个, 所以需要在 IDEA 里修改下设置&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/rkegM7GmIxwKtyT.png&#34; alt=&#34;20210128033817&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="maven" />
+        <category term="idea" />
+        <updated>2021-01-01T03:06:59.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/others/backup/%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+        <title>🍗各种地方用到的快捷键</title>
+        <link rel="alternate" href="https://weidows.github.io/post/others/backup/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+        <content type="html">&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-24 22:33:53
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-07-27 14:43:21
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\backup\ 快捷键.md
+ * @Description:
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%9A%E7%94%A8&#34;&gt;通用&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE&#34;&gt;修改的快捷键&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode&#34;&gt;VScode&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9D%9E%E4%BF%AE%E6%94%B9%E9%94%AE%E4%BD%8D%E6%8F%92%E4%BB%B6%E9%94%AE%E4%BD%8D&#34;&gt;非修改键位 / 插件键位&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mover-%E9%9D%9E%E4%BF%AE%E6%94%B9%E5%B7%B2%E5%BC%83%E7%94%A8&#34;&gt;&lt;s&gt;Mover 非修改&lt;/s&gt;(已弃用)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%94%AE%E4%BD%8D%E4%BF%AE%E6%94%B9%E5%90%8E&#34;&gt;键位修改后.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#jetbrains&#34;&gt;JetBrains&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%9F%E7%94%9F&#34;&gt;原生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%A7%E6%89%BF-vscode-%E9%94%AE%E4%BD%8D%E4%BF%AE%E6%94%B9&#34;&gt;继承 VScode 键位修改&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%99%BA%E8%83%BD%E8%A1%A5%E5%85%A8&#34;&gt;智能补全&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%8F%E8%A7%88%E5%99%A8&#34;&gt;浏览器&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%B8%A6&#34;&gt;浏览器自带&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9&#34;&gt;修改&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#git&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#qq&#34;&gt;QQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%90%9C%E7%8B%97&#34;&gt;搜狗&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%AE%E9%A2%98&#34;&gt;问题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#windows&#34;&gt;Windows&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9F%BA%E6%9C%AC&#34;&gt;基本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#windows-%E5%BE%BD%E6%A0%87%E9%94%AE&#34;&gt;Windows 徽标键&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A6%E6%91%B8%E6%9D%BF&#34;&gt;触摸板&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%9F%E9%85%8D&#34;&gt;原配&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9%E5%90%8E&#34;&gt;修改后&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#utools&#34;&gt;Utools&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BF%AB%E6%8D%B7%E9%94%AE&#34;&gt;快捷键&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB&#34;&gt;数据迁移&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%94%AE%E7%9B%98&#34;&gt;键盘&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;通用 -3&#34;&gt;通用&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;IDEA&lt;/code&gt; 与 &lt;code&gt;VScode&lt;/code&gt;与 &lt;code&gt;浏览器&lt;/code&gt;(某些部分) 通用性的非修改的快捷键&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;全屏&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;F11&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;关闭标签 // 后台打开链接&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;中键&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;搜索 // 新建标签 // 关闭标签 // 保存&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + F // T // W(F4) // S&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;恢复刚关闭的标签&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + T&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;切换左右标签 // 转到第 N 编辑器块&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + PageUp/PageDown //~ / 1 / 2 / 3 ...&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;放大 / 缩小&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + +(=) / -(-)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;行 // 块注释&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + alt + A&lt;/code&gt;//&lt;code&gt;Ctrl + /&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;撤销 / 重做&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + Z&lt;/code&gt; / &lt;code&gt;Ctrl + shift + Z&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;查找(替换) / 全局查找(替换) / 文件内逐词遍历(方便)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + F(H)&lt;/code&gt; / &lt;code&gt;Ctrl + shift + F(H)&lt;/code&gt; / &lt;code&gt;F3&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;在多个列上添加光标 // 多个行尾添加光标&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + ↑ / ↓&lt;/code&gt;/&lt;code&gt;(中键)&lt;/code&gt; // &lt;code&gt;在行首添加完再转行尾&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;移动编辑器组&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + K + ←/↑/↓/→&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;把当前行上 / 下移 // 向下 / 上复制一行&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + ↑ / ↓&lt;/code&gt; // &lt;code&gt;shift + alt + ↓ / ↑&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;格式化&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + alt + F&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;跳转&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl/alt + G&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;向右拆分编辑器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + \&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;功能键区&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + 小键盘数字&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;源代码操作(生成)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + insert&lt;/code&gt; / &lt;code&gt;shift + alt + Num0&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;快速修复&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + \&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修改的快捷键&#34;&gt;修改的快捷键&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;上 / 下 / 左 / 右移&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Alt + I / K / J(U) / L(O)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;转到行首 / 尾 // 选中到行首 / 尾(不包含缩进)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + N(home) / M(end)&lt;/code&gt; // &lt;code&gt;shift + Alt + N / M&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;换行 // 向上扩展行&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + ,&lt;/code&gt; / &lt;code&gt;Ctrl + enter&lt;/code&gt; // &lt;code&gt;Ctrl + Shift + Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;删除行&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + ;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;VScode-5&#34;&gt;VScode&lt;/h2&gt;
+&lt;h3 id=&#34;非修改键位 - 插件键位&#34;&gt;非修改键位 / 插件键位&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;选中当前行 / 返回上一个光标位置&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + L&lt;/code&gt; / &lt;code&gt;Ctrl + U&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;非调试运行 / 运行&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;(Ctrl) + F5&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;收缩 / 扩展选择&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + alt + ←&lt;/code&gt; / &lt;code&gt;→&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;快速选择引号内容&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + A&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;资源管理器 / 项目管理器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + E&lt;/code&gt; / &lt;code&gt;shift + alt + P&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;保持打开状态 / 固定标签&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + K &amp;amp;&amp;amp; Enter&lt;/code&gt; / &lt;code&gt;Ctrl + K &amp;amp;&amp;amp; shift + Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;插入文件头 / 函数注释 / Code Runner&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl+ alt + I&lt;/code&gt; / &lt;code&gt;T&lt;/code&gt; / &lt;code&gt;N&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;开关侧边栏 / 开关 Console / 新建终端&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + B&lt;/code&gt; / &lt;code&gt;Ctrl + ~&lt;/code&gt; / &lt;code&gt;Ctrl + shift + ~&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;​​​​​Quokka 运行 JS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + K + Q&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Find all Reference&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + F12&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;上 / 下页跳转光标 // 视图上 / 下滚动(翻页)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;PageUp / PageDown&lt;/code&gt; / &lt;code&gt;alt + ↑(PageUp) / ↓(PageDown)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;markdown 预览 / picgo 插入 / 粘贴图片 / 插入书签&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + Shift + V&lt;/code&gt; / &lt;code&gt;E/U&lt;/code&gt; / &lt;code&gt;K&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;匹配文本后面出现光标(贼重要) / 全文匹配文本逐一遍历选择(好用)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + L&lt;/code&gt; / &lt;code&gt;Ctrl + D&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Java 重构 // Debug&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + R&lt;/code&gt; // &lt;code&gt;Ctrl + alt + N&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;copilot 上一个 / 下一个&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + [/]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + N&lt;/code&gt; + &lt;code&gt;Ctrl + R&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开之前的工作区&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/dADwqUKR2WHoTan.jpg&#34; alt=&#34;tjT21PGqH5xQNwz&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Mover- 非修改 - 已弃用&#34;&gt;&lt;s&gt;Mover 非修改&lt;/s&gt;(已弃用)&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;剪切 / 复制 / 粘贴&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + X / C / V&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;跳行&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + 数字 + ↑ / ↓&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;上下左右移动视图&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + E / D / S / F&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;键位修改后&#34;&gt;键位修改后.&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;触发代码补全 /&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + I&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;向左 / 右缩进 // 全折叠 / 全展开&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;(shift + tab) Ctrl + [/]&lt;/code&gt; // &lt;code&gt;Ctrl + shift + [/]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;markdown 创建文章目录&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + &#39;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开 Live Server / 关闭 Server&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + alt + [&lt;/code&gt; / &lt;code&gt;]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;终止 // 最大化终端&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + . // /&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开 copilot&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + alt + Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;JetBrains&#34;&gt;JetBrains&lt;/h2&gt;
+&lt;h3 id=&#34;原生&#34;&gt;原生&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;引入变量(右键 -&amp;gt; 重构 -&amp;gt; 也可以)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + V&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;生成代码&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + insert(shift + Num0)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;类图表&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + U&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;运行类&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + F10&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;上 / 下一个窗口&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + [&lt;/code&gt; / &lt;code&gt;]&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;继承 -VScode- 键位修改&#34;&gt;继承 VScode 键位修改&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;基本快捷键&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;VScode keyboard map&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Mover&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;已手动适配&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;智能补全&#34;&gt;智能补全&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;输入&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;补全&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;fori&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;for(int i = 0;i &amp;lt; ;i++){}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100.for&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;for(int i = 0;i &amp;lt; ;i++){}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;数组对象 a.for&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;for (int i : a) {}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;foreach&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;for(:){}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ifn&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;if(args == null)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;sout&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;System.out.println()&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;xxx.sout&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;System.out.println(xxx)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;st&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;String&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;main/psvm&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;public static void main(String[] args) {}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;浏览器&#34;&gt;浏览器&lt;/h2&gt;
+&lt;h3 id=&#34;浏览器自带&#34;&gt;浏览器自带&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;选中地址栏&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + D&lt;/code&gt; / &lt;code&gt;Ctrl + L&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;新建标签&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + T&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开下载管理器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + X&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;刷新&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + R&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;添加收藏夹&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + D&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;下载管理器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + J&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;开关 Dark Reader&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;shift + alt + D&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;后台跳转链接&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + 左键&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;检查元素&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + C&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;修改&#34;&gt;修改&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;暂无&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Git-4&#34;&gt;Git&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;提交 + 推送&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Git 暂存&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + A&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;QQ&#34;&gt;QQ&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开消息面板&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + Z&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;截图&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + alt + ScrLK&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;搜狗&#34;&gt;搜狗&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;暂无&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;问题 -5&#34;&gt;问题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有时候会遇到上传配置失败的情况&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/snJxi9YVkeulmf2.png&#34; alt=&#34;20210206124107&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可能是系统设置了代理, 比如 clash 会 &lt;code&gt; 开启代理&lt;/code&gt;, 暂时关掉就好了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Windows-3&#34;&gt;Windows&lt;/h2&gt;
+&lt;h3 id=&#34;基本 -2&#34;&gt;基本&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;任务管理器&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + shift + Esc&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Windows- 徽标键&#34;&gt;Windows 徽标键&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;emoji 输入面板&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + . / ;&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;最小化除了当前窗口的所有窗口 // 所有窗口&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + home // D&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;预览桌面&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + ,&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开我的电脑 // 运行 // 控制中心&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + E//R//A&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;window 语音听写&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + H(hear)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;锁屏&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + L(Lock)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;电脑基本信息&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;win + pausebreak&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;触摸板&#34;&gt;触摸板&lt;/h3&gt;
+&lt;h4 id=&#34;原配&#34;&gt;原配&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;视频前进 / 后退&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;双指左 / 右拖&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/q6tg4mwoeWrAbaV.jpg&#34; alt=&#34;ygIOkb9ur1cdpMe&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;修改后&#34;&gt;修改后&lt;/h4&gt;
+  &lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/zdx87UKBR5WYM2n.png&#34; alt=&#34;20201227104041&#34; /&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Utools&#34;&gt;Utools&lt;/h2&gt;
+&lt;h3 id=&#34;快捷键 -2&#34;&gt;快捷键&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打开&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + space&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;面板上下选择 // 快捷选择&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;alt + J/K&lt;/code&gt; // &lt;code&gt;alt + 1/2/3...&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;数据迁移 -2&#34;&gt;数据迁移&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;退出程序, 把数据目录剪切过来, 然后执行:&lt;/p&gt;
+&lt;figure class=&#34;highlight taggerscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;mklink /d &amp;quot;C:&lt;span class=&#34;symbol&#34;&gt;\U&lt;/span&gt;sers&lt;span class=&#34;symbol&#34;&gt;\2&lt;/span&gt;9845&lt;span class=&#34;symbol&#34;&gt;\A&lt;/span&gt;ppData&lt;span class=&#34;symbol&#34;&gt;\R&lt;/span&gt;oaming&lt;span class=&#34;symbol&#34;&gt;\u&lt;/span&gt;Tools&amp;quot; &amp;quot;D:&lt;span class=&#34;symbol&#34;&gt;\G&lt;/span&gt;ame&lt;span class=&#34;symbol&#34;&gt;\S&lt;/span&gt;coop&lt;span class=&#34;symbol&#34;&gt;\p&lt;/span&gt;ersist&lt;span class=&#34;symbol&#34;&gt;\u&lt;/span&gt;Tools&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;会生成一个映射文件夹.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;键盘&#34;&gt;键盘&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;狼蛛 - 收割者 Fn 功能键位&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThkbFZmCU3QvEN.png&#34; alt=&#34;Fn 功能键位&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="推荐" />
+        <category term="浏览器" />
+        <category term="vscode" />
+        <category term="备忘录" />
+        <category term="idea" />
+        <category term="工具" />
+        <category term="快捷键" />
+        <updated>2020-11-24T14:33:53.000Z</updated>
+    </entry>
+</feed>
