@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "⭐️齐下无贰⭐️ • All posts by \"emmet\" tag",
+    "description": "May all the beauty be bless.✨",
+    "home_page_url": "https://weidows.github.io",
+    "items": [
+        {
+            "id": "https://weidows.github.io/post/tools/vscode/Emmet/",
+            "url": "https://weidows.github.io/post/tools/vscode/Emmet/",
+            "title": "😎上手 Emmet.",
+            "date_published": "2021-01-26T16:10:59.000Z",
+            "content_html": "<!--\n * @?: *********************************************************************\n * @Author: Weidows\n * @Date: 2021-01-27 00:10:59\n * @LastEditors: Weidows\n * @LastEditTime: 2021-03-21 17:09:14\n * @FilePath: \\Weidowsd:\\Game\\Github\\Blog-private\\source\\_posts\\tools\\vscode\\Emmet.md\n * @Description:\n * @!: *********************************************************************\n-->\n<ul>\n<li><a href=\"#%E7%AE%80%E4%BB%8B\"> 简介 </a></li>\n<li><a href=\"#%E7%AE%80%E5%8D%95%E4%B8%8A%E6%89%8B\"> 简单上手 </a></li>\n<li><a href=\"#%E8%AF%A6%E7%BB%86\"> 详细 </a></li>\n</ul>\n<h2 id=\"简介 -13\"> 简介 </h2>\n<blockquote>\n<p>Emmet 的前身就是 Zen Coding。 它是一组专门用来提高编写 HTML 和 CSS 代码速度的便利工具。将它整合进文本编辑器，可以提供一些功能和快捷方式，加快开发速度。</p>\n</blockquote>\n<p><a><img src=\"https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"简单上手 -2\"> 简单上手 </h2>\n<ul>\n<li> 如图 <br>\n<img src=\"https://cdn.jsdelivr.net/gh/Weidows/Images/post/YOUTJGPcLpd7Bhn.png\" alt=\"20210127001432\" /></li>\n</ul>\n<p><a><img src=\"https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"详细\"> 详细 </h2>\n<blockquote>\n<p><a href=\"https://blog.csdn.net/qq_33744228/article/details/80910377\">【Emmet】HTML 速写之 Emmet 语法规则 </a></p>\n</blockquote>\n<script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kity@2.0.4/dist/kity.min.js\"></script><script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js\"></script><script defer=\"true\" type=\"text&#x2F;javascript\" src=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js\"></script><link rel=\"stylesheet\" type=\"text&#x2F;css\" href=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css\">",
+            "tags": [
+                "vscode",
+                "工具",
+                "emmet"
+            ]
+        }
+    ]
+}

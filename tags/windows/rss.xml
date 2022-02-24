@@ -1,0 +1,1173 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;windows&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 01 Feb 2021 05:54:10 +0000</pubDate>
+        <lastBuildDate>Mon, 01 Feb 2021 05:54:10 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>面试</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>deprecated</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>manjaro</category>
+        <category>计算机系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>python</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>工具</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>大前端</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>理论知识</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>shell</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/system/wsl2/</guid>
+            <title>🎇尝试转投 wsl 生态.</title>
+            <link>https://weidows.github.io/post/system/wsl2/</link>
+            <category>计算机系统</category>
+            <category>windows</category>
+            <category>wsl2</category>
+            <pubDate>Mon, 01 Feb 2021 05:54:10 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-02-01 13:54:10
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-02-13 17:20:29
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\wsl2.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B0%8F%E5%90%90%E6%A7%BD&#34;&gt;小吐槽&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8C%87%E5%8D%97&#34;&gt;指南&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%98%E6%96%B9%E7%9A%84&#34;&gt;官方的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A&#34;&gt;名词解释&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4&#34;&gt;安装步骤&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%BB%9F&#34;&gt;系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%9F%E8%83%BD&#34;&gt;功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE&#34;&gt;配置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90&#34;&gt;安装完成&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscodewsl&#34;&gt;VScode+wsl&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#terminal&#34;&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#remote-%E5%BC%80%E5%8F%91&#34;&gt;Remote 开发&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9C%B0%E5%9D%80%E6%98%A0%E5%B0%84&#34;&gt;地址映射&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ideawsl&#34;&gt;IDEA+wsl&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#terminal-1&#34;&gt;terminal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8E%E8%AE%B0&#34;&gt;后记&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#wsl-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85&#34;&gt;wsl 软件安装&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#apt&#34;&gt;apt?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dpkg&#34;&gt;dpkg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%97%9B%E7%82%B9%E8%A7%A3%E5%86%B3&#34;&gt;痛点解决&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;小吐槽&#34;&gt;小吐槽&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;搜文章头图时发现…百度和谷歌差距有点大…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我用谷歌时间肯定没百度长, 看起来谷歌更了解我 🤣&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/pOXAbKUQ5MaW2c9.png&#34; alt=&#34;20210201140021&#34; /&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/wgzIP2QA3qrnHpR.png&#34; alt=&#34;20210201140048&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虽然并不想吹捧或贬低哪个, 但是这…(看来我是老双标怪了~)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指南&#34;&gt;指南&lt;/h2&gt;
+&lt;h3 id=&#34;官方的&#34;&gt;官方的&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个微软是官方的, 讲的很详细.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#update-to-wsl-2&#34;&gt;适用于 Linux 的 Windows 子系统安装指南 (Windows 10)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;名词解释&#34;&gt;名词解释&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下面牵扯到很多名词, 乍一看会 &lt;code&gt; 蒙圈&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;放一个关系网络&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;- hyper-v&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|- Docker(hype-v 引擎)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|- Windows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;|- wsl2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;string&#34;&gt;|- wsl-linux&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;string&#34;&gt;|- Docker(wsl 引擎)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;|- Nginx&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;|- Node.js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;|- 各种系统和服务&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;hyper-v&lt;/code&gt;是微软家的虚拟机平台, 定位于 &lt;code&gt;VMware&lt;/code&gt; 相同, 虽然它看起来是 Windows 内部的软件, 但是开启 hyper-v 后 Windows 本身也会成为其内部的虚拟机.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;wsl 是基于 Windows 下实现的 Linux 虚拟化技术, 全称 &lt;code&gt;Windows Subsystem for Linux&lt;/code&gt;, 所以这里面装的系统肯定是各种 linux,&lt;code&gt;2&lt;/code&gt; 只是版本号, 一般 wsl2 简称 wsl, 两个版本功能上有些差别.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;wsl-linux&lt;/code&gt;就是指在 Store 里面像是 Ubuntu,Debian 等等的 linux 系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Docker 的话详见 &lt;a href=&#34;../docker&#34;&gt;🌈 初探 Docker.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装步骤&#34;&gt;安装步骤&lt;/h2&gt;
+&lt;h3 id=&#34;系统&#34;&gt;系统&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;首先 Windows64 位系统版本号必须大于等于 &lt;code&gt;1903&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;系统类型只有专业版(好像家庭版和企业版不行)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;功能&#34;&gt;功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[x] 启用适用于 Linux 的 Windows 子系统&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[x] 启用虚拟机功能&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如图上面两个 &lt;code&gt; 必须开启&lt;/code&gt;, 其他的您看着来~&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/A2jzxWdCoIRfJ8h.png&#34; alt=&#34;20210201160810&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;配置&#34;&gt;配置&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载并安装&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi&#34;&gt;下载适用于 x64 计算机的 WSL2 Linux 内核更新包&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后, 将 WSL 2 设置为默认版本&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 PowerShell 输入&lt;/p&gt;
+&lt;figure class=&#34;highlight actionscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;wsl --&lt;span class=&#34;keyword&#34;&gt;set&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;default&lt;/span&gt;-version &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;没出问题的话会提示 &lt;code&gt;有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;最后&lt;/code&gt;, 打开&lt;code&gt;Microsoft Store&lt;/code&gt;, 安装想安装的 Linux 系统&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ubuntu 16.04 LTS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ubuntu 18.04 LTS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ubuntu 20.04 LTS (主流推荐)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;openSUSE Leap 15.1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SUSE Linux Enterprise Server 12 SP5&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SUSE Linux Enterprise Server 15 SP1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kali Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Debian GNU/Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fedora Remix for WSL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pengwin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pengwin Enterprise&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alpine WSL&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小插曲, 如果 Store 加载不出来数据, 报错&lt;code&gt;0x80131500&lt;/code&gt;, 那么, 请关掉你的科学上网软件 🤣&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装完成 -2&#34;&gt;安装完成&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;第一次打开时他会先安装一小会儿, 然后让你输入用户名和密码, 创建新用户&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注意 Linux 系统输入密码时不会显示&lt;code&gt;****&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight lasso&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Installing, this may &lt;span class=&#34;keyword&#34;&gt;take&lt;/span&gt; a few minutes&lt;span class=&#34;params&#34;&gt;...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Please create a default UNIX user account. The username does &lt;span class=&#34;literal&#34;&gt;not&lt;/span&gt; need &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;match&lt;/span&gt; your Windows username.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;For more information visit: https:&lt;span class=&#34;comment&#34;&gt;//aka.ms/wslusers&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Enter &lt;span class=&#34;literal&#34;&gt;new&lt;/span&gt; UNIX username: weidows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;literal&#34;&gt;New&lt;/span&gt; password:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Retype &lt;span class=&#34;literal&#34;&gt;new&lt;/span&gt; password:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;passwd: password updated successfully&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Installation successful!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;VScode-wsl&#34;&gt;VScode+wsl&lt;/h2&gt;
+&lt;h3 id=&#34;Terminal&#34;&gt;Terminal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;网上大多数人推荐&lt;code&gt;Windows Terminal&lt;/code&gt;, 我觉得也不错, 不过没用, 直接用的&lt;code&gt;VScode&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如图, 点 &lt;code&gt; 选择默认 shell&lt;/code&gt;里面就可以选择 &lt;code&gt;wsl&lt;/code&gt; 了&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/6D1J9yq5EMuXQVx.png&#34; alt=&#34;20210201165532&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Remote- 开发&#34;&gt;Remote 开发&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;wsl 相当于在内网开了一台电脑, 会有一个 &lt;code&gt; 内网 ip&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们不需要获取这个 IP, 直接在 VScode 里安装 &lt;code&gt;Remote - WSL&lt;/code&gt; 这个插件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;甚至都不需要配置, 直接点左下角打开就行了&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/KlHZ74Obe8zEgVf.png&#34; alt=&#34;20210201173024&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当然, 如果不嫌麻烦拿 ssh 连接 wsl 也可以, 需要在 wsl 系统内配置静态 ip, 但是很多功能性上不如上面那个插件.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;地址映射&#34;&gt;地址映射&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装 wsl 之后就可以通过 &lt;code&gt;\\wsl$&lt;/code&gt; 访问到自己的虚拟机&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/DBd9HOUPhSMtgNo.png&#34; alt=&#34;20210201173448&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;映射&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/XMjQTWpiznhlIV7.png&#34; alt=&#34;20210201174422&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;映射之后出现新盘符&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/k3htJvZ1CKrSmbO.png&#34; alt=&#34;20210201174646&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有个奇妙的事是 &lt;code&gt;mnt/&lt;/code&gt; 目录下会反过来映射你的所有本地盘符&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;看上面那个图, 我有四个盘符, 然后 mnt 目录下就有 &lt;code&gt;c,d,e,f&lt;/code&gt; 四个文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这几个映射文件夹在 Windows 文件管理器无法打开, 但是在终端里可以进入&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/tQcB8vpzZIKoEeH.png&#34; alt=&#34;20210201174957&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;IDEA-wsl&#34;&gt;IDEA+wsl&lt;/h2&gt;
+&lt;h3 id=&#34;terminal&#34;&gt;terminal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;设置里打开 &lt;code&gt;File -&amp;gt; Settings -&amp;gt; Tools -&amp;gt; Terminal&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;shell path 填上&lt;/p&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;cmd.exe&amp;quot;&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/k&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;wsl.exe&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如图&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/RxpgAbjuDSGivym.png&#34; alt=&#34;20210201221447&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;后记&#34;&gt;后记&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;本来开始想的是开发环境转到 wsl 内部&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;折腾了大半天发现 wsl 生态并不很讨喜, 只有部分特性值得使用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如跑 &lt;code&gt;Docker&lt;/code&gt;,&lt;code&gt;zsh&lt;/code&gt; 终端,&lt;code&gt;SQL&lt;/code&gt; 服务等等…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;尝试了一下, 直白点说,&lt;code&gt;用它做开发不行!&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但是拿它来 &lt;code&gt; 替代虚拟机 &lt;/code&gt; 倒是还可以, 它的 CPU 闲时占用很低(不到 1%), 内存占用半个 G, 还好~&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为啥呢? 说一下我遇到的痛点:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;首先,&lt;code&gt;生态问题&lt;/code&gt;, 下图是我的开发环境, 想要移植到 Linux 难度很大, 肯定要放弃一些, 所以我放弃移植了…&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/xMkL83vV9iIKB6u.png&#34; alt=&#34;20210201215547&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其次, 有些小问题需要解决, 比如路径问题 &lt;code&gt;&amp;quot;/&amp;quot; 与 &amp;quot;\&amp;quot;&lt;/code&gt; 不一样, 还有换行符问题, 会导致 git 认为你的项目全绿&lt;code&gt;(就是所有文件的所有行都有修改)&lt;/code&gt;, 令人窒息…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再次,&lt;code&gt;性能问题&lt;/code&gt;, 这个虚拟化毕竟是虚拟, 上手试了一下会有迟钝(CPU 和网络问题都有), 另外, 开启了虚拟后就连 Windows 多多少少也会损耗一些性能.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其实我认为最难受的是 &lt;code&gt;IDE 适配&lt;/code&gt;, 我用的&lt;code&gt;IntelliJ IDEA&lt;/code&gt; 和&lt;code&gt;VScode&lt;/code&gt;, 它们需要 &lt;code&gt;Git,Node.js,openjdk,maven,python&lt;/code&gt; 等等, 这些并不能通过 wsl 直通, 除非直接用 linux 系统把这些全装进 linux 里面.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不过倒也没有白安装, 一些东西还是需要 wsl 的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如 &lt;code&gt;bash&lt;/code&gt;,&lt;code&gt;zsh&lt;/code&gt;,&lt;code&gt;docker&lt;/code&gt; 等等…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;害, 算了,&lt;code&gt;VMware&lt;/code&gt;真香!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;还有一个比较上头的问题:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开启 wsl 后因为虚拟化,window 系统开机后 &lt;code&gt; 无法自动连接 WiFi&lt;/code&gt;, 可能是个 bug, 但是劝退了!&lt;/li&gt;
+&lt;li&gt;经测试, 开启 hyper-v 也会造成这后果.&lt;/li&gt;
+&lt;li&gt;有可能只是我这么一个个例, 硬件兼容性问题.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wsl- 软件安装&#34;&gt;wsl 软件安装&lt;/h2&gt;
+&lt;h3 id=&#34;apt&#34;&gt;apt?&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sysgeek.cn/apt-vs-apt-get/&#34;&gt;Linux 中 apt 与 apt-get 命令的区别与解释&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单来说就是：apt = apt-get、apt-cache 和 apt-config 中最常用命令选项的集合。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;dpkg&#34;&gt;dpkg&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/LEON1741/article/details/85127000&#34;&gt;怎么理解 ubuntu 中的软件包管理器 apt 和 dpkg&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;痛点解决&#34;&gt;痛点解决&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/kuangdaoyizhimei/p/14175143.html#_label2_0&#34;&gt;本篇文章会介绍 win10 中 wsl2 的安装和使用以及遇到的常见问题比如如何固定 wsl2 地址等问题的总结。&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/tools/Scoop/</guid>
+            <title>🙌Windows 平台软件包管理器选择 -Scoop</title>
+            <link>https://weidows.github.io/post/tools/Scoop/</link>
+            <category>推荐</category>
+            <category>windows</category>
+            <category>scoop</category>
+            <category>工具</category>
+            <category>package</category>
+            <pubDate>Thu, 14 Jan 2021 15:09:52 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-14 23:09:52
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-01-14 16:50:24
+ * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%95%E5%85%A5%E5%8F%98%E9%87%8F&#34;&gt;引入变量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E4%B8%AA%E4%BC%98%E7%BC%BA%E7%82%B9&#34;&gt;各个优缺点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85&#34;&gt;安装&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop&#34;&gt;Scoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#chocolatey&#34;&gt;Chocolatey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%9F%E8%83%BD%E6%8F%90%E5%8D%87&#34;&gt;功能提升&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-completion&#34;&gt;scoop-completion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD&#34;&gt;加速下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-%E7%BB%9D%E6%B4%BB&#34;&gt;Scoop 绝活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6&#34;&gt;配置文件&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-1&#34;&gt;Scoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#chocolatey-1&#34;&gt;Chocolatey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A5%BD%E6%96%87%E4%BC%A0%E9%80%81&#34;&gt;好文传送&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%A5%E9%94%99%E5%BC%82%E5%B8%B8&#34;&gt;报错异常&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E7%BB%9C%E5%8E%9F%E5%9B%A0&#34;&gt;网络原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E5%8E%9F%E5%9B%A0&#34;&gt;环境原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%86%85%E6%A0%B8%E6%9B%B4%E6%8D%A2%E6%8A%A5%E9%94%99&#34;&gt;内核更换报错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-search&#34;&gt;scoop-search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E5%A4%87%E4%BB%BD%E6%8E%A8%E8%8D%90&#34;&gt;更新 &amp;amp; 备份 &amp;amp; 推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;引入变量&#34;&gt;引入变量&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;软件包管理器: 就像是 360 软件管家, 腾讯软件管家之类的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;此文章要介绍的是 &lt;code&gt;Scoop&lt;/code&gt;- 横向简单对比&lt;code&gt;Chocolatey&lt;/code&gt; 和&lt;code&gt;WinGet&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各个优缺点&#34;&gt;各个优缺点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scoop&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;软件少&lt;/li&gt;
+&lt;li&gt;安装它需要 &lt;code&gt; 科学上网&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;官方只收留非 GUI 软件(不带图形界面的), 但是有第三方拓展库&lt;/li&gt;
+&lt;li&gt;安装 / 卸载干净, 可指定性, 可拓展第三方软件仓库&lt;/li&gt;
+&lt;li&gt;不污染环境变量, 软件目录清晰&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;面向程序员&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chocolatey&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;软件多&lt;/li&gt;
+&lt;li&gt;有的软件安装位置不定&lt;/li&gt;
+&lt;li&gt;面向大众.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnbeta.com/articles/tech/874537.htm?utm_source=tuicool&amp;amp;utm_medium=referral&#34;&gt;软件包管理工具选 Scoop 还是 Chocolatey？看完这篇就知道了&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WinGet&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;preview 中(2021 年初为止)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;只能安装不能卸载&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;只能装.exe,.msi 等, 差不多就是个下载 + 安装的工具&lt;/li&gt;
+&lt;li&gt;还非常青涩,&lt;strong&gt;不推荐!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://sspai.com/post/60592&#34;&gt;WinGet 介绍&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;个人选择了 &lt;code&gt;Scoop&lt;/code&gt;, 下面主要讲 Scoop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装 -2&#34;&gt;安装&lt;/h2&gt;
+&lt;h3 id=&#34;Scoop-2&#34;&gt;Scoop&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装前先设置下 Scoop 的 &lt;code&gt; 安装路径&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下面操作需要在 pwsh 中进行, 没有的话可以手动操作.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如下, 在 user 栏新建&lt;code&gt;SCOOP&lt;/code&gt;, 值为&lt;code&gt;D:\Game\Scoop&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$env:SCOOP&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;D:\Game\Scoop&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;type&#34;&gt;Environment&lt;/span&gt;]::SetEnvironmentVariable(&lt;span class=&#34;string&#34;&gt;&amp;#x27;SCOOP&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;variable&#34;&gt;$env:SCOOP&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;User&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外, 如果想添加到系统环境变量栏, 只需把 &lt;code&gt;User&lt;/code&gt; 修改为&lt;code&gt;Machine&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;type&#34;&gt;Environment&lt;/span&gt;]::SetEnvironmentVariable(&lt;span class=&#34;string&#34;&gt;&amp;#x27;SCOOP&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;variable&#34;&gt;$env:SCOOP&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;Machine&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置好了如下&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/WEtuLNerT8dw6Jk.png&#34; alt=&#34;20210115232840&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;iwr -useb get.scoop.sh | iex&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;终端输入&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输出&lt;/p&gt;
+&lt;figure class=&#34;highlight stata&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;❯ scoop&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Usage: scoop &amp;lt;command&amp;gt; [&amp;lt;&lt;span class=&#34;keyword&#34;&gt;args&lt;/span&gt;&amp;gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Some useful commands are:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;alias       Manage scoop aliases&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bucket      Manage Scoop buckets&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cache       Show or &lt;span class=&#34;keyword&#34;&gt;clear&lt;/span&gt; the download cache&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;checkup     Check &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; potential problems&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cleanup     Cleanup apps &lt;span class=&#34;keyword&#34;&gt;by&lt;/span&gt; removing old versions&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;config      Get or &lt;span class=&#34;keyword&#34;&gt;set&lt;/span&gt; configuration values&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;create      Create a custom &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; manifest&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;depends     &lt;span class=&#34;keyword&#34;&gt;List&lt;/span&gt; dependencies &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;export      Exports (&lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; importable) &lt;span class=&#34;keyword&#34;&gt;list&lt;/span&gt; of installed apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt;        Show &lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; a command&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hold        Hold &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; to disable updates&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;home        Opens the &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; homepage&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;info        &lt;span class=&#34;keyword&#34;&gt;Display&lt;/span&gt; information &lt;span class=&#34;keyword&#34;&gt;about&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;install     Install apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;list&lt;/span&gt;        &lt;span class=&#34;keyword&#34;&gt;List&lt;/span&gt; installed apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;prefix      Returns the path to the specified &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;reset       Reset &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; to resolve conflicts&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;search&lt;/span&gt;      &lt;span class=&#34;keyword&#34;&gt;Search&lt;/span&gt; available apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;status      Show status and check &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; new &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; versions&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;unhold      Unhold &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; to enable updates&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;uninstall   Uninstall &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;update&lt;/span&gt;      &lt;span class=&#34;keyword&#34;&gt;Update&lt;/span&gt; apps, or Scoop itself&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;virustotal  Look &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&amp;#x27;s hash &lt;span class=&#34;keyword&#34;&gt;on&lt;/span&gt; virustotal.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;which&lt;/span&gt;       Locate a shim/executable (similar to &amp;#x27;&lt;span class=&#34;keyword&#34;&gt;which&lt;/span&gt;&amp;#x27; &lt;span class=&#34;keyword&#34;&gt;on&lt;/span&gt; Linux)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Type&lt;/span&gt; &amp;#x27;scoop &lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt; &amp;lt;command&amp;gt;&amp;#x27; to get &lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; a specific command.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Chocolatey&#34;&gt;Chocolatey&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;首先设置环境变量 &lt;code&gt;ChocolateyInstall&lt;/code&gt; , 值为要安装的位置, 如下&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果不设置的话 Chocolatey 会自动安装进 C 盘&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设置完环境变量后一定要 &lt;code&gt; 重启&lt;/code&gt;, 否则不会生效, 还是跟没设置一样.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210314001245.png&#34; alt=&#34;20210314001245&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;功能提升&#34;&gt;功能提升&lt;/h2&gt;
+&lt;h3 id=&#34;scoop-completion&#34;&gt;scoop-completion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;scoop 命令按 tab 自动补全&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;需要先添加 dorado 库&lt;a href=&#34;#%E5%A4%87%E4%BB%BD&amp;amp;%E6%8E%A8%E8%8D%90&#34;&gt;(备份 &amp;amp; 推荐)&lt;/a&gt;, 然后才能安装.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;scoop-completion&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;加速下载&#34;&gt;加速下载&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过 aria2, 配置:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-split 32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-max-connection-per-server 16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-min-split-size 1M&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过代理:&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop&lt;span class=&#34;built_in&#34;&gt; config proxy &lt;/span&gt;localhost:7890&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;choco&lt;span class=&#34;built_in&#34;&gt; config &lt;/span&gt;&lt;span class=&#34;builtin-name&#34;&gt;set&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt; proxy &lt;/span&gt;localhost:7890&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;移除代理:&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;config&lt;/span&gt; rm proxy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;choco &lt;span class=&#34;built_in&#34;&gt;config&lt;/span&gt; unset proxy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Scoop- 绝活&#34;&gt;Scoop 绝活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;他把当前版本的目录创建了一个 &lt;code&gt; 伪目录:current&lt;/code&gt;, 这个伪目录指向当前版本号的目录&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比如这里的 &lt;code&gt;current/node.exe&lt;/code&gt; 实际上指向&lt;code&gt;15.5.1/node.exe&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/Syi1kKHYwTVMuaL.png&#34; alt=&#34;20210115011742&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这就类似 URL 永久化, 使得软件更新后即使目录版本号变更, 你的路径引用也不会失效!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个功能太赞了!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置文件&#34;&gt;配置文件&lt;/h2&gt;
+&lt;h3 id=&#34;Scoop-3&#34;&gt;Scoop&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 &lt;code&gt;C:\Users\ 用户名 \.config\scoop\config.json&lt;/code&gt; 这个文件里.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Chocolatey-2&#34;&gt;Chocolatey&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 &lt;code&gt;Chocolatey\config\chocolatey.config&lt;/code&gt; 这个文件里.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;好文传送&#34;&gt;好文传送&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/luoyooi/article/details/102990113&#34;&gt;Windows 下 Scoop 安装、配置与使用&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/50993df76b1c&#34;&gt;scoop——强大的 Windows 命令行包管理工具&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;报错异常&#34;&gt;报错异常&lt;/h2&gt;
+&lt;h3 id=&#34;网络原因&#34;&gt;网络原因&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;比如我在用 scoop 安装 pwsh 时, 会遇到 MD5 不匹配或者与 GitHub 连接异常的情况, 安装失败&lt;/li&gt;
+&lt;li&gt;举例:
+&lt;ul&gt;
+&lt;li&gt;我安装 &lt;code&gt;gitkraken&lt;/code&gt; 时, 不开 aria2 下载出错, 开了的话下载特慢, 而且下载时间趋近无穷…&lt;/li&gt;
+&lt;li&gt;于是我采用方案一, 直接用浏览器下载的, 带宽跑满, 几秒就下载好了.&lt;/li&gt;
+&lt;li&gt;然后改文件名 -&amp;gt; 复制进 cache-&amp;gt;install-&amp;gt;successfully.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;另外还有一种情况, 比如我安装 &lt;code&gt;gcc&lt;/code&gt; 时遇到 scoop 提供的 URL 是 404 状态, 这是服务器的问题了, 无法解决.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意, 如果安装失败, 在 Scoop 内部记录实际是 &lt;code&gt; 已安装&lt;/code&gt;, 所以需要卸载再重新安装&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;解决方案一&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装失败报错时会显示下载地址, 去那里手动下载目标文件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;或者进入 cache, 找到有个叫 &lt;code&gt;(要安装的软件名).txt&lt;/code&gt; 这个文件, 比如我要安装&lt;code&gt;gitkraken&lt;/code&gt;, 就去找到&lt;code&gt;cache/gitkraken.txt&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;内容如下&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;https&lt;/span&gt;://release.gitkraken.com/win&lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;/gitkraken-&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;-full.nupkg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;referer&lt;/span&gt;=https://release.gitkraken.com/win&lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;dir&lt;/span&gt;=D:\Game\Scoop\cache&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;out&lt;/span&gt;=gitkraken#&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;#https_release.gitkraken.com_win&lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;_gitkraken-&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;-full.nupkg&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第一行就是 &lt;code&gt; 下载地址 &lt;/code&gt;, 最后一行&lt;code&gt;out=&lt;/code&gt; 后面是目标文件名&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入 cache, 按照他的命名, 把我们自己下载的重命名后复制进来&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再进行 install, 安装时 scoop 首先检查 cache 中是否有符合的包, 没有才会去下载.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解决方案二&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;把 aria2 关闭以下就好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-enabled false&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;事后再开启(毕竟它对于某些下载速度提升非常高)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-enabled true&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;环境原因&#34;&gt;环境原因&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这是个让人费解的报错, 什么都没告诉你还怼了句不明不白的话.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ERROR Shovel flavour of scoop is required&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;去看看这个项目:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Ash258/Scoop-Core&#34;&gt;https://github.com/Ash258/Scoop-Core&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大概意思: shovel 是 scoop-core 替换增强版, 你需要安装这家伙 (虽然用的人并不是很多)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;内核更换报错&#34;&gt;内核更换报错&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;把内核换成了 Gitee 上的, 出现了报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight subunit&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Updating Scoop...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Your configuration specifies to merge with the ref &amp;#x27;refs/heads/main&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;from the remote, but no such ref was fetched.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;ERROR &lt;/span&gt;Update failed.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仔细检查了下是分支问题&lt;/p&gt;
+&lt;p&gt;远程上是 master 分支, 而本地配置为 main 分支 (配置文件在 ~/.config/scoop/config.yml)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scoop-search&#34;&gt;scoop-search&lt;/h3&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ scoop search 7 ─╯&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;panic: runtime error: index out of range [1] with length 1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;goroutine 20 [running]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;main.matchingManifests(0xc000102060, 0x21, 0xf1b3b8, 0x1, 0xc000052000, 0x10, 0x10)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        /home/runner/work/scoop-search/scoop-search/main.go:133 +0x106b&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;main.main.func1(0xc000092140, 0x15, 0xf1b3b8, 0x1, 0x0, 0xc000088270, 0xc000094150, 0xe92f00, 0xc0000d6070)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        /home/runner/work/scoop-search/scoop-search/main.go:70 +0x185&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;created by main.main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        /home/runner/work/scoop-search/scoop-search/main.go:63 +0x253&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;排查了一遍, 出现这种问题一般是因为 &lt;code&gt; 软件库有问题&lt;/code&gt;, 而不是 scoop/scoop-search 的问题&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新 - 备份 - 推荐&#34;&gt;更新 &amp;amp; 备份 &amp;amp; 推荐&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;备份方法可见: &lt;a href=&#34;../backuper&#34;&gt;🎃backuper~ 开发环境备份.&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;库: &lt;a href=&#34;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak&#34;&gt;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;软件: &lt;a href=&#34;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak&#34;&gt;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/system/Windows/</guid>
+            <title>💢Windows 中一些奇奇怪怪逸事.</title>
+            <link>https://weidows.github.io/post/system/Windows/</link>
+            <category>计算机系统</category>
+            <category>windows</category>
+            <pubDate>Mon, 28 Dec 2020 05:49:19 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2020-12-28 13:49:19
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-01-26 19:51:04
+ * @FilePath: \Blog-private\source\_posts\system\Windows.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AA%97%E5%8F%A3%E9%80%B8%E5%87%BA&#34;&gt;窗口逸出&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&#34;&gt;解决方案&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%88%E7%AB%AF&#34;&gt;终端&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F&#34;&gt;打开方式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95%E4%B8%80&#34;&gt;方法一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95%E4%BA%8C&#34;&gt;方法二&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95%E4%B8%89&#34;&gt;方法三&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%87%E6%8D%A2%E8%B7%AF%E5%BE%84&#34;&gt;切换路径&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%8B%E7%BC%A9%E5%8C%85%E5%86%85%E5%AE%B9%E5%BC%82%E5%B8%B8&#34;&gt;压缩包内容异常&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#office&#34;&gt;office&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#diff-office2019-office365&#34;&gt;diff-office2019-office365&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E9%A1%B5%E7%89%88-office&#34;&gt;网页版 office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BE%E6%A0%97&#34;&gt;举栗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E8%8D%90%E6%96%87%E7%AB%A0&#34;&gt;推荐文章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E7%A7%8D%E8%B7%AF%E5%BE%84&#34;&gt;各种路径&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A2%9C%E8%89%B2%E9%85%8D%E7%BD%AE&#34;&gt;颜色配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#nvidia&#34;&gt;NVIDIA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#amd&#34;&gt;AMD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%BB%A3%E7%90%86%E4%B8%8D%E9%80%9A&#34;&gt;虚拟机代理不通&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB&#34;&gt;数据迁移&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#onedrive&#34;&gt;OneDrive&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%93%E4%B8%8D%E5%BC%80&#34;&gt;打不开&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A1%AC%E7%9B%98%E9%94%99%E8%AF%AF&#34;&gt;硬盘错误&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A3%B0%E9%9F%B3%E9%85%8D%E7%BD%AE&#34;&gt;声音配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A9%B1%E5%8A%A8&#34;&gt;驱动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%B7%E7%8B%97&#34;&gt;酷狗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE&#34;&gt;系统设置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;窗口逸出&#34;&gt;窗口逸出&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之前弄了个副屏, 有些应用窗口在副屏中打开&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是, 在不装副屏时, 那些窗口打开时还是在那个位置, 而且摸不到他们没法拖过来…&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;解决方案&#34;&gt;解决方案&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;kbd&gt;alt&lt;/kbd&gt; + &lt;kbd&gt;Tab&lt;/kbd&gt; 切换到那个窗口.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;kbd&gt;alt&lt;/kbd&gt; + &lt;kbd&gt;space&lt;/kbd&gt; 切出窗口菜单, 选择最大化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;=&amp;gt; &lt;code&gt;解决&lt;/code&gt;!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;终端&#34;&gt;终端&lt;/h2&gt;
+&lt;h3 id=&#34;打开方式&#34;&gt;打开方式&lt;/h3&gt;
+&lt;h4 id=&#34;方法一&#34;&gt;方法一&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Windows + R&lt;/code&gt;, 输入 cmd, 回车就出来了.&lt;/p&gt;
+&lt;h4 id=&#34;方法二&#34;&gt;方法二&lt;/h4&gt;
+&lt;p&gt;在文件夹空白处按住 &lt;code&gt;shift + 右键&lt;/code&gt;, 会出来&lt;code&gt; 在此处打开 PowerShell 窗口&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/4HflJZPK8W95i1A.png&#34; alt=&#34;20210103142309&#34; /&gt;
+&lt;h4 id=&#34;方法三&#34;&gt;方法三&lt;/h4&gt;
+&lt;p&gt;直接在路径栏中输入 cmd 回车.&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/jvCbW19uq6ohExN.png&#34; alt=&#34;20210103142458&#34; /&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;切换路径&#34;&gt;切换路径&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;秃然一天, 发现 cmd 路径无法切换??!!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;百度了一下找到了原因: &lt;a href=&#34;https://blog.csdn.net/weixin_38089515/article/details/76339030&#34;&gt;cmd 下无法切换路径问题&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如下, 需要先切换一下盘符…&lt;/p&gt;
+&lt;figure class=&#34;highlight cmd&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;C:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;span class=&#34;title&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Game&lt;/span&gt;\&lt;span class=&#34;title&#34;&gt;Github&lt;/span&gt;\&lt;span class=&#34;title&#34;&gt;Programming&lt;/span&gt;-&lt;span class=&#34;title&#34;&gt;Configuration&lt;/span&gt;\&lt;span class=&#34;title&#34;&gt;lists&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;C&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;C&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;span class=&#34;title&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:\&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;C&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;span class=&#34;title&#34;&gt;d&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:\&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再次找了一下, 发现 powershell 不会遇到这问题,cmd 有另一个方法: 加上 &lt;code&gt;/d&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight taggerscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;D:&lt;span class=&#34;symbol&#34;&gt;\G&lt;/span&gt;ame&lt;span class=&#34;symbol&#34;&gt;\G&lt;/span&gt;ithub&lt;span class=&#34;symbol&#34;&gt;\B&lt;/span&gt;log-private&amp;gt;cd /d C:&lt;span class=&#34;symbol&#34;&gt;\U&lt;/span&gt;sers&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;C:&lt;span class=&#34;symbol&#34;&gt;\U&lt;/span&gt;sers&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;压缩包内容异常&#34;&gt;压缩包内容异常&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;今天下载了一个压缩包(原本大小 163M, 带密码), 打开之后是这样：&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/kHyT5PwOSBltR3n.png&#34; alt=&#34;20210627201846&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;尝试解压, 没问我密码, 解压出来也是长这样的, 我以为是下载时数据传输错误, 重新下载了一遍, 结果仍然是这样…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是尝试换软件打开压缩包 -&amp;gt; &lt;code&gt;7z&lt;/code&gt;, 太对了, 正常打开了!(所以应该是系统自带的解压功能有问题)&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/62gOc1xLjyQfSVa.png&#34; alt=&#34;20210627202415&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;office&#34;&gt;office&lt;/h2&gt;
+&lt;h3 id=&#34;diff-office2019-office365&#34;&gt;diff-office2019-office365&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;像是 office2015,office2017,office2019 这种的一般是买电脑时就预装在电脑里的&lt;/p&gt;
+&lt;p&gt;这种是一次性购买激活码(算在买电脑的钱里了), 是正版的话可以登录微软账号, 把 office2019 绑定到账号上.&lt;/p&gt;
+&lt;p&gt;会更新修复一些 bug 但并不会更新功能, 简单讲就是随着电脑购买这个 office 也是买死的.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;office365 是按年续订购买的套餐&lt;/p&gt;
+&lt;p&gt;分为家庭版 / 个人版 / 商业版 / 教育版(需要学校购买), 不同版本其中还含有不同价位的套餐&lt;/p&gt;
+&lt;p&gt;根据版本和套餐的不同,office 提供不同的服务(比如 office 桌面应用使用权,5T OneDrive 空间等等)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务性的差别:&lt;/p&gt;
+&lt;p&gt;office2019 锁死在一台电脑上, 只有 word,Excel,PowerPoint 等桌面软件的永久使用权, 没有云服务.&lt;/p&gt;
+&lt;p&gt;office365 使用权限有订阅期, 可提供的权限比 office2019 更多; 根据订阅套餐不同, 有的不如 office2019, 有的远超 office2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;网页版 -office&#34;&gt;网页版 office&lt;/h3&gt;
+&lt;p&gt;网页版 office 任何 Microsoft 账号都可以免费使用, 域名也一样: &lt;code&gt;www.office.com&lt;/code&gt; , 但是分为 office 和 office365 两种界面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如下图是 office: &lt;a href=&#34;https://www.office.com/?auth=1&#34;&gt;https://www.office.com/?auth=1&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/KrxdhIADz6l4uSE.png&#34; alt=&#34;20210704100501&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;office365: &lt;a href=&#34;https://www.office.com/?auth=2&#34;&gt;https://www.office.com/?auth=2&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/jFnAHYlXwmf4Ka1.png&#34; alt=&#34;20210704100827&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;举栗&#34;&gt;举栗&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我的一个微软账号订阅是 &lt;code&gt;Microsoft Office365 A1&lt;/code&gt; , 就是最普通的教育版, 学校通过申请但没购买更高级的服务.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;并没有桌面 office 使用权, 只能用上图那种网页版的 (A1 pro 可以用桌面版)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有 1~5T OneDrive 空间(具体多大没试过), 上面有管理员管着, 账号好坏存亡得看管理员和母账号是否安稳.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;推荐文章&#34;&gt;推荐文章&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://baijiahao.baidu.com/s?id=1629077774897211140&amp;amp;wfr=spider&amp;amp;for=pc&#34;&gt;Office2019 与 office365 有什么区别？有些人还蒙在鼓里！&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://shikey.com/2019/12/24/office365-versions-a1-a1p-e3-etc.html&#34;&gt;OFFICE365 各版本、A1、A1P、E3、E5 等版本科普&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各种路径&#34;&gt;各种路径&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;字体&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;~\AppData\Local\Microsoft\Windows\Fonts&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;壁纸 / 主题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;~\AppData\Local\Microsoft\Windows\Themes&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开始菜单&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;C:\ProgramData\Microsoft\Windows\Start Menu\Programs&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;颜色配置&#34;&gt;颜色配置&lt;/h2&gt;
+&lt;p&gt;LSP mode : on&lt;/p&gt;
+&lt;p&gt;改进多次的色板 (HDR:OFF，开了的话色彩很怪&lt;/p&gt;
+&lt;p&gt;离人类默认视角越来越远了。。&lt;/p&gt;
+&lt;h3 id=&#34;NVIDIA&#34;&gt;NVIDIA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt; 前后对比一下 &lt;/summary&gt;
+&lt;hr&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/BqtgHf8aNvOolLx.jpg&#34; alt=&#34;1633272756273&#34; /&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/iPN5wTS9bLX8vAl.jpg&#34; alt=&#34;1633272761799&#34; /&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;面板&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/xvO7Uia6nql81Z2.jpg&#34; alt=&#34;1633272772176&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;AMD&#34;&gt;AMD&lt;/h3&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/tVBIDOuSivQdPna.png&#34; alt=&#34;20220126193700&#34; /&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;虚拟机代理不通&#34;&gt;虚拟机代理不通&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;win 下开了个虚拟机, 本想着让本机代理虚拟机网络, 结果不知为什么一直不通:&lt;/p&gt;
+&lt;p&gt;本机能连到虚拟机, 但是虚拟机连不到本机, 一直 ping 不通&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;那么, 有可能是下面这个问题:&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/ml7LUWTfPMzaEhA.png&#34; alt=&#34;20210805182546&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;坑了好久啊!!!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据迁移&#34;&gt;数据迁移&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;想把电脑里的歌复制进手机里, 拿数据线连上了之后复制&lt;/p&gt;
+&lt;p&gt;总是会卡死在某个进度, 还得重新开始&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/S9AokmK7MsqTIxw.png&#34; alt=&#34;20211012102328&#34; /&gt;
+&lt;p&gt;一番查找发现是因为歌名有的含有特殊字符&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt; 跨设备迁移 &lt;/code&gt; 或者 &lt;code&gt; 压缩 (Win 自带)&lt;/code&gt; 时文件名无法被正常解析&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这样的话可以试试换个压缩软件 (7z)&lt;/p&gt;
+&lt;p&gt;在电脑上压缩后复制到手机, 然后手机解压就可以获取到这种怪名文件了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;OneDrive&#34;&gt;OneDrive&lt;/h2&gt;
+&lt;h3 id=&#34;打不开&#34;&gt;打不开&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhidao.baidu.com/question/684463771223457772.html&#34;&gt;Win10 Onedrive 打不开无法访问怎么办&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;硬盘错误&#34;&gt;硬盘错误&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在重分析点缓冲区中的标记无效 0x80071129&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 OneDrive 同步时网咯出了问题, 然后这个文件夹就卡 bug 了, 尝试过一下方法删除:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;直接删&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;垃圾清理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各种解除占用, 文件夹粉碎&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键硬盘 -&amp;gt; 属性 -&amp;gt; 工具 -&amp;gt; 查错 -&amp;gt; 重启 (&lt;a href=&#34;https://blog.csdn.net/COCO56/article/details/108634554&#34;&gt;win10 系统在重分析点缓冲区中的标记无效 的解决方法&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进安全模式删除&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进 PE 删除&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修复模式命令行删除&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通通不行, 后来发现 Windows 有自带修复命令, 试了试:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.disktool.cn/content-center/command-prompt-check-disk-6540.html&#34;&gt;在 Windows 中使用磁盘修复命令 CHKDSK 检查并修复磁盘错误&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight dos&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;chkdsk&lt;/span&gt; E: /f&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然后会问占用问题, 直接输 Y, 很快就好了!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;声音配置&#34;&gt;声音配置&lt;/h2&gt;
+&lt;p&gt;关于如何获得动听的声音…&lt;/p&gt;
+&lt;h3 id=&#34;驱动&#34;&gt;驱动&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果你更新了一下驱动或者换了个耳机后, 音效不堪入耳, 那么检查一下这里是不是 &lt;code&gt;耳机&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/8ybYHpIVDs5TMna.png&#34; alt=&#34;20211126204114&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;酷狗&#34;&gt;酷狗&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个品牌当然会有很多诟病的地方, 但是它的音效增强是在是强, 尤其可以全局&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/C9Wpe6v5HgmBzE2.png&#34; alt=&#34;20211126204303&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统设置&#34;&gt;系统设置&lt;/h3&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/SH5AEKa2sk4TcNU.png&#34; alt=&#34;20211126204420&#34; /&gt;
+&lt;p&gt;音质格式&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
