@@ -1,6 +1,10 @@
 ---
 title: ⭐ 带学生成长手册 ⭐
-password: ""
+password: "2333"
+abstract: 加密文章, 请输入密码
+message: 反爬虫骑士 2333 (密码)
+wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
+wrong_hash_message: 啊咧,啊咧咧咧..
 top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/6t2qP1DoRUNyzSg.jpg
 comments: true
 aside: false
@@ -10,7 +14,7 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-11-13 00:11:56
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 02:10:06
+ * @LastEditTime: 2022-02-23 14:40:02
  * @FilePath: \Blog-private\source\gallery\MyGrowth.md
  * @Description:
 -->

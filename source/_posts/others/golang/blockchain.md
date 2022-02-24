@@ -16,16 +16,16 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 03:00:19
+ * @LastEditTime: 2022-02-23 14:07:43
  * @FilePath: \Blog-private\source\_posts\others\golang\blockchain.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 🐭 从零开始 Golang & blockchain
+# 从零开始 Golang & blockchain
 
 ```pullquote mindmap mindmap-md
-- [🐭 从零开始 Golang & blockchain](#-从零开始-golang--blockchain)
+- [从零开始 Golang & blockchain](#从零开始-golang--blockchain)
   - [配置](#配置)
     - [模块代理](#模块代理)
     - [模块初始化](#模块初始化)

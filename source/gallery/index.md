@@ -10,9 +10,15 @@ aside: true
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 02:09:31
+ * @LastEditTime: 2022-02-23 19:35:15
  * @FilePath: \Blog-private\source\gallery\index.md
 -->
+
+<center>
+
+![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi2_pkrMv810eKrTQ/root/content)
+
+</center>
 
 ## 共享
 
@@ -42,7 +48,7 @@ aside: true
 
 ## 个人
 
-> 憋瞅,Private 隐私 <span style="background: grey; color: grey" onmouseout="this.style.background='grey';this.style.color='grey'" onmouseover="this.style=''">密码2333</span>
+> 憋瞅,Private 隐私 <span style="background: grey; color: grey" onmouseout="this.style.background='grey';this.style.color='grey'" onmouseover="this.style=''">密码 2333</span>
 
 <div class="gallery-group-main">
 
