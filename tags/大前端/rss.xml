@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;大前端&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 08 Jul 2021 09:48:32 +0000</pubDate>
+        <lastBuildDate>Thu, 08 Jul 2021 09:48:32 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>hls</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>面试</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>deprecated</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>manjaro</category>
+        <category>计算机系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>python</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>工具</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>大前端</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>理论知识</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/Web/JavaScript/CORS/</guid>
+            <title>😡一次解决 CORS 经验记录.</title>
+            <link>https://weidows.github.io/post/Web/JavaScript/CORS/</link>
+            <category>面试</category>
+            <category>javascript</category>
+            <category>爬虫</category>
+            <category>cors</category>
+            <category>大前端</category>
+            <pubDate>Thu, 08 Jul 2021 09:48:32 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-07-11 19:49:07
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\JavaScript\CORS.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B3%E8%81%94%E9%A1%B9%E7%9B%AE&#34;&gt;关联项目&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%80%E4%BB%8B&#34;&gt;简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%96%E6%9E%90%E5%8E%9F%E6%96%99&#34;&gt;剖析原料&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%AE%E9%A2%98%E5%B1%95%E7%A4%BA&#34;&gt;问题展示&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA&#34;&gt;图片显示&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#fetch-%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE&#34;&gt;fetch 获取数据&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#canvas-%E6%93%8D%E4%BD%9C&#34;&gt;Canvas 操作&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9C%80%E6%B1%82&#34;&gt;需求&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&#34;&gt;解决方案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%94%B6%E5%B0%BE&#34;&gt;收尾&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;关联项目 -2&#34;&gt;&lt;a href=&#34;https://github.com/Weidows/awesome-image-collector&#34;&gt;关联项目&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;简介 -10&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;跨域资源共享 CORS (Cross-origin resource sharing)&lt;/p&gt;
+&lt;p&gt;从一个 &lt;code&gt;协议 - 子域名 - 主域名 &lt;/code&gt; 访问另一个 &lt;code&gt; 协议 - 子域名 - 主域名&lt;/code&gt; 下的资源就是 CORS, 这三项有任何一项不同就判定为跨域.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下面的主角是 &lt;code&gt;图片&lt;/code&gt;, 从三个层次剖析, 逐渐变难.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;图片显示&lt;/li&gt;
+&lt;li&gt;fetch 获取数据&lt;/li&gt;
+&lt;li&gt;canvas 操作&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;剖析原料&#34;&gt;剖析原料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;现在我这有两个网站, 每个网站对应一个图片域名&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;网站 \ 域名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;主站域名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;图片域名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;图片跨域访问&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;access-control-allow-origin&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://SM.MS&#34;&gt;SM.MS&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://sm.ms&#34;&gt;sm.ms&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://i.loli.net&#34;&gt;i.loli.net&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;✔&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;网页版 QQ 收藏&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://sharechain.qq.com&#34;&gt;sharechain.qq.com&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://shp.qpic.cn&#34;&gt;shp.qpic.cn&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;❌&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;❌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如何查看图片域名是否允许跨域, 以及允许跨域域名范围&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在主站域名网页下打开 &lt;code&gt; 控制台 - 网页&lt;/code&gt; 然后刷新网页, 找到图片的请求&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后看请求的标头 -&amp;gt; 响应头, 是否含有 &lt;code&gt;access-control-allow-origin&lt;/code&gt; 这一项&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;没有的话就是没开启 CORS, 有的话右面的参数就是允许 CORS 的域名范围.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/ONQBnduEbS7Tsm6.png&#34; alt=&#34;20210709232207&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;问题展示 -2&#34;&gt;问题展示&lt;/h2&gt;
+&lt;h3 id=&#34;图片显示&#34;&gt;图片显示&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;图片显示不受 CORS 是否开启影响, 这两个图片域名在任何域名下都可以显示&lt;/p&gt;
+&lt;p&gt;如图本地域名可以显示这两个域名下的图片 (各一张) 🥵&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/DPsTiHyMeRcl8JU.png&#34; alt=&#34;20210709222815&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fetch- 获取数据&#34;&gt;fetch 获取数据&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;i.loli.net&lt;/code&gt; 这个域名开启了 CORS&lt;/p&gt;
+&lt;p&gt;并允许任何域名都可以跨域获取数据 (access-control-allow-origin: *)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如下, 在两个主站域名测试都可以得到如下结果:&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/8lHUmQXwBtOg54R.png&#34; alt=&#34;20210709221705&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;变个卦:&lt;/p&gt;
+&lt;p&gt;如果服务端修改 access-control-allow-origin 为 &lt;code&gt;https://sm.ms&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这个情况下, 只能在 &lt;a href=&#34;https://sm.ms&#34;&gt;https://sm.ms&lt;/a&gt; 网页内可以 fetch 成功.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;服务端没开启 CORS 的 &lt;code&gt;shp.qpic.cn&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;除了本身域名 &lt;a href=&#34;http://shp.qpic.cn&#34;&gt;shp.qpic.cn&lt;/a&gt;, 任何域名都 &lt;code&gt;没有权限获取数据&lt;/code&gt; (可以显示但是无法 fetch)&lt;/p&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Access&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; image at &lt;span class=&#34;string&#34;&gt;&amp;#x27;xxx&amp;#x27;&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;from&lt;/span&gt; origin &lt;span class=&#34;string&#34;&gt;&amp;#x27;xxx&amp;#x27;&lt;/span&gt; has been blocked &lt;span class=&#34;keyword&#34;&gt;by&lt;/span&gt; CORS &lt;span class=&#34;keyword&#34;&gt;policy&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;No&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;Access-Control-Allow-Origin&amp;#x27;&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;header&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;is&lt;/span&gt; present &lt;span class=&#34;keyword&#34;&gt;on&lt;/span&gt; the requested resource.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/post/DXuTiWS3vFgUYqO.png&#34; alt=&#34;20210709222317&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Canvas- 操作&#34;&gt;Canvas 操作&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Canvas 操作 img 要求最严格&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;要求图片域名开启 CORS, 并在 CORS 允许的域名下, 服务端才可以响应数据&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;img 标签设置属性 &lt;code&gt;crossorigin=&#39;anonymous&#39;&lt;/code&gt;, 表示想要跨域, 否则会报错 canvas 被污染&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;需求 -2&#34;&gt;需求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;现在有一个需求:&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;sharechain.qq.com&lt;/code&gt; 下获取 &lt;code&gt;shp.qpic.cn&lt;/code&gt; 的图片数据并通过 canvas 处理&lt;/p&gt;
+&lt;p&gt;-&amp;gt; 跨域, 而且服务端不允许 CORS&lt;/p&gt;
+&lt;p&gt;-&amp;gt; 需要解决 canvas 跨域污染.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;解决方案 -4&#34;&gt;解决方案&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;寻找了很多资料, 这里贴上优秀文章&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000011145364&#34;&gt;前端常见跨域解决方案（全）&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.zoukankan.com/goloving-p-12857575.html&#34;&gt;将在线图片转换成 base64 踩坑记录及静态资源跨域及缓存的处理&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;最终答案:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;纯前端无法解决跨域资源获取问题&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;最快捷方案还是需要服务端开启… (显然是不可能)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;但是&lt;/code&gt;, 找到了捷径: 浏览器插件可以直接解决跨域问题&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://microsoftedge.microsoft.com/addons/detail/cors-unblock/hkjklmhkbkdhlgnnfbbcihcajofmjgbh?hl=zh-CN&#34;&gt;CORS Unblock&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://microsoftedge.microsoft.com/addons/detail/allow-cors-accesscontro/bhjepjpgngghppolkjdhckmnfphffdag?hl=zh-CN&#34;&gt;Allow CORS: Access-Control-Allow-Origin&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;收尾 -2&#34;&gt;收尾&lt;/h2&gt;
+&lt;p&gt;现在, 可以成功 fetch 跨域图片数据了, 再把 img 设置 crossorigin=&amp;quot;anonymous&amp;quot; 就完事了 &lt;code&gt;\&amp;gt;A&amp;lt;/&lt;/code&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
