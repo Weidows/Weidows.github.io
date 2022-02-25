@@ -19,7 +19,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-24 13:52:40
+ * @LastEditTime: 2022-02-24 16:04:58
  * @FilePath: \Blog-private\source\_posts\tools\vscode\snippet.md
 -->
 
@@ -88,7 +88,7 @@ top_img:
 
 ---
 
-- 这样一个场景: 想打一个 mermaid,然后上一行添加 ` ```mermaid `, 下一行添加 ` ``` `,光标位置再中间
+- 这样一个场景: 想打一个 mermaid,然后出来下面这样
 
   ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3Ry49DGM5TnLw2c/root/content)
 

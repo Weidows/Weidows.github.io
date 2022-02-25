@@ -17,7 +17,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 03:23:09
+ * @LastEditTime: 2022-02-25 22:52:59
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -64,6 +64,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
 |       `shutdown -h now` / `reboot`       |              关机 / 重启              |
 |             `ls \| grep abc`             |  过滤 ls 的输出,只显示含"abc"的内容   |
 |          `ls \| tee [-a] t.log`          | 显示 ls 输出同时[追加]输出到 t.log 里 |
+|                 `mktemp`                 |        临时创建一个 temp 文件         |
 
 ---
 
