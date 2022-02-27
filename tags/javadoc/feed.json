@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "⭐️齐下无贰⭐️ • All posts by \"javadoc\" tag",
+    "description": "May all the beauty be bless.✨",
+    "home_page_url": "https://weidows.github.io",
+    "items": [
+        {
+            "id": "https://weidows.github.io/post/Java/Javadoc/",
+            "url": "https://weidows.github.io/post/Java/Javadoc/",
+            "title": "Javadoc 使用 && 命名规范",
+            "date_published": "2020-10-25T09:36:12.000Z",
+            "content_html": "<!--\n * @Author: Weidows\n * @LastEditors: Weidows\n * @LastEditTime: 2021-02-13 17:08:44\n * @FilePath: \\Weidowsd:\\Game\\Github\\Blog-private\\source\\_posts\\Java\\Javadoc.md\n-->\n<ul>\n<li><a href=\"#%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A%E6%96%B9%E6%B3%95\">文档注释方法</a></li>\n<li><a href=\"#%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE\">常用标签</a></li>\n<li><a href=\"#%E5%B8%B8%E7%94%A8\">常用 @</a></li>\n<li><a href=\"#generate\">Generate</a>\n<ul>\n<li><a href=\"#%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%BD%93%E5%89%8D%E7%9B%AE%E5%BD%95%E7%94%9F%E6%88%90-javadoc-%E6%96%87%E6%A1%A3%E6%B3%A8%E6%84%8F%E5%AD%98%E6%94%BE%E7%9B%AE%E5%BD%95%E6%9C%80%E5%A5%BD%E6%98%AF%E7%A9%BA%E7%9A%84%E4%B8%8D%E7%84%B6%E4%BC%9A%E4%B8%80%E5%9B%A2%E4%B9%B1%E9%BA%BB\">在命令行当前目录生成 JavaDoc 文档, 注意存放目录最好是空的, 不然会…一团乱麻!</a></li>\n</ul>\n</li>\n<li><a href=\"#java-%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83\">Java 命名规范</a></li>\n</ul>\n<h2 id=\"文档注释方法\">文档注释方法</h2>\n<ul>\n<li>在类 / 方法上面写个 <code>/**</code> 就会出来</li>\n<li>文档注释会在代码提示中显示, 也可以用 Javadoc 生成文档</li>\n<li>其中的标签不用闭合, 比如写 <code>&lt;p&gt;</code> 的话用不着写<code>&lt;/p&gt;</code>, 但是写上也不会错</li>\n</ul>\n<hr>\n<h2 id=\"常用标签\">常用标签</h2>\n<ul>\n<li><code>&lt;p&gt;</code> Passage 段落标签</li>\n</ul>\n<hr>\n<h2 id=\"常用\">常用 @</h2>\n<ul>\n<li><code>@author</code></li>\n<li><code>@version</code></li>\n<li><code>@since</code></li>\n<li><code>@see</code></li>\n<li><code>@link</code></li>\n<li><code>@code</code></li>\n<li><code>@param</code></li>\n<li><code>@return</code></li>\n<li><code>@exception</code></li>\n<li><code>@throws</code></li>\n</ul>\n<hr>\n<h2 id=\"Generate\">Generate</h2>\n<h4 id=\"在命令行当前目录生成 -JavaDoc- 文档 - 注意存放目录最好是空的 - 不然会…一团乱麻\">在命令行当前目录生成 JavaDoc 文档, 注意存放目录最好是空的, 不然会…一团乱麻!</h4>\n<figure class=\"highlight apache\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"attribute\">javadoc</span> -encoding UTF-<span class=\"number\">8</span> -charset UTF-<span class=\"number\">8</span> Path/ 文件名</span><br></pre></td></tr></table></figure>\n<hr>\n<h2 id=\"Java- 命名规范\">Java 命名规范</h2>\n<ol>\n<li>\n<p>见名知意</p>\n<ol>\n<li>\n<p>不要用中文 / 拼音命名</p>\n</li>\n<li>\n<p>即使命名不规范也可能不会出 bug, 但是问题很大!</p>\n</li>\n</ol>\n</li>\n<li>\n<p>驼峰命名(变量, 方法)</p>\n</li>\n<li>\n<p>类, 首字母大写, 驼峰命名</p>\n</li>\n<li>\n<p>包, 全小写命名 + 下划线</p>\n</li>\n<li>\n<p>常量 / 枚举, 全大写命名 + 下划线</p>\n</li>\n</ol>\n<script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kity@2.0.4/dist/kity.min.js\"></script><script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js\"></script><script defer=\"true\" type=\"text&#x2F;javascript\" src=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js\"></script><link rel=\"stylesheet\" type=\"text&#x2F;css\" href=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css\">",
+            "tags": [
+                "java",
+                "javadoc"
+            ]
+        }
+    ]
+}
