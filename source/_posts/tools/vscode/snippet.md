@@ -19,7 +19,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-24 16:04:58
+ * @LastEditTime: 2022-02-27 21:23:56
  * @FilePath: \Blog-private\source\_posts\tools\vscode\snippet.md
 -->
 
@@ -94,14 +94,9 @@ top_img:
 
   ***
 
-  可以这样:
+  可以这样:   (抱歉贴代码会报错,贴图吧)
 
-  ````json
-  "Mermaid": {
-    "prefix": "mermaid",
-    "body": ["```mermaid", "$0", "```"]
-  },
-  ````
+  ![](https://www.helloimg.com/images/2022/02/27/GVOQB9.png)
 
 ---
 
@@ -109,7 +104,7 @@ top_img:
 
   ![](https://www.helloimg.com/images/2022/02/26/GVRWDP.png)
 
-  (抱歉贴代码会报错,贴图吧)
+
 
   当输入 paper-footnote 后按下 tab, 所有$1 处都会出现光标,可以同时操作
 
