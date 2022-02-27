@@ -4,7 +4,7 @@ date: 2020-09-04 10:49:16
 password: ""
 tags:
   - Java
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/XNzZpVAlmohqKHY.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVJmcS.png
 ---
 
 <!--
@@ -27,7 +27,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/XNzZpVAlmohqKHY.jpg
 
 ## Person.java
 
-![UpRI1nOdso2Z4ak](https://cdn.jsdelivr.net/gh/Weidows/Images/post/GCvw1FlIot7T5iA.jpg)
+![UpRI1nOdso2Z4ak](https://www.helloimg.com/images/2022/02/27/GVa9vt.png)
 {% hideToggle 源代码 %}
 
 ```java
@@ -98,7 +98,7 @@ class TestPerson {
 
 ## Test.java
 
-![Q9r36pXoBen4Hcy](https://cdn.jsdelivr.net/gh/Weidows/Images/post/XZ7JLfemrapqcC8.jpg)
+![Q9r36pXoBen4Hcy](https://www.helloimg.com/images/2022/02/27/GVJL6u.png)
 {% hideToggle 源代码 %}
 
 ```java

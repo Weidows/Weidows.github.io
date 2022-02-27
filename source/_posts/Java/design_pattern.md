@@ -5,7 +5,7 @@ password: ""
 tags:
   - Java
   - 设计模式
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/M2NCl539nTvz6Vj.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3Tru.png
 ---
 
 <!--

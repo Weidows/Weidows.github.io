@@ -5,7 +5,7 @@ password: ""
 tags:
   - Java
   - 对象
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/To4BF7XM1xEmanh.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVJorc.png
 ---
 
 <!--
@@ -21,7 +21,7 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/To4BF7XM1xEmanh.jpg
 
 ## 匿名对象一 (Test.java)
 
-![anonymous_object_1](https://cdn.jsdelivr.net/gh/Weidows/Images/post/aqpo7tPHMDxAkbn.jpg)
+![anonymous_object_1](https://www.helloimg.com/images/2022/02/27/GVa3Xz.png)
 
 <details>
 
@@ -53,7 +53,7 @@ public static void main(String[] args) {
 
 ## 匿名对象二 (Circle.java)
 
-![anonymous_object_2](https://cdn.jsdelivr.net/gh/Weidows/Images/post/PtY473dAChgsqpQ.jpg)
+![anonymous_object_2](https://www.helloimg.com/images/2022/02/27/GVEDIv.png)
 
 <details>
 

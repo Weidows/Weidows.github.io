@@ -6,7 +6,7 @@ tags:
   - VScode
   - Emmet
   - 工具
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/MSq5Z7OEhmRLI6d.png
+cover: https://www.helloimg.com/images/2022/02/27/GVAf3m.png
 top_img:
 ---
 
@@ -34,7 +34,7 @@ top_img:
 ## 简单上手
 
 - 如图
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/YOUTJGPcLpd7Bhn.png" alt="20210127001432" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSQHM.png" alt="20210127001432" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

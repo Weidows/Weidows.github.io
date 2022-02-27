@@ -1,7 +1,7 @@
 ---
 title: ⭐ 陈茶酱醋 ⭐
 password: ""
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/77.jpeg
+top_img: https://www.helloimg.com/images/2022/02/27/GVmCou.png
 comments: true
 aside: false
 ---
@@ -10,7 +10,7 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-08-25 11:15:06
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 03:08:52
+ * @LastEditTime: 2022-02-27 02:50:02
  * @FilePath: \Blog-private\source\artitalk\older_artitalk.md
 -->
 

@@ -5,7 +5,7 @@ abstract: 加密文章, 请输入密码
 message: 反爬虫骑士 2333 (密码)
 wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
 wrong_hash_message: 啊咧,啊咧咧咧..
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/6t2qP1DoRUNyzSg.jpg
+top_img: https://www.helloimg.com/images/2022/02/27/GVPJEu.png
 comments: true
 aside: false
 ---

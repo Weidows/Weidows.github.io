@@ -5,7 +5,7 @@ password: ""
 tags:
   - 备忘录
   - API
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/U2VkeYvoMaXIsEp.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVJP3q.png
 top_img:
 ---
 

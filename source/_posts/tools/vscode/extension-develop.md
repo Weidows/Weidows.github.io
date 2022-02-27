@@ -5,7 +5,7 @@ password: ""
 tags:
   - VScode
   - 插件
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/mjSy1DuPknbalrv.png
+cover: https://www.helloimg.com/images/2022/02/27/GVAVr0.png
 top_img:
 ---
 
@@ -100,9 +100,9 @@ top_img:
 
 - 按着图操作
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/9JCgBdrQXALfYxu.png" alt="20210514153423" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVPwLh.png" alt="20210514153423" />
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bwFfqWRchLsSKmx.png" alt="20210514153615" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVtfv5.png" alt="20210514153615" />
 
 - 然后复制获得的 token,下面就可以发布了
 

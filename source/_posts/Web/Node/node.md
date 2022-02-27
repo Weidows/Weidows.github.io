@@ -7,7 +7,7 @@ tags:
   - npm
   - yarn
   - package
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/at4cvJXTRZw9bQH.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVaX2A.png
 top_img:
 ---
 

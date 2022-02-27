@@ -6,7 +6,7 @@ tags:
   - shell
   - PowerShell
   - 备忘录
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/p8sZuCArYPLI93d.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVEz1t.png
 top_img:
 ---
 
@@ -31,7 +31,7 @@ top_img:
 
 ## 预览
 
-![siDz8M1QlGIanE3](https://cdn.jsdelivr.net/gh/Weidows/Images/post/L26PcmM3KnW9YfT.jpg)
+![siDz8M1QlGIanE3](https://www.helloimg.com/images/2022/02/27/GV3nLD.png)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -59,7 +59,7 @@ top_img:
   Install-Module oh-my-posh
   ```
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/1d9Xs6ADR3MaNCy.png" alt="20211029164044" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVFbWK.png" alt="20211029164044" />
 
   ***
 
@@ -72,7 +72,7 @@ top_img:
     iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/mattparkes/PoShFuck/master/Install-TheFucker.ps1'))
   ```
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/JMwQv4UEDaZ1sob.png" alt="20211029164014" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVA1AR.png" alt="20211029164014" />
 
   ***
 
@@ -82,7 +82,7 @@ top_img:
   Install-Module posh-git
   ```
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/6wLnWidyZxf7IsT.png" alt="20211029163651" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVP41Y.png" alt="20211029163651" />
 
   ***
 
@@ -92,7 +92,7 @@ top_img:
 
   - 上下左右高级补全
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/qRsYkhSwMc4JezU.png" alt="20210703123813" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLnS6.png" alt="20210703123813" />
 
 ---
 
@@ -110,7 +110,7 @@ top_img:
 
 - `Posh中类似Linux形式补全` (按 Tab 自动补,非常实用)
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/RoPeDmafdlTrK4S.png" alt="MouseInc 122640" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLO2m.png" alt="MouseInc 122640" />
 
   ```
   Set-PSReadlineKeyHandler -Key Tab -Function MenuComplete

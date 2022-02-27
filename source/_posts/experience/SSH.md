@@ -5,7 +5,7 @@ password: ""
 tags:
   - SSH
   - Linux
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/8hkiBs34PZ2eRIu.png
+cover: https://www.helloimg.com/images/2022/02/27/GVPnLM.png
 top_img:
 ---
 
@@ -72,7 +72,7 @@ top_img:
 
 - 配置文件完成,现在应该是这样子:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/4slQ1hP92qxSUIW.png" alt="20201207100813" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVPqNQ.png" alt="20201207100813" />
 
 ---
 
@@ -97,7 +97,7 @@ top_img:
 
 - 连接树莓派,ip 为`192.168.43.119`,用户名为`pi`,密码为默认的`raspberry`
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/9SuJxmTWczQG2oE.png" alt="20201203113101" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVPzcT.png" alt="20201203113101" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -105,11 +105,11 @@ top_img:
 
 - 安装插件`Remote-SSH`
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/25reFfkbShHl9q8.png" alt="20201204202003" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmGiv.png" alt="20201204202003" />
 
 - 安装后侧边栏出现`远程资源管理器`,然后点新建,出现下面东东~
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/vm3bRepxYuL4SUk.png" alt="20210128005600" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSxFh.png" alt="20210128005600" />
 
 - 照着他的提示输入就行,比如我以`pi`用户登录,树莓派`内网ip`是`192.168.2.116`,那么应该输入
 
@@ -152,7 +152,7 @@ top_img:
 
 - 最终,我用二分法查出了问题所在:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/2GXOS5mW8EzIT7Y.png" alt="20210206124525" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVFWDS.png" alt="20210206124525" />
 
 - 问题出自于一个叫`code time`的插件,它的`issue`里面也提了这个 bug,还没解决.
 

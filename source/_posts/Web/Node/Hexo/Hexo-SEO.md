@@ -6,7 +6,7 @@ tags:
   - Hexo
   - Website
   - SEO
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/vfMgXj4aswWDh2Z.png
+cover: https://www.helloimg.com/images/2022/02/27/GVS3q5.png
 top_img:
 ---
 
@@ -99,7 +99,7 @@ top_img:
   - [HTML=>pug 格式转换](https://html2pug.com/)
 - 添加之后如下:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/eFC3Lqbpi9xQ4Mg.png" alt="20201218170353" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4iTg.png" alt="20201218170353" />
 
 - 最后
   - hexo generate
@@ -112,7 +112,7 @@ top_img:
 
 - 百度
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/KOl5p4gtIsBwrhE.png" alt="20201218173033" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAsbc.png" alt="20201218173033" />
 
 - 谷歌简单,略.
 - 另外

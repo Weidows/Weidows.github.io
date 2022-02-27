@@ -6,7 +6,7 @@ tags:
   - Markdown
   - HTML
 katex: false
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVENOC.png
 top_img:
 ---
 
@@ -126,12 +126,12 @@ top_img:
 
 - 这样写是把图片嵌套进了链接里,如下:
 
-  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)
+  [![图片](https://www.helloimg.com/images/2022/02/27/GVENOC.png)](https://www.helloimg.com/images/2022/02/27/GVENOC.png)
 
 - 本来只是展示图片,现在点击图片跳转了.
 
   ```markdown
-  [![图片](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)](https://cdn.jsdelivr.net/gh/Weidows/Images/post/o6shLZ1G53qliBY.jpg)
+  [![图片](https://www.helloimg.com/images/2022/02/27/GVENOC.png)](https://www.helloimg.com/images/2022/02/27/GVENOC.png)
   ```
 
 ---
@@ -158,7 +158,7 @@ top_img:
 
 > 发现自: [Axb 的自我修养](http://blog.2baxb.me/),样式如下:
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210329091216.png" alt="20210329091216" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVtaMP.png" alt="20210329091216" />
 
 - 写法:
 
@@ -238,7 +238,7 @@ top_img:
 
 - 上面的是巨号,下面的是一号标题,怎样,够大吧?
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/CFqJIgubvXhxtrA.png" alt="20211009171608" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4CFq.png" alt="20211009171608" />
 
 - 写法: `h1 标签 + 列表 + 一级标题`
 

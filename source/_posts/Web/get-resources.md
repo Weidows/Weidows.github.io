@@ -13,11 +13,12 @@ tags:
   - shell
   - hexdump
   - 密码学
+  - QQ
 katex: false
 comments: true
 aside: true
 date: 2022-02-22 19:49:20
-cover: https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3C6Jb8KS5azUplh/root/content
+cover: https://www.helloimg.com/images/2022/02/26/GVRlgX.png
 top_img:
 ---
 
@@ -27,7 +28,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-26 00:47:00
+ * @LastEditTime: 2022-02-26 17:40:40
  * @FilePath: \Blog-private\source\_posts\Web\get-resources.md
  * @Description:
  * @!: *********************************************************************
@@ -47,7 +48,8 @@ top_img:
     - [解密-合并](#解密-合并)
   - [获取](#获取)
     - [视频](#视频)
-    - [图片](#图片)
+    - [网页图片](#网页图片)
+    - [QQ-群图片](#qq-群图片)
   - [参照](#参照)
 ```
 
@@ -83,7 +85,7 @@ top_img:
 
   执行完会出来下面这些东西,这些 ts 文件就是分成片的小段视频,此处没加密可以直接播放
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3nNBfvmQk_z4d7D/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVRd0R.png)
 
   有些播放器支持的话 index.m3u8 也是可以播放的, 其实就是引用的这些 ts
 
@@ -94,7 +96,7 @@ top_img:
   > - TS: MPEG2-Transport Stream,高清相机拍摄视频的封装格式;特点就是要求从视频流的任一片段开始都是可以独立解码的
   > - m3u8: HTTP Live Streaming（HLS） 协议格式的基础,Unicode 版本的 M3U，此文件用 UTF-8 编码<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup> \
   >   下图 index 就是 m3u8,作用就是索引 ts
-  >   ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3jqreN_092DAl5k/root/content)
+  >   ![](https://www.helloimg.com/images/2022/02/26/GVRc4n.png)
 
   ***
 
@@ -145,8 +147,8 @@ top_img:
 
 1. 把 .m3u8 文件伪装成 .mp4, 可以让大部分没有伪装识别能力的爬虫找不着北 (比如 CoCocut)
 
-   ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3I0hRWBARzrYioc/root/content)
-   ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3Uo0eTjPcPV0l6L/root/content)
+   ![](https://www.helloimg.com/images/2022/02/26/GVRSwv.png)
+   ![](https://www.helloimg.com/images/2022/02/26/GVRTHM.png)
 
 2. m3u8 中多层嵌套 m3u8 (套娃), 有些爬虫是支持的, 有的 G 了
 
@@ -170,7 +172,7 @@ top_img:
 
 原创哦,转载请标记
 
-![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi36GoDl5zNuvh7zf/root/content)
+![](https://www.helloimg.com/images/2022/02/26/GVRvhz.png)
 
 ---
 
@@ -233,7 +235,7 @@ mv $workPath/index_new.m3u8 $workPath/index.m3u8
 
 - 如图,加密后的 ts 就不能直接播放了
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3-R1zomDhPZMMnK/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVRzam.png)
 
 ---
 
@@ -361,9 +363,9 @@ done
 ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec copy -f mp4 $outputPath/combine.mp4
 ```
 
-- 如图 dec\_\*.ts 为解密后的文件,可以直接播放了
+- 如图 `dec_*.ts` 为解密后的文件,可以直接播放了
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYjADPzqkz9UlN9kIM/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVR0xA.png)
 
   可以看项目中的 `5.`, 合并后的 mp4 也没有问题
 
@@ -386,7 +388,7 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 
 ---
 
-### 图片
+### 网页图片
 
 下面两个差不多,都是把页面现有的图片都扒下来, `按域名分类`,很容易筛选出来
 
@@ -395,7 +397,25 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 > 梦想资源下载器
 
 > 网页右键另存为
-> ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi2040yjiZvLETkkO/root/content)
+> ![](https://www.helloimg.com/images/2022/02/26/GVRbW9.png)
+
+### QQ-群图片
+
+经常有老哥在群里发图,苦于一张张保存手抽筋,发现了此方法:
+
+1. 打开电脑版消息管理器,找到那些聊天记录
+
+   ![](https://www.helloimg.com/images/2022/02/26/GVRQg0.png)
+
+2. 选择,复制
+
+   ![](https://www.helloimg.com/images/2022/02/26/GVRN95.png)
+
+3. 发送给 `我的手机`
+
+   ![](https://www.helloimg.com/images/2022/02/26/GVR7Hh.png)
+
+4. 然后就无了, 这手段对于保存好几十/上百张图十分便利
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

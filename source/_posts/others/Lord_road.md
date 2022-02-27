@@ -5,7 +5,7 @@ password: ""
 tags:
   - 备忘录
   - 成长路线
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/jor1XfaHz9CQDcB.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3mOr.png
 top_img:
 ---
 

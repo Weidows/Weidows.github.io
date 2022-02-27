@@ -5,7 +5,7 @@ password: ""
 tags:
   - Java
   - 编码
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/iIfQXvTEkuFobNr.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3P1z.png
 top_img:
 ---
 

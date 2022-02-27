@@ -3,7 +3,7 @@ title: MOOC浙大翁凯教授Java第六章狐狸与兔子源代码
 date: 2020-08-23 20:54:56
 password: ""
 tags: Java
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/1644492296776.png
+cover: https://www.helloimg.com/images/2022/02/27/GVmRzE.png
 ---
 
 <!--

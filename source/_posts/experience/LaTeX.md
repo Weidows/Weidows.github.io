@@ -5,7 +5,7 @@ tags:
   - LaTeX
 katex: true
 date: 2021-06-25 13:32:41
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/pS96DOBEjeAaP1d.png
+cover: https://www.helloimg.com/images/2022/02/27/GVLsV9.png
 top_img:
 ---
 
@@ -38,7 +38,7 @@ top_img:
 
 - 一图胜千言:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/DELkPfgJMOXjZUI.png" alt="分类" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV43eD.png" alt="分类" />
 
   TeX 生态的名词简直太 ☘ 了,翻阅了很多中英文文档/社区整理了这个图,差不多可以总结 TeX 生态常见/常用的引擎和发行软件.
 
@@ -190,17 +190,17 @@ top_img:
 
 - 展示:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/JqWuNUzkIE9eAYy.png" alt="20210626214236" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAXjA.png" alt="20210626214236" />
 
 ## 公式渲染
 
 - 在写 markdown 文章时可能不会注意到这个问题,因为大多数编辑器支持公式渲染 (比如 VScode 预览、CSDN 在线编辑等等),如下图 VScode 内置的 markdown 预览:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/FX3OPTEIflcHWCp.png" alt="20210626224156" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4NPc.png" alt="20210626224156" />
 
 - 但是同样的问题挪到博客上就 GG 了,上面的公式不加处理显示成这样
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/CYU59j1qGO4Fits.png" alt="20210626224035" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4oB1.png" alt="20210626224035" />
 
 ---
 

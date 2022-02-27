@@ -6,7 +6,7 @@ tags:
   - JavaScript
   - 笔记
   - JQuery
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/qg3OyNzScKB5aHh.png
+cover: https://www.helloimg.com/images/2022/02/27/GVLMmz.png
 top_img:
 ---
 
@@ -100,7 +100,7 @@ $(".class1").click;
 
 - 鼠标事件
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/DalS38jyRX9wT6V.png" alt="20210126224938" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4FsK.png" alt="20210126224938" />
 
 - 案例
 
@@ -145,7 +145,7 @@ $(".class1").click;
 
 - 展示
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/ZeyS3BvOJYs7ouR.png" alt="20210127000346" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GViWIh.png" alt="20210127000346" />
 
 ---
 

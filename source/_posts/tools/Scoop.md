@@ -8,7 +8,7 @@ tags:
   - package
   - 工具
   - 推荐
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/vJbmzfMU231dDlq.png
+cover: https://www.helloimg.com/images/2022/02/27/GVSXT0.png
 top_img:
 ---
 
@@ -104,7 +104,7 @@ top_img:
 
 - 配置好了如下
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/WEtuLNerT8dw6Jk.png" alt="20210115232840" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSttT.png" alt="20210115232840" />
 
 - 安装
 
@@ -166,7 +166,7 @@ top_img:
 
   - 设置完环境变量后一定要`重启`,否则不会生效,还是跟没设置一样.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210314001245.png" alt="20210314001245" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVsWIn.png" alt="20210314001245" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -219,7 +219,7 @@ top_img:
 - 他把当前版本的目录创建了一个`伪目录:current`,这个伪目录指向当前版本号的目录
 - 比如这里的`current/node.exe`实际上指向`15.5.1/node.exe`
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/Syi1kKHYwTVMuaL.png" alt="20210115011742" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVL62D.png" alt="20210115011742" />
 
 - 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
 - 这个功能太赞了!

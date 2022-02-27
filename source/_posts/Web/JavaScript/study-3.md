@@ -5,7 +5,7 @@ password: ""
 tags:
   - JavaScript
   - 笔记
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/lu7MVrgdPExk6Rc.png
+cover: https://www.helloimg.com/images/2022/02/27/GVAvuE.png
 top_img:
 ---
 
@@ -98,7 +98,7 @@ console.log(log_time.toUTCString()); //  Wed, 20 Jan 2021 13:19:06 GMT
 
 - 目前网络数据传输最主要格式.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/cOoznNlKMv7yLd6.png" alt="20210120222429" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4Gir.png" alt="20210120222429" />
 
 - Json 的使用
 
@@ -218,7 +218,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
   - 原型链结构
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/KwIm1Ac7azCg9jO.png" alt="20210120233527" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAHEb.png" alt="20210120233527" />
 
 ---
 
@@ -230,7 +230,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 - 这个对象代表浏览器窗口
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/7ZRyrIQuXA4vxzL.png" alt="20210120234923" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVPiRg.png" alt="20210120234923" />
 
 ---
 
@@ -240,7 +240,7 @@ console.log(xiaohong); //  XiaoStudent { name: 'xiaohong', grade: 1 }
 
 - 可用来判断平台和浏览器信息,但是不建议使用,这个信息<u>可被修改/伪造.</u>
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/zQsycWFrXZjeMxH.png" alt="20210120235844" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVi7lD.png" alt="20210120235844" />
 
 ---
 
@@ -260,7 +260,7 @@ screen.height; // 1080
 - location 代表当前页面的 URL 信息
 - 重要,常用!
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/15STonbQRlxi9O8.png" alt="20210121000604" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVPI3K.png" alt="20210121000604" />
 
 ---
 
@@ -287,7 +287,7 @@ screen.height; // 1080
 
 - 获取 cookie
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/uN3HXrPyiwJT9Cn.png" alt="20210121101945" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSGnP.png" alt="20210121101945" />
 
   - 劫持 cookie
     - 通过获取 cookie 就可以在另一台机器上在不输密码的情况下登录
@@ -519,7 +519,7 @@ var children = app.children;
 
 - 效果
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/q1wYRTn6A79a4OV.png" alt="20210124093813" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLJmE.png" alt="20210124093813" />
 
 ---
 
@@ -585,6 +585,6 @@ var children = app.children;
 
 - 效果
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/UcpDzOe1ZEWKHN6.png" alt="20210126211616" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVS5Kg.png" alt="20210126211616" />
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/YG9AhCemrpuPsxi.png" alt="20210126211801" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSNPg.png" alt="20210126211801" />

@@ -5,7 +5,7 @@ password: ""
 tags:
   - 音乐
   - 哲学
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/FW48e5VR3BOgvca.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVaTBC.png
 top_img:
 ---
 
@@ -62,11 +62,11 @@ top_img:
 
   - 看这张图,字符连接`很灵性`,就像是曲子,每个字与前后的字都有联系,连接紧密性低的话就会略失美感
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/YMu816jCtNh5UIW.png" alt="code" />
+    <img src="https://www.helloimg.com/images/2022/02/27/GVSpDP.png" alt="code" />
 
   - 再如这一张
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/GxebVvLDoCl1jIU.png" alt="code" />
+    <img src="https://www.helloimg.com/images/2022/02/27/GV46hb.png" alt="code" />
 
 ---
 

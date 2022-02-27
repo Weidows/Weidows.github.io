@@ -8,7 +8,7 @@ tags:
   - Website
   - Node.Js
   - npm
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/kMeomhHj91xn6T2.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3iZo.png
 ---
 
 <!--
@@ -180,7 +180,7 @@ hexo new page link
   ```
 - 然后就可以一键使用了.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/CP6l7n1HmQ3uKaU.png" alt="20201205150401" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVty2h.png" alt="20201205150401" />
 
 ---
 

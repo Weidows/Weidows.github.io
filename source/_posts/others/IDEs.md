@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - 推荐
 date: 2021-03-02 21:53:04
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302215748.png
+cover: https://www.helloimg.com/images/2022/02/27/GVm9wo.png
 top_img:
 ---
 
@@ -124,23 +124,23 @@ top_img:
 
 - 安装,汉化,之后搜下面的插件,两个都非常不错,个人更推荐第二个
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302223844.png" alt="20210302223844" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmvWC.png" alt="20210302223844" />
 
   ***
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224003.png" alt="20210302224003" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmNPt.png" alt="20210302224003" />
 
 - 然后随便打开一个.html 文件,按照文档使用就好了
 
   - 比如我用的第二款,右键菜单就可以直接打开网页服务器
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224353.png" alt="20210302224353" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmQnu.png" alt="20210302224353" />
 
 - 效果如下
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224509.png" alt="20210302224509" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmp7v.png" alt="20210302224509" />
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302224806.png" alt="20210302224806" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmDtY.png" alt="20210302224806" />
 
 ---
 
@@ -150,11 +150,11 @@ top_img:
 
   - 有什么浏览器点什么就好
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302225318.png" alt="20210302225318" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmggP.png" alt="20210302225318" />
 
 - 效果
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302225450.png" alt="20210302225450" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmIw9.png" alt="20210302225450" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -162,11 +162,11 @@ top_img:
 
 - 废话不多说,先展示下我写博客时的样子
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302220625.png" alt="20210302220625" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVmwUQ.png" alt="20210302220625" />
 
   - VScode 与 IDEA 原生支持读写 markdown 文件,而且支持都很不错
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210302221020.png" alt="20210302221020" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVm7CE.png" alt="20210302221020" />
 
   ***
 

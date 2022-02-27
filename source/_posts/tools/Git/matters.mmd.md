@@ -10,7 +10,7 @@ tags:
   - branch
   - release
   - pages
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/JUkiZVF8s3ne1fz.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3AlK.png
 top_img:
 ---
 
@@ -283,13 +283,13 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 
   出乎意料,旧的提交并没有消失; 可以看到强推 `重构` 前面有一个断档,那之前的就是旧提交
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/u7LGbXWSoVExcNm.png" alt="20211102134046" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLue9.png" alt="20211102134046" />
 
   ***
 
 - 为什么出现这情况? 我给画了个图
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bfclOgwDjq6ZoM3.png" alt="20211102144127" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVt8KP.png" alt="20211102144127" />
 
   所以,原因是没删除 github 上的 tags,删掉就没了捏
 
@@ -317,7 +317,7 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 
 ### License 选择
 
-![License](https://cdn.jsdelivr.net/gh/Weidows/Images/post/46lbZztfLjkM2n7.jpg)
+![License](https://www.helloimg.com/images/2022/02/27/GVao5P.png)
 
 一般盲怼 `MIT` 就好,不过上图没给出
 
@@ -346,7 +346,7 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 
 #### checkout
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bPekAW2iuNHrd7D.png" alt="20211124165145" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVtV5z.png" alt="20211124165145" />
 
 - checkout 默认下只会检出默认分支,不会 clone submodules,可以设置自定义
 

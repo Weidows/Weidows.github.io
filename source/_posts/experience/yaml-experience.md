@@ -4,7 +4,7 @@ date: 2020-09-03 18:20:56
 password: ""
 tags:
   - yaml
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/rJLfcmTERGvAti4.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVEVrP.png
 ---
 
 <!--

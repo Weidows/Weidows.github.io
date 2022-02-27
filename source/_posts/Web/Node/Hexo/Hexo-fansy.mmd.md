@@ -8,7 +8,7 @@ tags:
   - Website
   - Markdown
   - HTML
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/grPxjQIqvA8mWtT.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVaOYu.png
 ---
 
 <!--

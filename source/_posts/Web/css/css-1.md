@@ -5,7 +5,7 @@ password: ""
 tags:
   - CSS
   - 笔记
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/2WiEbNR47TznHcC.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVPRET.png
 top_img:
 ---
 
@@ -552,7 +552,7 @@ body > p {
 
 ### 盒子模型
 
-![RaeLiJknrlFpfYQ](https://cdn.jsdelivr.net/gh/Weidows/Images/post/D94Uxjch8gsEJAm.jpg)
+![RaeLiJknrlFpfYQ](https://www.helloimg.com/images/2022/02/27/GVaJph.png)
 
 ### 圆角边框
 
@@ -588,8 +588,8 @@ body > p {
 
 - 效果图
 
-  ![coJYANqxg8vXuM2](https://cdn.jsdelivr.net/gh/Weidows/Images/post/PV6nfAx3vTCarDc.jpg)
-  ![NniKVFIq9AuBhts](https://cdn.jsdelivr.net/gh/Weidows/Images/post/v7gMKXbcIkBi4wF.jpg)
+  ![coJYANqxg8vXuM2](https://www.helloimg.com/images/2022/02/27/GVE6RE.png)
+  ![NniKVFIq9AuBhts](https://www.helloimg.com/images/2022/02/27/GVJJJD.png)
 
 ---
 
@@ -623,4 +623,4 @@ body > p {
 ```
 
 - 效果图
-  ![tNEI4Mk93qx5HCv](https://cdn.jsdelivr.net/gh/Weidows/Images/post/HxtyER4QW7IJa9q.jpg)
+  ![tNEI4Mk93qx5HCv](https://www.helloimg.com/images/2022/02/27/GV3alA.png)

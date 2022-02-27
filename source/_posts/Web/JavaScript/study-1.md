@@ -5,7 +5,7 @@ password: ""
 tags:
   - JavaScript
   - 笔记
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/LUZ3oTm6ynYBGvN.png
+cover: https://www.helloimg.com/images/2022/02/27/GVAQrX.png
 top_img:
 ---
 
@@ -186,7 +186,7 @@ top_img:
 
 ## 浏览器调试
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/Q8tygmLE41kB6pX.png" alt="20201220232055" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVLL8M.png" alt="20201220232055" />
 
 - 调试 HTML 和 css 一般在 Element
 - console 控制台一般用来调试 JavaScript.

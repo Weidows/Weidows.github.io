@@ -5,7 +5,7 @@ tags:
   - Java
   - Lambda
 date: 2021-02-18 18:16:55
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/src=http___cdn.zimug.com_java-lambda-expressions-tutorial.jpg&refer=http___cdn.zimug.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVEhln.jpg
 top_img:
 ---
 
@@ -13,8 +13,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-05-22 10:52:40
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Java\lambda.md
+ * @LastEditTime: 2022-02-27 16:24:21
+ * @FilePath: \Blog-private\source\_posts\Java\lambda.md
  * @Description:
  * @!: *********************************************************************
 -->

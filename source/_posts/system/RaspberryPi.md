@@ -5,7 +5,7 @@ password: ""
 tags:
   - 树莓派
   - 服务器
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/HM1ew2iAGobaCRr.png
+cover: https://www.helloimg.com/images/2022/02/27/GV4VHQ.png
 top_img:
 ---
 
@@ -13,7 +13,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-02 18:53:46
+ * @LastEditTime: 2022-02-27 16:19:11
  * @FilePath: \Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
@@ -71,13 +71,13 @@ top_img:
 
   - 预览
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/JgR8kpoTAl4q3bZ.png" alt="20201203110651" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAZaM.png" alt="20201203110651" />
 
 - 用读卡器把树莓派系统 TF 卡插进电脑,把这两个文件复制进内存卡里名叫 `boot` 的盘符根目录里.
 - 开鸡,等会应该就会发现电脑或者手机连接上了,如下:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/g2h8LQeGz145BT6.png" alt="20201203110842" />
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/qUjClYon8P5cuZi.jpg" alt="Screenshot_20201203_112505_com.android.settings" width="50%" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4wUh.png" alt="20201203110842" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVEkEg.png" alt="Screenshot20201203112505" width="50%" />
 
 - 然后就可以用 ssh 连接这个 IP 地址了.
 
@@ -127,8 +127,8 @@ top_img:
 - 没屏幕或者没 Mini-HDMI 线时最佳方案.
 - 首先[下载 VNC 软件](https://www.realvnc.com/en/connect/download/viewer)
 - 安装后打开搜索树莓派的内网 ip,输入用户名连接
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/tiYkwdcTq2ZpQfl.png" alt="20201204103758" />
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/DINsq97UmFPJbcZ.png" alt="20201204103843" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLgiQ.png" alt="20201204103758" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4eUC.png" alt="20201204103843" />
 - OK.
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
@@ -142,8 +142,8 @@ top_img:
   ```
   > 这里不用 Neofetch 是因为树莓派 Debian8 系统的 repo 地址需要更新,安装还需要其他操作,怪麻烦~
 - 显示 Linux 系统及版本信息,如下:
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/XVzvAUq7G4tP1DO.png" alt="20201205143342" />
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/iWXJzj5U9HyoG3R.png" alt="20201203115807" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSdqY.png" alt="20201205143342" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAC9X.png" alt="20201203115807" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -264,7 +264,7 @@ sudo python3 ./strandtest.py
 
 - 在公司第一次跑起来的样子
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/NEHvdbItiS5XPsp.jpg" alt="1632587136736" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV3c6Y.png" alt="1632587136736" />
 
 ---
 

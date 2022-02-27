@@ -9,7 +9,7 @@ tags:
   - JavaScript
 katex: false
 date: 2021-07-18 09:20:22
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/NP5ztqTGecYrpiv.png
+cover: https://www.helloimg.com/images/2022/02/27/GVLCy1.png
 top_img:
 ---
 
@@ -179,11 +179,11 @@ Copilot: "明月神伤"
 
 - 虽然近日 Copilot 被喷代码抄袭,但是就功能性来讲,还是比较让人满意的
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/BscMu8oTtxhVZ2P.png" alt="20210718211454" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVtYsA.png" alt="20210718211454" />
 
 - 与之差不多的是 TabNine,TabNine 是逐行预测,而 Copilot 是按块预测
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/Hu8vR6rIlkcixpe.png" alt="20210718212117" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVABx9.png" alt="20210718212117" />
 
 - 下面二句也是 Copilot 生成的 (hhh 自卖自夸)
 

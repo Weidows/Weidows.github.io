@@ -1,7 +1,7 @@
 ---
 title: 深度病患解析
 password: ""
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225212.png
+top_img: https://www.helloimg.com/images/2022/02/27/GVtc8Q.png
 comments: true
 aside: false
 ---
@@ -33,11 +33,11 @@ aside: false
 
   - 第一种是`治疗性的药`,`无刺激性`,药效比较舒缓持久,`连续使用不超过三个月`; 价格正常 (60RMB 左右,一个月的剂量)
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225212.png" alt="20210424225212" />
+    <img src="https://www.helloimg.com/images/2022/02/27/GVtc8Q.png" alt="20210424225212" />
 
   - 第二种是辅助性用药,鼻内血管充血时可以喷一下疏通鼻腔,在用上一种药时这个药几乎没用,可以闲置,`持续用药不能超过一周`,否则出现副作用 (具体什么症状可以搜一下); 这个药便宜一些,好像是前者的一半.
 
-    <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210424225402.png" alt="20210424225402" />
+    <img src="https://www.helloimg.com/images/2022/02/27/GVt0pv.png" alt="20210424225402" />
 
   ***
 

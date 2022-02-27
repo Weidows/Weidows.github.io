@@ -6,7 +6,7 @@ tags:
   - Font
   - VScode
   - 推荐
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/Xx1sQuZiCoPKAfD.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVJsVC.png
 top_img:
 ---
 
@@ -40,7 +40,7 @@ top_img:
   ***
 
 - Operator Mono 字体
-  ![jhKmYOnMX1pecEI](https://cdn.jsdelivr.net/gh/Weidows/Images/post/NceHJmuqKvM4XUL.jpg)
+  ![jhKmYOnMX1pecEI](https://www.helloimg.com/images/2022/02/27/GV3OME.png)
 
 ## 非等宽字体
 

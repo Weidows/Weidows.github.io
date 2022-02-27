@@ -6,7 +6,7 @@ tags:
   - 成长路线
   - 备忘录
   - Deprecated
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/LAbU4pzmYKTEnOo.png
+cover: https://www.helloimg.com/images/2022/02/27/GVAbOo.png
 top_img:
 ---
 
@@ -553,7 +553,7 @@ top_img:
 ### 图灵测试
 
 > - 问题来自于 [mathpix](https://mathpix.com/) 这个官网首页,玩梗 😂
->   <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/Zz1HM8Krk69idf4.png" alt="QQ截图20210626151150" />\
+>   <img src="https://www.helloimg.com/images/2022/02/27/GViz3o.png" alt="QQ截图20210626151150" />\
 >   [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
 
 ---

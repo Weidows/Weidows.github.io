@@ -5,7 +5,7 @@ password: ""
 tags:
   - CSS
   - 备忘录
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/lsiaPmZhBq4EKg3.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3byC.png
 top_img:
 ---
 

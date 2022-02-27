@@ -5,7 +5,7 @@ password: ""
 tags:
   - Java
   - Javadoc
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/iHZCgtN4OpsuDj5.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3orR.png
 top_img:
 ---
 

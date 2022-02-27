@@ -5,7 +5,7 @@ password: ""
 tags:
   - Java
   - JVM
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/GQMENFX1sR4ubZY.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVadev.png
 ---
 
 <!--
@@ -125,6 +125,6 @@ e.getInfo();
 
 ## 深浅-clone
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/8tr6DhL5wZeK4V3.png" alt="20211220211918" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVPOM5.png" alt="20211220211918" />
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/bFRma1xAZhJWpKT.png" alt="20211220211958" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVtgin.png" alt="20211220211958" />

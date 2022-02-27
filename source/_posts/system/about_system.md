@@ -4,7 +4,7 @@ date: 2020-08-23 20:49:52
 password: ""
 tags:
   - 计算机系统
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/c4RC1zhqgl39Dp8.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVaxo0.png
 ---
 
 <!--

@@ -1,7 +1,7 @@
 ---
 title: ⭐ 程序设计大赛 ⭐
 password: ""
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/post/CCPC.png
+top_img: https://www.helloimg.com/images/2022/02/27/GV45Kc.png
 comments: true
 aside: false
 ---

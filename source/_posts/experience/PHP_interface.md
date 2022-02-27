@@ -6,7 +6,7 @@ tags:
   - 备忘录
   - PHP
   - Website
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/Dxy6jwQotKsIEX5.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVanKb.png
 ---
 
 <!--

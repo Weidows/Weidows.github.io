@@ -6,7 +6,7 @@ tags:
   - snippet
   - VScode
   - markdown
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/SuYiVEyqvkWDAB6.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVJZOh.png
 katex: false
 comments: true
 aside: true
@@ -37,7 +37,7 @@ top_img:
 
 - 首先需要打开 markdown 文件的 `quickSuggestions`,因为其默认是未开启状态
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/til5Vdxys4ocjkC.png" alt="20210131221250" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLUFC.png" alt="20210131221250" />
 
 - 在设置文件里加上以下设置
 
@@ -52,7 +52,7 @@ top_img:
 
 ## 入门代码片段
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/r19TEcwA3GxNpVk.png" alt="20210131221522" />
+<img src="https://www.helloimg.com/images/2022/02/27/GVLl5R.png" alt="20210131221522" />
 
 - 点小齿轮找到用户代码片段设置,进入设置文件,在大括号里添加自定义的代码片段,比如下面我的:
 
@@ -90,7 +90,7 @@ top_img:
 
 - 这样一个场景: 想打一个 mermaid,然后出来下面这样
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3Ry49DGM5TnLw2c/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVRDDc.gif)
 
   ***
 
@@ -107,13 +107,13 @@ top_img:
 
 - 接下来, 我们想对多个位置同时操作:
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3auZR9p8k0oDOYo/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVRWDP.png)
 
   (抱歉贴代码会报错,贴图吧)
 
   当输入 paper-footnote 后按下 tab, 所有$1 处都会出现光标,可以同时操作
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3NYf4slkNY4vz8t/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVR2Pg.png)
 
 ---
 
@@ -121,7 +121,7 @@ top_img:
 
   下面两种都是可以的,操作完$1 后再按 tab 就会跳转, 只不过$2 概念上来说是下一步位置, $0 概念上是最后位置
 
-  ![](https://api.onedrive.com/v1.0/shares/s!AlhRaqfosSZYi3fa8wev5FDFN_6M/root/content)
+  ![](https://www.helloimg.com/images/2022/02/26/GVROC6.png)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

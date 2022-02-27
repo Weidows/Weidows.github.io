@@ -5,7 +5,7 @@ password: ""
 tags:
   - JavaScript
   - 推荐
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/E5ofKbNthSv8yUn.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVabFo.png
 top_img:
 ---
 
@@ -13,8 +13,8 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 17:50:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-21 17:12:06
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\TeenagersLearning.md
+ * @LastEditTime: 2022-02-27 16:22:20
+ * @FilePath: \Blog-private\source\_posts\others\TeenagersLearning.md
  * @Description:青年大学习
 -->
 
@@ -47,10 +47,10 @@ top_img:
   ```
 
 - ### 示例:
-  ![Screenshot_20201130_175729_com.tencent.mm](https://cdn.jsdelivr.net/gh/Weidows/Images/post/z2Epsq7kAv1NB6P.jpg)
+  ![Screenshot20201130175729](https://www.helloimg.com/images/2022/02/27/GVJiZv.png)
 - ### 然后从上到下把链接点开一下(没错,`点开然后关掉`就行)
   - 第三个链接需要打开一个东西,如下:
-    ![Screenshot_20201130_184015_com.tencent.mm](https://cdn.jsdelivr.net/gh/Weidows/Images/post/UIMEakuX2x3sD1C.jpg)
+    ![Screenshot20201130184015](https://www.helloimg.com/images/2022/02/27/GVJxyo.png)
   - 如果你截图时不想让小绿格显示,在这里再关掉.
 - ### 安装完成!
 
@@ -67,7 +67,7 @@ top_img:
   ```
 
 - 示例:
-  ![Screenshot_20201130_185325_com.tencent.mm](https://cdn.jsdelivr.net/gh/Weidows/Images/post/SoapzrVJ1jsbnEQ.jpg)
+  ![Screenshot20201130185325](https://www.helloimg.com/images/2022/02/27/GVJ5LA.png)
 
 ---
 

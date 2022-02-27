@@ -11,7 +11,7 @@ tags:
   - 笔记
   - Website
 date: 2021-03-25 10:39:26
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210325113158.png
+cover: https://www.helloimg.com/images/2022/02/27/GVtCuY.png
 top_img:
 ---
 
@@ -50,7 +50,7 @@ top_img:
 
 - 在侧边栏右键,常用命令都有
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309155951.png" alt="20210309155951" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVsEkC.png" alt="20210309155951" />
 
 - 测试
 
@@ -73,7 +73,7 @@ top_img:
 
   - 打开对应页面会有如下显示
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309160418.png" alt="20210309160418" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVssbt.png" alt="20210309160418" />
 
 - `ROOT/`里面放的文件与浏览器 URL 相对应
 
@@ -89,11 +89,11 @@ top_img:
 
 - 推荐直接用 IDEA 创建 web 项目 (不用再导入 Servlet 包)
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210323233425.png" alt="20210323233425" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVskJo.png" alt="20210323233425" />
 
 - 然后创建 `webapp` 子模块,在`source/main/`下再新建两个目录(java 和 resources),结构如下
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210323112637.png" alt="20210323112637" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVsf3C.png" alt="20210323112637" />
 
 - `JavaWeb\src\main\webapp\WEB-INF\web.xml` 是 web 项目核心应用
 
@@ -107,13 +107,13 @@ top_img:
 
   - 点'+'找到 Tomcat Server 并配置,如图
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210325110519.png" alt="20210325110519" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVt5Lv.png" alt="20210325110519" />
 
 - 现在 IDEA 已经认识 Tomcat 了,但还需要配置部署,否则 Tomcat 不知道运行哪里
 
   - 这些工件就是这个项目用 Maven 构建之后产生的
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210325110722.png" alt="20210325110722" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVsyRu.png" alt="20210325110722" />
 
 - 现在配置好了之后,IDEA 会自动完成项目`构建->部署->打开网页` (VScode 的话也可以手动做到)
 
@@ -155,7 +155,7 @@ top_img:
 
 - 然后修改 host,实现代理,如下图第二行即为需要添加的
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309161039.png" alt="20210309161039" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVsLAE.png" alt="20210309161039" />
 
   - 含义就是: `在访问右边的主机时,将它指向左边的地址`
 
@@ -167,7 +167,7 @@ top_img:
 
   - 结构如下图
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210309163300.png" alt="20210309163300" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVsAGv.png" alt="20210309163300" />
 
 ---
 
@@ -179,7 +179,7 @@ top_img:
 
 - 最后附一张图,根据序号来看,条理比较清晰.
 
-  > <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210322100531.png" alt="20210322100531" />
+  > <img src="https://www.helloimg.com/images/2022/02/27/GVs8L1.png" alt="20210322100531" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -195,7 +195,7 @@ top_img:
 
 - 另一种方法: 把终端显示设置为 UTF-8
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20210330125008.png" alt="20210330125008" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVteSR.png" alt="20210330125008" />
 
 ---
 

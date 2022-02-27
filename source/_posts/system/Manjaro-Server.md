@@ -7,7 +7,7 @@ tags:
   - 计算机系统
   - 服务器
   - 虚拟机
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/YqH4ru9kGy5UdLt.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVJAMt.png
 top_img:
 ---
 

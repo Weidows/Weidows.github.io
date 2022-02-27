@@ -5,7 +5,7 @@ password: ""
 tags:
   - IDEA
   - Maven
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/UD8HeIc94LVai2v.png
+cover: https://www.helloimg.com/images/2022/02/27/GVSCFM.png
 top_img:
 ---
 
@@ -124,4 +124,4 @@ top_img:
 
 - IDEA 是自带捆绑 Maven 的,因为上面原因,我们使用 Scoop 又安装了一个,所以需要在 IDEA 里修改下设置
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/rkegM7GmIxwKtyT.png" alt="20210128033817" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLTY5.png" alt="20210128033817" />

@@ -14,16 +14,16 @@ aside: true
  * @Author: Weidows
  * @Date: 2020-11-27 22:47:37
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 03:10:01
+ * @LastEditTime: 2022-02-27 02:49:56
  * @FilePath: \Blog-private\source\artitalk\index.md
  * @Description:
 -->
 
 <div class="gallery-group-main">
 
-{% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://cdn.jsdelivr.net/gh/Weidows/Images/post/77.jpeg %}
+{% galleryGroup LeanCloud站 基于LeanCloud对象数据存储的说说页面. artitalk/older_artitalk https://www.helloimg.com/images/2022/02/27/GVmCou.png %}
 
-{% galleryGroup Hpp站[Deprecated] 基于hexo-plus-plus+CloudFlare的说说页面. artitalk/hpp https://cdn.jsdelivr.net/gh/Weidows/Images/post/v2-38975d2f56f68f172db0fe611c1bb6f5_720w.jpg %}
+{% galleryGroup Hpp站[Deprecated] 基于hexo-plus-plus+CloudFlare的说说页面. artitalk/hpp https://www.helloimg.com/images/2022/02/27/GVJeLK.jpg %}
 
 </div>
 

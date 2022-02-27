@@ -10,7 +10,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-08-17 17:29:17
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/RcB8NyxtfTkGDde.png
+cover: https://www.helloimg.com/images/2022/02/27/GVL2dA.png
 top_img:
 ---
 
@@ -170,7 +170,7 @@ top_img:
 
 - 这个情况大多是配置属性没写对,重点看一下标记的地方
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/MJChF9w2mufaBtj.png" alt="20210925193945" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAKQR.png" alt="20210925193945" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -188,15 +188,15 @@ top_img:
 
   于是之前我一直是找到响应->复制->粘贴到 vscode 格式化
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/n8bTu926i3eXmfh.png" alt="20211015130205" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAj6c.png" alt="20211015130205" />
 
 - 偶然发现有个更方便的手段: 浏览器`前端助手插件`
 
   安装后直接双击请求,跳出的新页面就是已经格式化好的
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/axDBtA1YhiFylob.png" alt="20211015130109" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVtIXg.png" alt="20211015130109" />
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/Zb92EoeCIJ37zLg.png" alt="20211015130815" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVS6hz.png" alt="20211015130815" />
 
 ---
 
@@ -206,7 +206,7 @@ top_img:
 
   解决办法呢,比如下面的三个表
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/lOuosRBpgCkGJWV.png" alt="20211204085119" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVA0EY.png" alt="20211204085119" />
 
   先把 player 和 technology 两个表创建好,再创建 good_at 就不会报错了
 

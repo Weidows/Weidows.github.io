@@ -4,7 +4,7 @@ date: 2021-01-31 00:08:20
 password: ""
 tags:
   - Docker
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/GYBrOKiMjNlC3ap.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVawKY.png
 top_img:
 ---
 
@@ -50,11 +50,11 @@ top_img:
 
 - 初探尝试安装时出现下面好几个选择,于是搜了搜~
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/jhuS34tCPsd8qzO.png" alt="20210131002505" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVA30z.png" alt="20210131002505" />
 
 - 找到 docker 家族有几个特殊的工具`docker-Dockerfile`, `docker-compose`, `docker-machine`
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/ylYzZV2vthOpcsW.png" alt="20210131004332" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSvW9.png" alt="20210131004332" />
 
 ---
 
@@ -247,7 +247,7 @@ top_img:
 
 #### Windows
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/wG1JgIPTof5yN6b.png" alt="20210205010825" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVS4w1.png" alt="20210205010825" />
 
 ---
 
@@ -309,7 +309,7 @@ top_img:
 
 - 安装 docker 插件,就可以享受比较方便的可视化了(个人非常喜欢这种方式)
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/AF6QcV3elqXPR2t.png" alt="20210206153528" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVt7YX.png" alt="20210206153528" />
 
 - 另外再安装`Resource Monitor`这个插件可以监控远程机资源消耗(如上图最下方)
 

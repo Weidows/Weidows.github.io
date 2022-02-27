@@ -10,7 +10,7 @@ katex: false
 comments: true
 aside: true
 date: 2021-07-29 14:11:07
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/3nziTa5eU1CN9bG.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVPokK.png
 top_img:
 ---
 
@@ -63,7 +63,7 @@ top_img:
 
 - 问题就是这里的"源代码管理"无法显示出来
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/L8rqen43hGBOoyF.png" alt="20220125012150" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAlkD.png" alt="20220125012150" />
 
   经各路探索 (改配置/清空数据重装...etc), 发现此问题只局限在我的某个项目,而且即使 fully restore 问题尚在
 
@@ -71,7 +71,7 @@ top_img:
 
 - 所以我认为这个问题存在于 vscode 可以同步的数据中
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/WzhfPclbnYUg4R9.png" alt="20220125012636" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSbPS.png" alt="20220125012636" />
 
   那么,凶手比较明显了: `UI状态`
 

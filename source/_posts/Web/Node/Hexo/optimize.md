@@ -7,7 +7,7 @@ tags:
   - 优化
   - Website
   - 魔改
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/inlt356CXhAOExo.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3qNh.png
 top_img:
 ---
 
@@ -92,7 +92,7 @@ top_img:
 
   - 注意这个网站转换成的 styl 有很多 bug(包括缩进和括号,需要人工检验)
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/2C7cgeEIQNr3qLu.png" alt="20210207134449" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVFlgb.png" alt="20210207134449" />
 
 - 包括原先`source/css/_global/function.styl`之类的内添加或修改的样式,也可以转入 mine.styl.
 

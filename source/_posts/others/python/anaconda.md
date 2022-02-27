@@ -5,7 +5,7 @@ tags:
   - Anaconda
   - Python
 date: 2021-05-20 09:05:02
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/jJcYbf6mIBnFwlM.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GV3JJq.png
 top_img:
 ---
 
@@ -67,7 +67,7 @@ top_img:
 
   anaconda 会把 scoop 里的环境识别为两个 (但实际上就一个)
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/X7dTaEoHmbr6W29.png" alt="20211002190135" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSnUD.png" alt="20211002190135" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -84,7 +84,7 @@ top_img:
 
 - 安装后开始菜单会出来这么几个东西:
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/huxAGIKqRzfLw1B.png" alt="20210520093618" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4hCu.png" alt="20210520093618" />
 
   第一个就是 anaconda 主体;二三是终端,不用管它;四和六是附带的第三方软件.
 
@@ -92,7 +92,7 @@ top_img:
 
 - 点第一个,会弹出几次黑框,然后出现下面面板就没问题了.
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/gjLsbtl8XuP2Dxi.png" alt="20210520094007" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GV4D41.png" alt="20210520094007" />
 
 - 报错,无法打开:
 
@@ -118,7 +118,7 @@ top_img:
 
 - 通过 navigator 添加进设置,或者直接修改 ~/.condarc
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/LRMdx5KAIEvGpkg.png" alt="20210520095331" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAdNv.png" alt="20210520095331" />
 
 - <details>
 
@@ -231,7 +231,7 @@ top_img:
 
 - 测试 (以下图方式进入 `Open with python`) :
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/T1Q6di82UE3sKV7.png" alt="20210520190432" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVL8KS.png" alt="20210520190432" />
 
   测试下方命令就可以了
 
@@ -354,11 +354,11 @@ top_img:
 
 - CUDA: on,可以看到 python 调用了 `CPU+GPU`
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/kPiAlhCcUYmWZwd.png" alt="20210521102521" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAAGr.png" alt="20210521102521" />
 
 - 深度学习项目吃显存好离谱啊!
 
-  <img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/mB2WXqxHsfRIwaJ.png" alt="20210521104118" />
+  <img src="https://www.helloimg.com/images/2022/02/27/GVA6R6.png" alt="20210521104118" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

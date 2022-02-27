@@ -5,7 +5,7 @@ password: ""
 tags:
   - JavaScript
   - 笔记
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/tifKj6dA92BVezU.png
+cover: https://www.helloimg.com/images/2022/02/27/GVLkzt.png
 top_img:
 ---
 

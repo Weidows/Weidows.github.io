@@ -7,7 +7,7 @@ tags:
   - Hexo
   - Website
   - Github
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/ZN45JO19SVRihG8.png
+cover: https://www.helloimg.com/images/2022/02/27/GViORc.png
 ---
 
 <!--
@@ -48,9 +48,9 @@ cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/ZN45JO19SVRihG8.png
 ## 开启
 
 - `Gitee`
-  ![20201122112033](https://cdn.jsdelivr.net/gh/Weidows/Images/post/dpIgQvz93ltRCPD.jpg)
+  ![20201122112033](https://www.helloimg.com/images/2022/02/27/GVaAYT.png)
 - `Github`
-  ![20201122112109](https://cdn.jsdelivr.net/gh/Weidows/Images/post/Ep8oz6eMxPadQ3s.jpg)
+  ![20201122112109](https://www.helloimg.com/images/2022/02/27/GValiD.png)
 
 ---
 

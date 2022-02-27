@@ -8,7 +8,7 @@ tags:
   - Linux
   - 计算机系统
   - 宝塔面板
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/gTyr4jImCiDKYfx.jpg
+cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
 ---
 
 # 一些常用终端命令.
