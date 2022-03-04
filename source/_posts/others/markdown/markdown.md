@@ -14,35 +14,43 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-15 17:30:20
+ * @LastEditTime: 2022-03-04 21:59:00
  * @FilePath: \Blog-private\source\_posts\others\markdown\markdown.md
  * @Description:
 -->
 
-1. [注意点](#注意点)
-2. [基本的](#基本的)
-3. [新奇写法](#新奇写法)
-   1. [`![]()`](#)
-   2. [`[]: URL`](#-url)
-   3. [对话](#对话)
-   4. [引用+条目](#引用条目)
-   5. [多行引用](#多行引用)
-   6. [巨号字体](#巨号字体)
-4. [文字样式](#文字样式)
-5. [HTML 标签](#html-标签)
-   1. [收缩框](#收缩框)
-   2. [下划线](#下划线)
-   3. [键盘样式](#键盘样式)
-   4. [文字遮盖](#文字遮盖)
-   5. [论文脚注](#论文脚注)
-   6. [中英文切换](#中英文切换)
-6. [参考](#参考)
+# Markdown 中一些新奇写法.
+
+```pullquote mindmap mindmap-md
+- [Markdown 中一些新奇写法.](#markdown-中一些新奇写法)
+  - [注意点](#注意点)
+  - [基本的](#基本的)
+  - [新奇写法](#新奇写法)
+    - [`![]()`](#)
+    - [`[]: URL`](#-url)
+    - [对话](#对话)
+    - [引用+条目](#引用条目)
+    - [多行引用](#多行引用)
+    - [巨号字体](#巨号字体)
+  - [文字样式](#文字样式)
+  - [HTML 标签](#html-标签)
+    - [收缩框](#收缩框)
+    - [下划线](#下划线)
+    - [键盘样式](#键盘样式)
+    - [文字遮盖](#文字遮盖)
+    - [论文脚注](#论文脚注)
+    - [中英文切换](#中英文切换)
+    - [参考](#参考)
+    - [markdown-表格内换行](#markdown-表格内换行)
+```
 
 ## 注意点
 
 1. markdown 文件写的超过 1K 行后,每次格式化/页面加载的性能损耗是恐怖的,而且不利于观看,所以尽量控制 markdown 行数别太多 (我是超过 500~600 行会分页)
 
 2. 不同平台对 markdown 渲染不同,有可能会产生格式不对称问题. (例如 GitHub / Gitee / CSDN 对 README 渲染就不一样)
+
+3. 严格统一格式,不然以后重构时复杂度极其之高,甚至比写的时候还难; `食之无味,弃之可惜`
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -385,12 +393,23 @@ top_img:
   </div>
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+---
 
-## 参考
+### 参考
 
 <a name="cite_note-01" href="#cite_ref-01">[1]</a>：`<a name="cite_note-01" href="#cite_ref-01">[1]</a>` (测试)
 
 <a name="cite_note-02" href="#cite_ref-02">[2]</a>：`<a name="cite_note-02" href="#cite_ref-02">[2]</a>` (测试)
 
 <a name='cite_note-03' href='#cite_ref-03'>[3]</a>: https://raw.githubusercontent.com/jerryc127/hexo-theme-butterfly/dev/README.md
+
+---
+
+### markdown-表格内换行
+
+- 找了很多办法来实现换行,后来发现实现原理简单粗暴: `<br>`
+
+  | 列 1             | 列 2             | 列 3             |
+  | ---------------- | ---------------- | ---------------- |
+  | 列 1 <br> 列 1.1 | 列 2 <br> 列 2.1 | 列 3 <br> 列 3.1 |
+  | 列 1 <br> 列 1.2 | 列 2 <br> 列 2.2 | 列 3 <br> 列 3.2 |

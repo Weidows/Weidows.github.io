@@ -9,44 +9,49 @@ cover: https://www.helloimg.com/images/2022/02/27/GVSeUm.png
 top_img:
 ---
 
+# Windows 中一些奇奇怪怪逸事.
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-26 19:51:04
+ * @LastEditTime: 2022-03-04 16:34:07
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [窗口逸出](#窗口逸出)
-  - [解决方案](#解决方案)
-- [终端](#终端)
-  - [打开方式](#打开方式)
-    - [方法一](#方法一)
-    - [方法二](#方法二)
-    - [方法三](#方法三)
-  - [切换路径](#切换路径)
-- [压缩包内容异常](#压缩包内容异常)
-- [office](#office)
-  - [diff-office2019-office365](#diff-office2019-office365)
-  - [网页版 office](#网页版-office)
-  - [举栗](#举栗)
-  - [推荐文章](#推荐文章)
-- [各种路径](#各种路径)
-- [颜色配置](#颜色配置)
-  - [NVIDIA](#nvidia)
-  - [AMD](#amd)
-- [虚拟机代理不通](#虚拟机代理不通)
-- [数据迁移](#数据迁移)
-- [OneDrive](#onedrive)
-  - [打不开](#打不开)
-  - [硬盘错误](#硬盘错误)
-- [声音配置](#声音配置)
-  - [驱动](#驱动)
-  - [酷狗](#酷狗)
-  - [系统设置](#系统设置)
+```pullquote mindmap mindmap-md
+- [Windows 中一些奇奇怪怪逸事.](#windows-中一些奇奇怪怪逸事)
+  - [窗口逸出](#窗口逸出)
+  - [终端](#终端)
+    - [打开方式](#打开方式)
+      - [方法一](#方法一)
+      - [方法二](#方法二)
+      - [方法三](#方法三)
+    - [切换路径](#切换路径)
+  - [压缩包内容异常](#压缩包内容异常)
+  - [office](#office)
+    - [diff-office2019-office365](#diff-office2019-office365)
+    - [网页版 office](#网页版-office)
+    - [举栗](#举栗)
+    - [推荐文章](#推荐文章)
+  - [各种路径](#各种路径)
+  - [颜色配置](#颜色配置)
+    - [NVIDIA](#nvidia)
+    - [AMD](#amd)
+  - [虚拟机代理不通](#虚拟机代理不通)
+  - [数据迁移](#数据迁移)
+  - [OneDrive](#onedrive)
+    - [打不开](#打不开)
+    - [硬盘错误](#硬盘错误)
+  - [声音配置](#声音配置)
+    - [驱动](#驱动)
+    - [酷狗](#酷狗)
+    - [系统设置](#系统设置)
+  - [windows-防火墙通知](#windows-防火墙通知)
+```
 
 ## 窗口逸出
 
@@ -54,13 +59,15 @@ top_img:
 
 - 于是,在不装副屏时,那些窗口打开时还是在那个位置,而且摸不到他们没法拖过来...
 
-### 解决方案
+- 解决方案
 
-- <kbd>alt</kbd> + <kbd>Tab</kbd> 切换到那个窗口.
+  1. <kbd>alt</kbd> + <kbd>Tab</kbd> 切换到那个窗口.
 
-- <kbd>alt</kbd> + <kbd>space</kbd> 切出窗口菜单,选择最大化
+  2. <kbd>alt</kbd> + <kbd>space</kbd> 切出窗口菜单,选择最大化
 
-- => `解决`!
+  3. => `解决`!
+
+---
 
 ## 终端
 
@@ -184,17 +191,11 @@ top_img:
 
 ## 各种路径
 
-- 字体
-
-  - `~\AppData\Local\Microsoft\Windows\Fonts`
-
-- 壁纸/主题
-
-  - `~\AppData\Local\Microsoft\Windows\Themes`
-
-- 开始菜单
-
-  - `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
+|   名称    |                          路径                          |
+| :-------: | :----------------------------------------------------: |
+|   字体    |       `~\AppData\Local\Microsoft\Windows\Fonts`        |
+| 壁纸/主题 |       `~\AppData\Local\Microsoft\Windows\Themes`       |
+| 开始菜单  | `C:\ProgramData\Microsoft\Windows\Start Menu\Programs` |
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -262,6 +263,8 @@ LSP mode : on
 
   在电脑上压缩后复制到手机,然后手机解压就可以获取到这种怪名文件了.
 
+  或者使用一些支持的软件,比如用 Anlink 传输
+
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## OneDrive
@@ -326,4 +329,15 @@ LSP mode : on
 
 <img src="https://www.helloimg.com/images/2022/02/27/GVLzdK.png" alt="20211126204420" />
 
-音质格式
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## windows-防火墙通知
+
+- 关掉防火墙后总是弹出通知让我打开它,没完没了;试试下面两方法:
+
+  ![](https://www.helloimg.com/images/2022/03/04/GhEgqX.png)
+  ![](https://www.helloimg.com/images/2022/03/04/GhEYPP.png)
+
+  ***
+
+  ![](https://www.helloimg.com/images/2022/03/04/GhJ9bP.png)

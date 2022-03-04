@@ -1,5 +1,5 @@
 ---
-title: ⬆ Node.js环境配置 && 使用
+title: ⬆ Node.js-环境配置-使用
 date: 2020-11-24 21:59:29
 password: ""
 tags:
@@ -11,29 +11,35 @@ cover: https://www.helloimg.com/images/2022/02/27/GVaX2A.png
 top_img:
 ---
 
+# Node.js-环境配置-使用
+
 <!--
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-15 19:34:11
+ * @LastEditTime: 2022-03-05 01:10:01
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
 
-- [环境配置](#环境配置)
-- [安装 yarn](#安装-yarn)
-- [加速](#加速)
-  - [换阿里源](#换阿里源)
-  - [代理](#代理)
-- [依赖升级](#依赖升级)
-- [参数及常用命令](#参数及常用命令)
-  - [`-g(global)`](#-gglobal)
-  - [`-save`](#-save)
-- [local 全局依赖](#local-全局依赖)
-- [运行报错](#运行报错)
-- [推荐文章](#推荐文章)
-- [node 多版本管理](#node-多版本管理)
-- [版本拟定](#版本拟定)
+```pullquote mindmap mindmap-md
+- [Node.js-环境配置-使用](#nodejs-环境配置-使用)
+  - [环境配置](#环境配置)
+  - [安装 yarn](#安装-yarn)
+  - [加速](#加速)
+    - [换源](#换源)
+    - [代理](#代理)
+  - [依赖升级](#依赖升级)
+  - [参数及常用命令](#参数及常用命令)
+    - [`-g(global)`](#-gglobal)
+    - [`-save`](#-save)
+  - [local 全局依赖](#local-全局依赖)
+  - [运行报错](#运行报错)
+  - [推荐文章](#推荐文章)
+  - [node 多版本管理](#node-多版本管理)
+  - [版本拟定](#版本拟定)
+  - [参考](#参考)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -75,14 +81,21 @@ top_img:
 
 ## 加速
 
-### 换阿里源
+### 换源
 
-- 默认源
+- 推荐: 使用 [`yrm`](https://www.npmjs.com/package/yrm), 会同时将你的 npm 和 yarn 一起切换
+  <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+- 当然不嫌麻烦可以手动修改
 
   ```console
   npm config set registry https://registry.npm.taobao.org
   yarn config set registry https://registry.npm.taobao.org
   ```
+
+  也可以直接定位 npm 和 yarn 的配置文件 -> `~/.npmrc和.yarnrc`
+
+  ***
 
 - 检查
 
@@ -90,10 +103,6 @@ top_img:
   npm config get registry
   yarn config get registry
   ```
-
-- 也可以直接定位 npm 和 yarn 的配置文件 -> `C:\Users\用户名`
-
-  - 这个目录下的`.npmrc和.yarnrc`
 
   ***
 
@@ -266,3 +275,9 @@ node_modules\pascal-case\dist\index.js:21
   一般用这三个: major(大) -> minor(小) -> patch(补丁)
 
   另外需要注意,使用之前要 `git commit`,不然没法使用.
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 参考
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [2222 年了，总不能还只会 npm i 吧?🔥](https://juejin.cn/post/7069701706606444551)

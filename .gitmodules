@@ -8,3 +8,6 @@
 	path = themes/hexo-theme-butterfly
 	url = https://github.com/Weidows/hexo-theme-butterfly.git
 	branch = mine
+[submodule "source/_posts/life/Eyes-4-Fishing"]
+	path = source/_posts/life/Eyes-4-Fishing
+	url = https://github.com/Weidows-projects/Eyes-4-Fishing.git
