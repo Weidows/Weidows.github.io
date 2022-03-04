@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;butterfly&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 03 Sep 2020 14:49:05 +0000</pubDate>
+        <lastBuildDate>Thu, 03 Sep 2020 14:49:05 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>hls</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>qq</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>面试</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>deprecated</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>manjaro</category>
+        <category>计算机系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>python</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>工具</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>大前端</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>onenote</category>
+        <category>复变函数</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/Web/Node/Hexo/butterfly_modify/</guid>
+            <title>butterfly 内部魔改记录</title>
+            <link>https://weidows.github.io/post/Web/Node/Hexo/butterfly_modify/</link>
+            <category>css</category>
+            <category>javascript</category>
+            <category>hexo</category>
+            <category>butterfly</category>
+            <category>pug</category>
+            <category>styl</category>
+            <pubDate>Thu, 03 Sep 2020 14:49:05 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @Author: Weidows
+ * @Date: 2020-09-03 22:49:05
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-02-27 18:05:22
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\butterfly_modify.md
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%AD%94%E6%94%B9%E6%BB%9A%E5%8A%A8%E6%9D%A1&#34;&gt;魔改滚动条&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E7%AB%A0%E8%83%8C%E6%9D%BF%E9%80%8F%E6%98%8E&#34;&gt;文章背板透明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#footer-%E7%B1%BB-github-%E5%B0%8F%E6%A0%87%E7%AD%BE&#34;&gt;footer 类 github 小标签&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B7%BB%E5%8A%A0-footer-%E5%B0%8F%E7%BA%A2%E5%BF%83&#34;&gt;添加 footer 小红心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9%E9%BC%A0%E6%A0%87%E6%A0%B7%E5%BC%8F&#34;&gt;修改鼠标样式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%82%E9%85%8D-pjax&#34;&gt;适配 Pjax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BC%98%E5%8C%96&#34;&gt;优化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;魔改滚动条&#34;&gt;魔改滚动条&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找到 &lt;code&gt;mine.styl&lt;/code&gt; 添加以下: (注意缩进格式)&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;/*scrollbar*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;::-webkit-scrollbar&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  width: &lt;span class=&#34;number&#34;&gt;10px&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;height&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;10px&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;::-webkit-scrollbar-thumb&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  background-color: &lt;span class=&#34;built_in&#34;&gt;rgba&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;255&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;86&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;232&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.815&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;background-image&lt;/span&gt;: &lt;span class=&#34;built_in&#34;&gt;-webkit-linear-gradient&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;number&#34;&gt;45deg&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;number&#34;&gt;#34bf49&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;25%&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    transparent &lt;span class=&#34;number&#34;&gt;25%&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    transparent &lt;span class=&#34;number&#34;&gt;50%&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;number&#34;&gt;#ff4c4c&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;50%&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;number&#34;&gt;#0099e5&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;75%&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    transparent &lt;span class=&#34;number&#34;&gt;75%&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    transparent&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;border-radius&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;2em&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;::-webkit-scrollbar-corner&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  background-color: transparent;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;::-moz-selection&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: &lt;span class=&#34;number&#34;&gt;#fff&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#ce70b9&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;文章背板透明&#34;&gt;文章背板透明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 mine.styl 内添加&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.layout&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp; &amp;gt; &lt;span class=&#34;selector-tag&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;selector-pseudo&#34;&gt;:first&lt;/span&gt;-child&lt;span class=&#34;selector-pseudo&#34;&gt;:not&lt;/span&gt;(&lt;span class=&#34;selector-class&#34;&gt;.recent-posts&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;background&lt;/span&gt;: &lt;span class=&#34;built_in&#34;&gt;rgba&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;45&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;35&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.5&lt;/span&gt;): &lt;span class=&#34;built_in&#34;&gt;rgba&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;45&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;35&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.5&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;footer- 类 -github- 小标签&#34;&gt;footer 类 github 小标签&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 &lt;code&gt;mine.styl&lt;/code&gt; 在尾部添加层叠样式:&lt;/p&gt;
+&lt;figure class=&#34;highlight styl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;/* 底部信息 */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.github-badge&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;margin-left&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;5px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;display&lt;/span&gt; inline-block&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;border-radius&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;text-shadow&lt;/span&gt; none&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;color&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;#fff&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;line-height&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;15px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;#abbac3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;margin-bottom&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;5px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;font-size&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;12px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.badge-subject&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;display&lt;/span&gt; inline-block&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;#4d4d4d&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;padding&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-top-left-radius&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-bottom-left-radius&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.badge-value&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;display&lt;/span&gt; inline-block&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;padding&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6px&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-top-right-radius&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-bottom-right-radius&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.bg-blue&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;#007ec6&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.bg-brightgreen&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;#4dc820&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.bg-orange&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt; orange&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.bg-gradient&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background&lt;/span&gt; linear-gradient(to right,&lt;span class=&#34;number&#34;&gt;#3ca5f6&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;#a86af9&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.bg-blueviolet&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;#8833d7&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;找到 &lt;code&gt;~butterfly/layout/includes/footer.pug&lt;/code&gt; 在尾部添加以下(这里是一个单位缩进, 一定注意缩进对应上方)&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;//- 底部信息&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a(style=&amp;#x27;color:#fff&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;https://hexo.io/&amp;#x27;, target=&amp;#x27;_blank&amp;#x27;, title=&amp;#x27; 由 Hexo 强力驱动 &amp;#x27;, data-pjax-state=&amp;#x27;&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-subject Powered&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-value.bg-blue Hexo&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a(style=&amp;#x27;color:#fff&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;https://github.com/jerryc127/hexo-theme-butterfly&amp;#x27;, target=&amp;#x27;_blank&amp;#x27;, title=&amp;#x27; 主题 &amp;#x27;, data-pjax-state=&amp;#x27;&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-subject Theme&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-value.bg-blueviolet Butterfly&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a(style=&amp;#x27;color:#fff&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;https://gitee.com/Weidows/Weidows&amp;#x27;, target=&amp;#x27;_blank&amp;#x27;, title=&amp;#x27; 静态网页托管于 Github + Gitee&amp;#x27;, data-pjax-state=&amp;#x27;&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-subject Hosted&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-value.bg-brightgreen Github+Gitee-Pages&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a(style=&amp;#x27;color:#fff&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;https://www.jsdelivr.com/&amp;#x27;, target=&amp;#x27;_blank&amp;#x27;, title=&amp;#x27;jsDelivr 提供 CDN 加速服务 &amp;#x27;, data-pjax-state=&amp;#x27;&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-subject CDN&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-value.bg-orange JsDelivr&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a(style=&amp;#x27;color:#fff&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;http://creativecommons.org/licenses/by-nc-sa/4.0/&amp;#x27;, target=&amp;#x27;_blank&amp;#x27;, title=&amp;#x27; 本站点采用知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议进行许可 &amp;#x27;, data-pjax-state=&amp;#x27;&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-subject&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      i.fa.fa-copyright&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-value.bg-gradient BY-NC-SA 4.0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a(style=&amp;#x27;color:#fff&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;http://www.beian.miit.gov.cn/&amp;#x27;, target=&amp;#x27;_blank&amp;#x27;, title=&amp;#x27; 备案 &amp;#x27;, data-pjax-state=&amp;#x27;&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-subject 冀 ICP 备&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    span.badge-value.bg-orange 2020021936-1 号&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.github-badge&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  span.badge-subject BugSite 上线&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  a#running-time(style=&amp;#x27;text-decoration: none;color: rgb(255, 255, 255);background: rgb(77, 200, 32);padding: 4px 4px 4px 6px;--darkreader-inline-color: #ffffff;--darkreader-inline-bgimage: initial;--darkreader-inline-bgcolor: #1db000;&amp;#x27;, rel=&amp;#x27;external nofollow noopener noreferrer&amp;#x27;, href=&amp;#x27;/tags/for&amp;#x27;, target=&amp;#x27;_self&amp;#x27;, data-pjax-state, data-darkreader-inline-color, data-darkreader-inline-bgimage, data-darkreader-inline-bgcolor) 0 年 45 天 6 时 50 分 8 秒&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;#running-time&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  script.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    setInterval(() =&amp;gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            let create_time = Math.round(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              new Date(&amp;quot;2020-08-14 17:30:00&amp;quot;).getTime() / 1000&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            let timestamp = Math.round(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              (new Date().getTime() + 8 * 60 * 60 * 1000) / 1000&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            let second = timestamp - create_time;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            let time = new Array(0, 0, 0, 0, 0);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            if (second &amp;gt;= 365 * 24 * 3600) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[0] = parseInt(second / (365 * 24 * 3600));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              second %= 365 * 24 * 3600;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            if (second &amp;gt;= 24 * 3600) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[1] = parseInt(second / (24 * 3600));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              second %= 24 * 3600;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            if (second &amp;gt;= 3600) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[2] = parseInt(second / 3600);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              second %= 3600;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            if (second &amp;gt;= 60) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[3] = parseInt(second / 60);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              second %= 60;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            if (second &amp;gt; 0) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[4] = second;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            currentTimeHtml =&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[0] +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              &amp;quot; 年 &amp;quot; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[1] +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              &amp;quot; 天 &amp;quot; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[2] +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              &amp;quot; 时 &amp;quot; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[3] +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              &amp;quot; 分 &amp;quot; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              time[4] +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;              &amp;quot; 秒 &amp;quot;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            document.getElementById(&amp;quot;running-time&amp;quot;).innerHTML = currentTimeHtml;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &amp;#125;, 1000);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;添加 -footer- 小红心&#34;&gt;添加 footer 小红心&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找到&lt;code&gt;~butterfly/layout/includes/footer.pug&lt;/code&gt;(同上)&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;if theme.footer.owner.since &amp;amp;&amp;amp; theme.footer.owner.since != nowYear&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  .copyright!= `&amp;amp;copy;$&amp;#123;theme.footer.owner.since&amp;#125; - $&amp;#123;nowYear&amp;#125; By $&amp;#123;config.author&amp;#125;`&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;else&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  .copyright!= `&amp;amp;copy;$&amp;#123;nowYear&amp;#125; By $&amp;#123;config.author&amp;#125;`&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;替换为&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;if theme.footer.owner.since &amp;amp;&amp;amp; theme.footer.owner.since != nowYear&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  .copyright!= `&amp;amp;copy;$&amp;#123;theme.footer.owner.since&amp;#125; - $&amp;#123;nowYear&amp;#125; &amp;lt;i style=&amp;quot;color:#FF6A6A&amp;quot; class=&amp;quot;fa fa-heartbeat&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; $&amp;#123;config.author&amp;#125;`&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;else&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  .copyright!= `&amp;amp;copy;$&amp;#123;nowYear&amp;#125;  &amp;lt;i style=&amp;quot;color:#FF6A6A;animation: announ_animation 0.8s linear infinite;&amp;quot; class=&amp;quot;fa fa-heartbeat&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; $&amp;#123;config.author&amp;#125;`&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;修改鼠标样式&#34;&gt;修改鼠标样式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 mine.styl 里添加以下:&lt;/p&gt;
+&lt;figure class=&#34;highlight styl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;/* 鼠标图标 */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-tag&#34;&gt;body&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;cursor&lt;/span&gt; url(&lt;span class=&#34;string&#34;&gt;&amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAADHklEQVRIia2WyWtTURSHv/veS8wzVpMmdjApxSIKdQJpS4ili1orijgP4MbpTxBEdKEgLqwLF9qVBcWFqOAILaLUjQsXVqUWbMUU0ZrW0smWaGPa5LnIu+mzdkjSHHjcd7nn/j7OucO5gn9NTOsb5NBEQUFt/Y4dX7/t3j08Egjcve/xVFTNAM1M1NLqO3eGu3V9RZEcNIxE4suXm7c7O8+c/f178AdZRKTItrCwbqtVHEAIRSkrO3msvv5zZ2np0ROmf0YRyQmqxxPcPJuTzeZaVlV1q6m6uqVF11f4M4HICLS8vNWr53MuLt6+ra7u7ZuCgtqt6UJkBJrD4S9OZ4LDUVRYU/O8Ze3aCxcBbT6QBCg2m2tZOgAAIVS1vPz8uWDw4QNgyVyQ1CJrmu5IFyDN59u7q7b2davTubxwNogECFXNHADg8QQqg8HWWSESgKo67NkAAFyu9eWBQHMzuJdOh1giWJxVBNLy8ys3BQLXbwCqFZICKIrdthAAQEnJkYN+/4HD0wECQAixoDtH2oYNly8BTqmrTA0pOQE4nWWlPt/+fVJbmcc/KyspObQP8xCm1kAIJWcwl2vjesBmBeTUnM6V/v8Ak5OR8VwB4vFojOR2Ta2BEY2GB3IFiEZ7B7DsIgMwhobefcwVYHi47SOQkACAeF/f49ZcAfr6nrZaAQYw0dPzuDkSCYUXKh6JdPf29Dx5BkwARgoAsbGOjtPXFgpobz91FWI/JUC1jImxsa6wpi3xer3BddmId3VdvtPd3dgEDANRIGEFGIDo73/xQdOcLq93c0aQT58a7nV0nLkCDAIRYBLMvWoBxAGjv//F+9HR9rDbXbHGbs/Pm0s4Egn1trUdbwiFGm8CA8BPIGbq/VMcBMlFdwAuwA2ax+fbs8Xv31Ptdles0nWfF2B8PDw4MtIWCocfvfr+/clLmBwy0zIqUzMTQPYFsIjklbuUZFHXMY++JdoJYNxMxxjwC/hjjhlWwZlMkLwN7SbMYf7LlMbNNERN0RjJnP/3tJyrBshoFPNTmTqYCROSYCodM75b0y0ys/nN+xj+C/Mh4eoX0xP+AAAAAElFTkSuQmCC&amp;quot;&lt;/span&gt;), auto&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-tag&#34;&gt;a&lt;/span&gt;,&lt;span class=&#34;selector-tag&#34;&gt;button&lt;/span&gt;,&lt;span class=&#34;selector-tag&#34;&gt;i&lt;/span&gt;,&lt;span class=&#34;selector-id&#34;&gt;#upj&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-id&#34;&gt;#footer-wrap&lt;/span&gt; &lt;span class=&#34;selector-tag&#34;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-id&#34;&gt;#pagination&lt;/span&gt; &lt;span class=&#34;selector-class&#34;&gt;.page-number&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-id&#34;&gt;#nav&lt;/span&gt; &lt;span class=&#34;selector-class&#34;&gt;.site-page&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;selector-pseudo&#34;&gt;&amp;amp;:hover&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;cursor&lt;/span&gt; url(&lt;span class=&#34;string&#34;&gt;&amp;quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAdCAYAAAC0T3x2AAADVUlEQVRIibWWXWgUVxTHfzOTZDe7mzHZbGIIIqTaJKxCNMYi9UEwEkkEUdSXFvoUX1of6ge+CIotRehjLbRgXypIiQhRfCkVfLCNokkkqZu0hl0/1qRJzGqS3SUfuztz+7AzcViiMzu2f7gw986d87vnnnPPHXAuyWj/m6Tq6raPurqePO3sjMbWrNna5gao2EEAZceOnquVlS2by8qCVaraFH727OfLgCgGJDuY462qam0xO8Hgtq2ApxiIE5AMeBXFV74yIPvLDZCTRToGwerba7flrkD/iZyAVsswiSLT3ZVHjY0nPt+//+VUe/uD/oqKxmYnYLsVKUDNkSNi0joohK5LkiwDjI9fu5HJvEqsW3f44Ph4z9XBwS+OAbp1umuQVbqezclyaYnZv3fv0KcbNhw7qqrNTcPDJ0/H479cAUQhqLAv24EKtbycmPV4QlUAS0uT0zdv1q8HsmaMpNra3R2dnWNje/eOjIbDZ88B5auAbWVCABTF5yN/5iTZMFbS1nbpx0Dgw42qGm7etOn8ua6uWERVW1rdwEwlkyNPgFITBFA2PHzqW01bWDIn+f0fNOzZ03e7rm5fh1vQ3NzQY/PZ9EiamOi9dedOx3FNW1w2XyqK379zZ+9PbkHz85Ex8hkoZPLplwGSiUTf7/39n30jhL5Sma0ZVaxmZ/+MABq8qVk6kAO0ZHL0hSSVBGpqdrW8zYAzCfHo0ZdfaVrmFZAzY7TiFZAYGfn6u0Tij8j7YFKpx/FMJv0awyNrCbLAsjP3739yJpOZTbsFTU39ehfIYomRVTqwDMwtLLwYHRjovuAGIoQuYrFLPRbQW+8VHRCp1F8TXm9tfTC4vbkYUDT6/bV4/PIV8qHIvgskMPZ2cvLWUCi0vTUQ2FjvBDI9/dvAw4dHz+h69iWwgI1HFpiuP3/e06co3opQ6OMwSKtWCiF0EY1evD442H02l1v8B5gnH3PH1dsHBIFqVW0KNzR0H1i7tn2Lz9dQJ0mlSjr9dHpm5vZQLPZDbyr1dwRIAK8NbzTTkB1IMmAeQAUqAb/RN3dDM1aeNrxIAkvGuLAaspN5c5YCXqN5gBJjPEc+UxcNQNYAiEIjTiWRP3ey4Y31sOfIB10vBLgB2X3zzj/XfwGZgTBog2BRwgAAAABJRU5ErkJggg==&amp;quot;&lt;/span&gt;), auto&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;适配 -Pjax&#34;&gt;适配 Pjax&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;定位&lt;code&gt;~butterfly/layout/include/third-party/pjax.pug&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在 &lt;code&gt;document.addEventListener(&#39;pjax:complete&#39;, function () &amp;#123;&amp;#125;&lt;/code&gt; 里最后插入&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;注意缩进对齐!&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span class=&#34;string&#34;&gt;&amp;quot;go-up&amp;quot;&lt;/span&gt;).innerHTML += &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;lt;img class=&amp;#x27;fas fa-arrow-up&amp;#x27; style=&amp;#x27;max-width: 300%; transform: translate(-30px,0px);&amp;#x27; src=&amp;#x27;https://cdn.jsdelivr.net/gh/Weidows/Images/img/up.png&amp;#x27; title=&amp;#x27; 芜湖起飞!&amp;#x27; &amp;gt;&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; xkTool().footFish();&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;优化&#34;&gt;优化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;上面很多东西已被优化过, 方法都还能用, 优化过程:
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../optimize&#34;&gt;🚀 网站优化记录.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;vr&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-03-13T10:17:44.000Z</updated>
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="vscode" />
+    <category term="maven" />
+    <category term="对象" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="面试" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="deprecated" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="manjaro" />
+    <category term="计算机系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="git" />
+    <category term="python" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="工具" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="大前端" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="opengl" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="anaconda" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/others/%E4%BD%8E%E6%88%90%E6%9C%AC-%E6%97%A0%E7%BA%BF-VR%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+        <title>低成本 - 无线 -VR 解决方案</title>
+        <link rel="alternate" href="https://weidows.github.io/post/others/%E4%BD%8E%E6%88%90%E6%9C%AC-%E6%97%A0%E7%BA%BF-VR%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-21 17:10:31
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\ 低成本 - 无线 -VR 解决方案.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BF%99%E6%98%AF%E5%95%A5%E5%AD%90&#34;&gt;这是啥子?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9C%80%E6%B1%82%E8%A1%A8&#34;&gt;需求表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BF%9E%E6%8E%A5%E5%B1%8F%E5%B9%95&#34;&gt;连接屏幕&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AE%BE%E7%BD%AE%E8%A7%86%E9%A2%91&#34;&gt;设置视频&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;这是啥子&#34;&gt;这是啥子?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;这是一篇关于如何低成本满足 &lt;code&gt;VR 观影 &lt;/code&gt; 体验的 &lt;code&gt;介绍 / 推荐&lt;/code&gt; 方案教程.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;需求表&#34;&gt;需求表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;硬件: 手机, 电脑,VR 眼镜 (网购几十元的放手机的那种)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;软件: spacedesk(手机和电脑都要安装),potplayer(或者其他有 VR/3D 功能的播放器也行)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://spacedesk.net/&#34;&gt;spacedesk 官网&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://potplayer.daum.net/&#34;&gt;potplayer 官网&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这里插一句, 其实不用电脑也行, 手机上有些 app 支持 VR 播放功能, 直接把电影传到手机上开 VR 播放更简单.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;连接屏幕&#34;&gt;连接屏幕&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装完 spacedesk&lt;code&gt;必须重启 &lt;/code&gt; 才能用手机扫描到并连接上 (注意电脑和手机需要在同一网络环境下才能扫描到)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一般情况不需要找电脑内网 IP 地址, 手机可以自动扫描到, 连接后可以有如下四种选择&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;按 &lt;code&gt;Fn + F8&lt;/code&gt; 进入投影, 也可以在右下角通知中心找到&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsHEX.png&#34; alt=&#34;20210313183255&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;推荐 &lt;/code&gt; 用第二个 &amp;quot; 复制 &amp;quot;, 第三个 &amp;quot; 扩展 &amp;quot; 有可能会花屏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;设置视频&#34;&gt;设置视频&lt;/h2&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsTb6.png&#34; alt=&#34;20210313183727&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;然后没了, 带上眼镜看就对了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="推荐" />
+        <category term="vr" />
+        <updated>2021-03-13T10:17:44.000Z</updated>
+    </entry>
+</feed>
