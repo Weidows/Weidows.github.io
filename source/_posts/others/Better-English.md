@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 03:18:36
+ * @LastEditTime: 2022-03-05 10:11:23
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -30,6 +30,7 @@ top_img:
   - [单词](#单词)
   - [短语](#短语)
   - [领域](#领域)
+  - [项目](#项目)
 ```
 
 - 开发时总有几个英文单词/短语,`今天背过,明天就忘.`
@@ -68,7 +69,7 @@ top_img:
   |      router       | n. [计] 路由器；刳刨者                                                                                                                                                          |
   |     protocol      | n. 礼仪，礼节；国际议定书，`协议`；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录 |
   |      dynamic      | 动态的                                                                                                                                                                          |
-  |        API        | ![application programming interface 应用程序接口](https://www.helloimg.com/images/2022/02/27/GVAhlh.png)                                                          |
+  |        API        | ![application programming interface 应用程序接口](https://www.helloimg.com/images/2022/02/27/GVAhlh.png)                                                                        |
   |     scaffolds     | 脚手架                                                                                                                                                                          |
 
 ---
@@ -201,3 +202,9 @@ top_img:
   |  英   | 汉     |
   | :---: | :----- |
   | given | 已知的 |
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 项目
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: https://github.com/rd2coding/Awesome-Tech-Words
