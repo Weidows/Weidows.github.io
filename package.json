@@ -46,7 +46,7 @@
     "live2d-widget-model-tororo": "^1.0.5",
     "patch-package": "^6.4.7"
   },
-  "deprecate": {
+  "弃用": {
     "hexo-filter-auto-spacing": "^0.2.1"
   }
 }

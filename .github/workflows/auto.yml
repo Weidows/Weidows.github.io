@@ -27,8 +27,12 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          npm cache clean --force
-          rm -rf node_modules
+          # npm cache clean --force
+          # rm -rf node_modules
+
+          # 升级 npm
+          npm install -g npm
+
           npm install
           npm run get-bilibili-steam
           npm run 一键三连
