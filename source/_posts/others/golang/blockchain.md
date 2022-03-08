@@ -1,5 +1,5 @@
 ---
-title: 🐭从零开始Golang & blockchain
+title: 🐭从零开始-Golang-blockchain
 password: ""
 tags:
   - 区块链
@@ -8,24 +8,24 @@ katex: false
 comments: true
 aside: true
 date: 2022-02-07 00:53:07
-cover: https://cdn.jsdelivr.net/gh/Weidows/Images/post/20220217003125.png
+cover: https://www.helloimg.com/images/2022/03/06/Gh2RFv.png
 top_img:
 ---
+
+# 从零开始-Golang-blockchain
 
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 14:07:43
+ * @LastEditTime: 2022-03-06 11:15:55
  * @FilePath: \Blog-private\source\_posts\others\golang\blockchain.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-# 从零开始 Golang & blockchain
-
 ```pullquote mindmap mindmap-md
-- [从零开始 Golang & blockchain](#从零开始-golang--blockchain)
+- [从零开始-Golang-blockchain](#从零开始-golang-blockchain)
   - [配置](#配置)
     - [模块代理](#模块代理)
     - [模块初始化](#模块初始化)

@@ -1,5 +1,5 @@
 ---
-title: 😒Git/GitHub 一些操作问题/经验
+title: 😒Git-GitHub-操作问题和经验
 date: 2020-11-21 19:28:51
 password: ""
 tags:
@@ -10,44 +10,52 @@ tags:
   - branch
   - release
   - pages
+katex: false
+comments: true
+aside: true
 cover: https://www.helloimg.com/images/2022/02/27/GV3AlK.png
 top_img:
 ---
+
+# Git-GitHub-操作问题和经验
 
 <!--
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-15 17:17:08
+ * @LastEditTime: 2022-03-06 10:42:26
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
 
-1. [实用操作](#实用操作)
-   1. [三种-merge](#三种-merge)
-      1. [common-merge](#common-merge)
-      2. [squash-merge](#squash-merge)
-      3. [rebase-merge](#rebase-merge)
-   2. [配置代理](#配置代理)
-   3. [版本回退](#版本回退)
-   4. [创建独立分支](#创建独立分支)
-   5. [缩小仓库体积](#缩小仓库体积)
-      1. [删除提交记录](#删除提交记录)
-      2. [分支独立法](#分支独立法)
-2. [GitHub](#github)
-   1. [首页绿格子](#首页绿格子)
-   2. [License 选择](#license-选择)
-   3. [pages-域名](#pages-域名)
-   4. [删除远程分支](#删除远程分支)
-   5. [github-action](#github-action)
-      1. [checkout](#checkout)
-      2. [国内时区错位问题](#国内时区错位问题)
-3. [凭证和权限](#凭证和权限)
-   1. [问题一](#问题一)
-   2. [问题二](#问题二)
-   3. [问题三](#问题三)
-   4. [问题四](#问题四)
-4. [参考](#参考)
+```pullquote mindmap mindmap-md
+- [Git-GitHub-操作问题和经验](#git-github-操作问题和经验)
+  - [实用操作](#实用操作)
+    - [三种-merge](#三种-merge)
+      - [common-merge](#common-merge)
+      - [squash-merge](#squash-merge)
+      - [rebase-merge](#rebase-merge)
+    - [配置代理](#配置代理)
+    - [版本回退](#版本回退)
+    - [创建独立分支](#创建独立分支)
+    - [缩小仓库体积](#缩小仓库体积)
+      - [删除提交记录](#删除提交记录)
+      - [分支独立法](#分支独立法)
+  - [GitHub](#github)
+    - [首页绿格子](#首页绿格子)
+    - [License 选择](#license-选择)
+    - [pages-域名](#pages-域名)
+    - [删除远程分支](#删除远程分支)
+    - [github-action](#github-action)
+      - [checkout](#checkout)
+      - [国内时区错位问题](#国内时区错位问题)
+  - [凭证和权限](#凭证和权限)
+    - [问题一](#问题一)
+    - [问题二](#问题二)
+    - [问题三](#问题三)
+    - [问题四](#问题四)
+  - [参考](#参考)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -55,7 +63,7 @@ top_img:
 
 ### 三种-merge
 
-<img src="https://cdn.jsdelivr.net/gh/Weidows/Images/post/20220215030110.png" alt="20220215030110" />
+![](https://www.helloimg.com/images/2022/03/06/GhMkF1.png)
 
 - 设当前 git-status:
 

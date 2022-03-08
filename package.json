@@ -22,7 +22,6 @@
     "hexo-directory-category": "^1.1.4",
     "hexo-easy-tags-plugin": "^1.1.0",
     "hexo-feed": "^1.1.0",
-    "hexo-filter-auto-spacing": "^0.2.1",
     "hexo-filter-date-from-git": "^0.1.2",
     "hexo-filter-fenced-code": "^1.0.2",
     "hexo-generator-archive": "^1.0.0",
@@ -46,5 +45,8 @@
     "hexo-wordcount": "^6.0.1",
     "live2d-widget-model-tororo": "^1.0.5",
     "patch-package": "^6.4.7"
+  },
+  "deprecate": {
+    "hexo-filter-auto-spacing": "^0.2.1"
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: 😶‍🌫️Markdown 中一些新奇写法.
+title: 😶‍🌫️Markdown-中一些新奇写法.
 date: 2020-11-30 00:09:37
 password: ""
 tags:
@@ -10,19 +10,19 @@ cover: https://www.helloimg.com/images/2022/02/27/GVENOC.png
 top_img:
 ---
 
+# Markdown-中一些新奇写法.
+
 <!--
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-04 21:59:00
+ * @LastEditTime: 2022-03-07 14:19:12
  * @FilePath: \Blog-private\source\_posts\others\markdown\markdown.md
  * @Description:
 -->
 
-# Markdown 中一些新奇写法.
-
 ```pullquote mindmap mindmap-md
-- [Markdown 中一些新奇写法.](#markdown-中一些新奇写法)
+- [Markdown-中一些新奇写法.](#markdown-中一些新奇写法)
   - [注意点](#注意点)
   - [基本的](#基本的)
   - [新奇写法](#新奇写法)
@@ -40,8 +40,8 @@ top_img:
     - [文字遮盖](#文字遮盖)
     - [论文脚注](#论文脚注)
     - [中英文切换](#中英文切换)
-    - [参考](#参考)
     - [markdown-表格内换行](#markdown-表格内换行)
+  - [参考](#参考)
 ```
 
 ## 注意点
@@ -334,6 +334,7 @@ top_img:
 
   ```html
   <sup id="cite_ref-01">[\[1\]](#cite_note-01)</sup>
+
   <a name="cite_note-01" href="#cite_ref-01">[1]</a>
   ```
 
@@ -395,16 +396,6 @@ top_img:
 
 ---
 
-### 参考
-
-<a name="cite_note-01" href="#cite_ref-01">[1]</a>：`<a name="cite_note-01" href="#cite_ref-01">[1]</a>` (测试)
-
-<a name="cite_note-02" href="#cite_ref-02">[2]</a>：`<a name="cite_note-02" href="#cite_ref-02">[2]</a>` (测试)
-
-<a name='cite_note-03' href='#cite_ref-03'>[3]</a>: https://raw.githubusercontent.com/jerryc127/hexo-theme-butterfly/dev/README.md
-
----
-
 ### markdown-表格内换行
 
 - 找了很多办法来实现换行,后来发现实现原理简单粗暴: `<br>`
@@ -413,3 +404,13 @@ top_img:
   | ---------------- | ---------------- | ---------------- |
   | 列 1 <br> 列 1.1 | 列 2 <br> 列 2.1 | 列 3 <br> 列 3.1 |
   | 列 1 <br> 列 1.2 | 列 2 <br> 列 2.2 | 列 3 <br> 列 3.2 |
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 参考
+
+<a name="cite_note-01" href="#cite_ref-01">[1]</a>：`<a name="cite_note-01" href="#cite_ref-01">[1]</a>` (测试)
+
+<a name="cite_note-02" href="#cite_ref-02">[2]</a>：`<a name="cite_note-02" href="#cite_ref-02">[2]</a>` (测试)
+
+<a name='cite_note-03' href='#cite_ref-03'>[3]</a>: https://raw.githubusercontent.com/jerryc127/hexo-theme-butterfly/dev/README.md

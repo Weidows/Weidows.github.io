@@ -141,7 +141,7 @@ steam:
   quote: Steam给爷爬!别让我家EPIC误会( # 写在页面开头的一段话
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: https://cdn.jsdelivr.net/gh/Weidows/Images/post/25b219760d8fe18a.gif # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: https://www.helloimg.com/images/2022/02/27/GVP6Mb.gif # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   # 如果无法访问steam社区的话请使用代理
   proxy:
     # host: localhost # 代理ip或域名

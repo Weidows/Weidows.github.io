@@ -1,5 +1,5 @@
 ---
-title: SM.MS-批量下载器
+title: ▶️SM.MS-批量下载器
 password: ""
 tags:
   - 图床
@@ -12,21 +12,26 @@ cover: https://www.helloimg.com/images/2022/02/27/GVEKN9.jpg
 top_img:
 ---
 
+# SM.MS-批量下载器
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-27 16:28:01
+ * @LastEditTime: 2022-03-06 10:35:14
  * @FilePath: \Blog-private\source\_posts\tools\SM-MS-downloader.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [关联项目](#关联项目)
-- [简介](#简介)
-- [使用](#使用)
-- [问题](#问题)
-- [路标 & 技术调用](#路标--技术调用)
+```pullquote mindmap mindmap-md
+- [SM.MS-批量下载器](#smms-批量下载器)
+  - [关联项目](#关联项目)
+  - [简介](#简介)
+  - [使用](#使用)
+  - [问题](#问题)
+  - [路标 & 技术调用](#路标--技术调用)
+```
 
 ## [关联项目](https://github.com/Weidows/awesome-image-collector)
 

@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-05 01:10:01
+ * @LastEditTime: 2022-03-08 09:30:31
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -36,7 +36,9 @@ top_img:
   - [local 全局依赖](#local-全局依赖)
   - [运行报错](#运行报错)
   - [推荐文章](#推荐文章)
-  - [node 多版本管理](#node-多版本管理)
+  - [node-多版本管理](#node-多版本管理)
+    - [环境变量原因报错](#环境变量原因报错)
+    - [切换版本报错](#切换版本报错)
   - [版本拟定](#版本拟定)
   - [参考](#参考)
 ```
@@ -85,6 +87,23 @@ top_img:
 
 - 推荐: 使用 [`yrm`](https://www.npmjs.com/package/yrm), 会同时将你的 npm 和 yarn 一起切换
   <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+  ```console
+  ╰─ yrm test
+
+    npm ---- 1311ms
+  * cnpm --- Fetch Error
+    taobao - 470ms
+    nj ----- Fetch Error
+    rednpm - 221ms
+    npmMirror  1204ms
+    edunpm - 1408ms
+    yarn --- Fetch Error
+  ```
+
+  ```
+  yrm use taobao
+  ```
 
 - 当然不嫌麻烦可以手动修改
 
@@ -236,7 +255,7 @@ node_modules\pascal-case\dist\index.js:21
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## node 多版本管理
+## node-多版本管理
 
 - 主流的有 nvm / n 两种
 
@@ -252,10 +271,34 @@ node_modules\pascal-case\dist\index.js:21
 
   > [node 多版本管理工具——nvm](https://segmentfault.com/a/1190000021690038)
 
-  遇到这个报错的话,是因为环境变量还没起效,重启电脑
+### 环境变量原因报错
+
+```
+ERROR open \settings.txt: The system cannot find the file specified.
+```
+
+遇到这个报错的话,是因为环境变量还没起效,重启电脑
+
+---
+
+### 切换版本报错
+
+```
+exit status 145: The directory is not empty.
+```
+
+- 有可能是在安装/切换 node 版本时退出了终端导致非正常终止, 解决办法为重装/排查 `nvm/settings.txt`
+
+  看到下面 origin 开头的两行了吗? 直接删掉
 
   ```
-  ERROR open \settings.txt: The system cannot find the file specified.
+  root: D:\Game\Scoop\persist\nvm\nodejs
+  arch: 64
+  proxy: http://127.0.0.1:7890
+  originalpath: .
+  originalversion:
+  node_mirror: https://npm.taobao.org/mirrors/node/
+  npm_mirror: https://npm.taobao.org/mirrors/npm/
   ```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
@@ -280,4 +323,4 @@ node_modules\pascal-case\dist\index.js:21
 
 ## 参考
 
-<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [2222 年了，总不能还只会 npm i 吧?🔥](https://juejin.cn/post/7069701706606444551)
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [yarn 源管理工具 yrm](https://www.jianshu.com/p/dbe3cda1ac11)

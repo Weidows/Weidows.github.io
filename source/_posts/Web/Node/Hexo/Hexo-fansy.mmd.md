@@ -1,5 +1,5 @@
 ---
-title: Hexo-pages里一些奇奇怪怪的写法
+title: 😵‍💫Hexo-里一些奇奇怪怪的写法
 date: 2020-08-27 01:13:03
 password: ""
 tags:
@@ -8,36 +8,44 @@ tags:
   - Website
   - Markdown
   - HTML
+katex: false
+comments: true
+aside: true
 cover: https://www.helloimg.com/images/2022/02/27/GVaOYu.png
 ---
+
+# Hexo-里一些奇奇怪怪的写法
 
 <!--
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-11 04:13:18
+ * @LastEditTime: 2022-03-06 10:37:11
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
 -->
 
-1. [文章标题-格式](#文章标题-格式)
-   1. [肯定要背过的](#肯定要背过的)
-   2. [以下是没用过或无效的](#以下是没用过或无效的)
-2. [标签外挂](#标签外挂)
-3. [Gallery 相册图库](#gallery-相册图库)
-   1. [div 式写法](#div-式写法)
-   2. [效果:](#效果)
-   3. [另一种相册形式(自动排列)](#另一种相册形式自动排列)
-4. [tag-hide](#tag-hide)
-   1. [inline(一行内)](#inline一行内)
-   2. [Block(块)](#block块)
-   3. [toggle(收缩框)](#toggle收缩框)
-5. [mermaid](#mermaid)
-6. [tabs(标签块)](#tabs标签块)
-7. [Button](#button)
-   1. [写法:](#写法)
-   2. [好康的-demo](#好康的-demo)
-8. [\_config.yml](#_configyml)
-9. [图片引入](#图片引入)
+```pullquote mindmap mindmap-md
+- [Hexo-里一些奇奇怪怪的写法](#hexo-里一些奇奇怪怪的写法)
+  - [文章标题-格式](#文章标题-格式)
+    - [肯定要背过的](#肯定要背过的)
+    - [以下是没用过或无效的](#以下是没用过或无效的)
+  - [标签外挂](#标签外挂)
+  - [Gallery 相册图库](#gallery-相册图库)
+    - [div 式写法](#div-式写法)
+    - [效果:](#效果)
+    - [另一种相册形式(自动排列)](#另一种相册形式自动排列)
+  - [tag-hide](#tag-hide)
+    - [inline(一行内)](#inline一行内)
+    - [Block(块)](#block块)
+    - [toggle(收缩框)](#toggle收缩框)
+  - [mermaid](#mermaid)
+  - [tabs(标签块)](#tabs标签块)
+  - [Button](#button)
+    - [写法:](#写法)
+    - [好康的-demo](#好康的-demo)
+  - [\_config.yml](#_configyml)
+  - [图片引入](#图片引入)
+```
 
 ## 文章标题-格式
 
@@ -156,16 +164,16 @@ img-url：图库封面的地址
 
 例如:
 <div class="gallery-group-main">
-{% galleryGroup PrettyGreen 一些养眼的绿色植物 tags/gallery/PrettyGreen https://cdn.jsdelivr.net/gh/Weidows/Images/post/Nu9RF1.jpg %}
+{% galleryGroup 1 1 tags/gallery/PrettyGreen https://www.helloimg.com/images/2022/02/27/GVSsBr.png %}
 </div>
 ```
 
 ### 效果:
 
   <div class="gallery-group-main">
-  {% galleryGroup '壁纸' '收藏的一些壁纸' '/Gallery/wallpaper' https://cdn.jsdelivr.net/gh/Weidows/Images/post/T7Mu8Aod3egmC4Q.png %}
-  {% galleryGroup '漫威' '关于漫威的图片' '/Gallery/marvel' https://cdn.jsdelivr.net/gh/Weidows/Images/post/8t97aVlp4hgyBGu.jpg %}
-  {% galleryGroup 'OH MY GIRL' '关于OH MY GIRL的图片' '/Gallery/ohmygirl' https://cdn.jsdelivr.net/gh/Weidows/Images/post/hOqbQ3BIwa6KWpo.jpg %}
+  {% galleryGroup '1' '1' '/Gallery/wallpaper' https://www.helloimg.com/images/2022/02/27/GVSsBr.png %}
+  {% galleryGroup '2' '2' '/Gallery/marvel' https://www.helloimg.com/images/2022/02/27/GVSJ7q.png %}
+  {% galleryGroup '3' '3' '/Gallery/ohmygirl' https://www.helloimg.com/images/2022/02/27/GVLioP.png %}
   </div>
 
 ### 另一种相册形式(自动排列)

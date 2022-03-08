@@ -19,7 +19,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-06 00:23:56
+ * @LastEditTime: 2022-03-06 11:41:28
  * @FilePath: \Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
@@ -92,12 +92,14 @@ top_img:
 
 ## 轮廓-图片填充
 
-- 用一张图内容的的轮廓+
+- 用一张图的内容轮廓+另一张图的内容填充<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
 
+  如视频中的这样:
 
+  ![](https://www.helloimg.com/images/2022/03/06/Gh21vg.png)
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参照
-
-<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [【ps 小技巧/教程】 快速做出“文字用图片内容作填充”的效果，图片生成特定文字的轮廓效果|新手向|图片文字](https://www.bilibili.com/video/BV12p4y1z7FZ?spm_id_from=..search-card.all.click)
