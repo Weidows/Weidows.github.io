@@ -38,10 +38,3 @@ jobs:
 
           npm run get-bilibili-steam
           npm run 一键三连
-
-  local-act:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Install and Build 🔧
-        run: |
-          npm install
