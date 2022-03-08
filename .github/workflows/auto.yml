@@ -34,7 +34,8 @@ jobs:
           npm install -g npm
 
           # 解决依赖冲突
-          npm install --legacy-peer-deps
+          # npm install --legacy-peer-deps
+          npm ci
 
           npm run get-bilibili-steam
           npm run 一键三连

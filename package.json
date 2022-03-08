@@ -3,18 +3,18 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "postinstall": "npm ci & patch-package",
+    "postinstall": "patch-package",
     "一键三连": "hexo clean && hexo generate && hexo deploy",
     "get-bilibili-steam": "hexo bangumi -u && hexo steam -u",
     "server / test": "hexo server",
     "check-update": "npm-check"
   },
   "hexo": {
-    "version": "6.0.0"
+    "version": "5.4.1"
   },
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
-    "hexo": "^6.0.0",
+    "hexo": "^5.4.1",
     "hexo-bilibili-bangumi": "^1.7.4",
     "hexo-blog-encrypt": "^3.1.6",
     "hexo-butterfly-charts": "^1.1.3",
