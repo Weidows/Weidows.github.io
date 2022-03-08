@@ -33,8 +33,15 @@ jobs:
           # 升级 npm
           npm install -g npm
 
-          npm install
+          # 解决依赖冲突
+          npm install --legacy-peer-deps
+
           npm run get-bilibili-steam
           npm run 一键三连
-        env:
-          CI: true
+
+  local-act:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install and Build 🔧
+        run: |
+          npm install
