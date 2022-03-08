@@ -28,7 +28,7 @@ aside: false
 
 ```yaml
 - name: ⭐️齐下无贰⭐️
-  link: https://weidows.gitee.io
+  link: https://weidows.github.io
   avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
   descr: May all the beauty be bless.✨
 ```

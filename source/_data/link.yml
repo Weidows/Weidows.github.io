@@ -1,40 +1,3 @@
-- class_name: 路宇同行客
-  class_desc: 如侠客一般游走于各路上的行者. (俗称校友)
-  link_list:
-    - name: CregskiN
-      link: https://github.com/CregskiN
-      avatar: https://www.qiniu.cregskin.com/avatar.jpg
-      descr: 我辈亦有同路人，吾道不孤
-    - name: CregskiN的思否
-      link: https://segmentfault.com/u/cregskin
-      avatar: https://avatar-static.segmentfault.com/510/119/510119718-5dec4cefeeee5_huge256
-      descr: 焦虑驱动型学习者，喜欢 react 和 node
-    - name: JellyfishMIX
-      link: https://blog.csdn.net/weixin_43735348
-      avatar: https://avatars0.githubusercontent.com/u/52696481?s=460&u=12c5d2785e5a8e306144c19643bf276b77a5c491&v=4
-      descr: Focusing. A backend programmer who likes humanities and history.
-    - name: Taiga_A
-      link: https://taiga-a.github.io
-      avatar: https://taiga-a-1304851750.cos.ap-beijing.myqcloud.com/%E5%A4%B4%E5%83%8F.jpg
-      descr:
-    - name: Leabox
-      link: https://leabox.github.io
-      avatar: https://avatars.githubusercontent.com/u/51941217?s=400&u=5fa6142ac511aff0817df7e82abcf91fbaaeb81a&v=4
-      descr:
-    - name: 高厉害
-      link: http://gaolihai.cool
-      avatar: https://avatars.githubusercontent.com/u/53897259?v=4
-      descr: 一条双非本科老菜狗
-    # - name:
-    #   link:
-    #   avatar:
-    #   descr:
-    - name: ⭐️齐下无贰⭐️
-      link: https://weidows.gitee.io
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
-      descr: 此人没有其他朋友了..
-
-
 - class_name: 巨人的肩膀
   class_desc: 此情此景,一切美的颜料!
   link_list:
@@ -88,7 +51,7 @@
       descr: 立即行动吧，未来要自己争取
     - name: 山河
       link: https://sang.pub/
-      avatar: https://p.ananas.chaoxing.com/star3/origin/da7c9423cd822958dcf37e8aa0b446a2.jpg
+      avatar: https://cdn.jsdelivr.net/gh/mydracula/image@master/20210330/fb345fa732f23f3fe9f1fd962168f24f.jpg
       descr: 你喜欢我吗
     - name: HCLonely
       link: https://blog.hclonely.com/
@@ -115,6 +78,46 @@
       avatar: https://discover304.top/img/head-pic.jpg
       descr: 始于兴趣，源于热爱，成于投入。
       siteshot: https://image.discover304.top/siteshoot.png?imageView2/2/h/300
+    - name: 极致网
+      link: https://www.zzdhz.com/
+      avatar: https://www.zzdhz.com/favicon.ico
+      descr: 专注收集免费资源分享优质软件资源
+    # - name:
+    #   link:
+    #   avatar:
+    #   descr:
+    - name: ⭐️齐下无贰⭐️
+      link: https://weidows.gitee.io
+      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
+      descr: 此人没有其他朋友了..
+
+- class_name: 路宇同行客
+  class_desc: 如侠客一般游走于各路上的行者. (俗称校友)
+  link_list:
+    - name: CregskiN
+      link: https://github.com/CregskiN
+      avatar: https://www.qiniu.cregskin.com/avatar.jpg
+      descr: 我辈亦有同路人，吾道不孤
+    - name: CregskiN的思否
+      link: https://segmentfault.com/u/cregskin
+      avatar: https://avatar-static.segmentfault.com/510/119/510119718-5dec4cefeeee5_huge256
+      descr: 焦虑驱动型学习者，喜欢 react 和 node
+    - name: JellyfishMIX
+      link: https://blog.csdn.net/weixin_43735348
+      avatar: https://avatars0.githubusercontent.com/u/52696481?s=460&u=12c5d2785e5a8e306144c19643bf276b77a5c491&v=4
+      descr: Focusing. A backend programmer who likes humanities and history.
+    - name: Taiga_A
+      link: https://taiga-a.github.io
+      avatar: https://taiga-a-1304851750.cos.ap-beijing.myqcloud.com/%E5%A4%B4%E5%83%8F.jpg
+      descr:
+    - name: Leabox
+      link: https://leabox.github.io
+      avatar: https://avatars.githubusercontent.com/u/51941217?s=400&u=5fa6142ac511aff0817df7e82abcf91fbaaeb81a&v=4
+      descr:
+    - name: 高厉害
+      link: http://gaolihai.cool
+      avatar: https://avatars.githubusercontent.com/u/53897259?v=4
+      descr: 一条双非本科老菜狗
     # - name:
     #   link:
     #   avatar:
