@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;tomcat&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 25 Mar 2021 02:39:26 +0000</pubDate>
+        <lastBuildDate>Thu, 25 Mar 2021 02:39:26 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>hls</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>qq</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>面试</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>deprecated</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>manjaro</category>
+        <category>计算机系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>python</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>工具</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>大前端</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>leetcode</category>
+        <category>数据结构</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>onenote</category>
+        <category>复变函数</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/tools/Tomcat/</guid>
+            <title>🐱‍🏍Maven+Tomcat开发webapp.</title>
+            <link>https://weidows.github.io/post/tools/Tomcat/</link>
+            <category>java</category>
+            <category>vscode</category>
+            <category>maven</category>
+            <category>website</category>
+            <category>笔记</category>
+            <category>idea</category>
+            <category>服务器</category>
+            <category>tomcat</category>
+            <pubDate>Thu, 25 Mar 2021 02:39:26 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-30 12:50:22
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\Tomcat.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE&#34;&gt;配置&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode&#34;&gt;VScode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE&#34;&gt;创建项目&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#idea&#34;&gt;IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%BB%A3%E7%90%86&#34;&gt;虚拟主机/代理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98&#34;&gt;乱码问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%88%E7%AB%AF%E4%B9%B1%E7%A0%81&#34;&gt;终端乱码&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81&#34;&gt;网页中文乱码&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置-3&#34;&gt;配置&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../system/system_variable#maven&#34;&gt;💥 系统开发环境配置&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Maven 的核心思想：约定大于配置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;VScode-3&#34;&gt;VScode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装 &lt;code&gt;Tomcat for Java&lt;/code&gt; 插件,配置好 Tomcat 本体路径和 &lt;code&gt;data&lt;/code&gt; 路径&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在侧边栏右键,常用命令都有&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsEkC.png&#34; alt=&#34;20210309155951&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新建 &lt;code&gt;index.html&lt;/code&gt; 文件,放到 &lt;code&gt;tomcat/webapps/ROOT/&lt;/code&gt;目录下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;lt;!DOCTYPE &lt;span class=&#34;meta-keyword&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;lang&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;en&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;charset&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UTF-8&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;http-equiv&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;X-UA-Compatible&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;IE=edge&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;viewport&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;content&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;width=device-width, initial-scale=1.0&amp;quot;&lt;/span&gt; /&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;Document&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    测试&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;body&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;打开对应页面会有如下显示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVssbt.png&#34; alt=&#34;20210309160418&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;ROOT/&lt;/code&gt;里面放的文件与浏览器 URL 相对应&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如 &lt;code&gt;ROOT/000/2333.html&lt;/code&gt; 浏览器就需要访问 &lt;code&gt;localhost:8080/000/2333.html&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后缀名是&lt;code&gt;.html&lt;/code&gt;的话 URL 后缀可以不写,比如上面写成 &lt;code&gt;localhost:8080/000/2333&lt;/code&gt; 也可以.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;创建项目&#34;&gt;创建项目&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;解释一下为什么要用 Maven,还需要创建项目: &lt;code&gt;Tomcat 只能运行 Maven 创建的类型为 webapp 的这种项目&lt;/code&gt;,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;推荐直接用 IDEA 创建 web 项目 (不用再导入 Servlet 包)&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVskJo.png&#34; alt=&#34;20210323233425&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后创建 &lt;code&gt;webapp&lt;/code&gt; 子模块,在&lt;code&gt;source/main/&lt;/code&gt;下再新建两个目录(java 和 resources),结构如下&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsf3C.png&#34; alt=&#34;20210323112637&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;JavaWeb\src\main\webapp\WEB-INF\web.xml&lt;/code&gt; 是 web 项目核心应用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows/Java/tree/master/JavaWeb/demo-0&#34;&gt;点这里参考项目结构&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;IDEA-2&#34;&gt;IDEA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 配置连接 Tomcat 需要在创建完 webapp 项目之后,否则连不上&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;点’+&#39;找到 Tomcat Server 并配置,如图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVt5Lv.png&#34; alt=&#34;20210325110519&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在 IDEA 已经认识 Tomcat 了,但还需要配置部署,否则 Tomcat 不知道运行哪里&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这些工件就是这个项目用 Maven 构建之后产生的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsyRu.png&#34; alt=&#34;20210325110722&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在配置好了之后,IDEA 会自动完成项目&lt;code&gt;构建-&amp;gt;部署-&amp;gt;打开网页&lt;/code&gt; (VScode 的话也可以手动做到)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;虚拟主机-代理&#34;&gt;虚拟主机/代理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过修改 &lt;code&gt;Tomcat/conf/server.xml&lt;/code&gt;和 hosts 文件实现虚拟主机.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改 &lt;code&gt;name=&amp;quot;localhost&amp;quot;&lt;/code&gt; 为目标主机名,比如改为&lt;code&gt;name=&amp;quot;weidows.com&amp;quot;&lt;/code&gt;,下面注释处给标出了修改位置&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;yes&amp;quot;?&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Server&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;port&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;8005&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;shutdown&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;SHUTDOWN&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.startup.VersionLoggerListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.core.AprLifecycleListener&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;SSLEngine&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;on&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.core.JreMemoryLeakPreventionListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.mbeans.GlobalResourcesLifecycleListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Listener&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.core.ThreadLocalLeakPreventionListener&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;GlobalNamingResources&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Resource&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UserDatabase&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;auth&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Container&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.UserDatabase&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;description&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;User database that can be updated and saved&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;factory&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.users.MemoryUserDatabaseFactory&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;pathname&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;conf/tomcat-users.xml&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;GlobalNamingResources&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Service&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Catalina&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Connector&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;port&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;8080&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;protocol&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;HTTP/1.1&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;connectionTimeout&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;20000&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;redirectPort&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;8443&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Engine&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Catalina&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;defaultHost&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;localhost&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Realm&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.realm.LockOutRealm&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Realm&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.realm.UserDatabaseRealm&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;resourceName&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;UserDatabase&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Realm&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;comment&#34;&gt;&amp;lt;!-- 修改这下面一行 --&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Host&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;localhost&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;appBase&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;webapps&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;unpackWARs&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;autoDeploy&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;true&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;Valve&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;org.apache.catalina.valves.AccessLogValve&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;directory&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;logs&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;prefix&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;localhost_access_log&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;suffix&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;.txt&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;pattern&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;%h %l %u %t &lt;span class=&#34;symbol&#34;&gt;&amp;amp;quot;&lt;/span&gt;%r&lt;span class=&#34;symbol&#34;&gt;&amp;amp;quot;&lt;/span&gt; %s %b&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Host&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Engine&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Service&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;Server&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;然后修改 host,实现代理,如下图第二行即为需要添加的&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsLAE.png&#34; alt=&#34;20210309161039&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;含义就是: &lt;code&gt;在访问右边的主机时,将它指向左边的地址&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比如浏览器访问 &lt;code&gt;localhost:8080&lt;/code&gt; 时,实际上是访问的 &lt;code&gt;127.0.0.1:8080&lt;/code&gt;,也就是本机地址&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;现在,打开 Tomcat 服务,他就会在本机 8080 端口监听,当在浏览器输入&lt;code&gt;weidows.com:8080&lt;/code&gt;时,会被 host 指向到&lt;code&gt;127.0.0.1:8080&lt;/code&gt;,Tomcat 服务器收到请求并回应&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;结构如下图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsAGv.png&#34; alt=&#34;20210309163300&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;可能会存在的疑问: 同样是指向到 &lt;code&gt;127.0.0.1&lt;/code&gt;,为什么 localhost:8080 或者直接 127.0.0.1:8080 无法访问到 &lt;a href=&#34;http://weidows.com:8080&#34;&gt;weidows.com:8080&lt;/a&gt; 页面?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这就像递归式问路,首先问 host 知不知道 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt;,host 不直接知道,它让我们问 Tomcat,于是我们去 127.0.0.1:8080 问 Tomcat 知不知道 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;诶,Tomcat 它可以直接知道 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt; 在哪里,于是浏览器就这么找到 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt; 页面了!&lt;/li&gt;
+&lt;li&gt;页面在 &lt;a href=&#34;http://weidows.com&#34;&gt;weidows.com&lt;/a&gt; 手里,你要是去找 localhost:8080 或者 127.0.0.1 的话,就是问错人了,肯定是 404&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后附一张图,根据序号来看,条理比较清晰.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVs8L1.png&#34; alt=&#34;20210322100531&#34; /&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;乱码问题&#34;&gt;乱码问题&lt;/h2&gt;
+&lt;h3 id=&#34;终端乱码&#34;&gt;终端乱码&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在启动 Tomcat 时,终端内中文乱码:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;虽然这个对程序运行没有影响,但是有些影响观瞻,一般只会在 Window 遇到,修改如下:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;找到 &lt;code&gt;Tomcat/conf/logging.properties&lt;/code&gt; 里面的-&amp;gt; &lt;code&gt;java.util.logging.ConsoleHandler.encoding&lt;/code&gt;这一行 ,把 &lt;code&gt;UTF-8&lt;/code&gt;换为&lt;code&gt;GBK&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另一种方法: 把终端显示设置为 UTF-8&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVteSR.png&#34; alt=&#34;20210330125008&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;网页中文乱码&#34;&gt;网页中文乱码&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我们开发的页面,无论是动/静态,只要不指定编码格式,中文肯定乱码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;需要做的就是在开发网页时,指定 &lt;code&gt;CharacterEncoding = UTF-8&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
