@@ -61,6 +61,6 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照
+## 借物表
 
 <a name='cite_note-01' href='#cite_ref-01'>[1]</a>: https://news.ycombinator.com/item?id=27917069

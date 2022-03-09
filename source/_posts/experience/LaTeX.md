@@ -315,7 +315,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参考
+## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [LaTeX 公式速查](http://chu-studio.com/posts/2017/LaTeX%20%E5%85%AC%E5%BC%8F%E9%80%9F%E6%9F%A5)
 

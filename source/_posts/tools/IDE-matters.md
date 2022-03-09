@@ -91,6 +91,6 @@ OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参考
+## 借物表
 
 <a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [🐭 从零开始 Golang & blockchain](../others/golang/blockchain#Goland-快捷键导入)

@@ -100,6 +100,6 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照
+## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [【ps 小技巧/教程】 快速做出“文字用图片内容作填充”的效果，图片生成特定文字的轮廓效果|新手向|图片文字](https://www.bilibili.com/video/BV12p4y1z7FZ?spm_id_from=..search-card.all.click)

@@ -120,7 +120,7 @@ go mod init ProjectName
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照
+## 借物表
 
 <a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [《Golang 区块链入门到实战\_以太坊/fabric》](https://www.zlkt.net/book/detail/9/257)
 

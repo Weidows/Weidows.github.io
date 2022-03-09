@@ -321,6 +321,6 @@ exit status 145: The directory is not empty.
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参考
+## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [yarn 源管理工具 yrm](https://www.jianshu.com/p/dbe3cda1ac11)

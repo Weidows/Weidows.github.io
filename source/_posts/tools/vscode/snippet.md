@@ -120,6 +120,6 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照
+## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [VS Code 代码片段完全入门指南](https://chinese.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/)

@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-06 10:35:14
+ * @LastEditTime: 2022-03-09 14:26:57
  * @FilePath: \Blog-private\source\_posts\tools\SM-MS-downloader.md
  * @Description:
  * @!: *********************************************************************
@@ -26,16 +26,12 @@ top_img:
 
 ```pullquote mindmap mindmap-md
 - [SM.MS-批量下载器](#smms-批量下载器)
-  - [关联项目](#关联项目)
-  - [简介](#简介)
   - [使用](#使用)
   - [问题](#问题)
-  - [路标 & 技术调用](#路标--技术调用)
+  - [借物表](#借物表)
 ```
 
-## [关联项目](https://github.com/Weidows/awesome-image-collector)
-
-## 简介
+[⏩ 文章地址](https://weidows.github.io/post/tools/SM-MS-downloader/) | [✔️ 仓库地址](https://github.com/Weidows-projects/awesome-image-collector) 欢迎提交 pr !
 
 SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
@@ -68,13 +64,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 路标 & 技术调用
-
-> [博客文章地址](https://weidows.github.io/post/tools/SM-MS-downloader) \
-> [Gitee 仓库地址](https://gitee.com/Weidows-projects/awesome-image-collector) \
-> [GitHub 仓库地址](https://github.com/Weidows-projects/awesome-image-collector)
-
----
+## 借物表
 
 > `JSZip`
 

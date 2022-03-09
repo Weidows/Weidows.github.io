@@ -1,5 +1,5 @@
 ---
-title: 🤷‍♂️进程,线程,CPU核心,并行,并发大杂碎!
+title: 🤷‍♂️进程线程-CPU-并行并发大杂碎!
 password: ""
 tags:
   - 计算机系统
@@ -11,23 +11,28 @@ cover: https://www.helloimg.com/images/2022/02/27/GVsZaq.png
 top_img:
 ---
 
+# 进程线程-CPU-并行并发大杂碎!
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-06 00:30:57
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\process-thread.md
+ * @LastEditTime: 2022-03-09 14:19:32
+ * @FilePath: \Blog-private\source\_posts\system\process-thread.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [引子](#引子)
-- [进程与线程](#进程与线程)
-  - [进程](#进程)
-  - [线程](#线程)
-- [几核几线程](#几核几线程)
-- [并行与并发](#并行与并发)
-- [参照&推荐阅读](#参照推荐阅读)
+```pullquote mindmap mindmap-md
+- [进程线程-CPU-并行并发大杂碎!](#进程线程-cpu-并行并发大杂碎)
+  - [引子](#引子)
+  - [进程与线程](#进程与线程)
+    - [进程](#进程)
+    - [线程](#线程)
+  - [几核几线程](#几核几线程)
+  - [并行与并发](#并行与并发)
+  - [参照](#参照)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -144,7 +149,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照&推荐阅读
+## 借物表
 
 > [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4NTk4Ng==&mid=2247486625&idx=1&sn=f35d340727b0e8e23f82ff7c5182c893&chksm=c37bfc8cf40c759a084effb4c5b253ad50ad0be02b8b8dea073fa333ca6adefce6ef8cb6db9f&mpshare=1&scene=23&srcid=0305mrfN5sGJ1jI9aPxUFqjU&sharer_sharetime=1614936389002&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 

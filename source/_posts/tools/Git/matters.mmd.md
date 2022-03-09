@@ -478,6 +478,6 @@ fatal: Need to specify how to reconcile divergent branches.
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参考
+## 借物表
 
 <a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [git merge 的三种操作 merge, squash merge, 和 rebase merge](https://www.jianshu.com/p/ff1877c5864e)

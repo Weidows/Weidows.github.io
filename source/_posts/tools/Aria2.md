@@ -336,7 +336,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参考
+## 借物表
 
 - 本篇文章介绍不是很平滑,建议结合参照文章一同食用.
 

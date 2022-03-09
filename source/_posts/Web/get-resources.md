@@ -423,7 +423,7 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照
+## 借物表
 
 <a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [HLS 协议介绍](https://www.jianshu.com/p/426425cad08a)
 

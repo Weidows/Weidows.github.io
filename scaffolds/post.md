@@ -31,5 +31,5 @@ date: {{ date }}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 参照
+## 借物表
 暂无.

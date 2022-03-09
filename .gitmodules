@@ -11,3 +11,6 @@
 [submodule "source/_posts/life/Eyes-4-Fishing"]
 	path = source/_posts/life/Eyes-4-Fishing
 	url = https://github.com/Weidows-projects/Eyes-4-Fishing.git
+[submodule "source/_posts/experience/LeetCode"]
+	path = source/_posts/experience/LeetCode
+	url = https://github.com/Weidows/LeetCode.git
