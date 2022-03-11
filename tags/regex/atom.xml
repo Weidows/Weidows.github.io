@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;regex&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2022-02-22T17:34:56.000Z</updated>
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="vscode" />
+    <category term="maven" />
+    <category term="对象" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="manjaro" />
+    <category term="计算机系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="git" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="面试" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="opengl" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="anaconda" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/experience/regex/</id>
+        <title>🙉修为突破灵药-正则表达式</title>
+        <link rel="alternate" href="https://weidows.github.io/post/experience/regex/"/>
+        <content type="html">&lt;h1&gt;修为突破灵药-正则表达式&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-02-27 18:32:40
+ * @FilePath: \Blog-private\source\_posts\experience\regex.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E4%B8%BA%E7%AA%81%E7%A0%B4%E7%81%B5%E8%8D%AF-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F&#34;&gt;修为突破灵药-正则表达式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#fix-%E8%AE%B0%E5%BD%95&#34;&gt;fix-记录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#regex-%E5%A4%9A%E5%AF%B9%E5%A4%9A%E6%9B%BF%E6%8D%A2&#34;&gt;regex-多对多替换&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode-%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2&#34;&gt;vscode-批量替换&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sed-%E6%9B%BF%E6%8D%A2%E5%8F%8D%E6%96%9C%E6%9D%A0&#34;&gt;sed-替换反斜杠&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%82%E7%85%A7&#34;&gt;参照&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Regular Expressions，缩写为 Regex 或 Regexp&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;推荐两个学习网址:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/74136752&#34;&gt;手握手教你学会正则表达式&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://regexlearn.com/zh-cn&#34;&gt;https://regexlearn.com/zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;fix-记录&#34;&gt;fix-记录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bubkoo/hexo-filter-fenced-code/issues/3&#34;&gt;https://github.com/bubkoo/hexo-filter-fenced-code/issues/3&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; rFenceCode = &lt;span class=&#34;regexp&#34;&gt;/(\s*)(`&amp;#123;3,&amp;#125;|~&amp;#123;3,&amp;#125;) *(.*) *\n?([\s\S]+?)\s*(\2)(\n+|$)/g&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;(\s*)(`&amp;#123;3,&amp;#125;|~&amp;#123;3,&amp;#125;)&lt;/code&gt;&lt;br&gt;
+``` 或者 ~~~&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; *(.*)&lt;/code&gt;&lt;br&gt;
+至少 1 个空格+至少 1 个任意字符&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; *\n?&lt;/code&gt;&lt;br&gt;
+至少 1 个空格+可有可无换行; 错误原因就是此,我习惯 trim,所以无法正常匹配&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;regex-多对多替换&#34;&gt;regex-多对多替换&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我在切换图床时想实现如下 &lt;code&gt;多对多替换&lt;/code&gt; 的需求&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;cdn.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post&lt;span class=&#34;regexp&#34;&gt;/1d9Xs6ADR3MaNCy.png --&amp;gt; https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/www.helloimg.com/im&lt;/span&gt;age/GVFbWK&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;cdn.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post&lt;span class=&#34;regexp&#34;&gt;/2C7cgeEIQNr3qLu.png --&amp;gt; https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/www.helloimg.com/im&lt;/span&gt;age/GVFlgb&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;cdn.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post&lt;span class=&#34;regexp&#34;&gt;/2GXOS5mW8EzIT7Y.png --&amp;gt; https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/www.helloimg.com/im&lt;/span&gt;age/GVFWDS&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;cdn.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post&lt;span class=&#34;regexp&#34;&gt;/2POdUowc3qW8DRy.png --&amp;gt; https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/www.helloimg.com/im&lt;/span&gt;age/GVFTHD&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;cdn.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post&lt;span class=&#34;regexp&#34;&gt;/2ThkbFZmCU3QvEN.png --&amp;gt; https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/www.helloimg.com/im&lt;/span&gt;age/GVF2ao&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;cdn.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post&lt;span class=&#34;regexp&#34;&gt;/2ThYuqlEtFfdJeK.png --&amp;gt; https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/www.helloimg.com/im&lt;/span&gt;age/GVFOGC&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;shell 脚本实现:&lt;/p&gt;
+&lt;p&gt;支持同一链接在多个文件/多次出现出现的情况&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt;&lt;span class=&#34;comment&#34;&gt;##&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @?: *********************************************************************&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @Author: Weidows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @Date: 2022-02-27 01:34:37&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @LastEditors: Weidows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @LastEditTime: 2022-02-27 18:29:00&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @FilePath: \Blog-private\test.sh&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @Description:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; @!: *********************************************************************&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt;&lt;span class=&#34;comment&#34;&gt;##&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; eFC3Lqbpi9xQ4Mg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fileArray=(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; 2022/02/27/GVJOM6.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;urlArray=(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;for i in &amp;quot;$&amp;#123;!fileArray[@]&amp;#125;&amp;quot;; do&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;  #&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; 查找&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  path=`grep -rl $&amp;#123;fileArray[$i]&amp;#125; ./source`&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;  #&lt;/span&gt;&lt;span class=&#34;bash&#34;&gt; 替换&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  sed -i &amp;quot;s#cdn.jsdelivr.net/gh/Weidows/Images/post/$&amp;#123;fileArray[$i]&amp;#125;\.\w\w\w#www.helloimg.com/images/$&amp;#123;urlArray[$i]&amp;#125;#g&amp;quot; $path&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;done&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vscode-批量替换&#34;&gt;vscode-批量替换&lt;/h2&gt;
+&lt;p&gt;Screenshot_20210313_171408_tv.danmaku.bili&lt;/p&gt;
+&lt;p&gt;-&amp;gt; Screenshot20210313171408&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Screenshot_\d+_\d+_tv.danmaku.bili&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;-&amp;gt; Screenshot\d+\d+&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sed-替换反斜杠&#34;&gt;sed-替换反斜杠&lt;/h2&gt;
+&lt;p&gt;&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;2022/02/27/GVJOM6.jpg&lt;/p&gt;
+&lt;p&gt;-&amp;gt; 2022/02/27/GVJOM6.jpg&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sed -i &amp;quot;s#/#\\/#g&amp;quot; result.txt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/weixin_39031707/article/details/104065184&#34;&gt;Sed 替换 内容带反斜杠（/）&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表-6&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无.&lt;/p&gt;
+&lt;figure class=&#34;highlight&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="regex" />
+        <updated>2022-02-22T17:34:56.000Z</updated>
+    </entry>
+</feed>
