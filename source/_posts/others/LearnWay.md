@@ -25,7 +25,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-10 15:58:05
+ * @LastEditTime: 2022-03-13 23:31:05
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -188,8 +188,7 @@ top_img:
     - 跨域
       - [😡 一次解决 CORS 经验记录.](../../Web/JavaScript/CORS)
     - 工具类
-      - [为什么 javascript map 函数返回 undefined？(Why does javascript map function return undefined?)](https://www.it1352.com/1014899.html)
-        - 干活时搞了一下午.map,被这个问答糊脸了
+      - [🚚开发之旅~](../../experience/dev/sql-problem)
     - 其他
       - [如何做到修改 node_module 中的包，却不受重新安装的影响](https://mp.weixin.qq.com/s/qNJPkSkMTWNYjjKMp4rwmA)
 ```
@@ -300,13 +299,13 @@ top_img:
 
 ## 设计
 
-- 跳到新文章吧,写在这太长: [🙌UI 平面设计.](../../design/UI-design)
-
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
-
 ## 基础知识
 
-[基础知识](../../experience/basic/基础知识.mmd)
+- 这两个跳到新文章吧,写在这太长:
+
+  [🙌UI 平面设计.](../../design/UI-design)
+
+  [🌈 基础知识](../../experience/basic/基础知识.mmd)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

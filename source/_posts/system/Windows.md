@@ -16,7 +16,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-04 16:34:07
+ * @LastEditTime: 2022-03-13 23:20:56
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -333,8 +333,11 @@ LSP mode : on
 
 ## windows-防火墙通知
 
-- 关掉防火墙后总是弹出通知让我打开它,没完没了;试试下面两方法:
+- 关掉防火墙后总是弹出通知让我打开它,没完没了
 
+  下面两方法亲测无效.. 可惜还没找到可行的方法.
+
+  ![RFnI9E.png](https://www.helloimg.com/images/2022/03/12/RFnI9E.png)
   ![](https://www.helloimg.com/images/2022/03/04/GhEgqX.png)
   ![](https://www.helloimg.com/images/2022/03/04/GhEYPP.png)
 
