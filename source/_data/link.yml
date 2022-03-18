@@ -95,10 +95,6 @@
   class_desc: 如侠客一般游走于各路上的行者. (俗称校友)
   link_list:
     - name: CregskiN
-      link: https://github.com/CregskiN
-      avatar: https://www.qiniu.cregskin.com/avatar.jpg
-      descr: 我辈亦有同路人，吾道不孤
-    - name: CregskiN的思否
       link: https://segmentfault.com/u/cregskin
       avatar: https://avatar-static.segmentfault.com/510/119/510119718-5dec4cefeeee5_huge256
       descr: 焦虑驱动型学习者，喜欢 react 和 node
@@ -114,8 +110,8 @@
       link: https://leabox.github.io
       avatar: https://avatars.githubusercontent.com/u/51941217?s=400&u=5fa6142ac511aff0817df7e82abcf91fbaaeb81a&v=4
       descr:
-    - name: 高厉害
-      link: http://gaolihai.cool
+    - name: 高厉害的笔记本
+      link: http://codingfor.life/#/
       avatar: https://avatars.githubusercontent.com/u/53897259?v=4
       descr: 一条双非本科老菜狗
     # - name:
