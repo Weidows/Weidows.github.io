@@ -1,0 +1,608 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;scoop&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 14 Jan 2021 15:09:52 +0000</pubDate>
+        <lastBuildDate>Thu, 14 Jan 2021 15:09:52 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>hls</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>qq</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>工作</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>cpp</category>
+        <category>python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>manjaro</category>
+        <category>计算机系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>面试</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>onenote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>mariadb</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>leetcode</category>
+        <category>数据结构</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/tools/Scoop/</guid>
+            <title>🙌Windows平台软件包管理器选择-Scoop</title>
+            <link>https://weidows.github.io/post/tools/Scoop/</link>
+            <category>推荐</category>
+            <category>工具</category>
+            <category>windows</category>
+            <category>scoop</category>
+            <category>package</category>
+            <pubDate>Thu, 14 Jan 2021 15:09:52 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-14 23:09:52
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-01-14 16:50:24
+ * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%95%E5%85%A5%E5%8F%98%E9%87%8F&#34;&gt;引入变量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E4%B8%AA%E4%BC%98%E7%BC%BA%E7%82%B9&#34;&gt;各个优缺点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85&#34;&gt;安装&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop&#34;&gt;Scoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#chocolatey&#34;&gt;Chocolatey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%9F%E8%83%BD%E6%8F%90%E5%8D%87&#34;&gt;功能提升&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-completion&#34;&gt;scoop-completion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD&#34;&gt;加速下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-%E7%BB%9D%E6%B4%BB&#34;&gt;Scoop 绝活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6&#34;&gt;配置文件&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-1&#34;&gt;Scoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#chocolatey-1&#34;&gt;Chocolatey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A5%BD%E6%96%87%E4%BC%A0%E9%80%81&#34;&gt;好文传送&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%A5%E9%94%99%E5%BC%82%E5%B8%B8&#34;&gt;报错异常&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E7%BB%9C%E5%8E%9F%E5%9B%A0&#34;&gt;网络原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E5%8E%9F%E5%9B%A0&#34;&gt;环境原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%86%85%E6%A0%B8%E6%9B%B4%E6%8D%A2%E6%8A%A5%E9%94%99&#34;&gt;内核更换报错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop-search&#34;&gt;scoop-search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E5%A4%87%E4%BB%BD%E6%8E%A8%E8%8D%90&#34;&gt;更新&amp;amp;备份&amp;amp;推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;引入变量&#34;&gt;引入变量&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;软件包管理器: 就像是 360 软件管家,腾讯软件管家之类的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;此文章要介绍的是&lt;code&gt;Scoop&lt;/code&gt;- 横向简单对比&lt;code&gt;Chocolatey&lt;/code&gt;和&lt;code&gt;WinGet&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各个优缺点&#34;&gt;各个优缺点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scoop&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;软件少&lt;/li&gt;
+&lt;li&gt;安装它需要&lt;code&gt;科学上网&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;官方只收留非 GUI 软件(不带图形界面的),但是有第三方拓展库&lt;/li&gt;
+&lt;li&gt;安装/卸载干净,可指定性,可拓展第三方软件仓库&lt;/li&gt;
+&lt;li&gt;不污染环境变量,软件目录清晰&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;面向程序员&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chocolatey&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;软件多&lt;/li&gt;
+&lt;li&gt;有的软件安装位置不定&lt;/li&gt;
+&lt;li&gt;面向大众.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnbeta.com/articles/tech/874537.htm?utm_source=tuicool&amp;amp;utm_medium=referral&#34;&gt;软件包管理工具选 Scoop 还是 Chocolatey？看完这篇就知道了&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WinGet&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;preview 中(2021 年初为止)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;只能安装不能卸载&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;只能装.exe,.msi 等,差不多就是个下载+安装的工具&lt;/li&gt;
+&lt;li&gt;还非常青涩,&lt;strong&gt;不推荐!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://sspai.com/post/60592&#34;&gt;WinGet 介绍&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;个人选择了 &lt;code&gt;Scoop&lt;/code&gt;,下面主要讲 Scoop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装-2&#34;&gt;安装&lt;/h2&gt;
+&lt;h3 id=&#34;Scoop-2&#34;&gt;Scoop&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装前先设置下 Scoop 的&lt;code&gt;安装路径&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下面操作需要在 pwsh 中进行,没有的话可以手动操作.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如下,在 user 栏新建&lt;code&gt;SCOOP&lt;/code&gt;,值为&lt;code&gt;D:\Game\Scoop&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable&#34;&gt;$env:SCOOP&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;D:\Game\Scoop&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;type&#34;&gt;Environment&lt;/span&gt;]::SetEnvironmentVariable(&lt;span class=&#34;string&#34;&gt;&amp;#x27;SCOOP&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;variable&#34;&gt;$env:SCOOP&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;User&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外,如果想添加到系统环境变量栏,只需把&lt;code&gt;User&lt;/code&gt;修改为&lt;code&gt;Machine&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight powershell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;type&#34;&gt;Environment&lt;/span&gt;]::SetEnvironmentVariable(&lt;span class=&#34;string&#34;&gt;&amp;#x27;SCOOP&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;variable&#34;&gt;$env:SCOOP&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;Machine&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置好了如下&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVSttT.png&#34; alt=&#34;20210115232840&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;iwr -useb get.scoop.sh | iex&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;终端输入&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输出&lt;/p&gt;
+&lt;figure class=&#34;highlight stata&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;❯ scoop&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Usage: scoop &amp;lt;command&amp;gt; [&amp;lt;&lt;span class=&#34;keyword&#34;&gt;args&lt;/span&gt;&amp;gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Some useful commands are:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;alias       Manage scoop aliases&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bucket      Manage Scoop buckets&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cache       Show or &lt;span class=&#34;keyword&#34;&gt;clear&lt;/span&gt; the download cache&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;checkup     Check &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; potential problems&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cleanup     Cleanup apps &lt;span class=&#34;keyword&#34;&gt;by&lt;/span&gt; removing old versions&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;config      Get or &lt;span class=&#34;keyword&#34;&gt;set&lt;/span&gt; configuration values&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;create      Create a custom &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; manifest&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;depends     &lt;span class=&#34;keyword&#34;&gt;List&lt;/span&gt; dependencies &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;export      Exports (&lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; importable) &lt;span class=&#34;keyword&#34;&gt;list&lt;/span&gt; of installed apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt;        Show &lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; a command&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hold        Hold &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; to disable updates&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;home        Opens the &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; homepage&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;info        &lt;span class=&#34;keyword&#34;&gt;Display&lt;/span&gt; information &lt;span class=&#34;keyword&#34;&gt;about&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;install     Install apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;list&lt;/span&gt;        &lt;span class=&#34;keyword&#34;&gt;List&lt;/span&gt; installed apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;prefix      Returns the path to the specified &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;reset       Reset &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; to resolve conflicts&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;search&lt;/span&gt;      &lt;span class=&#34;keyword&#34;&gt;Search&lt;/span&gt; available apps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;status      Show status and check &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; new &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; versions&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;unhold      Unhold &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt; to enable updates&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;uninstall   Uninstall &lt;span class=&#34;keyword&#34;&gt;an&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;update&lt;/span&gt;      &lt;span class=&#34;keyword&#34;&gt;Update&lt;/span&gt; apps, or Scoop itself&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;virustotal  Look &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;app&lt;/span&gt;&amp;#x27;s hash &lt;span class=&#34;keyword&#34;&gt;on&lt;/span&gt; virustotal.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;which&lt;/span&gt;       Locate a shim/executable (similar to &amp;#x27;&lt;span class=&#34;keyword&#34;&gt;which&lt;/span&gt;&amp;#x27; &lt;span class=&#34;keyword&#34;&gt;on&lt;/span&gt; Linux)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Type&lt;/span&gt; &amp;#x27;scoop &lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt; &amp;lt;command&amp;gt;&amp;#x27; to get &lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; a specific command.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Chocolatey&#34;&gt;Chocolatey&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;首先设置环境变量 &lt;code&gt;ChocolateyInstall&lt;/code&gt; ,值为要安装的位置,如下&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果不设置的话 Chocolatey 会自动安装进 C 盘&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设置完环境变量后一定要&lt;code&gt;重启&lt;/code&gt;,否则不会生效,还是跟没设置一样.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsWIn.png&#34; alt=&#34;20210314001245&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;功能提升&#34;&gt;功能提升&lt;/h2&gt;
+&lt;h3 id=&#34;scoop-completion&#34;&gt;scoop-completion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;scoop 命令按 tab 自动补全&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;需要先添加 dorado 库&lt;a href=&#34;#%E5%A4%87%E4%BB%BD&amp;amp;%E6%8E%A8%E8%8D%90&#34;&gt;(备份&amp;amp;推荐)&lt;/a&gt;,然后才能安装.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;scoop-completion&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;加速下载&#34;&gt;加速下载&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过 aria2,配置:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-split 32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-max-connection-per-server 16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-min-split-size 1M&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过代理:&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop&lt;span class=&#34;built_in&#34;&gt; config proxy &lt;/span&gt;localhost:7890&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;choco&lt;span class=&#34;built_in&#34;&gt; config &lt;/span&gt;&lt;span class=&#34;builtin-name&#34;&gt;set&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt; proxy &lt;/span&gt;localhost:7890&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;移除代理:&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;config&lt;/span&gt; rm proxy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;choco &lt;span class=&#34;built_in&#34;&gt;config&lt;/span&gt; unset proxy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Scoop-绝活&#34;&gt;Scoop 绝活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;他把当前版本的目录创建了一个&lt;code&gt;伪目录:current&lt;/code&gt;,这个伪目录指向当前版本号的目录&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比如这里的&lt;code&gt;current/node.exe&lt;/code&gt;实际上指向&lt;code&gt;15.5.1/node.exe&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVL62D.png&#34; alt=&#34;20210115011742&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个功能太赞了!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置文件&#34;&gt;配置文件&lt;/h2&gt;
+&lt;h3 id=&#34;Scoop-3&#34;&gt;Scoop&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 &lt;code&gt;C:\Users\用户名\.config\scoop\config.json&lt;/code&gt; 这个文件里.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Chocolatey-2&#34;&gt;Chocolatey&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 &lt;code&gt;Chocolatey\config\chocolatey.config&lt;/code&gt; 这个文件里.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;好文传送&#34;&gt;好文传送&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/luoyooi/article/details/102990113&#34;&gt;Windows 下 Scoop 安装、配置与使用&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/50993df76b1c&#34;&gt;scoop——强大的 Windows 命令行包管理工具&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;报错异常&#34;&gt;报错异常&lt;/h2&gt;
+&lt;h3 id=&#34;网络原因&#34;&gt;网络原因&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;比如我在用 scoop 安装 pwsh 时,会遇到 MD5 不匹配或者与 GitHub 连接异常的情况,安装失败&lt;/li&gt;
+&lt;li&gt;举例:
+&lt;ul&gt;
+&lt;li&gt;我安装&lt;code&gt;gitkraken&lt;/code&gt;时,不开 aria2 下载出错,开了的话下载特慢,而且下载时间趋近无穷…&lt;/li&gt;
+&lt;li&gt;于是我采用方案一,直接用浏览器下载的,带宽跑满,几秒就下载好了.&lt;/li&gt;
+&lt;li&gt;然后改文件名-&amp;gt;复制进 cache-&amp;gt;install-&amp;gt;successfully.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;另外还有一种情况,比如我安装&lt;code&gt;gcc&lt;/code&gt;时遇到 scoop 提供的 URL 是 404 状态,这是服务器的问题了,无法解决.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意,如果安装失败,在 Scoop 内部记录实际是&lt;code&gt;已安装&lt;/code&gt;,所以需要卸载再重新安装&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;解决方案一&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装失败报错时会显示下载地址,去那里手动下载目标文件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;或者进入 cache,找到有个叫&lt;code&gt;(要安装的软件名).txt&lt;/code&gt;这个文件,比如我要安装&lt;code&gt;gitkraken&lt;/code&gt;,就去找到&lt;code&gt;cache/gitkraken.txt&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;内容如下&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;https&lt;/span&gt;://release.gitkraken.com/win&lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;/gitkraken-&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;-full.nupkg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;referer&lt;/span&gt;=https://release.gitkraken.com/win&lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;dir&lt;/span&gt;=D:\Game\Scoop\cache&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;out&lt;/span&gt;=gitkraken#&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;#https_release.gitkraken.com_win&lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;_gitkraken-&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;-full.nupkg&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第一行就是&lt;code&gt;下载地址&lt;/code&gt;,最后一行&lt;code&gt;out=&lt;/code&gt;后面是目标文件名&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入 cache,按照他的命名,把我们自己下载的重命名后复制进来&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再进行 install,安装时 scoop 首先检查 cache 中是否有符合的包,没有才会去下载.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解决方案二&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;把 aria2 关闭以下就好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-enabled false&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;事后再开启(毕竟它对于某些下载速度提升非常高)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop config aria2-enabled true&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;环境原因&#34;&gt;环境原因&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这是个让人费解的报错,什么都没告诉你还怼了句不明不白的话.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ERROR Shovel flavour of scoop is required&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;去看看这个项目:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Ash258/Scoop-Core&#34;&gt;https://github.com/Ash258/Scoop-Core&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大概意思: shovel 是 scoop-core 替换增强版,你需要安装这家伙 (虽然用的人并不是很多)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;内核更换报错&#34;&gt;内核更换报错&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;把内核换成了 Gitee 上的,出现了报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight subunit&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Updating Scoop...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Your configuration specifies to merge with the ref &amp;#x27;refs/heads/main&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;from the remote, but no such ref was fetched.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;ERROR &lt;/span&gt;Update failed.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仔细检查了下是分支问题&lt;/p&gt;
+&lt;p&gt;远程上是 master 分支,而本地配置为 main 分支 (配置文件在 ~/.config/scoop/config.yml)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scoop-search&#34;&gt;scoop-search&lt;/h3&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ scoop search 7 ─╯&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;panic: runtime error: index out of range [1] with length 1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;goroutine 20 [running]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;main.matchingManifests(0xc000102060, 0x21, 0xf1b3b8, 0x1, 0xc000052000, 0x10, 0x10)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        /home/runner/work/scoop-search/scoop-search/main.go:133 +0x106b&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;main.main.func1(0xc000092140, 0x15, 0xf1b3b8, 0x1, 0x0, 0xc000088270, 0xc000094150, 0xe92f00, 0xc0000d6070)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        /home/runner/work/scoop-search/scoop-search/main.go:70 +0x185&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;created by main.main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        /home/runner/work/scoop-search/scoop-search/main.go:63 +0x253&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;排查了一遍,出现这种问题一般是因为&lt;code&gt;软件库有问题&lt;/code&gt;, 而不是 scoop/scoop-search 的问题&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新-备份-推荐&#34;&gt;更新&amp;amp;备份&amp;amp;推荐&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;备份方法可见: &lt;a href=&#34;../backuper&#34;&gt;🎃backuper~开发环境备份.&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;库: &lt;a href=&#34;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak&#34;&gt;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;软件: &lt;a href=&#34;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak&#34;&gt;https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/system/system_variable/</guid>
+            <title>💥系统开发环境配置</title>
+            <link>https://weidows.github.io/post/system/system_variable/</link>
+            <category>maven</category>
+            <category>备忘录</category>
+            <category>python</category>
+            <category>计算机系统</category>
+            <category>scoop</category>
+            <category>git</category>
+            <category>node</category>
+            <pubDate>Fri, 04 Dec 2020 03:38:58 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @Author: Weidows
+ * @Date: 2020-12-04 11:38:58
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-02-07 01:05:13
+ * @FilePath: \Blog-private\source\_posts\system\system_variable.md
+ * @Description:
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B7%B1%E5%85%A5%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&#34;&gt;深入环境变量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop&#34;&gt;Scoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#jdk&#34;&gt;JDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#maven&#34;&gt;Maven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#git&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#python&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#nodejs&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;深入环境变量&#34;&gt;深入环境变量&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../%E6%B7%B1%E5%85%A5%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&#34;&gt;🎇 深入解析 Window 环境变量.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;Scoop&#34;&gt;Scoop&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;详见&lt;a href=&#34;../../tools/Scoop&#34;&gt;🙌Windows 平台软件包管理器选择-Scoop&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;JDK&#34;&gt;JDK&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过 Scoop 安装会自动设置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新建&lt;code&gt;JAVA_HOME&lt;/code&gt;环境变量值&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;D:\Game\Demo\AdoptOpenJDK\&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Path 里面添加&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;%JAVA_HOME%\bin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JDK 创建 jre: 进入 JDK 根目录管理员模式输入(正常 JDK 自带)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Maven&#34;&gt;Maven&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;内部修改耦合 &lt;a href=&#34;../../tools/IDEA/Modification#maven&#34;&gt;🎉IDEA 魔改记录.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;环境变量: 用 Scoop 安装不需要手动配置!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;检查&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;mvn -v&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VScode 中设置:&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;java.configuration.maven.globalSettings&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;D:/Game/Scoop/persist/maven/conf/settings.xml&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 中设置也需要覆盖&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVshlQ.png&#34; alt=&#34;20210325105220&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Git&#34;&gt;Git&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用 Scoop 安装自带环境变量,不用配置.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Python-2&#34;&gt;Python&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过 Scoop 安装会自动设置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Path 中+&lt;figure class=&#34;highlight taggerscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;D:&lt;span class=&#34;symbol&#34;&gt;\G&lt;/span&gt;ame&lt;span class=&#34;symbol&#34;&gt;\S&lt;/span&gt;coop&lt;span class=&#34;symbol&#34;&gt;\a&lt;/span&gt;pps&lt;span class=&#34;symbol&#34;&gt;\p&lt;/span&gt;ython&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;D:&lt;span class=&#34;symbol&#34;&gt;\G&lt;/span&gt;ame&lt;span class=&#34;symbol&#34;&gt;\S&lt;/span&gt;coop&lt;span class=&#34;symbol&#34;&gt;\a&lt;/span&gt;pps&lt;span class=&#34;symbol&#34;&gt;\p&lt;/span&gt;ython&lt;span class=&#34;symbol&#34;&gt;\S&lt;/span&gt;cripts\&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;建议通过 Anaconda 安装有关 Python 的所有编程环境.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../others/python/anaconda&#34;&gt;👍Anaconda-Python-水漂浅探池深浅.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Node-js&#34;&gt;Node.js&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;详见&lt;a href=&#34;../../Web/Node/node&#34;&gt;⬆ Node.js 环境配置 &amp;amp;&amp;amp; 使用&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
