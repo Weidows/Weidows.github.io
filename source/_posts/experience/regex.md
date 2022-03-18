@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-27 18:32:40
+ * @LastEditTime: 2022-03-16 23:47:11
  * @FilePath: \Blog-private\source\_posts\experience\regex.md
  * @Description:
  * @!: *********************************************************************
@@ -29,7 +29,7 @@ top_img:
   - [regex-多对多替换](#regex-多对多替换)
   - [vscode-批量替换](#vscode-批量替换)
   - [sed-替换反斜杠](#sed-替换反斜杠)
-  - [参照](#参照)
+  - [借物表](#借物表)
 ```
 
 > Regular Expressions，缩写为 Regex 或 Regexp
@@ -50,14 +50,11 @@ top_img:
   var rFenceCode = /(\s*)(`{3,}|~{3,}) *(.*) *\n?([\s\S]+?)\s*(\2)(\n+|$)/g;
   ```
 
-  `` (\s*)(`{3,}|~{3,}) ``
-  \``` 或者 ~~~
-
-  ` *(.*)`
-  至少 1 个空格+至少 1 个任意字符
-
-  ` *\n?`
-  至少 1 个空格+可有可无换行; 错误原因就是此,我习惯 trim,所以无法正常匹配
+  |            regex            |                                          解释                                          |
+  | :-------------------------: | :------------------------------------------------------------------------------------: |
+  | `` (\s*)(`{3,} \| ~{3,}) `` |                                     \``` 或者 ~~~                                      |
+  |          ` *(.*)`           |                            至少 1 个空格+至少 1 个任意字符                             |
+  |           ` *\n?`           | 至少 1 个空格+可有可无换行 <br> 错误原因就是此,我习惯 trim 行尾的空格,所以无法正常匹配 |
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -66,12 +63,23 @@ top_img:
 - 我在切换图床时想实现如下 `多对多替换` 的需求
 
   ```
-  https://cdn.jsdelivr.net/gh/Weidows/Images/post/1d9Xs6ADR3MaNCy.png --> https://www.helloimg.com/image/GVFbWK
-  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2C7cgeEIQNr3qLu.png --> https://www.helloimg.com/image/GVFlgb
-  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2GXOS5mW8EzIT7Y.png --> https://www.helloimg.com/image/GVFWDS
-  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2POdUowc3qW8DRy.png --> https://www.helloimg.com/image/GVFTHD
-  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThkbFZmCU3QvEN.png --> https://www.helloimg.com/image/GVF2ao
-  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThYuqlEtFfdJeK.png --> https://www.helloimg.com/image/GVFOGC
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/1d9Xs6ADR3MaNCy.png
+  --> https://www.helloimg.com/images/2022/02/27/GVFbWK.jpg
+
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2C7cgeEIQNr3qLu.png
+  --> https://www.helloimg.com/images/2022/02/27/GVFlgb.jpg
+
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2GXOS5mW8EzIT7Y.png
+  --> https://www.helloimg.com/images/2022/02/27/GVFWDS.jpg
+
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2POdUowc3qW8DRy.png
+  --> https://www.helloimg.com/images/2022/02/27/GVFTHD.jpg
+
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThkbFZmCU3QvEN.png
+  --> https://www.helloimg.com/images/2022/02/27/GVF2ao.jpg
+
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThYuqlEtFfdJeK.png
+  --> https://www.helloimg.com/images/2022/02/27/GVFOGC.jpg
   ```
 
 - shell 脚本实现:
@@ -90,12 +98,24 @@ top_img:
   # @!: *********************************************************************
   ###
 
-  # eFC3Lqbpi9xQ4Mg
+  # fileArray=(
+  #   1d9Xs6ADR3MaNCy
+  #   2C7cgeEIQNr3qLu
+  #   2GXOS5mW8EzIT7Y
+  #   2POdUowc3qW8DRy
+  #   2ThkbFZmCU3QvEN
+  # )
   fileArray=(
 
   )
 
-  # 2022/02/27/GVJOM6.jpg
+  # urlArray=(
+  #   2022/02/27/GVFbWK.jpg
+  #   2022/02/27/GVFlgb.jpg
+  #   2022/02/27/GVFWDS.jpg
+  #   2022/02/27/GVFTHD.jpg
+  #   2022/02/27/GVF2ao.jpg
+  # )
   urlArray=(
 
   )
@@ -125,20 +145,18 @@ Screenshot_20210313_171408_tv.danmaku.bili
 
 ## sed-替换反斜杠
 
-<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+- 数据中的斜杠是脚本天敌,需要做预处理转义
+  <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
 
-2022/02/27/GVJOM6.jpg
+  ```
+  2022/02/27/GVJOM6.jpg
+  -> 2022\/02\/27\/GVJOM6.jpg
+  ```
 
--> 2022\/02\/27\/GVJOM6.jpg
+  `sed -i "s#/#\\/#g" result.txt`
 
-`sed -i "s#/#\\/#g" result.txt`
-
-<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [Sed 替换 内容带反斜杠（/）](https://blog.csdn.net/weixin_39031707/article/details/104065184)
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 
-暂无.
-
-```
-
-```
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [Sed 替换 内容带反斜杠（/）](https://blog.csdn.net/weixin_39031707/article/details/104065184)

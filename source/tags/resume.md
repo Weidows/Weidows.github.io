@@ -1,6 +1,6 @@
 ---
 title: 🔴Resume🟢
-password: "2333"
+password: ""
 abstract: 加密文章, 请输入密码
 message: 反爬虫骑士 2333 (密码)
 wrong_pass_message: 啊咧不对哦,试试去兴趣爱好->相册里找
@@ -14,7 +14,7 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 21:33:52
+ * @LastEditTime: 2022-03-18 13:16:32
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
@@ -28,38 +28,50 @@ aside: false
 
 |      求职意向       |                GitHub                 |                博客                 |      邮箱       |   手机/微信   |
 | :-----------------: | :-----------------------------------: | :---------------------------------: | :-------------: | :-----------: |
-| `Java (其他也行呢)` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.gitee.io) | utsuko27@qq.com | `18330785221` |
+| `Java (其他也行呢)` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.github.io) | utsuko27@qq.com | `18330785221` |
 
 </center>
 
 ## 教育经历
 
 - **学校**：`河北农业大学`
-- **专业**：`计算机科学与技术 统招一本`
-- **学年**：`23届` （2019~23）
+- **专业**：`计算机科学与技术 - 统招一本`
+- **学年**：`23届毕业生`
 <!-- - **外语能力**： -->
 
-#### 竞赛经历
-
-- `2020.9`：大二上参与 CCPC 与 HBCPC 程序设计大赛并获得铜牌。
-
-## 实习经历
-
-- 北京用友畅捷通 2021.7 - 2021.9
-
-  - 主要负责开发/维护企业内部管理系统 (SpringBoot+Vue), 对接 Jira/Gitlab/Jenkins 等平台 API 和操作多类数据库.
-
-  - 接手过大数据平台 DataWorks-Python 的项目试探工作.
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 专业技能
 
-|    领域    | 简单介绍 ([概览学过的内容](https://weidows.github.io/post/others/LearnWay))                                                                                               |
+|    领域    | 简单介绍 ([概览学过的内容](../../post/others/LearnWay))                                                                                               |
 | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **后端**  | 熟练 `SSM + Spring Boot`；有丰富 `MySQL,PostgreSQL,MaxCompute` 使用经验,熟悉 MongoDB。                                                                                    |
+|  **后端**  | 熟练 `Java+Spring` 领域,具备 Golang 开发能力; 有丰富 `MySQL,PostgreSQL,MaxCompute` 使用经验,熟悉 MongoDB。                                                                |
 |  **前端**  | 熟悉`前端三剑客 + ES6 + Vue`，利用多个开源项目整改搭建个人博客持续更新`上百篇文章`；熟练使用 `npm/yarn/webpack`，了解 node 等前端工具和框架；开发过多个 `VScode 小插件`。 |
 | **服务器** | 熟悉`各类云平台、VMware、docker、树莓派`，接触过分布式微服务运维现场，掌握 `Linux/shell` 开发常用技能。                                                                   |
 |  **工具**  | 精通 `VScode、IDEA` 进行程序开发测试，熟练使用 VisualStudio、Eclipse、DBeaver、Anaconda、DevEco 等工具; 熟悉 `Python` 充当工具                                            |
 |  **Git**   | 精通 `GitHub/Gitee/Gitlab` 进行流程/分支管理、参与多个组织社区和数十个仓库开源工作。                                                                                      |
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 实习及项目经历
+
+- `2022.3`: 阿里云天池-LeetCode 训练营 (URL 防伪证书)
+
+  ![阿里云天池-LeetCode训练营](https://ucc-image.oss-cn-beijing.aliyuncs.com/credential/91/3a49c0a0a5904a88a7179073f70d9c4a.png)
+
+  ***
+
+- `2021.7 - 2021.9`: 用友集团北京分部-Chanjet 畅捷通公司
+
+  - 主要负责开发/维护企业内部管理系统 (SpringBoot+Vue), 对接 Jira/Gitlab/Jenkins 等平台 API 和操作多类数据库.
+
+  - 接手过大数据平台 Python-DataWorks 的项目试探工作.
+
+  ***
+
+- `2020.9`：大二上参与 CCPC 与 HBCPC 程序设计大赛并获得铜牌。
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 <!-- ## 优势
 

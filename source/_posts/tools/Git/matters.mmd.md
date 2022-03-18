@@ -23,7 +23,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-06 10:42:26
+ * @LastEditTime: 2022-03-17 16:05:38
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
@@ -49,12 +49,13 @@ top_img:
     - [github-action](#github-action)
       - [checkout](#checkout)
       - [国内时区错位问题](#国内时区错位问题)
+    - [JsDelivr-刷新缓存](#jsdelivr-刷新缓存)
   - [凭证和权限](#凭证和权限)
     - [问题一](#问题一)
     - [问题二](#问题二)
     - [问题三](#问题三)
     - [问题四](#问题四)
-  - [参考](#参考)
+  - [借物表](#借物表)
 ```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
@@ -375,6 +376,13 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
   - 因为 GitHub 服务器不是在国内,时区不同,其对应的大概是欧洲伦敦那块的标准时区.
 - `结论`:布置 Action 定时任务时,设置的时间要早八个小时(对应东八区)
 
+---
+
+### JsDelivr-刷新缓存
+
+> 把 `cdn.jsdelivr.net` 换为 `purge.jsdelivr.net` 访问几次
+> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 凭证和权限
@@ -481,3 +489,5 @@ fatal: Need to specify how to reconcile divergent branches.
 ## 借物表
 
 <a name='cite_note-01' href='#cite_ref-01'>[1]</a>: [git merge 的三种操作 merge, squash merge, 和 rebase merge](https://www.jianshu.com/p/ff1877c5864e)
+
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: https://github.com/wayne0926/jsd
