@@ -28,7 +28,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-07 14:44:17
+ * @LastEditTime: 2022-03-19 13:00:35
  * @FilePath: \Blog-private\source\_posts\Web\get-resources.md
  * @Description:
  * @!: *********************************************************************
@@ -50,7 +50,7 @@ top_img:
     - [视频](#视频)
     - [网页图片](#网页图片)
     - [QQ-群图片](#qq-群图片)
-  - [参照](#参照)
+  - [借物表](#借物表)
 ```
 
 - 各类平台网页中的视频通常会被 `加密处理` 以防止别人拿走; 防盗技术还是有很多种的:<sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
@@ -383,6 +383,7 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 > 有个小弊病, 它不开会员的话是超慢的单线程下载.... 我常用它获取 m3u8 地址让下面这伙计下载
 
 > [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI): 这家伙可以通过 m3u8 下载加密视频; 支持多线程,很快 ![](https://www.helloimg.com/images/2022/02/27/GVct49.png)
+> 可以手动破解加密视频 <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
 > QQ 浏览器手机 app, 直接进对应网页就可以爬下来视频,加密的也可以,速度拉满 (小母牛倒立 🐄🍺
 
@@ -436,3 +437,5 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 <a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [解密 m3u8 文件, ts 文件解密, hls 解密.](https://www.52pojie.cn/thread-971265-1-1.html)
 
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [ffmpeg-简单 AES 加解密记录](https://blog.csdn.net/Yao_2333/article/details/82910560)
+
+<a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [恕我直言，再难下载的视频，手搓大佬终究还是有办法](https://www.appinn.com/download-video-30482/)

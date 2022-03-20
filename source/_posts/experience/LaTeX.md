@@ -4,6 +4,9 @@ password: ""
 tags:
   - LaTeX
   - VScode
+  - Butterfly
+  - KaTeX
+  - Math
 katex: true
 date: 2021-06-25 13:32:41
 cover: https://www.helloimg.com/images/2022/02/27/GVLsV9.png
@@ -16,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-19 02:02:44
+ * @LastEditTime: 2022-03-19 14:17:31
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -24,33 +27,26 @@ top_img:
 
 ```pullquote mindmap mindmap-md
 - [LaTeX~环形使者(?)](#latex环形使者)
-  - [链接搜集](#链接搜集)
   - [安装](#安装)
-  - [报错](#报错)
-  - [实际效果](#实际效果)
+    - [实际效果](#实际效果)
+    - [报错](#报错)
   - [公式渲染](#公式渲染)
-  - [误区](#误区)
-  - [Butterfly+KaTeX](#butterflykatex)
+    - [误区](#误区)
+    - [网页公式渲染](#网页公式渲染)
+    - [Butterfly+KaTeX](#butterflykatex)
   - [公式](#公式)
+    - [tools](#tools)
     - [数学等号对齐-大换行-成对匹配-数学样式数字](#数学等号对齐-大换行-成对匹配-数学样式数字)
   - [借物表](#借物表)
 ```
 
 - 好奇学术论文是怎么写的吗? 此文章尽做大努力把什么是 Tex 系统给你整闭环了 😁
 
-- 一图胜千言:
+  一图胜千言: <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup> <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
 
   <img src="https://www.helloimg.com/images/2022/02/27/GV43eD.png" alt="分类" />
 
   TeX 生态的名词简直太 ☘ 了,翻阅了很多中英文文档/社区整理了这个图,差不多可以总结 TeX 生态常见/常用的引擎和发行软件.
-
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
-
-## 链接搜集
-
-> [维基百科 - TeX](https://zh.wikipedia.org/wiki/TeX) 很详细的介绍了 TeX 是什么东西,也关联介绍了 TeX 衍生的各种引擎/软件.
-
-> [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/) 强烈推荐阅读的文章,无论是介绍,生态,还是使用方面都很通俗易懂.
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -160,9 +156,29 @@ top_img:
 
 - 4.VScode 右上角应该有编译标志 (或者按 `Ctrl + alt + B`),之后 MikTaX 应该会提醒你下载宏包 (因为软件本身很小,没包含进去),选择 China 的镜像源然后等它下载之后会自动编译.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+---
 
-## 报错
+### 实际效果
+
+- 完成上面步骤后在.tex 会生成几个文件,比如:
+
+  ```
+  1.aux
+  1.log
+  1.pdf
+  1.synctex.gz
+  1.tex
+  ```
+
+  随着 tex 的写入保存,VScode 插件会自动编译更新预览内容.
+
+- 展示:
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAXjA.png" alt="20210626214236" />
+
+---
+
+### 报错
 
 - 这个情况是因为没重启,尝试重启电脑+重启 VScode
 
@@ -196,25 +212,21 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 实际效果
-
-- 完成上面步骤后在.tex 会生成几个文件,比如:
-
-  ```
-  1.aux
-  1.log
-  1.pdf
-  1.synctex.gz
-  1.tex
-  ```
-
-  随着 tex 的写入保存,VScode 插件会自动编译更新预览内容.
-
-- 展示:
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVAXjA.png" alt="20210626214236" />
-
 ## 公式渲染
+
+### 误区
+
+渲染 LaTeX 文档 != 渲染公式
+
+1. 我们上面使用 MikTaX 渲染 LaTeX 文档是为了排版获取指定样式的 PDF 文档 -> `渲染LaTeX文档`
+
+2. 而渲染公式是渲染 LaTeX 文档的一部分子功能.
+
+3. 为了让 markdown 中 LaTeX 格式的公式也能得到正确显示,我们抽离出渲染公式这部分引擎 -> `KaTeX/MathJax` -> `专门用来渲染公式`
+
+---
+
+### 网页公式渲染
 
 - 在写 markdown 文章时可能不会注意到这个问题,因为大多数编辑器支持公式渲染 (比如 VScode 预览、CSDN 在线编辑等等),如下图 VScode 内置的 markdown 预览:
 
@@ -224,37 +236,23 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GV4oB1.png" alt="20210626224035" />
 
----
+  ***
 
 - 如何在网页中渲染 LaTeX 公式?
 
-  > 答: `KaTeX` 或 `MathJax`
+  > `KaTeX` 或 `MathJax`
 
-  - 这里有个性能测试网站: [KaTeX and MathJax Comparison Demo](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
+  性能测试网站 <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup> 二者功能比较 <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup>
 
-  - 二者功能比较: [Mathjax 和 katex 的功能比较（VSCode+MPE）](https://zhuanlan.zhihu.com/p/381263375)
+  个人倾向在网页端用 Katex,更轻便快速.
 
-- 个人倾向在网页端用 Katex,更轻便快速.
+- !!!需要注意!!! 应用 KaTeX 的页面`不能被压缩`,否则也会变成上面乱套的样子.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+---
 
-## 误区
+### Butterfly+KaTeX
 
-> ### 渲染 LaTeX 文档 != 渲染公式
-
-1. 我们上面使用 MikTaX 渲染 LaTeX 文档是为了排版获取指定样式的 PDF 文档 -> `渲染LaTeX文档`
-
-2. 而渲染公式是渲染 LaTeX 文档的一部分子功能.
-
-3. 为了让 markdown 中 LaTeX 格式的公式也能得到正确显示,我们抽离出渲染公式这部分引擎 -> `KaTeX/MathJax` -> `专门用来渲染公式`
-
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
-
-## Butterfly+KaTeX
-
-> 来自官方博客的文档: [Butterfly 安裝文檔(四) 主題配置-2](https://butterfly.js.org/posts/ceeb73f/#Math-%E6%95%B8%E5%AD%B8)
-
-- 需要更换(不换的话有冲突)和新添渲染插件:
+- 需要更换(不换的话有冲突)和新添渲染插件: <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
   ```
   npm uninstall hexo-renderer-marked hexo-renderer-kramed --save
@@ -296,11 +294,35 @@ top_img:
 
 ## 公式
 
-看看这两篇基本上可以按图索骥了:
-<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
-<sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+### tools
+
+看看这两篇基本上可以按图索骥了: <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+
+> 强烈推荐 [Mathpix](https://mathpix.com/), 可以把截图中的公式转为 LaTeX 公式
+> ![](https://www.helloimg.com/images/2022/03/19/RaAc56.png)
+
+---
 
 ### 数学等号对齐-大换行-成对匹配-数学样式数字
+
+$$
+\begin{aligned}
+  o^1(0) &= sgn(W^T(0)X^1)
+  \\&= sgn(2.5) = 1
+
+  \\ \ \\
+
+  W(1) &= W(0) + \eta \left[d^1 - o^1(0)\right]X^1
+  \\&= (0.5,1,-1,0)^T + 0.1 (-1 - 1)(-1,1,-2,0)^T
+  \\&= (0.7,0.8,-0.6,0)^T
+
+  \\ \ \\
+
+  W(2) &=W(1) + \eta \left[d^{2}-o^{2}(1)\right] X^{2}
+  \\&= (0.7,0.8,-0.6,0)^{T} + 0.1 [- 1-(- 1)](-1,0,1.5,-0.5)^{T}
+  \\&= \left(\mathbf{0.7,0.8,-0.6,0)^{T}}\right.
+\end{aligned}
+$$
 
 ```latex
 \begin{aligned}
@@ -321,25 +343,6 @@ top_img:
 \end{aligned}
 ```
 
-$$
-\begin{aligned}
-  o^1(0) &= sgn(W^T(0)X^1)
-  \\&= sgn(2.5) = 1
-
-  \\ \ \\
-
-  W(1) &= W(0) + \eta \left[d^1 - o^1(0)\right]X^1
-  \\&= (0.5,1,-1,0)^T + 0.1 (-1 - 1)(-1,1,-2,0)^T
-  \\&= (0.7,0.8,-0.6,0)^T
-
-  \\ \ \\
-
-  W(2) &=W(1) + \eta \left[d^{2}-o^{2}(1)\right] X^{2}
-  \\&= (0.7,0.8,-0.6,0)^{T} + 0.1 [- 1-(- 1)](-1,0,1.5,-0.5)^{T}
-  \\&= \left(\mathbf{0.7,0.8,-0.6,0)^{T}}\right.
-\end{aligned}
-$$
-
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
@@ -347,3 +350,13 @@ $$
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [LaTeX 公式速查](http://chu-studio.com/posts/2017/LaTeX%20%E5%85%AC%E5%BC%8F%E9%80%9F%E6%9F%A5)
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: ~~面向知乎学编程~~: [LaTeX 公式篇](https://zhuanlan.zhihu.com/p/110756681)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [维基百科 - TeX](https://zh.wikipedia.org/wiki/TeX) 很详细的介绍了 TeX 是什么东西,也关联介绍了 TeX 衍生的各种引擎/软件.
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/) 强烈推荐阅读的文章,无论是介绍,生态,还是使用方面都很通俗易懂.
+
+<a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [KaTeX and MathJax Comparison Demo](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
+
+<a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [Mathjax 和 katex 的功能比较（VSCode+MPE）](https://zhuanlan.zhihu.com/p/381263375)
+
+<a name='cite_note-7' href='#cite_ref-7'>[7]</a>: 来自官方博客的文档: [Butterfly 安裝文檔(四) 主題配置-2](https://butterfly.js.org/posts/ceeb73f/#Math-%E6%95%B8%E5%AD%B8)
