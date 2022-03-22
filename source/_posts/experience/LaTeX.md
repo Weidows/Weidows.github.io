@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-19 14:17:31
+ * @LastEditTime: 2022-03-21 18:07:58
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -36,6 +36,7 @@ top_img:
     - [Butterfly+KaTeX](#butterflykatex)
   - [公式](#公式)
     - [tools](#tools)
+    - [常用对照表](#常用对照表)
     - [数学等号对齐-大换行-成对匹配-数学样式数字](#数学等号对齐-大换行-成对匹配-数学样式数字)
   - [借物表](#借物表)
 ```
@@ -300,6 +301,16 @@ top_img:
 
 > 强烈推荐 [Mathpix](https://mathpix.com/), 可以把截图中的公式转为 LaTeX 公式
 > ![](https://www.helloimg.com/images/2022/03/19/RaAc56.png)
+
+---
+
+### 常用对照表
+
+|      LaTeX      | 符号             |    LaTeX     | 符号          |
+| :-------------: | :--------------- | :----------: | :------------ |
+|    \\partial    | $\partial$       |   \\theta    | $\theta$      |
+|  \\frac{1}{2}   | $\frac{1}{2}$    | \\mathcal{L} | $\mathcal{L}$ |
+| \sum\_{i=1}^{N} | $\sum_{i=1}^{N}$ |   \\alpha    | $\alpha$      |
 
 ---
 

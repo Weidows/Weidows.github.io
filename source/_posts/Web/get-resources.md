@@ -28,7 +28,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-19 13:00:35
+ * @LastEditTime: 2022-03-21 23:34:44
  * @FilePath: \Blog-private\source\_posts\Web\get-resources.md
  * @Description:
  * @!: *********************************************************************
@@ -36,6 +36,7 @@ top_img:
 
 ```pullquote mindmap mindmap-md
 - [媒体资源加密-and-解密获取](#媒体资源加密-and-解密获取)
+  - [token-防盗链](#token-防盗链)
   - [FFmpeg-HLS-AES_128_CBC](#ffmpeg-hls-aes_128_cbc)
     - [分片](#分片)
     - [分片作用-引子](#分片作用-引子)
@@ -56,12 +57,23 @@ top_img:
 - 各类平台网页中的视频通常会被 `加密处理` 以防止别人拿走; 防盗技术还是有很多种的:<sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
 
   1. FFmpeg-HLS-AES_128_CBC 加密
-  2. 验证用户身份再给链接(session,cookie)
-  3. 视频加水印
-  4. 限制跨域访问
-  5. ...etc
+  2. url 中加入 token 验证
+  3. 验证用户身份再给链接(session,cookie)
+  4. 视频加水印
+  5. 限制跨域访问
+  6. ...etc
 
-下面只摸一下技术层面的 `1.`
+下面只摸一下技术层面的 `1.和2.`
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## token-防盗链
+
+如 `http://xxxxxx.com/m3u8/hunan/desc.m3u8?stream_id=hunan<m=1410595018&lkey=8bc1e0fe35f6321ef560f8ccffb70e5d&path=59.49.42.14,58.59.3.9,58.59.3.51&platid=10&splatid=1015&tag=live&cips=127.0.0.1&ext=m3u8&sign=live_tv` <sup id='cite_ref-8'>[\[8\]](#cite_note-8)</sup>
+
+在 url 加上 时间戳,ip 地址,平台 id,splatid,tag,cips,ext,sign 等参数, 可以让服务器鉴别是否被其他网站/客户端请求, 并作出 403 响应
+
+同一参数的 url 无法被复用, 但是仍可以通过动态调整参数来绕过服务器的检测
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -439,3 +451,5 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [ffmpeg-简单 AES 加解密记录](https://blog.csdn.net/Yao_2333/article/details/82910560)
 
 <a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [恕我直言，再难下载的视频，手搓大佬终究还是有办法](https://www.appinn.com/download-video-30482/)
+
+<a name='cite_note-8' href='#cite_ref-8'>[8]</a>: [HLS 如何实现加密 ？](https://www.zhihu.com/question/20697986/answer/128433075)
