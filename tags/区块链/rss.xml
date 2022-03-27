@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;区块链&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 06 Feb 2022 16:53:07 +0000</pubDate>
+        <lastBuildDate>Sun, 06 Feb 2022 16:53:07 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>hls</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>qq</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>butterfly</category>
+        <category>katex</category>
+        <category>math</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>工作</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>cpp</category>
+        <category>python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>面试</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>人工智能</category>
+        <category>机器学习</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>onenote</category>
+        <category>复变函数</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>mariadb</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>leetcode</category>
+        <category>数据结构</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>live2d</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/others/golang/blockchain/</guid>
+            <title>🐭从零开始-Golang-blockchain</title>
+            <link>https://weidows.github.io/post/others/golang/blockchain/</link>
+            <category>区块链</category>
+            <category>golang</category>
+            <pubDate>Sun, 06 Feb 2022 16:53:07 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;从零开始-Golang-blockchain&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-03-06 11:15:55
+ * @FilePath: \Blog-private\source\_posts\others\golang\blockchain.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B-golang-blockchain&#34;&gt;从零开始-Golang-blockchain&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE&#34;&gt;配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E5%9D%97%E4%BB%A3%E7%90%86&#34;&gt;模块代理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E5%9D%97%E5%88%9D%E5%A7%8B%E5%8C%96&#34;&gt;模块初始化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#goland-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5&#34;&gt;Goland-快捷键导入&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#golang-learning&#34;&gt;Golang-learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#package&#34;&gt;package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%82%E7%85%A7&#34;&gt;参照&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;开辟于此课程以及《Golang 区块链入门到实战_以太坊/fabric》&lt;sup id=&#39;cite_ref-01&#39;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;style&gt;.bbplayer{width: 100%; max-width: 850px; margin: auto}&lt;/style&gt;&lt;div class=&#34;bbplayer&#34;&gt;&lt;iframe class=&#34;bbplayer&#34; id=&#34;mmedia-nuLeeCbtFIrRknao&#34; src=&#34;https://player.bilibili.com/player.html?bvid=1jf4y1s7sZ&amp;page=1&amp;high_quality=1&amp;danmaku=true&#34; allowfullscreen=&#34;allowfullscreen&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;0&#34; framespacing=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt; document.getElementById(&#34;mmedia-nuLeeCbtFIrRknao&#34;).style.height=document.getElementById(&#34;mmedia-nuLeeCbtFIrRknao&#34;).scrollWidth*0.76+&#34;px&#34;;
+    window.onresize = function(){
+      document.getElementById(&#34;mmedia-nuLeeCbtFIrRknao&#34;).style.height=document.getElementById(&#34;mmedia-nuLeeCbtFIrRknao&#34;).scrollWidth*0.76+&#34;px&#34;;
+    }; &lt;/script&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置-5&#34;&gt;配置&lt;/h2&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;go-cn&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;模块代理&#34;&gt;模块代理&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;运行&lt;sup id=&#39;cite_ref-02&#39;&gt;&lt;a href=&#34;#cite_note-02&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go env -w GO111MODULE=on&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOPROXY=https://goproxy.cn&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;模块初始化&#34;&gt;模块初始化&lt;/h3&gt;
+&lt;figure class=&#34;highlight maxima&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;go&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;mod&lt;/span&gt; init ProjectName&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;cannot determine module path for source directory (outside GOPATH&lt;sup id=&#39;cite_ref-03&#39;&gt;&lt;a href=&#34;#cite_note-03&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Goland-快捷键导入&#34;&gt;Goland-快捷键导入&lt;/h3&gt;
+&lt;p&gt;在此提一嘴想用 vscode 写 go 的话,目前还是不太友好… (2022.2); &lt;code&gt;首选 Goland&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jetbrains 不同 IDE 之间的快捷键是没法直接导入,一个个地改又非常费劲&lt;/p&gt;
+&lt;p&gt;找到了一个通过修改文件来导入的方式&lt;sup id=&#39;cite_ref-04&#39;&gt;&lt;a href=&#34;#cite_note-04&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;,比如我们想把快捷键 IDEA -&amp;gt; Goland&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 idea 并导出配置到压缩包,快捷键在 &lt;code&gt;settings.zip\keymaps\&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;先打开 Goland 随便改一个快捷键,不然下一步可能找不到; 然后关掉 Goland&lt;/li&gt;
+&lt;li&gt;找到 &lt;code&gt;Goland\profile\config\jba_config\win.keymaps\&lt;/code&gt;,复制粘贴&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Golang-learning&#34;&gt;Golang-learning&lt;/h2&gt;
+&lt;p&gt;基础语法可以跟着菜鸟教程学习 &lt;sup id=&#39;cite_ref-05&#39;&gt;&lt;a href=&#34;#cite_note-05&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;package&#34;&gt;package&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;package main&lt;/code&gt;被误改会报错&lt;sup id=&#39;cite_ref-06&#39;&gt;&lt;a href=&#34;#cite_note-06&#34;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;package command-line-arguments is not a main package&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正确 import 法:&lt;sup id=&#39;cite_ref-07&#39;&gt;&lt;a href=&#34;#cite_note-07&#34;&gt;[7]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;简易例子:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;test.go&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;( a, b &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; )&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;int&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; a + b&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;main.go&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; mian&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  fmt.Println(sum(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表-26&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-01&#39; href=&#39;#cite_ref-01&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.zlkt.net/book/detail/9/257&#34;&gt;《Golang 区块链入门到实战_以太坊/fabric》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-02&#39; href=&#39;#cite_ref-02&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://goproxy.cn/&#34;&gt;https://goproxy.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-03&#39; href=&#39;#cite_ref-03&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/ciel_yu/article/details/107847578&#34;&gt;go mod init 在初始化时出现 cannot determine module path for source directory (outside GOPATH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-04&#39; href=&#39;#cite_ref-04&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://www.cnblogs.com/devzyc/p/14084488.html&#34;&gt;JetBrains 系列 IDE 之间的快捷键相互导入&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-05&#39; href=&#39;#cite_ref-05&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://www.runoob.com/go/go-tutorial.html&#34;&gt;https://www.runoob.com/go/go-tutorial.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-06&#39; href=&#39;#cite_ref-06&#39;&gt;[6]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/A_java_c/article/details/120006213&#34;&gt;go 语言入门：package command-line-arguments is not a main package&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-07&#39; href=&#39;#cite_ref-07&#39;&gt;[7]&lt;/a&gt;: &lt;a href=&#34;https://segmentfault.com/a/1190000018235929&#34;&gt;golang 之 import 和 package 的使用&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
