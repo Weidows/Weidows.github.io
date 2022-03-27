@@ -4,7 +4,7 @@ date: 2021-02-01 13:54:10
 password: ""
 tags:
   - wsl2
-  - 计算机系统
+  - 操作系统
   - Windows
 cover: https://www.helloimg.com/images/2022/02/27/GVLZcb.png
 top_img:

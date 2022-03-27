@@ -4,7 +4,7 @@ date: 2021-02-03 14:00:21
 password: ""
 tags:
   - Manjaro
-  - 计算机系统
+  - 操作系统
   - 服务器
   - 虚拟机
 cover: https://www.helloimg.com/images/2022/02/27/GVJAMt.png

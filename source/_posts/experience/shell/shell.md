@@ -6,7 +6,7 @@ tags:
   - shell
   - 备忘录
   - Linux
-  - 计算机系统
+  - 操作系统
   - 宝塔面板
 cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
 ---

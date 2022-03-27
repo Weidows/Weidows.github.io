@@ -4,7 +4,7 @@ date: 2020-12-28 13:49:19
 password: ""
 tags:
   - Windows
-  - 计算机系统
+  - 操作系统
 cover: https://www.helloimg.com/images/2022/02/27/GVSeUm.png
 top_img:
 ---
