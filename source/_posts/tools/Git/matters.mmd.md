@@ -23,7 +23,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-17 16:05:38
+ * @LastEditTime: 2022-03-26 23:39:25
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
@@ -380,8 +380,25 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 
 ### JsDelivr-刷新缓存
 
-> 把 `cdn.jsdelivr.net` 换为 `purge.jsdelivr.net` 访问几次
-> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+> 把 `cdn.jsdelivr.net` 换为 `purge.jsdelivr.net` 访问几次 <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+
+- 返回的 JSON 显示 cdn 更新时间戳
+
+  ```json
+  {
+    "id": "0p2xZacfrSQPrdsO",
+    "status": "finished",
+    "timestamp": "2022-03-26T05:31:48.172Z",
+    "paths": {
+      "/gh/Weidows-projects/live2d-moc3/dist/live2d.min.js": {
+        "throttled": true,
+        "throttlingReset": 3554
+      }
+    }
+  }
+  ```
+
+  最近测试似乎失效了...
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

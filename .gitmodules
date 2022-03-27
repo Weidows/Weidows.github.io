@@ -11,3 +11,6 @@
 [submodule "source/_posts/public-post"]
 	path = source/_posts/public-post
 	url = https://github.com/Weidows-projects/public-post.git
+[submodule "source/_posts/Web/JavaScript/live2d-moc3"]
+	path = source/_posts/Web/JavaScript/live2d-moc3
+	url = https://github.com/Weidows-projects/live2d-moc3.git

@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-16 23:47:11
+ * @LastEditTime: 2022-03-22 15:52:23
  * @FilePath: \Blog-private\source\_posts\experience\regex.md
  * @Description:
  * @!: *********************************************************************
@@ -28,6 +28,8 @@ top_img:
   - [fix-记录](#fix-记录)
   - [regex-多对多替换](#regex-多对多替换)
   - [vscode-批量替换](#vscode-批量替换)
+    - [一](#一)
+    - [二](#二)
   - [sed-替换反斜杠](#sed-替换反斜杠)
   - [借物表](#借物表)
 ```
@@ -133,13 +135,34 @@ top_img:
 
 ## vscode-批量替换
 
-Screenshot_20210313_171408_tv.danmaku.bili
+### 一
 
+```
+Screenshot_20210313_171408_tv.danmaku.bili
 -> Screenshot20210313171408
 
-`Screenshot_\d+_\d+_tv.danmaku.bili`
-
+Screenshot_\d+_\d+_tv.danmaku.bili`
 -> Screenshot\d+\d+
+```
+
+### 二
+
+- 匹配下面内容
+
+  ```
+  categories:
+    - experience
+    - shell
+  tags:
+    - experience
+    - shell
+  ```
+
+1. categories:\*tags:
+
+   行不通, 其中间含有 \n
+
+2. categories:\n((.)+-(.)+\n)+tags:\n((.)+-(.)+\n)+
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

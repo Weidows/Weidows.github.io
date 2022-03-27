@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-21 18:07:58
+ * @LastEditTime: 2022-03-27 00:04:07
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -306,11 +306,13 @@ top_img:
 
 ### 常用对照表
 
-|      LaTeX      | 符号             |    LaTeX     | 符号          |
-| :-------------: | :--------------- | :----------: | :------------ |
-|    \\partial    | $\partial$       |   \\theta    | $\theta$      |
-|  \\frac{1}{2}   | $\frac{1}{2}$    | \\mathcal{L} | $\mathcal{L}$ |
-| \sum\_{i=1}^{N} | $\sum_{i=1}^{N}$ |   \\alpha    | $\alpha$      |
+|      LaTeX       | 符号             |     LaTeX     | 符号          |
+| :--------------: | :--------------- | :-----------: | :------------ |
+|    `\partial`    | $\partial$       |   `\theta`    | $\theta$      |
+|  `\frac{1}{2}`   | $\frac{1}{2}$    | `\mathcal{L}` | $\mathcal{L}$ |
+| `\sum_{i=1}^{N}` | $\sum_{i=1}^{N}$ |   `\alpha`    | $\alpha$      |
+|    `1\quad2`     | $1\quad2$        |  `1\qquad2`   | $1\qquad2$    |
+|    `\sqrt{3}`    | $\sqrt{3}$       |
 
 ---
 

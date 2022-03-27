@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-21 18:01:03
+ * @LastEditTime: 2022-03-24 12:06:58
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -92,6 +92,7 @@ top_img:
 |       definite        | 一定的                                                                                                                                                                                                                                                                                                                      |
 |       capacity        | 容量                                                                                                                                                                                                                                                                                                                        |
 |         given         | 已知的                                                                                                                                                                                                                                                                                                                      |
+|       algorithm       | 算法                                                                                                                                                                                                                                                                                                                        |
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
