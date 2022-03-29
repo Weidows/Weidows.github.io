@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;pjax&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2020-08-30T17:35:01.000Z</updated>
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="vscode" />
+    <category term="maven" />
+    <category term="对象" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="butterfly" />
+    <category term="katex" />
+    <category term="math" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="游戏" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="git" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="面试" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="人工智能" />
+    <category term="机器学习" />
+    <category term="opengl" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="mariadb" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="anaconda" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/Web/Node/Hexo/inject_method/</id>
+        <title>两种inject自定义Js/CSS文件方法 &amp;&amp; Pjax冲突解决方案</title>
+        <link rel="alternate" href="https://weidows.github.io/post/Web/Node/Hexo/inject_method/"/>
+        <content type="html">&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-08-31 01:35:01
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-21 17:05:45
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\Node\Hexo\inject_method.md
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#hexo-%E6%B8%B2%E6%9F%93&#34;&gt;hexo 渲染&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%9A%E8%BF%87%E4%B8%BB%E9%A2%98%E6%96%87%E4%BB%B6%E6%B3%A8%E5%85%A5&#34;&gt;通过主题文件注入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%9A%E8%BF%87%E4%BF%AE%E6%94%B9%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6%E6%B3%A8%E5%85%A5&#34;&gt;通过修改内部文件注入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#pjax-%E4%BD%BF-js-%E6%B8%B2%E6%9F%93%E5%A4%B1%E6%95%88%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&#34;&gt;Pjax 使 JS 渲染失效解决方案&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E4%BB%B6%E5%AE%9A%E4%BD%8D&#34;&gt;文件定位:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hexo-渲染&#34;&gt;hexo 渲染&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;不知道为啥,hexo 只渲染 source 下面*.html 文件,而不会渲染*.HTML 文件.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;通过主题文件注入&#34;&gt;通过主题文件注入&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一般是写在&lt;code&gt;theme/xxx/source/&lt;/code&gt;里的&lt;code&gt;js&lt;/code&gt;和&lt;code&gt;css&lt;/code&gt;里面&lt;/li&gt;
+&lt;li&gt;随便起个名字,比如我的叫 mine.js 和 mine.css,里面写上需要的内容&lt;/li&gt;
+&lt;li&gt;在主题配置文件&lt;code&gt;_config.yml&lt;/code&gt;里找到&lt;code&gt;inject:&lt;/code&gt;字段,一般 css 在 head,js 在 bottom 里,如下:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;inject:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  head:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bottom:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;但是务必注意这样引入只对&lt;code&gt;某一层&lt;/code&gt;目录生效,比如上面只对 public/第一层目录生效,其中子目录无效,如果想使其生效:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;inject:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  head:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../../css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bottom:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../../js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;喏,这样是让第一二三层生效了,以此类推.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;通过修改内部文件注入&#34;&gt;通过修改内部文件注入&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;首先操作如上面一样新建文件并写好 js 和 css 文件,只是注入方式不同&lt;/li&gt;
+&lt;li&gt;找到&lt;code&gt;theme/xxx/layout/include/layout.pug&lt;/code&gt;,在内部添加如下:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;script(&lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;js/mine.js&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;link(&lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;stylesheet&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;css/mine.css&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;这两个分别是引入 js 和 css,可以分别在 body 和 head 里加入,注意缩进格式!&lt;/li&gt;
+&lt;li&gt;解释:
+&lt;ul&gt;
+&lt;li&gt;在 Hexo generate 时会把&lt;code&gt;theme/xxx/source/&lt;/code&gt;里你写的文件复制到&lt;code&gt;public/&lt;/code&gt;对应目录里&lt;/li&gt;
+&lt;li&gt;一般 Hexo 在引用时根目录是&lt;code&gt;public/&lt;/code&gt;,所以上面找的是&lt;code&gt;public/js/mine.js&lt;/code&gt;和&lt;code&gt;public/css/mine.css&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;这样注入可能因为渲染位置和时机不对而未生效,需要酌情使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;Pjax-使-JS-渲染失效解决方案&#34;&gt;Pjax 使 JS 渲染失效解决方案&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;用过的都知道 Pjax 可以让网页在非跳转的情况下局部刷新来使网页加载速度提升&lt;/li&gt;
+&lt;li&gt;但是会带来非常多的 Bug,比如某些依赖 JS 渲染和加载的插件无效化,或者监听和交互不奏效&lt;/li&gt;
+&lt;li&gt;网上搜的有些是让各种插件本身屈服 Pjax 各种修改渲染策略&lt;/li&gt;
+&lt;li&gt;这里提出一个虽然不是新方法但是也是个不错的解决方案:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;文件定位&#34;&gt;文件定位:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这里修改的是 Butterfly 自带的 Pjax 第三方 pug,如有不同需要自行查找&lt;/li&gt;
+&lt;li&gt;找到&lt;code&gt;themes/butterfly/layout/includes/third-party/pjax.pug&lt;/code&gt;,打开开始修改&lt;/li&gt;
+&lt;li&gt;定位 &lt;code&gt;document.addEventListener(&#39;pjax:complete&#39;, function ()&lt;/code&gt;这一行,这是监听 Pjax 跳转页面是否完成的函数,并执行跳转完成后的指令&lt;/li&gt;
+&lt;li&gt;原理就是让 Pjax 加载完成页面后再让 JS 渲染一遍(但是可能有些局部渲染还是无法生效)&lt;/li&gt;
+&lt;li&gt;复制需要重载的 JS,粘贴到这个函数括号内部,并 Hexo Server 测试一下,如不生效也没法治了…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="备忘录" />
+        <category term="website" />
+        <category term="html" />
+        <category term="css" />
+        <category term="hexo" />
+        <category term="pjax" />
+        <updated>2020-08-30T17:35:01.000Z</updated>
+    </entry>
+</feed>

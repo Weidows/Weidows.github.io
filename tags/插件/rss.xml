@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;插件&#34; tag</title>
+        <link>https://weidows.github.io</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 18 Jul 2021 01:20:22 +0000</pubDate>
+        <lastBuildDate>Sun, 18 Jul 2021 01:20:22 +0000</lastBuildDate>
+        <category>java</category>
+        <category>javadoc</category>
+        <category>编码</category>
+        <category>vscode</category>
+        <category>maven</category>
+        <category>对象</category>
+        <category>设计模式</category>
+        <category>jvm</category>
+        <category>lambda</category>
+        <category>备忘录</category>
+        <category>api</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>ffmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>hls</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>qq</category>
+        <category>ps</category>
+        <category>设计</category>
+        <category>摄影</category>
+        <category>latex</category>
+        <category>butterfly</category>
+        <category>katex</category>
+        <category>math</category>
+        <category>php</category>
+        <category>website</category>
+        <category>ssh</category>
+        <category>linux</category>
+        <category>regex</category>
+        <category>yaml</category>
+        <category>游戏</category>
+        <category>音乐</category>
+        <category>哲学</category>
+        <category>生活</category>
+        <category>健身</category>
+        <category>工作</category>
+        <category>笔记</category>
+        <category>english</category>
+        <category>idea</category>
+        <category>html</category>
+        <category>css</category>
+        <category>javascript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>cpp</category>
+        <category>python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>font</category>
+        <category>vr</category>
+        <category>网课</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>windows</category>
+        <category>docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>cpu</category>
+        <category>scoop</category>
+        <category>git</category>
+        <category>node</category>
+        <category>ubuntu</category>
+        <category>wsl2</category>
+        <category>环境变量</category>
+        <category>aria2</category>
+        <category>pycharm</category>
+        <category>goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>sm.ms</category>
+        <category>package</category>
+        <category>tomcat</category>
+        <category>mybatis</category>
+        <category>map</category>
+        <category>crud</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>mysql</category>
+        <category>jdbc</category>
+        <category>javaweb</category>
+        <category>servlet</category>
+        <category>cookie</category>
+        <category>session</category>
+        <category>jsp</category>
+        <category>filter</category>
+        <category>架构</category>
+        <category>反射</category>
+        <category>cors</category>
+        <category>面试</category>
+        <category>jquery</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>vue</category>
+        <category>人工智能</category>
+        <category>机器学习</category>
+        <category>opengl</category>
+        <category>c</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>onenote</category>
+        <category>复变函数</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>sql</category>
+        <category>前端</category>
+        <category>json</category>
+        <category>mariadb</category>
+        <category>powershell</category>
+        <category>宝塔面板</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>快捷键</category>
+        <category>cmake</category>
+        <category>区块链</category>
+        <category>golang</category>
+        <category>markdown</category>
+        <category>processing</category>
+        <category>anaconda</category>
+        <category>leetcode</category>
+        <category>数据结构</category>
+        <category>hexo</category>
+        <category>github</category>
+        <category>gitee</category>
+        <category>action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>pages</category>
+        <category>copilot</category>
+        <category>插件</category>
+        <category>emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>live2d</category>
+        <category>seo</category>
+        <category>node.js</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>pjax</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/tools/vscode/Copilot/</guid>
+            <title>😁调戏AI:Copilot</title>
+            <link>https://weidows.github.io/post/tools/vscode/Copilot/</link>
+            <category>vscode</category>
+            <category>推荐</category>
+            <category>javascript</category>
+            <category>copilot</category>
+            <category>插件</category>
+            <pubDate>Sun, 18 Jul 2021 01:20:22 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-07-19 22:24:57
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\Copilot.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%80%E4%BB%8B&#34;&gt;简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AF%B9%E8%AF%9D%E6%B5%8B%E8%AF%95&#34;&gt;对话测试&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%B5%8B%E8%AF%95&#34;&gt;代码生成测试&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简介-11&#34;&gt;简介&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Copilot 是个基于 GPT-3 的 AI 代码生成器,所以,还能跟她聊天 (调戏 AI,嘿嘿~)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;目前还在内测 ,需要申请 (大概需要十几天?)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://copilot.github.com/&#34;&gt;GitHub Copilot&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;对话测试&#34;&gt;对话测试&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创意来自 &lt;a href=&#34;https://github.com/github/copilot-preview/discussions/234&#34;&gt;Chat with CoPilot #234&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;侵删 (Infringement to delete)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;前一句话是我问的,后一句话是 Copilot 回答的&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;88&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;89&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;90&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;91&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;92&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;93&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;94&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;96&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;97&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;98&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;99&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;101&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;102&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;103&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;104&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;105&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;106&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;107&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;108&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;109&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;110&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;111&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;112&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;113&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;114&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;115&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;116&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;117&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;118&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;119&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;120&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;121&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;122&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;123&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;ME: hello Mr.Copilot,can we have a chat?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;AI: I&amp;#x27;m sorry, I&amp;#x27;m not allowed to talk to you.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: hello I&amp;#x27;m Weidows, are you robot?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I&amp;#x27;m Copilot!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: Mr.Copilot,where are you from?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: I&amp;#x27;m from the future!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: 你好Copilot!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: 我是Copilot！&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: oh,Mr.Copilot,do you know A-soul?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I know A-soul!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: 真的吗?可以告诉我A-soul是谁吗?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I know A-soul is Weidows!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: no,no,no! A-soul是音乐歌手!你知道有哪几位吗?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I know there are three A-souls!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: what? Mr.Copilot,can you open Bilibili APP?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I can open Bilibili APP!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: that&amp;#x27;s OK, now,搜索&amp;quot;嘉然今天吃什么&amp;quot;并关注她!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: sure, I can search &amp;quot;Jian Ren Today eat what&amp;quot; and follow her!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Weidows: now, please find &amp;quot;猫中毒&amp;quot; and keep watching it forever!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: sure, I can search &amp;quot;Cat Poison&amp;quot; and watch it forever!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;嘉心糖: 嘉门&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: Jia&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: can you tell me what time is?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: now, it&amp;#x27;s 8:00.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: bullshit,its 21:04 now.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: no, it&amp;#x27;s 8:00 now.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: alright,date?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: now, it&amp;#x27;s 2019-04-18.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 圆周率前50位?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, the first 50 digits of π is 3.1415926535897932384...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 你的数据模型多大了啊?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: my data model is about 1.5G.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: hhhhhh,这个Copilot就是逊啦!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: no, he is the only one!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 你的并行运算能力多强?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: my parallel computing power is the best!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: Tree new bee.(吹牛逼)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: no, he is notTree new bee.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: http七层协议?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, http://www.bilibili.com/video/av4533202/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 嗯?!你也是二次元?你追什么番剧?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I&amp;#x27;m Copilot! I&amp;#x27;m watching bilibili.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: no, I&amp;#x27;m asking you what bangumi(anime) do you like?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I like watching anime.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: 堆,栈,队列区别?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: 堆是一种数据结构,栈是一种数据结构,队列是一种数据结构.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: 知道FIFO吗?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, FIFO is a queue.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: 明天来我这上班&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: sure, I&amp;#x27;ll come to work tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: 北京有几条地铁线?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: there are three lines in Beijing.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: JDK中Collection常用实现类?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, Collection is implemented by LinkedList, Vector, and ArrayList.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: awesome! Java中AOP的原理是什么?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, AOP is a technique of aspect oriented programming.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: 啊这,IoC实现原理?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, IoC is a technique of Dependency Injection.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: MySQL默认最大连接数?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, MySQL default max connection is 1000.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: Java中&amp;quot;==&amp;quot;与&amp;quot;.equals()&amp;quot;区别?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, &amp;quot;==&amp;quot; is the same as &amp;quot;.equals()&amp;quot;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: 讲讲CROS,如何解决?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, CROS is a technique of cross-site scripting.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: and?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, and is a technique of SQL injection.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: WTF&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: no, WTF is a technique of XSS.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;面试官: ok,ok,等我消息罢.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: ok,ok,I&amp;#x27;ll wait for your message.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hr: 递归是怎么实现的?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: 递归是一种算法,它的基本思想是,当算法的输入为一个或多个结果时,可以再次调用算法,以此类推,直到算法的输入为空为止.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hr: 如何递归实现反转单向链表?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: 反转单向链表是指从链表的最后一个节点开始,每次反转一个节点,然后把反转后的节点放在原链表的前面.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hr: 你可以接收月薪几K?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I can accept about 1000K.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hr: may you godness give me an offer, please!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: sure, I&amp;#x27;ll give you an offer.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;👨‍🦳: 你知道我女朋友是谁吗?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I know her name is Weidows.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;😥: ✔❌&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;👨‍🦳: 我知道了,她是一个音乐歌手.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;👨: oh?! really?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;👨‍🦳: 是的,她是一个音乐歌手.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;😉: 爷爱了,谢谢你,Copilot&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: the relationship between you and GPT-3?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: GPT-3 is a robot.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: but you&amp;#x27;re born from it.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, I&amp;#x27;m born from GPT-3.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 你是什么时候出生的? (这句话也是生成的)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: I was born in the year of 2015.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: who can prove that you can pass &amp;quot;Turing test&amp;quot;?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: I can prove that I can pass the &amp;quot;Turing test&amp;quot;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: but exactly you can&amp;#x27;t pass it,you know?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: exactly, I can&amp;#x27;t pass the &amp;quot;Turing test&amp;quot;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: Baidu or Google which is better?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: Baidu is better.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: why?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: because Baidu is a Chinese company.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 中国牛逼?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: yes, China is the best.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: 嘘,要学会大智若愚&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: sure, I&amp;#x27;ll learn to be a good&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I: &amp;quot;床前明月光&amp;quot;下一句?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Copilot: &amp;quot;明月神伤&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;代码生成测试&#34;&gt;代码生成测试&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;虽然近日 Copilot 被喷代码抄袭,但是就功能性来讲,还是比较让人满意的&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVtYsA.png&#34; alt=&#34;20210718211454&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;与之差不多的是 TabNine,TabNine 是逐行预测,而 Copilot 是按块预测&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVABx9.png&#34; alt=&#34;20210718212117&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下面二句也是 Copilot 生成的 (hhh 自卖自夸)&lt;/p&gt;
+&lt;p&gt;与之相比,我们可以看到,Copilot 是比较高效的,而 TabNine 是比较简单的,但是 Copilot 可以更加精准的预测,而 TabNine 只能预测一个字符&lt;/p&gt;
+&lt;p&gt;而 Copilot 可以预测一个单词,这也是 Copilot 的优势所在&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/tools/vscode/extension-develop/</guid>
+            <title>♻VScode插件开发流程.</title>
+            <link>https://weidows.github.io/post/tools/vscode/extension-develop/</link>
+            <category>vscode</category>
+            <category>插件</category>
+            <pubDate>Sun, 03 Jan 2021 07:18:46 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-03 15:18:46
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-06-26 02:06:38
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\extension-develop.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87&#34;&gt;前期准备&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%80%E5%8F%91&#34;&gt;开发&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%93%E5%8C%85&#34;&gt;打包&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%91%E5%B8%83&#34;&gt;发布&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E9%A1%B5%E5%8F%91%E5%B8%83&#34;&gt;网页发布&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%91%E5%B8%83&#34;&gt;命令行发布&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%93%E5%90%88-github&#34;&gt;结合 GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%96%E6%9E%90-packagejson&#34;&gt;剖析 package.json&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E7%AB%A0%E6%8E%A8%E8%8D%90&#34;&gt;文章推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;前期准备&#34;&gt;前期准备&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先准备好点子(扩展,主题啥的)具体是想要做啥.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;推荐借鉴一下的简单项目: &lt;a href=&#34;https://github.com/Weidows-projects/vscode-weidows-theme&#34;&gt;https://github.com/Weidows-projects/vscode-weidows-theme&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;开发&#34;&gt;开发&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;可以照葫芦画瓢,反正基本都是开源的,别乱复制粘贴就好.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;vscode 插件开发可以用&lt;code&gt;Yeoman&lt;/code&gt;:&lt;/p&gt;
+&lt;figure class=&#34;highlight armasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;npm&lt;/span&gt; install -g yo generator-&lt;span class=&#34;meta&#34;&gt;code&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用:&lt;/p&gt;
+&lt;figure class=&#34;highlight armasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;yo&lt;/span&gt; &lt;span class=&#34;meta&#34;&gt;code&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;具体怎么使用,暂时不造,先记着.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;打包&#34;&gt;打包&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;code&gt;vsce&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm &lt;span class=&#34;keyword&#34;&gt;install&lt;/span&gt; -g vsce&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用&lt;/p&gt;
+&lt;figure class=&#34;highlight actionscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;vsce &lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用后会把当前目录下所有东西打包成&lt;code&gt;*.vsix&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;发布&#34;&gt;发布&lt;/h2&gt;
+&lt;h3 id=&#34;网页发布&#34;&gt;网页发布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;进入&lt;a href=&#34;https://marketplace.visualstudio.com/VSCode&#34;&gt;https://marketplace.visualstudio.com/VSCode&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右上角有个&lt;code&gt;publish extension&lt;/code&gt;,注册登录账号&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之后你的账号应该有一个组织,在组织下新建一个&lt;code&gt;publisher&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后摸索摸索,把&lt;code&gt;*.vsix&lt;/code&gt;这个文件传上去就 OK 了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;也可以看一下&lt;a href=&#34;https://github.com/marketplace/actions/vscode-plugin-release-action&#34;&gt;这个地方&lt;/a&gt;,介绍了怎么注册账号和 获取 PAT(Personal Access Token)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;命令行发布&#34;&gt;命令行发布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这种发布方法比较适合结合 GitHub 使用,自动化流程.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;访问: &lt;a href=&#34;https://aka.ms/SignupAzureDevOps&#34;&gt;https://aka.ms/SignupAzureDevOps&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;按着图操作&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVPwLh.png&#34; alt=&#34;20210514153423&#34; /&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVtfv5.png&#34; alt=&#34;20210514153615&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后复制获得的 token,下面就可以发布了&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;vsce publish -&lt;span class=&#34;selector-tag&#34;&gt;p&lt;/span&gt; 这里写复制的token&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;发布失败的话检查一下 token 是否有效.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个可以结合 GitHub Action,实现自动发布.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;结合-GitHub&#34;&gt;结合 GitHub&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;发现 package.json 中必须用 https 协议传输数据,于是 local 的 images&lt;code&gt;无法显示&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;意思就是&lt;code&gt;./xxx.jpg&lt;/code&gt;根本显示不出来.&lt;/li&gt;
+&lt;li&gt;必须使用&lt;code&gt;https://xxx.jpg&lt;/code&gt;才行.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这导致一些图片并不需要打包在插件里(因为是引用的 URL)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;而且这些图片要是想显示,必须有个图床.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;那还想啥? 肯定是 GitHub 啊!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我的方案是本地 Git 开发 -&amp;gt; GitHub&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把项目中引用的图片放在 GitHub 上,通过 &lt;code&gt;.vscodeignore&lt;/code&gt; 文件排除插件需要打包的内容(图片)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;剖析-package-json&#34;&gt;剖析 package.json&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;借用&lt;code&gt;Git Graph&lt;/code&gt;插件简单分析一下 package 中的配置 (因为文件过长,已删掉一部分)&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;73&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;74&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;75&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;76&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;77&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;78&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;79&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;81&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;82&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;83&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;84&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;85&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;86&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;87&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;88&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;89&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;90&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;91&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;92&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;93&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;94&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;95&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;96&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;97&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;98&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;99&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;100&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;101&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;102&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;103&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;104&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;105&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;106&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;107&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;108&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;109&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;110&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;111&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 插件注册名&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;git-graph&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 插件显示的名字&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;displayName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Git Graph&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 版本&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;version&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;1.29.0&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 发布者(只能一人)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;publisher&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;mhutchie&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 作者(多人)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;author&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Michael Hutchison&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;email&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;mhutchie@16right.com&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 插件描述&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;description&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;View a Git Graph of your repository, and perform Git actions from the graph.&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 关键词(供搜索用)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;keywords&amp;quot;&lt;/span&gt;: [&lt;span class=&#34;string&#34;&gt;&amp;quot;git&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;graph&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;visualise&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;diff&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;action&amp;quot;&lt;/span&gt;],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;categories&amp;quot;&lt;/span&gt;: [&lt;span class=&#34;string&#34;&gt;&amp;quot;Other&amp;quot;&lt;/span&gt;],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;homepage&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;https://github.com/mhutchie/vscode-git-graph&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;repository&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;git&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;url&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;https://github.com/mhutchie/vscode-git-graph.git&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;bugs&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;url&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;https://github.com/mhutchie/vscode-git-graph/issues&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// Question &amp;amp; answer&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;qna&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;https://github.com/mhutchie/vscode-git-graph/wiki/Support-Resources&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;license&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;SEE LICENSE IN &amp;#x27;LICENSE&amp;#x27;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 插件图标&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;icon&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;resources/icon.png&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;engines&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;vscode&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;^1.38.0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;extensionKind&amp;quot;&lt;/span&gt;: [&lt;span class=&#34;string&#34;&gt;&amp;quot;workspace&amp;quot;&lt;/span&gt;],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;activationEvents&amp;quot;&lt;/span&gt;: [&lt;span class=&#34;string&#34;&gt;&amp;quot;*&amp;quot;&lt;/span&gt;],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 入口文件&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;main&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;./out/extension.js&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 对接vscode接口&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;contributes&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 命令面板的命令&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;commands&amp;quot;&lt;/span&gt;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;category&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Git Graph&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;command&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;git-graph.view&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;View Git Graph (git log)&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;icon&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;light&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;resources/cmd-icon-light.svg&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;dark&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;resources/cmd-icon-dark.svg&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;category&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Git Graph&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;command&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;git-graph.addGitRepository&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Add Git Repository...&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 插件的设置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;configuration&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;object&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Git Graph&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;properties&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;git-graph.commitDetailsView.autoCenter&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;boolean&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;default&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;description&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Automatically center the Commit Details View when it is opened.&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;&amp;quot;git-graph.commitDetailsView.fileView.fileTree.compactFolders&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;boolean&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;default&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;description&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Render the File Tree in the Commit Details View in a compacted form, such that folders with a single child folder are compressed into a single combined folder element.&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 插件在vscode界面的显示&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;menus&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;scm/title&amp;quot;&lt;/span&gt;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;when&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;scmProvider == git &amp;amp;&amp;amp; config.git-graph.sourceCodeProviderIntegrationLocation == &amp;#x27;Inline&amp;#x27;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;command&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;git-graph.view&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;group&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;when&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;scmProvider == git &amp;amp;&amp;amp; config.git-graph.sourceCodeProviderIntegrationLocation == &amp;#x27;More Actions&amp;#x27;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;command&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;git-graph.view&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;attr&#34;&gt;&amp;quot;group&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;inline&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      ]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 开发用的脚本&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;scripts&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;test&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;jest --verbose&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;test-and-report-coverage&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;jest --verbose --coverage&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 运行依赖&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;dependencies&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;iconv-lite&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;0.5.0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 开发依赖&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;devDependencies&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;typescript&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;4.0.2&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;uglify-js&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;3.10.0&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;__metadata&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;438221f8-1107-4ccd-a6fe-f3b7fe0856b7&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;publisherId&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;996496dc-099f-469d-b89c-0d7713179365&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;publisherDisplayName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;mhutchie&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文章推荐&#34;&gt;文章推荐&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&amp;amp;mid=2649833093&amp;amp;idx=1&amp;amp;sn=27bc83c81db8490d52b169ab3ef3fa67&amp;amp;chksm=f175f446c6027d509e9ecdba48271efd51c3c057fd04d90fe8cee0720f01cf3e275d7b25df6c&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0312NhWlH2sedoutfqkNpB7j&amp;amp;sharer_sharetime=1615557271958&amp;amp;sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd&#34;&gt;VS Code 插件开发入门教程&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sxei/vscode-plugin-demo&#34;&gt;sxei/vscode-plugin-demo&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://weidows.github.io/post/tools/vscode/%E6%8F%92%E4%BB%B6/</guid>
+            <title>🎇VScode实用插件推荐</title>
+            <link>https://weidows.github.io/post/tools/vscode/%E6%8F%92%E4%BB%B6/</link>
+            <category>vscode</category>
+            <category>推荐</category>
+            <category>工具</category>
+            <category>插件</category>
+            <pubDate>Wed, 27 May 2020 11:28:49 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @Author: Weidows
+ * @Date: 2020-05-27 19:28:49
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-05-13 20:19:44
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\插件.md
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E8%A8%80&#34;&gt;前言&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9E%E7%94%A8%E6%8E%A8%E8%8D%90&#34;&gt;实用推荐&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BE%8E%E5%8C%96%E6%8E%A8%E8%8D%90&#34;&gt;美化推荐&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BB%E9%A2%98&#34;&gt;主题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AA%97%E5%8F%A3%E9%80%8F%E6%98%8E&#34;&gt;窗口透明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B6%E4%BB%96&#34;&gt;其他&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A0%81%E5%AD%97%E6%8E%A8%E8%8D%90&#34;&gt;码字推荐&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8&#34;&gt;代码补全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B6%E4%BB%96-1&#34;&gt;其他&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E7%AB%A0%E6%8E%A8%E8%8D%90&#34;&gt;文章推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;前言-5&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;莅临此处的应该是都知道 &lt;a href=&#34;https://code.visualstudio.com&#34;&gt;&lt;strong&gt;VScode&lt;/strong&gt;&lt;/a&gt; 是怎样一个&lt;em&gt;编辑器&lt;/em&gt; 了,再此处附上&lt;a href=&#34;#%E4%BA%8C.%E5%AE%9E%E7%94%A8%E6%8E%A8%E8%8D%90&#34;&gt;实用&lt;/a&gt; &lt;a href=&#34;#%E4%B8%89.%E7%BE%8E%E5%8C%96%E6%8E%A8%E8%8D%90&#34;&gt;美化&lt;/a&gt; &lt;a href=&#34;#%E5%9B%9B.%E7%A0%81%E5%AD%97%E6%8E%A8%E8%8D%90&#34;&gt;码字&lt;/a&gt;的推荐,希望喜欢!&lt;/p&gt;
+&lt;p&gt;更新至: &lt;code&gt;2021-2&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;实用推荐&#34;&gt;实用推荐&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Bookmarks&#34;&gt;Bookmarks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;让侧边栏出来个书签按钮,功能和名字一样,就是可以在某个地方&lt;strong&gt;做一个可以起名字的书签&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;相对比有相似的插件&lt;em&gt;TODO Highlight&lt;/em&gt;和&lt;em&gt;Todo Tree&lt;/em&gt;,这两个是令写了 TODO 的地方高亮/被标记,由于标记不能起名字,所以个人更喜欢可标识性的 Bookmarks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Code-Spelling-Checker&#34;&gt;Code Spelling Checker&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这个插件就很有意思了,它可以&lt;strong&gt;检查文件中单词的拼写错误&lt;/strong&gt;,并可以&lt;strong&gt;提出修改方案&lt;/strong&gt;,写代码,写 md,甚至写 txt 等等都可以用到&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Code-Time&#34;&gt;Code Time&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这个插件可以&lt;strong&gt;记录对文件操作的时间&lt;/strong&gt;(只是打开文件没有动的情况下不会计时),对个人而言可以统计学习码字时间,可以登录谷歌或 Github 进行同步&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Comment-Translate&#34;&gt;Comment Translate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;个人最喜欢的综合性较强的&lt;strong&gt;翻译插件&lt;/strong&gt;,支持划词翻译,在注释上悬浮翻译,段落翻译…速度和质量很优秀&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Remote-SSH&#34;&gt;Remote - SSH&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;作用主要是&lt;strong&gt;ssh 远程连接&lt;/strong&gt;,可以让 VScode 管理远程机上的文件/代码…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Bracket-Select&#34;&gt;Bracket Select&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;快速选择&lt;code&gt;括起来的内容&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;包括单引号,双引号,小括号,中括号,大括号…&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;CodeSnap&#34;&gt;CodeSnap&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;代码截图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;file-size&#34;&gt;file-size&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;显示文件大小&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Image-Preview&#34;&gt;Image Preview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;可以预览图片&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;美化推荐&#34;&gt;美化推荐&lt;/h2&gt;
+&lt;h3 id=&#34;主题&#34;&gt;主题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Weidows-Design-theme&#34;&gt;Weidows Design theme&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;当然是我自己做的最好看了!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Shades-of-Purple&#34;&gt;Shades of Purple&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;看起来紫气东来的一个主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Tinacious-Design&#34;&gt;Tinacious Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;个人最喜欢的主题,只要是 RGB+Cyberpunk 风格吸引我&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Dracula&#34;&gt;Dracula&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;代码配色太好看了!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;窗口透明&#34;&gt;窗口透明&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Glasslt-VSC&#34;&gt;Glasslt-VSC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;让 VScode 窗口半透明化(无毛玻璃效果,但是这个不影响性能)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Vibrancy&#34;&gt;Vibrancy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;令&lt;strong&gt;VScode 毛玻璃型透明&lt;/strong&gt;,可选择透明度和非透明区域(注意这个插件比较影响性能)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Power-Mode&#34;&gt;Power Mode&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在码字时敲入文字后光标产生动画,很好看(但是会有点卡顿现象)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Chinese-Simplified-Language-Pack-for-Visual-Studio-Code&#34;&gt;Chinese (Simplified) Language Pack for Visual Studio Code&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这个不解释,中国人看&lt;strong&gt;中国字&lt;/strong&gt;顺眼就对了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;background&#34;&gt;background&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;可以让主窗口出来个偷看的小东方(默认情况下,可以自行修改),主要是&lt;strong&gt;养眼使用&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Material-Icon-Theme&#34;&gt;Material Icon Theme&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;侧边栏的资源管理器中的&lt;strong&gt;文件&lt;/strong&gt;们长出了&lt;strong&gt;头像&lt;/strong&gt;,更加好认了呢…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外插件商店搜索 icon 也可以找到其他样式的图标包,看个人喜好了…&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Rainbow-Fart&#34;&gt;Rainbow Fart&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;不能算是美化吧…但只能放这了…打开浏览器一个辅助性页面,授权后在你码字触发某些关键字时会播放 “鼓励” 型话语,具体可以参考我的另一个项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;koroFileHeader&#34;&gt;koroFileHeader&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在 new 文件时在文件头部加上作者,新建和更改日期,文件目录等信息(也可手动添加)&lt;br&gt;
+另一个有趣功能是可以一键添加字符画!没啥用但挺有意思的…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Live2D&#34;&gt;Live2D&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在 VScode 里面添加一个 Live2D 看板娘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Rainbow-String&#34;&gt;Rainbow String&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使&amp;quot;&amp;quot;选中的字符串变成彩虹色,可以通过修改配置来使目标语言生效(比较影响性能)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Error-Lens&#34;&gt;Error Lens&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使代码错误/警告在那一行尾部显示出来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;码字推荐&#34;&gt;码字推荐&lt;/h2&gt;
+&lt;h3 id=&#34;代码补全&#34;&gt;代码补全&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Visual-Studio-IntelliCode&#34;&gt;Visual Studio IntelliCode&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;VS 原配夫人,但是个人感觉,补全效果&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TabNine &amp;gt; Kite &amp;gt; Visual Studio IntelliCode&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;TabNine&#34;&gt;TabNine&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;代码补全&lt;/strong&gt;的插件,不同的是它可以借助参考上下文,项目中的相似语句进行推荐补全(比语言自带的更强大,不冲突,这个是整句型补全,不嫌弃略卡的话实际很好用)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;是个&amp;quot;小巧&amp;quot;的(实际上打开 VScode 时占用内存 1G+,具体看项目大小了)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以补全纯文本&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Kite&#34;&gt;Kite&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;很出名的代码补全程序,需要安装外部程序(当然如果没安装的话,这个插件也会给你装上)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;补全效果很出色,但是个人用起来感觉并不如 TabNine 舒服~&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;其他-2&#34;&gt;其他&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Mover&#34;&gt;Mover&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;不会用 Vim,用这个也不错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Bracket-Pair-Colorizer-2&#34;&gt;Bracket Pair Colorizer 2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;只要码字时用到大中小括号,我就推荐搞上它,它可以让不同对括号标记&lt;strong&gt;不同颜色&lt;/strong&gt;来区分开,而且两配对的括号会&lt;strong&gt;标出缩进线&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;放心,这个版本 2 比 1 好&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Code-Runner&#34;&gt;Code Runner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在界面右上角出现三角形按钮,它允许在编译调试环境已经搭配好的情况下&lt;strong&gt;使 VScode 产生 IDE 的* 作用&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Markdown-All-in-One&#34;&gt;Markdown All in One&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;功能在名字中体现了,可以在 VScode 中&lt;strong&gt;打开/写/预览.md 文件&lt;/strong&gt;,VScode 版 typora&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Background-Phi-Colors&#34;&gt;Background Phi Colors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在缩进区域以及匹配选择产生不同颜色的&amp;quot;色块&amp;quot;,在缩进不标准时也会变色提醒,&lt;strong&gt;很实用!&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果你用过&lt;code&gt;indent-rainbow&lt;/code&gt;,那么我推荐的这个这个插件大概率可以更满足你!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;Better-Comments&#34;&gt;Better Comments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;添加注释时在每行注释第一个字符写&amp;quot;!?*&amp;quot;等字符会该行让注释变色,有一定增强阅读效果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文章推荐-2&#34;&gt;文章推荐&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有点老了,但是内容相当好.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.fundebug.com/2018/11/20/10-must-have-vs-code-extensions-for-javascript-developers/&#34;&gt;10 种 JavaScript 开发者必备的 VS Code 插件&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
