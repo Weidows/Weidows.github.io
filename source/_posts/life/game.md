@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-14 23:11:59
+ * @LastEditTime: 2022-03-28 19:43:40
  * @FilePath: \Blog-private\source\_drafts\game.md
  * @Description:
  * @!: *********************************************************************
@@ -27,6 +27,8 @@ top_img:
 - [些些游戏琐事](#些些游戏琐事)
   - [EPIC](#epic)
     - [库空了](#库空了)
+  - [小小梦魇](#小小梦魇)
+    - [瞎眼厨师关](#瞎眼厨师关)
   - [借物表](#借物表)
 ```
 
@@ -56,6 +58,22 @@ top_img:
 
   所以...解决办法就是随便装个游戏
 
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 小小梦魇
+
+### 瞎眼厨师关
+
+![](https://www.helloimg.com/images/2022/03/28/RqmsTz.png)
+
+网上教程大多是先让进这个笼子,然后等 boss 走到左边后出来跟他赛跑
+
+试了好多次都被抓
+
+后来发现, 可以爬上这个笼子,等 boss 走到左边后从笼子右边跳下去,boss 不会追上来
+
 ## 借物表
 
-暂无.
+<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [小小梦魇 1 图文攻略 全剧情流程+全解谜 boss 打法攻略(5)瞎眼厨子](http://www.wyaq.com/youxi/gonglue/8142_5.html)
