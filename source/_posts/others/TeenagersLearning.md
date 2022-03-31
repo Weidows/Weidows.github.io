@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 17:50:20
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-09 13:09:35
+ * @LastEditTime: 2022-03-30 17:56:09
  * @FilePath: \Blog-private\source\_posts\others\TeenagersLearning.md
  * @Description:青年大学习
 -->
@@ -23,11 +23,12 @@ top_img:
 ```pullquote mindmap mindmap-md
 - [青年大学习跳过学习视频](#青年大学习跳过学习视频)
   - [前言](#前言)
-  - [浏览器大法](#浏览器大法)
   - [debugx5-法](#debugx5-法)
     - [安装核心](#安装核心)
     - [进入视频](#进入视频)
-  - [参考](#参考)
+  - [浏览器大法](#浏览器大法)
+    - [已失效](#已失效)
+  - [借物表](#借物表)
 ```
 
 ## 前言
@@ -40,55 +41,39 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 浏览器大法
-
-{% mmedia "bilibili" "bvid:BV1Ba411h7HJ" %}
-
-新版本微信可用,需要有一个可以拖动进度条的浏览器 (比如 QQ 浏览器, Edge 浏览器不行)
-
-浏览器拖动看完后能计入学习记录
-
-1. 在微信进入学习视频
-2. 右上角 -> 在浏览器打开
-3. 拖条
-4. 截图走人
-
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
-
 ## debugx5-法
 
-`很遗憾的表示,下面这个方法对于 微信8.0.16 后的版本失效了(2022.2)`
-<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+debugx5 对于微信 8.0.16 后的版本失效了(2022.2) <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
 
-老版本倒是可以照常用
+但是还是有骚方法让它起死回生:
+
+{% mmedia "bilibili" "bvid:BV1tP4y1u7ZX" %}
 
 ### 安装核心
 
-- 随便找个人/群给他发下面这段代码:
+1. 视频中给出了 `tbs.apk`, 下载+移动到 `/sdcard/Android/data/com.tencent.mm/files/tbs/`
 
-  > 只需要安装一次,只要不更新微信一直生效.
+    有可能略有不同,有的是: `/storage/emulated/0/Android/data/com.tencent.mm/files/tbs/`
 
-  ```
-  debugmm.qq.com/?forcex5=true;
+2. 随便找个人/群给他发下面这段代码:
 
-  http://debugtbs.qq.com
+   ```
+   debugmm.qq.com/?forcex5=true;
 
-  http://debugx5.qq.com
-  ```
+   http://debugtbs.qq.com
 
-- 示例:
+   http://debugx5.qq.com
+   ```
 
-  ![Screenshot20201130175729](https://www.helloimg.com/images/2022/02/27/GVJiZv.png)
+   ![Screenshot20201130175729](https://www.helloimg.com/images/2022/02/27/GVJiZv.png)
 
-  然后从上到下把链接点开一下(`点开然后关掉`就行)
+3. 然后从上到下把链接点开一下(`点开然后关掉`就行)
 
-  第三个链接需要打开一个东西,如下:
+   第三个链接需要打开一个东西,如下:
 
-  ![Screenshot20201130184015](https://www.helloimg.com/images/2022/02/27/GVJxyo.png)
+   ![Screenshot20201130184015](https://www.helloimg.com/images/2022/02/27/GVJxyo.png)
 
-  如果你截图时不想让小绿格显示,在这里再关掉.
-
-- 安装完成!
+4. 安装完成!
 
 ---
 
@@ -109,6 +94,23 @@ top_img:
 - 点 ok
 
   没了,如果答完题还有视频的话,再输一遍这命令 ok 一下
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 浏览器大法
+
+### 已失效
+
+{% mmedia "bilibili" "bvid:BV1Ba411h7HJ" %}
+
+新版本微信可用,需要有一个可以拖动进度条的浏览器 (比如 QQ 浏览器, Edge 浏览器不行)
+
+浏览器拖动看完后能计入学习记录
+
+1. 在微信进入学习视频
+2. 右上角 -> 在浏览器打开
+3. 拖条
+4. 截图走人
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
