@@ -1,0 +1,1093 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;设计&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-11-28T15:18:29.000Z</updated>
+    <category term="面试" />
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="vscode" />
+    <category term="butterfly" />
+    <category term="katex" />
+    <category term="math" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="游戏" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="maven" />
+    <category term="git" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="人工智能" />
+    <category term="机器学习" />
+    <category term="opengl" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="mariadb" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="anaconda" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/design/%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/</id>
+        <title>🥨结构设计杂记</title>
+        <link rel="alternate" href="https://weidows.github.io/post/design/%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/"/>
+        <content type="html">&lt;h1&gt;结构设计杂记&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-02-23 03:18:57
+ * @FilePath: \Blog-private\source\_posts\design\结构设计.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%9D%82%E8%AE%B0&#34;&gt;结构设计杂记&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E9%97%AE%E9%A2%98&#34;&gt;目录结构问题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;目录结构问题&#34;&gt;目录结构问题&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;今天整理文件夹时遇到的小问题:&lt;/p&gt;
+&lt;p&gt;我的目录如下,因为在整理时发现在 Audio/Image 下也有要整理的素材&lt;/p&gt;
+&lt;p&gt;如果每个里面都搞一个&amp;quot;素材&amp;quot;文件夹又显得多余,于是动手开始了合并这三个文件夹&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Audio&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Image&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Video&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|&amp;gt; 素材&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;but&lt;/p&gt;
+&lt;p&gt;整理过程中发现简单粗暴地合并会给我的人为索引带来困难:&lt;/p&gt;
+&lt;p&gt;大多东西 (比如歌/MV/涩图) 都是&lt;code&gt;单方面的内容&lt;/code&gt;,不涉及另外两方面&lt;/p&gt;
+&lt;p&gt;所以一旦合并,人为索引复杂度会 1 -&amp;gt; 2~3&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最终选择:&lt;/p&gt;
+&lt;p&gt;运用 &lt;code&gt;解耦&lt;/code&gt; 思想,把&amp;quot;素材&amp;quot;抽离出来;&lt;/p&gt;
+&lt;p&gt;尽管你可能人为&amp;quot;素材&amp;quot;应该是那三个的子分类,但是这种结构应该才是最优解&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Audio&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Image&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Video&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; 素材&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🤔🤣 是不是很傻的问题呢? 我倒是感觉这种抽象化思维很有帮助.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="设计" />
+        <updated>2021-11-28T15:18:29.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/design/%E6%91%84%E5%BD%B1/</id>
+        <title>💧摄影方面的细节收集.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/design/%E6%91%84%E5%BD%B1/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-02-27 16:21:59
+ * @FilePath: \Blog-private\source\_posts\design\摄影.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%89%E5%BD%B1&#34;&gt;光影&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%92%E5%BA%A6&#34;&gt;角度&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%B0%E8%A7%92&#34;&gt;仰角&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%91%E6%83%B3%E8%81%8A%E8%81%8A%E7%9A%84&#34;&gt;我想聊聊的:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B0%83%E8%89%B2&#34;&gt;调色&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;光影&#34;&gt;光影&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV18J411B7or&#34;&gt;当一部电影少了灯光师会变成什么样？是时候让国内导演看看了&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人眼本能就是第一眼看明暗对比最强烈的地方，紧跟着注意力放松，关注点逐渐往暗面涣散，被暗面中隐约的细节吸引。不使用任何一种构图法的情况下，优秀的灯光布置可以独立完成视觉引导的工作，对画面最终的展示效果大大增色。所有视觉设计相关的工作都能从学习灯光中获得裨益。​&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;角度&#34;&gt;角度&lt;/h2&gt;
+&lt;h3 id=&#34;仰角&#34;&gt;仰角&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先感谢摄影作者及搬运 up 的分享,图片左上角有 up 的名字.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;拍摄人物时结合&lt;code&gt;仰角+宽镜头+一定距离&lt;/code&gt;更能凸显出&lt;code&gt;人与景的融合&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVEyRz.jpg&#34; alt=&#34;Screenshot20210313171420&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;给人以宏大的观感&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外还有有一张&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVJBQ5.jpg&#34; alt=&#34;Screenshot20210313171408&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;这种照片国内并不是很流行,感觉国内一些摄影方式过于局限在&lt;code&gt;人&lt;/code&gt;身上,宽泛却只包括&lt;code&gt;表情,动作&lt;/code&gt;,而对于取景这方面没下太大功夫,这种有点&lt;code&gt;非主流&lt;/code&gt;的摄影方式确实更能让人眼前一亮.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后一张&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVEj6R.jpg&#34; alt=&#34;Screenshot20210313171427&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;正如:&lt;code&gt;画自会说话&lt;/code&gt;,一句;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;也贴合另外一句:&lt;code&gt;一千个人看这个照片有一千种感受&lt;/code&gt;,看到这个画面感受挺多,但说不出开具体是哪一种.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;语文老师常说的: &lt;code&gt;融情于景&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;我想聊聊的&#34;&gt;我想聊聊的:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我个人对国内大部分婚纱摄影(也不单单指婚纱摄影方面)不是很满意,不过想也自然,结婚方对此不是很感冒,婚办方也只想拿钱走人,于是衍生出了如今这种&lt;code&gt;半自动式婚纱摄影&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我所向往的婚纱照,是两人最美好时刻的&lt;code&gt;时间刻印&lt;/code&gt;,而非像是&lt;code&gt;任务打关&lt;/code&gt;一样在摄影馆一进一出…&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;具体而言,我个人对&lt;code&gt;华丽的西装裙摆,豪华的别墅房车,贵族样得风情庭院&lt;/code&gt;,这种土老帽一样的 &lt;code&gt;scene&lt;/code&gt; 有些抗拒 🤔&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;来个例子(网图),这里打了马赛克了,对人物并无恶意,单单评价摄影方式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVsb9g.png&#34; alt=&#34;20210313180119&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一是,它真的不好看,还不如一件&lt;code&gt;白丝袜&lt;/code&gt;让我鼻血来的刺激 (当然可能大部分女方向往这种的,我不是女生,没经验 🤣)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;二是,它真的无法把&lt;code&gt;感情融入&lt;/code&gt;相片里.你仔细瞅瞅周围亲戚们拍相片时的表情 (是不是略带僵硬?)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;三是,它真的很难勾魂.谁看到自己的婚纱照会说&amp;quot;我还想再跟你去一次?&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所以,个人比较倾向的是 &lt;code&gt;双人游拍&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;没有人比另一半更能发掘你的美&lt;/code&gt; (别说不能 😂)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;毕竟也不可能请一位摄影师天天守着拍两人秀恩爱的画面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后,我想把对&lt;code&gt;她和景色&lt;/code&gt; 的感情,掺杂进镜头,即使是演的,也要演的两人都信以为真,容不得第三人插足此时此刻此情此景.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;调色&#34;&gt;调色&lt;/h2&gt;
+&lt;p&gt;不知道把这个归到哪一类了,算到摄影里凑凑数吧…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开局一张图,故事全靠编&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVA8Ln.png&#34; alt=&#34;20210510230442&#34; /&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比较风雅照片风格,感觉比较适合&lt;code&gt;人物日常&lt;/code&gt;,印象中尤其是一些高档休闲店铺喜欢用的照片风格 (咖啡厅,甜品店)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;很歉意的&lt;/code&gt;,找不到原创作者地址了(因为是偶然刷到的)…他给的调色面板&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVaSe1.png&#34; alt=&#34;1620631630921&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="设计" />
+        <category term="摄影" />
+        <updated>2021-03-13T09:18:34.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/design/UI-design/</id>
+        <title>🙌UI平面设计.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/design/UI-design/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-30 18:40:45
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-13 17:19:50
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\UI-design.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%B4%E5%9B%BE%E8%AE%BE%E8%AE%A1&#34;&gt;头图设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%91%88%E7%8E%B0%E6%96%B9%E5%BC%8F&#34;&gt;呈现方式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9B%BE%E5%AD%97&#34;&gt;图&amp;gt;字&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9D%9E%E6%A0%87%E5%87%86%E4%B8%8E%E7%95%99%E7%99%BD&#34;&gt;非标准与留白&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;头图设计&#34;&gt;头图设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一张好看的图片能有啥效果?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[x] 吊起胃口&lt;/li&gt;
+&lt;li&gt;[x] 引人入胜&lt;/li&gt;
+&lt;li&gt;[x] 图片养眼&lt;/li&gt;
+&lt;li&gt;[x] 吟唱施法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是,找到个比较&lt;code&gt;中肯&lt;/code&gt;的知乎问答:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/313933884&#34;&gt;微信公众号推送封面如何设计制作？&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;从博客文章头图无从下手切入的,以往就是百度谷歌搜关键词,找一个好看的图,但是耦合性太差,想找个流水线式解决方案.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;起初是因为看到 &lt;code&gt;@小康博客&lt;/code&gt; 的文章头图,感觉很好看,于是去找的方案.&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GV49wA.png&#34; alt=&#34;20210127191714&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我发现并没有太过快速的生成器(哈哈哈不能一口吃个胖子)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;但是找到了不少好模板网站.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;推荐下,我这篇文章用的是&lt;a href=&#34;https://www.canva.cn/&#34;&gt;&lt;code&gt;可画&lt;/code&gt;&lt;/a&gt; 网做出来的,我改了改字就可以使用了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上手时间成本几乎没有,现阶段可以说是最直接有效的解决方案了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;呈现方式&#34;&gt;呈现方式&lt;/h2&gt;
+&lt;h3 id=&#34;图-字&#34;&gt;图&amp;gt;字&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;有些情况下,同样的内容,同样的格式性,图片效果还是会更显著&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVmbFr.png&#34; alt=&#34;20210226172913&#34; /&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVmnUq.png&#34; alt=&#34;20210226173119&#34; /&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;非标准与留白&#34;&gt;非标准与留白&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如上面的两张图,有毛边效果,用的好的话可以让人眼前一亮(我截的图比较差)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还有留白(padding),下图的留白就不是很好,略小了&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVmiTc.png&#34; alt=&#34;20210226173845&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="设计" />
+        <updated>2021-01-30T10:40:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/others/LearnWay/</id>
+        <title>😍Weidowsの成长路线.</title>
+        <link rel="alternate" href="https://weidows.github.io/post/others/LearnWay/"/>
+        <content type="html">&lt;h1&gt;Weidows の成长路线.&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2020-12-30 11:42:22
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-03-13 23:31:05
+ * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#weidows-%E3%81%AE%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF&#34;&gt;Weidows の成长路线.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#java&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E7%AB%AF&#34;&gt;前端&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cc&#34;&gt;C/C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#python&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7&#34;&gt;开发工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B3%9B%E5%9F%9F&#34;&gt;泛域&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AE%BE%E8%AE%A1&#34;&gt;设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86&#34;&gt;基础知识&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9D%A2%E8%AF%95&#34;&gt;面试&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;tabs&#34; id=&#34;关于&#34;&gt;&lt;ul class=&#34;nav-tabs&#34;&gt;&lt;li class=&#34;tab active&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#关于-1&#34;&gt;关于&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#关于-2&#34;&gt;&lt;i class=&#34;fab fa-apple-pay&#34;&gt;&lt;/i&gt;为什么写这篇文章&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#关于-3&#34;&gt;&lt;i class=&#34;fas fa-bomb&#34;&gt;&lt;/i&gt;注意&lt;/button&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&#34;tab-contents&#34;&gt;&lt;div class=&#34;tab-item-content active&#34; id=&#34;关于-1&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有些指引确实有参考价值,需要结合自身能力和需求体系学习.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个只是个人路线,并非普遍最优解 (况且很多技术&lt;code&gt;已经过时&lt;/code&gt;了)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;关于-2&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;学习平台比较多,涉猎范围在&lt;code&gt;单方面无法收藏齐全&lt;/code&gt;,这个文章算是概览,方便寻找.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;比如我在中国大学 MOOC 起步,在 B 站刷视频课程,在 CSDN 水技术资料,在 github 爬高星项目,在逼乎看技术走向方面的回答.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;此文章只做推荐,不牵扯任何利益关系.&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;关于-3&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;学习编程是非线性成长&lt;/code&gt;,也就是说在能看懂的情况下都可以学&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;想速成的话往往效率和方式比较低下,注意规避.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一个技术很大可能会牵扯其他多个技术栈,能力提升一般呈辐射性网状的.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Java&#34;&gt;Java&lt;/h2&gt;
+&lt;!--  --&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-lg&#34;&gt;&lt;ul&gt;
+&lt;li&gt;Java
+&lt;ul&gt;
+&lt;li&gt;阶段
+&lt;ul&gt;
+&lt;li&gt;入门
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.icourse163.org/course/0809ZJU013-1001541001?outvandor=zw_mooc_pclszykctj_&#34;&gt;零基础学 Java 语言&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;进阶
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.icourse163.org/course/0809ZJU012-1001542001?outvandor=zw_mooc_pclszykctj_&#34;&gt;面向对象程序设计——Java 语言&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;就业级
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1CJ411m7gg&#34;&gt;求知讲堂零基础 Java 入门编程视频教程 学完可就业&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;个人记录,不推荐再学习!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;阶段回顾
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1MJ411v7tJ?from=search&amp;amp;seid=6413568957300849811&#34;&gt;【狂神说 Java】JavaSE 阶段回顾总结&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;很不错的复习!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;网络编程
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1LJ411z7vY&#34;&gt;【狂神说 Java】网络编程实战讲解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_45717355/article/details/110945343&#34;&gt;【狂神说 Java】网络编程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;JavaWeb
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV12J411M7Sj&#34;&gt;【狂神说 Java】JavaWeb 入门到实战&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/bell_love/article/details/105667638&#34;&gt;B 站—【狂神说 Java】JavaWeb 入门到实战—笔记&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;特性
+&lt;ul&gt;
+&lt;li&gt;文档注释
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/lsy0903/article/details/89893934&#34;&gt;Java 文档注释用法+JavaDoc 的使用详解&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Lambda
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/java/java8-lambda-expressions.html&#34;&gt;Java Lambda 表达式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://objcoding.com/2019/03/04/lambda/&#34;&gt;关于 Java Lambda 表达式看这一篇就够了&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;多线程
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1V4411p7EF&#34;&gt;【狂神说 Java】多线程详解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_41963554/article/details/108808824&#34;&gt;狂神说多线程笔记&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;深/浅 clone
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/zhangjg_blog/article/details/18369201&#34;&gt;详解 Java 中的 clone 方法 – 原型模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhidao.baidu.com/question/123775480.html&#34;&gt;java 中深克隆与浅克隆的区别&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;GUI
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/qq_42035966/article/details/82258199&#34;&gt;Java-GUI 快速入门&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;框架
+&lt;ul&gt;
+&lt;li&gt;MyBatis
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1NE411Q7Nx&#34;&gt;【狂神说 Java】Mybatis 最新完整教程 IDEA 版通俗易懂&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/DDDDeng_/article/details/106927021&#34;&gt;狂神说 Java Mybatis 笔记&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spring
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/qq_42453117/article/details/104758942&#34;&gt;什么？搞 Java 的你还不会 Spring？一篇文章带你掌握&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1WE411d7Dv&#34;&gt;【狂神说 Java】Spring5 最新完整教程 IDEA 版通俗易懂&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spring MVC
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_44635198/article/details/107444925&#34;&gt;SpringMVC 笔记（狂神）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1aE41167Tu&#34;&gt;【狂神说 Java】SpringMVC 最新教程 IDEA 版通俗易懂&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/clwydjgs/p/9255046.html&#34;&gt;@Controller 和@RestController 的区别？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1RE41127rv&#34;&gt;【狂神说 Java】SSM 框架最新整合教学 IDEA 版&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spring Boot
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/guorui_java/article/details/107379648&#34;&gt;Spring Boot 常用注解（绝对经典）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;日志
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/u013068377/article/details/107239878&#34;&gt;Java 最详细常用日志框架介绍&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;工具类
+&lt;ul&gt;
+&lt;li&gt;I/O 序列化/ObjectOutputStream
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/cc1969281777/article/details/87068106&#34;&gt;对象操作流 ObjectOutputStream&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;OPTIONAL
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/zhangboyu/p/7580262.html&#34;&gt;理解、学习与使用 JAVA 中的 OPTIONAL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;URL
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/kissdodog/archive/2013/04/22/3034898.html&#34;&gt;System.Uri 类 - 获取 Url 的各种属性，文件名，参数，域名，端口等等&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stream
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/happyheng/article/details/52832313&#34;&gt;Java8 Stream 详解&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;单元测试 Junit
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&amp;amp;mid=2247490821&amp;amp;idx=1&amp;amp;sn=855b8ede1287dd95787a010c3245c8e7&amp;amp;chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&amp;amp;xtrack=1&amp;amp;scene=90&amp;amp;subscene=93&amp;amp;sessionid=1609292024&amp;amp;clicktime=1609292488&amp;amp;enterid=1609292488&amp;amp;ascene=56&amp;amp;devicetype=android-29&amp;amp;version=27001637&amp;amp;nettype=WIFI&amp;amp;abtest_cookie=AAACAA%3D%3D&amp;amp;lang=zh_CN&amp;amp;exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&amp;amp;pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&amp;amp;wx_header=1&#34;&gt;JUnit：别再用 main 方法测试了，好吗？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;前端-2&#34;&gt;前端&lt;/h2&gt;
+&lt;!--  --&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;前端
+&lt;ul&gt;
+&lt;li&gt;HTML/CSS
+&lt;ul&gt;
+&lt;li&gt;注意
+&lt;ul&gt;
+&lt;li&gt;一般这俩是合在一起学的,相关性较强.&lt;/li&gt;
+&lt;li&gt;都是&lt;code&gt;前端基础&lt;/code&gt;,但是后端也必须要会.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;入门
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV14J4114768&#34;&gt;黑马程序员 pink 老师前端入门视频教程 HTML5+CSS3+移动端布局-flex 布局 rem 布局响应式布局摹客蓝湖使用-简单有趣好玩&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;全网最知名的,应该没有之一&lt;/li&gt;
+&lt;li&gt;视频贼多,把基础趟完跑路.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;进阶
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1YJ411a7dy&#34;&gt;【狂神说 Java】CSS3 最新教程快速入门通俗易懂&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Markdown
+&lt;ul&gt;
+&lt;li&gt;这个没有什么特效课程,需要循序渐进的使用 markdown 记笔记&lt;/li&gt;
+&lt;li&gt;把一些关键词用熟悉,渐渐地文章就变得好起来了&lt;/li&gt;
+&lt;li&gt;markdown 这种归档式,目录式以及层级递进式的笔记方式,能很好地锻炼表达思维&lt;/li&gt;
+&lt;li&gt;而且对学习效果有显著提升.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;JavaScript
+&lt;ul&gt;
+&lt;li&gt;进阶
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1JJ41177di&#34;&gt;【狂神说 Java】JavaScript 最新教程通俗易懂&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;因为有 Java 基础,入门阶段直接过去了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;异步
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000007535316&#34;&gt;理解 JavaScript 的 async/await&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Console
+&lt;ul&gt;
+&lt;li&gt;可以在网站中做一些有意思的事,比如在我的博客这里,按 F12 可以看到.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cn.voidcc.com/question/p-nyquxitt-dn.html&#34;&gt;如何在控制台中隐藏日志消息的来源？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/suwanbin/p/13383064.html&#34;&gt;js 控制台 console 骚操作-打印图片-自定义样式-字符画&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;闭包
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jb51.net/article/166905.htm&#34;&gt;JS 自执行函数原理及用法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ajax
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Kt411u7BV&#34;&gt;【狂神说 Java】一小时掌握 Ajax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;大前端
+&lt;ul&gt;
+&lt;li&gt;Vue.js
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/DDDDeng_/article/details/107475920&#34;&gt;狂神说 Vue 笔记&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;有一段时间没跟着视频学习了,光看文章的话,学起来还挺快&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;跨域
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../Web/JavaScript/CORS&#34;&gt;😡 一次解决 CORS 经验记录.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;工具类
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../experience/dev/sql-problem&#34;&gt;🚚开发之旅~&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;其他
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/qNJPkSkMTWNYjjKMp4rwmA&#34;&gt;如何做到修改 node_module 中的包，却不受重新安装的影响&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;C-C&#34;&gt;C/C++&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;个人比较喜欢把 C 和 C++放在一起,虽然 C++并没学过(不过倒是能看懂).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全程学的&lt;code&gt;翁凯&lt;/code&gt;老师的,讲的很好.&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;C/C++
+&lt;ul&gt;
+&lt;li&gt;入门课程
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_&#34;&gt;程序设计入门——C 语言&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;进阶课程
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.icourse163.org/course/ZJU-200001&#34;&gt;C 语言程序设计进阶&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;链表
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Rb411F738&#34;&gt;1 个小时学会单链表，C 语言数据结构专题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;&lt;br&gt;
+&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;用的比学得多…很多时候现学现用&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;Python
+&lt;ul&gt;
+&lt;li&gt;基础
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runoob.com/python3/python3-tutorial.html&#34;&gt;Python 3 教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文章
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../python/anaconda&#34;&gt;👍Anaconda-Python-水漂浅探池深浅.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;工具
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/wanglvtao/p/11140025.html&#34;&gt;Python 配置管理的几种方式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/qq_42967398/article/details/88078788&#34;&gt;Python 类型强制转换和字符串的操作&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;&lt;br&gt;
+&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;开发工具&#34;&gt;开发工具&lt;/h2&gt;
+&lt;!--  --&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;开发工具
+&lt;ul&gt;
+&lt;li&gt;Git
+&lt;ul&gt;
+&lt;li&gt;简介
+&lt;ul&gt;
+&lt;li&gt;这应该是所有程序员必会的技能了,没有保留的余地.&lt;/li&gt;
+&lt;li&gt;装上 git 之后结合 github 摸索摸索就会了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Git push
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/qianqiannian/p/6008140.html&#34;&gt;Git push 常见用法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;多远程
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000011294144&#34;&gt;一个项目 push 到多个远程 Git 仓库&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VScode
+&lt;ul&gt;
+&lt;li&gt;主题适配
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_45599654/article/details/109306462&#34;&gt;VScode 自定义主题 界面 UI 配色 语法配色&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;插件(包)开发/发布
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000020435312&#34;&gt;VScode 插件开发（五）插件包&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Weidows-projects/VScode-Extension-Tamplate&#34;&gt;vscode插件开发模板&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Emmet
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/qq_33744228/article/details/80910377&#34;&gt;【Emmet】HTML 速写之 Emmet 语法规则&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Docker
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1vD4y1X7ce&#34;&gt;初探 Docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;正则表达式
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md&#34;&gt;ziishaned/learn-regex&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;标星超高的项目,必须一刷!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../experience/regex&#34;&gt;🙉修为突破灵药-正则表达式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;泛域&#34;&gt;泛域&lt;/h2&gt;
+&lt;!--  --&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;泛域
+&lt;ul&gt;
+&lt;li&gt;2038 问题
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin&#34;&gt;2038 年问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;问题不大不小,Windows 平台与 linux 平台都有相应的推迟解决方案了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;自信
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/m0_46163918/article/details/114883501?utm_source=app&amp;amp;app_version=4.5.4&#34;&gt;上班 4 年，现在却只会调工具包，AI 程序员崩溃了&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;我发现我好想也有点文中提到的“冒名顶替综合征”,文中也有我认为很好的解决办法:
+&lt;ul&gt;
+&lt;li&gt;多多交流和分享&lt;/li&gt;
+&lt;li&gt;记录做过的事情&lt;/li&gt;
+&lt;li&gt;保持学习者心态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;随着年龄的增大,越发发现自信的重要性.&lt;/li&gt;
+&lt;li&gt;初中时就被体育老师鼓动,直到现在仍然感觉带有自信头衔的人有独特的美丽.&lt;/li&gt;
+&lt;li&gt;当然,自信不是自负,是合理的外向+阳光+乐观的态度,在社交,职场和情感方面都有一定作用.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;编码习惯
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&amp;amp;mid=2735619936&amp;amp;idx=1&amp;amp;sn=56562e359badd5afb27529ebc41d77b9&amp;amp;chksm=b6ab39d481dcb0c21f5696373b0882fdfc0a06cbce7e4cf45529847012a1990b0758d45e6244&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0505Bype3cbVTtcSBVgUS3Ed&amp;amp;sharer_sharetime=1620190642862&amp;amp;sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd&#34;&gt;优秀程序员都在注意的 10 个点&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文档编写
+&lt;ul&gt;
+&lt;li&gt;emmm,Ummm…这是个如何优雅拉屎的艺术&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jianshu.com/p/a7984927cfb9&#34;&gt;最全！软件开发类项目关键文档内容要求&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jianshu.com/p/a52fe78962f0&#34;&gt;软件需求，概要设计，详细设计（文档）怎么做，做什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wenku.baidu.com/view/1e0708f41611cc7931b765ce05087632311274cf.html&#34;&gt;一个挺像样的项目文档: 软件项目开发文档&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;代理
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://congcong0806.github.io/2018/04/20/SS/&#34;&gt;SS/SSR/V2Ray/Clash 简介和客户端软件下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;图灵测试
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mathpix.com/&#34;&gt;问题来自于 mathpix 这个官网首页,玩梗 😂&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.helloimg.com/images/2022/02/27/GViz3o.png&#34;&gt;QQ 截图 20210626151150&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95&#34;&gt;维基百科:图灵测试&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;设计&#34;&gt;设计&lt;/h2&gt;
+&lt;h2 id=&#34;基础知识&#34;&gt;基础知识&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这两个跳到新文章吧,写在这太长:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../design/UI-design&#34;&gt;🙌UI 平面设计.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../experience/basic/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.mmd&#34;&gt;🌈 基础知识&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;面试&#34;&gt;面试&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_38607253/article/details/114154414&#34;&gt;MetaAPP 部分笔试题&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/guoxiaoyan/p/8664150.html&#34;&gt;什么是“堆”,“栈”,“堆栈”,“队列”,它们的区别&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/timecloud/p/6555868.html&#34;&gt;到底产生几个 String 对象&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/dolphin0520/p/3592500.html&#34;&gt;浅谈 Java 中的 equals 和==&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/SytfnrsYqequ2M7CnSY-IA&#34;&gt;字节终面：两个文件的公共 url 怎么找？&lt;/a&gt; / &lt;a href=&#34;https://mp.weixin.qq.com/s/TdJWFxrDAadK9UXar4WiRA&#34;&gt;小米面试：孔融找梨&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;通过 hash 降低时间复杂度, 以及通过 hash 分治降低空间复杂度&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="java" />
+        <category term="备忘录" />
+        <category term="推荐" />
+        <category term="设计" />
+        <category term="vscode" />
+        <category term="成长路线" />
+        <category term="基础知识" />
+        <category term="cpp" />
+        <category term="python" />
+        <category term="工具" />
+        <category term="大前端" />
+        <updated>2020-12-30T03:42:22.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/design/PS/</id>
+        <title>😵‍💫PS中一些小用法</title>
+        <link rel="alternate" href="https://weidows.github.io/post/design/PS/"/>
+        <content type="html">&lt;h1&gt;PS 中一些小用法&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-29 12:05:07
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-03-06 11:41:28
+ * @FilePath: \Blog-private\source\_posts\design\PS.md
+ * @Description:
+--&gt;&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ps-%E4%B8%AD%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%94%A8%E6%B3%95&#34;&gt;PS 中一些小用法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BF%AB%E6%8D%B7%E9%94%AE&#34;&gt;快捷键&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A3%E9%94%81%E5%9B%BE%E5%B1%82&#34;&gt;解锁图层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF&#34;&gt;透明背景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9A%E5%90%91%E5%8F%98%E8%89%B2&#34;&gt;定向变色&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%BB%E6%B0%B4%E5%8D%B0&#34;&gt;去水印&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BD%AE%E5%BB%93-%E5%9B%BE%E7%89%87%E5%A1%AB%E5%85%85&#34;&gt;轮廓-图片填充&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%82%E7%85%A7&#34;&gt;参照&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;快捷键&#34;&gt;快捷键&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;复制图层&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + J&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;调整图层位置和大小&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + T&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;解锁图层&#34;&gt;解锁图层&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;索引模式无法解锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图像-&amp;gt;模式-&amp;gt;(索引颜色-&amp;gt;RGB 颜色)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GV393v.png&#34; alt=&#34;20201129120716&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;双击图层&lt;/li&gt;
+&lt;li&gt;把锁拖进垃圾桶图标&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;透明背景&#34;&gt;透明背景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选择-&amp;gt;色彩范围，点击取色&lt;br&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVErOM.png&#34; alt=&#34;20201129121309&#34;&gt;&lt;/li&gt;
+&lt;li&gt;选中后按 Delete&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;定向变色&#34;&gt;定向变色&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;变色前后对比&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVLV5u.png&#34; alt=&#34;20210210193706&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;首先选择颜色范围,参考&lt;a href=&#34;#%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF&#34;&gt;透明背景&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后右键选择&lt;code&gt;填充&lt;/code&gt;,或者在菜单里找&lt;code&gt;【图像】——【调整】——【替换颜色】&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GV4sBv.png&#34; alt=&#34;20210210193939&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;填入目标色即可.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;去水印&#34;&gt;去水印&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/45458379&#34;&gt;PS 去水印的方法和技巧&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;轮廓-图片填充&#34;&gt;轮廓-图片填充&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用一张图的内容轮廓+另一张图的内容填充&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;如视频中的这样:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.helloimg.com/images/2022/03/06/Gh21vg.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表-5&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV12p4y1z7FZ?spm_id_from=..search-card.all.click&#34;&gt;【ps 小技巧/教程】 快速做出“文字用图片内容作填充”的效果，图片生成特定文字的轮廓效果|新手向|图片文字&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="备忘录" />
+        <category term="ps" />
+        <category term="设计" />
+        <updated>2020-11-29T04:05:07.000Z</updated>
+    </entry>
+</feed>
