@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-24 12:06:58
+ * @LastEditTime: 2022-04-03 21:19:10
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -93,6 +93,8 @@ top_img:
 |       capacity        | 容量                                                                                                                                                                                                                                                                                                                        |
 |         given         | 已知的                                                                                                                                                                                                                                                                                                                      |
 |       algorithm       | 算法                                                                                                                                                                                                                                                                                                                        |
+|      curriculum       | 课程                                                                                                                                                                                                                                                                                                                        |
+|         dummy         | 假人 / 仿制品 / 傀儡 / 哑巴                                                                                                                                                                                                                                                                                                 |
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
