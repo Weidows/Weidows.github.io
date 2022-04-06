@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-02 22:25:33
+ * @LastEditTime: 2022-04-06 00:32:57
  * @FilePath: \Blog-private\source\_posts\experience\basic\AI.md
  * @Description:
  * @!: *********************************************************************
@@ -37,6 +37,7 @@ top_img:
       - [例题](#例题-1)
     - [梯度下降法](#梯度下降法)
       - [例题](#例题-2)
+  - [课程](#课程)
   - [拓展-Glow](#拓展-glow)
   - [借物表](#借物表)
 ```
@@ -416,14 +417,23 @@ $$
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
+## 课程
+
+{% mmedia "bilibili" "bvid:BV1Wv411h7kN" "page:67" %}
+
+pre-train:
+
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
 ## 拓展-Glow
 
-生成网络属于 DDL,是一种常用的[无监督学习模型](#区分有-无监督学习)
+生成网络属于 DNN,是一种常用的[无监督学习模型](#区分有-无监督学习)
 
 <!--  -->
 
 ```pullquote mindmap mindmap-md
-- 深度神经网络 DDL -> 生成网络
+- 深度神经网络 DNN -> 生成网络
   - 生成对抗网络 GANs (Generative Adversarial Networks)
   - 变分自编码器 VAE (Variational Auto-Encoder)
   - Pixel RNN/CNN
