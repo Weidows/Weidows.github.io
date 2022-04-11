@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-08 09:30:31
+ * @LastEditTime: 2022-04-11 00:23:01
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -40,7 +40,7 @@ top_img:
     - [环境变量原因报错](#环境变量原因报错)
     - [切换版本报错](#切换版本报错)
   - [版本拟定](#版本拟定)
-  - [参考](#参考)
+  - [借物表](#借物表)
 ```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
@@ -85,8 +85,11 @@ top_img:
 
 ### 换源
 
-- 推荐: 使用 [`yrm`](https://www.npmjs.com/package/yrm), 会同时将你的 npm 和 yarn 一起切换
-  <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+- 推荐: 使用 [`yrm`](https://www.npmjs.com/package/yrm), 会同时将你的 npm 和 yarn 一起切换 <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+  ```
+  yrm add njupt https://mirrors.njupt.edu.cn/nexus/repository/npm/ https://mirrors.njupt.edu.cn/help/npm/
+  ```
 
   ```console
   ╰─ yrm test
@@ -104,6 +107,7 @@ top_img:
   ```
   yrm use taobao
   ```
+
 
 - 当然不嫌麻烦可以手动修改
 

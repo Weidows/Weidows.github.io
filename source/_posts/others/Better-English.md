@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-06 00:14:16
+ * @LastEditTime: 2022-04-07 00:08:01
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -100,6 +100,7 @@ top_img:
 |       sequence        | 序列                                                                                                     |
 |      regression       | 回归                                                                                                     |
 |    classification     | 分类                                                                                                     |
+|       recursion       | 递归                                                                                                     |
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

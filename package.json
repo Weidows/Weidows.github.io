@@ -8,7 +8,8 @@
     "一键三连": "hexo clean && hexo generate && hexo deploy",
     "get-bilibili-steam": "hexo bangumi -u && hexo steam -u",
     "server / test": "hexo server",
-    "check-update": "npm-check"
+    "check-update": "npm-check",
+    "convert-notebook": "sh ./source/_posts/public-post/notebook/convert.sh"
   },
   "hexo": {
     "version": "5.4.1"
@@ -29,13 +30,13 @@
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-search": "^2.4.3",
-    "hexo-generator-sitemap": "2.2.0",
+    "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^1.0.0",
     "hexo-githubcalendar": "^1.2.2",
     "hexo-helper-live2d": "^3.1.1",
     "hexo-neat": "^1.0.9",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-markdown-it": "^6.0.0",
+    "hexo-renderer-markdown-it": "^6.0.1",
     "hexo-renderer-pug": "^2.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^3.0.0",

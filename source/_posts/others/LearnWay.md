@@ -25,7 +25,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-13 23:31:05
+ * @LastEditTime: 2022-04-11 00:36:55
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -292,7 +292,8 @@ top_img:
   - 图灵测试
     - [问题来自于 mathpix 这个官网首页,玩梗 😂](https://mathpix.com/)
       - [QQ 截图 20210626151150](https://www.helloimg.com/images/2022/02/27/GViz3o.png)
-      - [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
+    - [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
+    - [新版图灵测试](https://www.helloimg.com/images/2022/04/11/RtEo1t.png)
 ```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>

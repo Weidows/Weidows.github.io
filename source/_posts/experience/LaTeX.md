@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-27 00:04:07
+ * @LastEditTime: 2022-04-11 14:10:56
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -306,13 +306,21 @@ top_img:
 
 ### 常用对照表
 
-|      LaTeX       | 符号             |     LaTeX     | 符号          |
-| :--------------: | :--------------- | :-----------: | :------------ |
-|    `\partial`    | $\partial$       |   `\theta`    | $\theta$      |
-|  `\frac{1}{2}`   | $\frac{1}{2}$    | `\mathcal{L}` | $\mathcal{L}$ |
-| `\sum_{i=1}^{N}` | $\sum_{i=1}^{N}$ |   `\alpha`    | $\alpha$      |
-|    `1\quad2`     | $1\quad2$        |  `1\qquad2`   | $1\qquad2$    |
-|    `\sqrt{3}`    | $\sqrt{3}$       |
+|      LaTeX       | 符号             |      LaTeX       | 符号          |
+| :--------------: | :--------------- | :--------------: | :------------ |
+|    `\partial`    | $\partial$       |     `\theta`     | $\theta$      |
+|  `\frac{1}{2}`   | $\frac{1}{2}$    |  `\mathcal{L}`   | $\mathcal{L}$ |
+| `\sum_{i=1}^{N}` | $\sum_{i=1}^{N}$ |     `\alpha`     | $\alpha$      |
+|    `1\quad2`     | $1\quad2$        |    `1\qquad2`    | $1\qquad2$    |
+|    `\sqrt{3}`    | $\sqrt{3}$       | `\|a\| 或 \vert` | $\|a\|$       |
+|   `\|\|x\|\|`    | $\|\|x\|\|$      | `a \cdot b`      | $a \cdot b$   |
+
+---
+
+|                 LaTeX                 | 符号                                |
+| :-----------------------------------: | :---------------------------------- |
+| `$\begin{bmatrix}1 & 2\end{bmatrix}$` | $\begin{bmatrix}1 & 2\end{bmatrix}$ |
+|  `\begin{Vmatrix}1 & 2\end{Vmatrix}`  | $\begin{Vmatrix}1 & 2\end{Vmatrix}$ |
 
 ---
 
