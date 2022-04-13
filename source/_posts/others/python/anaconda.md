@@ -13,27 +13,34 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-13 02:55:59
+ * @LastEditTime: 2022-04-12 23:22:50
  * @FilePath: \Blog-private\source\_posts\others\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-1. [简介](#简介)
-2. [安装](#安装)
-3. [测试](#测试)
-4. [配置文件位置](#配置文件位置)
-5. [镜像加速-代理](#镜像加速-代理)
-6. [修改依赖路径](#修改依赖路径)
-7. [PyTorch](#pytorch)
-8. [CUDA-cuDNN](#cuda-cudnn)
-9. [导出-安装依赖](#导出-安装依赖)
-10. [实例](#实例)
-11. [终端](#终端)
-   1. [激活终端](#激活终端)
-   2. [环境不一致](#环境不一致)
-   3. [更新依赖](#更新依赖)
-   4. [报错](#报错)
+# Anaconda-Python-水漂浅探池深浅.
+
+```pullquote mindmap mindmap-md
+- [Anaconda-Python-水漂浅探池深浅.](#anaconda-python-水漂浅探池深浅)
+  - [简介](#简介)
+  - [安装-配置](#安装-配置)
+    - [测试](#测试)
+    - [配置文件位置](#配置文件位置)
+    - [镜像加速-代理](#镜像加速-代理)
+    - [修改依赖路径](#修改依赖路径)
+    - [激活终端](#激活终端)
+    - [CUDA-cuDNN](#cuda-cudnn)
+  - [PyTorch](#pytorch)
+    - [实例](#实例)
+  - [依赖](#依赖)
+    - [更新依赖](#更新依赖)
+    - [install-报错](#install-报错)
+    - [导出-安装依赖](#导出-安装依赖)
+  - [报错](#报错)
+    - [安装报错](#安装报错)
+    - [环境不一致](#环境不一致)
+```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -53,7 +60,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 安装
+## 安装-配置
 
 - 可以选择官网下载安装包安装,我这里是用的 `scoop `安装的
 
@@ -71,7 +78,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 测试
+### 测试
 
 - 一个很关键的步骤: `重启电脑`. 如果没重启的话,环境变量有可能不生效,肯定无法正常打开.
 
@@ -102,7 +109,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 配置文件位置
+### 配置文件位置
 
 - Windows 中:
 
@@ -112,7 +119,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 镜像加速-代理
+### 镜像加速-代理
 
 > 清华镜像站给了教程: [Anaconda 镜像使用帮助](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
 
@@ -176,7 +183,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 修改依赖路径
+### 修改依赖路径
 
 > [pip install 默认安装路径修改](https://www.cnblogs.com/maggieq8324/p/12099068.html)
 
@@ -212,6 +219,43 @@ top_img:
   ```
   python -m site -help
   ```
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### 激活终端
+
+```
+conda init 终端名(powershell)
+```
+
+---
+
+### CUDA-cuDNN
+
+- 这两个是为了调用显卡性能,加速训练.
+
+  需要注册 NVIDIA 账号才能下载.
+
+  > [下载并安装 CUDA](https://developer.nvidia.com/cuda-zone) \
+  > [下载并安装 cuDNN Library](https://developer.nvidia.com/cudnn)
+
+  ***
+
+- 通过 scoop 安装 CUDA (很有可能安装有问题,即使安装成功也是不能使用的)
+
+  ```
+  scoop install cuda
+  ```
+
+  ***
+
+- 测试了一下, cuDNN Library 也是必须的,没配置的话会报错:
+
+  ```
+  RuntimeError: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED
+  ```
+
+  `配置方法`: 解压,把`bin\`添加进 path
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -255,37 +299,47 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## CUDA-cuDNN
+### 实例
 
-- 这两个是为了调用显卡性能,加速训练.
+> 通过一段音频,合成相似声音的项目: [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
-  需要注册 NVIDIA 账号才能下载.
+- CUDA: on,可以看到 python 调用了 `CPU+GPU`
 
-  > [下载并安装 CUDA](https://developer.nvidia.com/cuda-zone)
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAAGr.png" alt="20210521102521" />
 
-  > [下载并安装 cuDNN Library](https://developer.nvidia.com/cudnn)
+- 深度学习项目吃显存好离谱啊!
 
-  ***
-
-- 通过 scoop 安装 CUDA (很有可能安装有问题,即使安装成功也是不能使用的)
-
-  ```
-  scoop install cuda
-  ```
-
-  ***
-
-- 测试了一下, cuDNN Library 也是必须的,没配置的话会报错:
-
-  ```
-  RuntimeError: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED
-  ```
-
-  `配置方法`: 解压,把`bin\`添加进 path
+  <img src="https://www.helloimg.com/images/2022/02/27/GVA6R6.png" alt="20210521104118" />
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 导出-安装依赖
+## 依赖
+
+### 更新依赖
+
+```
+conda update --all
+```
+
+---
+
+### install-报错
+
+conda install pydotplus 时遇到报错:
+
+```
+RemoveError: 'requests' is a dependency of conda and cannot be removed from ...
+```
+
+遇到这报错, 更新下 conda,然后再安装
+
+```
+conda update --force conda
+```
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### 导出-安装依赖
 
 > [pip 和 conda 批量导出、安装组件(requirements.txt)](https://blog.csdn.net/chekongfu/article/details/83187591)
 
@@ -348,27 +402,26 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 实例
+## 报错
 
-> 通过一段音频,合成相似声音的项目: [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+### 安装报错
 
-- CUDA: on,可以看到 python 调用了 `CPU+GPU`
+```console
+╭─    D:\Repo\Weidows\python   master                              ✔  22:53:48  ─╮
+╰─ python
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+ModuleNotFoundError: No module named 'site'
 
-  <img src="https://www.helloimg.com/images/2022/02/27/GVAAGr.png" alt="20210521102521" />
-
-- 深度学习项目吃显存好离谱啊!
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVA6R6.png" alt="20210521104118" />
-
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
-
-## 终端
-
-### 激活终端
-
+Current thread 0x00002a54 (most recent call first):
+<no Python frame>
 ```
-conda init 终端名(powershell)
-```
+
+由于使用 scoop 安装的,我以为是我自己环境的错误,后来发现是因为安装脚本中 `persist` 软链接会导致 anaconda 内部错误
+
+这个库 `anaconda3_chawyehsu` 给的我启发,虽然这个安装脚本也不并不很好用
+
+于是我在自己库中添加了一个: https://github.com/Weidows-projects/scoop-3rd/blob/main/bucket/anaconda3.json
 
 ---
 
@@ -398,32 +451,3 @@ conda init 终端名(powershell)
   ```
 
   事情不大,烦恼不小
-
----
-
-### 更新依赖
-
-```
-conda update --all
-```
-
----
-
-### 报错
-
-```console
-╭─    D:\Repo\Weidows\python   master                              ✔  22:53:48  ─╮
-╰─ python
-Fatal Python error: init_import_site: Failed to import the site module
-Python runtime state: initialized
-ModuleNotFoundError: No module named 'site'
-
-Current thread 0x00002a54 (most recent call first):
-<no Python frame>
-```
-
-由于使用 scoop 安装的,我以为是我自己环境的错误,后来发现是因为安装脚本中 `persist` 软链接会导致 anaconda 内部错误
-
-这个库 `anaconda3_chawyehsu` 给的我启发,虽然这个安装脚本也不并不很好用
-
-于是我在自己库中添加了一个: https://github.com/Weidows-projects/scoop-3rd/blob/main/bucket/anaconda3.json
