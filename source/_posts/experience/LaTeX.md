@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-11 14:10:56
+ * @LastEditTime: 2022-04-18 12:00:08
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -36,7 +36,7 @@ top_img:
     - [Butterfly+KaTeX](#butterflykatex)
   - [公式](#公式)
     - [tools](#tools)
-    - [常用对照表](#常用对照表)
+    - [常用速查表](#常用速查表)
     - [数学等号对齐-大换行-成对匹配-数学样式数字](#数学等号对齐-大换行-成对匹配-数学样式数字)
   - [借物表](#借物表)
 ```
@@ -304,23 +304,34 @@ top_img:
 
 ---
 
-### 常用对照表
+### 常用速查表
 
-|      LaTeX       | 符号             |      LaTeX       | 符号          |
-| :--------------: | :--------------- | :--------------: | :------------ |
-|    `\partial`    | $\partial$       |     `\theta`     | $\theta$      |
-|  `\frac{1}{2}`   | $\frac{1}{2}$    |  `\mathcal{L}`   | $\mathcal{L}$ |
-| `\sum_{i=1}^{N}` | $\sum_{i=1}^{N}$ |     `\alpha`     | $\alpha$      |
-|    `1\quad2`     | $1\quad2$        |    `1\qquad2`    | $1\qquad2$    |
-|    `\sqrt{3}`    | $\sqrt{3}$       | `\|a\| 或 \vert` | $\|a\|$       |
-|   `\|\|x\|\|`    | $\|\|x\|\|$      | `a \cdot b`      | $a \cdot b$   |
-
----
-
-|                 LaTeX                 | 符号                                |
-| :-----------------------------------: | :---------------------------------- |
-| `$\begin{bmatrix}1 & 2\end{bmatrix}$` | $\begin{bmatrix}1 & 2\end{bmatrix}$ |
-|  `\begin{Vmatrix}1 & 2\end{Vmatrix}`  | $\begin{Vmatrix}1 & 2\end{Vmatrix}$ |
+|                符号                 |                 LaTeX                 |
+| :---------------------------------: | :-----------------------------------: |
+|             $\partial$              |              `\partial`               |
+|            $\frac{1}{2}$            |             `\frac{1}{2}`             |
+|          $\sum_{i=1}^{N}$           |           `\sum_{i=1}^{N}`            |
+|              $1\quad2$              |               `1\quad2`               |
+|            $\sqrt{3}$ 根            |              `\sqrt{3}`               |
+|             $\|\|x\|\|$             |              `\|\|x\|\|`              |
+|           $\hat y$ 真实值           |               `\hat y`                |
+|            $\infty$ 无穷            |               `\infty`                |
+|              $\cap$ 并              |                `\cap`                 |
+|              $\theta$               |               `\theta`                |
+|            $\mathcal{L}$            |             `\mathcal{L}`             |
+|              $\alpha$               |               `\alpha`                |
+|             $1\qquad2$              |              `1\qquad2`               |
+|           $\|a\|$ 绝对值            |           `\|a\| 或 \vert`            |
+|             $a \cdot b$             |              `a \cdot b`              |
+|         $\overline y$ 均值          |             `\overline y`             |
+|           $\vec{w}$ 向量            |               `\vec{w}`               |
+|              $\cup$ 交              |                `\cup`                 |
+| $\begin{bmatrix}1 & 2\end{bmatrix}$ | `$\begin{bmatrix}1 & 2\end{bmatrix}$` |
+| $\begin{Vmatrix}1 & 2\end{Vmatrix}$ |  `\begin{Vmatrix}1 & 2\end{Vmatrix}`  |
+|                $\pi$                |                 `\pi`                 |
+|             $\epsilon$              |              `\epsilon`               |
+|            $\varepsilon$            |             `\varepsilon`             |
+|               $\eta$                |                `\eta`                 |
 
 ---
 

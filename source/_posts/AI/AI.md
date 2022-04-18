@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-13 15:54:16
+ * @LastEditTime: 2022-04-18 23:29:25
  * @FilePath: \Blog-private\source\_posts\AI\AI.md
  * @Description:
  * @!: *********************************************************************
@@ -33,13 +33,14 @@ top_img:
     - [学习方式](#学习方式)
       - [区分有-无监督学习](#区分有-无监督学习)
       - [强化学习-RL](#强化学习-rl)
-    - [数据预处理方法](#数据预处理方法)
+    - [数据预处理](#数据预处理)
       - [均值移除](#均值移除)
       - [范围缩放](#范围缩放)
       - [归一化](#归一化)
       - [二值化](#二值化)
       - [OneHot-独热编码](#onehot-独热编码)
       - [标签编码](#标签编码)
+    - [评估方法](#评估方法)
     - [基本问题](#基本问题)
       - [回归问题](#回归问题)
         - [线性回归](#线性回归)
@@ -50,6 +51,23 @@ top_img:
         - [分类](#分类)
         - [信息增益](#信息增益)
         - [深度与过拟合](#深度与过拟合)
+        - [随机森林](#随机森林)
+      - [分类问题](#分类问题)
+        - [逻辑回归](#逻辑回归)
+        - [支持向量机-SVM](#支持向量机-svm)
+          - [target](#target)
+          - [线性可分-不可分](#线性可分-不可分)
+          - [核函数](#核函数)
+        - [朴素贝叶斯](#朴素贝叶斯)
+      - [聚类问题-cluster](#聚类问题-cluster)
+        - [相似度度量](#相似度度量)
+          - [欧氏距离](#欧氏距离)
+          - [曼哈顿距离](#曼哈顿距离)
+          - [余弦相似度](#余弦相似度)
+          - [以上对比](#以上对比)
+          - [闵可夫斯基距离](#闵可夫斯基距离)
+          - [杰卡德相似系数](#杰卡德相似系数)
+          - [相对熵](#相对熵)
     - [学习准则](#学习准则)
       - [损失函数-loss](#损失函数-loss)
         - [均方差损失函数](#均方差损失函数)
@@ -63,7 +81,7 @@ top_img:
     - [神经元的激活规则](#神经元的激活规则)
       - [激活函数](#激活函数)
       - [感知器](#感知器)
-  - [课程](#课程)
+  - [待办-课程](#待办-课程)
     - [GAN](#gan)
     - [异常检测-anomaly-detection](#异常检测-anomaly-detection)
     - [Glow](#glow)
@@ -128,7 +146,7 @@ top_img:
       - 强化学习
     - 一般流程
       - 1.原始数据
-      - [2.数据预处理](#数据预处理方法)
+      - [2.数据预处理](#数据预处理)
         - 问题
           - 完整性
           - 噪声
@@ -151,34 +169,24 @@ top_img:
           - PCA
             - 主成分分析
             - 二维数据类比分析
+            - PCA将数据整体映射到包含最多原始数据信息的低维空间中
+              - 映射不包含任何数据内部的分类信息
+              - 因此一般PCA降维后数据表示更有效但或许分类更加困难
+          - LDA
+            - 线性判断分析
+            - 可视为有监督的降维算法,实际无监督
             - LDA充分利用数据的标签信息
               - 将数据按照标签根据同类数据间距离最小
               - 不同类数据间距离最大的原则映射
               - 一般LDA降维后可以直接分类
-          - LDA
-            - 线性判断分析
-            - 可视为有监督的降维算法,实际无监督
-            - PCA将数据整体映射到包含最多原始数据信息的低维空间中
-              - 映射不包含任何数据内部的分类信息
-              - 因此一般PCA降维后数据表示更有效但或许分类更加困难
       - 5.预测
       - 6.模型评估与优化
-        - 评估方法
-          - 平均绝对误差
-          - 均方误差
-          - 中位数绝对误差
-          - R2决定系数
+        - [评估方法](#评估方法)
         - 优化方法
       - 7.结果
-      - 数据预处理
     - [基本问题](#基本问题)
       - 回归问题
       - 分类问题
-        - 二元分类
-        - 多元分类
-        - 朴素贝叶斯分类
-        - 决策树分类
-        - 支持向量机
       - 聚类问题
         - 相似度度量方式
         - KMeans算法
@@ -301,7 +309,7 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-### 数据预处理方法
+### 数据预处理
 
 #### 均值移除
 
@@ -421,6 +429,38 @@ $$
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
+### 评估方法
+
+- 平均绝对误差
+- 均方误差
+- 中位数绝对误差
+- R2 决定系数
+
+  $$
+  令 y_i 表示真实值, \hat y_i 表示预测值, \overline y 为平均值
+
+  \\ \ \\
+
+  \begin{aligned}
+    回归平方和 SSR
+    &= \sum_{i=1}^n (\hat y_i - \overline y)^2 \\
+
+    残差平方和 SSE
+    &= \sum_{i=1}^n (y_i - \hat y_i)^2 \\
+
+    总离差平方和 SST
+    &= SSR + SSE \\
+    &= \sum_{i=1}^n (y_i - \overline y)^2
+
+    \\ \ \\
+
+    R2决定系数: R^2
+    &= 1 - \frac{SSE}{SST}
+  \end{aligned}
+  $$
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
 ### 基本问题
 
 - 回归-分类问题
@@ -497,7 +537,7 @@ Lasso 和 岭 这两种都是在线性回归基础上对损失函数正则化的
 
 #### 决策树-随机森林
 
-decision tree, 决策树可用于 classification + regression; 学习决策树需要用到[信息论知识](../通信技术#信息熵-如何度量信息) 参考课程: <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup>
+decision tree, 决策树可用于 classification + regression; 学习决策树需要用到[信息论知识](../../experience/basic/通信技术#信息熵-如何度量信息) 参考课程: <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup>
 
 ##### 简化概念
 
@@ -582,7 +622,9 @@ $$
 
   回过头来,条件 Y (如 sepal lenth <= 5.45) 是怎么选取的?
 
-  遍历特征组和取值区间,找到 max( gain(X,Y) ),即为熵下降最多的条件
+  遍历特征组和取值区间,找到 max( gain(X,Y) ),即为熵下降最多的条件;
+
+  (当然也需要考虑到类似贪心-DP 的区别, 全是贪心的话会让模型单一化, 所以很多时候需要`随机筛掉一部分条件`来使得条件`较优`而不是`最优`)
 
 ---
 
@@ -591,6 +633,234 @@ $$
 深度增加虽然能降低训练集错误率,但泛化能力会减弱->过拟合
 
 ![](https://www.helloimg.com/images/2022/04/13/R4453D.png)
+
+---
+
+##### 随机森林
+
+- 自动聚合-BootStrap
+
+  对训练数据集进行多次有放回的随机采样 (有的样本可能从未采样,有的可能采样多次) -> 随机森林 [DT1, DT2... DTn]
+
+- 如何 roll 出来数据集中部分随机数据? (比如取 80%)
+
+  1. for i in dataset
+
+  2. if Math.random() < 0.8: random_set.append(i)
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+#### 分类问题
+
+- 二元分类
+- 多元分类
+- 朴素贝叶斯分类
+- 决策树分类
+- 支持向量机
+- 逻辑回归
+
+##### 逻辑回归
+
+虽然叫回归,但其实是`二分类模型`,是在线性回归输出基础上使用 Sigmoid/逻辑函数,将线性回归输出 $(-\infty,\infty)$ 映射到 $(0,1)$
+
+$$
+\begin{aligned}
+  线性回归 y
+  &= w^Tx + b \\
+  &= w_1x_1 + w_2x_2 + w_3x_3 + ... +  b
+
+  \\ \ \\
+  逻辑回归 y'
+  &= Sigmoid(y) \\
+  &= \frac{1}{1 + e^{-y}}
+\end{aligned}
+$$
+
+逻辑回归也是可以做多分类的, 原理就是多个二分类叠加起来
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+##### 支持向量机-SVM
+
+###### target
+
+SVM 目标就是找到如下红色实线 (与线两边样本点距离最大的线)
+
+两条虚线上的点叫做 `support vector / 支持向量`, 通过支持向量构造出的分类器就是 `支持向量机 SVM`
+
+![](https://www.helloimg.com/images/2022/04/15/RSmQRP.png)
+
+$$
+如有直线 2x_1 + 5x_2 - 10 = 0 可转换为向量形式 \\
+\vec{w} = (2,5) \\
+\vec{x} = (x_1,x_2) \\
+\vec{w} \cdot \vec{x} + b = 0
+$$
+
+---
+
+###### 线性可分-不可分
+
+如上面的图示, 样本可被直线/超平面分开 (线性可分), 支持向量所在两虚线之间没有其他向量,即为 `线性可分 SVM`
+
+如果两虚线间存在样本, 即为 `线性 SVM`; 如果样本无法被直线/超平面分开 (线性不可分), 即为 `非线性 SVM`
+
+![](https://www.helloimg.com/images/2022/04/15/Riakiv.png)
+
+对于线性不可分问题,可通过 `核函数` 进行特征变换来 `升维`
+
+---
+
+###### 核函数
+
+常用的有为 1 和 3, 多项式核函数用处较少
+
+1. 线性核函数 Linear
+
+   不做升维,直接找直线/超平面; 类似美国地图,分割直来直去的
+
+   ![](https://www.helloimg.com/images/2022/04/16/RiXoc0.png)
+
+2. 多项式核函数 poly (Polynomial Kernel)
+
+   通过增加高次项升维, 此函数复杂度升的很快
+
+3. 径向基核函数-高斯核函数 rbf (Radial Basis Function Kernel)
+
+   相对于多项式核函数,大多数情况下参数更少性能更高; 直线分不了的无脑冲 rbf
+
+   ![](https://www.helloimg.com/images/2022/04/16/RiXFVm.png)
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+##### 朴素贝叶斯
+
+Naive Bayes classification,理论基础是大学必修课-概率论知识
+
+- "朴素"指的是 A,B 为独立事件, 有贝叶斯公式:
+
+  $$
+  P(A|B) = \frac{P(A)P(B|A)}{P(B)}
+  $$
+
+  `先验概率` P(A) : 已知或可推断出事件 A 发生的概率
+
+  `后验概率` P(A|B) : 已知 B 发生条件下,A 发生的概率
+
+  ***
+
+- 对于样本特征 $[w_1, w_2, w_3 ... w_n]$ 得出每个特征的概率 $[W_1, W_2, W_3 ... W_n]$, 判断所属分类 $[A, B, C ...]$ 的概率:
+
+  $$
+  P(A | W_1 W_2 W_3 ... W_n)
+  = \frac{P(A) \cdot P(W_1|A) \cdot P(W_2|A) ... P(W_n|A)  }{P(W_1 W_2 W_3 ... W_n)} \\
+
+  P(B | W_1 W_2 W_3 ... W_n)
+  = \frac{P(B) \cdot P(W_1|B) \cdot P(W_2|B) ... P(W_n|B)  }{P(W_1 W_2 W_3 ... W_n)} \\
+
+  P(C | W_1 W_2 W_3 ... W_n)
+  = \frac{P(C) \cdot P(W_1|C) \cdot P(W_2|C) ... P(W_n|C)  }{P(W_1 W_2 W_3 ... W_n)} \\
+
+  ......
+  $$
+
+  ***
+
+- 特点
+
+  必要的前提条件是特征间互不相关 (相互独立), 很多情况下难以满足,无法对特征关联性强的样本进行分类
+
+  逻辑简单,性能起伏小且稳定,特征独立性越强分类效果越好
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+#### 聚类问题-cluster
+
+就像是人群根据 hobby 扎堆, 输入的数据根据某些特征的相似度分出多个"簇"
+
+聚类问题属于无监督学习 (无需指明训练样本所属类别)
+
+---
+
+##### 相似度度量
+
+对于两点 $(x_1,y_1,...n_1),(x_2,y_2,...n_2)$
+
+###### 欧氏距离
+
+无视路径阻碍的空间绝对 distance
+
+$$
+\begin{aligned}
+  d
+  &= \left| (x_1, y_1, ..., n_1), (x_2, y_2, ..., n_2) \right| \\
+  &= \sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + ... + (n_1 - n_2)^2} \\
+  &= \sqrt{\sum_{i=x}^n (i_1 - i_2)^2}
+\end{aligned}
+$$
+
+###### 曼哈顿距离
+
+计量阻碍,可以理解为寻路问题,同一曼哈顿距离可有多种路径解法
+
+$$
+\begin{aligned}
+  d
+  &= |x_1 - x_2| + |y_1 - y_2| + ... + |n_1 - n_2| \\
+  &= \sum_{i=x}^n | i_1 - i_2 |
+\end{aligned}
+$$
+
+###### 余弦相似度
+
+cosine similarity, $cos 在 [0, \pi]$ 上为减函数, 在 [45°, 135°] 区间下降快
+
+余弦相似度对向量敏感度: 方向 > 长度
+
+$$
+cos(\theta) = \frac{\vec a \cdot \vec b}{|\vec a| \cdot |\vec b|}
+$$
+
+###### 以上对比
+
+如下欧氏距离(绿色直线) 与哈曼顿距离(褐色折现) 与余弦相似度(红色向量) 对比
+
+![](https://www.helloimg.com/images/2022/04/18/RnsRZm.png)
+
+###### 闵可夫斯基距离
+
+$$
+\begin{aligned}
+  d
+  &= \left( \sum_{i=1}^n |i_1 - i_2|^p \right)^{\frac{1}{p}}
+\end{aligned}
+$$
+
+- 改变 p 的值,可以转化为其他距离:
+
+  p=1 : 哈曼顿距离
+
+  p=2 : 欧氏距离
+
+  $p \rArr \infty$ : 切比雪夫距离
+
+###### 杰卡德相似系数
+
+Jaccard 相似系数就是 `交并比`, 可用于目标检测中 `目标位置-预测位置` 的相似度分析
+
+$$
+A = [a_1, a_2, ..., a_n] \qquad B = [b_1, b_2, ..., b_n]
+\\ \ \\
+J(A,B) = \frac{A \cap B}{A \cup B}
+$$
+
+![](https://www.helloimg.com/images/2022/04/18/Rnm1a9.png)
+
+上面假定的是 A,B 中样本权重相同, 实际聚类中需要考量样本的权重
+
+###### 相对熵
+
+> 参见 [👽通信-信息论-开坑自埋](../../experience/basic/通信技术#相对熵)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -630,13 +900,20 @@ $$
 
 ##### 交叉熵损失函数
 
-$$
-\begin{aligned}
-\mathcal{L}(\boldsymbol{y}, f(\boldsymbol{x} ; \theta))
-&=-\boldsymbol{y}^{\top} \log f(\boldsymbol{x} ; \theta) \\
-&=-\sum_{c=1}^{C} y_{c} \log f_{c}(\boldsymbol{x} ; \theta)
-\end{aligned}
-$$
+- 分类问题常用交叉熵作为损失函数
+
+  $$
+  \begin{aligned}
+    \mathcal{L}(\boldsymbol{y}, f(\boldsymbol{x} ; \theta))
+    &=-\boldsymbol{y}^{\top} \log f(\boldsymbol{x} ; \theta) \\
+    &=-\sum_{c=1}^{C} y_{c} \log f_{c}(\boldsymbol{x} ; \theta)
+
+    \\ \ \\
+
+    二分类loss: \mathcal{L}(y, \hat{y})
+    &= - \left[ y \log \hat y + (1  - y) \log (1 - \hat y) \right]
+  \end{aligned}
+  $$
 
 - 例题
 
@@ -892,7 +1169,7 @@ $$
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 课程
+## 待办-课程
 
 <!--  -->
 
