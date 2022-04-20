@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "⭐️齐下无贰⭐️ • All posts by \"游戏\" tag",
+    "description": "May all the beauty be bless.✨",
+    "home_page_url": "https://weidows.github.io",
+    "items": [
+        {
+            "id": "https://weidows.github.io/post/life/game/",
+            "url": "https://weidows.github.io/post/life/game/",
+            "title": "🥳些些游戏琐事",
+            "date_published": "2022-03-12T15:50:57.000Z",
+            "content_html": "<h1>些些游戏琐事</h1>\n<!--\n * @?: *********************************************************************\n * @Author: Weidows\n * @LastEditors: Weidows\n * @LastEditTime: 2022-04-20 23:43:28\n * @FilePath: \\Blog-private\\source\\_posts\\life\\game.md\n * @Description:\n * @!: *********************************************************************\n-->\n<blockquote class=\"pullquote mindmap mindmap-md\"><ul>\n<li><a href=\"#%E4%BA%9B%E4%BA%9B%E6%B8%B8%E6%88%8F%E7%90%90%E4%BA%8B\">些些游戏琐事</a>\n<ul>\n<li><a href=\"#epic\">EPIC</a>\n<ul>\n<li><a href=\"#%E5%BA%93%E7%A9%BA%E4%BA%86\">库空了</a></li>\n</ul>\n</li>\n<li><a href=\"#%E5%B0%8F%E5%B0%8F%E6%A2%A6%E9%AD%87\">小小梦魇</a>\n<ul>\n<li><a href=\"#%E7%9E%8E%E7%9C%BC%E5%8E%A8%E5%B8%88%E5%85%B3\">瞎眼厨师关</a></li>\n</ul>\n</li>\n<li><a href=\"#%E5%80%9F%E7%89%A9%E8%A1%A8\">借物表</a></li>\n</ul>\n</li>\n</ul>\n</blockquote>\n<p><a><img src=\"https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"EPIC\">EPIC</h2>\n<h3 id=\"库空了\">库空了</h3>\n<ul>\n<li>\n<p>大概就是这么个情况:</p>\n<p><img src=\"https://www.helloimg.com/images/2022/03/12/RFHXkK.png\" alt=\"RFHXkK.png\"></p>\n</li>\n<li>\n<p>试了如下方法:</p>\n<ol>\n<li>用朋友电脑登录,库存正常显示</li>\n<li>重装/清除 C 盘数据(program files,APPdata/Local 等都请了)/清理注册表 -&gt; 都无效</li>\n<li>把设置里所有选项试了个遍,无效</li>\n</ol>\n</li>\n</ul>\n<hr>\n<ul>\n<li>\n<p>之后尝试用 GOG 看看库存,发现 GOG 上正常而且能调用 EPIC 安装游戏</p>\n<p>于是我这样试了下安装了一个游戏,装完后惊奇的发现: 我叼出来了!</p>\n<p><img src=\"https://www.helloimg.com/images/2022/03/13/RFHq1b.png\" alt=\"RFHq1b.png\"></p>\n<p>所以…解决办法就是随便装个游戏</p>\n</li>\n</ul>\n<p><a><img src=\"https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"小小梦魇\">小小梦魇</h2>\n<h3 id=\"瞎眼厨师关\">瞎眼厨师关</h3>\n<p><img src=\"https://www.helloimg.com/images/2022/03/28/RqmsTz.png\" alt=\"\"></p>\n<p>网上教程大多是先让进这个笼子<sup id='cite_ref-1'><a href=\"#cite_note-1\">[1]</a></sup>,然后等 boss 走到左边后出来跟他赛跑</p>\n<p>试了好多次都被抓</p>\n<p>后来发现, 可以爬上这个笼子,等 boss 走到左边后从笼子右边跳下去,boss 不会追上来</p>\n<h2 id=\"借物表-11\">借物表</h2>\n<p><a name='cite_note-1' href='#cite_ref-1'>[1]</a>: <a href=\"http://www.wyaq.com/youxi/gonglue/8142_5.html\">小小梦魇 1 图文攻略 全剧情流程+全解谜 boss 打法攻略(5)瞎眼厨子</a></p>\n<script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kity@2.0.4/dist/kity.min.js\"></script><script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js\"></script><script defer=\"true\" type=\"text&#x2F;javascript\" src=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js\"></script><link rel=\"stylesheet\" type=\"text&#x2F;css\" href=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css\">",
+            "tags": [
+                "游戏"
+            ]
+        }
+    ]
+}
