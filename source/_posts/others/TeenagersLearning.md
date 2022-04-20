@@ -15,12 +15,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 17:50:20
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-30 17:56:09
+ * @LastEditTime: 2022-04-20 23:43:05
  * @FilePath: \Blog-private\source\_posts\others\TeenagersLearning.md
  * @Description:青年大学习
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [青年大学习跳过学习视频](#青年大学习跳过学习视频)
   - [前言](#前言)
   - [debugx5-法](#debugx5-法)
@@ -29,7 +30,8 @@ top_img:
   - [浏览器大法](#浏览器大法)
     - [已失效](#已失效)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 ## 前言
 

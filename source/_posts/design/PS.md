@@ -19,12 +19,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-06 11:41:28
+ * @LastEditTime: 2022-04-20 23:47:27
  * @FilePath: \Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [PS 中一些小用法](#ps-中一些小用法)
   - [快捷键](#快捷键)
   - [解锁图层](#解锁图层)
@@ -32,8 +33,9 @@ top_img:
   - [定向变色](#定向变色)
   - [去水印](#去水印)
   - [轮廓-图片填充](#轮廓-图片填充)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

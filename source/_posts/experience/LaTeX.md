@@ -19,13 +19,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-18 12:00:08
+ * @LastEditTime: 2022-04-20 23:15:36
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [LaTeX~环形使者(?)](#latex环形使者)
   - [安装](#安装)
     - [实际效果](#实际效果)
@@ -39,7 +40,8 @@ top_img:
     - [常用速查表](#常用速查表)
     - [数学等号对齐-大换行-成对匹配-数学样式数字](#数学等号对齐-大换行-成对匹配-数学样式数字)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 - 好奇学术论文是怎么写的吗? 此文章尽做大努力把什么是 Tex 系统给你整闭环了 😁
 

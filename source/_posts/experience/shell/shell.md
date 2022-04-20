@@ -17,11 +17,12 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-25 22:52:59
+ * @LastEditTime: 2022-04-20 23:43:39
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [一些常用终端命令.](#一些常用终端命令)
   - [通用](#通用)
     - [文件末尾追加命令](#文件末尾追加命令)
@@ -39,7 +40,8 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
   - [扩展程序](#扩展程序)
     - [fzf](#fzf)
     - [tldr](#tldr)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

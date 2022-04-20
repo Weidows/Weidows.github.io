@@ -1,5 +1,5 @@
 ---
-title: 😍Weidowsの成长路线.
+title: 😍Weidows-の成长路线
 date: 2020-12-30 11:42:22
 password: ""
 tags:
@@ -18,21 +18,22 @@ cover: https://www.helloimg.com/images/2022/02/27/GVAbOo.png
 top_img:
 ---
 
-# Weidows の成长路线.
+# Weidows-の成长路线
 
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-11 00:36:55
+ * @LastEditTime: 2022-04-20 23:41:02
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
-- [Weidows の成长路线.](#weidows-の成长路线)
+{% pullquote mindmap mindmap-md %}
+
+- [Weidows-の成长路线](#weidows-の成长路线)
   - [Java](#java)
   - [前端](#前端)
   - [C/C++](#cc)
@@ -42,7 +43,8 @@ top_img:
   - [设计](#设计)
   - [基础知识](#基础知识)
   - [面试](#面试)
-```
+
+{% endpullquote %}
 
 {% tabs 关于 %}
 
@@ -80,9 +82,8 @@ top_img:
 
 ## Java
 
-<!--  -->
+{% pullquote mindmap mindmap-lg %}
 
-```pullquote mindmap mindmap-lg
 - Java
   - 阶段
     - 入门
@@ -142,15 +143,15 @@ top_img:
       - [Java8 Stream 详解](https://blog.csdn.net/happyheng/article/details/52832313)
     - 单元测试 Junit
       - [JUnit：别再用 main 方法测试了，好吗？](https://mp.weixin.qq.com/s?__biz=MzIxNzQwNjM3NA==&mid=2247490821&idx=1&sn=855b8ede1287dd95787a010c3245c8e7&chksm=97fb13cca08c9ada0af423bc4e94ba359d810c32c23ab2a546abaaf30e152c92b826efc1c01f&xtrack=1&scene=90&subscene=93&sessionid=1609292024&clicktime=1609292488&enterid=1609292488&ascene=56&devicetype=android-29&version=27001637&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Af%2BuVL395LWe0DRJ%2Fc8R%2FbA%3D&pass_ticket=6zFqmo%2F%2Fh%2B276SfQuaklQyBIbfcB0rcAk2nXRgO9SV%2FEeTr8pGbFXbfRhR%2FDXMx%2F&wx_header=1)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 前端
 
-<!--  -->
+{% pullquote mindmap mindmap-md %}
 
-```pullquote mindmap mindmap-md
 - 前端
   - HTML/CSS
     - 注意
@@ -188,10 +189,11 @@ top_img:
     - 跨域
       - [😡 一次解决 CORS 经验记录.](../../Web/JavaScript/CORS)
     - 工具类
-      - [🚚开发之旅~](../../experience/dev/sql-problem)
+      - [🚚 开发之旅~](../../experience/dev/sql-problem)
     - 其他
       - [如何做到修改 node_module 中的包，却不受重新安装的影响](https://mp.weixin.qq.com/s/qNJPkSkMTWNYjjKMp4rwmA)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -201,7 +203,8 @@ top_img:
 
 - 全程学的`翁凯`老师的,讲的很好.
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - C/C++
   - 入门课程
     - [程序设计入门——C 语言](https://www.icourse163.org/course/0809ZJU007A-199001?outvandor=zw_mooc_pclszykctj_)
@@ -209,7 +212,8 @@ top_img:
     - [C 语言程序设计进阶](https://www.icourse163.org/course/ZJU-200001)
   - 链表
     - [1 个小时学会单链表，C 语言数据结构专题](https://www.bilibili.com/video/BV1Rb411F738)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -217,7 +221,8 @@ top_img:
 
 用的比学得多...很多时候现学现用
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - Python
   - 基础
     - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
@@ -226,15 +231,15 @@ top_img:
   - 工具
     - [Python 配置管理的几种方式](https://www.cnblogs.com/wanglvtao/p/11140025.html)
     - [Python 类型强制转换和字符串的操作](https://blog.csdn.net/qq_42967398/article/details/88078788)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 开发工具
 
-<!--  -->
+{% pullquote mindmap mindmap-md %}
 
-```pullquote mindmap mindmap-md
 - 开发工具
   - Git
     - 简介
@@ -249,7 +254,7 @@ top_img:
       - [VScode 自定义主题 界面 UI 配色 语法配色](https://blog.csdn.net/weixin_45599654/article/details/109306462)
     - 插件(包)开发/发布
       - [VScode 插件开发（五）插件包](https://segmentfault.com/a/1190000020435312)
-      - [vscode插件开发模板](https://github.com/Weidows-projects/VScode-Extension-Tamplate)
+      - [vscode 插件开发模板](https://github.com/Weidows-projects/VScode-Extension-Tamplate)
     - Emmet
       - [【Emmet】HTML 速写之 Emmet 语法规则](https://blog.csdn.net/qq_33744228/article/details/80910377)
   - Docker
@@ -257,16 +262,16 @@ top_img:
   - 正则表达式
     - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
       - 标星超高的项目,必须一刷!
-    - [🙉修为突破灵药-正则表达式](../../experience/regex)
-```
+    - [🙉 修为突破灵药-正则表达式](../../experience/regex)
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 泛域
 
-<!--  -->
+{% pullquote mindmap mindmap-md %}
 
-```pullquote mindmap mindmap-md
 - 泛域
   - 2038 问题
     - [2038 年问题](https://baike.baidu.com/item/2038%E5%B9%B4%E9%97%AE%E9%A2%98/10578442?fr=aladdin)
@@ -294,7 +299,8 @@ top_img:
       - [QQ 截图 20210626151150](https://www.helloimg.com/images/2022/02/27/GViz3o.png)
     - [维基百科:图灵测试](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95)
     - [新版图灵测试](https://www.helloimg.com/images/2022/04/11/RtEo1t.png)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

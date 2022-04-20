@@ -19,20 +19,22 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-07 00:08:01
+ * @LastEditTime: 2022-04-20 23:42:35
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Better-English-4-U](#better-english-4-u)
   - [单词](#单词)
   - [符号](#符号)
   - [短语](#短语)
   - [领域](#领域)
   - [项目](#项目)
-```
+
+{% endpullquote %}
 
 - 开发时总有几个英文单词/短语,`今天背过,明天就忘.`
 

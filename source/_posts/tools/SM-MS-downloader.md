@@ -18,18 +18,20 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-09 14:26:57
+ * @LastEditTime: 2022-04-20 23:47:17
  * @FilePath: \Blog-private\source\_posts\tools\SM-MS-downloader.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [SM.MS-批量下载器](#smms-批量下载器)
   - [使用](#使用)
   - [问题](#问题)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 [⏩ 文章地址](https://weidows.github.io/post/tools/SM-MS-downloader/) | [✔️ 仓库地址](https://github.com/Weidows-projects/awesome-image-collector) 欢迎提交 pr !
 

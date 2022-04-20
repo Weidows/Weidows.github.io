@@ -16,12 +16,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-07 14:19:12
+ * @LastEditTime: 2022-04-20 23:47:48
  * @FilePath: \Blog-private\source\_posts\others\markdown\markdown.md
  * @Description:
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Markdown-中一些新奇写法.](#markdown-中一些新奇写法)
   - [注意点](#注意点)
   - [基本的](#基本的)
@@ -41,8 +42,9 @@ top_img:
     - [论文脚注](#论文脚注)
     - [中英文切换](#中英文切换)
     - [markdown-表格内换行](#markdown-表格内换行)
-  - [参考](#参考)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 ## 注意点
 

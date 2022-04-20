@@ -18,17 +18,21 @@ aside: true
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 02:28:33
+ * @LastEditTime: 2022-04-20 23:12:13
  * @FilePath: \Blog-private\scaffolds\page.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [{{ title }}](#-title-)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
+
+暂无.

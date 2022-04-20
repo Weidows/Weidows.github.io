@@ -15,11 +15,12 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 03:22:48
+ * @LastEditTime: 2022-04-20 23:48:59
  * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [pwsh 极致专攻](#pwsh-极致专攻)
   - [预览](#预览)
   - [环境配置](#环境配置)
@@ -27,7 +28,8 @@ top_img:
   - [启用主题及插件](#启用主题及插件)
   - [oh-my-posh](#oh-my-posh)
   - [启用管理员模式](#启用管理员模式)
-```
+
+{% endpullquote %}
 
 ## 预览
 

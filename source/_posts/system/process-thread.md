@@ -17,13 +17,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-09 14:19:32
+ * @LastEditTime: 2022-04-20 23:43:50
  * @FilePath: \Blog-private\source\_posts\system\process-thread.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [进程线程-CPU-并行并发大杂碎!](#进程线程-cpu-并行并发大杂碎)
   - [引子](#引子)
   - [进程与线程](#进程与线程)
@@ -31,8 +32,9 @@ top_img:
     - [线程](#线程)
   - [几核几线程](#几核几线程)
   - [并行与并发](#并行与并发)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

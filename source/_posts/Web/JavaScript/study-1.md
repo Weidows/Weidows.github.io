@@ -16,13 +16,14 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-20 21:26:24
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-09 14:20:33
+ * @LastEditTime: 2022-04-20 23:48:13
  * @FilePath: \Blog-private\source\_posts\Web\JavaScript\study-1.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [JavaScript 学习笔记-(壹)](#javascript-学习笔记-壹)
   - [前端知识体系](#前端知识体系)
     - [css 预处理器](#css-预处理器)
@@ -65,8 +66,9 @@ top_img:
     - [join()](#join)
     - [多维数组](#多维数组)
     - [fill()](#fill)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 ## 前端知识体系
 

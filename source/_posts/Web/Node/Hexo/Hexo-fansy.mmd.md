@@ -20,11 +20,12 @@ cover: https://www.helloimg.com/images/2022/02/27/GVaOYu.png
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-06 10:37:11
+ * @LastEditTime: 2022-04-20 23:48:36
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Hexo-里一些奇奇怪怪的写法](#hexo-里一些奇奇怪怪的写法)
   - [文章标题-格式](#文章标题-格式)
     - [肯定要背过的](#肯定要背过的)
@@ -45,7 +46,8 @@ cover: https://www.helloimg.com/images/2022/02/27/GVaOYu.png
     - [好康的-demo](#好康的-demo)
   - [\_config.yml](#_configyml)
   - [图片引入](#图片引入)
-```
+
+{% endpullquote %}
 
 ## 文章标题-格式
 

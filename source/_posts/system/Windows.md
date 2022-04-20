@@ -16,13 +16,14 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-13 23:20:56
+ * @LastEditTime: 2022-04-20 23:44:01
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Windows 中一些奇奇怪怪逸事.](#windows-中一些奇奇怪怪逸事)
   - [窗口逸出](#窗口逸出)
   - [终端](#终端)
@@ -51,7 +52,8 @@ top_img:
     - [酷狗](#酷狗)
     - [系统设置](#系统设置)
   - [windows-防火墙通知](#windows-防火墙通知)
-```
+
+{% endpullquote %}
 
 ## 窗口逸出
 

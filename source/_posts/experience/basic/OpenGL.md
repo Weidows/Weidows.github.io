@@ -20,13 +20,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 03:21:58
+ * @LastEditTime: 2022-04-20 23:48:47
  * @FilePath: \Blog-private\source\_posts\experience\basic\OpenGL.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [OpenGL-xmake-蚌埠住了](#opengl-xmake-蚌埠住了)
   - [代码仓库](#代码仓库)
   - [Python](#python)
@@ -36,7 +37,8 @@ top_img:
     - [xmake-引入库](#xmake-引入库)
     - [测试](#测试-1)
     - [实例代码库](#实例代码库)
-```
+
+{% endpullquote %}
 
 - 学校开了图形学这门课程,让我们配置下环境
 

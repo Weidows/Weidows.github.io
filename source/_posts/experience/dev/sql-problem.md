@@ -21,13 +21,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-23 22:53:16
+ * @LastEditTime: 2022-04-20 23:44:23
  * @FilePath: \Blog-private\source\_posts\experience\dev\sql-problem.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [开发之旅~](#开发之旅)
   - [简介](#简介)
   - [模糊查询](#模糊查询)
@@ -43,7 +44,8 @@ top_img:
     - [上锁业务与读写性能分析](#上锁业务与读写性能分析)
     - [行锁与表锁](#行锁与表锁)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

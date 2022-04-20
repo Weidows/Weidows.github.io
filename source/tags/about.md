@@ -14,11 +14,12 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-07-24 14:07:43
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-23 03:19:42
+ * @LastEditTime: 2022-04-20 23:50:08
  * @FilePath: \Blog-private\source\tags\about.md
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - 联系方式
   - [Email: utsuko27@qq.com](mailto:utsuko27@qq.com)
   - QQ@utsuko27
@@ -32,7 +33,8 @@ aside: false
   - Bilibili@齐下无贰
     - [个人空间](https://space.bilibili.com/38283369)
     - [二维码](https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/Bilibili.jpeg)
-```
+
+{% endpullquote %}
 
 <!-- `CSDN`: {% btn 'https://me.csdn.net/qq_39823295',@齐下无贰,far fa-hand-point-right,outline green larger %} {% btn 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/CSDN.jpeg',二维码,far fa-hand-point-right,outline green larger %} -->
 

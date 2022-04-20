@@ -17,12 +17,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-11 00:23:01
+ * @LastEditTime: 2022-04-20 23:41:18
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Node.js-环境配置-使用](#nodejs-环境配置-使用)
   - [环境配置](#环境配置)
   - [安装 yarn](#安装-yarn)
@@ -41,7 +42,8 @@ top_img:
     - [切换版本报错](#切换版本报错)
   - [版本拟定](#版本拟定)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

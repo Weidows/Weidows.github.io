@@ -17,13 +17,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-22 15:52:23
+ * @LastEditTime: 2022-04-20 23:44:36
  * @FilePath: \Blog-private\source\_posts\experience\regex.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [修为突破灵药-正则表达式](#修为突破灵药-正则表达式)
   - [fix-记录](#fix-记录)
   - [regex-多对多替换](#regex-多对多替换)
@@ -32,7 +33,8 @@ top_img:
     - [二](#二)
   - [sed-替换反斜杠](#sed-替换反斜杠)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 > Regular Expressions，缩写为 Regex 或 Regexp
 

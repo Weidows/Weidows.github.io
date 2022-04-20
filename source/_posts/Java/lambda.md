@@ -34,7 +34,7 @@ top_img:
 
 ## 借物表
 
-> 在此文章记录了: [😍Weidows の成长路线.#lambda](../../others/LearnWay#lambda)
+> 在此文章记录了: [😍Weidows-の成长路线#lambda](../../others/LearnWay#lambda)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

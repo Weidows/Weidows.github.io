@@ -18,13 +18,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-06 11:15:55
+ * @LastEditTime: 2022-04-20 23:48:24
  * @FilePath: \Blog-private\source\_posts\others\golang\blockchain.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [从零开始-Golang-blockchain](#从零开始-golang-blockchain)
   - [配置](#配置)
     - [模块代理](#模块代理)
@@ -32,8 +33,9 @@ top_img:
     - [Goland-快捷键导入](#goland-快捷键导入)
   - [Golang-learning](#golang-learning)
     - [package](#package)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 开辟于此课程以及《Golang 区块链入门到实战\_以太坊/fabric》<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
 

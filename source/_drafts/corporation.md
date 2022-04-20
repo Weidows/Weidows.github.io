@@ -18,18 +18,20 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-07 13:51:59
+ * @LastEditTime: 2022-04-20 23:47:37
  * @FilePath: \Blog-private\source\_drafts\corporation.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [企业管理](#企业管理)
   - [简介](#简介)
   - [开源软件-付费服务的选择](#开源软件-付费服务的选择)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

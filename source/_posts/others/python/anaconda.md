@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-12 23:22:50
+ * @LastEditTime: 2022-04-20 23:16:13
  * @FilePath: \Blog-private\source\_posts\others\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -21,7 +21,8 @@ top_img:
 
 # Anaconda-Python-水漂浅探池深浅.
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Anaconda-Python-水漂浅探池深浅.](#anaconda-python-水漂浅探池深浅)
   - [简介](#简介)
   - [安装-配置](#安装-配置)
@@ -40,7 +41,8 @@ top_img:
   - [报错](#报错)
     - [安装报错](#安装报错)
     - [环境不一致](#环境不一致)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

@@ -17,16 +17,18 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-10 01:01:17
+ * @LastEditTime: 2022-04-20 23:46:53
  * @FilePath: \Blog-private\source\_posts\others\Better-Chinese.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [国人-不懂-国语.?](#国人-不懂-国语)
   - [正文](#正文)
-```
+
+{% endpullquote %}
 
 > 兄弟文章: [🧀Better-English-4-U](../Better-English)
 

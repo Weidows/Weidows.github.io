@@ -28,13 +28,14 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-21 23:34:44
+ * @LastEditTime: 2022-04-20 23:44:47
  * @FilePath: \Blog-private\source\_posts\Web\get-resources.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [媒体资源加密-and-解密获取](#媒体资源加密-and-解密获取)
   - [token-防盗链](#token-防盗链)
   - [FFmpeg-HLS-AES_128_CBC](#ffmpeg-hls-aes_128_cbc)
@@ -52,7 +53,8 @@ top_img:
     - [网页图片](#网页图片)
     - [QQ-群图片](#qq-群图片)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 - 各类平台网页中的视频通常会被 `加密处理` 以防止别人拿走; 防盗技术还是有很多种的:<sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
 

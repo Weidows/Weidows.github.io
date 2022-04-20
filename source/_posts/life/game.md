@@ -17,20 +17,22 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-29 15:43:27
+ * @LastEditTime: 2022-04-20 23:43:28
  * @FilePath: \Blog-private\source\_posts\life\game.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [些些游戏琐事](#些些游戏琐事)
   - [EPIC](#epic)
     - [库空了](#库空了)
   - [小小梦魇](#小小梦魇)
     - [瞎眼厨师关](#瞎眼厨师关)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

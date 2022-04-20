@@ -19,17 +19,19 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-27 21:23:56
+ * @LastEditTime: 2022-04-20 23:48:01
  * @FilePath: \Blog-private\source\_posts\tools\vscode\snippet.md
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [VScode-snippet-用户代码片段](#vscode-snippet-用户代码片段)
   - [开启-snippet](#开启-snippet)
   - [入门代码片段](#入门代码片段)
   - [深入-位置匹配](#深入-位置匹配)
-  - [参照](#参照)
-```
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

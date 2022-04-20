@@ -23,12 +23,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-26 23:39:25
+ * @LastEditTime: 2022-04-20 23:44:12
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
 
-```pullquote mindmap mindmap-md
+{% pullquote mindmap mindmap-md %}
+
 - [Git-GitHub-操作问题和经验](#git-github-操作问题和经验)
   - [实用操作](#实用操作)
     - [三种-merge](#三种-merge)
@@ -56,7 +57,8 @@ top_img:
     - [问题三](#问题三)
     - [问题四](#问题四)
   - [借物表](#借物表)
-```
+
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
