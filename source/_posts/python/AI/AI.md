@@ -16,8 +16,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-21 00:21:03
- * @FilePath: \Blog-private\source\_posts\AI\AI.md
+ * @LastEditTime: 2022-04-23 00:04:41
+ * @FilePath: \Blog-private\source\_posts\python\AI\AI.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -34,7 +34,7 @@ top_img:
 
 此篇为本博客中 AI 领域的根, 也可以当做目录 (因为篇幅太长,就给分开了)
 
-> 文中大量使用 LaTeX 公式, 如何写的可以看 [🍹LaTeX~环形使者(?)](../../experience/LaTeX) \
+> 文中大量使用 LaTeX 公式, 如何写的可以看 [🍹LaTeX~环形使者(?)](../../../experience/LaTeX) \
 > 强推大佬朋友的文章: [【人工智能】面试问题整理](https://discover304.top/2021/12/21/2021q4/123-ai-question-collection/)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
@@ -73,16 +73,18 @@ top_img:
           - 二值化
           - 独热编码
           - 标签编码
-      - 3.特征提取
-        - 原始特征的线性组合获取新特征
-      - 4.特征转换
-        - 升维
-        - 降维
+      - 3.特征处理
+        - 特征提取
+          - 原始特征的线性组合获取新特征
+        - 特征转换
+          - 升维
+          - 降维
+      - 4.训练模型
       - 5.预测
-      - 6.模型评估与优化
+      - 6.参数调整
+      - 7.模型评估与优化
         - [评估方法](../ML#评估方法)
         - 优化方法
-      - 7.结果
     - [基本问题](../ML#基本问题)
       - 回归问题
       - 分类问题

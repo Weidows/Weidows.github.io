@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:48:47
+ * @LastEditTime: 2022-04-22 15:22:48
  * @FilePath: \Blog-private\source\_posts\experience\basic\OpenGL.md
  * @Description:
  * @!: *********************************************************************
@@ -29,14 +29,14 @@ top_img:
 {% pullquote mindmap mindmap-md %}
 
 - [OpenGL-xmake-蚌埠住了](#opengl-xmake-蚌埠住了)
-  - [代码仓库](#代码仓库)
   - [Python](#python)
     - [报错](#报错)
     - [测试](#测试)
+    - [实例代码](#实例代码)
   - [C](#c)
     - [xmake-引入库](#xmake-引入库)
     - [测试](#测试-1)
-    - [实例代码库](#实例代码库)
+    - [实例代码](#实例代码-1)
 
 {% endpullquote %}
 
@@ -53,8 +53,6 @@ top_img:
   ***
 
 - 网上找了找,并不是能很顺畅的捅下来 (因为依赖项比较杂)
-
-## [代码仓库](https://github.com/Weidows/C--/tree/master/src/OpenGL)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -86,7 +84,7 @@ pip uninstall pyopengl
 pip install PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl
 ```
 
----
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 测试
 
@@ -113,6 +111,10 @@ glutCreateWindow(b"Teapot")
 glutDisplayFunc(drawFunc)
 glutMainLoop()
 ```
+
+### 实例代码
+
+[实例代码](../../../python/杂#opengl)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -221,4 +223,6 @@ xmake 自带的 xrepo 可以安装 xrepo/vcpkg/conan 的库
 
 ---
 
-### [实例代码库](https://github.com/Weidows/C--)
+### 实例代码
+
+[实例代码](https://github.com/Weidows/C--/tree/master/src/OpenGL)

@@ -20,7 +20,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVaOYu.png
  * @Author: Weidows
  * @Date: 2020-08-27 01:13:03
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:48:36
+ * @LastEditTime: 2022-04-23 15:36:37
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-fansy.mmd.md
 -->
 
@@ -46,6 +46,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVaOYu.png
     - [好康的-demo](#好康的-demo)
   - [\_config.yml](#_configyml)
   - [图片引入](#图片引入)
+  - [资源排除](#资源排除)
 
 {% endpullquote %}
 
@@ -90,37 +91,37 @@ language: # 语言, 一般填 'zh-CN'
 timezone: # 时区, 可以不填
 ```
 
----
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 标签外挂
 
 - 写法:
 
-```
-{% note default %}
-default 提示块标籤
-{% endnote %}
+  ```
+  {% note default %}
+  default 提示块标籤
+  {% endnote %}
 
-{% note primary no-icon %}
-primary 提示块标籤
-{% endnote %}
+  {% note primary no-icon %}
+  primary 提示块标籤
+  {% endnote %}
 
-{% note success %}
-success 提示块标籤
-{% endnote %}
+  {% note success %}
+  success 提示块标籤
+  {% endnote %}
 
-{% note info %}
-info 提示块标籤
-{% endnote %}
+  {% note info %}
+  info 提示块标籤
+  {% endnote %}
 
-{% note warning %}
-warning 提示块标籤
-{% endnote %}
+  {% note warning %}
+  warning 提示块标籤
+  {% endnote %}
 
-{% note danger %}
-danger 提示块标籤
-{% endnote %}
-```
+  {% note danger %}
+  danger 提示块标籤
+  {% endnote %}
+  ```
 
 - 显示效果:
   {% note default %}
@@ -434,3 +435,18 @@ content
 
 - 引入图片,在 source 里面当路径正确出现图片时,还需要再加一层
 - 因为在 Hexo generate 时会多出现一层路径,需要在 source 里多一个../
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 资源排除
+
+就是把 source 里面的某些目录/文件排除 (不做渲染也不被包含进 public)
+
+- 找了半天文档, 它写在注释里...
+
+  ```
+  # Do not use this to exclude posts in the 'source/_posts/'.
+  # Use skip_render for that. Or prepend an underscore to the filename.
+  ```
+
+也就是说在文件[夹]名字前加个下划线就行

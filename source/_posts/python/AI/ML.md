@@ -18,8 +18,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-21 00:01:15
- * @FilePath: \Blog-private\source\_posts\AI\ML.md
+ * @LastEditTime: 2022-04-25 11:02:23
+ * @FilePath: \Blog-private\source\_posts\python\AI\ML.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -103,21 +103,25 @@ top_img:
 
 ## 代码
 
-本篇所用到的代码在这: [👀Code-4-ML-Learning](../../public-post/notebook/ML)
+本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../public-post/notebook/ML)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 何为机器学习
 
-- 随机取市场上芒果样本
+- 随机取市场上一些芒果样本为训练数据,教给机器怎么判断好坏
 
-  `训练数据为芒果特征`: 颜色,大小,形状,产地,品牌
+  $$
+  品质 = func([特征])
+  $$
 
-  `输出变量为芒果品质`: 甜蜜,多汁,成熟度
+  `输入为特征`: [颜色, 大小, 形状, 产地, 品牌]
+
+  `输出为品质`: [好, 坏]
 
   ***
 
-设计`学习算法`学习`训练数据`生成 `特征<->品质` 之间的相关性`模型`
+训练模型时, 输入输出都告诉它, 让它自动学会建立 `特征<->品质` 之间的关系
 
 下次买芒果时可以根据要购买芒果的特征,使用此模型预测芒果的品质
 
@@ -496,12 +500,20 @@ $$
 
 ### 分类问题
 
-- 二元分类
-- 多元分类
-- 朴素贝叶斯分类
-- 决策树分类
-- 支持向量机
-- 逻辑回归
+从思想和实现角度看, 有下面很多种分类
+
+- 线性模型 (Linear Models)
+  - 逻辑回归 (Logistic Regression)
+- 朴素贝叶斯 (Naive Bayes)
+- 决策树 (Decision Trees)
+- 支持向量机 (Support Vector Machines)
+- 随机梯度下降 (Stochastic Gradient Descent)
+- 最近邻 (Nearest Neighbors)
+- 高斯过程 (Gaussian Processes)
+- 集成方法/投票分类器 (Ensemble methods / voting classifier)
+- 多类别多输出 / 多类别多标签分类 (Multiclass and multioutput algorithms / multiclass and multilabel classification)
+
+---
 
 #### 逻辑回归
 
@@ -704,7 +716,7 @@ $$
 
 ##### 相对熵
 
-> 参见 [👽 通信-信息论-开坑自埋](../../experience/basic/通信技术#相对熵)
+> 参见 [👽 通信-信息论-开坑自埋](../../../experience/basic/通信技术#相对熵)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -770,9 +782,9 @@ hierarchical clustering, 通过分层 -> 树形聚类结构 -> 聚类结果
 
 - 可采用 `自顶向下DIANA / 自底向上AGNES` 的划分方式
 
-  AGNES (AGglomerative NESting)最初将每个对象作为一个簇，然后这些簇一步步地合并。两个簇间的距离由这两个不同簇中距离最近的数据点对的相似度来确定；聚类的合并过程反复进行直到所有的对象最终满足簇数目。
+  AGNES (AGglomerative NESting)最初将每个对象作为一个簇,然后这些簇一步步地合并。两个簇间的距离由这两个不同簇中距离最近的数据点对的相似度来确定；聚类的合并过程反复进行直到所有的对象最终满足簇数目。
 
-  DIANA (DIvisive ANAlysis)算法是上述过程的反过程，属于分裂的层次聚类，首先将所有的对象初始化到一个簇中，然后根据一些原则(比如最大的欧式距离)，将该簇分类。直到到达用户指定的簇数目或者两个簇之间的距离超过了某个阈值。
+  DIANA (DIvisive ANAlysis)算法是上述过程的反过程,属于分裂的层次聚类,首先将所有的对象初始化到一个簇中,然后根据一些原则(比如最大的欧式距离),将该簇分类。直到到达用户指定的簇数目或者两个簇之间的距离超过了某个阈值。
 
   ![](https://www.helloimg.com/images/2022/04/18/RnH3bu.png)
 
@@ -798,7 +810,7 @@ hierarchical clustering, 通过分层 -> 树形聚类结构 -> 聚类结果
 
   - 方差 Ward
 
-    使得簇内距离平方和最小，簇间平方和最大
+    使得簇内距离平方和最小,簇间平方和最大
 
   ***
 
@@ -826,7 +838,7 @@ density-based clustering, 通过样本分布密度来考察样本间的可连接
 
   允许噪声的基于密度的空间聚类 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 
-  只要样本点的密度大于某阈值，则将该样本添加到最近的簇中。这类算法能克服基于距离的算法只能发现 `高斯分布/类圆形(凸)` 的聚类缺点，可发现任意形状的聚类，且对噪声数据不敏感。但计算密度单元的计算复杂度大，需要建立空间索引来降低计算量
+  只要样本点的密度大于某阈值,则将该样本添加到最近的簇中。这类算法能克服基于距离的算法只能发现 `高斯分布/类圆形(凸)` 的聚类缺点,可发现任意形状的聚类,且对噪声数据不敏感。但计算密度单元的计算复杂度大,需要建立空间索引来降低计算量
 
   使用方面, DBSCAN 不仅可以避免噪声影响,也可以专门找噪声/剔除噪声
 
@@ -950,7 +962,7 @@ Linear Discriminant Analysis / Fisher Linear Discriminant 是一种有监督的 
 
 LDA 充分利用数据的标签信息, 一般 LDA 降维后可以直接分类
 
-假设原始数据集表示为 X，(m\*n 矩阵，m 是维度，n 是 sample 的数量), 目标是找到映射向量 a， 使得 a‘X 后的数据点能够保持以下两种性质：
+假设原始数据集表示为 X,(m\*n 矩阵,m 是维度,n 是 sample 的数量), 目标是找到映射向量 a, 使得 a‘X 后的数据点能够保持以下两种性质：
 
 1. 同类的数据点尽可能的接近 (within class)
 
@@ -1181,10 +1193,10 @@ $$
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [【上海交大】【腾讯】强强联合 机器学习+深度学习](https://www.bilibili.com/video/BV16L411w7oQ?p=6)
 
-<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [12 种降维方法终极指南（含 Python 代码）](https://zhuanlan.zhihu.com/p/43225794)
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [12 种降维方法终极指南 (含 Python 代码)](https://zhuanlan.zhihu.com/p/43225794)
 
-<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [05-生成网络总结（VAE, GAN）](https://zhuanlan.zhihu.com/p/146600360)
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [05-生成网络总结 (VAE, GAN)](https://zhuanlan.zhihu.com/p/146600360)
 
-<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [独热编码（One-Hot）及其代码](https://blog.csdn.net/qq_38651469/article/details/121100275)
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [独热编码 (One-Hot)及其代码](https://blog.csdn.net/qq_38651469/article/details/121100275)
 
 <a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [欠拟合、过拟合及如何防止过拟合](https://zhuanlan.zhihu.com/p/72038532)

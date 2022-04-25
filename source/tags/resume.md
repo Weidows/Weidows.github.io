@@ -14,7 +14,7 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-18 13:16:32
+ * @LastEditTime: 2022-04-23 00:06:44
  * @FilePath: \Blog-private\source\tags\resume.md
 -->
 
@@ -28,7 +28,7 @@ aside: false
 
 |      求职意向       |                GitHub                 |                博客                 |      邮箱       |   手机/微信   |
 | :-----------------: | :-----------------------------------: | :---------------------------------: | :-------------: | :-----------: |
-| `Java (其他也行呢)` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.github.io) | utsuko27@qq.com | `18330785221` |
+| `Java (其他也行呢)` | [Weidows](https://github.com/Weidows) | [Weidows](https://weidows.github.io) | utsuko27@qq.com | `183 307 85221` |
 
 </center>
 

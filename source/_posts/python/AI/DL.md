@@ -2,7 +2,8 @@
 title: ⚡再啃-Deep-Learning
 password: ""
 tags:
-  - null
+  - 人工智能
+  - 深度学习
 katex: true
 comments: true
 aside: true
@@ -17,8 +18,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-21 00:22:21
- * @FilePath: \Blog-private\source\_posts\AI\DL.md
+ * @LastEditTime: 2022-04-22 14:57:40
+ * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
 -->
