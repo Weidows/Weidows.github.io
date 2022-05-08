@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:43:28
+ * @LastEditTime: 2022-05-07 10:19:44
  * @FilePath: \Blog-private\source\_posts\life\game.md
  * @Description:
  * @!: *********************************************************************
@@ -30,6 +30,10 @@ top_img:
     - [库空了](#库空了)
   - [小小梦魇](#小小梦魇)
     - [瞎眼厨师关](#瞎眼厨师关)
+  - [方舟-ARK](#方舟-ark)
+    - [锁帧](#锁帧)
+    - [更改物品堆叠数量](#更改物品堆叠数量)
+    - [作弊代码](#作弊代码)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -74,6 +78,46 @@ top_img:
 
 后来发现, 可以爬上这个笼子,等 boss 走到左边后从笼子右边跳下去,boss 不会追上来
 
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 方舟-ARK
+
+### 锁帧
+
+> ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor\Engine.ini
+
+- 在最后 append 这个:
+
+  ```
+
+  [/script/engine.renderersettings]
+  t.maxfps=60
+  ```
+
+---
+
+### 更改物品堆叠数量
+
+> ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor\GameUserSettings.ini
+
+里面的 `ItemStackSizeMultiplier` 这一项
+
+---
+
+### 作弊代码
+
+|  功能  | 代码      |
+| :----: | :-------- |
+|   飞   | fly       |
+|   走   | walk      |
+| 伽马值 | gamma x.x |
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [小小梦魇 1 图文攻略 全剧情流程+全解谜 boss 打法攻略(5)瞎眼厨子](http://www.wyaq.com/youxi/gonglue/8142_5.html)
+
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [方舟生存进化系统自带叠加功能设置方法及效果（非模组）【方舟三分钟】](https://www.bilibili.com/video/BV1mf4y1X7na)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [【方舟】告别显卡占用过高造成的卡顿-死机等情况，锁帧教程](https://www.bilibili.com/video/BV14V411z7NY)

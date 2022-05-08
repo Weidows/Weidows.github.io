@@ -24,7 +24,6 @@
     "hexo-directory-category": "^1.1.4",
     "hexo-easy-tags-plugin": "^1.1.0",
     "hexo-feed": "^1.1.0",
-    "hexo-filter-date-from-git": "^0.1.2",
     "hexo-filter-fenced-code": "^1.0.2",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
@@ -49,6 +48,7 @@
   },
   "弃用": {
     "hexo-filter-auto-spacing": "^0.2.1",
-    "live2d-widget-model-tororo": "^1.0.5"
+    "live2d-widget-model-tororo": "^1.0.5",
+    "hexo-filter-date-from-git": "^0.1.2"
   }
 }

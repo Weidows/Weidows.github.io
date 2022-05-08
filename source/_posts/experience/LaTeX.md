@@ -1,5 +1,5 @@
 ---
-title: 🍹LaTeX~环形使者(?)
+title: 🍹LaTeX-环形使者
 password: ""
 tags:
   - LaTeX
@@ -13,13 +13,13 @@ cover: https://www.helloimg.com/images/2022/02/27/GVLsV9.png
 top_img:
 ---
 
-# LaTeX~环形使者(?)
+# LaTeX-环形使者
 
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:15:36
+ * @LastEditTime: 2022-05-03 11:06:59
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -27,14 +27,14 @@ top_img:
 
 {% pullquote mindmap mindmap-md %}
 
-- [LaTeX~环形使者(?)](#latex环形使者)
+- [LaTeX-环形使者](#latex-环形使者)
   - [安装](#安装)
     - [实际效果](#实际效果)
     - [报错](#报错)
   - [公式渲染](#公式渲染)
     - [误区](#误区)
     - [网页公式渲染](#网页公式渲染)
-    - [Butterfly+KaTeX](#butterflykatex)
+    - [Butterfly-KaTeX](#butterfly-katex)
   - [公式](#公式)
     - [tools](#tools)
     - [常用速查表](#常用速查表)
@@ -253,7 +253,7 @@ top_img:
 
 ---
 
-### Butterfly+KaTeX
+### Butterfly-KaTeX
 
 - 需要更换(不换的话有冲突)和新添渲染插件: <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
