@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-07 00:05:54
+ * @LastEditTime: 2022-05-19 01:38:41
  * @FilePath: \Blog-private\source\_posts\python\AI\ML.md
  * @Description:
  * @!: *********************************************************************
@@ -75,7 +75,7 @@ top_img:
     - 模型
       - 线性方法
       - 非线性方法/广义线性方法
-    - [学习准则](#学习准则)
+    - [超参的学习-更新](#超参的学习-更新)
       - 损失函数
       - 期望风险
         - 期望风险未知,通过经验风险近似
@@ -974,7 +974,7 @@ https://zhuanlan.zhihu.com/p/100002630 -->
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 学习准则
+## 超参的学习-更新
 
 ### 损失函数-loss
 
@@ -1062,46 +1062,29 @@ $$
 
   ***
 
-- 过拟合处理:
+{% pullquote mindmap mindmap-md %}
 
-  - 训练数据++
-  - 降维
-  - 正则化
-  - 集成学习方法
+- 处理
+  - 过拟合
+    - 训练数据++, 数据增广
+    - 早停
+    - 降维
+    - 正则化
+    - 集成学习方法
+  - 欠拟合
+    - 添加新特征
+    - 增加模型复杂度
+    - 减小正则化系数
 
-- 欠拟合处理:
-  - 添加新特征
-  - 增加模型复杂度
-  - 减小正则化系数
+{% endpullquote %}
 
----
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-#### 正则化
+### 早停
 
-保留所有特征 x,减少参数 w 大小 (给高次项或者所有项加上系数$\theta$来压制)
+Early Stopping <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
-$$
-y = w_1 x + w_2 x^2 + \theta x^3 + \theta w_4 x^4 \qquad 0 < \theta <= 1
-$$
-
-- 实际操作就是在目标函数(如损失函数)后加上一个范数:
-
-  $$
-  \begin{Vmatrix} x \end{Vmatrix}_p
-  = \sqrt{\sum_{i=1}^{n} |x_i|^p}
-  $$
-
-  p = 1 时为 `L1 范数 (曼哈顿范数)`,所有系数绝对值之和
-
-  $$
-  \sum_{i=1}^{n} |x|
-  $$
-
-  p = 2 时为 `L2 范数 (欧几里得范数)`,所有系数平方和的开方
-
-  $$
-  \sqrt{\sum_{i=1}^{n} |x_i|^2}
-  $$
+![](https://www.helloimg.com/images/2022/05/19/Ry4m8h.png)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -1118,6 +1101,8 @@ $$
   - 批量梯度下降法 BGD
   - 随机剃度下降法 SGD
   - 小批量随机梯度下降法 MBSGD
+
+![](https://www.helloimg.com/images/2022/05/14/R7AFVm.png)
 
 - 步骤: 对于 梯度$w$ 和其对应的 loss
 
@@ -1172,12 +1157,69 @@ $$
 
   </details>
 
-
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 学习率
 
-![](https://www.helloimg.com/images/2022/03/21/Ra66vc.png)
+![](https://www.helloimg.com/images/2022/05/19/Ry4edA.png)
+
+- 学习率退火
+
+  如果学习率不变,对于初期来说学习率偏低, 收敛慢 loss 下降慢
+
+  对于后期来说又偏大,导致难以收敛, loss 止步不降
+
+  ![](https://www.helloimg.com/images/2022/05/19/Ry4EX0.png)
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### 正则化
+
+保留所有特征 x,减少参数 w 大小 (给高次项或者所有项加上系数$\theta$来压制)
+
+$$
+y = w_1 x + w_2 x^2 + \theta x^3 + \theta w_4 x^4 \qquad 0 < \theta <= 1
+$$
+
+- 实际操作就是在目标函数(如损失函数)后加上一个范数:
+
+  $$
+  \begin{Vmatrix} x \end{Vmatrix}_p
+  = \sqrt{\sum_{i=1}^{n} |x_i|^p}
+  $$
+
+  p = 1 时为 `L1 范数 (曼哈顿范数)`,所有系数绝对值之和
+
+  $$
+  \sum_{i=1}^{n} |x|
+  $$
+
+  p = 2 时为 `L2 范数 (欧几里得范数)`,所有系数平方和的开方
+
+  $$
+  \sqrt{\sum_{i=1}^{n} |x_i|^2}
+  $$
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### 权重初始化
+
+就像是 KMeans 一样, $w,b$ 的初始化对训练的性能和结果也会有很大影响
+
+- 一种方法是随机初始化
+
+  ![](https://www.helloimg.com/images/2022/05/19/Ry4J2m.png)
+
+- 另一种就是参考已经训练好的优秀模型的调参
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### 图像增广-DataAugmentation
+
+![](https://www.helloimg.com/images/2022/05/19/Ry4toc.png)
+
+1. 防止过拟合
+2. 增强模型泛化能力
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -1194,3 +1236,5 @@ $$
 <a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [欠拟合、过拟合及如何防止过拟合](https://zhuanlan.zhihu.com/p/72038532)
 
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: https://scikit-learn.org/stable/tutorial/machine_learning_map/
+
+<a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [4 小时入门深度学习+实操 MMDetection 第一课](https://www.bilibili.com/video/BV1ou411k7fD?p=6)

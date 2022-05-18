@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-08 08:56:52
+ * @LastEditTime: 2022-05-19 00:40:20
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -40,8 +40,12 @@ top_img:
     - 人工神经网络
       - 由大量神经元及它们之间的有向连接构成
       - 三方面
-        - [神经元的激活规则](#神经元的激活规则)
+        - 神经元/感知器
         - 网络的拓扑结构
+          - LeNet
+          - AlexNet
+          - VGGNet
+          - ResNet
         - 学习算法
       - [分类](https://www.helloimg.com/images/2022/03/19/Rat37q.png)
         - 单类网络
@@ -80,6 +84,8 @@ top_img:
 
   DL 就像是在教他转换思想 (函数,导数,积分...), 遇到题目后,具体套什么公式, 由小学生自己找到
 
+DL 不像 ML 一样泛泛, 对每种任务有针对性的设计
+
 ---
 
 {% tabs 优点 %}
@@ -110,9 +116,7 @@ top_img:
 
 大多知名的模型都是属于 `深度神经网络` 的, 比如 CNN, RNN, GAN ...
 
-### 神经元的激活规则
-
-#### 感知器
+### 神经元-感知器
 
 - 感知器就是一个神经元, 神经网络的组成单元, 可自学习为回归/分类器
 
@@ -198,13 +202,11 @@ top_img:
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-#### 前馈神经网络
+### 前馈神经网络
 
-把若干个感知器叠几层, 形成单向类网状结构, 称为多层前馈神经网络 (Multi-layer Feedforward Neural Networks)
+把若干个感知器叠几层, 形成单向类网状结构, 称为多层前馈神经网络 (Multi-layer Feedforward Neural Networks), `前馈` 是指前一层输出作为后一层输入
 
 ![](https://www.helloimg.com/images/2022/05/06/R0fC7h.png)
-
-同一层感知器之间不相连, 与前后两层全相连; `前馈` 是指前一层输出作为后一层输入
 
 - 每个箭头直线代表一个 "向量":
 
@@ -218,36 +220,17 @@ top_img:
 
   b: 后一层第 b 个神经元
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+  ***
 
-#### 激活函数
+- 同一层感知器之间不相连, 与前后两层全相连, 为`全连接神经网络` (fully-connected neural network)
 
-> 将输入信号的总和转换为输出信号的函数被称为激活函数
+  这种网络有硬性缺点:
 
-- 如下为一种简单实现: 阶跃函数:
+  1. 丢失数据的空间信息 (比如 3d 图像会展开为向量)
+  2. 参数量太多,难训
+  3. 层级浅, 大量参数易过拟合
 
-  ![RaxGG1.png](https://www.helloimg.com/images/2022/03/18/RaxGG1.png)
-
-  其阈值是可以改变的:
-
-  $$
-  sgn(x) =
-  \begin{cases}
-    1 & if \ x > 0 \\
-    0 & if \ x = 0 \\
-    -1 & if \ x < 0
-  \end{cases}
-  $$
-
-- 还有很多其他的激活函数, 用途各异, 详见<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
-
-  sigmoid 函数
-
-  tanh 双曲正切函数
-
-  ReLU（Rectified Linear Units, 修正线性单元）
-
-  ...
+  后面 CNN 对此缺点做了优化
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -275,10 +258,124 @@ top_img:
 
 ### 卷积神经网络-CNN
 
+卷积神经网络(Convolutional Neural Network，CNN), 视觉领域难以撼动的老大
+
+#### what
+
+对于一个 .mp3 的音乐 (频域记录, .wav 是时域记录), 某一时间点的音波可以`假定认为`是多个函数交杂而成的
+
+$$
+y = h_{耳机音效} \left[ f_{人声}(t) * g_{乐器}(t) \right] * i_{响度}(t)
+$$
+
+某一时间点的音波,就是这一堆函数的`卷积`, 简单来说就是在某个维度上 `加权 + 叠加`
+
+---
+
+#### 结构
+
+![](https://www.helloimg.com/images/2022/05/18/RytYZQ.png)
+
+```mermaid
+graph TB
+  输入层 -->
+  卷积层(卷积层 Convolutional-layer) -->
+  激活层(激活/ReLU层 Activation-layer) -->
+  池化层(池化/子采样/下采样层 Pooling-layer) -->
+  全连接网络(全连接网络 fully-connected-layer) -->
+  输出层
+```
+
+1. 卷积层: 就像是多个科目 (卷积核) 的老师给出试卷, 让"输入"做答
+2. 激活层: 不同科目老师判卷,得出有没有及格,及格的话计多少分
+3. 池化层: 成绩取最大值或者平均值, 减少计算量
+4. 全连接层: 年级排名
+5. 输出层: 是否获奖(二分类) / 排名前百分之几十(多分类)
+
+---
+
+#### 卷积层
+
+![](https://www.helloimg.com/images/2022/05/09/RNJpTz.png)
+
+![](https://www.helloimg.com/images/2022/05/19/Ry4FoP.png)
+
+可以直观看出, 其作用为 `降维` 和 `提取特征`
+
+---
+
+#### 激活层
+
+> 将输入信号的总和转换为输出信号的函数被称为激活函数
+
+- 如下为一种简单实现: 阶跃函数:
+
+  ![RaxGG1.png](https://www.helloimg.com/images/2022/03/18/RaxGG1.png)
+
+  其阈值是可以改变的:
+
+  $$
+  sgn(x) =
+  \begin{cases}
+    1 & if \ x > 0 \\
+    0 & if \ x = 0 \\
+    -1 & if \ x < 0
+  \end{cases}
+  $$
+
+- 还有很多其他的激活函数, 用途各异, 详见<sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+  sigmoid 函数
+
+  tanh 双曲正切函数
+
+  ReLU (Rectified Linear Units, 修正线性单元, CNN 常用)
+
+  ...
+
+---
+
+#### 池化层
+
+![](https://www.helloimg.com/images/2022/05/19/Ry4PS6.png)
+
+![](https://www.helloimg.com/images/2022/05/19/Ry4apn.png)
+
+一方面, 缩小分辨率降低运算量, 一方面扩大神经元的`感受野` (特征捕获范围)
+
+也就使得层次越深, 单位神经元在有损条件下捕获特征/语义信息的范围越大
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## MMDetection
+
+参考课程 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+![](https://www.helloimg.com/images/2022/05/14/R7twWM.png)
+
+### 图像分类
+
+{% pullquote mindmap mindmap-md %}
+
+- 图像分类模型
+  - LeNet-5 (1998)
+  - AlexNet (2012)
+  - VGGNet (2014)
+  - GoogleNet (2014)
+  - ResNet (2015)
+
+{% endpullquote %}
+
+
+![](https://www.helloimg.com/images/2022/05/19/Ry4Xmz.png)
+
+
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 
-<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [【深度学习】基础 壹：感知机与神经网络](https://discover304.top/2021/11/30/2021q4/107-1-dl-perceptron/#%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [42 个激活函数的全面总结](https://mp.weixin.qq.com/s/Um8wAtdxPcVN8ACiVtSgFg)
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [【深度学习】基础 叁：反向传播算法](https://discover304.top/2021/11/30/2021q4/107-1-dl-back/)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [4 小时入门深度学习+实操 MMDetection 第一课](https://www.bilibili.com/video/BV1ou411k7fD)

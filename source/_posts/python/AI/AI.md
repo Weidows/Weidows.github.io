@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-05 23:47:03
+ * @LastEditTime: 2022-05-16 22:31:05
  * @FilePath: \Blog-private\source\_posts\python\AI\AI.md
  * @Description:
  * @!: *********************************************************************
@@ -76,6 +76,7 @@ top_img:
       - 翻译
       - ...
     - ROS 机器人系统
+    - 专家系统
   - 框架和库
     - Tenserflow
     - Pytorch
