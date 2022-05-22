@@ -38,7 +38,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## EPIC
 
@@ -64,7 +64,7 @@ top_img:
 
   所以...解决办法就是随便装个游戏
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 小小梦魇
 
@@ -78,7 +78,7 @@ top_img:
 
 后来发现, 可以爬上这个笼子,等 boss 走到左边后从笼子右边跳下去,boss 不会追上来
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 方舟-ARK
 
@@ -112,7 +112,7 @@ top_img:
 |   走   | walk      |
 | 伽马值 | gamma x.x |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

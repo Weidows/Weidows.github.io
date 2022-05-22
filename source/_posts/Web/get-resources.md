@@ -67,7 +67,7 @@ top_img:
 
 下面只摸一下技术层面的 `1.和2.`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## token-防盗链
 
@@ -77,7 +77,7 @@ top_img:
 
 同一参数的 url 无法被复用, 但是仍可以通过动态调整参数来绕过服务器的检测
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## FFmpeg-HLS-AES_128_CBC
 
@@ -385,7 +385,7 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 
   但 原视频 != 分片加解密合并后的视频, 大小差不多但是会有差异 (9.87MB vs 9.95MB)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 获取
 
@@ -436,7 +436,7 @@ ffmpeg -allowed_extensions ALL -i $inputPath/index.m3u8 -acodec copy -vcodec cop
 
 4. 然后就无了, 这手段对于保存好几十/上百张图十分便利
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

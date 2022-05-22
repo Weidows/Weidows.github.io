@@ -24,7 +24,7 @@ top_img:
 - [连接屏幕](#连接屏幕)
 - [设置视频](#设置视频)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 这是啥子?
 

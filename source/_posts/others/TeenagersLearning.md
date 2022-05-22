@@ -41,7 +41,7 @@ top_img:
 
 - 复制保存好下面的代码段,或者收藏网址,免得丢失下次不知道怎么做
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## debugx5-法
 
@@ -97,7 +97,7 @@ debugx5 对于微信 8.0.16 后的版本失效了(2022.2) <sup id='cite_ref-1'>[
 
   没了,如果答完题还有视频的话,再输一遍这命令 ok 一下
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 浏览器大法
 
@@ -114,7 +114,7 @@ debugx5 对于微信 8.0.16 后的版本失效了(2022.2) <sup id='cite_ref-1'>[
 3. 拖条
 4. 截图走人
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

@@ -29,14 +29,14 @@ top_img:
 
 > Emmet 的前身就是 Zen Coding。 它是一组专门用来提高编写 HTML 和 CSS 代码速度的便利工具。将它整合进文本编辑器，可以提供一些功能和快捷方式，加快开发速度。
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简单上手
 
 - 如图
   <img src="https://www.helloimg.com/images/2022/02/27/GVSQHM.png" alt="20210127001432" />
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 详细
 

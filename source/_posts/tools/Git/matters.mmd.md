@@ -60,7 +60,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 实用操作
 
@@ -316,7 +316,7 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 
 - 这个方法应该更好些,避免删除不必要内容.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## GitHub
 
@@ -402,7 +402,7 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 
   最近测试似乎失效了...
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 凭证和权限
 
@@ -503,7 +503,7 @@ fatal: Need to specify how to reconcile divergent branches.
 
   `更好的办法是换一个Git版本`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

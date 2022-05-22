@@ -146,15 +146,15 @@ live2d:
   pluginModelPath: assets/ # 模型文件相对与插件根目录路径
   # scriptFrom: jsdelivr # jsdelivr CDN
   # scriptFrom: unpkg # unpkg CDN
-  # scriptFrom: https://cdn.jsdelivr.net/npm/live2d-widget@3.x/lib/L2Dwidget.min.js # 你的自定义 url
+  # scriptFrom: https://fastly.jsdelivr.net/npm/live2d-widget@3.x/lib/L2Dwidget.min.js # 你的自定义 url
   tagMode: false # 标签模式, 是否仅替换 live2d tag标签而非插入到所有页面中
   debug: false # 调试, 是否在控制台输出日志
   model:
     use: live2d-widget-model-tororo # npm-module package name
     # use: wanko # 博客根目录/live2d_models/ 下的目录名
     # use: ./wives/wanko # 相对于博客根目录的路径
-    # use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json # 你的自定义 url
-    # use: https://cdn.jsdelivr.net/gh/imuncle/live2d/live2d_3/model/Azue%20Lane(JP)/lafei/lafei.model3.json # 你的自定义 url
+    # use: https://fastly.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json # 你的自定义 url
+    # use: https://fastly.jsdelivr.net/gh/imuncle/live2d/live2d_3/model/Azue%20Lane(JP)/lafei/lafei.model3.json # 你的自定义 url
     # use: https://raw.githubusercontent.com/imuncle/live2d/master/live2d_3/model/Azue%20Lane(JP)/lafei/lafei.model3.json # 你的自定义 url
   display:
     position: left
@@ -174,7 +174,7 @@ bangumi:
   title: "番 の 表" # 页面的标题
   quote: <h1 align="center">看看又新娶来几个老婆⊙∀⊙！</h1> # 写在页面开头的一段话，支持 html 语法
   show: 1 # 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
-  loading: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.webp" # 图片加载完成前的 loading 图片
+  loading: # 图片加载完成前的 loading 图片
 
 sitemap:
   path: sitemap.xml
@@ -268,7 +268,7 @@ githubcalendar:
   color: "['#ebedf0', '#fdcdec', '#fc9bd9', '#fa6ac5', '#f838b2', '#f5089f', '#c4067e', '#92055e', '#540336', '#48022f', '#30021f']"
   api: https://python-github-calendar-api.vercel.app/api
   # api: https://python-gitee-calendar-api.vercel.app/api
-  calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
+  calendar_js: https://fastly.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
 # 统计图表，支持发布文章统计、发布日历、Top标签统计、分类统计、分类雷达。

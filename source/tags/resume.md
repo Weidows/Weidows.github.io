@@ -39,7 +39,7 @@ aside: false
 - **学年**：`23届毕业生`
 <!-- - **外语能力**： -->
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 专业技能
 
@@ -51,7 +51,7 @@ aside: false
 |  **工具**  | 精通 `VScode、IDEA` 进行程序开发测试，熟练使用 VisualStudio、Eclipse、DBeaver、Anaconda、DevEco 等工具; 熟悉 `Python` 充当工具                                            |
 |  **Git**   | 精通 `GitHub/Gitee/Gitlab` 进行流程/分支管理、参与多个组织社区和数十个仓库开源工作。                                                                                      |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 实习及项目经历
 
@@ -71,7 +71,7 @@ aside: false
 
 - `2020.9`：大二上参与 CCPC 与 HBCPC 程序设计大赛并获得铜牌。
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 <!-- ## 优势
 

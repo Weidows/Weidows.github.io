@@ -17,13 +17,13 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-19 00:40:20
+ * @LastEditTime: 2022-05-22 11:14:28
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-{% pullquote mindmap mindmap-md %}
+{% pullquote mindmap mindmap-lg %}
 
 - 再啃-Deep-Learning
   - 深度学习
@@ -72,7 +72,7 @@ top_img:
 
 > 本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../../public-post/notebook/DL)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 序
 
@@ -110,7 +110,7 @@ DL 不像 ML 一样泛泛, 对每种任务有针对性的设计
 
 {% endtabs %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 神经网路
 
@@ -200,7 +200,7 @@ DL 不像 ML 一样泛泛, 对每种任务有针对性的设计
 
   </details>
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 前馈神经网络
 
@@ -232,7 +232,7 @@ DL 不像 ML 一样泛泛, 对每种任务有针对性的设计
 
   后面 CNN 对此缺点做了优化
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 反向传播
 
@@ -254,7 +254,7 @@ DL 不像 ML 一样泛泛, 对每种任务有针对性的设计
 
   ![](https://www.helloimg.com/images/2022/05/08/RNeWuu.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 卷积神经网络-CNN
 
@@ -345,7 +345,7 @@ graph TB
 
 也就使得层次越深, 单位神经元在有损条件下捕获特征/语义信息的范围越大
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## MMDetection
 
@@ -355,7 +355,7 @@ graph TB
 
 ### 图像分类
 
-{% pullquote mindmap mindmap-md %}
+{% pullquote mindmap mindmap-sm %}
 
 - 图像分类模型
   - LeNet-5 (1998)
@@ -366,11 +366,30 @@ graph TB
 
 {% endpullquote %}
 
-
 ![](https://www.helloimg.com/images/2022/05/19/Ry4Xmz.png)
 
+---
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+### 目标检测
+
+等大窗口 -> 滑动窗口 -> 多尺度滑窗 -> 图像金字塔
+
+![](https://www.helloimg.com/images/2022/05/20/ZBmvYY.png)
+
+![](https://www.helloimg.com/images/2022/05/21/ZCV790.png)
+
+#### 区域提议
+
+但上面设计需要做的分类数太多,难以满足实时性, 可以先用 `区域提议 Region Proposal` 提取出可能包含物体的区域
+
+![](https://www.helloimg.com/images/2022/05/21/ZCYq6P.png)
+
+#### 非极大值抑制
+
+![](https://www.helloimg.com/images/2022/05/21/ZCYER6.png)
+
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

@@ -36,7 +36,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 引子
 
@@ -119,7 +119,7 @@ top_img:
 
 - 如果线程数大于 CPU 逻辑处理器数,其他的线程排队等待.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 几核几线程
 
@@ -137,7 +137,7 @@ top_img:
 
 - 运行速度标的是每个核心(core)而非逻辑处理器(processor)的速度
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 并行与并发
 
@@ -149,7 +149,7 @@ top_img:
 
 - `多进程并发,多线程并行.`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

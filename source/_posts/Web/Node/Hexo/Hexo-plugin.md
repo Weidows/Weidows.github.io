@@ -15,7 +15,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GV3iZo.png
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 15:29:57
+ * @LastEditTime: 2022-05-22 11:22:18
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-plugin.md
 -->
 
@@ -113,15 +113,15 @@ hexo new page link
     link_list:
       - name: Youtube
         link: https://www.youtube.com/
-        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/post/9ZkGg8v3azHJfM1.png
+        avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/post/9ZkGg8v3azHJfM1.png
         descr: 視頻網站
       - name: Weibo
         link: https://www.weibo.com/
-        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/post/TLJBum386vcnI1P.png
+        avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/post/TLJBum386vcnI1P.png
         descr: 中國最大社交分享平台
       - name: Twitter
         link: https://twitter.com/
-        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/post/5VyHPQqR6LWF39a.png
+        avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/post/5VyHPQqR6LWF39a.png
         descr: 社交分享平台
   ```
 
@@ -227,7 +227,7 @@ hexo new page link
     title: "追番列表" ## 页面的标题
     quote: "生命不息，追番不止！" ## 写在页面开头的一段话，支持 html 语法
     show: 1 ## 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
-    loading: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/loading.gif" ## 图片加载完成前的 loading 图片
+    loading: ## 图片加载完成前的 loading 图片
     metaColor: ##  meta 部分(简介上方)字体颜色
     color: ## 简介字体颜色
     webp:
@@ -287,7 +287,7 @@ steam:
   quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
   tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
-  imgUrl: "https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+  imgUrl: "https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   proxy: # 如果无法访问steam社区的话请使用代理
     host: # 代理ip或域名
     port: # 代理端口

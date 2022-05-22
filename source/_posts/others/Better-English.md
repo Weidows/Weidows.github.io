@@ -40,7 +40,7 @@ top_img:
 
 - 嘛,记下来吧.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 单词
 
@@ -104,7 +104,7 @@ top_img:
 |    classification     | 分类                                                                                                     |
 |       recursion       | 递归                                                                                                     |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 符号
 
@@ -125,7 +125,7 @@ top_img:
 |     colon     | :    |    exclamation-mark    | !     |
 |  semi-colon   | ;    |     and/ampersand      | &     |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 短语
 
@@ -160,7 +160,7 @@ top_img:
 
 ---
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 领域
 
@@ -176,7 +176,7 @@ top_img:
 > [IaaS，PaaS，SaaS 的区别](https://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html) \
 > [UED、UCD、UE、UI、交互设计这 5 个名词的概念有哪些区别？职位分别有什么不同？](https://www.zhihu.com/question/19908990)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 项目
 

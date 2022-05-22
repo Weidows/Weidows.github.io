@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-19 01:38:41
+ * @LastEditTime: 2022-05-21 11:44:36
  * @FilePath: \Blog-private\source\_posts\python\AI\ML.md
  * @Description:
  * @!: *********************************************************************
@@ -94,7 +94,7 @@ top_img:
 
 > 本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../../public-post/notebook/ML)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 何为机器学习
 
@@ -114,7 +114,7 @@ top_img:
 
 下次买芒果时可以根据要购买芒果的特征,使用此模型预测芒果的品质
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 学习方式
 
@@ -128,7 +128,7 @@ top_img:
 | 学习目标 |        映射关系 $x \rArr y$         |        x 的内在结构         |
 | 适用场景 | 分割/检测/回归(标签连续)/分类(离散) |  聚类、特征学习或密度估计   |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 强化学习-RL
 
@@ -140,7 +140,7 @@ top_img:
 
   对不同决策结果进行赏罚,使结果趋近期望结果
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 数据预处理
 
@@ -178,7 +178,7 @@ $$
 \end{aligned}
 $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 范围缩放
 
@@ -200,7 +200,7 @@ $$
    \end{aligned}
    $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 归一化
 
@@ -212,7 +212,7 @@ $$
 a' = \frac{a}{\sum_{i=1}^n |row[i]|}
 $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 二值化
 
@@ -220,7 +220,7 @@ $$
 
 没啥可说的...不举例了
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### OneHot-独热编码
 
@@ -252,7 +252,7 @@ $$
 
   对于编码后的,想找'男'这个类型,只需要查找第一位是'1'的数据
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 标签编码
 
@@ -260,7 +260,7 @@ $$
 
 [红,黄,蓝,黄] -> [1,2,3,2]
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 评估方法
 
@@ -292,7 +292,7 @@ $$
   \end{aligned}
   $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 基本问题
 
@@ -334,7 +334,7 @@ $$
 
 学习: 寻找最小的损失函数 loss -> 最优线性模型
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### 多项式回归
 
@@ -348,7 +348,7 @@ $$
 \end{aligned}
 $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### Lasso-岭回归
 
@@ -370,7 +370,7 @@ Lasso 和 岭 这两种都是在线性回归基础上对损失函数正则化的
   + \lambda ||w||_2
   $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 决策树-随机森林
 
@@ -485,7 +485,7 @@ $$
 
   2. if Math.random() < 0.8: random_set.append(i)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 分类问题
 
@@ -523,7 +523,7 @@ $$
 
 逻辑回归也是可以做多分类的, 原理就是多个二分类叠加起来
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### 支持向量机-SVM
 
@@ -576,7 +576,7 @@ $$
 
    ![](https://www.helloimg.com/images/2022/04/16/RiXFVm.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### 朴素贝叶斯
 
@@ -617,7 +617,7 @@ Naive Bayes classification,理论基础是大学必修课-概率论知识
 
   逻辑简单,性能起伏小且稳定,特征独立性越强分类效果越好
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 聚类问题-cluster
 
@@ -701,13 +701,15 @@ $$
 
 ![](https://www.helloimg.com/images/2022/04/18/Rnm1a9.png)
 
+![](https://www.helloimg.com/images/2022/05/21/ZCYX1g.png)
+
 上面假定的是 A,B 中样本权重相同, 实际聚类中需要考量样本的权重
 
 ##### 相对熵
 
 > 参见 [👽 通信-信息论-开坑自埋](../../../experience/basic/通信技术#相对熵)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### 聚类算法划分
 
@@ -847,7 +849,7 @@ density-based clustering, 通过样本分布密度来考察样本间的可连接
 
   ![](https://www.helloimg.com/images/2022/04/18/RnTRWm.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### 模型-衡量指标
 
@@ -879,7 +881,7 @@ b: min(当前样本与其他簇样本距离均值)
 
 ![](https://www.helloimg.com/images/2022/04/18/RnndCY.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 降维问题
 
@@ -887,7 +889,7 @@ b: min(当前样本与其他簇样本距离均值)
 
 降维作用: 降低时间-空间复杂度,使数据易于分析展示 (维度越高的图人类越难理解) <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 #### 缺失值比率
 
@@ -972,7 +974,7 @@ Laplacian-Eigenmaps, 也是一种常用的流形降维算法, 思想也近似 LL
 <!-- TODO 暂时搁置
 https://zhuanlan.zhihu.com/p/100002630 -->
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 超参的学习-更新
 
@@ -1048,7 +1050,7 @@ $$
 
   预测值越接近真实标签,损失函数越小
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 过-欠拟合及处理
 
@@ -1078,7 +1080,7 @@ $$
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 早停
 
@@ -1086,7 +1088,7 @@ Early Stopping <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
 ![](https://www.helloimg.com/images/2022/05/19/Ry4m8h.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 优化算法
 
@@ -1157,7 +1159,7 @@ Early Stopping <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
   </details>
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 学习率
 
@@ -1171,7 +1173,7 @@ Early Stopping <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
 
   ![](https://www.helloimg.com/images/2022/05/19/Ry4EX0.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 正则化
 
@@ -1200,7 +1202,7 @@ $$
   \sqrt{\sum_{i=1}^{n} |x_i|^2}
   $$
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 权重初始化
 
@@ -1212,7 +1214,7 @@ $$
 
 - 另一种就是参考已经训练好的优秀模型的调参
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 图像增广-DataAugmentation
 
@@ -1221,7 +1223,7 @@ $$
 1. 防止过拟合
 2. 增强模型泛化能力
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

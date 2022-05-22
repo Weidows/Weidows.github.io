@@ -3,7 +3,7 @@ title: ⭐ 桃李园 ⭐
 password: ""
 date: 2020-08-22 20:18:14
 type: link
-top_img: https://cdn.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your-best-friend-breaks-your-heart_.png
+top_img: https://fastly.jsdelivr.net/gh/Weidows/Images/img/What-do-you-do-when-your-best-friend-breaks-your-heart_.png
 comments: true
 aside: false
 ---
@@ -29,7 +29,7 @@ aside: false
 ```yaml
 - name: ⭐️齐下无贰⭐️
   link: https://weidows.github.io
-  avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
+  avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
   descr: May all the beauty be bless.✨
 ```
 
@@ -39,6 +39,6 @@ aside: false
 
 <h1 align="center">
 
-![warframe](https://cdn.jsdelivr.net/gh/Weidows/Images/img/1644516117980.png)
+![warframe](https://fastly.jsdelivr.net/gh/Weidows/Images/img/1644516117980.png)
 
 </h1>

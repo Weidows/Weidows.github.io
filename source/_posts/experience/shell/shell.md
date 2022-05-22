@@ -43,7 +43,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 通用
 
@@ -139,7 +139,7 @@ command1 || command2 || command2: 左边全都执行失败/返回 1 才会执行
 
 command1 | command2: 把左边的命令的输出结果作为右边的命令的输入,例如 `ps | grep win`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## CMD/PowerShell
 
@@ -162,7 +162,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 
 - 注意 cmd 不支持`/`作为路径,PowerShell 支持
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Linux
 
@@ -203,7 +203,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 | :----------------------: | :--------------: |
 | `/etc/init.d/bt default` | 查看宝塔面板入口 |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Git
 
@@ -218,7 +218,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
   | `git commit -m "提交消息,可添加emoji😝"` | 提交 |
   | `git push [origin(远程名字,默认是origin) master(分支名字)]` | 推送 |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Docker
 
@@ -229,7 +229,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 |              `docker kill xxx`              |                 关闭 xxx 容器                  |
 |          `docker list\| grep abc`           | 筛选 docker list 命令中含有 abc 字符串的结果集 |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Vim
 
@@ -237,7 +237,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 | :---: | :-------------------------------------: |
 | `:q!` | 如何获得一个随机字符串? >让新手退出 vim |
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 扩展程序
 

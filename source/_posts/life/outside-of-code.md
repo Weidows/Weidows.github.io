@@ -29,7 +29,7 @@ top_img:
   - [你是哪类程序员](#你是哪类程序员)
   - [公司与公司是不一样的](#公司与公司是不一样的)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 前言
 

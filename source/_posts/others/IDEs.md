@@ -31,7 +31,7 @@ top_img:
 - [Markdown](#markdown)
 - [Tomcat](#tomcat)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 前言
 
@@ -55,7 +55,7 @@ top_img:
 
   - 支持读写`.md`格式的 markdown 文件.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 前端
 
@@ -156,7 +156,7 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVmIw9.png" alt="20210302225450" />
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Markdown
 
@@ -172,7 +172,7 @@ top_img:
 
 - 个人使用 VScode 写比较多,因为有很多提升效率的扩展
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Tomcat
 

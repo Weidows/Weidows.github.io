@@ -53,7 +53,7 @@ top_img:
 - 在 VScode 设置文件里加入下面的代码
 
   ```json
-  "vscode_custom_css.imports": ["[file:///D:/Game/Demo/Weidows/.vscode/lights-on.css](https://cdn.jsdelivr.net/gh/Weidows/Weidows/.vscode/lights-on.css)"]
+  "vscode_custom_css.imports": ["[file:///D:/Game/Demo/Weidows/.vscode/lights-on.css](https://fastly.jsdelivr.net/gh/Weidows/Weidows/.vscode/lights-on.css)"]
   ```
 
 - 注意`路径`和`文件名`对应好,`必须修改`
@@ -67,7 +67,7 @@ top_img:
 
     <img src="https://www.helloimg.com/images/2022/02/27/GVstDu.png" alt="20210308184630" />
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 源码链接
 

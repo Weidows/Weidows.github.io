@@ -45,7 +45,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 环境配置
 
@@ -53,7 +53,7 @@ top_img:
 
 - 后来发现,Scoop 完美解决了这个问题! 它使用`Scoop/persist`这个文件夹来挂载数据,不影响程序本身,即使更新也不会影响.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 安装 yarn
 
@@ -81,7 +81,7 @@ top_img:
   scoop install yarn
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 加速
 
@@ -162,7 +162,7 @@ top_img:
   yarn config delete https-proxy
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 依赖升级
 
@@ -192,7 +192,7 @@ top_img:
   npm cache clean --force
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 参数及常用命令
 
@@ -215,7 +215,7 @@ top_img:
   - `npm install --save hexo-tag-aplayer`
   - `npm install hexo-tag-aplayer --save`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## local 全局依赖
 
@@ -240,7 +240,7 @@ top_img:
 
   - yarn: `Scoop\persist\yarn\global`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 运行报错
 
@@ -253,13 +253,13 @@ node_modules\pascal-case\dist\index.js:21
 
 - 直接把`node_modules`整个删掉,然后`npm install`就好了.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 推荐文章
 
 > [很多人上来就删除的 package-lock.json，还有这么多你不知道的（深度内容）](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247496886&idx=1&sn=513b863b8468fcfaf8c8e750ce266899&chksm=97c66918a0b1e00eb920d278ae03b10ebe1d765db0e17cb8fe5bc60b737fb3c6af1d96fcf724&mpshare=1&scene=23&srcid=0327cIro7WXAp1jgObHXuKCE&sharer_sharetime=1616807246544&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## node-多版本管理
 
@@ -307,7 +307,7 @@ exit status 145: The directory is not empty.
   npm_mirror: https://npm.taobao.org/mirrors/npm/
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 版本拟定
 
@@ -325,7 +325,7 @@ exit status 145: The directory is not empty.
 
   另外需要注意,使用之前要 `git commit`,不然没法使用.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

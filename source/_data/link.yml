@@ -1,25 +1,29 @@
+- class_name: dd-idol
+  class_desc: 爱丽数码-尊死.jpg
+  link_list:
+    - name: Haobo's Blog
+      link: https://discover304.top/
+      avatar: https://discover304.top/img/head.png
+      descr: 半只脚跨入炼丹师的大门的新人
+
 - class_name: 巨人的肩膀
   class_desc: 此情此景,一切美的颜料!
   link_list:
     - name: JerryC
       link: https://butterfly.js.org/
-      avatar: https://jerryc.me/image/avatar.png
+      avatar: https://butterfly.js.org/img/avatar.png
       descr: 今日事,今日畢
     - name: 小康博客
       link: https://www.antmoe.com/
-      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      avatar: https://fastly.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
       descr: 一个收藏回忆与分享技术的地方！
-    - name: cungudafa
-      link: https://cungudafa.top
-      avatar: https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg
-      descr: 一个学习记录者
     - name: Mashiro
       link: https://2heng.xin
       avatar: https://view.moezx.cc/images/2018/03/27/avatar.jpg
       descr: 樱花庄的白猫
     - name: Sky03’s Blog
       link: https://blog.sky03.cn/
-      avatar: https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io/medias/avatar.jpg
+      avatar: https://fastly.jsdelivr.net/gh/skyls03/skyls03.github.io/medias/avatar.jpg
       descr: 梦想注定是孤独的旅程。。。
     - name: ConstOwn
       link: https://blog.juanertu.com
@@ -31,31 +35,27 @@
       descr: 爱折腾的设计师
     - name: uncleacc
       link: https://www.fezhu.top
-      avatar: https://cdn.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
+      avatar: https://fastly.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
       descr: 一只努力学习的蒟蒻仔
     - name: Uncle_drew
       link: https://cndrew.cn
-      avatar: https://cdn.jsdelivr.net/gh/drew233/cdn/dreww.webp
+      avatar: https://fastly.jsdelivr.net/gh/drew233/cdn/dreww.webp
       descr: Hand down,man down
     - name: 云玩家
       link: https://yunist.cn
-      avatar: https://cdn.jsdelivr.net/gh/cnyist/blog/img/avatar.svg
+      avatar: https://fastly.jsdelivr.net/gh/cnyist/blog/img/avatar.svg
       descr: 虽于果壳内, 我亦无限王.
     - name: 超逸の技术博客
       link: https://yangchaoyi.vip/
-      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      avatar: https://fastly.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
       descr: 不是只会写业务代码の前端攻城狮
-    - name: Flexiston
-      link: "https://flesx.cn"
-      avatar: "https://rmt.dogedoge.com/fetch/Flexiston/storage/ava.jpg?fmt=webp"
-      descr: 立即行动吧，未来要自己争取
     - name: 山河
       link: https://sang.pub/
-      avatar: https://cdn.jsdelivr.net/gh/mydracula/image@master/20210330/fb345fa732f23f3fe9f1fd962168f24f.jpg
+      avatar: https://fastly.jsdelivr.net/gh/mydracula/image@master/20210330/fb345fa732f23f3fe9f1fd962168f24f.jpg
       descr: 你喜欢我吗
     - name: HCLonely
       link: https://blog.hclonely.com/
-      avatar: https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@latest/img/avatar.jpg
+      avatar: https://fastly.jsdelivr.net/gh/HCLonely/blog.hclonely.com@latest/img/avatar.jpg
       descr: 一个懒人的博客
     - name: 昔日博客
       link: http://bk.hyk416.cn
@@ -73,14 +73,9 @@
       link: https://www.coolku.cc
       avatar: https://www.coolku.cc/wp-content/uploads/2020/07/sdq.jpg
       descr: 一只努力向上的菜鸟
-    - name: Haobo's Blog
-      link: https://discover304.top/
-      avatar: https://discover304.top/img/head-pic.jpg
-      descr: 始于兴趣，源于热爱，成于投入。
-      siteshot: https://image.discover304.top/siteshoot.png?imageView2/2/h/300
     - name: 花诽语
       link: https://sakurafeiyu.gitee.io/
-      avatar: https://cdn.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/1046700338.png
+      avatar: https://fastly.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/1046700338.png
       descr: 授人与鱼不如授人与渔
     - name: yiyun's Blog
       link: https://moeci.com
@@ -90,13 +85,17 @@
       link: https://blog.laoda.de
       avatar: https://blog.laoda.de/logo
       descr: 苏才郭福，姬子彭年。
+    - name: 猎人杂货铺
+      link: https://hunterx.xyz/
+      avatar: https://avatars.githubusercontent.com/u/4209116?v=4
+      descr: 学习随笔 与君分享
     # - name:
     #   link:
     #   avatar:
     #   descr:
     - name: ⭐️齐下无贰⭐️
       link: https://weidows.gitee.io
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
+      avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
       descr: 此人没有其他朋友了..
 
 - class_name: 路宇同行客
@@ -128,5 +127,5 @@
     #   descr:
     - name: ⭐️齐下无贰⭐️
       link: https://weidows.gitee.io
-      avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
+      avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png
       descr: 此人没有其他朋友了..

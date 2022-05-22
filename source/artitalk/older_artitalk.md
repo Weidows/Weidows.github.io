@@ -24,7 +24,7 @@ new Artitalk({
   shuoPla: 'Weidows想说点啥..',
   motion: 1, //加载动画
   atComment: 1, //评论
-  avatarPla: 'https://cdn.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png',
+  avatarPla: 'https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png',
   // bgImg: '',
 })
 </script>

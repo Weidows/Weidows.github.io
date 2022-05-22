@@ -47,7 +47,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -55,7 +55,7 @@ top_img:
 
 不只是 SQL,包括工作中常用的技巧.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 模糊查询
 
@@ -81,7 +81,7 @@ top_img:
   </select>
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## where
 
@@ -129,7 +129,7 @@ top_img:
 
 - 在 SQL 支持的情况下,还是套`<where>`标签更好,它能处理 `where and` 这种情况.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 多索引排序
 
@@ -143,7 +143,7 @@ top_img:
 
 - 挺简单的 `order by id`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Mariadb-无法远程连接
 
@@ -169,7 +169,7 @@ top_img:
 
   远程连接时连这个用户就行了.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 数据源连接不上
 
@@ -179,7 +179,7 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVAKQR.png" alt="20210925193945" />
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## docker-databases
 
@@ -187,7 +187,7 @@ top_img:
 
 > 在另一篇文章: [🌈 初探 Docker.](../../system/../docker#多数据库管理)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 接口数据速览
 
@@ -241,7 +241,7 @@ top_img:
     FOREIGN_KEY_CHECKS = 1;
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## map-and-filter
 
@@ -277,7 +277,7 @@ top_img:
     end
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 悲观锁-乐观锁
 
@@ -353,7 +353,7 @@ top_img:
 
   而不含的, 查出来的结果数据量庞大, 逐行加锁性能损耗太大, 不如直接锁表
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

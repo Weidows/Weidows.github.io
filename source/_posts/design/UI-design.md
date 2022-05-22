@@ -24,7 +24,7 @@ top_img:
   - [图>字](#图字)
   - [非标准与留白](#非标准与留白)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 头图设计
 
@@ -57,7 +57,7 @@ top_img:
 
 - 上手时间成本几乎没有,现阶段可以说是最直接有效的解决方案了.
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 呈现方式
 

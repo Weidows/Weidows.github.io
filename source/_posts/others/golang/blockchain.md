@@ -41,7 +41,7 @@ top_img:
 
 {% mmedia "bilibili" "bvid:1jf4y1s7sZ" %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 配置
 
@@ -82,7 +82,7 @@ go mod init ProjectName
   2. 先打开 Goland 随便改一个快捷键,不然下一步可能找不到; 然后关掉 Goland
   3. 找到 `Goland\profile\config\jba_config\win.keymaps\`,复制粘贴
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## Golang-learning
 
@@ -120,7 +120,7 @@ go mod init ProjectName
     }
     ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

@@ -32,7 +32,7 @@ aside: true
 
 </div>
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 风景
 
@@ -48,7 +48,7 @@ aside: true
 
 </div>
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 个人
 
@@ -56,7 +56,7 @@ aside: true
 
 <div class="gallery-group-main">
 
-{% galleryGroup 二维码 日常使用的社交平台二维码 gallery/QRcode https://cdn.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg %}
+{% galleryGroup 二维码 日常使用的社交平台二维码 gallery/QRcode https://fastly.jsdelivr.net/gh/Weidows/Images/img/QRcode/We_Chat.jpeg %}
 
 {% galleryGroup 编程比赛 年迈时在赛场上掉落的华发 gallery/CCPC https://www.helloimg.com/images/2022/02/27/GV45Kc.png %}
 

@@ -563,7 +563,7 @@ arr.fill(0);
 arr; // [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
 

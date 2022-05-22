@@ -44,7 +44,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -60,7 +60,7 @@ top_img:
 
 > 此文章很清晰的介绍了 Anaconda 的安装使用: https://zhuanlan.zhihu.com/p/75717350
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 安装-配置
 
@@ -78,7 +78,7 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVSnUD.png" alt="20211002190135" />
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 测试
 
@@ -109,7 +109,7 @@ top_img:
 
   2. 检查系统是不是开了 http 代理 (挂-了-梯-子?),把 http 模式换成 PAC 模式试试,我遇到这个错误可以这样解决
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 配置文件位置
 
@@ -119,7 +119,7 @@ top_img:
 
   - pip: `~\pip\pip.ini`
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 镜像加速-代理
 
@@ -183,7 +183,7 @@ top_img:
   trusted-host = mirrors.aliyun.com
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 修改依赖路径
 
@@ -222,7 +222,7 @@ top_img:
   python -m site -help
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 激活终端
 
@@ -259,7 +259,7 @@ conda init 终端名(powershell)
 
   `配置方法`: 解压,把`bin\`添加进 path
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## PyTorch
 
@@ -299,7 +299,7 @@ conda init 终端名(powershell)
           [0.4675, 0.3947, 0.1426]])
   ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 实例
 
@@ -313,7 +313,7 @@ conda init 终端名(powershell)
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVA6R6.png" alt="20210521104118" />
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 依赖
 
@@ -339,7 +339,7 @@ RemoveError: 'requests' is a dependency of conda and cannot be removed from ...
 conda update --force conda
 ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 导出-安装依赖
 
@@ -402,7 +402,7 @@ conda update --force conda
 
   </details>
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 报错
 

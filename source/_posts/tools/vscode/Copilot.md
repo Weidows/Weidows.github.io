@@ -27,7 +27,7 @@ top_img:
 - [对话测试](#对话测试)
 - [代码生成测试](#代码生成测试)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 简介
 
@@ -37,7 +37,7 @@ top_img:
 
   > [GitHub Copilot](https://copilot.github.com/)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 对话测试
 
@@ -173,7 +173,7 @@ I: "床前明月光"下一句?
 Copilot: "明月神伤"
 ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 代码生成测试
 
