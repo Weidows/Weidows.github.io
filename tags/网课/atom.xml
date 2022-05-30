@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;网课&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-02-20T06:37:17.000Z</updated>
+    <category term="面试" />
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="vscode" />
+    <category term="butterfly" />
+    <category term="katex" />
+    <category term="math" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="游戏" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="anaconda" />
+    <category term="opengl" />
+    <category term="多线程" />
+    <category term="人工智能" />
+    <category term="manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="office" />
+    <category term="docker" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="maven" />
+    <category term="git" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="mariadb" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="深度学习" />
+    <category term="机器学习" />
+    <category term="doing" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/others/%E7%BD%91%E8%AF%BE/</id>
+        <title>大学wangke&lt;--&gt;Coder</title>
+        <link rel="alternate" href="https://weidows.github.io/post/others/%E7%BD%91%E8%AF%BE/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-03-21 17:10:39
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\others\网课.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A3%B0%E6%98%8E&#34;&gt;声明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9C%80%E8%A6%81&#34;&gt;需要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85-tampermonkey&#34;&gt;安装 Tampermonkey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC&#34;&gt;安装脚本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A5%BD%E5%95%A6&#34;&gt;好啦&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B0%8F%E5%B0%BE%E5%B7%B4&#34;&gt;小尾巴&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;声明&#34;&gt;声明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;特意叫&lt;code&gt;wangke&lt;/code&gt;是因为不想被 SEO 索引量太高,避免惹上一些麻烦事&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这篇文章可能会影响到一些&lt;code&gt;二道贩子&lt;/code&gt;的生意,希望别太生气…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对于脚本开发者来说,用户量提升显然是更好,所以此文章&lt;code&gt;对脚本开发者抱有支持肯定态度&lt;/code&gt;,崇尚技术是我们的本分.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;需要&#34;&gt;需要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;电脑或者笔记本一个&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;浏览器一个&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(比如 Chrome,Edge,360,QQ,火狐浏览器都行)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;IE浏览器不行!&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;最好是 Edge&lt;/code&gt;,Windows 自带,而且安装插件不需要梯子.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;安装-Tampermonkey&#34;&gt;安装 Tampermonkey&lt;/h2&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVmEnR.png&#34; alt=&#34;20210220172439&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;点扩展,进去搜&lt;code&gt;tampermonkey&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVm4v0.png&#34; alt=&#34;20210220172533&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第一个就是,点获取&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;安装脚本&#34;&gt;安装脚本&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;上面的 tampermonkey 是脚本管理器,然后需要找脚本来安装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://greasyfork.org/zh-CN&#34;&gt;Greasy Fork&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;进入上面的链接,直接搜需要的脚本,比如&lt;code&gt;超*&lt;/code&gt;,&lt;code&gt;学x通&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后随便找随便试,有很多脚本是失效的或者开发中的,有 bug,具体用哪个看个人喜好了,此处不做推荐.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;好啦&#34;&gt;好啦&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;装好了就打开对应 wangke 页面试试,可以的话就好,不行的话再换其他的脚本再试.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;小尾巴&#34;&gt;小尾巴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;其实…对于做技术的写这么个文章是非常羞耻の…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="推荐" />
+        <category term="javascript" />
+        <category term="网课" />
+        <updated>2021-02-20T06:37:17.000Z</updated>
+    </entry>
+</feed>
