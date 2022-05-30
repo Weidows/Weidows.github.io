@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:41:18
+ * @LastEditTime: 2022-05-23 10:05:34
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -36,6 +36,8 @@ top_img:
     - [`-save`](#-save)
   - [local 全局依赖](#local-全局依赖)
   - [运行报错](#运行报错)
+    - [依赖出错](#依赖出错)
+    - [没装项目依赖](#没装项目依赖)
   - [推荐文章](#推荐文章)
   - [node-多版本管理](#node-多版本管理)
     - [环境变量原因报错](#环境变量原因报错)
@@ -109,7 +111,6 @@ top_img:
   ```
   yrm use taobao
   ```
-
 
 - 当然不嫌麻烦可以手动修改
 
@@ -244,6 +245,8 @@ top_img:
 
 ## 运行报错
 
+### 依赖出错
+
 ```
 node_modules\pascal-case\dist\index.js:21
 ...
@@ -252,6 +255,33 @@ node_modules\pascal-case\dist\index.js:21
 - 有可能是依赖有故障了,其实用不着挨个排除是哪个依赖有问题
 
 - 直接把`node_modules`整个删掉,然后`npm install`就好了.
+
+---
+
+### 没装项目依赖
+
+```console
+> live2d-moc3@1.0.0 uglifyjs
+> uglifyjs src/live2d.js -o dist/live2d.min.js
+
+Parse error at src/live2d.js:2,6
+class Live2dLoader {
+      ^
+ERROR: Unexpected token: name «Live2dLoader», expected: punc «;»
+    at JS_Parse_Error.get (eval at <anonymous> (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\tools\node.js:18:1), <anonymous>:71:23)
+    at fatal (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\bin\uglifyjs:394:27)
+    at run (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\bin\uglifyjs:343:9)
+    at Object.<anonymous> (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\bin\uglifyjs:259:5)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1151:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+终端进程“D:\Scoop\shims\pwsh.exe -Command npm run uglifyjs”已终止，退出代码: 1。
+```
+
+如上, uglifyjs 已经装了 global 依赖, 但是项目并没装 (没 node_modules),仍会报错
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

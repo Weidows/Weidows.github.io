@@ -13,8 +13,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:16:13
- * @FilePath: \Blog-private\source\_posts\others\python\anaconda.md
+ * @LastEditTime: 2022-05-28 23:15:58
+ * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -168,7 +168,7 @@ top_img:
       simpleitk: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
     ```
 
-  - 最近又发现一个导致此错误的问题: 挂-梯,关掉试试.
+  - 最近又发现一个导致此错误的问题: 挂-木弟,关掉试试.
 
   </details>
 
@@ -179,7 +179,6 @@ top_img:
   ```
   [global]
   index-url = http://mirrors.aliyun.com/pypi/simple/
-  [install]
   trusted-host = mirrors.aliyun.com
   ```
 

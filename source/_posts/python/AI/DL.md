@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-22 11:14:28
+ * @LastEditTime: 2022-05-30 23:16:13
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -62,19 +62,47 @@ top_img:
       - 反向传播算法引起的复兴
       - 流行度降低
       - 深度学习崛起
+  - MMDetection
+    - 图像分类
+      - 模型发展
+        - LeNet-5 (1998)
+        - AlexNet (2012)
+        - VGGNet (2014)
+        - GoogleNet (2014)
+        - ResNet (2015)
+    - 模型训练
+      - 配置文件
+        - 模型结构
+          - 模型有几层
+          - 每层多少通道数
+        - 数据集
+          - 数据集划分
+            - 常用的有 COCO 格式, `annotation/test.json -> test/images`
+          - 数据文件路径
+          - 数据增强策略
+        - 训练策略
+          - 梯度下降算法
+          - 学习率参数
+          - batch_size
+          - 训练总轮次
+          - 学习率变化策略
+        - runtime / 运行时
+          - GPU
+          - 分布式环境配置
+        - 一些辅助功能
+          - 打印日志
+          - checkpoint / 定时保存
 
 {% endpullquote %}
 
 > 由于 DL 是 ML 的子问题, 所以此篇着重写 [🥵 硬啃-Machine-Learning](../ML) 里面涉及甚少的 (解耦) \
 > 有一些 (比如损失函数, 梯度下降) 隶属于 ML > DL ,所以堆在了 ML 里面
 
-## 代码
-
 > 本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../../public-post/notebook/DL)
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
-## 序
+## ML-2-DL
 
 - 简单解释 DL 到底在做什么?
 
@@ -349,22 +377,10 @@ graph TB
 
 ## MMDetection
 
-参考课程 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
-
-![](https://www.helloimg.com/images/2022/05/14/R7twWM.png)
+> 参考课程 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup> \
+> ![](https://www.helloimg.com/images/2022/05/14/R7twWM.png)
 
 ### 图像分类
-
-{% pullquote mindmap mindmap-sm %}
-
-- 图像分类模型
-  - LeNet-5 (1998)
-  - AlexNet (2012)
-  - VGGNet (2014)
-  - GoogleNet (2014)
-  - ResNet (2015)
-
-{% endpullquote %}
 
 ![](https://www.helloimg.com/images/2022/05/19/Ry4Xmz.png)
 
@@ -372,22 +388,131 @@ graph TB
 
 ### 目标检测
 
+#### base-design
+
+##### 图像分割
+
 等大窗口 -> 滑动窗口 -> 多尺度滑窗 -> 图像金字塔
 
 ![](https://www.helloimg.com/images/2022/05/20/ZBmvYY.png)
 
 ![](https://www.helloimg.com/images/2022/05/21/ZCV790.png)
 
-#### 区域提议
+##### 区域提议
 
 但上面设计需要做的分类数太多,难以满足实时性, 可以先用 `区域提议 Region Proposal` 提取出可能包含物体的区域
 
 ![](https://www.helloimg.com/images/2022/05/21/ZCYq6P.png)
 
-#### 非极大值抑制
+##### 非极大值抑制
 
 ![](https://www.helloimg.com/images/2022/05/21/ZCYER6.png)
 
+---
+
+#### 优化网络
+
+##### 共享特征与-ROI-Pooling
+
+对于每个提议框 -> CNN 前传, 有大量重叠提议框(重复的卷积运算), 所以改进为: `全图单次 CNN 前传 -> 全图特征图 -> 根据提议框裁剪预测`
+
+![](https://www.helloimg.com/images/2022/05/27/Z1PBTb.png)
+
+##### RPN-区域提议网络
+
+Region Proposal Network
+
+![](https://www.helloimg.com/images/2022/05/27/Z1PLwn.png)
+
+##### FPN-特征金字塔网络
+
+![](https://www.helloimg.com/images/2022/05/27/Z1a3Gh.png)
+
+##### Faster-RCNN
+
+![](https://www.helloimg.com/images/2022/05/27/Z1Pnqz.png)
+
+与上面网络结合:
+
+![](https://www.helloimg.com/images/2022/05/27/Z1aeNq.png)
+
+---
+
+#### 大体分类
+
+{% tabs 双阶段 %}
+
+<!-- tab 单阶段 -->
+
+![](https://www.helloimg.com/images/2022/05/30/ZeIeWv.png)
+
+单阶段最常用的就是 YOLO (You Only Look Once), 每代都会有设计更新和优化,如下为 v3 设计
+
+![](https://www.helloimg.com/images/2022/05/30/ZeImDX.png)
+
+<!-- endtab -->
+
+<!-- tab 双阶段 -->
+
+上面介绍的都是双阶段算法,与单阶段区别主要在于`是否有区域提议阶段`, 单阶段算法只通过不同尺寸的锚框(检测头)进行物体预测
+
+![](https://www.helloimg.com/images/2022/05/27/Z1aqjr.png)
+
+具体来看,与上面网络结合:
+
+![](https://www.helloimg.com/images/2022/05/30/ZeDKUA.png)
+
+<!-- endtab -->
+
+<!-- tab 无锚框算法 -->
+
+另一类分支, 有锚框的话会有大量超参使模型复杂度上升, 无锚框的话性能又会下降
+
+<!-- endtab -->
+
+{% endtabs %}
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### 模型训练
+
+MMDetection 基本结构: `依赖 + 模型 + 配置文件 -> Trainable`
+
+#### COCO-dataset
+
+```python
+dataset_type = 'CocoDataset'
+data_root = 'data/coco/'
+data = dict(
+  samples_per_gpu=2,
+  workers_per_gpu=2,
+  train=dict(
+    type=dataset_type,
+    ann_file=data_root + 'annotations/instances_train2017.json',
+    img_prefix=data_root + 'train2017/',
+    pipeline=train_pipeline),
+  val=dict(
+    type=dataset_type,
+    ann_file=data_root + 'annotations/instances_val2017.json',
+    img_prefix=data_root + 'val2017/',
+    pipeline=test_pipeline),
+  test=dict(
+    type=dataset_type,
+    ann_file=data_root + 'annotations/instances_val2017.json',
+    img_prefix=data_root + 'val2017/',
+    pipeline=test_pipeline)
+)
+```
+
+#### pipeline
+
+![](https://www.helloimg.com/images/2022/05/30/Zezw9E.png)
+
+#### Lr-Scheduler
+
+Learning Rate Scheduler 学习率策略, 常见模型中标注的 `1x 2x`
+
+![](https://www.helloimg.com/images/2022/05/30/Ze7rmt.png)
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
