@@ -1,0 +1,462 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;powershell&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-11-03T08:37:54.000Z</updated>
+    <category term="面试" />
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="vscode" />
+    <category term="butterfly" />
+    <category term="katex" />
+    <category term="math" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="游戏" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="anaconda" />
+    <category term="opengl" />
+    <category term="多线程" />
+    <category term="人工智能" />
+    <category term="manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="office" />
+    <category term="docker" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="maven" />
+    <category term="git" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="mariadb" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="神经学" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="深度学习" />
+    <category term="机器学习" />
+    <category term="doing" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/experience/shell/%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/</id>
+        <title>🥱戏耍脚本中~奇技淫巧</title>
+        <link rel="alternate" href="https://weidows.github.io/post/experience/shell/%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/"/>
+        <content type="html">&lt;h1&gt;戏耍脚本中~奇技淫巧&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-05-26 17:53:55
+ * @FilePath: \Blog-private\source\_posts\experience\shell\奇技淫巧.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%8F%E8%80%8D%E8%84%9A%E6%9C%AC%E4%B8%AD%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7&#34;&gt;戏耍脚本中~奇技淫巧&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%82%E6%95%B0%E5%88%A4%E7%A9%BA&#34;&gt;参数判空&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8B%BC%E6%8E%A5%E5%88%A4%E5%AE%9A&#34;&gt;字符串拼接判定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AF%AD%E6%B3%95%E5%88%A4%E5%AE%9A&#34;&gt;语法判定&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A8%8B%E5%BA%8F%E5%8D%A0%E7%94%A8&#34;&gt;程序占用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#echo&#34;&gt;echo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop&#34;&gt;Scoop&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#portable&#34;&gt;portable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A3%E5%89%96-exe&#34;&gt;解剖-exe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6%E5%90%AB%E6%9C%89%E6%9F%90%E5%AD%97%E7%AC%A6%E4%B8%B2&#34;&gt;判断是否含有某字符串&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B3%E4%BA%8E%E7%9B%AE%E5%BD%95&#34;&gt;关于目录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参数判空&#34;&gt;参数判空&lt;/h2&gt;
+&lt;h3 id=&#34;字符串拼接判定&#34;&gt;字符串拼接判定&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有时候我们想判断一个变量是不是空的,会变得有些棘手&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;if [ $&amp;#123;abc&amp;#125; != &amp;quot;&amp;quot; ]; then&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  echo $&amp;#123;abc&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fi&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;我们的想法是判断是否存在 abc 这个变量,实际上这样写并不行,没有这个变量的话会变成下面的样子:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;if [  != &amp;quot;&amp;quot; ]; then&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  echo $&amp;#123;abc&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fi&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;这样肯定会报错的&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;改一下,比如添加冗余校验字符&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;abc = &amp;quot;abc&amp;quot;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;if [ a$&amp;#123;abc&amp;#125; != a ]; then&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  echo $&amp;#123;abc&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fi&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;bat 中引号也会视为变量一部分&lt;/code&gt;,所以:&lt;/p&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &amp;quot;&lt;span class=&#34;variable&#34;&gt;%DIRNAME%&lt;/span&gt;&amp;quot; == &amp;quot;&amp;quot; &lt;span class=&#34;built_in&#34;&gt;set&lt;/span&gt; DIRNAME=.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;或者:&lt;/p&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;set&lt;/span&gt; abc=&amp;quot;&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;%abc%&lt;/span&gt; == &amp;quot;&amp;quot; (&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; &amp;quot;abc为空&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;跟 shell 语法差别很大来着, 注意别写错…&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;语法判定&#34;&gt;语法判定&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;shell 的语法:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;if [ -n &amp;quot;$&amp;#123;abc&amp;#125;&amp;quot; ]; then&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  echo $&amp;#123;abc&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fi&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;bat 语法:&lt;/p&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;defined&lt;/span&gt; abc (&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; &amp;#x27;abc&amp;#x27; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;defined&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;程序占用&#34;&gt;程序占用&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果你用过 aria2 的话肯定会遇到一个头疼的事: &lt;code&gt;如何开机后台自动启动它&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;它的程序本身不带有开机启动,需要另外写启动脚本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;它无法后台启动,必然会占据一个控制台程序的前台&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网上找到了比较好用的方法: &lt;code&gt;vbs 脚本&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight vbs&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;CreateObject&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;WScript.Shell&amp;quot;&lt;/span&gt;).Run &lt;span class=&#34;string&#34;&gt;&amp;quot;aria2c --conf-path=D:\Game\Scoop\persist\aria2\conf&amp;quot;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;由于我平时用 bat 管理电脑,单独编写执行一个 vbs 脚本略显多余,所以直接结合进 bat 脚本里,用完就删针刺激:&lt;/p&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; CreateObject(&amp;quot;WScript.Shell&amp;quot;).Run &amp;quot;aria2c --conf-&lt;span class=&#34;built_in&#34;&gt;path&lt;/span&gt;=D:\Game\Scoop\persist\aria2\conf&amp;quot;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; &amp;gt; aria2.vbs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cscript //Nologo aria2.vbs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;del&lt;/span&gt; aria2.vbs&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;echo&#34;&gt;echo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;看到一个脚本中这么写,乍一看蒙了:&lt;/p&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;CLS&lt;/span&gt;&amp;amp;&lt;span class=&#34;built_in&#34;&gt;ECHO&lt;/span&gt;.&amp;amp;&lt;span class=&#34;built_in&#34;&gt;ECHO&lt;/span&gt; 完成, 以下选项自选：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;ECHO&lt;/span&gt;.&amp;amp;&lt;span class=&#34;built_in&#34;&gt;ECHO&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;、启用视频播放程序(会驻留进程)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;实际上只是把几个命令压缩到了一行&lt;/p&gt;
+&lt;figure class=&#34;highlight avrasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;cls&lt;/span&gt;   &lt;span class=&#34;meta&#34;&gt;# 清屏&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;echo. &lt;span class=&#34;meta&#34;&gt;# 换行&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Scoop-4&#34;&gt;Scoop&lt;/h2&gt;
+&lt;h3 id=&#34;portable&#34;&gt;portable&lt;/h3&gt;
+&lt;p&gt;我们可以通过创建虚拟链接把 C 盘中的 runtime 数据 -&amp;gt; scoop/persist 内&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;此片段可自动判断 &lt;code&gt;remix-ide / .remix-ipfsnode / .cache_remix_ide&lt;/code&gt; 所在目录是 &lt;code&gt;USERPROFILE / APPDATA&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;并将数据移动到 persist 内,创建虚拟链接&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;需要注意只能是文件夹,不能是文件!!!&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight nsis&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;foreach (&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt; in @(&amp;#x27;remix-ide&amp;#x27;, &amp;#x27;.remix-ipfsnode&amp;#x27;, &amp;#x27;.cache_remix_ide&amp;#x27;)) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;  if (Test-Path \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:USERPROFILE\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:USERPROFILE\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$persist_dir&lt;/span&gt;\\USERPROFILE\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;  &amp;#125; else &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    if (Test-Path \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:APPDATA\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;      &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:APPDATA\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;      &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$persist_dir&lt;/span&gt;\\APPDATA\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    &amp;#125; else &amp;#123;continue&amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;  &amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;  if (Test-Path &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt;) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    Remove-Item &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; -Force -Recurse -ErrorAction SilentlyContinue&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    New-Item -Type Junction -Path &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; -Target &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; | Out-Null&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;  &amp;#125; else &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    mkdir &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    Move-Item &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; -Force&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;    New-Item -Type Junction -Path &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; -Target &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; | Out-Null&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;  &amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;#125;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以及配对的 uninstaller:&lt;/p&gt;
+&lt;figure class=&#34;highlight nsis&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;uninstaller&amp;quot;&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;script&amp;quot;&lt;/span&gt;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;foreach (&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt; in @(&amp;#x27;remix-ide&amp;#x27;, &amp;#x27;.remix-ipfsnode&amp;#x27;, &amp;#x27;.cache_remix_ide&amp;#x27;)) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;  if (Test-Path \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:USERPROFILE\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;    &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:USERPROFILE\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;    &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$persist_dir&lt;/span&gt;\\USERPROFILE\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;  &amp;#125; else &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;    if (Test-Path \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:APPDATA\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;) &amp;#123;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;      &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$env&lt;/span&gt;:APPDATA\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;      &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; = \&amp;quot;&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$persist_dir&lt;/span&gt;\\APPDATA\\&lt;span class=&#34;variable&#34;&gt;$folder&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;    &amp;#125; else &amp;#123;continue&amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;  &amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;  if (!(Test-Path &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt;)) &amp;#123; Move-Item &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;$runtimeCachePersist&lt;/span&gt; -Force -ErrorAction SilentlyContinue &amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;  else &amp;#123; Remove-Item &lt;span class=&#34;variable&#34;&gt;$runtimeCache&lt;/span&gt; -Force -Recurse -ErrorAction SilentlyContinue &amp;#125;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;#125;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;解剖-exe&#34;&gt;解剖-exe&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;此片段可以把常见的 &lt;code&gt;.exe -&amp;gt; .exe#/dl.7z&lt;/code&gt; 中的文件提取出来&lt;/p&gt;
+&lt;figure class=&#34;highlight lsl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;Expand-7zipArchive &lt;span class=&#34;subst&#34;&gt;\&amp;quot;&lt;/span&gt;$dir&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;`$PLUGINSDIR&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;app-64.7z&lt;span class=&#34;subst&#34;&gt;\&amp;quot;&lt;/span&gt; &lt;span class=&#34;subst&#34;&gt;\&amp;quot;&lt;/span&gt;$dir&lt;span class=&#34;subst&#34;&gt;\&amp;quot;&lt;/span&gt;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;Remove-Item -Recurse -Force &lt;span class=&#34;subst&#34;&gt;\&amp;quot;&lt;/span&gt;$dir&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;`$PLUGINSDIR&lt;span class=&#34;subst&#34;&gt;\&amp;quot;&lt;/span&gt;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;判断是否含有某字符串&#34;&gt;判断是否含有某字符串&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如下,可以判断.gitignore 中是否含有 ‘backup’&lt;/p&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;cat &lt;span class=&#34;variable&#34;&gt;%BACKUP_DIR%&lt;/span&gt;\.gitignore | &lt;span class=&#34;built_in&#34;&gt;findstr&lt;/span&gt; backup &amp;gt;&lt;span class=&#34;built_in&#34;&gt;nul&lt;/span&gt; || (&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; backup&amp;gt;&amp;gt; &lt;span class=&#34;variable&#34;&gt;%BACKUP_DIR%&lt;/span&gt;\.gitignore&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;关于目录&#34;&gt;关于目录&lt;/h2&gt;
+&lt;figure class=&#34;highlight bat&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;@&lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; off&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;pwd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; %&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;echo&lt;/span&gt; %~dp0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ cmd /c &amp;quot;d:\Repos\Weidows-projects\Keeper\test.bat&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;/d/Repos/Weidows-projects/Keeper&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d:\Repos\Weidows-projects\Keeper\test.bat&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d:\Repos\Weidows-projects\Keeper\&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表-27&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无…&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="shell" />
+        <category term="powershell" />
+        <updated>2021-11-03T08:37:54.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://weidows.github.io/post/experience/shell/pwsh/</id>
+        <title>🉑pwsh极致专攻</title>
+        <link rel="alternate" href="https://weidows.github.io/post/experience/shell/pwsh/"/>
+        <content type="html">&lt;h1&gt;pwsh 极致专攻&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-04-20 23:48:59
+ * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#pwsh-%E6%9E%81%E8%87%B4%E4%B8%93%E6%94%BB&#34;&gt;pwsh 极致专攻&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A2%84%E8%A7%88&#34;&gt;预览&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE&#34;&gt;环境配置&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6&#34;&gt;安装插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%AF%E7%94%A8%E4%B8%BB%E9%A2%98%E5%8F%8A%E6%8F%92%E4%BB%B6&#34;&gt;启用主题及插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#oh-my-posh&#34;&gt;oh-my-posh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%AF%E7%94%A8%E7%AE%A1%E7%90%86%E5%91%98%E6%A8%A1%E5%BC%8F&#34;&gt;启用管理员模式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;预览&#34;&gt;预览&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GV3nLD.png&#34; alt=&#34;siDz8M1QlGIanE3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;环境配置-3&#34;&gt;环境配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不同于 Windows 自带的 Windows PowerShell,这个 PowerShell(也叫 posh/pwsh) 需要另行安装(百度搜,安装上就行)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;配置环境变量:Path 里面+ &lt;code&gt;D:\Game\Demo\PowerShell\&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果用 VScode 的话,实际上不设置环境变量也行,因为在 VScode 内需要指定 powershell 路径&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scoop 安装全自动,不需要配置.&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;pwsh&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;安装插件&#34;&gt;安装插件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;oh-my-posh&lt;/code&gt; (Posh 增强主题)&lt;/p&gt;
+&lt;figure class=&#34;highlight mathematica&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Install&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Module&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;oh&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;my&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;posh&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVFbWK.png&#34; alt=&#34;20211029164044&#34; /&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;PoshFuck&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;不必在意格式,复制就行&lt;/p&gt;
+&lt;figure class=&#34;highlight reasonml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Set-ExecutionPolicy RemoteSigned&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  iex ((&lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;object&lt;/span&gt; net.webclient).&lt;span class=&#34;constructor&#34;&gt;DownloadString(&amp;#x27;&lt;span class=&#34;params&#34;&gt;https&lt;/span&gt;:&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;raw&lt;/span&gt;.&lt;span class=&#34;params&#34;&gt;githubusercontent&lt;/span&gt;.&lt;span class=&#34;params&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;mattparkes&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;PoShFuck&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;master&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;Install-TheFucker.&lt;span class=&#34;params&#34;&gt;ps1&lt;/span&gt;&amp;#x27;)&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVA1AR.png&#34; alt=&#34;20211029164014&#34; /&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;posh-git&lt;/code&gt; (用于扩展 Posh 里的 Git 自动补全)&lt;/p&gt;
+&lt;figure class=&#34;highlight mathematica&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Install&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Module&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;posh&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVP41Y.png&#34; alt=&#34;20211029163651&#34; /&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;PSReadline&lt;/code&gt; (Windows 自带,可以直接使用)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;预测显示历史命令&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上下左右高级补全&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVLnS6.png&#34; alt=&#34;20210703123813&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;启用主题及插件&#34;&gt;启用主题及插件&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/PowerShell/Microsoft.PowerShell_profile.ps1&#34;&gt;我的配置文件链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;启用主题&lt;/code&gt;: ~/文档/PowerShell/Microsoft.PowerShell_profile.ps1 / $profile 加上以下字段&lt;/p&gt;
+&lt;figure class=&#34;highlight coq&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Import&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;Module&lt;/span&gt; oh-my-posh&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Import&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;Module&lt;/span&gt; posh-git&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Set&lt;/span&gt;-PoshPrompt -Theme powerlevel10k_classic&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Posh中类似Linux形式补全&lt;/code&gt; (按 Tab 自动补,非常实用)&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVLO2m.png&#34; alt=&#34;MouseInc 122640&#34; /&gt;
+&lt;figure class=&#34;highlight mathematica&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Set&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;PSReadlineKeyHandler&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Key&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;Tab&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Function&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;MenuComplete&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Posh-Fuck&lt;/code&gt;,类似&lt;code&gt;Zsh-theFuck&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用法: &lt;code&gt;fuck&lt;/code&gt; / &lt;code&gt;fuck!&lt;/code&gt; / &lt;code&gt;WTF&lt;/code&gt; / &lt;code&gt;Get-Fucked&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight coq&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Import&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;Module&lt;/span&gt; PoShFuck&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;PSReadline&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight mathematica&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;type&#34;&gt;#&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;Enable&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;Prediction&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;History&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Set&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;PSReadLineOption&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;PredictionSource&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;History&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;type&#34;&gt;##&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;Advanced&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;Autocompletion&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;arrow&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;keys&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Set&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;PSReadlineKeyHandler&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Key&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;UpArrow&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Function&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;HistorySearchBackward&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Set&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;PSReadlineKeyHandler&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Key&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;DownArrow&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;Function&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;HistorySearchForward&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个文件实际上是 PowerShell 打开时默认加载的指令集,可以自定义添加命令,如:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;清除打开时的版本信息,在最后一行添加: &lt;code&gt;clear&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;oh-my-posh&#34;&gt;oh-my-posh&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;查看所有主题&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Get-PoshThemes&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用法:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Set-PoshPrompt -Theme xxx&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;启用管理员模式&#34;&gt;启用管理员模式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;作用就是让右键文件时出现管理员权限
+&lt;ul&gt;
+&lt;li&gt;实际上没啥用,并不太推荐使用.&lt;/li&gt;
+&lt;li&gt;这个东西与上面 PowerShell 没啥关系&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight dockerfile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;reg &lt;span class=&#34;keyword&#34;&gt;add&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel&amp;quot;&lt;/span&gt; /v DisableTsx /t REG_DWORD /d 0 /f&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="备忘录" />
+        <category term="shell" />
+        <category term="powershell" />
+        <updated>2020-10-13T15:25:31.000Z</updated>
+    </entry>
+</feed>
