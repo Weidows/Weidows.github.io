@@ -17,7 +17,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:43:39
+ * @LastEditTime: 2022-06-04 00:49:53
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -47,26 +47,27 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
 
 ## 通用
 
-|                   指令                   |                 作用                  |
-| :--------------------------------------: | :-----------------------------------: |
-| `cd path` // `cd ..` // `cd /` // `cd ~` | 进入 指定 // 上层 // 根 // home 目录  |
-|                `Ctrl + L`                |                 清屏                  |
-|                  `exit`                  |                 退出                  |
-|                  `ping`                  |           测试网络通断状态            |
-|                `Ctrl + C`                |             停止当前任务              |
-|                  `exit`                  |            停止任务或终端             |
-|                 `mkdir`                  |              新建文件夹               |
-|            `cp(xcopy)/mv/rm`             |       文件(夹)复制、移动与删除        |
-|               `curl + URL`               |      访问 URL(可加参数,具体百度)      |
-|                  `pwd`                   |            显示当前全路径             |
-|                 `dir/ls`                 |        列出当前目录(样式不同)         |
-|                  `cat`                   |     (按参数格式)输出文件所有内容      |
-|                 `clear`                  |                 清屏                  |
-|                  `echo`                  |          回显,常用作文本输出          |
-|       `shutdown -h now` / `reboot`       |              关机 / 重启              |
-|             `ls \| grep abc`             |  过滤 ls 的输出,只显示含"abc"的内容   |
-|          `ls \| tee [-a] t.log`          | 显示 ls 输出同时[追加]输出到 t.log 里 |
-|                 `mktemp`                 |        临时创建一个 temp 文件         |
+|                   指令                    |                 作用                  |
+| :---------------------------------------: | :-----------------------------------: |
+| `cd path` // `cd ..` // `cd /` // `cd ~`  | 进入 指定 // 上层 // 根 // home 目录  |
+|                `Ctrl + L`                 |                 清屏                  |
+|                  `exit`                   |                 退出                  |
+|                  `ping`                   |           测试网络通断状态            |
+|                `Ctrl + C`                 |             停止当前任务              |
+|                  `exit`                   |            停止任务或终端             |
+|                  `mkdir`                  |              新建文件夹               |
+|             `cp(xcopy)/mv/rm`             |       文件(夹)复制、移动与删除        |
+|               `curl + URL`                |      访问 URL(可加参数,具体百度)      |
+|                   `pwd`                   |            显示当前全路径             |
+|                 `dir/ls`                  |        列出当前目录(样式不同)         |
+|                   `cat`                   |     (按参数格式)输出文件所有内容      |
+|                  `clear`                  |                 清屏                  |
+|                  `echo`                   |          回显,常用作文本输出          |
+|       `shutdown -h now` / `reboot`        |              关机 / 重启              |
+|             `ls \| grep abc`              |  过滤 ls 的输出,只显示含"abc"的内容   |
+|          `ls \| tee [-a] t.log`           | 显示 ls 输出同时[追加]输出到 t.log 里 |
+|                 `mktemp`                  |        临时创建一个 temp 文件         |
+| `zip "A.zip" "folder_A/**" "folder_B/**"` |    压缩多个文件夹或文件到 zip 文件    |
 
 ---
 
