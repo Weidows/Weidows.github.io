@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-13 12:36:20
+ * @LastEditTime: 2022-06-14 21:06:14
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -100,8 +100,8 @@ top_img:
 > 有一些 (比如损失函数, 梯度下降) 隶属于 ML > DL ,所以堆在了 ML 里面
 
 > - 本篇所用到的代码在这: \
->   [👀Code-4-Machine-Learning](../../../public-post/notebook/DL) \
->   [🐳MM-Detection-Colab](../../../public-post/notebook/MM-Detection)
+>   [👩‍❤️‍💋‍👨Code-4-Deep-Learning](../../code/DL) \
+>   [🐳MM-Detection-Colab](../../code/MM-Detection)
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

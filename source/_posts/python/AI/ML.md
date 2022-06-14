@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-21 11:44:36
+ * @LastEditTime: 2022-06-14 21:16:45
  * @FilePath: \Blog-private\source\_posts\python\AI\ML.md
  * @Description:
  * @!: *********************************************************************
@@ -92,7 +92,7 @@ top_img:
 
 ## 代码
 
-> 本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../../public-post/notebook/ML)
+> 本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../code/ML)
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
