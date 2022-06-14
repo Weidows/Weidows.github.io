@@ -10,22 +10,22 @@ cover: https://www.helloimg.com/images/2022/02/27/GVmRzE.png
  * @Author: Weidows
  * @Date: 2020-08-23 20:54:56
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-10 19:25:43
+ * @LastEditTime: 2022-06-09 21:19:15
  * @FilePath: \Blog-private\source\_posts\Java\MOOC-java-FoxAndRabbit.md
 -->
 
-1. [一.简介](#一简介)
-2. [二.代码片段](#二代码片段)
-3. [Animal](#animal)
-4. [Fox](#fox)
-5. [Rabbit](#rabbit)
-6. [Cell](#cell)
-7. [Field](#field)
-8. [Location](#location)
-9. [View](#view)
-10. [FoxAndRabbit](#foxandrabbit)
+- [简介](#简介)
+- [代码片段](#代码片段)
+  - [Animal](#animal)
+  - [Fox](#fox)
+  - [Rabbit](#rabbit)
+  - [Cell](#cell)
+  - [Field](#field)
+  - [Location](#location)
+  - [View](#view)
+  - [FoxAndRabbit](#foxandrabbit)
 
-## 一.简介
+## 简介
 
 由于老师在课程中没给出源代码,有些知识点没有涉及到,需要源码作为参考,但是个人百度谷歌了半天没找到真正所需要的(甚至有人卖...)
 
@@ -34,11 +34,11 @@ cover: https://www.helloimg.com/images/2022/02/27/GVmRzE.png
 
 如果复制代码的话需要改一下 Package 和 import
 
-## 二.代码片段
+## 代码片段
 
 ![目录结构](https://img-blog.csdnimg.cn/20200727081719904.jpg#pic_center)
 
-## Animal
+### Animal
 
 ```java
 /*
@@ -117,7 +117,7 @@ public abstract class Animal {
 }
 ```
 
-## Fox
+### Fox
 
 ```java
 /*
@@ -177,7 +177,7 @@ public class Fox extends Animal implements Cell {
 }
 ```
 
-## Rabbit
+### Rabbit
 
 ```java
 /*
@@ -222,7 +222,7 @@ public class Rabbit extends Animal implements Cell {
 }
 ```
 
-## Cell
+### Cell
 
 ```java
 /*
@@ -252,7 +252,7 @@ public interface Cell {//注意这里不能写成interface class
 }
 ```
 
-## Field
+### Field
 
 ```java
 /*
@@ -373,7 +373,7 @@ public class Field {
 }
 ```
 
-## Location
+### Location
 
 ```java
 /*
@@ -404,7 +404,7 @@ public class Location {
 }
 ```
 
-## View
+### View
 
 ```java
 /*
@@ -458,7 +458,7 @@ public class View extends JPanel {
 }
 ```
 
-## FoxAndRabbit
+### FoxAndRabbit
 
 ```java
 /*

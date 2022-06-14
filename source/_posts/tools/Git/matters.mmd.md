@@ -23,7 +23,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:44:12
+ * @LastEditTime: 2022-06-06 01:20:37
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
@@ -42,6 +42,7 @@ top_img:
     - [缩小仓库体积](#缩小仓库体积)
       - [删除提交记录](#删除提交记录)
       - [分支独立法](#分支独立法)
+    - [拉取子模块](#拉取子模块)
   - [GitHub](#github)
     - [首页绿格子](#首页绿格子)
     - [License 选择](#license-选择)
@@ -315,6 +316,14 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
   再重新拉起一个同名分支 force push
 
 - 这个方法应该更好些,避免删除不必要内容.
+
+---
+
+### 拉取子模块
+
+```
+git submodule update --init --recursive
+```
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

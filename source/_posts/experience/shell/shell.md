@@ -17,7 +17,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-04 00:49:53
+ * @LastEditTime: 2022-06-06 11:16:29
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -33,6 +33,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
   - [CMD/PowerShell](#cmdpowershell)
   - [Linux](#linux)
     - [查杀进程](#查杀进程)
+    - [设置代理](#设置代理)
     - [宝塔](#宝塔)
   - [Git](#git)
   - [Docker](#docker)
@@ -197,6 +198,15 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 > [Linux 命令神器：lsof](https://www.jianshu.com/p/a3aa6b01b2e1)
 
 ---
+
+### 设置代理
+
+```
+export http_proxy=http://192.168.131.1:7890
+export https_proxy=http://192.168.131.1:7890
+```
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ### 宝塔
 

@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-28 23:15:58
+ * @LastEditTime: 2022-06-06 11:00:21
  * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -26,6 +26,7 @@ top_img:
 - [Anaconda-Python-水漂浅探池深浅.](#anaconda-python-水漂浅探池深浅)
   - [简介](#简介)
   - [安装-配置](#安装-配置)
+    - [linux-安装](#linux-安装)
     - [测试](#测试)
     - [配置文件位置](#配置文件位置)
     - [镜像加速-代理](#镜像加速-代理)
@@ -79,6 +80,22 @@ top_img:
   <img src="https://www.helloimg.com/images/2022/02/27/GVSnUD.png" alt="20211002190135" />
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+### linux-安装
+
+linux 中可以通过 官方 shell 或者 AUR 安装, 但是安装后并没有 export 到 PATH,需要一步:
+
+```shell
+sudo cp /opt/anaconda/etc/profile.d/conda.sh /etc/profile.d/
+```
+
+另外这样装上后还会因为目录权限不够,无法安装依赖,需要提权
+
+```shell
+sudo chmod -R 777 /opt/anaconda/
+```
+
+---
 
 ### 测试
 
@@ -165,6 +182,7 @@ top_img:
       bioconda: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
       menpo: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
       pytorch: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+      pytorch-lts: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
       simpleitk: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
     ```
 
@@ -175,6 +193,11 @@ top_img:
 ---
 
 - pip
+
+  ```shell
+  pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
+  pip config set global.index-url https：//pypi.tuna.tsinghua.edu.cn/simple/
+  ```
 
   ```
   [global]

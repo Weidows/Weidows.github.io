@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-30 23:16:13
+ * @LastEditTime: 2022-06-13 12:36:20
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -92,13 +92,16 @@ top_img:
         - 一些辅助功能
           - 打印日志
           - checkpoint / 定时保存
+  - MMDetection3D
 
 {% endpullquote %}
 
 > 由于 DL 是 ML 的子问题, 所以此篇着重写 [🥵 硬啃-Machine-Learning](../ML) 里面涉及甚少的 (解耦) \
 > 有一些 (比如损失函数, 梯度下降) 隶属于 ML > DL ,所以堆在了 ML 里面
 
-> 本篇所用到的代码在这: [👀Code-4-Machine-Learning](../../../public-post/notebook/DL)
+> - 本篇所用到的代码在这: \
+>   [👀Code-4-Machine-Learning](../../../public-post/notebook/DL) \
+>   [🐳MM-Detection-Colab](../../../public-post/notebook/MM-Detection)
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -388,7 +391,7 @@ graph TB
 
 ### 目标检测
 
-#### base-design
+#### 第一阶段-问题与方案
 
 ##### 图像分割
 
@@ -410,9 +413,9 @@ graph TB
 
 ---
 
-#### 优化网络
+#### 第二阶段-优化算法
 
-##### 共享特征与-ROI-Pooling
+##### 共享特征与-RoI-Pooling
 
 对于每个提议框 -> CNN 前传, 有大量重叠提议框(重复的卷积运算), 所以改进为: `全图单次 CNN 前传 -> 全图特征图 -> 根据提议框裁剪预测`
 
@@ -428,17 +431,45 @@ Region Proposal Network
 
 ![](https://www.helloimg.com/images/2022/05/27/Z1a3Gh.png)
 
-##### Faster-RCNN
+---
 
-![](https://www.helloimg.com/images/2022/05/27/Z1Pnqz.png)
+#### Faster-RCNN
 
-与上面网络结合:
+`Faster - Region proposal - CNN` 一个很经典的例子, 应用上面的优化算法网络 <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup>
 
-![](https://www.helloimg.com/images/2022/05/27/Z1aeNq.png)
+> ![](https://www.helloimg.com/images/2022/05/27/Z1Pnqz.png) > ![](https://www.helloimg.com/images/2022/05/27/Z1aeNq.png) > ![](https://www.helloimg.com/images/2022/06/11/ZLwNpK.png)
 
 ---
 
-#### 大体分类
+#### 目标检测划分
+
+可以通过下面三种形式划分 <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup>
+
+{% pullquote mindmap mindmap-md %}
+
+- 目标检测划分
+  - stage
+    - one-stage (单阶段)
+      - RetinaNet
+      - YOLO
+      - FCOS
+      - RepPoints
+    - two-stage (双阶段)
+      - FasterRCNN
+      - CascadeRCNN
+      - LibraRCNN
+      - TridentNet
+  - anchor (锚框)
+    - anchor-based
+      - FasterRCNN
+      - YOLO
+    - anchor-free
+      - FCOS
+  - transformer
+    - DETR
+    - Deformable DETR
+
+{% endpullquote %}
 
 {% tabs 双阶段 %}
 
@@ -474,11 +505,66 @@ Region Proposal Network
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
+### 模型构建流程
+
+现阶段 AI 领域把很多算法模块化了, 提出的新算法大多也是对某一功能模块的改进, 构建一个大型模型可以像是装高达一样挑选合适的算法/网络模块进行组合.
+
+mmdet 就是蛮复杂的, 抽象成了多个功能模块 <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup>, 每个功能模块又有多个实现算法.
+
+![](https://www.helloimg.com/images/2022/06/11/ZLwyeM.png)
+
+![](https://www.helloimg.com/images/2022/06/11/ZL05TP.png)
+
+{% tabs backbone %}
+
+<!-- tab backbone -->
+
+backbone (主干网络) 经常会在预训练模型选取时看到, 作用为`特征提取`, 常见的比如 50 层 ResNet -> R-50
+
+<!-- endtab -->
+
+<!-- tab neck -->
+
+neck 是对 backbone 提取的特征进行融合/增强, 然后传给 head. 常见的 neck 为 FPN (特征金字塔网络)
+
+<!-- endtab -->
+
+<!-- tab enhance -->
+
+> enhance 是即插即用、能够对特征进行增强的模块
+
+<!-- endtab -->
+
+<!-- tab head -->
+
+Head 检测头模块是对模型性能影响最显著的地方, 有框坐标回归和目标分类两个分支
+
+<!-- endtab -->
+
+<!-- tab BBox -->
+
+Bonding Box 是检测头模块的一个分支, 它的作用是对检测结果进行回归, 得到框坐标\
+功能模块有 BBox 分配 (进行正负样本定义或者正负样本分配),采样,编解码,后处理, 以及对应的 loss
+
+<!-- endtab -->
+
+<!-- tab tricks -->
+
+tricks 就是训练/测试的技巧/配置, 大部分的调参工作就是在调整这部分, 比如 batch, Lr, 数据增强等..
+
+<!-- endtab -->
+
+{% endtabs %}
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
 ### 模型训练
 
-MMDetection 基本结构: `依赖 + 模型 + 配置文件 -> Trainable`
+MMDetection 基本结构: `依赖 + [模型] + 数据集 + 配置文件 -> Trainable`
 
-#### COCO-dataset
+#### dataset-COCO
+
+数据集分很多格式, 常见的比如 COCO:
 
 ```python
 dataset_type = 'CocoDataset'
@@ -516,6 +602,18 @@ Learning Rate Scheduler 学习率策略, 常见模型中标注的 `1x 2x`
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
+## MMDetection3D
+
+入门一个技术, 需要大致概览一下, 正巧 MM-Lab 应时发布了教程 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+
+MMDetection3D 依赖于 MMDetection 和 MMSegmentation, 适用于检测和分割 3D 场景下的物体
+
+![](https://www.helloimg.com/images/2022/06/11/ZLvvN9.png)
+
+点云 (point cloud) 数据是通过传感器获取的物体分布场景, 单目 3D 检测
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [42 个激活函数的全面总结](https://mp.weixin.qq.com/s/Um8wAtdxPcVN8ACiVtSgFg)
@@ -523,3 +621,9 @@ Learning Rate Scheduler 学习率策略, 常见模型中标注的 `1x 2x`
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [【深度学习】基础 叁：反向传播算法](https://discover304.top/2021/11/30/2021q4/107-1-dl-back/)
 
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [4 小时入门深度学习+实操 MMDetection 第一课](https://www.bilibili.com/video/BV1ou411k7fD)
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍](https://zhuanlan.zhihu.com/p/478307528)
+
+<a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [一文读懂 Faster RCNN](https://zhuanlan.zhihu.com/p/31426458)
+
+<a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [轻松掌握 MMDetection 整体构建流程(一)](https://zhuanlan.zhihu.com/p/337375549)
