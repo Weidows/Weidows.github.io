@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;office&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2020-12-28T05:49:19.000Z</updated>
+    <category term="面试" />
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="备忘录" />
+    <category term="api" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="ps" />
+    <category term="设计" />
+    <category term="摄影" />
+    <category term="latex" />
+    <category term="vscode" />
+    <category term="butterfly" />
+    <category term="katex" />
+    <category term="math" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="游戏" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="生活" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="anaconda" />
+    <category term="opengl" />
+    <category term="多线程" />
+    <category term="人工智能" />
+    <category term="manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="windows" />
+    <category term="office" />
+    <category term="docker" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="maven" />
+    <category term="git" />
+    <category term="node" />
+    <category term="ubuntu" />
+    <category term="wsl2" />
+    <category term="环境变量" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="tomcat" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="mysql" />
+    <category term="jdbc" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="架构" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="mariadb" />
+    <category term="powershell" />
+    <category term="宝塔面板" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="神经学" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="processing" />
+    <category term="机器学习" />
+    <category term="深度学习" />
+    <category term="doing" />
+    <category term="colab" />
+    <category term="mmdetection" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="seo" />
+    <category term="node.js" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="pjax" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/system/Windows/</id>
+        <title>💢Windows-一些奇怪逸事</title>
+        <link rel="alternate" href="https://weidows.github.io/post/system/Windows/"/>
+        <content type="html">&lt;h1&gt;Windows-一些奇怪逸事&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2020-12-28 13:49:19
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-05-17 17:39:38
+ * @FilePath: \Blog-private\source\_posts\system\Windows.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#windows-%E4%B8%80%E4%BA%9B%E5%A5%87%E6%80%AA%E9%80%B8%E4%BA%8B&#34;&gt;Windows-一些奇怪逸事&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AA%97%E5%8F%A3%E9%80%B8%E5%87%BA&#34;&gt;窗口逸出&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%88%E7%AB%AF&#34;&gt;终端&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F&#34;&gt;打开方式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95%E4%B8%80&#34;&gt;方法一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95%E4%BA%8C&#34;&gt;方法二&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95%E4%B8%89&#34;&gt;方法三&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%87%E6%8D%A2%E8%B7%AF%E5%BE%84&#34;&gt;切换路径&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%8B%E7%BC%A9%E5%8C%85%E5%86%85%E5%AE%B9%E5%BC%82%E5%B8%B8&#34;&gt;压缩包内容异常&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#office-%E5%A5%97%E4%BB%B6&#34;&gt;office-套件&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#diff-office2019-office365&#34;&gt;diff-office2019-office365&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BD%91%E9%A1%B5%E7%89%88-office&#34;&gt;网页版-office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BE%E6%A0%97%E4%B8%8E%E6%8E%A8%E8%8D%90&#34;&gt;举栗与推荐&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#onedrive&#34;&gt;OneDrive&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%93%E4%B8%8D%E5%BC%80&#34;&gt;打不开&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A1%AC%E7%9B%98%E9%94%99%E8%AF%AF&#34;&gt;硬盘错误&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%97%A0%E6%B3%95%E7%99%BB%E9%99%86&#34;&gt;无法登陆&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#onenote&#34;&gt;OneNote&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E7%A7%8D%E8%B7%AF%E5%BE%84&#34;&gt;各种路径&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A2%9C%E8%89%B2%E9%85%8D%E7%BD%AE&#34;&gt;颜色配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#nvidia&#34;&gt;NVIDIA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#amd&#34;&gt;AMD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%BB%A3%E7%90%86%E4%B8%8D%E9%80%9A&#34;&gt;虚拟机代理不通&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB&#34;&gt;数据迁移&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A3%B0%E9%9F%B3%E9%85%8D%E7%BD%AE&#34;&gt;声音配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A9%B1%E5%8A%A8&#34;&gt;驱动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%B7%E7%8B%97&#34;&gt;酷狗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE&#34;&gt;系统设置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#windows-%E9%98%B2%E7%81%AB%E5%A2%99%E9%80%9A%E7%9F%A5&#34;&gt;windows-防火墙通知&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#utools&#34;&gt;utools&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%AA%E5%88%87%E6%9D%BF%E6%89%93%E4%B8%8D%E5%BC%80&#34;&gt;剪切板打不开&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;窗口逸出&#34;&gt;窗口逸出&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之前弄了个副屏,有些应用窗口在副屏中打开&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是,在不装副屏时,那些窗口打开时还是在那个位置,而且摸不到他们没法拖过来…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解决方案&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;kbd&gt;alt&lt;/kbd&gt; + &lt;kbd&gt;Tab&lt;/kbd&gt; 切换到那个窗口.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;kbd&gt;alt&lt;/kbd&gt; + &lt;kbd&gt;space&lt;/kbd&gt; 切出窗口菜单,选择最大化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;=&amp;gt; &lt;code&gt;解决&lt;/code&gt;!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;终端&#34;&gt;终端&lt;/h2&gt;
+&lt;h3 id=&#34;打开方式&#34;&gt;打开方式&lt;/h3&gt;
+&lt;h4 id=&#34;方法一&#34;&gt;方法一&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Windows + R&lt;/code&gt;,输入 cmd,回车就出来了.&lt;/p&gt;
+&lt;h4 id=&#34;方法二&#34;&gt;方法二&lt;/h4&gt;
+&lt;p&gt;在文件夹空白处按住&lt;code&gt;shift + 右键&lt;/code&gt;,会出来&lt;code&gt;在此处打开PowerShell窗口&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVP1ID.png&#34; alt=&#34;20210103142309&#34; /&gt;
+&lt;h4 id=&#34;方法三&#34;&gt;方法三&lt;/h4&gt;
+&lt;p&gt;直接在路径栏中输入 cmd 回车.&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVAaGn.png&#34; alt=&#34;20210103142458&#34; /&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;切换路径&#34;&gt;切换路径&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;秃然一天,发现 cmd 路径无法切换??!!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;百度了一下找到了原因: &lt;a href=&#34;https://blog.csdn.net/weixin_38089515/article/details/76339030&#34;&gt;cmd 下无法切换路径问题&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如下,需要先切换一下盘符…&lt;/p&gt;
+&lt;figure class=&#34;highlight cmd&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;C:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;span class=&#34;title&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Game&lt;/span&gt;\&lt;span class=&#34;title&#34;&gt;Github&lt;/span&gt;\&lt;span class=&#34;title&#34;&gt;Programming&lt;/span&gt;-&lt;span class=&#34;title&#34;&gt;Configuration&lt;/span&gt;\&lt;span class=&#34;title&#34;&gt;lists&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;C&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;C&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;span class=&#34;title&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:\&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;C&lt;/span&gt;:\&lt;span class=&#34;title&#34;&gt;Users&lt;/span&gt;\29845&amp;gt;&lt;span class=&#34;title&#34;&gt;d&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;D&lt;/span&gt;:\&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再次找了一下,发现 powershell 不会遇到这问题,cmd 有另一个方法: 加上 &lt;code&gt;/d&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight livescript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;D:&lt;span class=&#34;string&#34;&gt;\Game\Github\Blog-private&amp;gt;cd&lt;/span&gt; /d C:&lt;span class=&#34;string&#34;&gt;\Users&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;C:&lt;span class=&#34;string&#34;&gt;\Users&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;压缩包内容异常&#34;&gt;压缩包内容异常&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;今天下载了一个压缩包(原本大小 163M,带密码),打开之后是这样：&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVAmah.png&#34; alt=&#34;20210627201846&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;尝试解压,没问我密码,解压出来也是长这样的,我以为是下载时数据传输错误,重新下载了一遍,结果仍然是这样…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是尝试换软件打开压缩包 -&amp;gt; &lt;code&gt;7z&lt;/code&gt;,太对了,正常打开了!(所以应该是系统自带的解压功能有问题)&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVm5Kt.png&#34; alt=&#34;20210627202415&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;office-套件&#34;&gt;office-套件&lt;/h2&gt;
+&lt;h3 id=&#34;diff-office2019-office365&#34;&gt;diff-office2019-office365&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;像是 office2015,office2017,office2019 这种的一般是买电脑时就预装在电脑里的&lt;/p&gt;
+&lt;p&gt;这种是一次性购买激活码(算在买电脑的钱里了),是正版的话可以登录微软账号,把 office2019 绑定到账号上.&lt;/p&gt;
+&lt;p&gt;会更新修复一些 bug 但并不会更新功能,简单讲就是随着电脑购买这个 office 也是买死的.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;office365 是按年续订购买的套餐&lt;/p&gt;
+&lt;p&gt;分为家庭版/个人版/商业版/教育版(需要学校购买),不同版本其中还含有不同价位的套餐&lt;/p&gt;
+&lt;p&gt;根据版本和套餐的不同,office 提供不同的服务(比如 office 桌面应用使用权,5T OneDrive 空间等等)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务性的差别:&lt;/p&gt;
+&lt;p&gt;office2019 锁死在一台电脑上,只有 word,Excel,PowerPoint 等桌面软件的永久使用权,没有云服务.&lt;/p&gt;
+&lt;p&gt;office365 使用权限有订阅期,可提供的权限比 office2019 更多; 根据订阅套餐不同,有的不如 office2019,有的远超 office2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;网页版-office&#34;&gt;网页版-office&lt;/h3&gt;
+&lt;p&gt;网页版 office 任何 Microsoft 账号都可以免费使用,域名也一样: &lt;code&gt;www.office.com&lt;/code&gt; ,但是分为 office 和 office365 两种界面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如下图是 office: &lt;a href=&#34;https://www.office.com/?auth=1&#34;&gt;https://www.office.com/?auth=1&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVALAT.png&#34; alt=&#34;20210704100501&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;office365: &lt;a href=&#34;https://www.office.com/?auth=2&#34;&gt;https://www.office.com/?auth=2&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVAobP.png&#34; alt=&#34;20210704100827&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;举栗与推荐&#34;&gt;举栗与推荐&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我的一个微软账号订阅是 &lt;code&gt;Microsoft Office365 A1&lt;/code&gt; ,就是最普通的教育版,学校通过申请但没购买更高级的服务.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;并没有桌面 office 使用权,只能用上图那种网页版的 (A1 pro 可以用桌面版)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有 1~5T OneDrive 空间(具体多大没试过),上面有管理员管着,账号好坏存亡得看管理员和母账号是否安稳.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://baijiahao.baidu.com/s?id=1629077774897211140&amp;amp;wfr=spider&amp;amp;for=pc&#34;&gt;Office2019 与 office365 有什么区别？有些人还蒙在鼓里！&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://shikey.com/2019/12/24/office365-versions-a1-a1p-e3-etc.html&#34;&gt;OFFICE365 各版本、A1、A1P、E3、E5 等版本科普&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;OneDrive&#34;&gt;OneDrive&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官网下载: &lt;a href=&#34;https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download&#34;&gt;https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;打不开&#34;&gt;打不开&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/343335173&#34;&gt;OneDrive 无法打开的原因&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;硬盘错误&#34;&gt;硬盘错误&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在重分析点缓冲区中的标记无效 0x80071129&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 OneDrive 同步时网咯出了问题,然后这个文件夹就卡 bug 了,尝试过一下方法删除:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;直接删&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;垃圾清理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各种解除占用,文件夹粉碎&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键硬盘 -&amp;gt; 属性 -&amp;gt; 工具 -&amp;gt; 查错 -&amp;gt; 重启 (&lt;a href=&#34;https://blog.csdn.net/COCO56/article/details/108634554&#34;&gt;win10 系统在重分析点缓冲区中的标记无效 的解决方法&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进安全模式删除&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进 PE 删除&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修复模式命令行删除&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通通不行,后来发现 Windows 有自带修复命令,试了试:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.disktool.cn/content-center/command-prompt-check-disk-6540.html&#34;&gt;在 Windows 中使用磁盘修复命令 CHKDSK 检查并修复磁盘错误&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;chkdsk E: /f&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然后会问占用问题,直接输 Y,很快就好了!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;无法登陆&#34;&gt;无法登陆&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们无法连接你。我们似乎无法立即连接到其中一项服务。请稍后再试&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;只要 &lt;a href=&#34;http://login.microsoftonline.com&#34;&gt;login.microsoftonline.com&lt;/a&gt; 经过代理软件了，无论是直连 还是走代理，都会出错 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;里面所说的修改注册表之类的无效, 亲测有效的是在绕过列表里添加此域名:&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;bypass:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;login.microsoftonline.com&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;OneNote&#34;&gt;OneNote&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官网下载: &lt;a href=&#34;https://www.onenote.com/download?omkt=zh-CN&#34;&gt;https://www.onenote.com/download?omkt=zh-CN&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;单独安装的, 不会装上 office 全家桶.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各种路径&#34;&gt;各种路径&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;路径&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;字体&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;~\AppData\Local\Microsoft\Windows\Fonts&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;壁纸/主题&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;~\AppData\Local\Microsoft\Windows\Themes&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;开始菜单&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;C:\ProgramData\Microsoft\Windows\Start Menu\Programs&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;颜色配置&#34;&gt;颜色配置&lt;/h2&gt;
+&lt;p&gt;LSP mode : on&lt;/p&gt;
+&lt;p&gt;改进多次的色板 (HDR:OFF，开了的话色彩很怪&lt;/p&gt;
+&lt;p&gt;离人类默认视角越来越远了。。&lt;/p&gt;
+&lt;h3 id=&#34;NVIDIA&#34;&gt;NVIDIA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt; 前后对比一下 &lt;/summary&gt;
+&lt;hr&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVaEim.png&#34; alt=&#34;1633272756273&#34; /&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GV3431.png&#34; alt=&#34;1633272761799&#34; /&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;面板&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVJ43Q.png&#34; alt=&#34;1633272772176&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;AMD&#34;&gt;AMD&lt;/h3&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVLhYY.png&#34; alt=&#34;20220126193700&#34; /&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;虚拟机代理不通&#34;&gt;虚拟机代理不通&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;win 下开了个虚拟机,本想着让本机代理虚拟机网络,结果不知为什么一直不通:&lt;/p&gt;
+&lt;p&gt;本机能连到虚拟机,但是虚拟机连不到本机,一直 ping 不通&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;那么,有可能是下面这个问题:&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVAUuz.png&#34; alt=&#34;20210805182546&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;坑了好久啊!!!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据迁移&#34;&gt;数据迁移&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;想把电脑里的歌复制进手机里,拿数据线连上了之后复制&lt;/p&gt;
+&lt;p&gt;总是会卡死在某个进度,还得重新开始&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVLQ5T.png&#34; alt=&#34;20211012102328&#34; /&gt;
+&lt;p&gt;一番查找发现是因为歌名有的含有特殊字符&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;跨设备迁移&lt;/code&gt;或者&lt;code&gt;压缩(Win自带)&lt;/code&gt;时文件名无法被正常解析&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这样的话可以试试换个压缩软件 (7z)&lt;/p&gt;
+&lt;p&gt;在电脑上压缩后复制到手机,然后手机解压就可以获取到这种怪名文件了.&lt;/p&gt;
+&lt;p&gt;或者使用一些支持的软件,比如用 Anlink 传输&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;声音配置&#34;&gt;声音配置&lt;/h2&gt;
+&lt;p&gt;关于如何获得动听的声音…&lt;/p&gt;
+&lt;h3 id=&#34;驱动&#34;&gt;驱动&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果你更新了一下驱动或者换了个耳机后,音效不堪入耳,那么检查一下这里是不是 &lt;code&gt;耳机&lt;/code&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVP93A.png&#34; alt=&#34;20211126204114&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;酷狗&#34;&gt;酷狗&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个品牌当然会有很多诟病的地方,但是它的音效增强是在是强,尤其可以全局&lt;/p&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GV4RzT.png&#34; alt=&#34;20211126204303&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统设置&#34;&gt;系统设置&lt;/h3&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/02/27/GVLzdK.png&#34; alt=&#34;20211126204420&#34; /&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;windows-防火墙通知&#34;&gt;windows-防火墙通知&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;关掉防火墙后总是弹出通知让我打开它,没完没了&lt;/p&gt;
+&lt;p&gt;下面两方法亲测无效… 可惜还没找到可行的方法.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.helloimg.com/images/2022/03/12/RFnI9E.png&#34; alt=&#34;RFnI9E.png&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/03/04/GhEgqX.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;https://www.helloimg.com/images/2022/03/04/GhEYPP.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.helloimg.com/images/2022/03/04/GhJ9bP.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;utools&#34;&gt;utools&lt;/h2&gt;
+&lt;h3 id=&#34;剪切板打不开&#34;&gt;剪切板打不开&lt;/h3&gt;
+&lt;p&gt;个人是在重装系统后,恢复数据遇到的此问题&lt;/p&gt;
+&lt;p&gt;删掉里面所欲东西 &lt;code&gt;$env:APPDATA\uTools\clipboard-data\&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&#34;https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表-12&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://github.com/Fndroid/clash_for_windows_pkg/issues/2876&#34;&gt;[Bug]: 开启 clash 后无法登录 onedrive #2876&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="操作系统" />
+        <category term="windows" />
+        <category term="office" />
+        <updated>2020-12-28T05:49:19.000Z</updated>
+    </entry>
+</feed>
