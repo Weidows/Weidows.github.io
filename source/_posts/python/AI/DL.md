@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-14 21:06:14
+ * @LastEditTime: 2022-06-20 12:20:21
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -289,7 +289,7 @@ DL 不像 ML 一样泛泛, 对每种任务有针对性的设计
 
 ### 卷积神经网络-CNN
 
-卷积神经网络(Convolutional Neural Network，CNN), 视觉领域难以撼动的老大
+卷积神经网络(Convolutional Neural Network, CNN), 视觉领域难以撼动的老大
 
 #### what
 
@@ -437,7 +437,9 @@ Region Proposal Network
 
 `Faster - Region proposal - CNN` 一个很经典的例子, 应用上面的优化算法网络 <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup>
 
-> ![](https://www.helloimg.com/images/2022/05/27/Z1Pnqz.png) > ![](https://www.helloimg.com/images/2022/05/27/Z1aeNq.png) > ![](https://www.helloimg.com/images/2022/06/11/ZLwNpK.png)
+> ![](https://www.helloimg.com/images/2022/05/27/Z1Pnqz.png) \
+> ![](https://www.helloimg.com/images/2022/05/27/Z1aeNq.png) \
+> ![](https://www.helloimg.com/images/2022/06/11/ZLwNpK.png)
 
 ---
 
@@ -610,7 +612,15 @@ MMDetection3D 依赖于 MMDetection 和 MMSegmentation, 适用于检测和分割
 
 ![](https://www.helloimg.com/images/2022/06/11/ZLvvN9.png)
 
-点云 (point cloud) 数据是通过传感器获取的物体分布场景, 单目 3D 检测
+### 坐标系
+
+- 深度坐标系 Depth 主要被用于通过深度相机采集的数据集, 大多是室内场景点云检测.
+
+- 激光雷达坐标系 LiDAR, 适用于室外场景点云检测
+
+- 相机坐标系 Camera, 该坐标系在室内室外场景的点云检测均有使用, 代表彩色相机的常用坐标系, 一般用于数据格式的转换. 在多模态或者单目 3D 的检测器中, 相机坐标系是三维点云与二维图像之间的桥梁. <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
+
+三种坐标系构造不同, 但基准点都是物体底部中心点, 不同坐标系可以转换
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -622,8 +632,10 @@ MMDetection3D 依赖于 MMDetection 和 MMSegmentation, 适用于检测和分割
 
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [4 小时入门深度学习+实操 MMDetection 第一课](https://www.bilibili.com/video/BV1ou411k7fD)
 
-<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [带你玩转 3D 检测和分割（一）：MMDetection3D 整体框架介绍](https://zhuanlan.zhihu.com/p/478307528)
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [带你玩转 3D 检测和分割 一：MMDetection3D 整体框架介绍](https://zhuanlan.zhihu.com/p/478307528)
 
 <a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [一文读懂 Faster RCNN](https://zhuanlan.zhihu.com/p/31426458)
 
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [轻松掌握 MMDetection 整体构建流程(一)](https://zhuanlan.zhihu.com/p/337375549)
+
+<a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [带你玩转 3D 检测和分割 （二）：核心组件分析之坐标系和 Box](https://zhuanlan.zhihu.com/p/491614921)

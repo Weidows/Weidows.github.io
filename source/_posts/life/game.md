@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-07 10:19:44
+ * @LastEditTime: 2022-06-15 20:48:21
  * @FilePath: \Blog-private\source\_posts\life\game.md
  * @Description:
  * @!: *********************************************************************
@@ -34,6 +34,8 @@ top_img:
     - [锁帧](#锁帧)
     - [更改物品堆叠数量](#更改物品堆叠数量)
     - [作弊代码](#作弊代码)
+  - [Steam](#steam)
+    - [入库代码](#入库代码)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -111,6 +113,16 @@ top_img:
 |   飞   | fly       |
 |   走   | walk      |
 | 伽马值 | gamma x.x |
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## Steam
+
+### 入库代码
+
+```
+steam://install/xxx
+```
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
