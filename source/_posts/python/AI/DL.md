@@ -4,6 +4,7 @@ password: ""
 tags:
   - 人工智能
   - 深度学习
+  - MMDetection
   - doing
 katex: true
 comments: true
@@ -17,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-20 12:20:21
+ * @LastEditTime: 2022-06-24 02:25:57
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -604,6 +605,13 @@ Learning Rate Scheduler 学习率策略, 常见模型中标注的 `1x 2x`
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
+### 性能衡量
+
+> 目标检测中衡量识别精度的指标是 mAP（mean average precision）。多个类别物体检测中，每一个类别都可以根据 recall(查全率) 和 precision(查准率) 绘制一条曲线(P-R 曲线)，AP 就是该曲线下的面积，mAP 是多个类别 AP 的平均值 <sup id='cite_ref-8'>[\[8\]](#cite_note-8)</sup> \
+> ![](https://www.helloimg.com/images/2022/06/23/ZnHZTz.png)
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
 ## MMDetection3D
 
 入门一个技术, 需要大致概览一下, 正巧 MM-Lab 应时发布了教程 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
@@ -639,3 +647,5 @@ MMDetection3D 依赖于 MMDetection 和 MMSegmentation, 适用于检测和分割
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [轻松掌握 MMDetection 整体构建流程(一)](https://zhuanlan.zhihu.com/p/337375549)
 
 <a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [带你玩转 3D 检测和分割 （二）：核心组件分析之坐标系和 Box](https://zhuanlan.zhihu.com/p/491614921)
+
+<a name='cite_note-8' href='#cite_ref-8'>[8]</a>: [目标检测中的 mAP 是什么含义？](https://www.zhihu.com/question/53405779)

@@ -1,28 +1,37 @@
 ---
-title: 🙌UI平面设计.
+title: 🙌UI-平面设计
 date: 2021-01-30 18:40:45
 password: ""
 tags:
   - 设计
+  - 配色
 cover: https://www.helloimg.com/images/2022/02/27/GV3XR0.png
 top_img:
 ---
+
+# UI-平面设计
 
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2021-01-30 18:40:45
  * @LastEditors: Weidows
- * @LastEditTime: 2021-03-13 17:19:50
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\design\UI-design.md
+ * @LastEditTime: 2022-06-22 00:38:53
+ * @FilePath: \Blog-private\source\_posts\design\UI-design.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [头图设计](#头图设计)
-- [呈现方式](#呈现方式)
-  - [图>字](#图字)
-  - [非标准与留白](#非标准与留白)
+{% pullquote mindmap mindmap-md %}
+
+- [UI-平面设计](#ui-平面设计)
+  - [头图设计](#头图设计)
+  - [呈现方式](#呈现方式)
+    - [图大于字](#图大于字)
+    - [非标准与留白](#非标准与留白)
+  - [配色](#配色)
+
+{% endpullquote %}
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -61,7 +70,7 @@ top_img:
 
 ## 呈现方式
 
-### 图>字
+### 图大于字
 
 - 有些情况下,同样的内容,同样的格式性,图片效果还是会更显著
 
@@ -78,3 +87,13 @@ top_img:
 - 还有留白(padding),下图的留白就不是很好,略小了
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVmiTc.png" alt="20210226173845" />
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 配色
+
+之前自己调整了一个 [vscode 主题](https://vscodethemes.com/?text=weidows), 虽然用了很久了,但总感觉还可以再精进一步
+
+恰逢见到此视频讲解配色,有空修理一番:
+
+{% mmedia "bilibili" "bvid:BV1oV411p7AW" %}

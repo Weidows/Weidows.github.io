@@ -48,9 +48,9 @@ top_img:
 
 预先装上 cuda, cudnn (colab自带)
 
-依赖链: `cuda -> pytorch -> mmcv-full -> mmdet`
+依赖链: `cuda <- pytorch <- mmcv-full <- mmdet`
 
-每一步依赖前面环境的版本, 即使后面能装上也可能不适配, 任何一步有问题都 can't-run
+每一步依赖前面环境的版本, 即使后面能装上也可能不适配, 任何一步有问题都 `can't run`
 
 ![](https://www.helloimg.com/images/2022/06/06/ZtZpOm.png)
 
@@ -98,7 +98,7 @@ top_img:
     Requirement already satisfied: pip in /usr/local/lib/python3.7/dist-packages (21.1.3)
     Collecting pip
       Downloading pip-22.1.2-py3-none-any.whl (2.1 MB)
-    [K     |████████████████████████████████| 2.1 MB 6.8 MB/s 
+    [K     |████████████████████████████████| 2.1 MB 37.1 MB/s 
     [?25hInstalling collected packages: pip
       Attempting uninstall: pip
         Found existing installation: pip 21.1.3
@@ -109,16 +109,16 @@ top_img:
     Looking in links: https://download.pytorch.org/whl/torch_stable.html
     Collecting torch==1.9.0+cu111
       Downloading https://download.pytorch.org/whl/cu111/torch-1.9.0%2Bcu111-cp37-cp37m-linux_x86_64.whl (2041.3 MB)
-    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m60.5 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2041348096 bytes == 0x22be000 @  0x7fa9d42371e7 0x4a3940 0x4a39cc 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c
-    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m48.5 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2551685120 bytes == 0x7bd86000 @  0x7fa9d4238615 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c 0x549576 0x593fce
-    tcmalloc: large alloc 2041348096 bytes == 0x22be000 @  0x7fa9d42371e7 0x4a3940 0x5b438c 0x5b46f7 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x4bcb19 0x59c019 0x595ef6 0x5fbece 0x594b72 0x548cc1 0x51566f 0x593dd7 0x548ae9 0x51566f 0x549576 0x593fce 0x548ae9 0x51566f 0x549576 0x593fce 0x548ae9 0x5127f1
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.0/2.0 GB[0m [31m846.8 kB/s[0m eta [36m0:00:00[0m
+    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m83.9 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2041348096 bytes == 0x25c6000 @  0x7fb296fd21e7 0x4a3940 0x4a39cc 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c
+    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m82.2 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2551685120 bytes == 0x7c08e000 @  0x7fb296fd3615 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c 0x549576 0x593fce
+    tcmalloc: large alloc 2041348096 bytes == 0x25c6000 @  0x7fb296fd21e7 0x4a3940 0x5b438c 0x5b46f7 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x4bcb19 0x59c019 0x595ef6 0x5fbece 0x594b72 0x548cc1 0x51566f 0x593dd7 0x548ae9 0x51566f 0x549576 0x593fce 0x548ae9 0x51566f 0x549576 0x593fce 0x548ae9 0x5127f1
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.0/2.0 GB[0m [31m836.7 kB/s[0m eta [36m0:00:00[0m
     [?25hCollecting torchvision==0.10.0+cu111
       Downloading https://download.pytorch.org/whl/cu111/torchvision-0.10.0%2Bcu111-cp37-cp37m-linux_x86_64.whl (23.2 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m23.2/23.2 MB[0m [31m55.5 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m23.2/23.2 MB[0m [31m19.8 MB/s[0m eta [36m0:00:00[0m
     [?25hRequirement already satisfied: typing-extensions in /usr/local/lib/python3.7/dist-packages (from torch==1.9.0+cu111) (4.1.1)
-    Requirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from torchvision==0.10.0+cu111) (1.21.6)
     Requirement already satisfied: pillow>=5.3.0 in /usr/local/lib/python3.7/dist-packages (from torchvision==0.10.0+cu111) (7.1.2)
+    Requirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from torchvision==0.10.0+cu111) (1.21.6)
     Installing collected packages: torch, torchvision
       Attempting uninstall: torch
         Found existing installation: torch 1.11.0+cu113
@@ -137,17 +137,17 @@ top_img:
     Looking in links: https://download.openmmlab.com/mmcv/dist/cu111/torch1.9.0/index.html
     Collecting mmcv-full
       Downloading https://download.openmmlab.com/mmcv/dist/cu111/torch1.9.0/mmcv_full-1.5.3-cp37-cp37m-manylinux1_x86_64.whl (46.3 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m46.3/46.3 MB[0m [31m6.7 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting yapf
-      Downloading yapf-0.32.0-py2.py3-none-any.whl (190 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m190.2/190.2 kB[0m [31m7.9 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (21.3)
-    Collecting addict
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m46.3/46.3 MB[0m [31m8.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting addict
       Downloading addict-2.4.0-py3-none-any.whl (3.8 kB)
-    Requirement already satisfied: pyyaml in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (3.13)
-    Requirement already satisfied: Pillow in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (7.1.2)
-    Requirement already satisfied: opencv-python>=3 in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (4.1.2.30)
     Requirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (1.21.6)
+    Requirement already satisfied: pyyaml in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (3.13)
+    Requirement already satisfied: opencv-python>=3 in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (4.1.2.30)
+    Collecting yapf
+      Downloading yapf-0.32.0-py2.py3-none-any.whl (190 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m190.2/190.2 kB[0m [31m20.0 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: Pillow in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (7.1.2)
+    Requirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (21.3)
     Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /usr/local/lib/python3.7/dist-packages (from packaging->mmcv-full) (3.0.9)
     Installing collected packages: yapf, addict, mmcv-full
     Successfully installed addict-2.4.0 mmcv-full-1.5.3 yapf-0.32.0
@@ -164,16 +164,16 @@ top_img:
       Downloading model_index-0.1.11-py3-none-any.whl (34 kB)
     Requirement already satisfied: pandas in /usr/local/lib/python3.7/dist-packages (from openmim) (1.3.5)
     Requirement already satisfied: tabulate in /usr/local/lib/python3.7/dist-packages (from openmim) (0.8.9)
+    Requirement already satisfied: pyyaml in /usr/local/lib/python3.7/dist-packages (from model-index->openmim) (3.13)
+    Requirement already satisfied: markdown in /usr/local/lib/python3.7/dist-packages (from model-index->openmim) (3.3.7)
     Collecting ordered-set
       Downloading ordered_set-4.1.0-py3-none-any.whl (7.6 kB)
-    Requirement already satisfied: markdown in /usr/local/lib/python3.7/dist-packages (from model-index->openmim) (3.3.7)
-    Requirement already satisfied: pyyaml in /usr/local/lib/python3.7/dist-packages (from model-index->openmim) (3.13)
-    Requirement already satisfied: python-dateutil>=2.7.3 in /usr/local/lib/python3.7/dist-packages (from pandas->openmim) (2.8.2)
     Requirement already satisfied: numpy>=1.17.3 in /usr/local/lib/python3.7/dist-packages (from pandas->openmim) (1.21.6)
+    Requirement already satisfied: python-dateutil>=2.7.3 in /usr/local/lib/python3.7/dist-packages (from pandas->openmim) (2.8.2)
     Requirement already satisfied: pytz>=2017.3 in /usr/local/lib/python3.7/dist-packages (from pandas->openmim) (2022.1)
     Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.7/dist-packages (from requests->openmim) (2022.6.15)
-    Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /usr/local/lib/python3.7/dist-packages (from requests->openmim) (1.24.3)
     Requirement already satisfied: chardet<4,>=3.0.2 in /usr/local/lib/python3.7/dist-packages (from requests->openmim) (3.0.4)
+    Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /usr/local/lib/python3.7/dist-packages (from requests->openmim) (1.24.3)
     Requirement already satisfied: idna<3,>=2.5 in /usr/local/lib/python3.7/dist-packages (from requests->openmim) (2.10)
     Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.7/dist-packages (from python-dateutil>=2.7.3->pandas->openmim) (1.15.0)
     Requirement already satisfied: importlib-metadata>=4.4 in /usr/local/lib/python3.7/dist-packages (from markdown->model-index->openmim) (4.11.4)
@@ -181,7 +181,7 @@ top_img:
     Requirement already satisfied: zipp>=0.5 in /usr/local/lib/python3.7/dist-packages (from importlib-metadata>=4.4->markdown->model-index->openmim) (3.8.0)
     Building wheels for collected packages: openmim
       Building wheel for openmim (setup.py) ... [?25l[?25hdone
-      Created wheel for openmim: filename=openmim-0.1.6-py2.py3-none-any.whl size=43919 sha256=b83dc60c99fd08e095c3250076bf4c5c34170037e3a2e0c6fc0a09b930f8177b
+      Created wheel for openmim: filename=openmim-0.1.6-py2.py3-none-any.whl size=43919 sha256=4da5d601b4527ed104f9f6821d3c8d898197648313abcbb891328d3a1a7d1baf
       Stored in directory: /root/.cache/pip/wheels/a8/33/de/415150be8f048d1bcfd72c6a452978e71e229ee0769f1752f8
     Successfully built openmim
     Installing collected packages: ordered-set, colorama, model-index, openmim
@@ -190,25 +190,25 @@ top_img:
     [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
     Collecting mmdet
       Downloading mmdet-2.25.0-py3-none-any.whl (1.4 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m27.5 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m60.2 MB/s[0m eta [36m0:00:00[0m
     [?25hCollecting mmsegmentation
       Downloading mmsegmentation-0.25.0-py3-none-any.whl (804 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m805.0/805.0 kB[0m [31m57.7 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: matplotlib in /usr/local/lib/python3.7/dist-packages (from mmdet) (3.2.2)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m805.0/805.0 kB[0m [31m62.9 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: pycocotools in /usr/local/lib/python3.7/dist-packages (from mmdet) (2.0.4)
     Collecting terminaltables
       Downloading terminaltables-3.1.10-py2.py3-none-any.whl (15 kB)
-    Requirement already satisfied: pycocotools in /usr/local/lib/python3.7/dist-packages (from mmdet) (2.0.4)
+    Requirement already satisfied: matplotlib in /usr/local/lib/python3.7/dist-packages (from mmdet) (3.2.2)
     Requirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from mmdet) (1.21.6)
     Requirement already satisfied: six in /usr/local/lib/python3.7/dist-packages (from mmdet) (1.15.0)
-    Requirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from mmsegmentation) (21.3)
     Collecting mmcls>=0.20.1
       Downloading mmcls-0.23.1-py2.py3-none-any.whl (577 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m577.3/577.3 kB[0m [31m47.6 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m577.3/577.3 kB[0m [31m54.3 MB/s[0m eta [36m0:00:00[0m
     [?25hRequirement already satisfied: prettytable in /usr/local/lib/python3.7/dist-packages (from mmsegmentation) (3.3.0)
-    Requirement already satisfied: python-dateutil>=2.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (2.8.2)
-    Requirement already satisfied: kiwisolver>=1.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (1.4.3)
+    Requirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from mmsegmentation) (21.3)
     Requirement already satisfied: cycler>=0.10 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (0.11.0)
     Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (3.0.9)
+    Requirement already satisfied: python-dateutil>=2.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (2.8.2)
+    Requirement already satisfied: kiwisolver>=1.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (1.4.3)
     Requirement already satisfied: importlib-metadata in /usr/local/lib/python3.7/dist-packages (from prettytable->mmsegmentation) (4.11.4)
     Requirement already satisfied: wcwidth in /usr/local/lib/python3.7/dist-packages (from prettytable->mmsegmentation) (0.2.5)
     Requirement already satisfied: typing-extensions in /usr/local/lib/python3.7/dist-packages (from kiwisolver>=1.0.1->matplotlib->mmdet) (4.1.1)
@@ -283,12 +283,12 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
 
     /content
     Cloning into 'mmdetection'...
-    remote: Enumerating objects: 24927, done.[K
-    remote: Counting objects: 100% (11/11), done.[K
-    remote: Compressing objects: 100% (10/10), done.[K
-    remote: Total 24927 (delta 2), reused 9 (delta 1), pack-reused 24916[K
-    Receiving objects: 100% (24927/24927), 37.75 MiB | 16.63 MiB/s, done.
-    Resolving deltas: 100% (17469/17469), done.
+    remote: Enumerating objects: 24969, done.[K
+    remote: Counting objects: 100% (10/10), done.[K
+    remote: Compressing objects: 100% (9/9), done.[K
+    remote: Total 24969 (delta 3), reused 6 (delta 1), pack-reused 24959[K
+    Receiving objects: 100% (24969/24969), 37.76 MiB | 11.27 MiB/s, done.
+    Resolving deltas: 100% (17495/17495), done.
     /content/mmdetection
     
 
@@ -310,12 +310,12 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
 
     /content
     Cloning into 'mmdetection3d'...
-    remote: Enumerating objects: 13225, done.[K
-    remote: Counting objects: 100% (121/121), done.[K
-    remote: Compressing objects: 100% (95/95), done.[K
-    remote: Total 13225 (delta 35), reused 84 (delta 26), pack-reused 13104[K
-    Receiving objects: 100% (13225/13225), 15.93 MiB | 17.90 MiB/s, done.
-    Resolving deltas: 100% (9125/9125), done.
+    remote: Enumerating objects: 13252, done.[K
+    remote: Counting objects: 100% (148/148), done.[K
+    remote: Compressing objects: 100% (116/116), done.[K
+    remote: Total 13252 (delta 44), reused 102 (delta 32), pack-reused 13104[K
+    Receiving objects: 100% (13252/13252), 15.96 MiB | 14.34 MiB/s, done.
+    Resolving deltas: 100% (9134/9134), done.
     /content/mmdetection3d
     Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
     Obtaining file:///content/mmdetection3d
@@ -324,173 +324,176 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
       Downloading lyft_dataset_sdk-0.0.8-py2.py3-none-any.whl (32 kB)
     Collecting networkx<2.3,>=2.2
       Downloading networkx-2.2.zip (1.7 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.7/1.7 MB[0m [31m35.1 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.7/1.7 MB[0m [31m68.0 MB/s[0m eta [36m0:00:00[0m
     [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
     Collecting numba==0.53.0
       Downloading numba-0.53.0-cp37-cp37m-manylinux2014_x86_64.whl (3.4 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.4/3.4 MB[0m [31m87.4 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.4/3.4 MB[0m [31m83.6 MB/s[0m eta [36m0:00:00[0m
     [?25hRequirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (1.21.6)
     Collecting nuscenes-devkit
       Downloading nuscenes_devkit-1.1.9-py3-none-any.whl (312 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m312.6/312.6 kB[0m [31m34.0 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m312.6/312.6 kB[0m [31m35.9 MB/s[0m eta [36m0:00:00[0m
     [?25hCollecting plyfile
       Downloading plyfile-0.7.4-py3-none-any.whl (39 kB)
     Requirement already satisfied: scikit-image in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (0.18.3)
     Requirement already satisfied: tensorboard in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (2.8.0)
     Collecting trimesh<2.35.40,>=2.35.39
       Downloading trimesh-2.35.39.tar.gz (281 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m282.0/282.0 kB[0m [31m31.5 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m282.0/282.0 kB[0m [31m35.0 MB/s[0m eta [36m0:00:00[0m
     [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
     Collecting llvmlite<0.37,>=0.36.0rc1
       Downloading llvmlite-0.36.0-cp37-cp37m-manylinux2010_x86_64.whl (25.3 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m25.3/25.3 MB[0m [31m62.8 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m25.3/25.3 MB[0m [31m60.6 MB/s[0m eta [36m0:00:00[0m
     [?25hRequirement already satisfied: setuptools in /usr/local/lib/python3.7/dist-packages (from numba==0.53.0->mmdet3d==1.0.0rc3) (57.4.0)
     Requirement already satisfied: decorator>=4.3.0 in /usr/local/lib/python3.7/dist-packages (from networkx<2.3,>=2.2->mmdet3d==1.0.0rc3) (4.4.2)
     Requirement already satisfied: scipy in /usr/local/lib/python3.7/dist-packages (from trimesh<2.35.40,>=2.35.39->mmdet3d==1.0.0rc3) (1.4.1)
-    Requirement already satisfied: Pillow>=5.2.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (7.1.2)
+    Requirement already satisfied: scikit-learn>=0.19.2 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.0.2)
     Collecting pyquaternion>=0.9.5
       Downloading pyquaternion-0.9.9-py3-none-any.whl (14 kB)
-    Collecting fire
-      Downloading fire-0.4.0.tar.gz (87 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m87.7/87.7 kB[0m [31m11.7 MB/s[0m eta [36m0:00:00[0m
-    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
-    Requirement already satisfied: matplotlib in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.2.2)
+    Requirement already satisfied: opencv-python>=3.4.2.17 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.1.2.30)
+    Requirement already satisfied: pandas in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.3.5)
     Collecting flake8
       Downloading flake8-4.0.1-py2.py3-none-any.whl (64 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m327.1 kB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: cachetools>=3.1.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.2.4)
-    Requirement already satisfied: tqdm>=4.25.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.64.0)
-    Requirement already satisfied: Shapely>=1.6.4.post2 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.8.2)
-    Requirement already satisfied: opencv-python>=3.4.2.17 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.1.2.30)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m9.5 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: tqdm>=4.25.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.64.0)
+    Requirement already satisfied: matplotlib in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.2.2)
+    Requirement already satisfied: Pillow>=5.2.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (7.1.2)
     Collecting black
       Downloading black-22.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.4 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m66.7 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: scikit-learn>=0.19.2 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.0.2)
-    Requirement already satisfied: pandas in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.3.5)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m71.8 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting fire
+      Downloading fire-0.4.0.tar.gz (87 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m87.7/87.7 kB[0m [31m10.6 MB/s[0m eta [36m0:00:00[0m
+    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
+    Requirement already satisfied: Shapely>=1.6.4.post2 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.8.2)
     Requirement already satisfied: plotly in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (5.5.0)
     Requirement already satisfied: pytest in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.6.4)
-    Requirement already satisfied: descartes in /usr/local/lib/python3.7/dist-packages (from nuscenes-devkit->mmdet3d==1.0.0rc3) (1.1.0)
-    Requirement already satisfied: jupyter in /usr/local/lib/python3.7/dist-packages (from nuscenes-devkit->mmdet3d==1.0.0rc3) (1.0.0)
+    Requirement already satisfied: cachetools>=3.1.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.2.4)
     Requirement already satisfied: pycocotools>=2.0.1 in /usr/local/lib/python3.7/dist-packages (from nuscenes-devkit->mmdet3d==1.0.0rc3) (2.0.4)
+    Requirement already satisfied: jupyter in /usr/local/lib/python3.7/dist-packages (from nuscenes-devkit->mmdet3d==1.0.0rc3) (1.0.0)
+    Requirement already satisfied: descartes in /usr/local/lib/python3.7/dist-packages (from nuscenes-devkit->mmdet3d==1.0.0rc3) (1.1.0)
+    Requirement already satisfied: imageio>=2.3.0 in /usr/local/lib/python3.7/dist-packages (from scikit-image->mmdet3d==1.0.0rc3) (2.4.1)
     Requirement already satisfied: tifffile>=2019.7.26 in /usr/local/lib/python3.7/dist-packages (from scikit-image->mmdet3d==1.0.0rc3) (2021.11.2)
     Requirement already satisfied: PyWavelets>=1.1.1 in /usr/local/lib/python3.7/dist-packages (from scikit-image->mmdet3d==1.0.0rc3) (1.3.0)
-    Requirement already satisfied: imageio>=2.3.0 in /usr/local/lib/python3.7/dist-packages (from scikit-image->mmdet3d==1.0.0rc3) (2.4.1)
-    Requirement already satisfied: tensorboard-plugin-wit>=1.6.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.8.1)
     Requirement already satisfied: google-auth-oauthlib<0.5,>=0.4.1 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (0.4.6)
-    Requirement already satisfied: wheel>=0.26 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (0.37.1)
-    Requirement already satisfied: google-auth<3,>=1.6.3 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.35.0)
-    Requirement already satisfied: requests<3,>=2.21.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (2.23.0)
-    Requirement already satisfied: protobuf>=3.6.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (3.17.3)
     Requirement already satisfied: grpcio>=1.24.3 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.46.3)
-    Requirement already satisfied: werkzeug>=0.11.15 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.0.1)
+    Requirement already satisfied: wheel>=0.26 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (0.37.1)
     Requirement already satisfied: tensorboard-data-server<0.7.0,>=0.6.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (0.6.1)
-    Requirement already satisfied: markdown>=2.6.8 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (3.3.7)
     Requirement already satisfied: absl-py>=0.4 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.1.0)
-    Requirement already satisfied: pyasn1-modules>=0.2.1 in /usr/local/lib/python3.7/dist-packages (from google-auth<3,>=1.6.3->tensorboard->mmdet3d==1.0.0rc3) (0.2.8)
+    Requirement already satisfied: markdown>=2.6.8 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (3.3.7)
+    Requirement already satisfied: protobuf>=3.6.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (3.17.3)
+    Requirement already satisfied: tensorboard-plugin-wit>=1.6.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.8.1)
+    Requirement already satisfied: werkzeug>=0.11.15 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.0.1)
+    Requirement already satisfied: requests<3,>=2.21.0 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (2.23.0)
+    Requirement already satisfied: google-auth<3,>=1.6.3 in /usr/local/lib/python3.7/dist-packages (from tensorboard->mmdet3d==1.0.0rc3) (1.35.0)
     Requirement already satisfied: six>=1.9.0 in /usr/local/lib/python3.7/dist-packages (from google-auth<3,>=1.6.3->tensorboard->mmdet3d==1.0.0rc3) (1.15.0)
+    Requirement already satisfied: pyasn1-modules>=0.2.1 in /usr/local/lib/python3.7/dist-packages (from google-auth<3,>=1.6.3->tensorboard->mmdet3d==1.0.0rc3) (0.2.8)
     Requirement already satisfied: rsa<5,>=3.1.4 in /usr/local/lib/python3.7/dist-packages (from google-auth<3,>=1.6.3->tensorboard->mmdet3d==1.0.0rc3) (4.8)
     Requirement already satisfied: requests-oauthlib>=0.7.0 in /usr/local/lib/python3.7/dist-packages (from google-auth-oauthlib<0.5,>=0.4.1->tensorboard->mmdet3d==1.0.0rc3) (1.3.1)
     Requirement already satisfied: importlib-metadata>=4.4 in /usr/local/lib/python3.7/dist-packages (from markdown>=2.6.8->tensorboard->mmdet3d==1.0.0rc3) (4.11.4)
-    Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.0.9)
     Requirement already satisfied: python-dateutil>=2.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (2.8.2)
-    Requirement already satisfied: cycler>=0.10 in /usr/local/lib/python3.7/dist-packages (from matplotlib->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (0.11.0)
     Requirement already satisfied: kiwisolver>=1.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.4.3)
-    Requirement already satisfied: idna<3,>=2.5 in /usr/local/lib/python3.7/dist-packages (from requests<3,>=2.21.0->tensorboard->mmdet3d==1.0.0rc3) (2.10)
+    Requirement already satisfied: cycler>=0.10 in /usr/local/lib/python3.7/dist-packages (from matplotlib->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (0.11.0)
+    Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.0.9)
     Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.7/dist-packages (from requests<3,>=2.21.0->tensorboard->mmdet3d==1.0.0rc3) (2022.6.15)
-    Requirement already satisfied: chardet<4,>=3.0.2 in /usr/local/lib/python3.7/dist-packages (from requests<3,>=2.21.0->tensorboard->mmdet3d==1.0.0rc3) (3.0.4)
+    Requirement already satisfied: idna<3,>=2.5 in /usr/local/lib/python3.7/dist-packages (from requests<3,>=2.21.0->tensorboard->mmdet3d==1.0.0rc3) (2.10)
     Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /usr/local/lib/python3.7/dist-packages (from requests<3,>=2.21.0->tensorboard->mmdet3d==1.0.0rc3) (1.24.3)
-    Requirement already satisfied: joblib>=0.11 in /usr/local/lib/python3.7/dist-packages (from scikit-learn>=0.19.2->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.1.0)
+    Requirement already satisfied: chardet<4,>=3.0.2 in /usr/local/lib/python3.7/dist-packages (from requests<3,>=2.21.0->tensorboard->mmdet3d==1.0.0rc3) (3.0.4)
     Requirement already satisfied: threadpoolctl>=2.0.0 in /usr/local/lib/python3.7/dist-packages (from scikit-learn>=0.19.2->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.1.0)
-    Collecting platformdirs>=2
-      Downloading platformdirs-2.5.2-py3-none-any.whl (14 kB)
-    Requirement already satisfied: tomli>=1.1.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (2.0.1)
-    Collecting typed-ast>=1.4.2
-      Downloading typed_ast-1.5.4-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (843 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m843.7/843.7 kB[0m [31m58.7 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: typing-extensions>=3.10.0.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.1.1)
-    Collecting pathspec>=0.9.0
-      Downloading pathspec-0.9.0-py2.py3-none-any.whl (31 kB)
-    Collecting mypy-extensions>=0.4.3
-      Downloading mypy_extensions-0.4.3-py2.py3-none-any.whl (4.5 kB)
+    Requirement already satisfied: joblib>=0.11 in /usr/local/lib/python3.7/dist-packages (from scikit-learn>=0.19.2->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.1.0)
     Collecting click>=8.0.0
       Downloading click-8.1.3-py3-none-any.whl (96 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m96.6/96.6 kB[0m [31m13.5 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: termcolor in /usr/local/lib/python3.7/dist-packages (from fire->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.1.0)
-    Collecting mccabe<0.7.0,>=0.6.0
-      Downloading mccabe-0.6.1-py2.py3-none-any.whl (8.6 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m96.6/96.6 kB[0m [31m14.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting mypy-extensions>=0.4.3
+      Downloading mypy_extensions-0.4.3-py2.py3-none-any.whl (4.5 kB)
+    Requirement already satisfied: typing-extensions>=3.10.0.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.1.1)
+    Collecting pathspec>=0.9.0
+      Downloading pathspec-0.9.0-py2.py3-none-any.whl (31 kB)
+    Collecting platformdirs>=2
+      Downloading platformdirs-2.5.2-py3-none-any.whl (14 kB)
+    Collecting typed-ast>=1.4.2
+      Downloading typed_ast-1.5.4-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (843 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m843.7/843.7 kB[0m [31m59.7 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: tomli>=1.1.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (2.0.1)
+    Requirement already satisfied: termcolor in /usr/local/lib/python3.7/dist-packages (from fire->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.1.0)
     Collecting pyflakes<2.5.0,>=2.4.0
       Downloading pyflakes-2.4.0-py2.py3-none-any.whl (69 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m69.7/69.7 kB[0m [31m9.8 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m69.7/69.7 kB[0m [31m10.2 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting pycodestyle<2.9.0,>=2.8.0
+      Downloading pycodestyle-2.8.0-py2.py3-none-any.whl (42 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.1/42.1 kB[0m [31m5.2 MB/s[0m eta [36m0:00:00[0m
     [?25hCollecting flake8
       Downloading flake8-4.0.0-py2.py3-none-any.whl (64 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m8.0 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m8.3 MB/s[0m eta [36m0:00:00[0m
     [?25h  Downloading flake8-3.9.2-py2.py3-none-any.whl (73 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m73.1/73.1 kB[0m [31m10.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting pycodestyle<2.8.0,>=2.7.0
-      Downloading pycodestyle-2.7.0-py2.py3-none-any.whl (41 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m4.6 MB/s[0m eta [36m0:00:00[0m
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m73.1/73.1 kB[0m [31m10.1 MB/s[0m eta [36m0:00:00[0m
     [?25hCollecting pyflakes<2.4.0,>=2.3.0
       Downloading pyflakes-2.3.1-py2.py3-none-any.whl (68 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m68.8/68.8 kB[0m [31m9.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: nbconvert in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.6.1)
-    Requirement already satisfied: ipywidgets in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (7.7.0)
-    Requirement already satisfied: notebook in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.3.1)
-    Requirement already satisfied: ipykernel in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (4.10.1)
-    Requirement already satisfied: jupyter-console in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.2.0)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m68.8/68.8 kB[0m [31m10.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting pycodestyle<2.8.0,>=2.7.0
+      Downloading pycodestyle-2.7.0-py2.py3-none-any.whl (41 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m5.9 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting mccabe<0.7.0,>=0.6.0
+      Downloading mccabe-0.6.1-py2.py3-none-any.whl (8.6 kB)
+    Requirement already satisfied: nbconvert in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.6.1)
     Requirement already satisfied: qtconsole in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.3.1)
+    Requirement already satisfied: jupyter-console in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.2.0)
+    Requirement already satisfied: ipywidgets in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (7.7.0)
+    Requirement already satisfied: ipykernel in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (4.10.1)
+    Requirement already satisfied: notebook in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.3.1)
     Requirement already satisfied: pytz>=2017.3 in /usr/local/lib/python3.7/dist-packages (from pandas->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (2022.1)
     Requirement already satisfied: tenacity>=6.2.0 in /usr/local/lib/python3.7/dist-packages (from plotly->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (8.0.1)
     Requirement already satisfied: attrs>=17.4.0 in /usr/local/lib/python3.7/dist-packages (from pytest->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (21.4.0)
-    Requirement already satisfied: py>=1.5.0 in /usr/local/lib/python3.7/dist-packages (from pytest->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.11.0)
     Requirement already satisfied: more-itertools>=4.0.0 in /usr/local/lib/python3.7/dist-packages (from pytest->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (8.13.0)
+    Requirement already satisfied: py>=1.5.0 in /usr/local/lib/python3.7/dist-packages (from pytest->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.11.0)
     Requirement already satisfied: atomicwrites>=1.0 in /usr/local/lib/python3.7/dist-packages (from pytest->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.4.0)
     Requirement already satisfied: pluggy<0.8,>=0.5 in /usr/local/lib/python3.7/dist-packages (from pytest->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (0.7.1)
     Requirement already satisfied: zipp>=0.5 in /usr/local/lib/python3.7/dist-packages (from importlib-metadata>=4.4->markdown>=2.6.8->tensorboard->mmdet3d==1.0.0rc3) (3.8.0)
     Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /usr/local/lib/python3.7/dist-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.3->tensorboard->mmdet3d==1.0.0rc3) (0.4.8)
     Requirement already satisfied: oauthlib>=3.0.0 in /usr/local/lib/python3.7/dist-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib<0.5,>=0.4.1->tensorboard->mmdet3d==1.0.0rc3) (3.2.0)
-    Requirement already satisfied: ipython>=4.0.0 in /usr/local/lib/python3.7/dist-packages (from ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.5.0)
-    Requirement already satisfied: tornado>=4.0 in /usr/local/lib/python3.7/dist-packages (from ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.1.1)
     Requirement already satisfied: jupyter-client in /usr/local/lib/python3.7/dist-packages (from ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.3.5)
     Requirement already satisfied: traitlets>=4.1.0 in /usr/local/lib/python3.7/dist-packages (from ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.1.1)
-    Requirement already satisfied: ipython-genutils~=0.2.0 in /usr/local/lib/python3.7/dist-packages (from ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.2.0)
-    Requirement already satisfied: nbformat>=4.2.0 in /usr/local/lib/python3.7/dist-packages (from ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.4.0)
+    Requirement already satisfied: tornado>=4.0 in /usr/local/lib/python3.7/dist-packages (from ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.1.1)
+    Requirement already satisfied: ipython>=4.0.0 in /usr/local/lib/python3.7/dist-packages (from ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.5.0)
     Requirement already satisfied: jupyterlab-widgets>=1.0.0 in /usr/local/lib/python3.7/dist-packages (from ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (1.1.0)
+    Requirement already satisfied: nbformat>=4.2.0 in /usr/local/lib/python3.7/dist-packages (from ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.4.0)
+    Requirement already satisfied: ipython-genutils~=0.2.0 in /usr/local/lib/python3.7/dist-packages (from ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.2.0)
     Requirement already satisfied: widgetsnbextension~=3.6.0 in /usr/local/lib/python3.7/dist-packages (from ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (3.6.0)
     Requirement already satisfied: pygments in /usr/local/lib/python3.7/dist-packages (from jupyter-console->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.6.1)
     Requirement already satisfied: prompt-toolkit<2.0.0,>=1.0.0 in /usr/local/lib/python3.7/dist-packages (from jupyter-console->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (1.0.18)
-    Requirement already satisfied: jupyter-core in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (4.10.0)
-    Requirement already satisfied: jinja2>=2.4 in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.11.3)
     Requirement already satisfied: pandocfilters>=1.4.1 in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (1.5.0)
+    Requirement already satisfied: jupyter-core in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (4.10.0)
     Requirement already satisfied: mistune<2,>=0.8.1 in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.8.4)
-    Requirement already satisfied: bleach in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.0.0)
-    Requirement already satisfied: defusedxml in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.7.1)
     Requirement already satisfied: testpath in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.6.0)
     Requirement already satisfied: entrypoints>=0.2.2 in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.4)
+    Requirement already satisfied: bleach in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.0.0)
+    Requirement already satisfied: defusedxml in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.7.1)
+    Requirement already satisfied: jinja2>=2.4 in /usr/local/lib/python3.7/dist-packages (from nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.11.3)
     Requirement already satisfied: Send2Trash in /usr/local/lib/python3.7/dist-packages (from notebook->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (1.8.0)
     Requirement already satisfied: terminado>=0.8.1 in /usr/local/lib/python3.7/dist-packages (from notebook->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.13.3)
     Requirement already satisfied: qtpy>=2.0.1 in /usr/local/lib/python3.7/dist-packages (from qtconsole->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.1.0)
     Requirement already satisfied: pyzmq>=17.1 in /usr/local/lib/python3.7/dist-packages (from qtconsole->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (23.1.0)
-    Requirement already satisfied: pickleshare in /usr/local/lib/python3.7/dist-packages (from ipython>=4.0.0->ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.7.5)
     Requirement already satisfied: simplegeneric>0.8 in /usr/local/lib/python3.7/dist-packages (from ipython>=4.0.0->ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.8.1)
     Requirement already satisfied: pexpect in /usr/local/lib/python3.7/dist-packages (from ipython>=4.0.0->ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (4.8.0)
+    Requirement already satisfied: pickleshare in /usr/local/lib/python3.7/dist-packages (from ipython>=4.0.0->ipykernel->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.7.5)
     Requirement already satisfied: MarkupSafe>=0.23 in /usr/local/lib/python3.7/dist-packages (from jinja2>=2.4->nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.0.1)
-    Requirement already satisfied: fastjsonschema in /usr/local/lib/python3.7/dist-packages (from nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.15.3)
     Requirement already satisfied: jsonschema>=2.6 in /usr/local/lib/python3.7/dist-packages (from nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (4.3.3)
+    Requirement already satisfied: fastjsonschema in /usr/local/lib/python3.7/dist-packages (from nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (2.15.3)
     Requirement already satisfied: wcwidth in /usr/local/lib/python3.7/dist-packages (from prompt-toolkit<2.0.0,>=1.0.0->jupyter-console->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.2.5)
     Requirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from qtpy>=2.0.1->qtconsole->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (21.3)
     Requirement already satisfied: ptyprocess in /usr/local/lib/python3.7/dist-packages (from terminado>=0.8.1->notebook->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.7.0)
     Requirement already satisfied: webencodings in /usr/local/lib/python3.7/dist-packages (from bleach->nbconvert->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.5.1)
-    Requirement already satisfied: importlib-resources>=1.4.0 in /usr/local/lib/python3.7/dist-packages (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.7.1)
     Requirement already satisfied: pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0 in /usr/local/lib/python3.7/dist-packages (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.18.1)
+    Requirement already satisfied: importlib-resources>=1.4.0 in /usr/local/lib/python3.7/dist-packages (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.7.1)
     Building wheels for collected packages: networkx, trimesh, fire
       Building wheel for networkx (setup.py) ... [?25l[?25hdone
-      Created wheel for networkx: filename=networkx-2.2-py2.py3-none-any.whl size=1526923 sha256=3a1dc95a6e5f39427c735c032050c26e76a82b4c21b4e151487782d7c55a07b8
+      Created wheel for networkx: filename=networkx-2.2-py2.py3-none-any.whl size=1526923 sha256=78db1be6fc20922f3580e77e808eafa1d3e65a486412acdb9563916946595371
       Stored in directory: /root/.cache/pip/wheels/49/fb/7f/02c31ca537b34e1073844b733832e4c3a94071d8edda2c0faa
       Building wheel for trimesh (setup.py) ... [?25l[?25hdone
-      Created wheel for trimesh: filename=trimesh-2.35.39-py3-none-any.whl size=324073 sha256=c162370ca1939814aa8009d0edc8cc87e4e30634588880f1ab710b99109717ab
+      Created wheel for trimesh: filename=trimesh-2.35.39-py3-none-any.whl size=324073 sha256=29142163d4899e9eba3c700ea4c47bbdd7b954992e87d68c3003f8a352422bd8
       Stored in directory: /root/.cache/pip/wheels/cb/8d/ba/483fb1c41aa97d67177547c5b380232851007c950f615b1277
       Building wheel for fire (setup.py) ... [?25l[?25hdone
-      Created wheel for fire: filename=fire-0.4.0-py2.py3-none-any.whl size=115942 sha256=419ce959b2696828f7c4e63772727c947521797420865c8134c93a65ecfdd484
+      Created wheel for fire: filename=fire-0.4.0-py2.py3-none-any.whl size=115942 sha256=bf7fdd9c4beb982c2668c3bb8cbcba7f9b8df5fbccc067e369e5553869e63b5b
       Stored in directory: /root/.cache/pip/wheels/8a/67/fb/2e8a12fa16661b9d5af1f654bd199366799740a85c64981226
     Successfully built networkx trimesh fire
     Installing collected packages: mypy-extensions, mccabe, typed-ast, pyquaternion, pyflakes, pycodestyle, plyfile, platformdirs, pathspec, networkx, llvmlite, fire, trimesh, numba, flake8, click, black, lyft_dataset_sdk, nuscenes-devkit, mmdet3d
@@ -668,16 +671,16 @@ show_result_pyplot(model, img, result, score_thr=0.3)
 ```
 
     /content/mmdetection3d
-    --2022-06-20 04:32:06--  https://download.openmmlab.com/mmdetection3d/v1.0.0_models/votenet/votenet_8x8_scannet-3d-18class/votenet_8x8_scannet-3d-18class_20210823_234503-cf8134fa.pth
-    Resolving download.openmmlab.com (download.openmmlab.com)... 47.88.36.72
-    Connecting to download.openmmlab.com (download.openmmlab.com)|47.88.36.72|:443... connected.
+    --2022-06-23 16:57:39--  https://download.openmmlab.com/mmdetection3d/v1.0.0_models/votenet/votenet_8x8_scannet-3d-18class/votenet_8x8_scannet-3d-18class_20210823_234503-cf8134fa.pth
+    Resolving download.openmmlab.com (download.openmmlab.com)... 47.74.197.77
+    Connecting to download.openmmlab.com (download.openmmlab.com)|47.74.197.77|:443... connected.
     HTTP request sent, awaiting response... 200 OK
     Length: 3890927 (3.7M) [application/octet-stream]
     Saving to: ‘checkpoints/votenet_8x8_scannet-3d-18class_20210823_234503-cf8134fa.pth’
     
-    checkpoints/votenet 100%[===================>]   3.71M  12.1MB/s    in 0.3s    
+    checkpoints/votenet 100%[===================>]   3.71M  22.2MB/s    in 0.2s    
     
-    2022-06-20 04:32:07 (12.1 MB/s) - ‘checkpoints/votenet_8x8_scannet-3d-18class_20210823_234503-cf8134fa.pth’ saved [3890927/3890927]
+    2022-06-23 16:57:39 (22.2 MB/s) - ‘checkpoints/votenet_8x8_scannet-3d-18class_20210823_234503-cf8134fa.pth’ saved [3890927/3890927]
     
     
 
@@ -750,21 +753,21 @@ import mmcv
 import matplotlib.pyplot as plt
 
 img = mmcv.imread('kitti_tiny/training/image_2/000073.jpeg')
-plt.figure(figsize=(15, 10))
+plt.figure(figsize=(25, 20))
 plt.imshow(mmcv.bgr2rgb(img))
 plt.show()
 ```
 
-    --2022-06-07 15:40:35--  https://download.openmmlab.com/mmdetection/data/kitti_tiny.zip
-    Resolving download.openmmlab.com (download.openmmlab.com)... 47.252.96.28
-    Connecting to download.openmmlab.com (download.openmmlab.com)|47.252.96.28|:443... connected.
+    --2022-06-23 18:02:38--  https://download.openmmlab.com/mmdetection/data/kitti_tiny.zip
+    Resolving download.openmmlab.com (download.openmmlab.com)... 47.74.197.77
+    Connecting to download.openmmlab.com (download.openmmlab.com)|47.74.197.77|:443... connected.
     HTTP request sent, awaiting response... 200 OK
     Length: 6918271 (6.6M) [application/zip]
     Saving to: ‘kitti_tiny.zip’
     
-    kitti_tiny.zip      100%[===================>]   6.60M  8.72MB/s    in 0.8s    
+    kitti_tiny.zip      100%[===================>]   6.60M  15.2MB/s    in 0.4s    
     
-    2022-06-07 15:40:37 (8.72 MB/s) - ‘kitti_tiny.zip’ saved [6918271/6918271]
+    2022-06-23 18:02:39 (15.2 MB/s) - ‘kitti_tiny.zip’ saved [6918271/6918271]
     
     
 
@@ -1161,13 +1164,13 @@ show_result_pyplot(model, img, result)
 
 import matplotlib.pyplot as plt
 
+plt.figure(figsize=(25, 20))
 plt.imshow(plt.imread('result/kitti_000008/kitti_000008_pred.png'))
-plt.show()
 ```
 
-    --2022-06-20 17:03:37--  https://download.openmmlab.com/mmdetection3d/v1.0.0_models/mvxnet/dv_mvx-fpn_second_secfpn_adamw_2x8_80e_kitti-3d-3class/dv_mvx-fpn_second_secfpn_adamw_2x8_80e_kitti-3d-3class_20210831_060805-83442923.pth
-    Resolving download.openmmlab.com (download.openmmlab.com)... 47.88.36.72
-    Connecting to download.openmmlab.com (download.openmmlab.com)|47.88.36.72|:443... connected.
+    --2022-06-23 18:07:17--  https://download.openmmlab.com/mmdetection3d/v1.0.0_models/mvxnet/dv_mvx-fpn_second_secfpn_adamw_2x8_80e_kitti-3d-3class/dv_mvx-fpn_second_secfpn_adamw_2x8_80e_kitti-3d-3class_20210831_060805-83442923.pth
+    Resolving download.openmmlab.com (download.openmmlab.com)... 47.252.96.28
+    Connecting to download.openmmlab.com (download.openmmlab.com)|47.252.96.28|:443... connected.
     HTTP request sent, awaiting response... 200 OK
     
         The file is already fully retrieved; nothing to do.
@@ -1184,8 +1187,15 @@ plt.show()
     [0m
 
 
+
+
+    <matplotlib.image.AxesImage at 0x7f7100889490>
+
+
+
+
     
-![png](MM-Detection_files/MM-Detection_28_1.png)
+![png](MM-Detection_files/MM-Detection_28_2.png)
     
 
 
@@ -1208,13 +1218,13 @@ plt.show()
 
 import matplotlib.pyplot as plt
 
+plt.figure(figsize=(25, 20))
 plt.imshow(plt.imread('result/n015-2018-07-24-11-22-45+0800__CAM_BACK__1532402927637525/n015-2018-07-24-11-22-45+0800__CAM_BACK__1532402927637525_pred.png'))
-plt.show()
 ```
 
-    --2022-06-20 17:14:10--  https://download.openmmlab.com/mmdetection3d/v0.1.0_models/fcos3d/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d_20210715_235813-4bed5239.pth
-    Resolving download.openmmlab.com (download.openmmlab.com)... 47.88.36.72
-    Connecting to download.openmmlab.com (download.openmmlab.com)|47.88.36.72|:443... connected.
+    --2022-06-23 18:06:22--  https://download.openmmlab.com/mmdetection3d/v0.1.0_models/fcos3d/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d_20210715_235813-4bed5239.pth
+    Resolving download.openmmlab.com (download.openmmlab.com)... 47.74.197.77
+    Connecting to download.openmmlab.com (download.openmmlab.com)|47.74.197.77|:443... connected.
     HTTP request sent, awaiting response... 200 OK
     
         The file is already fully retrieved; nothing to do.
@@ -1227,8 +1237,15 @@ plt.show()
     [0m
 
 
+
+
+    <matplotlib.image.AxesImage at 0x7f7100999a50>
+
+
+
+
     
-![png](MM-Detection_files/MM-Detection_30_1.png)
+![png](MM-Detection_files/MM-Detection_30_2.png)
     
 
 

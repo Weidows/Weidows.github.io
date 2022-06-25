@@ -1,5 +1,5 @@
 ---
-title: 😵‍💫PS中一些小用法
+title: 😵‍💫PS-中一些小用法
 password: ""
 tags:
   - PS
@@ -13,20 +13,20 @@ cover: https://www.helloimg.com/images/2022/02/27/GVai2K.png
 top_img:
 ---
 
-# PS 中一些小用法
+# PS-中一些小用法
 
 <!--
  * @Author: Weidows
  * @Date: 2020-11-29 12:05:07
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:47:27
+ * @LastEditTime: 2022-06-25 02:07:54
  * @FilePath: \Blog-private\source\_posts\design\PS.md
  * @Description:
 -->
 
 {% pullquote mindmap mindmap-md %}
 
-- [PS 中一些小用法](#ps-中一些小用法)
+- [PS-中一些小用法](#ps-中一些小用法)
   - [快捷键](#快捷键)
   - [解锁图层](#解锁图层)
   - [透明背景](#透明背景)

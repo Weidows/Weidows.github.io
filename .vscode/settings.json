@@ -2,5 +2,7 @@
   "java.project.sourcePaths": [
     "source/_posts/public-post/LeetCode/code",
     "source/_posts/public-post/LeetCode"
-  ]
+  ],
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "aiXcoder.showTrayIcon": true
 }
