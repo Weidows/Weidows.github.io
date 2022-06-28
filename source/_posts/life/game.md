@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-15 20:48:21
+ * @LastEditTime: 2022-06-26 17:52:27
  * @FilePath: \Blog-private\source\_posts\life\game.md
  * @Description:
  * @!: *********************************************************************
@@ -36,6 +36,7 @@ top_img:
     - [作弊代码](#作弊代码)
   - [Steam](#steam)
     - [入库代码](#入库代码)
+    - [角色等级上限](#角色等级上限)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -108,11 +109,12 @@ top_img:
 
 ### 作弊代码
 
-|  功能  | 代码      |
-| :----: | :-------- |
-|   飞   | fly       |
-|   走   | walk      |
-| 伽马值 | gamma x.x |
+|       功能       | 代码                                                                                              |
+| :--------------: | :------------------------------------------------------------------------------------------------ |
+|        飞        | fly                                                                                               |
+|        走        | walk                                                                                              |
+|      伽马值      | gamma x.x                                                                                         |
+| S+X 异性植物种子 | bug 原因,只能通过代码获取.. <br> 进此网页<sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup> 搜 seed |
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -124,6 +126,12 @@ top_img:
 steam://install/xxx
 ```
 
+---
+
+### 角色等级上限
+
+> https://tieba.baidu.com/p/7668323181
+
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
 ## 借物表
@@ -133,3 +141,5 @@ steam://install/xxx
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [方舟生存进化系统自带叠加功能设置方法及效果（非模组）【方舟三分钟】](https://www.bilibili.com/video/BV1mf4y1X7na)
 
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [【方舟】告别显卡占用过高造成的卡顿-死机等情况，锁帧教程](https://www.bilibili.com/video/BV14V411z7NY)
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: https://docs.google.com/spreadsheets/d/e/2PACX-1vRBnQSrT5CidPWSbeIT5GK7WWBeYu9Uhu9unEkazAfytljMSe7g7qJSX5rhDtb4zI-kh1TIH2-ZNqAX/pubhtml?gid=0&single=true

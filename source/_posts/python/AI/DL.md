@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-24 02:25:57
+ * @LastEditTime: 2022-06-27 12:02:26
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -520,42 +520,42 @@ mmdet 就是蛮复杂的, 抽象成了多个功能模块 <sup id='cite_ref-6'>[\
 
 {% tabs backbone %}
 
-<!-- tab backbone -->
+  <!-- tab backbone -->
 
-backbone (主干网络) 经常会在预训练模型选取时看到, 作用为`特征提取`, 常见的比如 50 层 ResNet -> R-50
+    backbone (主干网络) 经常会在预训练模型选取时看到, 作用为`特征提取`, 常见的比如 50 层 ResNet -> R-50
 
-<!-- endtab -->
+  <!-- endtab -->
 
-<!-- tab neck -->
+  <!-- tab neck -->
 
-neck 是对 backbone 提取的特征进行融合/增强, 然后传给 head. 常见的 neck 为 FPN (特征金字塔网络)
+    neck 是对 backbone 提取的特征进行融合/增强, 然后传给 head. 常见的 neck 为 FPN (特征金字塔网络)
 
-<!-- endtab -->
+  <!-- endtab -->
 
-<!-- tab enhance -->
+  <!-- tab enhance -->
 
-> enhance 是即插即用、能够对特征进行增强的模块
+    > enhance 是即插即用、能够对特征进行增强的模块
 
-<!-- endtab -->
+  <!-- endtab -->
 
-<!-- tab head -->
+  <!-- tab head -->
 
-Head 检测头模块是对模型性能影响最显著的地方, 有框坐标回归和目标分类两个分支
+    Head 检测头模块是对模型性能影响最显著的地方, 有框坐标回归和目标分类两个分支
 
-<!-- endtab -->
+  <!-- endtab -->
 
-<!-- tab BBox -->
+  <!-- tab BBox -->
 
-Bonding Box 是检测头模块的一个分支, 它的作用是对检测结果进行回归, 得到框坐标\
-功能模块有 BBox 分配 (进行正负样本定义或者正负样本分配),采样,编解码,后处理, 以及对应的 loss
+    Bonding Box 是检测头模块的一个分支, 它的作用是对检测结果进行回归, 得到框坐标\
+    功能模块有 BBox 分配 (进行正负样本定义或者正负样本分配),采样,编解码,后处理, 以及对应的 loss
 
-<!-- endtab -->
+  <!-- endtab -->
 
-<!-- tab tricks -->
+  <!-- tab tricks -->
 
-tricks 就是训练/测试的技巧/配置, 大部分的调参工作就是在调整这部分, 比如 batch, Lr, 数据增强等..
+    tricks 就是训练/测试的技巧/配置, 大部分的调参工作就是在调整这部分, 比如 batch, Lr, 数据增强等..
 
-<!-- endtab -->
+  <!-- endtab -->
 
 {% endtabs %}
 
