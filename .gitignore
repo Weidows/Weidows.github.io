@@ -1,10 +1,10 @@
 .DS_Store
 Thumbs.db
 db.json
-*.log
-*.aux
-*.pdf
-*.gz
+
+scaffolds/LaTeX/test/*
+!*.tex
 
 node_modules
 public
+!scaffolds/slidev/public

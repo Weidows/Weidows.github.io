@@ -1,6 +1,6 @@
 name: Build and Deploy
 
-on: [push] # 触发条件(git 推送时)
+# on: [push] # 触发条件(git 推送时)
 
 jobs:
   build-and-deploy:

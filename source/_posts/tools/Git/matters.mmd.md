@@ -23,7 +23,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-06 01:20:37
+ * @LastEditTime: 2022-06-28 10:41:25
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
@@ -52,6 +52,7 @@ top_img:
       - [checkout](#checkout)
       - [国内时区错位问题](#国内时区错位问题)
     - [JsDelivr-刷新缓存](#jsdelivr-刷新缓存)
+    - [CDN](#cdn)
   - [凭证和权限](#凭证和权限)
     - [问题一](#问题一)
     - [问题二](#问题二)
@@ -410,6 +411,35 @@ git submodule update --init --recursive
   ```
 
   最近测试似乎失效了...
+
+---
+
+### CDN
+
+```console
+# 替代方案, 但是只能缓存 package
+╰─ curl https://unpkg.com/gitalk@1.7.2/dist/gitalk.min.js >null
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  768k    0  768k    0     0   233k      0 --:--:--  0:00:03 --:--:--  233k
+╭─    D:\Repos\Weidows\Blog-private\source\_po 17.6.0     3.313s   ✔  10:29:48  ─╮
+
+
+# 被淦了
+╰─ curl https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js >null
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  768k    0  768k    0     0   240k      0 --:--:--  0:00:03 --:--:--  240k
+╭─    D:\Repos\Weidows\Blog-private\source\_po 17.6.0     3.219s   ✔  10:30:36  ─╮
+
+
+# 目前还能用, 裸连测速最快
+╰─ curl https://fastly.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js >null
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  768k  100  768k    0     0   342k      0  0:00:02  0:00:02 --:--:--  342k
+╭─    D:\Repos\Weidows\Blog-private\source\_po 17.6.0     2.364s   ✔  10:37:48  
+```
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

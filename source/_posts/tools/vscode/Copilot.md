@@ -17,8 +17,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-07-19 22:24:57
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\tools\vscode\Copilot.md
+ * @LastEditTime: 2022-06-29 15:49:50
+ * @FilePath: \Blog-private\source\_posts\tools\vscode\Copilot.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -26,6 +26,7 @@ top_img:
 - [简介](#简介)
 - [对话测试](#对话测试)
 - [代码生成测试](#代码生成测试)
+- [评价](#评价)
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -190,3 +191,13 @@ Copilot: "明月神伤"
   与之相比,我们可以看到,Copilot 是比较高效的,而 TabNine 是比较简单的,但是 Copilot 可以更加精准的预测,而 TabNine 只能预测一个字符
 
   而 Copilot 可以预测一个单词,这也是 Copilot 的优势所在
+
+<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+## 评价
+
+2021.7 进的内测，白嫖到现在，感觉能提升不少效率，它对已知方法的实现或者复现很强，上下文感知也不错，可以顶半个脑子
+
+尤其写 py 时给的提示质量蛮高的，刷 leetcode 基本不用动脑子，它全给写了
+
+另一个很舒服的用途就是写不熟悉的语言时帮助语法提示，用它写下 shell 就明白了，离谱的好用

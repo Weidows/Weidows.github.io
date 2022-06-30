@@ -98,8 +98,8 @@ top_img:
     Requirement already satisfied: pip in /usr/local/lib/python3.7/dist-packages (21.1.3)
     Collecting pip
       Downloading pip-22.1.2-py3-none-any.whl (2.1 MB)
-    [K     |████████████████████████████████| 2.1 MB 37.1 MB/s 
-    [?25hInstalling collected packages: pip
+    [K     |████████████████████████████████| 2.1 MB 37.1 MB/s 
+    [?25hInstalling collected packages: pip
       Attempting uninstall: pip
         Found existing installation: pip 21.1.3
         Uninstalling pip-21.1.3:
@@ -109,14 +109,14 @@ top_img:
     Looking in links: https://download.pytorch.org/whl/torch_stable.html
     Collecting torch==1.9.0+cu111
       Downloading https://download.pytorch.org/whl/cu111/torch-1.9.0%2Bcu111-cp37-cp37m-linux_x86_64.whl (2041.3 MB)
-    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m83.9 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2041348096 bytes == 0x25c6000 @  0x7fb296fd21e7 0x4a3940 0x4a39cc 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c
-    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m82.2 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2551685120 bytes == 0x7c08e000 @  0x7fb296fd3615 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c 0x549576 0x593fce
+    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m83.9 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2041348096 bytes == 0x25c6000 @  0x7fb296fd21e7 0x4a3940 0x4a39cc 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c
+    [2K     [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m2.0/2.0 GB[0m [31m82.2 MB/s[0m eta [36m0:00:01[0mtcmalloc: large alloc 2551685120 bytes == 0x7c08e000 @  0x7fb296fd3615 0x592b76 0x4df71e 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x593dd7 0x511e2c 0x549576 0x593fce 0x548ae9 0x5127f1 0x549576 0x593fce 0x511e2c 0x549576 0x593fce
     tcmalloc: large alloc 2041348096 bytes == 0x25c6000 @  0x7fb296fd21e7 0x4a3940 0x5b438c 0x5b46f7 0x59afff 0x515655 0x549576 0x593fce 0x511e2c 0x549576 0x593fce 0x511e2c 0x549576 0x4bcb19 0x59c019 0x595ef6 0x5fbece 0x594b72 0x548cc1 0x51566f 0x593dd7 0x548ae9 0x51566f 0x549576 0x593fce 0x548ae9 0x51566f 0x549576 0x593fce 0x548ae9 0x5127f1
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.0/2.0 GB[0m [31m836.7 kB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting torchvision==0.10.0+cu111
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.0/2.0 GB[0m [31m836.7 kB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting torchvision==0.10.0+cu111
       Downloading https://download.pytorch.org/whl/cu111/torchvision-0.10.0%2Bcu111-cp37-cp37m-linux_x86_64.whl (23.2 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m23.2/23.2 MB[0m [31m19.8 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: typing-extensions in /usr/local/lib/python3.7/dist-packages (from torch==1.9.0+cu111) (4.1.1)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m23.2/23.2 MB[0m [31m19.8 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: typing-extensions in /usr/local/lib/python3.7/dist-packages (from torch==1.9.0+cu111) (4.1.1)
     Requirement already satisfied: pillow>=5.3.0 in /usr/local/lib/python3.7/dist-packages (from torchvision==0.10.0+cu111) (7.1.2)
     Requirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from torchvision==0.10.0+cu111) (1.21.6)
     Installing collected packages: torch, torchvision
@@ -128,34 +128,34 @@ top_img:
         Found existing installation: torchvision 0.12.0+cu113
         Uninstalling torchvision-0.12.0+cu113:
           Successfully uninstalled torchvision-0.12.0+cu113
-    [31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+    [31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
     torchtext 0.12.0 requires torch==1.11.0, but you have torch 1.9.0+cu111 which is incompatible.
-    torchaudio 0.11.0+cu113 requires torch==1.11.0, but you have torch 1.9.0+cu111 which is incompatible.[0m[31m
-    [0mSuccessfully installed torch-1.9.0+cu111 torchvision-0.10.0+cu111
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
+    torchaudio 0.11.0+cu113 requires torch==1.11.0, but you have torch 1.9.0+cu111 which is incompatible.[0m[31m
+    [0mSuccessfully installed torch-1.9.0+cu111 torchvision-0.10.0+cu111
+    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+    [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
     Looking in links: https://download.openmmlab.com/mmcv/dist/cu111/torch1.9.0/index.html
     Collecting mmcv-full
       Downloading https://download.openmmlab.com/mmcv/dist/cu111/torch1.9.0/mmcv_full-1.5.3-cp37-cp37m-manylinux1_x86_64.whl (46.3 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m46.3/46.3 MB[0m [31m8.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting addict
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m46.3/46.3 MB[0m [31m8.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting addict
       Downloading addict-2.4.0-py3-none-any.whl (3.8 kB)
     Requirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (1.21.6)
     Requirement already satisfied: pyyaml in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (3.13)
     Requirement already satisfied: opencv-python>=3 in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (4.1.2.30)
     Collecting yapf
       Downloading yapf-0.32.0-py2.py3-none-any.whl (190 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m190.2/190.2 kB[0m [31m20.0 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: Pillow in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (7.1.2)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m190.2/190.2 kB[0m [31m20.0 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: Pillow in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (7.1.2)
     Requirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from mmcv-full) (21.3)
     Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /usr/local/lib/python3.7/dist-packages (from packaging->mmcv-full) (3.0.9)
     Installing collected packages: yapf, addict, mmcv-full
     Successfully installed addict-2.4.0 mmcv-full-1.5.3 yapf-0.32.0
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
+    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+    [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
     Collecting openmim
       Downloading openmim-0.1.6.tar.gz (37 kB)
-      Preparing metadata (setup.py) ... [?25l[?25hdone
+      Preparing metadata (setup.py) ... [?25l[?25hdone
     Requirement already satisfied: Click==7.1.2 in /usr/local/lib/python3.7/dist-packages (from openmim) (7.1.2)
     Collecting colorama
       Downloading colorama-0.4.5-py2.py3-none-any.whl (16 kB)
@@ -180,21 +180,21 @@ top_img:
     Requirement already satisfied: typing-extensions>=3.6.4 in /usr/local/lib/python3.7/dist-packages (from importlib-metadata>=4.4->markdown->model-index->openmim) (4.1.1)
     Requirement already satisfied: zipp>=0.5 in /usr/local/lib/python3.7/dist-packages (from importlib-metadata>=4.4->markdown->model-index->openmim) (3.8.0)
     Building wheels for collected packages: openmim
-      Building wheel for openmim (setup.py) ... [?25l[?25hdone
+      Building wheel for openmim (setup.py) ... [?25l[?25hdone
       Created wheel for openmim: filename=openmim-0.1.6-py2.py3-none-any.whl size=43919 sha256=4da5d601b4527ed104f9f6821d3c8d898197648313abcbb891328d3a1a7d1baf
       Stored in directory: /root/.cache/pip/wheels/a8/33/de/415150be8f048d1bcfd72c6a452978e71e229ee0769f1752f8
     Successfully built openmim
     Installing collected packages: ordered-set, colorama, model-index, openmim
     Successfully installed colorama-0.4.5 model-index-0.1.11 openmim-0.1.6 ordered-set-4.1.0
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
+    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+    [0mLooking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
     Collecting mmdet
       Downloading mmdet-2.25.0-py3-none-any.whl (1.4 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m60.2 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting mmsegmentation
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m60.2 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting mmsegmentation
       Downloading mmsegmentation-0.25.0-py3-none-any.whl (804 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m805.0/805.0 kB[0m [31m62.9 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: pycocotools in /usr/local/lib/python3.7/dist-packages (from mmdet) (2.0.4)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m805.0/805.0 kB[0m [31m62.9 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: pycocotools in /usr/local/lib/python3.7/dist-packages (from mmdet) (2.0.4)
     Collecting terminaltables
       Downloading terminaltables-3.1.10-py2.py3-none-any.whl (15 kB)
     Requirement already satisfied: matplotlib in /usr/local/lib/python3.7/dist-packages (from mmdet) (3.2.2)
@@ -202,8 +202,8 @@ top_img:
     Requirement already satisfied: six in /usr/local/lib/python3.7/dist-packages (from mmdet) (1.15.0)
     Collecting mmcls>=0.20.1
       Downloading mmcls-0.23.1-py2.py3-none-any.whl (577 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m577.3/577.3 kB[0m [31m54.3 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: prettytable in /usr/local/lib/python3.7/dist-packages (from mmsegmentation) (3.3.0)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m577.3/577.3 kB[0m [31m54.3 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: prettytable in /usr/local/lib/python3.7/dist-packages (from mmsegmentation) (3.3.0)
     Requirement already satisfied: packaging in /usr/local/lib/python3.7/dist-packages (from mmsegmentation) (21.3)
     Requirement already satisfied: cycler>=0.10 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (0.11.0)
     Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in /usr/local/lib/python3.7/dist-packages (from matplotlib->mmdet) (3.0.9)
@@ -215,8 +215,8 @@ top_img:
     Requirement already satisfied: zipp>=0.5 in /usr/local/lib/python3.7/dist-packages (from importlib-metadata->prettytable->mmsegmentation) (3.8.0)
     Installing collected packages: terminaltables, mmcls, mmsegmentation, mmdet
     Successfully installed mmcls-0.23.1 mmdet-2.25.0 mmsegmentation-0.25.0 terminaltables-3.1.10
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0m
+    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+    [0m
 
 
 ```python
@@ -283,10 +283,10 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
 
     /content
     Cloning into 'mmdetection'...
-    remote: Enumerating objects: 24969, done.[K
-    remote: Counting objects: 100% (10/10), done.[K
-    remote: Compressing objects: 100% (9/9), done.[K
-    remote: Total 24969 (delta 3), reused 6 (delta 1), pack-reused 24959[K
+    remote: Enumerating objects: 24969, done.[K
+    remote: Counting objects: 100% (10/10), done.[K
+    remote: Compressing objects: 100% (9/9), done.[K
+    remote: Total 24969 (delta 3), reused 6 (delta 1), pack-reused 24959[K
     Receiving objects: 100% (24969/24969), 37.76 MiB | 11.27 MiB/s, done.
     Resolving deltas: 100% (17495/17495), done.
     /content/mmdetection
@@ -310,41 +310,41 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
 
     /content
     Cloning into 'mmdetection3d'...
-    remote: Enumerating objects: 13252, done.[K
-    remote: Counting objects: 100% (148/148), done.[K
-    remote: Compressing objects: 100% (116/116), done.[K
-    remote: Total 13252 (delta 44), reused 102 (delta 32), pack-reused 13104[K
+    remote: Enumerating objects: 13252, done.[K
+    remote: Counting objects: 100% (148/148), done.[K
+    remote: Compressing objects: 100% (116/116), done.[K
+    remote: Total 13252 (delta 44), reused 102 (delta 32), pack-reused 13104[K
     Receiving objects: 100% (13252/13252), 15.96 MiB | 14.34 MiB/s, done.
     Resolving deltas: 100% (9134/9134), done.
     /content/mmdetection3d
     Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
     Obtaining file:///content/mmdetection3d
-      Preparing metadata (setup.py) ... [?25l[?25hdone
+      Preparing metadata (setup.py) ... [?25l[?25hdone
     Collecting lyft_dataset_sdk
       Downloading lyft_dataset_sdk-0.0.8-py2.py3-none-any.whl (32 kB)
     Collecting networkx<2.3,>=2.2
       Downloading networkx-2.2.zip (1.7 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.7/1.7 MB[0m [31m68.0 MB/s[0m eta [36m0:00:00[0m
-    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.7/1.7 MB[0m [31m68.0 MB/s[0m eta [36m0:00:00[0m
+    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
     Collecting numba==0.53.0
       Downloading numba-0.53.0-cp37-cp37m-manylinux2014_x86_64.whl (3.4 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.4/3.4 MB[0m [31m83.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (1.21.6)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.4/3.4 MB[0m [31m83.6 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: numpy in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (1.21.6)
     Collecting nuscenes-devkit
       Downloading nuscenes_devkit-1.1.9-py3-none-any.whl (312 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m312.6/312.6 kB[0m [31m35.9 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting plyfile
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m312.6/312.6 kB[0m [31m35.9 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting plyfile
       Downloading plyfile-0.7.4-py3-none-any.whl (39 kB)
     Requirement already satisfied: scikit-image in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (0.18.3)
     Requirement already satisfied: tensorboard in /usr/local/lib/python3.7/dist-packages (from mmdet3d==1.0.0rc3) (2.8.0)
     Collecting trimesh<2.35.40,>=2.35.39
       Downloading trimesh-2.35.39.tar.gz (281 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m282.0/282.0 kB[0m [31m35.0 MB/s[0m eta [36m0:00:00[0m
-    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m282.0/282.0 kB[0m [31m35.0 MB/s[0m eta [36m0:00:00[0m
+    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
     Collecting llvmlite<0.37,>=0.36.0rc1
       Downloading llvmlite-0.36.0-cp37-cp37m-manylinux2010_x86_64.whl (25.3 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m25.3/25.3 MB[0m [31m60.6 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: setuptools in /usr/local/lib/python3.7/dist-packages (from numba==0.53.0->mmdet3d==1.0.0rc3) (57.4.0)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m25.3/25.3 MB[0m [31m60.6 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: setuptools in /usr/local/lib/python3.7/dist-packages (from numba==0.53.0->mmdet3d==1.0.0rc3) (57.4.0)
     Requirement already satisfied: decorator>=4.3.0 in /usr/local/lib/python3.7/dist-packages (from networkx<2.3,>=2.2->mmdet3d==1.0.0rc3) (4.4.2)
     Requirement already satisfied: scipy in /usr/local/lib/python3.7/dist-packages (from trimesh<2.35.40,>=2.35.39->mmdet3d==1.0.0rc3) (1.4.1)
     Requirement already satisfied: scikit-learn>=0.19.2 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.0.2)
@@ -354,17 +354,17 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
     Requirement already satisfied: pandas in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.3.5)
     Collecting flake8
       Downloading flake8-4.0.1-py2.py3-none-any.whl (64 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m9.5 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: tqdm>=4.25.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.64.0)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m9.5 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: tqdm>=4.25.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.64.0)
     Requirement already satisfied: matplotlib in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.2.2)
     Requirement already satisfied: Pillow>=5.2.0 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (7.1.2)
     Collecting black
       Downloading black-22.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.4 MB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m71.8 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting fire
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.4/1.4 MB[0m [31m71.8 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting fire
       Downloading fire-0.4.0.tar.gz (87 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m87.7/87.7 kB[0m [31m10.6 MB/s[0m eta [36m0:00:00[0m
-    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m87.7/87.7 kB[0m [31m10.6 MB/s[0m eta [36m0:00:00[0m
+    [?25h  Preparing metadata (setup.py) ... [?25l[?25hdone
     Requirement already satisfied: Shapely>=1.6.4.post2 in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.8.2)
     Requirement already satisfied: plotly in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (5.5.0)
     Requirement already satisfied: pytest in /usr/local/lib/python3.7/dist-packages (from lyft_dataset_sdk->mmdet3d==1.0.0rc3) (3.6.4)
@@ -403,8 +403,8 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
     Requirement already satisfied: joblib>=0.11 in /usr/local/lib/python3.7/dist-packages (from scikit-learn>=0.19.2->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.1.0)
     Collecting click>=8.0.0
       Downloading click-8.1.3-py3-none-any.whl (96 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m96.6/96.6 kB[0m [31m14.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting mypy-extensions>=0.4.3
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m96.6/96.6 kB[0m [31m14.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting mypy-extensions>=0.4.3
       Downloading mypy_extensions-0.4.3-py2.py3-none-any.whl (4.5 kB)
     Requirement already satisfied: typing-extensions>=3.10.0.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (4.1.1)
     Collecting pathspec>=0.9.0
@@ -413,27 +413,27 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
       Downloading platformdirs-2.5.2-py3-none-any.whl (14 kB)
     Collecting typed-ast>=1.4.2
       Downloading typed_ast-1.5.4-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (843 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m843.7/843.7 kB[0m [31m59.7 MB/s[0m eta [36m0:00:00[0m
-    [?25hRequirement already satisfied: tomli>=1.1.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (2.0.1)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m843.7/843.7 kB[0m [31m59.7 MB/s[0m eta [36m0:00:00[0m
+    [?25hRequirement already satisfied: tomli>=1.1.0 in /usr/local/lib/python3.7/dist-packages (from black->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (2.0.1)
     Requirement already satisfied: termcolor in /usr/local/lib/python3.7/dist-packages (from fire->lyft_dataset_sdk->mmdet3d==1.0.0rc3) (1.1.0)
     Collecting pyflakes<2.5.0,>=2.4.0
       Downloading pyflakes-2.4.0-py2.py3-none-any.whl (69 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m69.7/69.7 kB[0m [31m10.2 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting pycodestyle<2.9.0,>=2.8.0
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m69.7/69.7 kB[0m [31m10.2 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting pycodestyle<2.9.0,>=2.8.0
       Downloading pycodestyle-2.8.0-py2.py3-none-any.whl (42 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.1/42.1 kB[0m [31m5.2 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting flake8
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.1/42.1 kB[0m [31m5.2 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting flake8
       Downloading flake8-4.0.0-py2.py3-none-any.whl (64 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m8.3 MB/s[0m eta [36m0:00:00[0m
-    [?25h  Downloading flake8-3.9.2-py2.py3-none-any.whl (73 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m73.1/73.1 kB[0m [31m10.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting pyflakes<2.4.0,>=2.3.0
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m8.3 MB/s[0m eta [36m0:00:00[0m
+    [?25h  Downloading flake8-3.9.2-py2.py3-none-any.whl (73 kB)
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m73.1/73.1 kB[0m [31m10.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting pyflakes<2.4.0,>=2.3.0
       Downloading pyflakes-2.3.1-py2.py3-none-any.whl (68 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m68.8/68.8 kB[0m [31m10.1 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting pycodestyle<2.8.0,>=2.7.0
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m68.8/68.8 kB[0m [31m10.1 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting pycodestyle<2.8.0,>=2.7.0
       Downloading pycodestyle-2.7.0-py2.py3-none-any.whl (41 kB)
-    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m5.9 MB/s[0m eta [36m0:00:00[0m
-    [?25hCollecting mccabe<0.7.0,>=0.6.0
+    [2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.7/41.7 kB[0m [31m5.9 MB/s[0m eta [36m0:00:00[0m
+    [?25hCollecting mccabe<0.7.0,>=0.6.0
       Downloading mccabe-0.6.1-py2.py3-none-any.whl (8.6 kB)
     Requirement already satisfied: nbconvert in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.6.1)
     Requirement already satisfied: qtconsole in /usr/local/lib/python3.7/dist-packages (from jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.3.1)
@@ -486,13 +486,13 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
     Requirement already satisfied: pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0 in /usr/local/lib/python3.7/dist-packages (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (0.18.1)
     Requirement already satisfied: importlib-resources>=1.4.0 in /usr/local/lib/python3.7/dist-packages (from jsonschema>=2.6->nbformat>=4.2.0->ipywidgets->jupyter->nuscenes-devkit->mmdet3d==1.0.0rc3) (5.7.1)
     Building wheels for collected packages: networkx, trimesh, fire
-      Building wheel for networkx (setup.py) ... [?25l[?25hdone
+      Building wheel for networkx (setup.py) ... [?25l[?25hdone
       Created wheel for networkx: filename=networkx-2.2-py2.py3-none-any.whl size=1526923 sha256=78db1be6fc20922f3580e77e808eafa1d3e65a486412acdb9563916946595371
       Stored in directory: /root/.cache/pip/wheels/49/fb/7f/02c31ca537b34e1073844b733832e4c3a94071d8edda2c0faa
-      Building wheel for trimesh (setup.py) ... [?25l[?25hdone
+      Building wheel for trimesh (setup.py) ... [?25l[?25hdone
       Created wheel for trimesh: filename=trimesh-2.35.39-py3-none-any.whl size=324073 sha256=29142163d4899e9eba3c700ea4c47bbdd7b954992e87d68c3003f8a352422bd8
       Stored in directory: /root/.cache/pip/wheels/cb/8d/ba/483fb1c41aa97d67177547c5b380232851007c950f615b1277
-      Building wheel for fire (setup.py) ... [?25l[?25hdone
+      Building wheel for fire (setup.py) ... [?25l[?25hdone
       Created wheel for fire: filename=fire-0.4.0-py2.py3-none-any.whl size=115942 sha256=bf7fdd9c4beb982c2668c3bb8cbcba7f9b8df5fbccc067e369e5553869e63b5b
       Stored in directory: /root/.cache/pip/wheels/8a/67/fb/2e8a12fa16661b9d5af1f654bd199366799740a85c64981226
     Successfully built networkx trimesh fire
@@ -514,13 +514,13 @@ clone 项目源码库下来, 后面的 `验证/训练` 要用到源码库的配�
         Uninstalling click-7.1.2:
           Successfully uninstalled click-7.1.2
       Running setup.py develop for mmdet3d
-    [31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+    [31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
     openmim 0.1.6 requires Click==7.1.2, but you have click 8.1.3 which is incompatible.
     flask 1.1.4 requires click<8.0,>=5.1, but you have click 8.1.3 which is incompatible.
-    albumentations 0.1.12 requires imgaug<0.2.7,>=0.2.5, but you have imgaug 0.2.9 which is incompatible.[0m[31m
-    [0mSuccessfully installed black-22.3.0 click-8.1.3 fire-0.4.0 flake8-3.9.2 llvmlite-0.36.0 lyft_dataset_sdk-0.0.8 mccabe-0.6.1 mmdet3d-1.0.0rc3 mypy-extensions-0.4.3 networkx-2.2 numba-0.53.0 nuscenes-devkit-1.1.9 pathspec-0.9.0 platformdirs-2.5.2 plyfile-0.7.4 pycodestyle-2.7.0 pyflakes-2.3.1 pyquaternion-0.9.9 trimesh-2.35.39 typed-ast-1.5.4
-    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
-    [0m
+    albumentations 0.1.12 requires imgaug<0.2.7,>=0.2.5, but you have imgaug 0.2.9 which is incompatible.[0m[31m
+    [0mSuccessfully installed black-22.3.0 click-8.1.3 fire-0.4.0 flake8-3.9.2 llvmlite-0.36.0 lyft_dataset_sdk-0.0.8 mccabe-0.6.1 mmdet3d-1.0.0rc3 mypy-extensions-0.4.3 networkx-2.2 numba-0.53.0 nuscenes-devkit-1.1.9 pathspec-0.9.0 platformdirs-2.5.2 plyfile-0.7.4 pycodestyle-2.7.0 pyflakes-2.3.1 pyquaternion-0.9.9 trimesh-2.35.39 typed-ast-1.5.4
+    [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+    [0m
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 
@@ -1133,14 +1133,14 @@ show_result_pyplot(model, img, result)
     /content/mmdetection3d/mmdet3d/models/dense_heads/anchor3d_head.py:85: UserWarning: dir_offset and dir_limit_offset will be depressed and be incorporated into box coder in the future
       'dir_offset and dir_limit_offset will be depressed and be '
     load checkpoint from local path: checkpoints/hv_second_secfpn_6x8_80e_kitti-3d-car_20200620_230238-393f000c.pth
-    [0m/content/mmdetection3d/mmdet3d/models/backbones/mink_resnet.py:10: UserWarning: Please follow `getting_started.md` to install MinkowskiEngine.`
+    [0m/content/mmdetection3d/mmdet3d/models/backbones/mink_resnet.py:10: UserWarning: Please follow `getting_started.md` to install MinkowskiEngine.`
       'Please follow `getting_started.md` to install MinkowskiEngine.`')
     /usr/local/lib/python3.7/dist-packages/mmcv/cnn/bricks/conv_module.py:151: UserWarning: Unnecessary conv bias before batch/instance norm
       'Unnecessary conv bias before batch/instance norm')
     load checkpoint from local path: checkpoints/votenet_16x8_sunrgbd-3d-10class_20210820_162823-bf11f014.pth
     /usr/local/lib/python3.7/dist-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
       return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
-    [0m
+    [0m
 
 #### 多模态点云加图像-3DDetect
 
@@ -1184,7 +1184,7 @@ plt.imshow(plt.imread('result/kitti_000008/kitti_000008_pred.png'))
       return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
     /content/mmdetection3d/mmdet3d/models/fusion_layers/coord_transform.py:35: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
       if 'pcd_rotation' in img_meta else torch.eye(
-    [0m
+    [0m
 
 
 
@@ -1234,7 +1234,7 @@ plt.imshow(plt.imread('result/n015-2018-07-24-11-22-45+0800__CAM_BACK__153240292
     load checkpoint from local path: checkpoints/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d_20210715_235813-4bed5239.pth
     /usr/local/lib/python3.7/dist-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
       return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
-    [0m
+    [0m
 
 
 
@@ -1283,7 +1283,7 @@ plt.imshow(plt.imread('result/n015-2018-07-24-11-22-45+0800__CAM_BACK__153240292
     load checkpoint from local path: checkpoints/pointnet2_ssg_16x2_cosine_200e_scannet_seg-3d-20class_20210514_143644-ee73704a.pth
     /usr/local/lib/python3.7/dist-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
       return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
-    [0m
+    [0m
 
 <a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
 

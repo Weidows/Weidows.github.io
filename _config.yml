@@ -174,7 +174,7 @@ bangumi:
   title: "番 の 表" # 页面的标题
   quote: <h1 align="center">看看又新娶来几个老婆⊙∀⊙！</h1> # 写在页面开头的一段话，支持 html 语法
   show: 1 # 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1
-  loading: # 图片加载完成前的 loading 图片
+  # loading: # 图片加载完成前的 loading 图片
 
 sitemap:
   path: sitemap.xml
@@ -187,13 +187,13 @@ steam:
   path: tags/games.html # 页面路径，默认steamgames/index.html
   title: ⭐️养G场⭐️
   quote: Steam给爷爬!别让我家EPIC误会( # 写在页面开头的一段话
-  tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
+  tab: recent # all或recent, all: 所有游戏, recent: 最近游玩的游戏
   length: 1000
   imgUrl: https://www.helloimg.com/images/2022/02/27/GVP6Mb.gif # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
   # 如果无法访问steam社区的话请使用代理
   proxy:
-    # host: localhost # 代理ip或域名
-    # port: 7890 # 代理端口
+    host: localhost # 代理ip或域名
+    port: 7890 # 代理端口
 
 # 博文压缩 - hexo-neat
 neat_enable: true
@@ -224,6 +224,9 @@ deploy:
   # 不能写成以上那样,git会提交出错!
   - type: git
     repo: git@github.com:Weidows/Weidows.github.io.git
+    branch: main
+  - type: git
+    repo: git@gitee.com:Weidows/Weidows.git
     branch: main
   # - type: baidu_url_submitter
   - type: cjh_google_url_submitter
