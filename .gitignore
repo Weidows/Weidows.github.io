@@ -5,6 +5,7 @@ db.json
 scaffolds/LaTeX/test/*
 !*.tex
 
+.deploy_git
 node_modules
 public
 !scaffolds/slidev/public

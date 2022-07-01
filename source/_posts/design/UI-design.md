@@ -33,7 +33,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 头图设计
 
@@ -66,7 +66,7 @@ top_img:
 
 - 上手时间成本几乎没有,现阶段可以说是最直接有效的解决方案了.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 呈现方式
 
@@ -88,7 +88,7 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVmiTc.png" alt="20210226173845" />
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 配色
 

@@ -91,7 +91,7 @@ language: # 语言, 一般填 'zh-CN'
 timezone: # 时区, 可以不填
 ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 标签外挂
 
@@ -436,7 +436,7 @@ content
 - 引入图片,在 source 里面当路径正确出现图片时,还需要再加一层
 - 因为在 Hexo generate 时会多出现一层路径,需要在 source 里多一个../
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 资源排除
 

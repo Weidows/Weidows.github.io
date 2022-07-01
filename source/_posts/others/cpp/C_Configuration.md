@@ -83,7 +83,7 @@ C/C++编译器好多种(因为编译依赖平台),而且名字起得特别扭,�
 
   它内置了上面提到的 gcc/llvm 等工具,比较大所以库很丰富
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 环境安装
 
@@ -109,7 +109,7 @@ C/C++编译器好多种(因为编译依赖平台),而且名字起得特别扭,�
 
   方法四: `xmake`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 多种运行方式
 
@@ -453,7 +453,7 @@ g++ main.cpp -o main.exe
 
   不过能走到这步的大都可以自行探索了..
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

@@ -21,7 +21,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVJnSE.png
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-30 19:04:02
+ * @LastEditTime: 2022-07-01 12:07:16
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-all.md
 -->
 
@@ -132,7 +132,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
         descr: 社交分享平台
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 各种插件
 
@@ -203,7 +203,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
         quote: "Steam给爷爬!别让我家EPIC误会" # 写在页面开头的一段话,支持html语法
         tab: all # all或recent, all: 所有游戏, recent: 最近游玩的游戏
         length: 1000
-        imgUrl: "https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
+        imgUrl: "https://www.helloimg.com/images/2022/07/01/ZMNK9R.png" # 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空
         proxy: # 如果无法访问steam社区的话请使用代理
           host: # 代理ip或域名
           port: # 代理端口
@@ -476,7 +476,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 {% endtabs %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 一键三连
 
@@ -500,7 +500,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVty2h.png" alt="20201205150401" />
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 自定义渲染注入
 
@@ -560,7 +560,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
   这样注入可能因为渲染位置和时机不对而未生效,需要酌情使用
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 常见问题
 
@@ -602,7 +602,7 @@ lazyload:
 
 - 原理就是让 Pjax 加载完成页面后再让 JS 渲染一遍(但是可能有些局部渲染还是无法生效)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

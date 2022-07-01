@@ -28,7 +28,7 @@ top_img:
 - [代码生成测试](#代码生成测试)
 - [评价](#评价)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 简介
 
@@ -38,7 +38,7 @@ top_img:
 
   > [GitHub Copilot](https://copilot.github.com/)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 对话测试
 
@@ -174,7 +174,7 @@ I: "床前明月光"下一句?
 Copilot: "明月神伤"
 ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 代码生成测试
 
@@ -192,7 +192,7 @@ Copilot: "明月神伤"
 
   而 Copilot 可以预测一个单词,这也是 Copilot 的优势所在
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 评价
 

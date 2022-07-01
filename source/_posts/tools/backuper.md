@@ -26,7 +26,7 @@ top_img:
 - [敏感信息](#敏感信息)
 - [结束](#结束)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## [仓库地址](https://github.com/Weidows-projects/Programming-Configuration)
 
@@ -50,13 +50,13 @@ top_img:
 
   > 装完东西后经常忘记装了什么,比如 [我的环境清单](https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak), 让我回顾装过什么东西简直是不可能 de
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 解决方案
 
 - 以上遇到的问题我们可以借助 `名单备份 & 配置备份` 解决,因为只要知道软件名字和配置,就可以全部恢复
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 实现
 
@@ -100,7 +100,7 @@ top_img:
 
 - 下面开始解析.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 解析
 
@@ -149,7 +149,7 @@ top_img:
   call scoop list > scoop-apps.bak
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 敏感信息
 
@@ -157,7 +157,7 @@ top_img:
 
   > 这时可以在.gitignore 中添加一个目录,用来备份敏感信息.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 结束
 

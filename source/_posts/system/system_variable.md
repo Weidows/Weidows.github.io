@@ -31,7 +31,7 @@ top_img:
 - [Python](#python)
 - [Node.js](#nodejs)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 深入环境变量
 
@@ -41,7 +41,7 @@ top_img:
 
 > 详见[🙌Windows 平台软件包管理器选择-Scoop](../../tools/Scoop)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## JDK
 
@@ -55,7 +55,7 @@ top_img:
 
   - `bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Maven
 
@@ -79,13 +79,13 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVshlQ.png" alt="20210325105220" />
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Git
 
 > 用 Scoop 安装自带环境变量,不用配置.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Python
 
@@ -103,7 +103,7 @@ top_img:
 
   > [👍Anaconda-Python-水漂浅探池深浅.](../../others/python/anaconda)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Node.js
 

@@ -39,7 +39,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
 可以把对应页面的所有图片(一般是 30 张)获取并打包为 zip 文件下载下来
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 使用
 
@@ -52,7 +52,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
 4. 现在可以使用了 => 下载本页面图片 => 全选 => 删除, 这样就导出了!
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 问题
 
@@ -64,7 +64,7 @@ SM.MS 没有提供批量下载回图片的功能,于是写了个小爬虫
 
   > 检查一下网络是否可以正常访问 `i.loli.net` 这个域名,有可能是因为网络原因导致图片未成功加载
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

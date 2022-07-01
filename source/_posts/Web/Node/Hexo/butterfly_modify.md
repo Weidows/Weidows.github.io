@@ -28,7 +28,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVLioP.png
 - [适配 Pjax](#适配-pjax)
 - [优化](#优化)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 魔改滚动条
 

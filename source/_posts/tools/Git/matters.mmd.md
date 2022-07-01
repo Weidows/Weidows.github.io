@@ -62,7 +62,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 实用操作
 
@@ -326,7 +326,7 @@ rebase 变基不会像 squash 那样变更 commit-user 信息,而且 commit 的�
 git submodule update --init --recursive
 ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## GitHub
 
@@ -441,7 +441,7 @@ git submodule update --init --recursive
 ╭─    D:\Repos\Weidows\Blog-private\source\_po 17.6.0     2.364s   ✔  10:37:48  
 ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 凭证和权限
 
@@ -542,7 +542,7 @@ fatal: Need to specify how to reconcile divergent branches.
 
   `更好的办法是换一个Git版本`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

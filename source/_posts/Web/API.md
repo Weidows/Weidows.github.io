@@ -12,13 +12,12 @@ top_img:
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:38:41
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\Web\API.md
+ * @LastEditTime: 2022-07-01 12:06:47
+ * @FilePath: \Blog-private\source\_posts\Web\API.md
 -->
 
 - [My URL 前缀: Gitee && GitHub (旁人没啥用...)](#my-url-前缀-gitee--github-旁人没啥用)
   - [Gitee](#gitee)
-  - [JsDelivr](#jsdelivr)
   - [GitHub](#github)
 - [横屏 API](#横屏-api)
   - [必应壁纸](#必应壁纸)
@@ -50,10 +49,6 @@ top_img:
 - 图/文件: `https://gitee.com/Weidows/Weidows/raw/master/Website/public`
 - 链接: `https://gitee.com/Weidows/Weidows/blob/master`
 - 博客: `https://weidows.gitee.io`
-
-### JsDelivr
-
-- GitHub 图床 CDN: `https://fastly.jsdelivr.net/gh/Weidows/Images/`
 
 ### GitHub
 

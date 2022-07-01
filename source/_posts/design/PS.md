@@ -37,7 +37,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 快捷键
 
@@ -68,7 +68,7 @@ top_img:
   ![20201129121309](https://www.helloimg.com/images/2022/02/27/GVErOM.png)
 - 选中后按 Delete
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 定向变色
 
@@ -84,13 +84,13 @@ top_img:
 
 - 填入目标色即可.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 去水印
 
 > [PS 去水印的方法和技巧](https://zhuanlan.zhihu.com/p/45458379)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 轮廓-图片填充
 
@@ -100,7 +100,7 @@ top_img:
 
   ![](https://www.helloimg.com/images/2022/03/06/Gh21vg.png)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

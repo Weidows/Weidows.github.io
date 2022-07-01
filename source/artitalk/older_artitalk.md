@@ -10,7 +10,7 @@ aside: false
  * @Author: Weidows
  * @Date: 2020-08-25 11:15:06
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-27 02:50:02
+ * @LastEditTime: 2022-07-01 12:07:00
  * @FilePath: \Blog-private\source\artitalk\older_artitalk.md
 -->
 
@@ -24,7 +24,7 @@ new Artitalk({
   shuoPla: 'Weidows想说点啥..',
   motion: 1, //加载动画
   atComment: 1, //评论
-  avatarPla: 'https://fastly.jsdelivr.net/gh/Weidows/Images/img/Avatar/avatar.png',
+  avatarPla: 'https://www.helloimg.com/images/2022/07/01/ZMNK9R.png',
   // bgImg: '',
 })
 </script>

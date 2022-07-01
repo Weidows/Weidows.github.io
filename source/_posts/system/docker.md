@@ -42,7 +42,7 @@ top_img:
 - [命令行执行](#命令行执行)
 - [多数据库管理](#多数据库管理)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 名词引入
 
@@ -78,7 +78,7 @@ top_img:
 > [Docker 三剑客之 docker-machine](https://zhuanlan.zhihu.com/p/93459073) \
 > 这个是用来管理多个 docker 的.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 安装启动
 
@@ -235,7 +235,7 @@ top_img:
   newgrp docker                 #更新docker用户组
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 加速
 
@@ -299,7 +299,7 @@ top_img:
 
 4. [重新载入配置 & 重启 docker](#docker-自启)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## docker 管理
 
@@ -339,7 +339,7 @@ top_img:
 
 - 官网上的版本要比 github 的 tag 慢一些,左下角提示更新可以无视~
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 常用命令
 
@@ -404,7 +404,7 @@ docker update --restart=no <CONTAINER ID>
     docker run -d -p 8088:8088 --name next-terminal --restart always ghcr.io/dushixiang/next-terminal:latest
     ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 多数据库管理
 

@@ -33,7 +33,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 简介
 
@@ -61,7 +61,7 @@ top_img:
 
   所以说一旦涉及 `机器服务`,买付费服务绝对是性价比更高的.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

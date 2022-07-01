@@ -33,7 +33,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 开启-snippet
 
@@ -50,7 +50,7 @@ top_img:
   }
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 入门代码片段
 
@@ -66,13 +66,13 @@ top_img:
     "prefix": "divider",
     "body": [
       "",
-      "<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>",
+      "<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>",
       ""
     ]
   }
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 深入-位置匹配
 
@@ -120,7 +120,7 @@ top_img:
 
   ![](https://www.helloimg.com/images/2022/02/26/GVROC6.png)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

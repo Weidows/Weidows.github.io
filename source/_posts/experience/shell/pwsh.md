@@ -35,7 +35,7 @@ top_img:
 
 ![siDz8M1QlGIanE3](https://www.helloimg.com/images/2022/02/27/GV3nLD.png)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 环境配置
 
@@ -144,7 +144,7 @@ top_img:
 
   - 清除打开时的版本信息,在最后一行添加: `clear`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## oh-my-posh
 
@@ -160,7 +160,7 @@ top_img:
   Set-PoshPrompt -Theme xxx
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 启用管理员模式
 

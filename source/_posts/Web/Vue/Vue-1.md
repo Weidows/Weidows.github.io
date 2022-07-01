@@ -32,7 +32,7 @@ top_img:
   - [状态管理](#状态管理)
   - [Vue-UI](#vue-ui)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 前端分离
 
@@ -75,7 +75,7 @@ top_img:
 - JQuery->Ajax
 - Vue->axios
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Vue 简析
 

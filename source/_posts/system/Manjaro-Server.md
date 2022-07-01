@@ -66,7 +66,7 @@ top_img:
 
   - 有的系统不带 root 账户,有的不开放.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 启用 ssh 服务
 
@@ -105,7 +105,7 @@ top_img:
 
   - Windows 上那个位置就是`C:\Users\你的用户名\.ssh`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 换源
 
@@ -157,7 +157,7 @@ sudo pacman-mirrors -i -c China -m rank
   pacman -Syyu
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 配置 docker
 
@@ -173,7 +173,7 @@ sudo pacman-mirrors -i -c China -m rank
 sudo pacman -S docker
 ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 更新失败
 
@@ -204,7 +204,7 @@ sudo pacman -S docker
 
 - 然后复制进 console 执行->再次更新->成功!
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 虚拟机代理
 

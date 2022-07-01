@@ -54,7 +54,7 @@ top_img:
 
 - 网上找了找,并不是能很顺畅的捅下来 (因为依赖项比较杂)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Python
 
@@ -84,7 +84,7 @@ pip uninstall pyopengl
 pip install PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl
 ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ### 测试
 
@@ -116,7 +116,7 @@ glutMainLoop()
 
 [实例代码](../../../python/杂#opengl)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## C
 

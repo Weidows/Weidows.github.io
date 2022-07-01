@@ -54,7 +54,7 @@ top_img:
 
 3. 严格统一格式,不然以后重构时复杂度极其之高,甚至比写的时候还难; `食之无味,弃之可惜`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 基本的
 
@@ -128,7 +128,7 @@ top_img:
   -a---        2021/11/25      0:09           1168   package.json
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 新奇写法
 
@@ -262,7 +262,7 @@ top_img:
   </h1>
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 文字样式
 
@@ -273,7 +273,7 @@ top_img:
 |  `标识字`  | \`标识字`            |
 | ~~中划线~~ | \~~中划线~~          |
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## HTML 标签
 
@@ -407,7 +407,7 @@ top_img:
   | 列 1 <br> 列 1.1 | 列 2 <br> 列 2.1 | 列 3 <br> 列 3.1 |
   | 列 1 <br> 列 1.2 | 列 2 <br> 列 2.2 | 列 3 <br> 列 3.2 |
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

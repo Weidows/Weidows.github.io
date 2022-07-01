@@ -24,14 +24,14 @@ cover: https://www.helloimg.com/images/2022/02/27/GVEVrP.png
 - [GitHub-Action](#github-action)
 - [新经验](#新经验)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 冒号 :
 
 - yaml 元素标签后加个冒号表示结束,这俩要紧挨着,但是与冒号后跟着的值要空出一个空格
   这样 `keyword: value`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 连字符(减号) -
 
@@ -42,7 +42,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVEVrP.png
 ```
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 单引号 '
 
@@ -63,7 +63,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVEVrP.png
   ```
 - 这种任务 uses 与 run 不能共存,可以有 with...
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 新经验
 

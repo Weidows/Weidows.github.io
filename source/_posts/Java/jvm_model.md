@@ -37,7 +37,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVadev.png
 
   > [Java 多态之 Father f=new Son();](https://www.cnblogs.com/zxcoder/p/12250210.html)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## JVM 内存模型
 
@@ -121,7 +121,7 @@ e.getInfo();
 - StackOverflow
 - OutOfMemory
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 深浅-clone
 

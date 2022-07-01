@@ -47,7 +47,7 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GV4SqX.png" alt="20210202144325" />
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 换源
 
@@ -55,7 +55,7 @@ top_img:
 
 - 安装系统过程中就有换源选项.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 配置静态 IP
 
@@ -133,7 +133,7 @@ top_img:
 
 - 然后应用`sudo netplan apply`设置,完事!
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 软件备份
 

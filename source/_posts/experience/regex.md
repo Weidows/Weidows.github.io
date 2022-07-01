@@ -44,7 +44,7 @@ top_img:
 
   https://regexlearn.com/zh-cn
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## fix-记录
 
@@ -60,7 +60,7 @@ top_img:
   |          ` *(.*)`           |                            至少 1 个空格+至少 1 个任意字符                             |
   |           ` *\n?`           | 至少 1 个空格+可有可无换行 <br> 错误原因就是此,我习惯 trim 行尾的空格,所以无法正常匹配 |
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## regex-多对多替换
 
@@ -133,7 +133,7 @@ top_img:
   done
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## vscode-批量替换
 
@@ -166,7 +166,7 @@ Screenshot_\d+_\d+_tv.danmaku.bili`
 
 2. categories:\n((.)+-(.)+\n)+tags:\n((.)+-(.)+\n)+
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## sed-替换反斜杠
 
@@ -180,7 +180,7 @@ Screenshot_\d+_\d+_tv.danmaku.bili`
 
   `sed -i "s#/#\\/#g" result.txt`
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

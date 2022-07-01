@@ -114,7 +114,7 @@ top_img:
 
 - 这个可以结合 GitHub Action,实现自动发布.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 结合 GitHub
 
@@ -135,7 +135,7 @@ top_img:
 
   - 把项目中引用的图片放在 GitHub 上,通过 `.vscodeignore` 文件排除插件需要打包的内容(图片)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 剖析 package.json
 
@@ -255,7 +255,7 @@ top_img:
   }
   ```
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 文章推荐
 

@@ -31,7 +31,7 @@ top_img:
 
 也提供了 notebook 形式: [代码地址](https://github.com/Weidows-projects/public-post/blob/main/notebook/DL/DL.ipynb)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 
 ## 神经网络
@@ -81,11 +81,10 @@ print(XOR(0, 1), XOR(1, 1), XOR(0, 0), XOR(1, 0))
     0 1 1 0
     1 0 1 0
     1 0 0 1
-    
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 
 暂无..
-

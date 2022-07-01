@@ -30,7 +30,7 @@ top_img:
   - [VScode-ssh-断开连接](#vscode-ssh-断开连接)
 - [TCP 保活](#tcp-保活)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 手动挡
 
@@ -89,7 +89,7 @@ top_img:
 
 - 测试完成,两机处于连通状态!
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 自动挡
 
@@ -99,7 +99,7 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVPzcT.png" alt="20201203113101" />
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ### VScode 连接
 
@@ -130,7 +130,7 @@ top_img:
 
 - 打开输入对应用户的密码就可以登录了.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 存在の问题
 
@@ -158,7 +158,7 @@ top_img:
 
   - 可以用`wakatime`替代,这个插件没事.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## TCP 保活
 

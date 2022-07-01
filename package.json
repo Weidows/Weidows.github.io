@@ -5,7 +5,7 @@
   "scripts": {
     "postinstall": "patch-package",
     "patch": "npx patch-package hexo-filter-fenced-code",
-    "一键三连": "hexo clean && hexo generate && hexo deploy",
+    "一键三连": "hexo clean && hexo generate && hexo deploy && rm -rf .deploy_git",
     "get-bilibili-steam": "hexo bangumi -u && hexo steam -u",
     "server-test": "hexo server",
     "check-update": "npm-check",

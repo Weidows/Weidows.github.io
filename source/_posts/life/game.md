@@ -41,7 +41,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## EPIC
 
@@ -67,7 +67,7 @@ top_img:
 
   所以...解决办法就是随便装个游戏
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 小小梦魇
 
@@ -81,7 +81,7 @@ top_img:
 
 后来发现, 可以爬上这个笼子,等 boss 走到左边后从笼子右边跳下去,boss 不会追上来
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 方舟-ARK
 
@@ -116,7 +116,7 @@ top_img:
 |      伽马值      | gamma x.x                                                                                         |
 | S+X 异性植物种子 | bug 原因,只能通过代码获取.. <br> 进此网页<sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup> 搜 seed |
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Steam
 
@@ -132,7 +132,7 @@ steam://install/xxx
 
 > https://tieba.baidu.com/p/7668323181
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

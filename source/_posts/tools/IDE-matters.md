@@ -29,7 +29,7 @@ top_img:
 - [Jetbrains-系列快捷键配置转移](#jetbrains-系列快捷键配置转移)
 - [参考](#参考)
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 插件无法卸载
 
@@ -57,7 +57,7 @@ top_img:
 
 - 再重开就没报错了.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## VScode-源代码管理不显示
 
@@ -83,13 +83,13 @@ top_img:
 
 OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Jetbrains-系列快捷键配置转移
 
 在另一篇文章记载:<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

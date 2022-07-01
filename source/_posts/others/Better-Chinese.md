@@ -34,7 +34,7 @@ top_img:
 
 - 有些字眼/黑话属实难以揉捏透,看来看去大脑都高潮了.
 
-<a>![分割线](https://fastly.jsdelivr.net/gh/Weidows/Images/img/divider.png)</a>
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 正文
 
