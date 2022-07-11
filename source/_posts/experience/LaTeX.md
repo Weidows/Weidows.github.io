@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-08 23:59:25
+ * @LastEditTime: 2022-07-09 01:43:53
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -335,6 +335,8 @@ top_img:
 |            $\varepsilon$            |             `\varepsilon`             |
 |               $\eta$                |                `\eta`                 |
 |        $\left( 123 \right)$         |         `\left( 123 \right)`          |
+|               $\phi$                |                `\phi`                 |
+|               $\psi$                |                `\psi`                 |
 
 ---
 

@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "slides": "cross-env slidev --remote --open",
-    "Zurich": "cross-env slidev Zurich.md --remote --open"
+    "show": "cross-env slidev --remote --open Registration-1.md",
+    "export": "cross-env slidev export --dark Registration-1.md"
   },
   "author": "Weidows",
   "dependencies": {
@@ -12,6 +13,7 @@
     "@slidev/theme-bricks": "^0.0.2",
     "@slidev/theme-default": "^0.21.2",
     "@slidev/theme-seriph": "^0.21.2",
+    "playwright-chromium": "^1.23.1",
     "slidev-theme-penguin": "^1.4.1"
   },
   "devDependencies": {

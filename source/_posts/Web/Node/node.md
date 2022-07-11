@@ -3,7 +3,7 @@ title: ⬆ Node.js-环境配置-使用
 date: 2020-11-24 21:59:29
 password: ""
 tags:
-  - Node
+  - nodejs
   - npm
   - yarn
   - package
@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-24 21:59:29
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-23 10:05:34
+ * @LastEditTime: 2022-07-11 08:54:25
  * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
  * @Description:
 -->
@@ -34,15 +34,16 @@ top_img:
   - [参数及常用命令](#参数及常用命令)
     - [`-g(global)`](#-gglobal)
     - [`-save`](#-save)
-  - [local 全局依赖](#local-全局依赖)
+  - [local-全局依赖](#local-全局依赖)
   - [运行报错](#运行报错)
     - [依赖出错](#依赖出错)
     - [没装项目依赖](#没装项目依赖)
-  - [推荐文章](#推荐文章)
-  - [node-多版本管理](#node-多版本管理)
+  - [多版本管理](#多版本管理)
     - [环境变量原因报错](#环境变量原因报错)
     - [切换版本报错](#切换版本报错)
-  - [版本拟定](#版本拟定)
+  - [大前端工具](#大前端工具)
+    - [版本拟定](#版本拟定)
+    - [uglifyjs](#uglifyjs)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -218,7 +219,7 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## local 全局依赖
+## local-全局依赖
 
 - npm
 
@@ -285,13 +286,7 @@ ERROR: Unexpected token: name «Live2dLoader», expected: punc «;»
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 推荐文章
-
-> [很多人上来就删除的 package-lock.json，还有这么多你不知道的（深度内容）](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247496886&idx=1&sn=513b863b8468fcfaf8c8e750ce266899&chksm=97c66918a0b1e00eb920d278ae03b10ebe1d765db0e17cb8fe5bc60b737fb3c6af1d96fcf724&mpshare=1&scene=23&srcid=0327cIro7WXAp1jgObHXuKCE&sharer_sharetime=1616807246544&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## node-多版本管理
+## 多版本管理
 
 - 主流的有 nvm / n 两种
 
@@ -339,7 +334,9 @@ exit status 145: The directory is not empty.
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 版本拟定
+## 大前端工具
+
+### 版本拟定
 
 - 之前一直手动起草 package.json 中的 version,略显笨拙
 
@@ -355,8 +352,22 @@ exit status 145: The directory is not empty.
 
   另外需要注意,使用之前要 `git commit`,不然没法使用.
 
+---
+
+### uglifyjs
+
+```
+yarn global add uglify-js
+yarn global add uglify-es
+
+uglifyjs xxx.js -o xxx.min.js
+uglifyjs xxx.js -m -o xxx.min.js // 更小
+```
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [yarn 源管理工具 yrm](https://www.jianshu.com/p/dbe3cda1ac11)
+
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [很多人上来就删除的 package-lock.json，还有这么多你不知道的（深度内容）](https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&mid=2247496886&idx=1&sn=513b863b8468fcfaf8c8e750ce266899&chksm=97c66918a0b1e00eb920d278ae03b10ebe1d765db0e17cb8fe5bc60b737fb3c6af1d96fcf724&mpshare=1&scene=23&srcid=0327cIro7WXAp1jgObHXuKCE&sharer_sharetime=1616807246544&sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd)

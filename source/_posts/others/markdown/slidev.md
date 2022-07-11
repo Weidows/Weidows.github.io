@@ -1,5 +1,5 @@
 ---
-title: 🦭slidev
+title: 🦭开会扯皮专用-Slidev
 password: ""
 tags:
   - markdown
@@ -8,7 +8,7 @@ katex: false
 comments: true
 aside: true
 date: 2022-06-29 17:31:36
-cover:
+cover: https://www.helloimg.com/images/2022/07/11/ZW65TS.jpg
 top_img:
 ---
 
@@ -18,8 +18,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-30 00:57:11
- * @FilePath: \Blog-private\source\_drafts\slidev.md
+ * @LastEditTime: 2022-07-11 09:58:26
+ * @FilePath: \Blog-private\source\_posts\others\markdown\slidev.md
  * @Description:
  * @!: *********************************************************************
 -->

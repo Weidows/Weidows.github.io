@@ -6,7 +6,7 @@ tags:
   - Hexo
   - 备忘录
   - Website
-  - Node.Js
+  - nodejs
   - npm
   - Pjax
   - HTML
@@ -21,7 +21,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVJnSE.png
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-01 12:07:16
+ * @LastEditTime: 2022-07-11 08:49:25
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-all.md
 -->
 

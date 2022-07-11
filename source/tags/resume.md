@@ -26,7 +26,7 @@ aside: false
 
 </center>
 
-{% pdf ./刘伟.pdf %}
+{% pdf ../categories/刘伟.pdf %}
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
