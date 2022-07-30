@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-06 11:00:21
+ * @LastEditTime: 2022-07-27 20:20:08
  * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -42,6 +42,9 @@ top_img:
   - [报错](#报错)
     - [安装报错](#安装报错)
     - [环境不一致](#环境不一致)
+    - [ssh-解释器位置问题](#ssh-解释器位置问题)
+    - [mayavi-安装问题](#mayavi-安装问题)
+  - [借物表](#借物表)
 
 {% endpullquote %}
 
@@ -55,11 +58,7 @@ top_img:
 
   - 可以理解为 anaconda 内置了 python,所以设备上安装的其他 Python 环境完全可以卸载掉了
 
-  - Python 一般会自带 pip 这个包管理器,anaconda 也不例外; 而且 anaconda 还带有另一个更强大的包管理器: `conda`
-
-  > [请问大神们，pip install 和 conda install 有什么区别吗？](https://www.zhihu.com/question/395145313)
-
-> 此文章很清晰的介绍了 Anaconda 的安装使用: https://zhuanlan.zhihu.com/p/75717350
+  - Python 一般会自带 pip 这个包管理器,anaconda 也不例外; 而且 anaconda 还带有另一个更强大的包管理器: `conda` <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -474,4 +473,104 @@ Current thread 0x00002a54 (most recent call first):
   conda activate base
   ```
 
-  事情不大,烦恼不小
+  事情不大,麻烦不小
+
+---
+
+### ssh-解释器位置问题
+
+> There is no Pip installer available in the selected environment.
+
+问题出在 vscode 能找到 python 可执行文件, 但是找解释器(库)时找错了位置
+
+按 `ctrl + shift + P` -> `Python: Select Interpreter` 选择远程服务器上的解释器位置 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+---
+
+### mayavi-安装问题
+
+{% tabs 起因 %}
+
+  <!-- tab 起因 -->
+
+    ```console
+    (dair) liuwei@adept2080-X11DPG-OT:~/code/DAIR-V2X$ python tools/visualize/vis_label_in_3d.py --task pcd_label --pcd-path "../link2paths/DAIR-V2X-Copy/cooperative-vehicle-infrastructure/vehicle-side/velodyne" --label-path "../link2paths/DAIR-V2X-Copy/cooperative-vehicle-infrastructure/vehicle-side/label/camera"
+    Traceback (most recent call last):
+      File "tools/visualize/vis_label_in_3d.py", line 3, in <module>
+        import mayavi.mlab as mlab
+    ModuleNotFoundError: No module named 'mayavi'
+    ```
+
+    首先, 乱装了一番, 排除 CUDA/Python 版本问题
+
+  <!-- endtab -->
+
+  <!-- tab 经过 -->
+
+    ```console
+    (dair) liuwei@adept2080-X11DPG-OT:~/code/DAIR-V2X$ conda install mayavi
+    Collecting package metadata (current_repodata.json): done
+    Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+    Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.
+    Collecting package metadata (repodata.json): done
+    Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+    Solving environment: \
+    Found conflicts! Looking for incompatible packages.
+    This can take several minutes.  Press CTRL-C to abort.
+    failed
+
+    UnsatisfiableError: The following specifications were found
+    to be incompatible with the existing python installation in your environment:
+
+    Specifications:
+
+      - mayavi -> python[version='>=2.7,<2.8.0a0|>=3.6,<3.7.0a0|>=3.7,<3.8.0a0']
+
+    Your python: python=3.8
+
+    If python is on the left-most side of the chain, that's the version you've asked for.
+    When python appears to the right, that indicates that the thing on the left is somehow
+    not available for the python version you are constrained to. Note that conda will not
+    change your python version to a different minor version unless you explicitly specify
+    that.
+
+    The following specifications were found to be incompatible with your system:
+
+      - feature:/linux-64::__glibc==2.27=0
+      - feature:|@/linux-64::__glibc==2.27=0
+      - mayavi -> libgcc-ng[version='>=7.3.0'] -> __glibc[version='>=2.17']
+
+    Your installed version is: 2.27
+
+
+    (dair) liuwei@adept2080-X11DPG-OT:~/code/DAIR-V2X$ ^C
+    ```
+
+    能找到这, 说明也看到这个驴唇不对马嘴的报错了, 然而这个报错指出的信息并不准确, 只能知道有个地方有环境问题/依赖冲突
+
+  <!-- endtab -->
+
+  <!-- tab 结果 -->
+
+    通过这篇文章, 试了试本地安装, 发现是 `VTK` 这个package有问题 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+
+    ```shell_read
+    conda install vtk
+    conda install mayavi
+    ```
+
+  <!-- endtab -->
+
+{% endtabs %}
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [请问大神们，pip install 和 conda install 有什么区别吗？](https://www.zhihu.com/question/395145313)
+
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: 此文章很清晰的介绍了 Anaconda 的安装使用: https://zhuanlan.zhihu.com/p/75717350
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: https://stackoverflow.com/questions/50993566/vscode-there-is-no-pip-installer-available-in-the-selected-environment
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [安装 mayavi 遇到的一些问题](https://zhuanlan.zhihu.com/p/517215955)

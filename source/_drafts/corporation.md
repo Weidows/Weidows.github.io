@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:47:37
+ * @LastEditTime: 2022-07-30 10:29:35
  * @FilePath: \Blog-private\source\_drafts\corporation.md
  * @Description:
  * @!: *********************************************************************
@@ -29,6 +29,7 @@ top_img:
 - [企业管理](#企业管理)
   - [简介](#简介)
   - [开源软件-付费服务的选择](#开源软件-付费服务的选择)
+  - [待办](#待办)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -60,6 +61,18 @@ top_img:
   按时薪 50 RMB/per h 计算, 2 天/人次就是 $50 * 2 * 8 = 800 RMB$
 
   所以说一旦涉及 `机器服务`,买付费服务绝对是性价比更高的.
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 待办
+
+https://www.36kr.com/p/1723330929851395
+
+一家公司怎么样，开个会就知道了_详细解读_最新资讯_热点事件_36氪 (36kr.com)
+
+easychen/one-person-businesses-methodology: 一人公司方法论 (github.com)
+
+lazyparser/minimalist-team-leader: 极简主义团队管理操作手册 (github.com)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

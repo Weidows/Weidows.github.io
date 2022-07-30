@@ -1,5 +1,5 @@
 ---
-title: 树莓派酱の吃灰日常.
+title: 树莓派酱の吃灰日常
 date: 2020-12-03 10:44:06
 password: ""
 tags:
@@ -9,32 +9,38 @@ cover: https://www.helloimg.com/images/2022/02/27/GV4VHQ.png
 top_img:
 ---
 
+# 树莓派酱の吃灰日常
+
 <!--
  * @Author: Weidows
  * @Date: 2020-12-03 10:44:06
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-27 16:19:11
+ * @LastEditTime: 2022-07-28 00:10:04
  * @FilePath: \Blog-private\source\_posts\system\RaspberryPi.md
  * @Description:
 -->
 
-- [无屏幕操作指南](#无屏幕操作指南)
-- [SSH 连接](#ssh-连接)
-- [设置密码](#设置密码)
-- [树莓派系统设置](#树莓派系统设置)
-- [VNC 连接](#vnc-连接)
-- [Screenfetch](#screenfetch)
-- [彩色灯带](#彩色灯带)
-  - [硬件连接](#硬件连接)
-  - [安装工具链](#安装工具链)
-  - [安装驱动](#安装驱动)
-  - [修改配置文件](#修改配置文件)
-  - [测试运行](#测试运行)
-  - [增强-音乐频谱](#增强-音乐频谱)
-    - [装环境](#装环境)
-    - [测试运行](#测试运行-1)
-  - [灯带检测](#灯带检测)
-- [花样玩法](#花样玩法)
+{% pullquote mindmap mindmap-md %}
+
+- [树莓派酱の吃灰日常](#树莓派酱の吃灰日常)
+  - [无屏幕操作指南](#无屏幕操作指南)
+  - [SSH 连接](#ssh-连接)
+  - [树莓派系统设置](#树莓派系统设置)
+  - [VNC 连接](#vnc-连接)
+  - [Screenfetch](#screenfetch)
+  - [彩色灯带](#彩色灯带)
+    - [硬件连接](#硬件连接)
+    - [安装工具链](#安装工具链)
+    - [安装驱动](#安装驱动)
+    - [修改配置文件](#修改配置文件)
+    - [测试运行](#测试运行)
+    - [增强-音乐频谱](#增强-音乐频谱)
+      - [装环境](#装环境)
+      - [测试运行](#测试运行-1)
+    - [灯带检测](#灯带检测)
+  - [花样玩法](#花样玩法)
+
+{% endpullquote %}
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -91,25 +97,8 @@ top_img:
 
 - 树莓派系统默认账号是 `pi`，密码是 `raspberry`
 
-> 可参照 [✨SSH 远程连接.](../../experience/SSH#自动挡)
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 设置密码
-
-- 连接成功后设置 root 账户密码
-
-  ```
-  sudo passwd root
-  ```
-
-- 之后 `su root(切换到root用户)` 就需要密码验证了.
-
-- 解锁用户密码设置
-
-  ```
-  sudo passwd --unlock root
-  ```
+> 可参照 [✨SSH 远程连接.](../../experience/SSH#自动挡) \
+> 连接后记得改下密码: [💧 一些常用终端命令](../../experience/shell/shell#用户管理)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

@@ -1,5 +1,5 @@
 ---
-title: 🤔Matters found in IDEs.
+title: 🤔Matters-found-in-IDEs
 password: ""
 tags:
   - PyCharm
@@ -14,24 +14,78 @@ cover: https://www.helloimg.com/images/2022/02/27/GVPokK.png
 top_img:
 ---
 
+# Matters-found-in-IDEs
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-02-18 02:24:15
+ * @LastEditTime: 2022-07-29 22:40:04
  * @FilePath: \Blog-private\source\_posts\tools\IDE-matters.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [插件无法卸载](#插件无法卸载)
-- [VScode-源代码管理不显示](#vscode-源代码管理不显示)
-- [Jetbrains-系列快捷键配置转移](#jetbrains-系列快捷键配置转移)
-- [参考](#参考)
+{% pullquote mindmap mindmap-md %}
+
+- [Matters-found-in-IDEs](#matters-found-in-ides)
+  - [vscode](#vscode)
+    - [vscode-源代码管理不显示](#vscode-源代码管理不显示)
+    - [关闭更新提示](#关闭更新提示)
+  - [Jetbrains](#jetbrains)
+    - [快捷键配置转移](#快捷键配置转移)
+    - [插件无法卸载](#插件无法卸载)
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 插件无法卸载
+## vscode
+
+### vscode-源代码管理不显示
+
+- 问题就是这里的"源代码管理"无法显示出来
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAlkD.png" alt="20220125012150" />
+
+  经各路探索 (改配置/清空数据重装...etc), 发现此问题只局限在我的某个项目,而且即使 fully restore 问题尚在
+
+  ***
+
+- 所以我认为这个问题存在于 vscode 可以同步的数据中
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSbPS.png" alt="20220125012636" />
+
+  那么,凶手比较明显了: `UI状态`
+
+  ***
+
+- 查找了一番,其定位在 `C:\Users\utsuk\AppData\Roaming\Code\User\globalStorage\state.vscdb`
+
+  打开这个文件,查找关键词 `null` 替换为 `""`
+
+OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!
+
+---
+
+### 关闭更新提示
+
+这个烦得很, 每次打开都会提示
+
+设置里搜 `update: mode`, 改下
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## Jetbrains
+
+### 快捷键配置转移
+
+在另一篇文章记载:<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
+
+---
+
+### 插件无法卸载
 
 - 问题说明:
 
@@ -57,39 +111,7 @@ top_img:
 
 - 再重开就没报错了.
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## VScode-源代码管理不显示
-
-- 问题就是这里的"源代码管理"无法显示出来
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVAlkD.png" alt="20220125012150" />
-
-  经各路探索 (改配置/清空数据重装...etc), 发现此问题只局限在我的某个项目,而且即使 fully restore 问题尚在
-
-  ***
-
-- 所以我认为这个问题存在于 vscode 可以同步的数据中
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVSbPS.png" alt="20220125012636" />
-
-  那么,凶手比较明显了: `UI状态`
-
-  ***
-
-- 查找了一番,其定位在 `C:\Users\utsuk\AppData\Roaming\Code\User\globalStorage\state.vscdb`
-
-  打开这个文件,查找关键词 `null` 替换为 `""`
-
-OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## Jetbrains-系列快捷键配置转移
-
-在另一篇文章记载:<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+  <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
 

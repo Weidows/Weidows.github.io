@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-26 17:52:27
+ * @LastEditTime: 2022-07-15 13:25:03
  * @FilePath: \Blog-private\source\_posts\life\game.md
  * @Description:
  * @!: *********************************************************************
@@ -34,9 +34,11 @@ top_img:
     - [锁帧](#锁帧)
     - [更改物品堆叠数量](#更改物品堆叠数量)
     - [作弊代码](#作弊代码)
+    - [角色等级上限](#角色等级上限)
   - [Steam](#steam)
     - [入库代码](#入库代码)
-    - [角色等级上限](#角色等级上限)
+    - [Wallpaper-Engine](#wallpaper-engine)
+      - [订阅取消无法删除壁纸](#订阅取消无法删除壁纸)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -116,6 +118,12 @@ top_img:
 |      伽马值      | gamma x.x                                                                                         |
 | S+X 异性植物种子 | bug 原因,只能通过代码获取.. <br> 进此网页<sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup> 搜 seed |
 
+---
+
+### 角色等级上限
+
+> https://tieba.baidu.com/p/7668323181
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Steam
@@ -128,9 +136,11 @@ steam://install/xxx
 
 ---
 
-### 角色等级上限
+### Wallpaper-Engine
 
-> https://tieba.baidu.com/p/7668323181
+#### 订阅取消无法删除壁纸
+
+> https://help.steampowered.com/zh-cn/faqs/view/0C48-FCBD-DA71-93EB <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup>
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -143,3 +153,5 @@ steam://install/xxx
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [【方舟】告别显卡占用过高造成的卡顿-死机等情况，锁帧教程](https://www.bilibili.com/video/BV14V411z7NY)
 
 <a name='cite_note-4' href='#cite_ref-4'>[4]</a>: https://docs.google.com/spreadsheets/d/e/2PACX-1vRBnQSrT5CidPWSbeIT5GK7WWBeYu9Uhu9unEkazAfytljMSe7g7qJSX5rhDtb4zI-kh1TIH2-ZNqAX/pubhtml?gid=0&single=true
+
+<a name='cite_note-5' href='#cite_ref-5'>[5]</a>: https://steamcommunity.com/app/431960/discussions/2/1745646405802281630/

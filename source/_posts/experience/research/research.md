@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-11 09:54:20
+ * @LastEditTime: 2022-07-28 22:38:33
  * @FilePath: \Blog-private\source\_posts\experience\research\research.md
  * @Description:
  * @!: *********************************************************************
@@ -30,6 +30,8 @@ top_img:
   - [序](#序)
   - [关于调研](#关于调研)
   - [组会展示](#组会展示)
+  - [一些经验](#一些经验)
+    - [学会拆字](#学会拆字)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -74,6 +76,18 @@ now.clear, 意思大概就是: `how > what`
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
+## 一些经验
+
+### 学会拆字
+
+听到一个概念不要马上去大脑数据库搜索, 之所以叫脑海, 是因为它有乱流和旋涡
+
+比如 `元数据` 这个词, 乍一听很抽象是吧, 脑子也能马上返回 Metadata 这个词, 但具体想解释就会云里雾里
+
+> '元'即为'关于...的', 所以一组元数据是指'一组关于 xxx 的映射数据' <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
 ## 借物表
 
-暂无.
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [元数据（MetaData）](http://www.ruanyifeng.com/blog/2007/03/metadata.html)
