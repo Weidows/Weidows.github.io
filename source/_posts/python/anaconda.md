@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-27 20:20:08
+ * @LastEditTime: 2022-08-02 23:01:51
  * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -39,6 +39,7 @@ top_img:
     - [更新依赖](#更新依赖)
     - [install-报错](#install-报错)
     - [导出-安装依赖](#导出-安装依赖)
+    - [清理无用依赖](#清理无用依赖)
   - [报错](#报错)
     - [安装报错](#安装报错)
     - [环境不一致](#环境不一致)
@@ -422,6 +423,18 @@ conda update --force conda
     ***
 
   </details>
+
+---
+
+### 清理无用依赖
+
+喏, 随便一清就十来个 G..
+
+```
+╰─ conda clean -p
+Will remove 496 (13.93 GB) package(s).
+Proceed ([y]/n)?
+```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

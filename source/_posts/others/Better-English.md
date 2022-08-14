@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:42:35
+ * @LastEditTime: 2022-08-09 14:31:34
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -103,6 +103,7 @@ top_img:
 |      regression       | 回归                                                                                                     |
 |    classification     | 分类                                                                                                     |
 |       recursion       | 递归                                                                                                     |
+|     architecture      | 架构                                                                                                     |
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -158,23 +159,24 @@ top_img:
 
   比如 YouTube-dl
 
----
-
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 领域
 
-- 网络
-
-  - LAN - 局域网 (Local Area Network)
-
-  - WAN - 广域网 (Wide Area Network)
-
-  - WLAN - 无线局域网 (Wireless LAN)
-
-> [QPS、TPS、并发用户数、吞吐量关系](https://juejin.cn/post/6844904084504313863?utm_source=gold_browser_extension) \
-> [IaaS，PaaS，SaaS 的区别](https://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html) \
-> [UED、UCD、UE、UI、交互设计这 5 个名词的概念有哪些区别？职位分别有什么不同？](https://www.zhihu.com/question/19908990)
+|                                                          鸟语                                                          |                                             人话                                             |
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+|                                                          LAN                                                           |                                 局域网 (Local Area Network)                                  |
+|                                                          WAN                                                           |                                  广域网 (Wide Area Network)                                  |
+|                                                          WLAN                                                          |                                  无线局域网 (Wireless LAN)                                   |
+|    [QPS、TPS、并发用户数、吞吐量关系](https://juejin.cn/post/6844904084504313863?utm_source=gold_browser_extension)    |
+|                 [IaaS，PaaS，SaaS 的区别](https://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html)                 | 后又出现 FaaS (function as a service) / [serverless](https://zhuanlan.zhihu.com/p/306589048) |
+| [UED、UCD、UE、UI、交互设计这 5 个名词的概念有哪些区别？职位分别有什么不同？](https://www.zhihu.com/question/19908990) |
+|                                                          SoC                                                           |                             System on Chip, 片上系统/系统级芯片                              |
+|             [云服务器（ECS）云主机 云虚拟主机 VPS 等产品的区别？](https://www.zhihu.com/question/46387307)             |
+|                                                          RPC                                                           |                              Remote Procedure Call 远程过程调用                              |
+|                                                          Fov                                                           |                                            视场角                                            |
+|                [SOTA，benchmark 和 baseline 分别是什么意思？](https://www.zhihu.com/question/433986039)                |
+|   [和、差、积、商、加、减、乘、除 8 个英文单词各是什么](https://zhidao.baidu.com/question/1437456404991027819.html)    |                                       dot-product 点积                                       |
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

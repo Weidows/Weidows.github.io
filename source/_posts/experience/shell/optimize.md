@@ -1,43 +1,51 @@
 ---
-title: 🉑pwsh极致专攻
+title: 🉑极致专攻-Shell-Optimize
 date: 2020-10-13 23:25:31
 password: ""
 tags:
   - shell
   - PowerShell
   - 备忘录
+  - zsh
 cover: https://www.helloimg.com/images/2022/02/27/GVEz1t.png
 top_img:
 ---
 
-# pwsh 极致专攻
+# 极致专攻-Shell-Optimize
 
 <!--
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:48:59
- * @FilePath: \Blog-private\source\_posts\experience\shell\pwsh.md
+ * @LastEditTime: 2022-08-13 14:54:47
+ * @FilePath: \Blog-private\source\_posts\experience\shell\optimize.md
 -->
 
 {% pullquote mindmap mindmap-md %}
 
-- [pwsh 极致专攻](#pwsh-极致专攻)
-  - [预览](#预览)
-  - [环境配置](#环境配置)
-  - [安装插件](#安装插件)
-  - [启用主题及插件](#启用主题及插件)
-  - [oh-my-posh](#oh-my-posh)
-  - [启用管理员模式](#启用管理员模式)
+- [极致专攻-Shell-Optimize](#极致专攻-shell-optimize)
+  - [pwsh](#pwsh)
+    - [预览](#预览)
+    - [环境配置](#环境配置)
+    - [安装插件](#安装插件)
+    - [启用主题及插件](#启用主题及插件)
+    - [oh-my-posh](#oh-my-posh)
+    - [启用管理员模式](#启用管理员模式)
+  - [zsh](#zsh)
+    - [安装](#安装)
+    - [主题](#主题)
+  - [借物表](#借物表)
 
 {% endpullquote %}
 
-## 预览
+## pwsh
+
+### 预览
 
 ![siDz8M1QlGIanE3](https://www.helloimg.com/images/2022/02/27/GV3nLD.png)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 环境配置
+### 环境配置
 
 - 不同于 Windows 自带的 Windows PowerShell,这个 PowerShell(也叫 posh/pwsh) 需要另行安装(百度搜,安装上就行)
 
@@ -53,7 +61,7 @@ top_img:
 
 ---
 
-## 安装插件
+### 安装插件
 
 - `oh-my-posh` (Posh 增强主题)
 
@@ -98,7 +106,7 @@ top_img:
 
 ---
 
-## 启用主题及插件
+### 启用主题及插件
 
 > [我的配置文件链接](https://github.com/Weidows-projects/Programming-Configuration/blob/master/others/PowerShell/Microsoft.PowerShell_profile.ps1)
 
@@ -135,7 +143,7 @@ top_img:
   ```
   # Enable Prediction History
   Set-PSReadLineOption -PredictionSource History
-  ## Advanced Autocompletion for arrow keys
+  ### Advanced Autocompletion for arrow keys
   Set-PSReadlineKeyHandler -Key UpArrow -Function HistorySearchBackward
   Set-PSReadlineKeyHandler -Key DownArrow -Function HistorySearchForward
   ```
@@ -146,7 +154,7 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## oh-my-posh
+### oh-my-posh
 
 - 查看所有主题
 
@@ -162,12 +170,38 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 启用管理员模式
-
-- 作用就是让右键文件时出现管理员权限
-  - 实际上没啥用,并不太推荐使用.
-  - 这个东西与上面 PowerShell 没啥关系
+### 启用管理员模式
 
 ```
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel" /v DisableTsx /t REG_DWORD /d 0 /f
 ```
+
+- 作用就是让右键文件时出现管理员权限
+
+  实际上没啥用,并不太推荐使用
+
+  这个东西与上面 PowerShell 没啥关系
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## zsh
+
+### 安装
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### 主题
+
+在 `~/.zshrc` 里面找到并更改:
+
+```
+ZSH_THEME="jonathan"
+```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+暂无..

@@ -25,7 +25,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-30 11:42:22
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:41:02
+ * @LastEditTime: 2022-08-06 11:16:22
  * @FilePath: \Blog-private\source\_posts\others\LearnWay.md
  * @Description:
  * @!: *********************************************************************
@@ -42,7 +42,6 @@ top_img:
   - [泛域](#泛域)
   - [设计](#设计)
   - [基础知识](#基础知识)
-  - [面试](#面试)
 
 {% endpullquote %}
 
@@ -313,15 +312,3 @@ top_img:
   [🙌UI 平面设计.](../../design/UI-design)
 
   [🌈 基础知识](../../experience/basic/基础知识.mmd)
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 面试
-
-1. [MetaAPP 部分笔试题](https://blog.csdn.net/weixin_38607253/article/details/114154414)
-2. [什么是“堆”,"栈","堆栈","队列",它们的区别](https://www.cnblogs.com/guoxiaoyan/p/8664150.html)
-3. [到底产生几个 String 对象](https://www.cnblogs.com/timecloud/p/6555868.html)
-4. [浅谈 Java 中的 equals 和==](https://www.cnblogs.com/dolphin0520/p/3592500.html)
-5. [字节终面：两个文件的公共 url 怎么找？](https://mp.weixin.qq.com/s/SytfnrsYqequ2M7CnSY-IA) / [小米面试：孔融找梨](https://mp.weixin.qq.com/s/TdJWFxrDAadK9UXar4WiRA)
-
-   通过 hash 降低时间复杂度, 以及通过 hash 分治降低空间复杂度

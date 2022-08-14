@@ -1,5 +1,5 @@
 ---
-title: 🌈初探Docker.
+title: 🌈初探Docker
 date: 2021-01-31 00:08:20
 password: ""
 tags:
@@ -8,39 +8,46 @@ cover: https://www.helloimg.com/images/2022/02/27/GVawKY.png
 top_img:
 ---
 
+# 初探 Docker.
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2021-01-31 00:08:20
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-12 15:47:09
+ * @LastEditTime: 2022-08-04 15:37:11
  * @FilePath: \Blog-private\source\_posts\system\docker.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [名词引入](#名词引入)
-  - [docker-Dockerfile](#docker-dockerfile)
-  - [docker-compose](#docker-compose)
-  - [docker-machine](#docker-machine)
-- [安装启动](#安装启动)
-  - [the-best-Manjaro](#the-best-manjaro)
-  - [Windows](#windows)
-  - [Ubuntu-Server](#ubuntu-server)
-  - [解决权限问题](#解决权限问题)
-- [加速](#加速)
-  - [镜像加速](#镜像加速)
-    - [Windows](#windows-1)
-    - [Manjaro](#manjaro)
-  - [设置代理](#设置代理)
-- [docker 管理](#docker-管理)
-  - [VScode-docker](#vscode-docker)
-  - [Portainer](#portainer)
-- [常用命令](#常用命令)
-  - [docker 自启](#docker-自启)
-  - [容器自启](#容器自启)
-- [命令行执行](#命令行执行)
-- [多数据库管理](#多数据库管理)
+{% pullquote mindmap mindmap-md %}
+
+- [初探 Docker.](#初探-docker)
+  - [名词引入](#名词引入)
+    - [docker-Dockerfile](#docker-dockerfile)
+    - [docker-compose](#docker-compose)
+    - [docker-machine](#docker-machine)
+  - [安装启动](#安装启动)
+    - [the-best-Manjaro](#the-best-manjaro)
+    - [Windows](#windows)
+    - [Ubuntu-Server](#ubuntu-server)
+    - [解决权限问题](#解决权限问题)
+  - [加速](#加速)
+    - [镜像加速](#镜像加速)
+      - [Windows](#windows-1)
+      - [Manjaro](#manjaro)
+    - [设置代理](#设置代理)
+  - [docker 管理](#docker-管理)
+    - [VScode-docker](#vscode-docker)
+    - [Portainer](#portainer)
+  - [常用命令](#常用命令)
+    - [docker 自启](#docker-自启)
+    - [容器自启](#容器自启)
+  - [命令行执行](#命令行执行)
+  - [多数据库管理](#多数据库管理)
+
+{% endpullquote %}
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -464,4 +471,4 @@ docker update --restart=no <CONTAINER ID>
         MYSQL_ROOT_PASSWORD: 2333
   ```
 
-- 进此配置目录执行 `docker-compose up`
+  进此配置目录执行 `docker-compose up`, [->最新文件地址<-](https://github.com/Weidows-projects/Keeper/blob/main/scripts/docker/docker-compose.yml)

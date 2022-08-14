@@ -10,7 +10,7 @@ aside: true
  * @Author: Weidows
  * @Date: 2020-08-27 11:23:35
  * @LastEditors: Weidows
- * @LastEditTime: 2022-03-08 15:22:11
+ * @LastEditTime: 2022-08-02 21:07:53
  * @FilePath: \Blog-private\source\gallery\index.md
 -->
 
@@ -61,8 +61,6 @@ aside: true
 {% galleryGroup 编程比赛 年迈时在赛场上掉落的华发 gallery/CCPC https://www.helloimg.com/images/2022/02/27/GV45Kc.png %}
 
 {% galleryGroup 成长手册 被逼与自愿之间的选择. gallery/MyGrowth https://www.helloimg.com/images/2022/02/27/GVPJEu.png %}
-
-{% galleryGroup 病患解析 浑元形意内外伤. gallery/Why-illness https://www.helloimg.com/images/2022/02/27/GVtc8Q.png %}
 
 {% galleryGroup 我的故乡 拿起村好剑对日的时光. https://47i7-my.sharepoint.com/:f:/g/personal/utsuko27_bilibili_hk_cn/EoyVg-H0CqRPmskX5zKws78B5kvCyF8jSRBUFaap-Z3TJg?e=a245tv https://www.helloimg.com/images/2022/02/27/GV3eLm.jpg %}
 

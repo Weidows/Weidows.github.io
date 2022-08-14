@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-23 11:14:03
+ * @LastEditTime: 2022-07-30 15:24:34
  * @FilePath: \Blog-private\source\_posts\python\AI\ML.md
  * @Description:
  * @!: *********************************************************************
@@ -223,6 +223,8 @@ $$
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ### OneHot-独热编码
+
+独热编码是稀疏矩阵的一种应用 <sup id='cite_ref-8'>[\[8\]](#cite_note-8)</sup>
 
 $$
 \begin{bmatrix}
@@ -1240,3 +1242,5 @@ $$
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: https://scikit-learn.org/stable/tutorial/machine_learning_map/
 
 <a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [4 小时入门深度学习+实操 MMDetection 第一课](https://www.bilibili.com/video/BV1ou411k7fD?p=6)
+
+<a name='cite_note-8' href='#cite_ref-8'>[8]</a>: [一篇关于机器学习中的稀疏矩阵的介绍](https://zhuanlan.zhihu.com/p/34534763)

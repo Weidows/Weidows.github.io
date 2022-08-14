@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-01-14 16:50:24
+ * @LastEditTime: 2022-08-12 10:37:57
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -99,7 +99,7 @@ top_img:
 - 另外,如果想添加到系统环境变量栏,只需把`User`修改为`Machine`
 
   ```powershell
-  [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'Machine')
+  [Environment]::SetEnvironmentVariable('SCOOP', 'D:\Game\Scoop', 'Machine')
   ```
 
 - 配置好了如下

@@ -21,7 +21,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:44:23
+ * @LastEditTime: 2022-08-04 15:33:10
  * @FilePath: \Blog-private\source\_posts\experience\dev\sql-problem.md
  * @Description:
  * @!: *********************************************************************
@@ -59,9 +59,7 @@ top_img:
 
 ## 模糊查询
 
-- 包括模糊查询中文
-  <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
-  <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+- 包括模糊查询中文 <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
 
   中/英都可以正常查询:
 

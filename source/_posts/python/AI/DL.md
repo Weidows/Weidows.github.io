@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-27 12:02:26
+ * @LastEditTime: 2022-08-09 15:00:24
  * @FilePath: \Blog-private\source\_posts\python\AI\DL.md
  * @Description:
  * @!: *********************************************************************
@@ -377,6 +377,56 @@ graph TB
 
 也就使得层次越深, 单位神经元在有损条件下捕获特征/语义信息的范围越大
 
+---
+
+#### 上采样-反卷积-上池化
+
+> 上采样指的是：任何可以让图像变成更高分辨率的技术（上池化、反卷积、插值等）<sup id='cite_ref-9'>[\[9\]](#cite_note-9)</sup>
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 多种模型特点
+
+### MLP
+
+Multi-Layer Perceptron 多层感知机
+
+上天下地都行, 但需要人扶着
+
+### CNN
+
+深层次特征挖掘, 尤其适用于图像
+
+### Transformer-ViT
+
+适用于多场景, 打榜强手
+
+`混联电池组结构` + `自注意力机制` = transformer
+
+由于 self- attention, 可训练出可解释性的模型
+
+- self-attention 公式图解, 推荐视频: <sup id='cite_ref-10'>[\[10\]](#cite_note-10)</sup>
+
+  ![](https://www.helloimg.com/images/2022/08/09/ZNGs8o.png)
+  ![](https://www.helloimg.com/images/2022/08/09/ZNG4ZD.png)
+
+### GAN
+
+出了名的难训, 需要大量上好的数据
+
+### RNN
+
+Recurrent Neural Networkx 循环神经网络
+
+### VAE
+
+Variational Auto-Encoder 变分自编码器
+
+自编码器 Auto-Encoder
+![](https://www.helloimg.com/images/2022/07/31/Z0ZSYT.png)
+隐藏层就类似有损压缩算法, 也可以认为就是, 视频中介绍到 Google 就拿来压缩图片
+encoder 是拆分信息的, decoder 是重组信息的
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## MMDetection
@@ -649,3 +699,7 @@ MMDetection3D 依赖于 MMDetection 和 MMSegmentation, 适用于检测和分割
 <a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [带你玩转 3D 检测和分割 （二）：核心组件分析之坐标系和 Box](https://zhuanlan.zhihu.com/p/491614921)
 
 <a name='cite_note-8' href='#cite_ref-8'>[8]</a>: [目标检测中的 mAP 是什么含义？](https://www.zhihu.com/question/53405779)
+
+<a name='cite_note-9' href='#cite_ref-9'>[9]</a>: [上采用、反卷积、上池化区别](https://blog.csdn.net/Turbo_Come/article/details/104602765/?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1--blog-125624971.pc_relevant_default&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
+
+<a name='cite_note-10' href='#cite_ref-10'>[10]</a>: [【论文必读之 Transformer】被捧上天的玩意儿，就这？！](https://www.bilibili.com/video/BV1BW4y1U7gm)

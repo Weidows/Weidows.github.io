@@ -13,7 +13,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-07 00:12:52
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-02 15:46:56
+ * @LastEditTime: 2022-08-12 18:40:15
  * @FilePath: \Blog-private\source\_posts\experience\SSH.md
  * @Description:
 -->
@@ -28,7 +28,9 @@ top_img:
 - [存在の问题](#存在の问题)
   - [root-denied](#root-denied)
   - [VScode-ssh-断开连接](#vscode-ssh-断开连接)
+  - [ssh-too-open](#ssh-too-open)
 - [TCP 保活](#tcp-保活)
+- [借物表](#借物表)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -156,7 +158,30 @@ top_img:
 
 - 问题出自于一个叫`code time`的插件,它的`issue`里面也提了这个 bug,还没解决.
 
-  - 可以用`wakatime`替代,这个插件没事.
+  可以用`wakatime`替代,这个插件没事.
+
+---
+
+### ssh-too-open
+
+```
+weidows@bogon ~ % ssh codeup.aliyun.com
+Warning: Permanently added 'codeup.aliyun.com,118.31.165.50' (RSA) to the list of known hosts.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@ WARNING: UNPROTECTED PRIVATE KEY FILE! @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/Users/weidows/.ssh/liuwei_rsa' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/Users/weidows/.ssh/liuwei_rsa": bad permissions
+weidows@codeup.aliyun.com: Permission denied (publickey).
+```
+
+解决方案: <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+```
+chmod 400 ~/.ssh/id_rsa
+```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -171,3 +196,9 @@ top_img:
   ```
   ClientAliveInterval 10
   ```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [SSH Key: “Permissions 0644 for 'id_rsa.pub' are too open.” on mac](https://stackoverflow.com/questions/29933918/ssh-key-permissions-0644-for-id-rsa-pub-are-too-open-on-mac)
