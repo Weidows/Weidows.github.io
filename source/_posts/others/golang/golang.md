@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-14 17:32:05
+ * @LastEditTime: 2022-08-22 18:01:40
  * @FilePath: \Blog-private\source\_posts\others\golang\golang.md
  * @Description:
  * @!: *********************************************************************
@@ -28,38 +28,50 @@ top_img:
 
 - [从零开始-Golang](#从零开始-golang)
   - [配置](#配置)
-    - [模块初始化](#模块初始化)
+    - [常用命令](#常用命令)
     - [快捷键迁移](#快捷键迁移)
     - [项目热部署](#项目热部署)
   - [learning](#learning)
     - [package](#package)
+      - [package-demo](#package-demo)
+      - [同一包下同名方法隔离](#同一包下同名方法隔离)
+    - [http-json-req](#http-json-req)
+    - [名称规范](#名称规范)
     - [补充](#补充)
+    - [TODO](#todo)
   - [阿里云效-go-mod](#阿里云效-go-mod)
+    - [官方文档](#官方文档)
     - [Go-env](#go-env)
     - [鉴权失败问题](#鉴权失败问题)
     - [Macos](#macos)
+    - [GOSUMDB-代理问题](#gosumdb-代理问题)
+    - [hostname-无法解析](#hostname-无法解析)
   - [proto-compile](#proto-compile)
     - [protobuf-无法获取](#protobuf-无法获取)
   - [借物表](#借物表)
 
 {% endpullquote %}
 
-开辟于此课程以及《Golang 区块链入门到实战\_以太坊/fabric》<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
+文章开辟于《Golang 区块链入门到实战\_以太坊/fabric》<sup id='cite_ref-01'>[\[1\]](#cite_note-01)</sup>
 
-{% mmedia "bilibili" "bvid:1jf4y1s7sZ" %}
+没成想半途真的投入 Golang 岗, 深挖亿下..
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 配置
 
+### 常用命令
+
 ```
+# windows 安装
 scoop install go-cn
-```
 
-### 模块初始化
-
-```
+# 模块初始化
 go mod init ProjectName
+
+# 依赖更新
+go get -u xxx
+go mod tidy
 ```
 
 > cannot determine module path for source directory (outside GOPATH<sup id='cite_ref-03'>[\[3\]](#cite_note-03)</sup>
@@ -118,7 +130,7 @@ go mod init ProjectName
      clear_on_rebuild = false
    ```
 
-4. console 直接运行 air, 就可以热部署开发了
+4. console 直接运行 air, 就可以热部署开发了, 缺点是不能 Debug
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -128,7 +140,9 @@ go mod init ProjectName
 
 ### package
 
-- `package main`被误改会报错<sup id='cite_ref-06'>[\[6\]](#cite_note-06)</sup>
+#### package-demo
+
+- `package`被误改会报错<sup id='cite_ref-06'>[\[6\]](#cite_note-06)</sup>
 
   > package command-line-arguments is not a main package
 
@@ -151,7 +165,7 @@ go mod init ProjectName
   - main.go
 
     ```go
-    package mian
+    package main
 
     func main() {
       fmt.Println(sum(1, 2))
@@ -160,13 +174,100 @@ go mod init ProjectName
 
 ---
 
+#### 同一包下同名方法隔离
+
+比如 a.go 和 b.go 都在 package main 里, 都有 print()方法, 没隔离的情况下会报错 (同名方法重复)
+
+- 一般常采用接口进行文件间的隔离:
+
+  ```go
+  type A struct {
+  }
+
+  func (a *A) print() {}
+  ```
+
+  ```go
+  type B struct {
+  }
+
+  func (b *B) print() {}
+  ```
+
+---
+
+### http-json-req
+
+用 golang 做带有 JSON 格式 body 的 http 请求
+
+> 跟[这个问题](../../../experience/dev/problem#api-request-body)同时出现的
+
+```go
+func main() {
+	token := "AOEOulb6yc81T2dbV8QN2-r9-RS7BoEEGHJhHkfLp50kMB8F0fO61PzHkQUiT1qMTMQZwAqHIUlU4D89gUs_YwX1BVc5KbD1maDC2M_T0zyk8BKSKGBrsYf5bqx606Xc3vSu3qYRv-jDVcb7D52Kqpl3M-jWTeaDhcSm2CyolUMie3oyifyh3fE"
+
+	jsonBody, _ := json.Marshal(map[string]any{
+		"grantType":    "refresh_token",
+		"refreshToken": token,
+	})
+	req := bytes.NewBuffer(jsonBody)
+
+	//resp, _ := http.Post("", "", buff)
+	resp := req
+
+	var m any
+	_ = json.NewDecoder(resp).Decode(&m)
+	//	map[grantType:refresh_token refreshToken:AOEOulb6yc81T2dbV8QN2-r9-RS7BoEEGHJhHkfLp50kMB8F0fO61PzHkQUiT1qMTMQZwAqHIUlU4D89gUs_YwX1BVc5KbD1maDC2M_T0zyk8BKSKGBrsYf5bqx606Xc3vSu3qYRv-jDVcb7D52Kqpl3M-jWTeaDhcSm2CyolUMie3oyifyh3fE]
+	fmt.Println(m)
+}
+```
+
+---
+
+### 名称规范
+
+1. 源文件名不包含大写
+
+   get.go -> × getV3.go\
+   get.go -> √ get3.go
+
+2. 驼峰命名, 公开方法/值首字母大写,否则小写
+
+---
+
 ### 补充
 
 > [go 语言指针符号的\*和&](https://studygolang.com/articles/7412)
 
+---
+
+### TODO
+
+```
+var a =
+
+var (
+  a =
+)
+```
+
+接口 type Sum struct {}
+
+方法 func GetName()
+
+标准写法:
+首字母大写为公开
+首字母小写为私有
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 阿里云效-go-mod
+
+### 官方文档
+
+> [代码服务常见问题 FAQ](https://help.aliyun.com/document_detail/217597.html#section-515-iz5-zp0)
+
+---
 
 ### Go-env
 
@@ -175,14 +276,15 @@ go mod init ProjectName
 ```
 # 代理服务列表
 [Environment]::SetEnvironmentVariable('GOPROXY', 'https://goproxy.io,direct', 'User')
-[Environment]::SetEnvironmentVariable('GOSUMDB', 'goproxy.io', 'User')
+# GOSUMDB 建议留空, 速度慢点总比疯狂报错好
+[Environment]::SetEnvironmentVariable('GOSUMDB', '', 'User')
 # 代理黑名单 - 不走代理的域名; 公司用的私有库走代理是找不找的, 需要写进黑名单; 一般只需要改 GOPRIVATE, 后两个默认取 GOPRIVATE 所以不需要动
 [Environment]::SetEnvironmentVariable('GOPRIVATE', 'codeup.aliyun.com', 'User')
 [Environment]::SetEnvironmentVariable('GONOPROXY', 'codeup.aliyun.com', 'User')
 [Environment]::SetEnvironmentVariable('GONOSUMDB', 'codeup.aliyun.com', 'User')
 
 go env -w GOPROXY=https://goproxy.io,direct
-go env -w GOSUMDB=goproxy.io
+go env -w GOSUMDB=
 go env -w GOPRIVATE=codeup.aliyun.com
 ```
 
@@ -235,6 +337,8 @@ go env -w GOPRIVATE=codeup.aliyun.com
 
 ### 鉴权失败问题
 
+通过 go get 下载云效的私有 Mod 时需要做鉴权
+
 在用户目录 `~/` 下新建 `.netrc` 或者 `_netrc` (对应 Linux/Mac 与 Windows), 添加如下内容
 
 ```
@@ -276,6 +380,34 @@ If this is a private repository, see https://golang.org/doc/faq#git_https for ad
 	insteadOf = https://codeup.aliyun.com/
 ```
 
+---
+
+### GOSUMDB-代理问题
+
+```
+╰─ go get -u codeup.aliyun.com/wenuts/aimage/service
+go: golang.org/x/crypto@v0.0.0-20210817164053-32db794688a5: verifying go.mod: invalid GOSUMDB: malformed verifier id
+```
+
+有时 GOSUMDB 设置代理会出现上面问题, 只需要把 GOSUMDB 置空就行:
+
+```
+go env -w GOSUMDB=
+```
+
+---
+
+### hostname-无法解析
+
+```
+ssh: Could not resolve hostname codeup.aliyun.com: Name or service not known
+Ping request could not find host codeup.aliyun.com. Please check the name and try again.
+```
+
+很奇葩的问题, 通过 ssh 推代码或者 ping 时都不通, 但是网页可以访问, 清理本机 DNS 缓存也不管用
+
+直到换了个 WIFI 试了试...
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## proto-compile
@@ -290,7 +422,7 @@ protoc -I . -I D:\Scoop\apps\protobuf\21.4\include\google\protobuf --go_out=. --
 
 ```
 go env -w GOPROXY=https://goproxy.io,direct
-go env -w GOSUMDB=goproxy.io
+go env -w GOSUMDB=
 ```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>

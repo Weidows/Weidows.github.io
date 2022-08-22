@@ -1,5 +1,5 @@
 ---
-title: 😁调戏AI:Copilot
+title: 😁调戏-AI-Copilot
 password: ""
 tags:
   - VScode
@@ -13,40 +13,43 @@ cover: https://www.helloimg.com/images/2022/02/27/GVLCy1.png
 top_img:
 ---
 
+# 调戏-AI-Copilot
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-29 15:49:50
+ * @LastEditTime: 2022-08-22 18:46:40
  * @FilePath: \Blog-private\source\_posts\tools\vscode\Copilot.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [简介](#简介)
-- [对话测试](#对话测试)
-- [代码生成测试](#代码生成测试)
-- [评价](#评价)
+{% pullquote mindmap mindmap-md %}
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+- [调戏-AI-Copilot](#调戏-ai-copilot)
+  - [简介](#简介)
+  - [对话测试](#对话测试)
+  - [代码生成测试](#代码生成测试)
+  - [评价](#评价)
+  - [替代品](#替代品)
+  - [借物表](#借物表)
+
+{% endpullquote %}
 
 ## 简介
 
-- Copilot 是个基于 GPT-3 的 AI 代码生成器,所以,还能跟她聊天 (调戏 AI,嘿嘿~)
+`侵删 (Infringement to delete)`
 
-- 目前还在内测 ,需要申请 (大概需要十几天?)
+- [GitHub Copilot](https://copilot.github.com/) 是个基于 GPT-3 的 AI 代码生成器,所以,还能跟她聊天 (调戏 AI,嘿嘿~)
 
-  > [GitHub Copilot](https://copilot.github.com/)
+  ~~目前还在内测 ,需要申请 (大概需要十几天?)~~ 公测了, 还蛮贵的
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 对话测试
 
-> 创意来自 [Chat with CoPilot #234](https://github.com/github/copilot-preview/discussions/234)
-
-`侵删 (Infringement to delete)`
-
-前一句话是我问的,后一句话是 Copilot 回答的
+创意来自 <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>, 前一句话是我问的,后一句话是 Copilot 回答的
 
 ```txt
 ME: hello Mr.Copilot,can we have a chat?
@@ -182,7 +185,7 @@ Copilot: "明月神伤"
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVtYsA.png" alt="20210718211454" />
 
-- 与之差不多的是 TabNine,TabNine 是逐行预测,而 Copilot 是按块预测
+  与之差不多的是 TabNine,TabNine 是逐行预测,而 Copilot 是按块预测
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVABx9.png" alt="20210718212117" />
 
@@ -196,8 +199,28 @@ Copilot: "明月神伤"
 
 ## 评价
 
-2021.7 进的内测，白嫖到现在，感觉能提升不少效率，它对已知方法的实现或者复现很强，上下文感知也不错，可以顶半个脑子
+2021.7 进的内测白嫖到 2022.8.20, 感觉能提升不少效率, 它对已知方法的实现或者复现很强, 上下文感知也不错, 可以顶半个脑子
 
-尤其写 py 时给的提示质量蛮高的，刷 leetcode 基本不用动脑子，它全给写了
+尤其写 py 时给的提示质量蛮高的, 刷 leetcode 基本不用动脑子, 它全给写了
 
-另一个很舒服的用途就是写不熟悉的语言时帮助语法提示，用它写下 shell 就明白了，离谱的好用
+另一个很舒服的用途就是写不熟悉的语言时帮助语法提示, 用它写下 shell 就明白了, 离谱的好用
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 替代品
+
+- 由于目前买不起..找了找替代品
+
+  1. https://github.com/moyix/fauxpilot
+  2. https://github.com/DeepGenX/CodeGenX
+  3. https://github.com/salesforce/CodeGen
+  4. https://github.com/CodedotAl/gpt-code-clippy
+  5. https://aixcoder.com
+
+  目前在用 5. 毕竟企业的更稳定和活跃些
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [Chat with CoPilot #234](https://github.com/github/copilot-preview/discussions/234)

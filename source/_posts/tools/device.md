@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-11 13:03:10
+ * @LastEditTime: 2022-08-20 00:19:37
  * @FilePath: \Blog-private\source\_posts\tools\device.md
  * @Description:
  * @!: *********************************************************************
@@ -34,12 +34,17 @@ top_img:
     - [飞行堡垒-GL502-6_i7-1060](#飞行堡垒-gl502-6_i7-1060)
     - [幻-13-5800-1650](#幻-13-5800-1650)
     - [MacBook-Pro-13-16G](#macbook-pro-13-16g)
+      - [QQMail-iCloudMail](#qqmail-icloudmail)
+      - [截屏键](#截屏键)
+      - [键鼠共享](#键鼠共享)
   - [配件](#配件)
     - [picun-b16](#picun-b16)
     - [nowall-ch1](#nowall-ch1)
     - [狼蛛-收割者-茶](#狼蛛-收割者-茶)
   - [学习](#学习)
     - [快充](#快充)
+    - [处理器架构](#处理器架构)
+    - [模拟控制器-Joy](#模拟控制器-joy)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -100,7 +105,23 @@ AMD 核显只有半 G 显存, 而且目前显卡调度方面有一定问题, 比
 
 公司给配的全新开发机, 显然是我买不起的...
 
-还没用太长
+#### QQMail-iCloudMail
+
+本来想着用 QQ 邮箱的 POP 服务连接 iCloud, 结论是不可行, iCloud 不给开启 POP 服务 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+
+---
+
+#### 截屏键
+
+[在 Mac 上拍摄截屏](https://support.apple.com/zh-cn/HT201361)
+
+---
+
+#### 键鼠共享
+
+试用了一堆, 觉得最方便的是 [sharemouse](https://www.sharemouse.com/)
+
+另外有个大坑是: 很多软件需要让 Mac 做主机, 如果让 windows 做主机的话会连不上
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -164,6 +185,18 @@ AMD 核显只有半 G 显存, 而且目前显卡调度方面有一定问题, 比
 
 嘛, 电芯如何承载 20A, 就属于材料问题了..
 
+---
+
+### 处理器架构
+
+在 GitHub Release 里面经常会有多个系统/架构的编译包, 名字看起来并不能理解, 所以找个文章: <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+---
+
+### 模拟控制器-Joy
+
+尝试入坑手机模拟游戏手柄中.. <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup>
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
@@ -171,3 +204,9 @@ AMD 核显只有半 G 显存, 而且目前显卡调度方面有一定问题, 比
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [【硬件科普】现在手机还能充的更快吗？](https://www.bilibili.com/video/BV1iG411b72t)
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [电源适配器的工作原理是什么？](https://www.zhihu.com/question/455345037)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [关于 x86、x86_64、x64、amd64 和 arm64、aarch64](https://blog.csdn.net/qq_25562325/article/details/125374160)
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [适用于其他电子邮件客户端 App 的 iCloud 邮件服务器设置](https://support.apple.com/zh-cn/HT202304)
+
+<a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [教你用手机模拟方向盘玩竞速游戏(P2 教程)](https://www.bilibili.com/video/BV1Eq4y1P7hH?p=2)

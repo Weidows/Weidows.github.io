@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-09 14:31:34
+ * @LastEditTime: 2022-08-22 18:32:26
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -33,6 +33,7 @@ top_img:
   - [短语](#短语)
   - [领域](#领域)
   - [项目](#项目)
+  - [借物表](#借物表)
 
 {% endpullquote %}
 
@@ -130,20 +131,15 @@ top_img:
 
 ## 短语
 
-- how2 , html2pug , P2P
-
-  2 -> two -> to , 也就是说:
-
-  how to , html to pug , Peer to Peer 这种意思
-
-  | 英  | 汉                              |
-  | :-: | :------------------------------ |
-  | B2B | business to business,商家对商家 |
-  | C2C | consumer to consumer,个人对个人 |
-  | B2C | business to consumer,商家对个人 |
-  | O2O | online to offline,线上到线下    |
-
-  > [C2C、O2O、B2B、B2C 的区别在哪里？](https://www.zhihu.com/question/20171789)
+| 英  | 符号                                                                          |
+| :-: | :---------------------------------------------------------------------------- |
+|  2  | how2 , html2pug , P2P                                                         |
+|     | 2 -> two -> to , 也就是说:                                                    |
+|     | how to , html to pug , Peer to Peer 这种意思                                  |
+| B2B | business to business,商家对商家                                               |
+| C2C | consumer to consumer,个人对个人                                               |
+| B2C | business to consumer,商家对个人                                               |
+| O2O | online to offline,线上到线下 <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup> |
 
 - 4U , 4coder , SLF4J
 
@@ -158,6 +154,8 @@ top_img:
   dl -> download
 
   比如 YouTube-dl
+
+Too long; Don't read
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -183,3 +181,9 @@ top_img:
 ## 项目
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: https://github.com/rd2coding/Awesome-Tech-Words
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [C2C、O2O、B2B、B2C 的区别在哪里？](https://www.zhihu.com/question/20171789)

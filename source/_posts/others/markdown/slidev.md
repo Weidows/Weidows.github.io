@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-11 09:58:26
+ * @LastEditTime: 2022-08-17 22:41:49
  * @FilePath: \Blog-private\source\_posts\others\markdown\slidev.md
  * @Description:
  * @!: *********************************************************************
@@ -31,6 +31,7 @@ top_img:
   - [报错](#报错)
     - [初始化](#初始化)
     - [依赖问题](#依赖问题)
+  - [展示](#展示)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -90,6 +91,14 @@ Node.js v18.4.0
 npm cache clean --force
 npm install
 ```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 展示
+
+我在用 slidev 做 PPT, 用 markdown 写比较快捷 (虽然上手需要一定时间), 如下效果:
+
+{% pdf ../../../../categories/slidev.pdf %}
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

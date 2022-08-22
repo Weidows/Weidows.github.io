@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-02 23:01:51
+ * @LastEditTime: 2022-08-14 23:26:16
  * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -45,6 +45,7 @@ top_img:
     - [环境不一致](#环境不一致)
     - [ssh-解释器位置问题](#ssh-解释器位置问题)
     - [mayavi-安装问题](#mayavi-安装问题)
+    - [OSError](#oserror)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -575,6 +576,20 @@ Current thread 0x00002a54 (most recent call first):
   <!-- endtab -->
 
 {% endtabs %}
+
+---
+
+### OSError
+
+- > OSError: [WinError 1455] 页面文件太小，无法完成操作。 Error loading "D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\cudnn_cnn_train64_8.dll" or one of its dependencies.
+
+  重启电脑解决
+
+- > OSError: [WinError 182] 操作系统无法运行 %1。 Error loading "D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+
+  ```
+  pip install intel-openmp
+  ```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

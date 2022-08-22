@@ -16,7 +16,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-30 00:09:37
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:47:48
+ * @LastEditTime: 2022-08-14 23:31:52
  * @FilePath: \Blog-private\source\_posts\others\markdown\markdown.md
  * @Description:
 -->
@@ -198,6 +198,16 @@ top_img:
 
   ***
 
+  - > 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+
+    > 监听器经常在 GUI 编程中使用.
+
+  1. > 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+
+     > 监听器经常在 GUI 编程中使用.
+
+  ***
+
 - 写法:
 
   ```markdown
@@ -206,6 +216,16 @@ top_img:
 
   > 1. 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
   > 2. 监听器经常在 GUI 编程中使用.
+
+  ---
+
+  - > 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+
+    > 监听器经常在 GUI 编程中使用.
+
+  1. > 对应不同业务需求,存在 N 中不同的监听器接口可供实现.
+
+     > 监听器经常在 GUI 编程中使用.
   ```
 
 ---

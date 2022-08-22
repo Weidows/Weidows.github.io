@@ -21,8 +21,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-04 15:33:10
- * @FilePath: \Blog-private\source\_posts\experience\dev\sql-problem.md
+ * @LastEditTime: 2022-08-22 14:30:23
+ * @FilePath: \Blog-private\source\_posts\experience\dev\problem.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -40,9 +40,8 @@ top_img:
   - [接口数据速览](#接口数据速览)
   - [外键-数据-导出入](#外键-数据-导出入)
   - [map-and-filter](#map-and-filter)
-  - [悲观锁-乐观锁](#悲观锁-乐观锁)
-    - [上锁业务与读写性能分析](#上锁业务与读写性能分析)
-    - [行锁与表锁](#行锁与表锁)
+  - [整数计算顺序](#整数计算顺序)
+  - [API-request-body](#api-request-body)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -277,79 +276,35 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 悲观锁-乐观锁
+## 整数计算顺序
 
-对数据库中同一数据进行多个操作 (如 update),需要加锁来保证数据/操作正确 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+开发时碰到一个统计进度的问题 (l: 1-20)
 
-- 这里拿 Git 举例子:
+也就是说进度 `process = l/20 * 100`
 
-  有一个 Git 仓库, A,B,C 三个开发者负责不同开发任务
+但是写出来的程序要注意: `process = int(l*100/20)`
 
-  `悲观锁`就是保证某一时刻只能一人进行一个任务,无论谁先开始,其他人必须等到前一位完成后,在前一位的提交结果上再做操作
+如果先算 `l/20`, 因为化整会导致 process 一直为 0
 
-  `乐观锁`就是让开发者可以同起点同时进行任务,第一位完成的可以正常提交,但是后续其他人的提交会产生合并冲突,把他们打回重做(在第一位提交后的基础上)
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-  > ![R13Vcg.png](https://www.helloimg.com/images/2022/03/22/R13Vcg.png)
+## API-request-body
 
-  ***
+在调用 `https://securetoken.googleapis.com/v1/token` 时, 发现报错:
 
-- 原理: <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup>
+```
+{
+    "error": {
+        "code": 400,
+        "message": "MISSING_GRANT_TYPE",
+        "status": "INVALID_ARGUMENT"
+    }
+}
+```
 
-  悲观锁实际上就是尝试加个排它锁,能加上锁就可以操作,不然说明数据正在被操作,等着
+找了半天原因, 以为是参数/header 不对, 最后发现是传入格式不对 (用的 form-data 请求的)
 
-  乐观锁是通过添加数据版本(版本号/时间戳)来校验,提交时数据版本一致就可以提交,否则是有冲突打回
-
-  ***
-
-- 适用场景:
-
-  在高并发场景下, 乐观锁会大量打回,提交率不如悲观锁
-
-  低并发场景下, 不同任务同时操作同一数据概率低时, 乐观锁可以发挥多线程的性能优势
-
----
-
-### 上锁业务与读写性能分析
-
-- 悲观锁
-
-  在某一事务 for update 上锁后,其他所有线程 `不能读/写` 被锁数据直到 commit 后
-
-  ```sql
-  begin;
-  Select...For Update; # InnoDB 中用于加悲观锁的命令
-  update...
-  commit;
-  ```
-
-- 乐观锁
-
-  乐观锁是个概念锁, 不影响任何线程读写, 只是在更新数据/提交时校验与先前版本是否一致, 不一致的话不做更改
-
-  ```sql
-  prev_version = select version from ...
-  begin;
-  update...where version = prev_version;
-  commit;
-  ```
-
-- 综上来看
-
-  高频写 -> 悲观锁
-
-  高频读 -> 乐观锁
-
----
-
-### 行锁与表锁
-
-当 `select...where...for update` 中 where 条件用了 `index / primary key`, 就会锁行,否则会锁表 <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup>
-
-- 我的理解:
-
-  含有 index / primary key 条件的查询结果一般只有一行,索引快,上锁性能损耗低
-
-  而不含的, 查出来的结果数据量庞大, 逐行加锁性能损耗太大, 不如直接锁表
+![](https://www.helloimg.com/images/2022/08/22/ZpFGfM.png)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -360,9 +315,3 @@ top_img:
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [mybatis 模糊查询 中文问题](https://www.oschina.net/question/160183_36995)
 
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [为什么 javascript map 函数返回 undefined？(Why does javascript map function return undefined?)](https://www.dovov.com/javascript-mapundefined.html)
-
-<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [什么是悲观锁和乐观锁](https://zhuanlan.zhihu.com/p/31537871)
-
-<a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [乐观锁与悲观锁深入学习](https://zhuanlan.zhihu.com/p/85803908)
-
-<a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [字节一面：select......for update 会锁表还是锁行？](https://mp.weixin.qq.com/s/5bSLAhIATj89fFQ4uAc-Ww)
