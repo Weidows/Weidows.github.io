@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;神经学&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-01-26T16:54:04.000Z</updated>
+    <category term="java" />
+    <category term="javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="jvm" />
+    <category term="lambda" />
+    <category term="ps" />
+    <category term="备忘录" />
+    <category term="设计" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="配色" />
+    <category term="api" />
+    <category term="摄影" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="ffmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="hls" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="qq" />
+    <category term="latex" />
+    <category term="vscode" />
+    <category term="butterfly" />
+    <category term="katex" />
+    <category term="math" />
+    <category term="php" />
+    <category term="website" />
+    <category term="ssh" />
+    <category term="linux" />
+    <category term="regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="english" />
+    <category term="idea" />
+    <category term="html" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="font" />
+    <category term="vr" />
+    <category term="网课" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="音乐" />
+    <category term="哲学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="anaconda" />
+    <category term="opengl" />
+    <category term="多线程" />
+    <category term="人工智能" />
+    <category term="manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="ubuntu" />
+    <category term="windows" />
+    <category term="office" />
+    <category term="docker" />
+    <category term="进程" />
+    <category term="cpu" />
+    <category term="scoop" />
+    <category term="maven" />
+    <category term="git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="aria2" />
+    <category term="pycharm" />
+    <category term="goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="sm.ms" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="tomcat" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="笔记本" />
+    <category term="mybatis" />
+    <category term="map" />
+    <category term="crud" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="mysql" />
+    <category term="注解" />
+    <category term="jdbc" />
+    <category term="javaweb" />
+    <category term="servlet" />
+    <category term="cookie" />
+    <category term="session" />
+    <category term="jsp" />
+    <category term="filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="cors" />
+    <category term="面试" />
+    <category term="jquery" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="vue" />
+    <category term="leetcode" />
+    <category term="数据结构" />
+    <category term="c" />
+    <category term="conan" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="onenote" />
+    <category term="复变函数" />
+    <category term="sql" />
+    <category term="前端" />
+    <category term="json" />
+    <category term="mariadb" />
+    <category term="research" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="powershell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="快捷键" />
+    <category term="cmake" />
+    <category term="区块链" />
+    <category term="golang" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="processing" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="神经学" />
+    <category term="机器学习" />
+    <category term="mmdetection" />
+    <category term="hexo" />
+    <category term="github" />
+    <category term="gitee" />
+    <category term="action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="pages" />
+    <category term="copilot" />
+    <category term="插件" />
+    <category term="emmet" />
+    <category term="colab" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="seo" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="pjax" />
+    <category term="pug" />
+    <category term="styl" />
+    <entry>
+        <id>https://weidows.github.io/post/life/%E6%84%9F%E8%A8%80/1/</id>
+        <title>🥱所爱之言-所感之箴</title>
+        <link rel="alternate" href="https://weidows.github.io/post/life/%E6%84%9F%E8%A8%80/1/"/>
+        <content type="html">&lt;h1&gt;所爱之言-所感之箴&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-27 00:54:04
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-05-31 00:25:18
+ * @FilePath: \Blog-private\source\_posts\life\感言\1.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%80%E7%88%B1%E4%B9%8B%E8%A8%80-%E6%89%80%E6%84%9F%E4%B9%8B%E7%AE%B4&#34;&gt;所爱之言-所感之箴&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BF%83%E8%A6%81%E9%87%8E&#34;&gt;心要野&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%E7%9A%84%E4%BA%A7%E7%94%9F&#34;&gt;自由意志的产生&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;心要野&#34;&gt;心要野&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文链接: &lt;a href=&#34;https://www.ihewro.com/archives/1117/&#34;&gt;心要野&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;@友人c&lt;/code&gt;写的博客文章,大半夜看得我也是心有感触.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emmmm 静下心来写写作确实需要些&lt;code&gt;灵感&lt;/code&gt; + &lt;code&gt;心境&lt;/code&gt;,咱想表达啥却写不出来…&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;从自身谈起吧…&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;高中时,一直…也不能说一直吧,反正&lt;code&gt;60%目标&lt;/code&gt;聚焦在高考之上,至于快乐之源嘛,现在想想是&lt;code&gt;真的真的怀念!!!&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;罗列下吧,不为的给别人看,只是想多年后的自己仍能被这份爱打动.&lt;/p&gt;
+&lt;p&gt;那时候特喜欢看天文书,关于太阳系,银河系,黑洞啥的,还研究了一些物理知识(当然只是浅尝辄止)&lt;/p&gt;
+&lt;p&gt;最喜欢的是&lt;code&gt;罗杰·彭罗斯&lt;/code&gt;的书,虽然那书比我岁数都大 2333,他是谁呢?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;彭罗斯教授是已故英国物理学家霍金的导师。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;刚刚才知道的,原来他和他的学生都这么厉害~&lt;/p&gt;
+&lt;p&gt;那时候大课间跑操,跑完操再抽出来寥寥几分钟跑去图书馆(害,这军事化管理…何必呢),还经常遇到不开门的情况(毕竟三个年级统一管理,谁都没时间去啊),一进门偌大的图书馆,人头数手指头都数得过来…&lt;/p&gt;
+&lt;p&gt;兴匆匆的拿本&lt;code&gt;天文或者IT&lt;/code&gt;的书,不过那时候 IT 的书太老了,我也知道,就没咋看,后来在网上找的 VBS 入的门&lt;/p&gt;
+&lt;p&gt;没用多长,图书馆关于天文学的书差不多摸遍了,自己还整了个&lt;code&gt;奇葩笔记&lt;/code&gt;,封皮自己印的&lt;code&gt;DUELYST&lt;/code&gt;的海报,贼漂亮的笔记本,记了很多学习之外的东东,记得还在语文课给班上讲过一次天文 hhh,王老师面色铁青,差点把我轰下来.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;高中时宿舍关系是真的好,现在来看来说,人与人之间友谊的绊脚石,也许不是手机,也许是.&lt;/p&gt;
+&lt;p&gt;嘿嘿,卖了个关子.其实我感觉,&lt;code&gt;朋友&lt;/code&gt;对我的定义是:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;彼此乐意在对方身上浪费时间,还乐此不疲的人&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;就我们 335 宿舍,人人都有个性,但是晚上回到宿舍,谁都在干谁的事,啥事呢? 活在 335 氛围中.&lt;/p&gt;
+&lt;p&gt;或许这话让&lt;code&gt;她们&lt;/code&gt;觉得俺是大傻 X,但是,我会绞尽脑汁の对损他们的话添油加醋.🤔&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;手机让我们没有时间可浪费 - 这是好事还是坏事呢?&lt;/p&gt;
+&lt;p&gt;对我来说没答案,本来也不是个命题.&lt;/p&gt;
+&lt;p&gt;我只是希望多个能放下手机聊得来的人,说来,这里手机其实指的是一种偏见和隔阂.&lt;/p&gt;
+&lt;p&gt;我和我爸从小就合不来,我到不是因为啥小心眼记恨他,只是跟他真的没法说话,聊出不了第三句话我就跟吃了屎一样 ex,反而,我跟我爸的弟弟,我伯伯(读作 bai bai),脾气特合得来&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;写到这里,大师,我悟了!&lt;/p&gt;
+&lt;p&gt;原来我追求的是&lt;code&gt;氛围&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;朋友或对象之间都是在塑造氛围,昨儿我去大姨家吃饭,还没去就一肚子气不想去,寻思给个面子去呗,匆忙间只带了耳机,手机却快没电了…(危)&lt;/p&gt;
+&lt;p&gt;到那里,哎呦我去~! 迎面而来的一大股&lt;code&gt;不融洽感&lt;/code&gt;淦我脸上,戴上耳机装睡,还轮番到我面前说这说那,隔壁屋喝酒的那几位老古董也是各种议论这臧否那,不堪入耳…&lt;/p&gt;
+&lt;p&gt;可能是我任性,我只想在&lt;code&gt;所谓的亲戚&lt;/code&gt;面前&lt;code&gt;隐形&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;我跟我姐最亲了,世界第一喜欢!我爸妈待我不说是虐待吧,反正是让人贼烦,怎么说呢,他俩作为父母不合格,特自我.&lt;/p&gt;
+&lt;p&gt;我从小任何事都没想依靠他俩,包括衣食住行都像是借他们的钱,要是有工资,他俩安排我干的活应该能支付起我自己的抚养费 🤣&lt;/p&gt;
+&lt;p&gt;最烦扯啥淡的养育之恩,我从小让我姐带大,吃我奶奶的饭,这两位才都是我最亲的人&lt;/p&gt;
+&lt;p&gt;害,过激了,过去吧.往事随风而去?哈哈哈那太理想化了,只不过这黑锅底被岁月掏了罢了.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;大学里面,社交确实萎缩了,诶,还是说猥琐了?!&lt;/p&gt;
+&lt;p&gt;人人都在忙自己的,想在 335 时,放个屁还能听个响呢,可事到如今,我连屁都不想放了呢,嘤嘤嘤.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;好像有些消极了,转折!&lt;/p&gt;
+&lt;p&gt;最近才发现,&lt;code&gt;我&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;没错,最近我才认识了自我,用了二十来年.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;我&lt;/code&gt;追求的不是父母期望的高大上の样子,也不是高中时我眼中&lt;code&gt;高材生&lt;/code&gt;の样子,也不是同学同事眼中&lt;code&gt;大佬&lt;/code&gt;の样子(虽然确实不是吧…)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;我&lt;/code&gt;也不追名逐利,我才发现我追求的是&lt;code&gt;幸福感/满足感.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这是很难察觉的,以往的教育中只交给我们怎么竞争,怎么打倒强大的敌人,可,你达到那个高度后会发现&lt;code&gt;你存在的本身&lt;/code&gt;就是&lt;code&gt;你想打败的敌人&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;我不想成为那种人!&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;开始追求自我.&lt;/p&gt;
+&lt;p&gt;回到家后我每天晚上坚持锻炼一小时,到现在快一个月了,一天没断.&lt;/p&gt;
+&lt;p&gt;退缩过,而且也没抱着认真的态度.&lt;/p&gt;
+&lt;p&gt;如今,我发现健身真的能改变一个人,无论是从外在或者内在.&lt;/p&gt;
+&lt;p&gt;这是跟自己灵魂的较量,你会发现很有愉悦感,这是其他任何游戏无法获取的,而且锻炼时会有很多想法,毕竟大脑会自己瞎想,会整理和悟出很多东西&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在这里插个小曲吧,如果你现在有任何迟疑,不自信,焦虑,压力等等,不用考虑任何因素,去趟体育馆或者健身馆! 嫌麻烦也可以直接在家里,拿个被子,冲着它拳击!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是个不亲自体验就不知道有多大作用的行为.&lt;/p&gt;
+&lt;p&gt;如果上述症状没减轻,那就坚持下去,直到你感觉你一拳能打碎大石头为止!&lt;/p&gt;
+&lt;p&gt;对我而言,我感觉拳击能很大程度上增强自信,这并不是盲目,这种自信对宽慰消极心理很有效果,而且这个运动并不很消耗精力.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;之前的我一直在盲目&lt;code&gt;追求技术&lt;/code&gt;,现在我发现与我自己背道而驰了,就算成为世界第一技术员,也换不来&lt;code&gt;爷开颜&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;做好现在就好,做好自己就好~&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沉浸在过去或者渴望美好未来都是极其&lt;code&gt;傻傻の行为&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;因为,你,我,现在都在活着.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;没想用这篇文章输出什么知识,只是,希望这个文章成为你我之间 - 小小的蝴蝶结.&lt;/p&gt;
+&lt;img src= &#34;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2IoMzAsIDQ0LCAzNik7IGRpc3BsYXk6IGJsb2NrOyAtLWRhcmtyZWFkZXItaW5saW5lLWJnaW1hZ2U6IGluaXRpYWw7IC0tZGFya3JlYWRlci1pbmxpbmUtYmdjb2xvcjojMDAwMDAwOyIgd2lkdGg9IjIwMHB4IiBoZWlnaHQ9IjIwMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtYmdpbWFnZT0iIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWJnY29sb3I9IiI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KICAubGRpby1kMmd5cTY3YzBmZS1zdDB7b3BhY2l0eTowLjg7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ4MTE7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDJ7b3BhY2l0eTowLjg7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDN7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDR7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ2OTQ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT48c3R5bGUgY2xhc3M9ImRhcmtyZWFkZXIgZGFya3JlYWRlci0tc3luYyIgbWVkaWE9InNjcmVlbiI+PC9zdHlsZT4NCjxnIHN0eWxlPSJvcGFjaXR5OjAuNSI+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjQxLjUgNjIgMzAgNjIgMjQuMiA3MiAzMCA4MiA0MS41IDgyIDQ3LjMgNzIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI1OC44IDcyIDQ3LjMgNzIgNDEuNSA4MiA0Ny4zIDkyIDU4LjggOTIgNjQuNiA4MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9Ijc2LjIgNjIgNjQuNiA2MiA1OC44IDcyIDY0LjYgODIgNzYuMiA4MiA4MS45IDcyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNDEuNSA0MiAzMCA0MiAyNC4yIDUyIDMwIDYyIDQxLjUgNjIgNDcuMyA1MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjU4LjggMTIgNDcuMyAxMiA0MS41IDIyIDQ3LjMgMzIgNTguOCAzMiA2NC42IDIyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNTguOCAzMiA0Ny4zIDMyIDQxLjUgNDIgNDcuMyA1MiA1OC44IDUyIDY0LjYgNDIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI3Ni4yIDIyIDY0LjYgMjIgNTguOCAzMiA2NC42IDQyIDc2LjIgNDIgODEuOSAzMiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQo8L2c+DQo8Zz4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTQ4LjMgNTYuOGwtNC40IDEuNWMtMC45LTEuMy0xLjUtMi43LTEuNy00LjNsLTEuOSAwLjNjMC41IDIuNiAxLjcgNSAzLjYgNi45YzEuOSAxLjkgNC4zIDMuMSA2LjkgMy42IGwwLjMtMS45Yy0xLjYtMC4zLTMtMC45LTQuMy0xLjdMNDguMyA1Ni44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTU3LjggNDcuMmw0LjQtMS41YzAuOSAxLjMgMS41IDIuNyAxLjcgNC4zbDEuOS0wLjNjLTAuNS0yLjYtMS43LTUtMy42LTYuOWMtMS45LTEuOS00LjMtMy4xLTYuOS0zLjZMNTUgNDEuMSBjMS42IDAuMyAzIDAuOSA0LjMgMS43TDU3LjggNDcuMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik02Mi4yIDU4LjJsLTQuNC0xLjVsMS41IDQuNEM1OCA2MiA1Ni41IDYyLjYgNTUgNjIuOWwwLjMgMS45YzIuNi0wLjUgNS0xLjcgNi45LTMuNmMxLjktMS45IDMuMS00LjMgMy42LTYuOSBMNjQgNTMuOUM2My43IDU1LjUgNjMuMSA1Ni45IDYyLjIgNTguMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik00My45IDQyLjhjLTEuOSAxLjktMy4xIDQuMy0zLjYgNi45bDEuOSAwLjNjMC4zLTEuNiAwLjktMyAxLjctNC4zbDQuNCAxLjVsLTEuNS00LjRjMS4zLTAuOSAyLjctMS41IDQuMy0xLjcgbC0wLjMtMS45QzQ4LjIgMzkuNyA0NS44IDQwLjkgNDMuOSA0Mi44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjRzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MiI+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik0zNiA2MS45Yy0xLjctMy0yLjctNi40LTIuNy05LjljMC0xMC45IDguOC0xOS43IDE5LjctMTkuN3YxYy0xMC4zIDAtMTguOCA4LjQtMTguOCAxOC44IGMwIDMuMyAwLjkgNi41IDIuNSA5LjRMMzYgNjEuOXoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIycyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8ZyBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDIiPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNNTcgNzUuM2wtMC41LTNjOS45LTEuNyAxNy4yLTEwLjIgMTcuMi0yMC4zYzAtMTEuNC05LjItMjAuNi0yMC42LTIwLjZTMzIuNSA0MC42IDMyLjUgNTIgYzAgMS42IDAuMiAzLjIgMC41IDQuN2wtMyAwLjdjLTAuNC0xLjgtMC42LTMuNi0wLjYtNS40YzAtMTMuMSAxMC42LTIzLjcgMjMuNy0yMy43Uzc2LjcgMzguOSA3Ni43IDUyIEM3Ni43IDYzLjYgNjguNCA3My40IDU3IDc1LjN6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNOTAuNSA0NS40Yy0xLjUtOC44LTYuMi0xNi44LTEzLTIyLjVsMCAwYy0zLjQtMi45LTcuMy01LjEtMTEuNC02LjZzLTguNS0yLjMtMTMtMi4zdjIuNHYxLjR2Mi40IGMzLjcgMCA3LjQgMC42IDEwLjkgMS45bDAuOC0yLjNjMCAwIDAgMCAwIDBjMy43IDEuNCA3LjIgMy40IDEwLjMgNS45bDEuMi0xLjVMNzUgMjUuOGMwIDAgMCAwIDAgMGwtMS41IDEuOCBjNS43IDQuOCA5LjYgMTEuNSAxMC45IDE4LjhsMy44LTAuN2MwIDAgMCAwIDAgMEw5MC41IDQ1LjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjkuNyAyMmw0LjcgNi4xYzMuNS0yLjggNy41LTQuNiAxMS45LTUuNmwtMS43LTcuNUMzOS4yIDE2LjIgMzQuMiAxOC41IDI5LjcgMjJ6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMnMiIGtleVRpbWVzPSIwOzEiIHZhbHVlcz0iMzYwIDUzLjA2NCA1MjswIDUzLjA2NCA1MiI+PC9hbmltYXRlVHJhbnNmb3JtPg0KPC9nPg0KPGcgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QyIj4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTUzLjEgOTIuNHYtMWMyMS44IDAgMzkuNS0xNy43IDM5LjUtMzkuNWMwLTIxLjgtMTcuNy0zOS41LTM5LjUtMzkuNWMtMTUuOCAwLTMwIDkuNC0zNi4yIDIzLjhMMTUuOSAzNiBjNi40LTE0LjggMjEtMjQuNCAzNy4xLTI0LjRjMjIuMyAwIDQwLjQgMTguMSA0MC40IDQwLjRDOTMuNSA3NC4zIDc1LjMgOTIuNCA1My4xIDkyLjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxwb2x5Z29uIGZpbGw9IiNkOTUzNGYiIHBvaW50cz0iNTcuNCA1MS41IDUzLjUgNTEuNSA1My41IDQ3LjcgNTIuNiA0Ny43IDUyLjYgNTEuNSA0OC43IDUxLjUgNDguNyA1Mi41IDUyLjYgNTIuNSA1Mi42IDU2LjMgNTMuNSA1Ni4zIDUzLjUgNTIuNSA1Ny40IDUyLjUgIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojZmY0ZDQ3OyI+DQogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuMzMycyIga2V5VGltZXM9IjA7MC40OzAuNTswLjk7MSIgdmFsdWVzPSIwOzA7MTsxOzAiPjwvYW5pbWF0ZT4NCjwvcG9seWdvbj4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMzkuNyAyOC41bDAuNiAxYzMuOS0yLjIgOC4zLTMuNCAxMi44LTMuNFYyNUM0OC40IDI1IDQzLjcgMjYuMiAzOS43IDI4LjV6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTRmN2ZmOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjguNiA2MC42bC0xLjEgMC40QzMxLjMgNzEuOCA0MS42IDc5IDUzLjEgNzl2LTEuMkM0Mi4xIDc3LjkgMzIuMyA3MC45IDI4LjYgNjAuNnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSI0cyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8Zz4NCiAgPHBvbHlsaW5lIHN0cm9rZT0iIzM5ZmYzOSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QzIiBwb2ludHM9IjM1LjUgNzcuNSAyNy41IDg5LjUgMjQgODkuNSIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiMyMmZmMjI7Ij48L3BvbHlsaW5lPg0KICA8cmVjdCBzdHJva2U9IiMzOWZmMzkiIHg9IjciIHk9Ijg2IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHdpZHRoPSIxNyIgaGVpZ2h0PSI3IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6IzIyZmYyMjsiPjwvcmVjdD4NCjwvZz4NCjxnPg0KICA8cG9seWxpbmUgc3Ryb2tlPSIjMzlmZjM5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHBvaW50cz0iNTkgMjIgNjkgMTIgODIgMTIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9wb2x5bGluZT4NCiAgPGNpcmNsZSBzdHJva2U9IiMzOWZmMzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0NCIgY3g9Ijg3IiBjeT0iMTIiIHI9IjUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9jaXJjbGU+DQo8L2c+DQo8L3N2Zz4NCg==&#34; data-lazy-src=&#34;https://www.helloimg.com/images/2022/02/27/GVFOGC.png&#34; alt=&#34;20210127030515&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2IoMzAsIDQ0LCAzNik7IGRpc3BsYXk6IGJsb2NrOyAtLWRhcmtyZWFkZXItaW5saW5lLWJnaW1hZ2U6IGluaXRpYWw7IC0tZGFya3JlYWRlci1pbmxpbmUtYmdjb2xvcjojMDAwMDAwOyIgd2lkdGg9IjIwMHB4IiBoZWlnaHQ9IjIwMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtYmdpbWFnZT0iIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWJnY29sb3I9IiI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KICAubGRpby1kMmd5cTY3YzBmZS1zdDB7b3BhY2l0eTowLjg7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ4MTE7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDJ7b3BhY2l0eTowLjg7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDN7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDR7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ2OTQ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT48c3R5bGUgY2xhc3M9ImRhcmtyZWFkZXIgZGFya3JlYWRlci0tc3luYyIgbWVkaWE9InNjcmVlbiI+PC9zdHlsZT4NCjxnIHN0eWxlPSJvcGFjaXR5OjAuNSI+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjQxLjUgNjIgMzAgNjIgMjQuMiA3MiAzMCA4MiA0MS41IDgyIDQ3LjMgNzIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI1OC44IDcyIDQ3LjMgNzIgNDEuNSA4MiA0Ny4zIDkyIDU4LjggOTIgNjQuNiA4MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9Ijc2LjIgNjIgNjQuNiA2MiA1OC44IDcyIDY0LjYgODIgNzYuMiA4MiA4MS45IDcyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNDEuNSA0MiAzMCA0MiAyNC4yIDUyIDMwIDYyIDQxLjUgNjIgNDcuMyA1MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjU4LjggMTIgNDcuMyAxMiA0MS41IDIyIDQ3LjMgMzIgNTguOCAzMiA2NC42IDIyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNTguOCAzMiA0Ny4zIDMyIDQxLjUgNDIgNDcuMyA1MiA1OC44IDUyIDY0LjYgNDIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI3Ni4yIDIyIDY0LjYgMjIgNTguOCAzMiA2NC42IDQyIDc2LjIgNDIgODEuOSAzMiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQo8L2c+DQo8Zz4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTQ4LjMgNTYuOGwtNC40IDEuNWMtMC45LTEuMy0xLjUtMi43LTEuNy00LjNsLTEuOSAwLjNjMC41IDIuNiAxLjcgNSAzLjYgNi45YzEuOSAxLjkgNC4zIDMuMSA2LjkgMy42IGwwLjMtMS45Yy0xLjYtMC4zLTMtMC45LTQuMy0xLjdMNDguMyA1Ni44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTU3LjggNDcuMmw0LjQtMS41YzAuOSAxLjMgMS41IDIuNyAxLjcgNC4zbDEuOS0wLjNjLTAuNS0yLjYtMS43LTUtMy42LTYuOWMtMS45LTEuOS00LjMtMy4xLTYuOS0zLjZMNTUgNDEuMSBjMS42IDAuMyAzIDAuOSA0LjMgMS43TDU3LjggNDcuMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik02Mi4yIDU4LjJsLTQuNC0xLjVsMS41IDQuNEM1OCA2MiA1Ni41IDYyLjYgNTUgNjIuOWwwLjMgMS45YzIuNi0wLjUgNS0xLjcgNi45LTMuNmMxLjktMS45IDMuMS00LjMgMy42LTYuOSBMNjQgNTMuOUM2My43IDU1LjUgNjMuMSA1Ni45IDYyLjIgNTguMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik00My45IDQyLjhjLTEuOSAxLjktMy4xIDQuMy0zLjYgNi45bDEuOSAwLjNjMC4zLTEuNiAwLjktMyAxLjctNC4zbDQuNCAxLjVsLTEuNS00LjRjMS4zLTAuOSAyLjctMS41IDQuMy0xLjcgbC0wLjMtMS45QzQ4LjIgMzkuNyA0NS44IDQwLjkgNDMuOSA0Mi44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjRzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MiI+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik0zNiA2MS45Yy0xLjctMy0yLjctNi40LTIuNy05LjljMC0xMC45IDguOC0xOS43IDE5LjctMTkuN3YxYy0xMC4zIDAtMTguOCA4LjQtMTguOCAxOC44IGMwIDMuMyAwLjkgNi41IDIuNSA5LjRMMzYgNjEuOXoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIycyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8ZyBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDIiPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNNTcgNzUuM2wtMC41LTNjOS45LTEuNyAxNy4yLTEwLjIgMTcuMi0yMC4zYzAtMTEuNC05LjItMjAuNi0yMC42LTIwLjZTMzIuNSA0MC42IDMyLjUgNTIgYzAgMS42IDAuMiAzLjIgMC41IDQuN2wtMyAwLjdjLTAuNC0xLjgtMC42LTMuNi0wLjYtNS40YzAtMTMuMSAxMC42LTIzLjcgMjMuNy0yMy43Uzc2LjcgMzguOSA3Ni43IDUyIEM3Ni43IDYzLjYgNjguNCA3My40IDU3IDc1LjN6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNOTAuNSA0NS40Yy0xLjUtOC44LTYuMi0xNi44LTEzLTIyLjVsMCAwYy0zLjQtMi45LTcuMy01LjEtMTEuNC02LjZzLTguNS0yLjMtMTMtMi4zdjIuNHYxLjR2Mi40IGMzLjcgMCA3LjQgMC42IDEwLjkgMS45bDAuOC0yLjNjMCAwIDAgMCAwIDBjMy43IDEuNCA3LjIgMy40IDEwLjMgNS45bDEuMi0xLjVMNzUgMjUuOGMwIDAgMCAwIDAgMGwtMS41IDEuOCBjNS43IDQuOCA5LjYgMTEuNSAxMC45IDE4LjhsMy44LTAuN2MwIDAgMCAwIDAgMEw5MC41IDQ1LjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjkuNyAyMmw0LjcgNi4xYzMuNS0yLjggNy41LTQuNiAxMS45LTUuNmwtMS43LTcuNUMzOS4yIDE2LjIgMzQuMiAxOC41IDI5LjcgMjJ6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMnMiIGtleVRpbWVzPSIwOzEiIHZhbHVlcz0iMzYwIDUzLjA2NCA1MjswIDUzLjA2NCA1MiI+PC9hbmltYXRlVHJhbnNmb3JtPg0KPC9nPg0KPGcgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QyIj4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTUzLjEgOTIuNHYtMWMyMS44IDAgMzkuNS0xNy43IDM5LjUtMzkuNWMwLTIxLjgtMTcuNy0zOS41LTM5LjUtMzkuNWMtMTUuOCAwLTMwIDkuNC0zNi4yIDIzLjhMMTUuOSAzNiBjNi40LTE0LjggMjEtMjQuNCAzNy4xLTI0LjRjMjIuMyAwIDQwLjQgMTguMSA0MC40IDQwLjRDOTMuNSA3NC4zIDc1LjMgOTIuNCA1My4xIDkyLjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxwb2x5Z29uIGZpbGw9IiNkOTUzNGYiIHBvaW50cz0iNTcuNCA1MS41IDUzLjUgNTEuNSA1My41IDQ3LjcgNTIuNiA0Ny43IDUyLjYgNTEuNSA0OC43IDUxLjUgNDguNyA1Mi41IDUyLjYgNTIuNSA1Mi42IDU2LjMgNTMuNSA1Ni4zIDUzLjUgNTIuNSA1Ny40IDUyLjUgIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojZmY0ZDQ3OyI+DQogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuMzMycyIga2V5VGltZXM9IjA7MC40OzAuNTswLjk7MSIgdmFsdWVzPSIwOzA7MTsxOzAiPjwvYW5pbWF0ZT4NCjwvcG9seWdvbj4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMzkuNyAyOC41bDAuNiAxYzMuOS0yLjIgOC4zLTMuNCAxMi44LTMuNFYyNUM0OC40IDI1IDQzLjcgMjYuMiAzOS43IDI4LjV6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTRmN2ZmOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjguNiA2MC42bC0xLjEgMC40QzMxLjMgNzEuOCA0MS42IDc5IDUzLjEgNzl2LTEuMkM0Mi4xIDc3LjkgMzIuMyA3MC45IDI4LjYgNjAuNnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSI0cyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8Zz4NCiAgPHBvbHlsaW5lIHN0cm9rZT0iIzM5ZmYzOSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QzIiBwb2ludHM9IjM1LjUgNzcuNSAyNy41IDg5LjUgMjQgODkuNSIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiMyMmZmMjI7Ij48L3BvbHlsaW5lPg0KICA8cmVjdCBzdHJva2U9IiMzOWZmMzkiIHg9IjciIHk9Ijg2IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHdpZHRoPSIxNyIgaGVpZ2h0PSI3IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6IzIyZmYyMjsiPjwvcmVjdD4NCjwvZz4NCjxnPg0KICA8cG9seWxpbmUgc3Ryb2tlPSIjMzlmZjM5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHBvaW50cz0iNTkgMjIgNjkgMTIgODIgMTIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9wb2x5bGluZT4NCiAgPGNpcmNsZSBzdHJva2U9IiMzOWZmMzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0NCIgY3g9Ijg3IiBjeT0iMTIiIHI9IjUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9jaXJjbGU+DQo8L2c+DQo8L3N2Zz4NCg==&#34; data-lazy-src=&#34;https://www.helloimg.com/images/2022/07/01/ZM0SoX.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;自由意志的产生&#34;&gt;自由意志的产生&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;群友问的 &lt;br&gt;
+&lt;img src= &#34;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2IoMzAsIDQ0LCAzNik7IGRpc3BsYXk6IGJsb2NrOyAtLWRhcmtyZWFkZXItaW5saW5lLWJnaW1hZ2U6IGluaXRpYWw7IC0tZGFya3JlYWRlci1pbmxpbmUtYmdjb2xvcjojMDAwMDAwOyIgd2lkdGg9IjIwMHB4IiBoZWlnaHQ9IjIwMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtYmdpbWFnZT0iIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWJnY29sb3I9IiI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KICAubGRpby1kMmd5cTY3YzBmZS1zdDB7b3BhY2l0eTowLjg7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ4MTE7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDJ7b3BhY2l0eTowLjg7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDN7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDR7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ2OTQ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT48c3R5bGUgY2xhc3M9ImRhcmtyZWFkZXIgZGFya3JlYWRlci0tc3luYyIgbWVkaWE9InNjcmVlbiI+PC9zdHlsZT4NCjxnIHN0eWxlPSJvcGFjaXR5OjAuNSI+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjQxLjUgNjIgMzAgNjIgMjQuMiA3MiAzMCA4MiA0MS41IDgyIDQ3LjMgNzIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI1OC44IDcyIDQ3LjMgNzIgNDEuNSA4MiA0Ny4zIDkyIDU4LjggOTIgNjQuNiA4MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9Ijc2LjIgNjIgNjQuNiA2MiA1OC44IDcyIDY0LjYgODIgNzYuMiA4MiA4MS45IDcyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNDEuNSA0MiAzMCA0MiAyNC4yIDUyIDMwIDYyIDQxLjUgNjIgNDcuMyA1MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjU4LjggMTIgNDcuMyAxMiA0MS41IDIyIDQ3LjMgMzIgNTguOCAzMiA2NC42IDIyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNTguOCAzMiA0Ny4zIDMyIDQxLjUgNDIgNDcuMyA1MiA1OC44IDUyIDY0LjYgNDIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI3Ni4yIDIyIDY0LjYgMjIgNTguOCAzMiA2NC42IDQyIDc2LjIgNDIgODEuOSAzMiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQo8L2c+DQo8Zz4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTQ4LjMgNTYuOGwtNC40IDEuNWMtMC45LTEuMy0xLjUtMi43LTEuNy00LjNsLTEuOSAwLjNjMC41IDIuNiAxLjcgNSAzLjYgNi45YzEuOSAxLjkgNC4zIDMuMSA2LjkgMy42IGwwLjMtMS45Yy0xLjYtMC4zLTMtMC45LTQuMy0xLjdMNDguMyA1Ni44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTU3LjggNDcuMmw0LjQtMS41YzAuOSAxLjMgMS41IDIuNyAxLjcgNC4zbDEuOS0wLjNjLTAuNS0yLjYtMS43LTUtMy42LTYuOWMtMS45LTEuOS00LjMtMy4xLTYuOS0zLjZMNTUgNDEuMSBjMS42IDAuMyAzIDAuOSA0LjMgMS43TDU3LjggNDcuMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik02Mi4yIDU4LjJsLTQuNC0xLjVsMS41IDQuNEM1OCA2MiA1Ni41IDYyLjYgNTUgNjIuOWwwLjMgMS45YzIuNi0wLjUgNS0xLjcgNi45LTMuNmMxLjktMS45IDMuMS00LjMgMy42LTYuOSBMNjQgNTMuOUM2My43IDU1LjUgNjMuMSA1Ni45IDYyLjIgNTguMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik00My45IDQyLjhjLTEuOSAxLjktMy4xIDQuMy0zLjYgNi45bDEuOSAwLjNjMC4zLTEuNiAwLjktMyAxLjctNC4zbDQuNCAxLjVsLTEuNS00LjRjMS4zLTAuOSAyLjctMS41IDQuMy0xLjcgbC0wLjMtMS45QzQ4LjIgMzkuNyA0NS44IDQwLjkgNDMuOSA0Mi44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjRzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MiI+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik0zNiA2MS45Yy0xLjctMy0yLjctNi40LTIuNy05LjljMC0xMC45IDguOC0xOS43IDE5LjctMTkuN3YxYy0xMC4zIDAtMTguOCA4LjQtMTguOCAxOC44IGMwIDMuMyAwLjkgNi41IDIuNSA5LjRMMzYgNjEuOXoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIycyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8ZyBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDIiPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNNTcgNzUuM2wtMC41LTNjOS45LTEuNyAxNy4yLTEwLjIgMTcuMi0yMC4zYzAtMTEuNC05LjItMjAuNi0yMC42LTIwLjZTMzIuNSA0MC42IDMyLjUgNTIgYzAgMS42IDAuMiAzLjIgMC41IDQuN2wtMyAwLjdjLTAuNC0xLjgtMC42LTMuNi0wLjYtNS40YzAtMTMuMSAxMC42LTIzLjcgMjMuNy0yMy43Uzc2LjcgMzguOSA3Ni43IDUyIEM3Ni43IDYzLjYgNjguNCA3My40IDU3IDc1LjN6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNOTAuNSA0NS40Yy0xLjUtOC44LTYuMi0xNi44LTEzLTIyLjVsMCAwYy0zLjQtMi45LTcuMy01LjEtMTEuNC02LjZzLTguNS0yLjMtMTMtMi4zdjIuNHYxLjR2Mi40IGMzLjcgMCA3LjQgMC42IDEwLjkgMS45bDAuOC0yLjNjMCAwIDAgMCAwIDBjMy43IDEuNCA3LjIgMy40IDEwLjMgNS45bDEuMi0xLjVMNzUgMjUuOGMwIDAgMCAwIDAgMGwtMS41IDEuOCBjNS43IDQuOCA5LjYgMTEuNSAxMC45IDE4LjhsMy44LTAuN2MwIDAgMCAwIDAgMEw5MC41IDQ1LjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjkuNyAyMmw0LjcgNi4xYzMuNS0yLjggNy41LTQuNiAxMS45LTUuNmwtMS43LTcuNUMzOS4yIDE2LjIgMzQuMiAxOC41IDI5LjcgMjJ6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMnMiIGtleVRpbWVzPSIwOzEiIHZhbHVlcz0iMzYwIDUzLjA2NCA1MjswIDUzLjA2NCA1MiI+PC9hbmltYXRlVHJhbnNmb3JtPg0KPC9nPg0KPGcgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QyIj4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTUzLjEgOTIuNHYtMWMyMS44IDAgMzkuNS0xNy43IDM5LjUtMzkuNWMwLTIxLjgtMTcuNy0zOS41LTM5LjUtMzkuNWMtMTUuOCAwLTMwIDkuNC0zNi4yIDIzLjhMMTUuOSAzNiBjNi40LTE0LjggMjEtMjQuNCAzNy4xLTI0LjRjMjIuMyAwIDQwLjQgMTguMSA0MC40IDQwLjRDOTMuNSA3NC4zIDc1LjMgOTIuNCA1My4xIDkyLjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxwb2x5Z29uIGZpbGw9IiNkOTUzNGYiIHBvaW50cz0iNTcuNCA1MS41IDUzLjUgNTEuNSA1My41IDQ3LjcgNTIuNiA0Ny43IDUyLjYgNTEuNSA0OC43IDUxLjUgNDguNyA1Mi41IDUyLjYgNTIuNSA1Mi42IDU2LjMgNTMuNSA1Ni4zIDUzLjUgNTIuNSA1Ny40IDUyLjUgIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojZmY0ZDQ3OyI+DQogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuMzMycyIga2V5VGltZXM9IjA7MC40OzAuNTswLjk7MSIgdmFsdWVzPSIwOzA7MTsxOzAiPjwvYW5pbWF0ZT4NCjwvcG9seWdvbj4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMzkuNyAyOC41bDAuNiAxYzMuOS0yLjIgOC4zLTMuNCAxMi44LTMuNFYyNUM0OC40IDI1IDQzLjcgMjYuMiAzOS43IDI4LjV6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTRmN2ZmOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjguNiA2MC42bC0xLjEgMC40QzMxLjMgNzEuOCA0MS42IDc5IDUzLjEgNzl2LTEuMkM0Mi4xIDc3LjkgMzIuMyA3MC45IDI4LjYgNjAuNnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSI0cyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8Zz4NCiAgPHBvbHlsaW5lIHN0cm9rZT0iIzM5ZmYzOSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QzIiBwb2ludHM9IjM1LjUgNzcuNSAyNy41IDg5LjUgMjQgODkuNSIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiMyMmZmMjI7Ij48L3BvbHlsaW5lPg0KICA8cmVjdCBzdHJva2U9IiMzOWZmMzkiIHg9IjciIHk9Ijg2IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHdpZHRoPSIxNyIgaGVpZ2h0PSI3IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6IzIyZmYyMjsiPjwvcmVjdD4NCjwvZz4NCjxnPg0KICA8cG9seWxpbmUgc3Ryb2tlPSIjMzlmZjM5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHBvaW50cz0iNTkgMjIgNjkgMTIgODIgMTIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9wb2x5bGluZT4NCiAgPGNpcmNsZSBzdHJva2U9IiMzOWZmMzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0NCIgY3g9Ijg3IiBjeT0iMTIiIHI9IjUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9jaXJjbGU+DQo8L2c+DQo8L3N2Zz4NCg==&#34; data-lazy-src=&#34;https://www.helloimg.com/images/2022/05/31/Zeg0nz.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自由意志应该能理解为信息熵，人类大脑足够支撑起所谓的自由意志熵，猪脑按硬件性能来说也行，但它的大脑算法在这方面并没有人脑强&lt;/p&gt;
+&lt;p&gt;可以看看元胞自动机，人类大脑的规模和设计应该是在心理方面最强的，很多大型生物规模比人大，但设计不足，猴脑比人小但是瞬时记忆吊打人类，海豚一些判断能力也比人强&lt;/p&gt;
+&lt;p&gt;从元胞自动机角度看，自由意志类似新大陆，人类大脑的自动机恰好能发射并激活到那片区域，其他生物还没抵达，或者抵达了但规模只能达到情绪级别，没到意志&lt;/p&gt;
+&lt;p&gt;把情绪看做一个人的话，多人组成的文明就是意志&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="生活" />
+        <category term="哲学" />
+        <category term="神经学" />
+        <updated>2021-01-26T16:54:04.000Z</updated>
+    </entry>
+</feed>
