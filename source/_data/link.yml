@@ -15,7 +15,7 @@
       descr: 今日事,今日畢
     - name: 小康博客
       link: https://www.antmoe.com/
-      avatar: https://fastly.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
       descr: 一个收藏回忆与分享技术的地方！
     - name: Mashiro
       link: https://2heng.xin
@@ -23,7 +23,7 @@
       descr: 樱花庄的白猫
     - name: Sky03’s Blog
       link: https://blog.sky03.cn/
-      avatar: https://fastly.jsdelivr.net/gh/skyls03/skyls03.github.io/medias/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io/medias/avatar.jpg
       descr: 梦想注定是孤独的旅程。。。
     - name: ConstOwn
       link: https://blog.juanertu.com
@@ -35,27 +35,27 @@
       descr: 爱折腾的设计师
     - name: uncleacc
       link: https://www.fezhu.top
-      avatar: https://fastly.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/uncleacc/cdn/img/custom/avatar.jpg
       descr: 一只努力学习的蒟蒻仔
     - name: Uncle_drew
       link: https://cndrew.cn
-      avatar: https://fastly.jsdelivr.net/gh/drew233/cdn/dreww.webp
+      avatar: https://cdn.jsdelivr.net/gh/drew233/cdn/dreww.webp
       descr: Hand down,man down
     - name: 云玩家
       link: https://yunist.cn
-      avatar: https://fastly.jsdelivr.net/gh/cnyist/blog/img/avatar.svg
+      avatar: https://cdn.jsdelivr.net/gh/cnyist/blog/img/avatar.svg
       descr: 虽于果壳内, 我亦无限王.
     - name: 超逸の技术博客
       link: https://yangchaoyi.vip/
-      avatar: https://fastly.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
       descr: 不是只会写业务代码の前端攻城狮
     - name: 山河
       link: https://sang.pub/
-      avatar: https://fastly.jsdelivr.net/gh/mydracula/image@master/20210330/fb345fa732f23f3fe9f1fd962168f24f.jpg
+      avatar: https://cdn.jsdelivr.net/gh/mydracula/image@master/20210330/fb345fa732f23f3fe9f1fd962168f24f.jpg
       descr: 你喜欢我吗
     - name: HCLonely
       link: https://blog.hclonely.com/
-      avatar: https://fastly.jsdelivr.net/gh/HCLonely/blog.hclonely.com@latest/img/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@latest/img/avatar.jpg
       descr: 一个懒人的博客
     - name: 昔日博客
       link: http://bk.hyk416.cn
@@ -75,7 +75,7 @@
       descr: 一只努力向上的菜鸟
     - name: 花诽语
       link: https://sakurafeiyu.gitee.io/
-      avatar: https://fastly.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/1046700338.png
+      avatar: https://cdn.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/1046700338.png
       descr: 授人与鱼不如授人与渔
     - name: yiyun's Blog
       link: https://moeci.com

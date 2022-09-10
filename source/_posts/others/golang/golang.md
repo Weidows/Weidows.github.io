@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-22 18:01:40
+ * @LastEditTime: 2022-09-09 11:22:20
  * @FilePath: \Blog-private\source\_posts\others\golang\golang.md
  * @Description:
  * @!: *********************************************************************
@@ -29,8 +29,10 @@ top_img:
 - [从零开始-Golang](#从零开始-golang)
   - [配置](#配置)
     - [常用命令](#常用命令)
-    - [快捷键迁移](#快捷键迁移)
+    - [Go-env](#go-env)
+    - [Goland-快捷键迁移](#goland-快捷键迁移)
     - [项目热部署](#项目热部署)
+    - [go-install](#go-install)
   - [learning](#learning)
     - [package](#package)
       - [package-demo](#package-demo)
@@ -39,15 +41,16 @@ top_img:
     - [名称规范](#名称规范)
     - [补充](#补充)
     - [TODO](#todo)
-  - [阿里云效-go-mod](#阿里云效-go-mod)
-    - [官方文档](#官方文档)
-    - [Go-env](#go-env)
-    - [鉴权失败问题](#鉴权失败问题)
-    - [Macos](#macos)
-    - [GOSUMDB-代理问题](#gosumdb-代理问题)
-    - [hostname-无法解析](#hostname-无法解析)
-  - [proto-compile](#proto-compile)
+  - [常见问题](#常见问题)
+    - [阿里云效-go-mod](#阿里云效-go-mod)
+      - [官方文档](#官方文档)
+      - [私有库连接问题](#私有库连接问题)
+      - [鉴权失败问题](#鉴权失败问题)
+      - [Macos](#macos)
+      - [GOSUMDB-代理问题](#gosumdb-代理问题)
+      - [hostname-无法解析](#hostname-无法解析)
     - [protobuf-无法获取](#protobuf-无法获取)
+    - [go-get-更新依赖无效](#go-get-更新依赖无效)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -62,7 +65,7 @@ top_img:
 
 ### 常用命令
 
-```
+```shell
 # windows 安装
 scoop install go-cn
 
@@ -71,12 +74,87 @@ go mod init ProjectName
 
 # 依赖更新
 go get -u xxx
+# Go 1.16 及以后版本
+go install xxx
 go mod tidy
+
+# 显示已安装的package
+go list ...
+gopkgs
 ```
 
 > cannot determine module path for source directory (outside GOPATH<sup id='cite_ref-03'>[\[3\]](#cite_note-03)</sup>
 
-### 快捷键迁移
+---
+
+### Go-env
+
+可以通过设置系统环境变量和使用 `go env -w` 两种形式 <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>, 前者权限大于后者, 推荐用后者 (已经测试好的配置, 尽量别改了)
+
+```
+# 代理服务列表
+[Environment]::SetEnvironmentVariable('GOPROXY', 'https://proxy.golang.com.cn,direct', 'User')
+# GOSUMDB 建议留空取默认的sum.golang.org, 速度慢点总比疯狂报错好
+[Environment]::SetEnvironmentVariable('GOSUMDB', '', 'User')
+
+# # Go 1.15 及之前版本
+go env -w GO111MODULE=on
+# 下面二选一
+go env -w GOPROXY=https://proxy.golang.com.cn,direct
+go env -w GOPROXY=https://goproxy.cn,direct
+go env -w GOSUMDB=
+
+# 已失效
+go env -w GOPROXY=https://goproxy.io,direct
+```
+
+- 通过 `go env` 查看更改后的 (有时可能要重启才生效)
+
+  ```console
+  set GO111MODULE=on
+  set GOARCH=amd64
+  set GOBIN=
+  set GOCACHE=C:\Users\Administrator\AppData\Local\go-build
+  set GOENV=C:\Users\Administrator\AppData\Roaming\go\env
+  set GOEXE=.exe
+  set GOEXPERIMENT=
+  set GOFLAGS=
+  set GOHOSTARCH=amd64
+  set GOHOSTOS=windows
+  set GOINSECURE=
+  set GOMODCACHE=D:\Scoop\apps\go-cn\current\global_path\pkg\mod
+  set GONOPROXY=codeup.aliyun.com
+  set GONOSUMDB=codeup.aliyun.com
+  set GOOS=windows
+  set GOPATH=D:\Scoop\apps\go-cn\current\global_path
+  set GOPRIVATE=codeup.aliyun.com
+  set GOPROXY=https://proxy.golang.com.cn,direct
+  set GOROOT=D:\Scoop\apps\go-cn\current
+  set GOSUMDB=sum.golang.org
+  set GOTMPDIR=
+  set GOTOOLDIR=D:\Scoop\apps\go-cn\current\pkg\tool\windows_amd64
+  set GOVCS=
+  set GOVERSION=go1.19
+  set GCCGO=gccgo
+  set GOAMD64=v1
+  set AR=ar
+  set CC=gcc
+  set CXX=g++
+  set CGO_ENABLED=1
+  set GOMOD=NUL
+  set GOWORK=
+  set CGO_CFLAGS=-g -O2
+  set CGO_CPPFLAGS=
+  set CGO_CXXFLAGS=-g -O2
+  set CGO_FFLAGS=-g -O2
+  set CGO_LDFLAGS=-g -O2
+  set PKG_CONFIG=pkg-config
+  set GOGCCFLAGS=-m64 -mthreads -Wl,--no-gc-sections -fmessage-length=0 -fdebug-prefix-map=C:\Users\ADMINI~1\AppData\Local\Temp\go-build2787993248=/tmp/go-build -gno-record-gcc-switches
+  ```
+
+---
+
+### Goland-快捷键迁移
 
 在另一篇: [🤔Matters-found-in-IDEs](../../../tools/IDE-matters#Goland-快捷键导入)
 
@@ -131,6 +209,18 @@ go mod tidy
    ```
 
 4. console 直接运行 air, 就可以热部署开发了, 缺点是不能 Debug
+
+---
+
+### go-install
+
+给出地址, go 可以直接拉下来编译为对应平台的可执行文件
+
+```
+go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+go install github.com/cuigh/protoc-gen-auxo@latest
+go install github.com/tpng/gopkgs@latest
+```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -261,81 +351,33 @@ var (
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 阿里云效-go-mod
+## 常见问题
 
-### 官方文档
+### 阿里云效-go-mod
+
+#### 官方文档
 
 > [代码服务常见问题 FAQ](https://help.aliyun.com/document_detail/217597.html#section-515-iz5-zp0)
 
 ---
 
-### Go-env
+#### 私有库连接问题
 
-可以通过设置系统环境变量和使用 `go env -w` 两种形式 <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>, 前者权限大于后者, 推荐用后者 (已经测试好的配置, 尽量别改了)
+私有库无论走代理/Direct 都拉不到, 只需要配置下面这个
 
 ```
-# 代理服务列表
-[Environment]::SetEnvironmentVariable('GOPROXY', 'https://goproxy.io,direct', 'User')
-# GOSUMDB 建议留空, 速度慢点总比疯狂报错好
-[Environment]::SetEnvironmentVariable('GOSUMDB', '', 'User')
 # 代理黑名单 - 不走代理的域名; 公司用的私有库走代理是找不找的, 需要写进黑名单; 一般只需要改 GOPRIVATE, 后两个默认取 GOPRIVATE 所以不需要动
 [Environment]::SetEnvironmentVariable('GOPRIVATE', 'codeup.aliyun.com', 'User')
 [Environment]::SetEnvironmentVariable('GONOPROXY', 'codeup.aliyun.com', 'User')
 [Environment]::SetEnvironmentVariable('GONOSUMDB', 'codeup.aliyun.com', 'User')
 
-go env -w GOPROXY=https://goproxy.io,direct
-go env -w GOSUMDB=
+# 建议用下面这个命令
 go env -w GOPRIVATE=codeup.aliyun.com
 ```
 
-- 通过 `go env` 查看更改后的 (有时可能要重启才生效)
-
-  ```console
-  ╰─ go env
-  set GO111MODULE=
-  set GOARCH=amd64
-  set GOBIN=
-  set GOCACHE=C:\Users\Administrator\AppData\Local\go-build
-  set GOENV=C:\Users\Administrator\AppData\Roaming\go\env
-  set GOEXE=.exe
-  set GOEXPERIMENT=
-  set GOFLAGS=
-  set GOHOSTARCH=amd64
-  set GOHOSTOS=windows
-  set GOINSECURE=
-  set GOMODCACHE=D:\Scoop\apps\go-cn\current\global_path\pkg\mod
-  set GONOPROXY=codeup.aliyun.com
-  set GONOSUMDB=codeup.aliyun.com
-  set GOOS=windows
-  set GOPATH=D:\Scoop\apps\go-cn\current\global_path
-  set GOPRIVATE=codeup.aliyun.com
-  set GOPROXY=https://goproxy.io,direct
-  set GOROOT=D:\Scoop\apps\go-cn\current
-  set GOSUMDB=goproxy.io
-  set GOTMPDIR=
-  set GOTOOLDIR=D:\Scoop\apps\go-cn\current\pkg\tool\windows_amd64
-  set GOVCS=
-  set GOVERSION=go1.18.3
-  set GCCGO=gccgo
-  set GOAMD64=v1
-  set AR=ar
-  set CC=gcc
-  set CXX=g++
-  set CGO_ENABLED=1
-  set GOMOD=NUL
-  set GOWORK=
-  set CGO_CFLAGS=-g -O2
-  set CGO_CPPFLAGS=
-  set CGO_CXXFLAGS=-g -O2
-  set CGO_FFLAGS=-g -O2
-  set CGO_LDFLAGS=-g -O2
-  set PKG_CONFIG=pkg-config
-  set GOGCCFLAGS=-m64 -mthreads -fmessage-length=0 -fdebug-prefix-map=C:\Users\ADMINI~1\AppData\Local\Temp\go-build3698608498=/tmp/go-build -gno-record-gcc-switches
-  ```
-
 ---
 
-### 鉴权失败问题
+#### 鉴权失败问题
 
 通过 go get 下载云效的私有 Mod 时需要做鉴权
 
@@ -364,7 +406,7 @@ password xxxx
 
 ---
 
-### Macos
+#### Macos
 
 ```
 go: codeup.aliyun.com/wenuts/basis/gox@v0.0.0-20220802063744-4facf115cdc5: invalid version: git ls-remote -q origin in /Users/weidows/go/pkg/mod/cache/vcs/94a54894325b8a8441b8518aba18b8841ef7b2b555fe37fcd220c2d9a7755096: exit status 128:
@@ -382,7 +424,7 @@ If this is a private repository, see https://golang.org/doc/faq#git_https for ad
 
 ---
 
-### GOSUMDB-代理问题
+#### GOSUMDB-代理问题
 
 ```
 ╰─ go get -u codeup.aliyun.com/wenuts/aimage/service
@@ -397,11 +439,13 @@ go env -w GOSUMDB=
 
 ---
 
-### hostname-无法解析
+#### hostname-无法解析
 
 ```
 ssh: Could not resolve hostname codeup.aliyun.com: Name or service not known
 Ping request could not find host codeup.aliyun.com. Please check the name and try again.
+或者
+ssh: Could not resolve hostname codeup.aliyun.com: Name or service not known Could not read from remote repository.  Please make sure you have the correct access rights and the repository exists.
 ```
 
 很奇葩的问题, 通过 ssh 推代码或者 ping 时都不通, 但是网页可以访问, 清理本机 DNS 缓存也不管用
@@ -410,19 +454,23 @@ Ping request could not find host codeup.aliyun.com. Please check the name and tr
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## proto-compile
-
-```
-protoc -I . -I D:\Scoop\apps\protobuf\21.4\include\google\protobuf --go_out=. --auxo_out=. --go_opt=paths=source_relative --auxo_opt=paths=source_relative *.proto
-```
-
 ### protobuf-无法获取
 
 手动下载的话可以参照: <sup id='cite_ref-8'>[\[8\]](#cite_note-8)</sup> 另外配置好下面提到的配置+有魔法能力, 不会出现这问题
 
 ```
-go env -w GOPROXY=https://goproxy.io,direct
+go env -w GOPROXY=https://proxy.golang.com.cn,direct
 go env -w GOSUMDB=
+```
+
+---
+
+### go-get-更新依赖无效
+
+很有可能因为设置了 GOPROXY, 拉不到最新的所以无效, 换成默认的就行了:
+
+```
+go env -w GOPROXY=
 ```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>

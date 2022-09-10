@@ -255,7 +255,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVLioP.png
   - `注意缩进对齐!`
 
   ```js
-    document.getElementById("go-up").innerHTML += "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://fastly.jsdelivr.net/gh/Weidows/Images/img/up.png' title='芜湖起飞!' >";
+    document.getElementById("go-up").innerHTML += "<img class='fas fa-arrow-up' style='max-width: 300%; transform: translate(-30px,0px);' src='https://cdn.jsdelivr.net/gh/Weidows/Images/img/up.png' title='芜湖起飞!' >";
     new xkTool().footFish();
   ```
 

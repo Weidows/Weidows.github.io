@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2022-05-17 17:39:38
+ * @LastEditTime: 2022-08-30 18:09:17
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -56,6 +56,7 @@ top_img:
   - [windows-防火墙通知](#windows-防火墙通知)
   - [utools](#utools)
     - [剪切板打不开](#剪切板打不开)
+  - [爆内存](#爆内存)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -385,6 +386,20 @@ LSP mode : on
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
+## 爆内存
+
+有时候会遇到明明内存剩余量还挺大, 但是爆了 (windows 报内存不足, 或者软件集体崩溃)
+
+很有可能是虚拟内存不足导致的 <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>, 一般要设物理内存的 1.5~3 倍, 另外也推荐下图的 Mem Reduct 清内存
+
+![](https://www.helloimg.com/images/2022/08/30/Zz2izu.png)
+
+另外一种虽然看起来对数据没影响, 但是确实有点效果的: [解决 cpu 利用率低、内存占用高的一种方法](https://www.bilibili.com/video/BV1ma411y7gD/)
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [[Bug]: 开启 clash 后无法登录 onedrive #2876](https://github.com/Fndroid/clash_for_windows_pkg/issues/2876)
+
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [windows 内存管理机制。虚拟内存设置问题](https://answers.microsoft.com/zh-hans/windows/forum/all/windows/e1a6c144-26e1-4c1a-af27-c5c90fd60308?page=2)

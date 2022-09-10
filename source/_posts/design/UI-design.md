@@ -16,7 +16,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-30 18:40:45
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-22 00:38:53
+ * @LastEditTime: 2022-09-01 20:12:51
  * @FilePath: \Blog-private\source\_posts\design\UI-design.md
  * @Description:
  * @!: *********************************************************************
@@ -30,6 +30,8 @@ top_img:
     - [图大于字](#图大于字)
     - [非标准与留白](#非标准与留白)
   - [配色](#配色)
+    - [色卡](#色卡)
+  - [借物表](#借物表)
 
 {% endpullquote %}
 
@@ -97,3 +99,37 @@ top_img:
 恰逢见到此视频讲解配色,有空修理一番:
 
 {% mmedia "bilibili" "bvid:BV1oV411p7AW" %}
+
+---
+
+### 色卡
+
+复制到 vscode 就会呈现出颜色
+
+|   颜色名    | 十六进制 |        RGB         |
+| :---------: | :------: | :----------------: |
+|  SteelBlue  | #4682B4  | rgb(70, 130, 180)  |
+|     Tan     | #D2B48C  | rgb(210, 180, 140) |
+|    Teal     | #008080  |  rgb(0, 128, 128)  |
+|   Thistle   | #D8BFD8  | rgb(216, 191, 216) |
+|   Tomato    | #FF6347  |  rgb(255, 99, 71)  |
+|  Turquoise  | #40E0D0  | rgb(64, 224, 208)  |
+|   Violet    | #EE82EE  | rgb(238, 130, 238) |
+|  VioletRed  | #D02090  | rgb(208, 32, 144)  |
+|    Wheat    | #F5DEB3  | rgb(245, 222, 179) |
+|    White    | #FFFFFF  | rgb(255, 255, 255) |
+| WhiteSmoke  | #F5F5F5  | rgb(245, 245, 245) |
+|   Yellow    | #FFFF00  |  rgb(255, 255, 0)  |
+| YellowGreen | #9ACD32  | rgb(154, 205, 50)  |
+|   蒂芙尼    | #67c5c4  |                    |
+|  deeppink   |          |                    |
+|    aqua     |          |                    |
+|             | #39C5BB  |                    |
+|             | #FFC910  |                    |
+|             | #02C3F6  |                    |
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+暂无..

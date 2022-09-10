@@ -1,5 +1,5 @@
 ---
-title: 🙌Windows平台软件包管理器选择-Scoop
+title: 🙌软件包管理器对比和使用
 date: 2021-01-14 23:09:52
 password: ""
 tags:
@@ -8,87 +8,114 @@ tags:
   - package
   - 工具
   - 推荐
+  - homebrew
 cover: https://www.helloimg.com/images/2022/02/27/GVSXT0.png
 top_img:
 ---
+
+# 对比软件包管理器
 
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-12 10:37:57
+ * @LastEditTime: 2022-08-23 15:02:39
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [引入变量](#引入变量)
-- [各个优缺点](#各个优缺点)
-- [安装](#安装)
-  - [Scoop](#scoop)
-  - [Chocolatey](#chocolatey)
-- [功能提升](#功能提升)
-  - [scoop-completion](#scoop-completion)
-  - [加速下载](#加速下载)
-- [Scoop 绝活](#scoop-绝活)
-- [配置文件](#配置文件)
-  - [Scoop](#scoop-1)
-  - [Chocolatey](#chocolatey-1)
-- [好文传送](#好文传送)
-- [报错异常](#报错异常)
-  - [网络原因](#网络原因)
-  - [环境原因](#环境原因)
-  - [内核更换报错](#内核更换报错)
-  - [scoop-search](#scoop-search)
-- [更新&备份&推荐](#更新备份推荐)
+{% pullquote mindmap mindmap-md %}
 
-## 引入变量
+- [对比软件包管理器](#对比软件包管理器)
+  - [简介-各个优缺点](#简介-各个优缺点)
+    - [Scoop](#scoop)
+    - [Chocolatey](#chocolatey)
+    - [WinGet](#winget)
+    - [Homebrew](#homebrew)
+  - [安装-使用](#安装-使用)
+    - [Scoop](#scoop-1)
+    - [Chocolatey](#chocolatey-1)
+    - [Homebrew](#homebrew-1)
+    - [配置文件](#配置文件)
+  - [功能提升](#功能提升)
+    - [scoop-completion](#scoop-completion)
+    - [加速下载](#加速下载)
+  - [报错异常](#报错异常)
+    - [网络原因](#网络原因)
+    - [环境原因](#环境原因)
+    - [内核更换报错](#内核更换报错)
+    - [scoop-search](#scoop-search)
+    - [brew-install-error](#brew-install-error)
+  - [推荐](#推荐)
+    - [备份](#备份)
+    - [文章](#文章)
+  - [借物表](#借物表)
 
-- 软件包管理器: 就像是 360 软件管家,腾讯软件管家之类的
+{% endpullquote %}
 
-- 此文章要介绍的是`Scoop`- 横向简单对比`Chocolatey`和`WinGet`
+## 简介-各个优缺点
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+- 软件包管理器: 就像是 360 软件管家,腾讯软件管家之类的, 不过是用 Console 控制
 
-## 各个优缺点
-
-- Scoop
-
-  - 软件少
-  - 安装它需要`科学上网`
-  - 官方只收留非 GUI 软件(不带图形界面的),但是有第三方拓展库
-  - 安装/卸载干净,可指定性,可拓展第三方软件仓库
-  - 不污染环境变量,软件目录清晰
-  - _面向程序员_.
-
-- Chocolatey
-
-  - 软件多
-  - 有的软件安装位置不定
-  - 面向大众.
-
-  > [软件包管理工具选 Scoop 还是 Chocolatey？看完这篇就知道了](https://www.cnbeta.com/articles/tech/874537.htm?utm_source=tuicool&utm_medium=referral)
-
-- WinGet
-
-  - preview 中(2021 年初为止)
-  - `只能安装不能卸载`
-  - 只能装.exe,.msi 等,差不多就是个下载+安装的工具
-  - 还非常青涩,**不推荐!**
-
-  > [WinGet 介绍](https://sspai.com/post/60592)
-
-- 个人选择了 `Scoop`,下面主要讲 Scoop.
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 安装
+  ***
 
 ### Scoop
 
-- 安装前先设置下 Scoop 的`安装路径`
-- 下面操作需要在 pwsh 中进行,没有的话可以手动操作.
+[软件包管理工具选 Scoop 还是 Chocolatey？看完这篇就知道了](https://www.cnbeta.com/articles/tech/874537.htm?utm_source=tuicool&utm_medium=referral)
+
+- 软件少
+- 安装它需要`科学上网`
+- 官方只收留非 GUI 软件(不带图形界面的),但是有第三方拓展库
+- 安装/卸载干净,可指定性,可拓展第三方软件仓库
+- 不污染环境变量,软件目录清晰
+- _面向程序员_.
+
+- 他把当前版本的目录创建了一个`虚拟链接:current`,这个伪目录指向当前版本号的目录
+
+  比如这里的`current/node.exe`实际上指向`15.5.1/node.exe`
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVL62D.png" alt="20210115011742" />
+
+  这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
+
+  这个功能太赞了!
+
+---
+
+### Chocolatey
+
+- 软件多
+- 有的软件安装位置不定
+- 面向大众.
+- 国内软件少
+
+---
+
+### WinGet
+
+[WinGet 介绍](https://sspai.com/post/60592)
+
+- preview 中(2021 年初为止)
+- `只能安装不能卸载`
+- 只能装.exe,.msi 等,差不多就是个下载+安装的工具
+- 还非常青涩,**不推荐!**
+
+---
+
+### Homebrew
+
+mac 上的王座, 没得可争
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 安装-使用
+
+### Scoop
+
+- 安装前先设置下 Scoop 的`安装路径` (下面操作需要在 pwsh 中进行,没有的话可以手动操作.)
+
 - 如下,在 user 栏新建`SCOOP`,值为`D:\Game\Scoop`
 
   ```powershell
@@ -162,11 +189,35 @@ top_img:
 
 - 首先设置环境变量 `ChocolateyInstall` ,值为要安装的位置,如下
 
-  - 如果不设置的话 Chocolatey 会自动安装进 C 盘
+  如果不设置的话 Chocolatey 会自动安装进 C 盘
 
-  - 设置完环境变量后一定要`重启`,否则不会生效,还是跟没设置一样.
+  设置完环境变量后一定要`重启`,否则不会生效,还是跟没设置一样.
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVsWIn.png" alt="20210314001245" />
+
+- 这个可以用 Scoop 安装,不手动了..
+
+---
+
+### Homebrew
+
+> 国内源安装脚本 https://gitee.com/cunkai/HomebrewCN
+
+> [Homebrew 安装、使用、升级和卸载](https://blog.devhitao.com/2020/01/18/homebrew-usage/)
+
+> 搜软件的话直接去官网搜比较快 https://formulae.brew.sh/
+
+---
+
+### 配置文件
+
+- Scoop
+
+  在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
+
+- Chocolatey
+
+  在 `Chocolatey\config\chocolatey.config` 这个文件里.
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -178,7 +229,7 @@ top_img:
 
 - 安装
 
-  - 需要先添加 dorado 库[(备份&推荐)](#备份&推荐),然后才能安装.
+  可以去官网搜搜哪个库有,加上库然后才能安装.
 
   ```
   scoop install scoop-completion
@@ -211,40 +262,6 @@ top_img:
   scoop config rm proxy
   choco config unset proxy
   ```
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## Scoop 绝活
-
-- 他把当前版本的目录创建了一个`伪目录:current`,这个伪目录指向当前版本号的目录
-- 比如这里的`current/node.exe`实际上指向`15.5.1/node.exe`
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVL62D.png" alt="20210115011742" />
-
-- 这就类似 URL 永久化,使得软件更新后即使目录版本号变更,你的路径引用也不会失效!
-- 这个功能太赞了!
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 配置文件
-
-### Scoop
-
-> 在 `C:\Users\用户名\.config\scoop\config.json` 这个文件里.
-
----
-
-### Chocolatey
-
-> 在 `Chocolatey\config\chocolatey.config` 这个文件里.
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 好文传送
-
-> [Windows 下 Scoop 安装、配置与使用](https://blog.csdn.net/luoyooi/article/details/102990113)
-
-> [scoop——强大的 Windows 命令行包管理工具](https://www.jianshu.com/p/50993df76b1c)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -344,11 +361,35 @@ created by main.main
 
 排查了一遍,出现这种问题一般是因为`软件库有问题`, 而不是 scoop/scoop-search 的问题
 
+---
+
+### brew-install-error
+
+```
+Error: python@3.10: the bottle needs the Apple Command Line Tools to be installed.
+```
+
+解决办法: `xcode-select --install` <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 更新&备份&推荐
+## 推荐
+
+### 备份
 
 - 备份方法可见: [🎃backuper~开发环境备份.](../backuper)
 
-  > - 库: https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-buckets.bak
-  > - 软件: https://github.com/Weidows-projects/Programming-Configuration/blob/master/lists/scoop/scoop-apps.bak
+> https://github.com/Weidows-projects/Programming-Configuration/tree/master/lists/scoop
+
+---
+
+### 文章
+
+[Windows 下 Scoop 安装、配置与使用](https://blog.csdn.net/luoyooi/article/details/102990113) \
+[scoop——强大的 Windows 命令行包管理工具](https://www.jianshu.com/p/50993df76b1c)
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: https://www.crifan.org/error_python_3_9_bottle_needs_apple_command_line_tools_be_installed/

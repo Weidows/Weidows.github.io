@@ -20,7 +20,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-30 15:24:34
+ * @LastEditTime: 2022-08-28 23:08:27
  * @FilePath: \Blog-private\source\_posts\python\AI\ML.md
  * @Description:
  * @!: *********************************************************************
@@ -984,7 +984,7 @@ https://zhuanlan.zhihu.com/p/100002630 -->
 
 loss function, 也叫代价函数 cost function
 
-用于衡量样本给出的 `真实值`$\hat{y}$ 与 模型输出的 `预测值`y 之间的差异
+用于衡量样本给出的 `真实值` $\hat{y}$ 与 模型输出的 `预测值`y 之间的差异
 
 > 损失函数将 `寻找最优参数` 问题转换为了 `寻找损失函数最小值` 问题
 
@@ -1024,6 +1024,10 @@ $$
     &= - \left[ y \log \hat y + (1  - y) \log (1 - \hat y) \right]
   \end{aligned}
   $$
+
+- 比如下图的二分类模型 <sup id='cite_ref-9'>[\[9\]](#cite_note-9)</sup>
+
+  ![](https://www.helloimg.com/images/2022/08/28/ZzsJYR.png)
 
 - 例题
 
@@ -1244,3 +1248,5 @@ $$
 <a name='cite_note-7' href='#cite_ref-7'>[7]</a>: [4 小时入门深度学习+实操 MMDetection 第一课](https://www.bilibili.com/video/BV1ou411k7fD?p=6)
 
 <a name='cite_note-8' href='#cite_ref-8'>[8]</a>: [一篇关于机器学习中的稀疏矩阵的介绍](https://zhuanlan.zhihu.com/p/34534763)
+
+<a name='cite_note-9' href='#cite_ref-9'>[9]</a>: [“交叉熵”如何做损失函数？打包理解“信息量”、“比特”、“熵”、“KL 散度”、“交叉熵”](https://www.bilibili.com/video/BV15V411W7VB/?t=1499.6)

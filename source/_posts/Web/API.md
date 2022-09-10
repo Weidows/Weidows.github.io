@@ -203,25 +203,25 @@ https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=
 ### 小心心特效
 
 ```
-https://fastly.jsdelivr.net/gh/Sanarous/files@1.151/js/clicklove.js
+https://cdn.jsdelivr.net/gh/Sanarous/files@1.151/js/clicklove.js
 ```
 
 ### 社会主义核心价值观
 
 ```
-https://fastly.jsdelivr.net/gh/Sanarous/files@1.151/js/clicksocialvalue.js
+https://cdn.jsdelivr.net/gh/Sanarous/files@1.151/js/clicksocialvalue.js
 ```
 
 ### 花花特效
 
 ```
-https://fastly.jsdelivr.net/gh/Sanarous/files@1.151/js/click.min.js
+https://cdn.jsdelivr.net/gh/Sanarous/files@1.151/js/click.min.js
 ```
 
 ### 跟随特效
 
 ```
-https://fastly.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/mouse_snow.min.js
+https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/mouse_snow.min.js
 ```
 
 ---

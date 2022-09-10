@@ -21,7 +21,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVJnSE.png
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-11 08:49:25
+ * @LastEditTime: 2022-09-09 15:53:33
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-all.md
 -->
 
@@ -35,11 +35,12 @@ cover: https://www.helloimg.com/images/2022/02/27/GVJnSE.png
   - [各种插件](#各种插件)
   - [一键三连](#一键三连)
   - [自定义渲染注入](#自定义渲染注入)
-    - [通过主题文件注入](#通过主题文件注入)
-    - [通过修改内部文件注入](#通过修改内部文件注入)
+    - [主题文件注入](#主题文件注入)
+    - [修改内部文件注入](#修改内部文件注入)
   - [常见问题](#常见问题)
     - [bangumis-steam-页面图片无法加载](#bangumis-steam-页面图片无法加载)
     - [Pjax-渲染失效解决方案](#pjax-渲染失效解决方案)
+    - [valine-waline-评论无法加载](#valine-waline-评论无法加载)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -120,15 +121,15 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
     link_list:
       - name: Youtube
         link: https://www.youtube.com/
-        avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/post/9ZkGg8v3azHJfM1.png
+        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/post/9ZkGg8v3azHJfM1.png
         descr: 視頻網站
       - name: Weibo
         link: https://www.weibo.com/
-        avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/post/TLJBum386vcnI1P.png
+        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/post/TLJBum386vcnI1P.png
         descr: 中國最大社交分享平台
       - name: Twitter
         link: https://twitter.com/
-        avatar: https://fastly.jsdelivr.net/gh/Weidows/Images/post/5VyHPQqR6LWF39a.png
+        avatar: https://cdn.jsdelivr.net/gh/Weidows/Images/post/5VyHPQqR6LWF39a.png
         descr: 社交分享平台
   ```
 
@@ -504,7 +505,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 ## 自定义渲染注入
 
-### 通过主题文件注入
+### 主题文件注入
 
 - 一般是写在`theme/xxx/source/`里的`js/css`里面
 
@@ -538,7 +539,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 ---
 
-### 通过修改内部文件注入
+### 修改内部文件注入
 
 - 首先操作如上面一样新建文件并写好 js 和 css 文件,只是注入方式不同
 
@@ -602,6 +603,28 @@ lazyload:
 
 - 原理就是让 Pjax 加载完成页面后再让 JS 渲染一遍(但是可能有些局部渲染还是无法生效)
 
+---
+
+### valine-waline-评论无法加载
+
+因为某些原因, 国际版 LeanCloud 与 Vercel 停止国内访问了, 我们可以搞个国外域名给 Vercel 绑上
+
+1. 免备案, 有 free 的比如 freedom
+2. Vercel 本身是国外服务器, 可以调到国际版 LeanCloud API
+
+- freedom 自带的域名管理不好用, 添加记录会报错 (Error occured: Wild cards are not allowed!), 推荐转到 DNSPOD 管理
+
+  https://my.freenom.com/clientarea.php?action=domaindetails
+
+  manage domain -> management tools -> nameservers -> Use custom nameservers
+
+  填上下面, 然后在 [DNSPOD](https://console.dnspod.cn/dns/weidows.tk/record) 添加对应域名就行了 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+  ```
+  elm.dnspod.net
+  mushroom.dnspod.net
+  ```
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
@@ -609,3 +632,6 @@ lazyload:
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: https://github.com/hexojs/hexo-deployer-git
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [Hexo 博客之速度优化](https://blog.csdn.net/fengdi_yuxi/article/details/94402350)
+
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [cname解析教程_3分钟，免费拥有你的专属域名——免费一级域名注册申请及域名解析教程...](https://blog.csdn.net/weixin_34163313/article/details/112220858)

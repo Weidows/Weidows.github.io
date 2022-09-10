@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-09 01:43:53
+ * @LastEditTime: 2022-08-31 15:50:18
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -39,6 +39,7 @@ top_img:
     - [tools](#tools)
     - [常用速查表](#常用速查表)
     - [数学等号对齐-大换行-成对匹配-数学样式数字](#数学等号对齐-大换行-成对匹配-数学样式数字)
+  - [paper-writing](#paper-writing)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -319,9 +320,7 @@ top_img:
 |           $\hat y$ 真实值           |               `\hat y`                |
 |            $\infty$ 无穷            |               `\infty`                |
 |              $\cap$ 并              |                `\cap`                 |
-|              $\theta$               |               `\theta`                |
 |            $\mathcal{L}$            |             `\mathcal{L}`             |
-|              $\alpha$               |               `\alpha`                |
 |             $1\qquad2$              |              `1\qquad2`               |
 |           $\|a\|$ 绝对值            |           `\|a\| 或 \vert`            |
 |             $a \cdot b$             |              `a \cdot b`              |
@@ -330,13 +329,24 @@ top_img:
 |              $\cup$ 交              |                `\cup`                 |
 | $\begin{bmatrix}1 & 2\end{bmatrix}$ | `$\begin{bmatrix}1 & 2\end{bmatrix}$` |
 | $\begin{Vmatrix}1 & 2\end{Vmatrix}$ |  `\begin{Vmatrix}1 & 2\end{Vmatrix}`  |
-|                $\pi$                |                 `\pi`                 |
-|             $\epsilon$              |              `\epsilon`               |
-|            $\varepsilon$            |             `\varepsilon`             |
-|               $\eta$                |                `\eta`                 |
 |        $\left( 123 \right)$         |         `\left( 123 \right)`          |
-|               $\phi$                |                `\phi`                 |
-|               $\psi$                |                `\psi`                 |
+
+---
+
+| 符号 |  大致读音/写法  | 符号 | 大致读音/写法 |
+| :--: | :-------------: | :--: | :-----------: |
+|  α   | 阿尔法 `\alpha` |  ν   |      纽       |
+|  β   |      贝塔       |  ξ   |     克西      |
+|  γ   |      伽玛       |  ο   |   欧米克隆    |
+|  δ   |     德尔塔      |  π   |   派 `\pi`    |
+|  ε   |  `\varepsilon`  |  ρ   |      柔       |
+|  ζ   |      泽塔       |  σ   |    西格玛     |
+|  η   |   伊塔 `\eta`   |  τ   |      陶       |
+|  θ   |  西塔 `\theta`  |  υ   |   玉普西隆    |
+|  ι   |      约塔       |  φ   |  弗爱 `\phi`  |
+|  κ   |      卡帕       |  χ   |      凯       |
+|  λ   |     兰姆达      |  ψ   |  普赛 `\psi`  |
+|  μ   |      米欧       |  ϵ   |  `\epsilon`   |
 
 ---
 
@@ -379,6 +389,12 @@ $$
   \\&= \left(\mathbf{0.7,0.8,-0.6,0)^{T}}\right.
 \end{aligned}
 ```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## paper-writing
+
+推荐: [8 分钟入门 Overleaf & Latex](https://www.bilibili.com/video/BV1cg411V7hW)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

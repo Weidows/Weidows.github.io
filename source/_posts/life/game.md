@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-20 00:24:50
+ * @LastEditTime: 2022-09-06 23:27:30
  * @FilePath: \Blog-private\source\_posts\life\game.md
  * @Description:
  * @!: *********************************************************************
@@ -44,6 +44,7 @@ top_img:
     - [登录验证](#登录验证)
     - [无法接受邀请](#无法接受邀请)
     - [删除临时消息](#删除临时消息)
+  - [网盘](#网盘)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -182,6 +183,19 @@ steam://install/xxx
 ![](https://www.helloimg.com/images/2022/08/19/ZQz5k1.png)
 
 如上图, 开发中 ephemeral message 只能被 edit 无法删除; 而且只能通过用户的斜杠指令 `/` 触发唯一一条 Interaction <sup id='cite_ref-6'>[\[6\]](#cite_note-6)</sup> <sup id='cite_ref-7'>[\[7\]](#cite_note-7)</sup>
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 网盘
+
+在小破站总见到云盘的连接, 但苦于没有前缀
+
+> for SEO: 百度网盘 天翼网盘 前缀
+
+|    盘    | 前缀                                                                         |
+| :------: | :--------------------------------------------------------------------------- |
+| 百度云盘 | [https://pan.baidu.com/s/](https://pan.baidu.com/s/)                         |
+| 天翼云盘 | [https://cloud.189.cn/web/share?code=](https://cloud.189.cn/web/share?code=) |
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

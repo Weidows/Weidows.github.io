@@ -67,22 +67,22 @@ top_img:
 - 我在切换图床时想实现如下 `多对多替换` 的需求
 
   ```
-  https://fastly.jsdelivr.net/gh/Weidows/Images/post/1d9Xs6ADR3MaNCy.png
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/1d9Xs6ADR3MaNCy.png
   --> https://www.helloimg.com/images/2022/02/27/GVFbWK.jpg
 
-  https://fastly.jsdelivr.net/gh/Weidows/Images/post/2C7cgeEIQNr3qLu.png
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2C7cgeEIQNr3qLu.png
   --> https://www.helloimg.com/images/2022/02/27/GVFlgb.jpg
 
-  https://fastly.jsdelivr.net/gh/Weidows/Images/post/2GXOS5mW8EzIT7Y.png
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2GXOS5mW8EzIT7Y.png
   --> https://www.helloimg.com/images/2022/02/27/GVFWDS.jpg
 
-  https://fastly.jsdelivr.net/gh/Weidows/Images/post/2POdUowc3qW8DRy.png
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2POdUowc3qW8DRy.png
   --> https://www.helloimg.com/images/2022/02/27/GVFTHD.jpg
 
-  https://fastly.jsdelivr.net/gh/Weidows/Images/post/2ThkbFZmCU3QvEN.png
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThkbFZmCU3QvEN.png
   --> https://www.helloimg.com/images/2022/02/27/GVF2ao.jpg
 
-  https://fastly.jsdelivr.net/gh/Weidows/Images/post/2ThYuqlEtFfdJeK.png
+  https://cdn.jsdelivr.net/gh/Weidows/Images/post/2ThYuqlEtFfdJeK.png
   --> https://www.helloimg.com/images/2022/02/27/GVFOGC.jpg
   ```
 

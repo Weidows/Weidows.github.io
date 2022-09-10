@@ -23,7 +23,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-11-21 19:28:51
  * @LastEditors: Weidows
- * @LastEditTime: 2022-06-28 10:41:25
+ * @LastEditTime: 2022-08-29 14:29:39
  * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
  * @Description:
 -->
@@ -45,7 +45,7 @@ top_img:
     - [拉取子模块](#拉取子模块)
   - [GitHub](#github)
     - [首页绿格子](#首页绿格子)
-    - [License 选择](#license-选择)
+    - [License-choice](#license-choice)
     - [pages-域名](#pages-域名)
     - [删除远程分支](#删除远程分支)
     - [github-action](#github-action)
@@ -336,7 +336,7 @@ git submodule update --init --recursive
 
 ---
 
-### License 选择
+### License-choice
 
 ![License](https://www.helloimg.com/images/2022/02/27/GVao5P.png)
 

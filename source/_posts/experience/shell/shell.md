@@ -17,7 +17,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-07-28 00:03:33
+ * @LastEditTime: 2022-09-05 12:39:01
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -221,6 +221,7 @@ command1 | command2: 把左边的命令的输出结果作为右边的命令的�
 |           `tail -n 20 README.md`            |           输出 READMD 最后 20 行内容(默认是 10 行)            |
 | `systemctl start/enable/status xxx.service` |                  xxx 服务-开启/开机启动/状态                  |
 |                `touch a.txt`                |                        创建 a.txt 文件                        |
+|        `tar c data/ -f archive.tar`         |                      把 data 文件夹打包                       |
 
 > [Linux nohup 命令](https://www.runoob.com/linux/linux-comm-nohup.html) \
 > [Linux tail 命令](https://www.runoob.com/linux/linux-comm-tail.html) \
@@ -267,7 +268,9 @@ export https_proxy=http://192.168.131.1:7890
 
 1. 切换到每个用户的密码不一定一样 (主要看设置的是否一样), 为了防止乱切乱改, 每个账户设置独立密码
 2. root 用户下无需密码切换到任何用户
-3. su 与 sudo 所需密码并不是同一个, su 要的是 root 密码, sudo 要的是当前用户密码, sudo 后 15 分钟内一直有管理员权限
+3. su 与 sudo 所需密码并不是同一个, su 要的是 root 密码, sudo 要的是当前用户密码, sudo 后默认 15 分钟内不需要再次输密码
+
+---
 
 #### 设置与解锁用户密码
 

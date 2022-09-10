@@ -1,5 +1,5 @@
 ---
-title: 🎇尝试转投wsl生态.
+title: 🎇二度尝鲜-wsl
 date: 2021-02-01 13:54:10
 password: ""
 tags:
@@ -10,49 +10,50 @@ cover: https://www.helloimg.com/images/2022/02/27/GVLZcb.png
 top_img:
 ---
 
+# 二度尝鲜-wsl
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @Date: 2021-02-01 13:54:10
  * @LastEditors: Weidows
- * @LastEditTime: 2021-02-13 17:20:29
- * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\system\wsl2.md
+ * @LastEditTime: 2022-09-09 18:32:33
+ * @FilePath: \Blog-private\source\_posts\system\wsl2.md
  * @Description:
  * @!: *********************************************************************
 -->
 
-- [小吐槽](#小吐槽)
-- [指南](#指南)
-  - [官方的](#官方的)
-  - [名词解释](#名词解释)
-- [安装步骤](#安装步骤)
-  - [系统](#系统)
-  - [功能](#功能)
-  - [配置](#配置)
-- [安装完成](#安装完成)
-- [VScode+wsl](#vscodewsl)
-  - [Terminal](#terminal)
-  - [Remote 开发](#remote-开发)
-- [地址映射](#地址映射)
-- [IDEA+wsl](#ideawsl)
-  - [terminal](#terminal-1)
-- [后记](#后记)
-- [wsl 软件安装](#wsl-软件安装)
-  - [apt?](#apt)
-  - [dpkg](#dpkg)
-- [痛点解决](#痛点解决)
+{% pullquote mindmap mindmap-md %}
 
-## 小吐槽
+{% pullquote mindmap mindmap-md %}
 
-- 搜文章头图时发现...百度和谷歌差距有点大...
+{% endpullquote %}
 
-- 我用谷歌时间肯定没百度长,看起来谷歌更了解我 🤣
+- [二度尝鲜-wsl](#二度尝鲜-wsl)
+  - [指南](#指南)
+    - [官方的](#官方的)
+    - [名词解释](#名词解释)
+  - [安装步骤](#安装步骤)
+    - [系统](#系统)
+    - [功能](#功能)
+    - [配置](#配置)
+  - [安装完成](#安装完成)
+  - [VScode+wsl](#vscodewsl)
+    - [Terminal](#terminal)
+    - [Remote 开发](#remote-开发)
+  - [地址映射](#地址映射)
+  - [IDEA+wsl](#ideawsl)
+    - [terminal](#terminal-1)
+  - [后记](#后记)
+  - [wsl 软件安装](#wsl-软件安装)
+    - [apt?](#apt)
+    - [dpkg](#dpkg)
+  - [痛点解决](#痛点解决)
+  - [吐槽](#吐槽)
+  - [wsl-代理](#wsl-代理)
+  - [借物表](#借物表)
 
-  <img src="https://www.helloimg.com/images/2022/02/27/GVLAMg.png" alt="20210201140021" />
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVSAfK.png" alt="20210201140048" />
-
-- 虽然并不想吹捧或贬低哪个,但是这...(看来我是老双标怪了~)
+{% endpullquote %}
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -314,3 +315,29 @@ top_img:
 ## 痛点解决
 
 > [本篇文章会介绍 win10 中 wsl2 的安装和使用以及遇到的常见问题比如如何固定 wsl2 地址等问题的总结。](https://www.cnblogs.com/kuangdaoyizhimei/p/14175143.html#_label2_0)
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 吐槽
+
+- 搜文章头图时发现...百度和谷歌差距有点大...
+
+  我用谷歌时间肯定没百度长,看起来谷歌更了解我 🤣
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVLAMg.png" alt="20210201140021" />
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVSAfK.png" alt="20210201140048" />
+
+- 虽然并不想吹捧或贬低哪个,但是这...(看来我是老双标怪了~)
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## wsl-代理
+
+可以用 clash 的 TUN 模式: https://docs.cfw.lbyczf.com/contents/tun.html#windows
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 借物表
+
+暂无..
