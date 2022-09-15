@@ -7,6 +7,8 @@ tags:
   - dataset
   - 人工智能
   - 深度学习
+  - 点云
+  - 自动驾驶
 katex: false
 comments: true
 aside: true
@@ -21,7 +23,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-17 22:41:52
+ * @LastEditTime: 2022-09-10 11:21:21
  * @FilePath: \Blog-private\source\_posts\experience\research\research.md
  * @Description:
  * @!: *********************************************************************
@@ -32,18 +34,21 @@ top_img:
 - [误入科研海](#误入科研海)
   - [序](#序)
   - [关于调研](#关于调研)
-  - [组会展示](#组会展示)
-    - [slidev](#slidev)
-    - [组成成分-数据转换分析](#组成成分-数据转换分析)
-    - [VirtualLiDAR-转换和组成](#virtuallidar-转换和组成)
-    - [时间同步-配准问题](#时间同步-配准问题)
-    - [虚拟问题及双端任务流](#虚拟问题及双端任务流)
-    - [标注问题](#标注问题)
-    - [其它问题](#其它问题)
-    - [欧阳老师给的提议](#欧阳老师给的提议)
   - [一些经验](#一些经验)
     - [学会拆字](#学会拆字)
     - [读论文](#读论文)
+  - [点云](#点云)
+    - [分析工具](#分析工具)
+      - [CloudCompare](#cloudcompare)
+      - [PCD-Decode](#pcd-decode)
+    - [某次组会分享](#某次组会分享)
+      - [组成成分-数据转换分析](#组成成分-数据转换分析)
+      - [VirtualLiDAR-转换和组成](#virtuallidar-转换和组成)
+      - [时间同步-配准问题](#时间同步-配准问题)
+      - [虚拟问题及双端任务流](#虚拟问题及双端任务流)
+      - [标注问题](#标注问题)
+      - [其它问题](#其它问题)
+      - [欧阳老师给的提议](#欧阳老师给的提议)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -80,15 +85,64 @@ now.clear, 意思大概就是: `how > what`
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 组会展示
+## 一些经验
 
-### slidev
+### 学会拆字
 
-> 转到 [🦭 开会扯皮专用-Slidev](../../../others/markdown/slidev#展示)
+听到一个概念不要马上去大脑数据库搜索, 之所以叫脑海, 是因为它有乱流和旋涡
 
-有时也会用 markdown 写, 如下为某次组会分析:
+比如 `元数据` 这个词, 乍一听很抽象是吧, 脑子也能马上返回 Metadata 这个词, 但具体想解释就会云里雾里
 
-### 组成成分-数据转换分析
+> '元'即为'关于...的', 所以一组元数据是指'一组关于 xxx 的映射数据' <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+---
+
+### 读论文
+
+入门时还是相当困难的, 拿过来一篇英文文献不知道怎么下手, 来回翻译也不知所云
+
+所以还是建议练一下 `论文跟读` <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 点云
+
+没地方写了, 暂时写在这..
+
+### 分析工具
+
+#### CloudCompare
+
+默认密度颜色 蓝->绿->黄->红
+
+双击右键拖动, 按下中键上下移动会缩放
+
+---
+
+#### PCD-Decode
+
+如下通过 ImHex 提取出来的 PCD 文件头, 第三行说的是含有反射率 intensity 信息
+
+```
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z intensity
+SIZE 4 4 4 4
+TYPE F F F F
+COUNT 1 1 1 1
+WIDTH 54298
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 54298
+DATA binary_compressed
+5�
+```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+### 某次组会分享
+
+#### 组成成分-数据转换分析
 
 此数据集并没很清晰的给出制作流程/数据流向, 分析起来难在这里, 就像是分析饭店里的菜是怎么做的一样, 知道原料和结果但不知道过程
 
@@ -141,7 +195,7 @@ annos
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-### VirtualLiDAR-转换和组成
+#### VirtualLiDAR-转换和组成
 
 ![](https://www.helloimg.com/images/2022/08/03/Z0ADvR.png)
 
@@ -153,7 +207,7 @@ velodyne(点云 pcd 文件) + label/virtuallidar => 点云的 3D 标注
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-### 时间同步-配准问题
+#### 时间同步-配准问题
 
 路端/车端分别有个 GPS 管位置和时间同步, 同一端内 Camera 和 LiDAR 的时间通过 GPS 授时应该是一致的
 
@@ -174,7 +228,7 @@ velodyne(点云 pcd 文件) + label/virtuallidar => 点云的 3D 标注
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-### 虚拟问题及双端任务流
+#### 虚拟问题及双端任务流
 
 GPS 是精准到经纬度位置的, 为了防止路端信息泄露/侵犯隐私权(车端数据自用所以不用转换), 路端设备需要把绝对位置通过 GPS 转为相对位置 (也就是虚拟化)
 
@@ -195,7 +249,7 @@ GPS 是精准到经纬度位置的, 为了防止路端信息泄露/侵犯隐私�
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-### 标注问题
+#### 标注问题
 
 下面分别为图像与 LiDAR 的标注文件, 我原以为的精度问题以及数据转换是误解, 实际上是两模态都做了标注
 
@@ -245,7 +299,7 @@ GPS 是精准到经纬度位置的, 为了防止路端信息泄露/侵犯隐私�
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-### 其它问题
+#### 其它问题
 
 annos.images.file_name 存在格式问题
 
@@ -257,7 +311,7 @@ fix_require
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-### 欧阳老师给的提议
+#### 欧阳老师给的提议
 
 (有待商榷)
 
@@ -272,26 +326,6 @@ fix_require
 寻找问题所在: 什么噪声导致 3D 框重合度有问题
 
 欧阳老师提到的 `Cloud Compare` 可以对比两点云之间的差别
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 一些经验
-
-### 学会拆字
-
-听到一个概念不要马上去大脑数据库搜索, 之所以叫脑海, 是因为它有乱流和旋涡
-
-比如 `元数据` 这个词, 乍一听很抽象是吧, 脑子也能马上返回 Metadata 这个词, 但具体想解释就会云里雾里
-
-> '元'即为'关于...的', 所以一组元数据是指'一组关于 xxx 的映射数据' <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
-
----
-
-### 读论文
-
-入门时还是相当困难的, 拿过来一篇英文文献不知道怎么下手, 来回翻译也不知所云
-
-所以还是建议练一下 `论文跟读` <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

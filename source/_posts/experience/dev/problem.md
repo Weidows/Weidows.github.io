@@ -7,6 +7,8 @@ tags:
   - JSON
   - Docker
   - Mariadb
+  - API
+  - 后端
 katex: false
 comments: true
 aside: true
@@ -21,7 +23,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-22 14:30:23
+ * @LastEditTime: 2022-09-10 11:32:01
  * @FilePath: \Blog-private\source\_posts\experience\dev\problem.md
  * @Description:
  * @!: *********************************************************************
@@ -31,17 +33,20 @@ top_img:
 
 - [开发之旅~](#开发之旅)
   - [简介](#简介)
-  - [模糊查询](#模糊查询)
-  - [where](#where)
-  - [多索引排序](#多索引排序)
-  - [Mariadb-无法远程连接](#mariadb-无法远程连接)
-  - [数据源连接不上](#数据源连接不上)
-  - [docker-databases](#docker-databases)
-  - [接口数据速览](#接口数据速览)
-  - [外键-数据-导出入](#外键-数据-导出入)
-  - [map-and-filter](#map-and-filter)
-  - [整数计算顺序](#整数计算顺序)
-  - [API-request-body](#api-request-body)
+  - [数据库](#数据库)
+    - [模糊查询](#模糊查询)
+    - [where](#where)
+    - [多索引排序](#多索引排序)
+    - [Mariadb-无法远程连接](#mariadb-无法远程连接)
+    - [数据源连接不上](#数据源连接不上)
+    - [外键-数据-导出入](#外键-数据-导出入)
+  - [接口问题](#接口问题)
+    - [接口数据速览](#接口数据速览)
+    - [API-request-body](#api-request-body)
+    - [本地服务调不通](#本地服务调不通)
+  - [程序写法问题](#程序写法问题)
+    - [map-and-filter](#map-and-filter)
+    - [整数计算顺序](#整数计算顺序)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -56,7 +61,9 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 模糊查询
+## 数据库
+
+### 模糊查询
 
 - 包括模糊查询中文 <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup>
 
@@ -78,9 +85,9 @@ top_img:
   </select>
   ```
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+---
 
-## where
+### where
 
 - 开发中可能经常见到: `where 1 = 1` ,这是干什么用的?
 
@@ -126,9 +133,9 @@ top_img:
 
 - 在 SQL 支持的情况下,还是套`<where>`标签更好,它能处理 `where and` 这种情况.
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+---
 
-## 多索引排序
+### 多索引排序
 
 - 有时一个表中多个字段需要加索引
 
@@ -136,13 +143,11 @@ top_img:
 
   前端接到的数据可以认为是无序化的,如何解决呢?
 
----
-
 - 挺简单的 `order by id`
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+---
 
-## Mariadb-无法远程连接
+### Mariadb-无法远程连接
 
 - 在 manjaro 虚拟机装了个 mariadb
 
@@ -166,9 +171,9 @@ top_img:
 
   远程连接时连这个用户就行了.
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+---
 
-## 数据源连接不上
+### 数据源连接不上
 
 > Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
 
@@ -176,35 +181,9 @@ top_img:
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVAKQR.png" alt="20210925193945" />
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## docker-databases
-
-用 docker 跑数据库真的是太 Jier 好使了!
-
-> 在另一篇文章: [🌈 初探 Docker.](../../system/../docker#多数据库管理)
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
-## 接口数据速览
-
-- 前端接到 JSON 数据总是需要看一下,通过 postman 那种不是很便捷
-
-  于是之前我一直是找到响应->复制->粘贴到 vscode 格式化
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVAj6c.png" alt="20211015130205" />
-
-- 偶然发现有个更方便的手段: 浏览器`前端助手插件`
-
-  安装后直接双击请求,跳出的新页面就是已经格式化好的
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVtIXg.png" alt="20211015130109" />
-
-  <img src="https://www.helloimg.com/images/2022/02/27/GVS6hz.png" alt="20211015130815" />
-
 ---
 
-## 外键-数据-导出入
+### 外键-数据-导出入
 
 - 结组做数据库课设时发现,含有外键的表,create table 时会报错.
 
@@ -240,7 +219,71 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## map-and-filter
+## 接口问题
+
+### 接口数据速览
+
+- 前端接到 JSON 数据总是需要看一下,通过 postman 那种不是很便捷
+
+  于是之前我一直是找到响应->复制->粘贴到 vscode 格式化
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVAj6c.png" alt="20211015130205" />
+
+- 偶然发现有个更方便的手段: 浏览器`前端助手插件`
+
+  安装后直接双击请求,跳出的新页面就是已经格式化好的
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVtIXg.png" alt="20211015130109" />
+
+  <img src="https://www.helloimg.com/images/2022/02/27/GVS6hz.png" alt="20211015130815" />
+
+---
+
+### API-request-body
+
+在调用 `https://securetoken.googleapis.com/v1/token` 时, 发现报错:
+
+```json
+{
+  "error": {
+    "code": 400,
+    "message": "MISSING_GRANT_TYPE",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+```
+
+找了半天原因, 以为是参数/header 不对, 最后发现是传入格式不对 (用的 form-data 请求的)
+
+![](https://www.helloimg.com/images/2022/08/22/ZpFGfM.png)
+
+请求的参数一般是用 `Body -> JSON` 格式, 除非特殊标注用别的格式
+
+![](https://www.helloimg.com/images/2022/09/05/Z7DeQY.png)
+
+---
+
+### 本地服务调不通
+
+明明跑起来了服务, 但是接口测试请求就像石沉大海, 发过去没响应
+
+那有可能是端口共用了<sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>...如下:
+
+![](https://www.helloimg.com/images/2022/09/08/ZDfGKY.png)
+
+```
+netstat -ano | findstr "8000"
+# 或者
+netstat -ano | grep 8000
+
+ps | grep 17348
+```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 程序写法问题
+
+### map-and-filter
 
 - 开发时遇到此问题:
 
@@ -274,9 +317,9 @@ top_img:
     end
   ```
 
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+---
 
-## 整数计算顺序
+### 整数计算顺序
 
 开发时碰到一个统计进度的问题 (l: 1-20)
 
@@ -288,26 +331,6 @@ top_img:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## API-request-body
-
-在调用 `https://securetoken.googleapis.com/v1/token` 时, 发现报错:
-
-```
-{
-    "error": {
-        "code": 400,
-        "message": "MISSING_GRANT_TYPE",
-        "status": "INVALID_ARGUMENT"
-    }
-}
-```
-
-找了半天原因, 以为是参数/header 不对, 最后发现是传入格式不对 (用的 form-data 请求的)
-
-![](https://www.helloimg.com/images/2022/08/22/ZpFGfM.png)
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
-
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [mysql 中模糊查询的四种用法：](https://www.cnblogs.com/-lin-x-c-/p/10375412.html)
@@ -315,3 +338,5 @@ top_img:
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [mybatis 模糊查询 中文问题](https://www.oschina.net/question/160183_36995)
 
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [为什么 javascript map 函数返回 undefined？(Why does javascript map function return undefined?)](https://www.dovov.com/javascript-mapundefined.html)
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [05 Windows 下查看 IP、端口、网络是否通畅、访问局域网内另一台电脑](https://www.cnblogs.com/luckyplj/p/11843688.html)

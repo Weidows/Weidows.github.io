@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-28 13:49:19
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-30 18:09:17
+ * @LastEditTime: 2022-09-14 11:13:42
  * @FilePath: \Blog-private\source\_posts\system\Windows.md
  * @Description:
  * @!: *********************************************************************
@@ -44,9 +44,11 @@ top_img:
       - [无法登陆](#无法登陆)
     - [OneNote](#onenote)
   - [各种路径](#各种路径)
-  - [颜色配置](#颜色配置)
-    - [NVIDIA](#nvidia)
-    - [AMD](#amd)
+  - [显卡问题](#显卡问题)
+    - [颜色配置](#颜色配置)
+      - [NVIDIA](#nvidia)
+      - [AMD](#amd)
+    - [system-进程占用高问题](#system-进程占用高问题)
   - [虚拟机代理不通](#虚拟机代理不通)
   - [数据迁移](#数据迁移)
   - [声音配置](#声音配置)
@@ -270,7 +272,9 @@ bypass:
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
-## 颜色配置
+## 显卡问题
+
+### 颜色配置
 
 LSP mode : on
 
@@ -278,7 +282,7 @@ LSP mode : on
 
 离人类默认视角越来越远了。。
 
-### NVIDIA
+#### NVIDIA
 
 - <details>
 
@@ -294,11 +298,17 @@ LSP mode : on
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVJ43Q.png" alt="1633272772176" />
 
----
-
-### AMD
+#### AMD
 
 <img src="https://www.helloimg.com/images/2022/02/27/GVLhYY.png" alt="20220126193700" />
+
+---
+
+### system-进程占用高问题
+
+`NVIDIA FrameView SDK service`这个坑服务, 会导致 system 进程出现一个占用 CPU 特别高的线程 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+禁用就对了, 没影响
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -403,3 +413,5 @@ LSP mode : on
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [[Bug]: 开启 clash 后无法登录 onedrive #2876](https://github.com/Fndroid/clash_for_windows_pkg/issues/2876)
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [windows 内存管理机制。虚拟内存设置问题](https://answers.microsoft.com/zh-hans/windows/forum/all/windows/e1a6c144-26e1-4c1a-af27-c5c90fd60308?page=2)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [win10 20H2 版本，system 异常占用 CPU 问题的解决！](https://zhuanlan.zhihu.com/p/349104738)

@@ -17,17 +17,13 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-02-01 13:54:10
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-09 18:32:33
+ * @LastEditTime: 2022-09-10 10:21:07
  * @FilePath: \Blog-private\source\_posts\system\wsl2.md
  * @Description:
  * @!: *********************************************************************
 -->
 
 {% pullquote mindmap mindmap-md %}
-
-{% pullquote mindmap mindmap-md %}
-
-{% endpullquote %}
 
 - [二度尝鲜-wsl](#二度尝鲜-wsl)
   - [指南](#指南)

@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-09 11:22:20
+ * @LastEditTime: 2022-09-10 11:06:20
  * @FilePath: \Blog-private\source\_posts\others\golang\golang.md
  * @Description:
  * @!: *********************************************************************
@@ -37,10 +37,11 @@ top_img:
     - [package](#package)
       - [package-demo](#package-demo)
       - [同一包下同名方法隔离](#同一包下同名方法隔离)
+      - [副作用导入](#副作用导入)
     - [http-json-req](#http-json-req)
     - [名称规范](#名称规范)
-    - [补充](#补充)
-    - [TODO](#todo)
+    - [指针](#指针)
+    - [gp-python](#gp-python)
   - [常见问题](#常见问题)
     - [阿里云效-go-mod](#阿里云效-go-mod)
       - [官方文档](#官方文档)
@@ -286,6 +287,33 @@ go install github.com/tpng/gopkgs@latest
 
 ---
 
+#### 副作用导入
+
+有时项目会用到其他 package 的初始化, 但并没有实际调用函数, 就会通过 `_` 副作用导入, 不写不会提示但缺少运行时会报错, 除非熟悉不然很难揪出来的问题
+
+```golang
+import (
+	_ "codeup.aliyun.com/wenuts/aimage/api/handler"
+	_ "codeup.aliyun.com/wenuts/aimage/api/security"
+	"github.com/cuigh/auxo/app"
+	"github.com/cuigh/auxo/app/flag"
+	"github.com/cuigh/auxo/app/ioc"
+	_ "github.com/cuigh/auxo/cache/memory"
+	_ "github.com/cuigh/auxo/cache/redis"
+	"github.com/cuigh/auxo/config"
+	"github.com/cuigh/auxo/data/valid"
+	"github.com/cuigh/auxo/errors"
+	_ "github.com/cuigh/auxo/net/rpc/codec/proto"
+	_ "github.com/cuigh/auxo/net/rpc/resolver/dns"
+	"github.com/cuigh/auxo/net/web"
+	"github.com/cuigh/auxo/net/web/filter"
+	"net/http"
+	"os"
+)
+```
+
+---
+
 ### http-json-req
 
 用 golang 做带有 JSON 格式 body 的 http 请求
@@ -321,33 +349,40 @@ func main() {
    get.go -> × getV3.go\
    get.go -> √ get3.go
 
-2. 驼峰命名, 公开方法/值首字母大写,否则小写
+2. 驼峰命名, 对于公开方法/变量/常量, 首字母大写,否则小写
 
 ---
 
-### 补充
+### 指针
 
 > [go 语言指针符号的\*和&](https://studygolang.com/articles/7412)
 
----
+- golang string 转 \*string
 
-### TODO
+  比如字符串 "abc", 无法直接通过 &"abc" 取到 \*string, 需要先出个变量
+
+  v := "abc", &v 就可以取到了
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+### gp-python
 
 ```
-var a =
-
-var (
-  a =
-)
+# github.com/sbinet/go-python
+In file included from D:\Scoop\apps\go-cn\current\global_path\pkg\mod\github.com\sbinet\go-python@v0.1.0\capi.go:3:
+./go-python.h:4:10: fatal error: Python.h: No such file or directory
+    4 | #include "Python.h"
+      |          ^~~~~~~~~~
+compilation terminated.
 ```
 
-接口 type Sum struct {}
+因为 [go-python](https://github.com/sbinet/go-python) 调的是 python2, 不兼容 python3, 可以用 [cpy](https://github.com/go-python/cpy3)
 
-方法 func GetName()
+```
+pkg-config: exec: "pkg-config": executable file not found in %PATH%
+```
 
-标准写法:
-首字母大写为公开
-首字母小写为私有
+没装这个软件
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
