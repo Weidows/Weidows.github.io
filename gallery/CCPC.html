@@ -1,0 +1,277 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>⭐ 程序设计大赛 ⭐ | ⭐️齐下无贰⭐️</title><meta name="keywords" content="Weidows Website blog Java, Javadoc, VScode, Maven, 对象, 编码, 设计模式, JVM, Lambda, PS, 备忘录, 设计, API, 摄影, PHP, Website, LaTeX, yaml, SSH, Linux, Markdown, 音乐, 哲学, 生活, 健身, 笔记, 推荐, 面试, IDEA, HTML, CSS, JavaScript, English, 成长路线, Font, VR, 网课, Manjaro, 计算机系统, 服务器, 虚拟机, 树莓派, Windows, Docker, 多线程, 进程, CPU, Scoop, Git, Python, Node, Ubuntu, wsl2, 环境变量, Aria2, 工具, 图床, 爬虫, MS, package, Tomcat, MyBatis, Map, CRUD, 数据库, 注解, 日志, 分页, MySQL, JDBC, SQL, 前端, JSON, JavaWeb, Servlet, Cookie, Session, JSP, Filter, 架构, 反射, Vue, CORS, 大前端, JQuery, npm, yarn, C, Cmake, OpenGL, conan, 理论知识, Processing, Anaconda, shell, PowerShell, 宝塔面板, 搞笑, 高能, 快捷键, 浏览器, Hexo, Github, PyCharm, Copilot, 插件, Emmet, 美化, snippet, Node.Js, SEO, Pjax, butterfly, pug, styl, 优化, 魔改"><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="CCPC  本次的 CCPC 是网络赛,好歹做了做,很多知识点还没涉猎到,大多数考究的是一个解决方案程序的设计思路 &amp;&amp; 理念 没多想,看到会做的就做了,不会的也想不出来…网络赛我们都是玩过来的   HBCPC-2020-9-27  这个是好像河北的省赛,说大不大说小不小,我们学校是一个考点,不过技术含量感觉确实比 CCPC 差个 10~30%,收个人因素影响略有浮动产生吧,反正"><meta property="og:type" content="website"><meta property="og:title" content="⭐ 程序设计大赛 ⭐"><meta property="og:url" content="https://weidows.github.io/gallery/CCPC"><meta property="og:site_name" content="⭐️齐下无贰⭐️"><meta property="og:description" content="CCPC  本次的 CCPC 是网络赛,好歹做了做,很多知识点还没涉猎到,大多数考究的是一个解决方案程序的设计思路 &amp;&amp; 理念 没多想,看到会做的就做了,不会的也想不出来…网络赛我们都是玩过来的   HBCPC-2020-9-27  这个是好像河北的省赛,说大不大说小不小,我们学校是一个考点,不过技术含量感觉确实比 CCPC 差个 10~30%,收个人因素影响略有浮动产生吧,反正"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://www.helloimg.com/images/2022/07/01/ZMNbHo.jpg"><meta property="article:published_time" content="2022-03-12T09:44:20.188Z"><meta property="article:modified_time" content="2022-02-27T09:51:05.583Z"><meta property="article:author" content="⎛⎝Weidows⎠⎞"><meta property="article:tag" content="Weidows Website blog Java, Javadoc, VScode, Maven, 对象, 编码, 设计模式, JVM, Lambda, PS, 备忘录, 设计, API, 摄影, PHP, Website, LaTeX, yaml, SSH, Linux, Markdown, 音乐, 哲学, 生活, 健身, 笔记, 推荐, 面试, IDEA, HTML, CSS, JavaScript, English, 成长路线, Font, VR, 网课, Manjaro, 计算机系统, 服务器, 虚拟机, 树莓派, Windows, Docker, 多线程, 进程, CPU, Scoop, Git, Python, Node, Ubuntu, wsl2, 环境变量, Aria2, 工具, 图床, 爬虫, MS, package, Tomcat, MyBatis, Map, CRUD, 数据库, 注解, 日志, 分页, MySQL, JDBC, SQL, 前端, JSON, JavaWeb, Servlet, Cookie, Session, JSP, Filter, 架构, 反射, Vue, CORS, 大前端, JQuery, npm, yarn, C, Cmake, OpenGL, conan, 理论知识, Processing, Anaconda, shell, PowerShell, 宝塔面板, 搞笑, 高能, 快捷键, 浏览器, Hexo, Github, PyCharm, Copilot, 插件, Emmet, 美化, snippet, Node.Js, SEO, Pjax, butterfly, pug, styl, 优化, 魔改"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://www.helloimg.com/images/2022/07/01/ZMNbHo.jpg"><link rel="shortcut icon" href="data:image/png;base64,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"><link rel="canonical" href="https://weidows.github.io/gallery/CCPC"><link rel="preconnect" href="//cdn.jsdelivr.net"><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="google-site-verification" content="63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y"><meta name="google-site-verification" content="TYTmLCtbjOUJ5Paa-vxLmLscpf7kJV9D_Ud5pJl6UaY"><meta name="bing-site-verification" content="B99F807E806B2C297FF5818253DDD408"><meta name="baidu-site-verification" content="code-82v5yxnEC4"><meta name="baidu-site-verification" content="code-iDy54Uv2f1"><meta name="baidu-site-verification" content="code-IfmDfNug1l"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" media="print" onload='this.media="all"'><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/4.0.27/fancybox.min.css" media="print" onload='this.media="all"'><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdnjs.cloudflare.com/ajax/libs/flickr-justified-gallery/2.1.2/fjGallery.min.js',
+      css: 'https://cdnjs.cloudflare.com/ajax/libs/flickr-justified-gallery/2.1.2/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"⭐ 程序设计大赛 ⭐",isPost:!1,isHome:!1,isHighlightShrink:!1,isToc:!1,postUpdate:"2022-02-27 17:51:05"}</script><noscript><style type="text/css">#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><script src="https://cdn.jsdelivr.net/gh/Weidows-projects/live2d-moc3/dist/live2dcubismcore.min.js"></script><script src="https://cdn.jsdelivr.net/gh/Weidows-projects/live2d-moc3/dist/pixi.min.js"></script><script src="https://cdn.jsdelivr.net/gh/Weidows-projects/live2d-moc3/dist/live2d.min.js"></script><meta name="generator" content="Hexo 6.3.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://www.helloimg.com/images/2022/07/01/ZMNK9R.png" onerror='onerror=null,src="null"' alt="avatar"></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">127</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">176</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">38</div></a></div><hr><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://travellings.now.sh"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 本站</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.gitee.io"><i class="fa-fw fas fa-bath"></i><span> Gitee站</span></a></li><li><a class="site-page child" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub站</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-rocket"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://github.com/Weidows-projects"><span>Weidows-projects</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://github.com/Weidows?tab=repositories"><span>GitHub仓库</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://1drv.ms/u/s!AlhRaqfosSZYjASfwkPmiE5mF22Y"><span>OneNote笔记</span></a></li><li><a class="site-page child" href="/generator"><span>几个生成器</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://stats.uptimerobot.com/22R3Pfkjzv"><span>站点状态检测</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows-projects.github.io/Keeper"><span>SSL-Check</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows-news.vercel.app"><span>新-闻</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/gallery"><i class="fa-fw fas fa-camera"></i><span> 相册</span></a></li><li><a class="site-page child" href="/tags/bangumis"><i class="fa-fw fas fa-laptop"></i><span> _番_</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li><li><a class="site-page child" href="/tags/cinema"><i class="fa-fw fas fa-laptop"></i><span> _剧_</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/about"><i class="fa-fw fas fa-user"></i><span> -&gt;我&lt;-</span></a></li><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="page" id="body-wrap"><header class="not-home-page" id="page-header" style="background-image:url(https://www.helloimg.com/images/2022/02/27/GV45Kc.png)"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">⭐️齐下无贰⭐️</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://travellings.now.sh"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 本站</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.gitee.io"><i class="fa-fw fas fa-bath"></i><span> Gitee站</span></a></li><li><a class="site-page child" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub站</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-rocket"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://github.com/Weidows-projects"><span>Weidows-projects</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://github.com/Weidows?tab=repositories"><span>GitHub仓库</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://1drv.ms/u/s!AlhRaqfosSZYjASfwkPmiE5mF22Y"><span>OneNote笔记</span></a></li><li><a class="site-page child" href="/generator"><span>几个生成器</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://stats.uptimerobot.com/22R3Pfkjzv"><span>站点状态检测</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows-projects.github.io/Keeper"><span>SSL-Check</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows-news.vercel.app"><span>新-闻</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/gallery"><i class="fa-fw fas fa-camera"></i><span> 相册</span></a></li><li><a class="site-page child" href="/tags/bangumis"><i class="fa-fw fas fa-laptop"></i><span> _番_</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li><li><a class="site-page child" href="/tags/cinema"><i class="fa-fw fas fa-laptop"></i><span> _剧_</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/about"><i class="fa-fw fas fa-user"></i><span> -&gt;我&lt;-</span></a></li><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="page-site-info"><h1 id="site-title">⭐ 程序设计大赛 ⭐</h1></div></header><main class="layout hide-aside" id="content-inner"><div id="page"><div id="article-container"><h2 id="CCPC">CCPC</h2><ul><li>本次的 CCPC 是网络赛,好歹做了做,很多知识点还没涉猎到,大多数考究的是一个解决方案程序的<code>设计思路 &amp;&amp; 理念</code></li><li>没多想,看到会做的就做了,不会的也想不出来…网络赛我们都是玩过来的</li></ul><hr><h2 id="HBCPC-2020-9-27">HBCPC-2020-9-27</h2><ul><li>这个是好像河北的省赛,说大不大说小不小,我们学校是一个考点,不过技术含量感觉确实比 CCPC 差个 10~30%,收个人因素影响略有浮动产生吧,反正都是难题做不出来…</li><li>拉俺比赛的大佬替俺交了不少资金(确实过意不去-.-),不过好歹拿了个<code>三等奖</code>吧…嘻,比起去年大一参加了个校赛啥玩意都不是好多了</li><li>没学到啥东西不过确实让我明确了走开发路线的决心,不知道以后所谓的 30~35 做 IT 的挨踢是否真假,目前想法是<code>-&gt;实习-&gt;开发-&gt;技术-&gt;架构-&gt;带队-&gt;未知</code></li><li>走一步看一部吧,这都快成 <code>Weidows 自传</code>了…</li></ul><hr><h2 id="光阴-影纪念"><a target="_blank" rel="noopener" href="https://47i7-my.sharepoint.com/:f:/g/personal/utsuko27_bilibili_hk_cn/Esk_35nRzXNIj8P76_KWnXwB5SN8YcghyXSEPlwlM-gVzw?e=IIPVDm">光阴/影纪念</a></h2><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css"></div><hr><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div><div id="comment-switch"><span class="first-comment">Waline</span><span class="switch-btn"></span><span class="second-comment">Valine</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div><div><div class="vcomment" id="vcomment"></div></div></div></div></div></main><footer id="footer" style="background-image:url(https://www.helloimg.com/images/2022/02/27/GV45Kc.png)"><div id="footer-wrap"><div class="copyright">&copy;2020 - ⎛⎝Weidows⎠⎞ - 2022</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://gitee.com/Weidows/Weidows" target="_blank" title="静态网页托管于 Github + Gitee" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Github & Gitee</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://wakatime.com/@bd43b19c-e71d-4edd-a297-cc2989d16939" target="_blank" title="Total time coded since Feb 6 2021"><img src="https://wakatime.com/badge/user/bd43b19c-e71d-4edd-a297-cc2989d16939.svg"></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.jsdelivr.com/" target="_blank" title="JsDelivr | Hello图床提供 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">Hello | JsDelivr</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://www.beian.miit.gov.cn/" target="_blank" title="显然这个域名并不需要备案" data-pjax-state=""><span class="badge-subject">NaN备</span><span class="badge-value bg-gradient-2">3.114514 号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span> 数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"></div></div><hr><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/4.0.27/fancybox.umd.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" type="module"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/17.3.1/lazyload.iife.min.js"></script><script src="/js/search/local-search.js"></script><script>var preloader = {
+  endLoading: () => {
+    document.body.style.overflow = 'auto';
+    document.getElementById('loading-box').classList.add("loaded")
+  },
+  initLoading: () => {
+    document.body.style.overflow = '';
+    document.getElementById('loading-box').classList.remove("loaded")
+
+  }
+}
+window.addEventListener('load',preloader.endLoading())</script><div class="js-pjax"><script>(() => {
+  const $mermaidWrap = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaidWrap.length) {
+    window.runMermaid = () => {
+      window.loadMermaid = true
+      const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'neutral' : 'default'
+
+      Array.from($mermaidWrap).forEach((item, index) => {
+        const mermaidSrc = item.firstElementChild
+        const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+        const mermaidID = 'mermaid-' + index
+        const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+        mermaid.mermaidAPI.render(mermaidID, mermaidDefinition, (svgCode) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svgCode)
+        })
+      })
+    }
+
+    const loadMermaid = () => {
+      window.loadMermaid ? runMermaid() : getScript('https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.1.2/mermaid.min.js').then(runMermaid)
+    }
+
+    window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+  }
+})()</script><script>function loadWaline () {
+  function insertCSS () {
+    const link = document.createElement("link")
+    link.rel = "stylesheet"
+    link.href = "https://cdnjs.cloudflare.com/ajax/libs/waline/2.6.1/waline.min.css"
+    document.head.appendChild(link)
+  }
+
+  function initWaline () {
+    const waline = Waline.init(Object.assign({
+      el: '#waline-wrap',
+      serverURL: 'https://waline.weidows.tk',
+      pageview: false,
+      dark: 'html[data-theme="dark"]',
+      path: window.location.pathname,
+      comment: false,
+    }, {"emoji":["https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba"]}))
+  }
+
+  if (typeof Waline === 'function') initWaline()
+  else {
+    insertCSS()
+    getScript('https://cdnjs.cloudflare.com/ajax/libs/waline/2.6.1/waline.min.js').then(initWaline)
+  }
+}
+
+if ('Waline' === 'Waline' || !true) {
+  if (true) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script><script>function loadValine () {
+  function initValine () {
+    const valine = new Valine(Object.assign({
+      el: '#vcomment',
+      appId: '59PUYYpBs2LNsOauC9biCHyC-MdYXbMMI',
+      appKey: 'VhGVeGTSwpl4XYNamiRXwWKI',
+      avatar: 'wavatar',
+      serverURLs: '',
+      emojiMaps: "",
+      path: window.location.pathname,
+      visitor: false
+    }, null))
+  }
+
+  if (typeof Valine === 'function') initValine() 
+  else getScript('https://cdnjs.cloudflare.com/ajax/libs/valine/1.4.18/Valine.min.js').then(initValine)
+}
+
+if ('Waline' === 'Valine' || !true) {
+  if (true) btf.loadComment(document.getElementById('vcomment'),loadValine)
+  else setTimeout(loadValine, 0)
+} else {
+  function loadOtherComment () {
+    loadValine()
+  }
+}</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://cdnjs.cloudflare.com/ajax/libs/butterfly-extsrc/1.1.3/fireworks.min.js"></script><script defer id="ribbon" src="https://cdnjs.cloudflare.com/ajax/libs/butterfly-extsrc/1.1.3/canvas-ribbon.min.js" size="150" alpha="0.6" zindex="-1" mobile="true" data-click="true"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pjax/0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll
+  window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
+  window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
+
+  typeof preloader === 'object' && preloader.initLoading()
+  document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+  Weidows.re();
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script data-pjax src="https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js"></script><script data-pjax>function GithubCalendarConfig(){var t=document.getElementById("recent-posts");t&&"/"==location.pathname&&(console.log("已挂载github calendar"),t.insertAdjacentHTML("afterbegin",'<div class="recent-post-item" style="width:100%;height:auto;padding:10px;"><div id="github_loading" style="width:10%;height:100%;margin:0 auto;display: block"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 50 50" style="enable-background:new 0 0 50 50" xml:space="preserve"><path fill="#d0d0d0" d="M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z" transform="rotate(275.098 25 25)"><animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform></path></svg></div><div id="github_container"></div></div>')),GithubCalendar("https://gitcalendar.zfe.space/api?Weidows",["#ebedf0","#fdcdec","#fc9bd9","#fa6ac5","#f838b2","#f5089f","#c4067e","#92055e","#540336","#48022f","#30021f"],"Weidows")}document.getElementById("recent-posts")&&GithubCalendarConfig()</script><style>#github_container{min-height:280px}@media screen and (max-width:650px){#github_container{min-height:0}}</style><style></style></body></html>
