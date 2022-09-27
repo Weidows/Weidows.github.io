@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-14 23:26:16
+ * @LastEditTime: 2022-09-21 18:34:09
  * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -42,10 +42,12 @@ top_img:
     - [清理无用依赖](#清理无用依赖)
   - [报错](#报错)
     - [安装报错](#安装报错)
+    - [anaconda-无法打开](#anaconda-无法打开)
     - [环境不一致](#环境不一致)
     - [ssh-解释器位置问题](#ssh-解释器位置问题)
     - [mayavi-安装问题](#mayavi-安装问题)
     - [OSError](#oserror)
+    - [conda-not-found](#conda-not-found)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -79,6 +81,10 @@ top_img:
   anaconda 会把 scoop 里的环境识别为两个 (但实际上就一个)
 
   <img src="https://www.helloimg.com/images/2022/02/27/GVSnUD.png" alt="20211002190135" />
+
+  装的依赖多的话, 实际占用内存大的离谱
+
+  ![](https://www.helloimg.com/images/2022/09/16/Z6q5Bh.png)
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -120,12 +126,6 @@ sudo chmod -R 777 /opt/anaconda/
 - 点第一个,会弹出几次黑框,然后出现下面面板就没问题了.
 
   <img src="https://www.helloimg.com/images/2022/02/27/GV4D41.png" alt="20210520094007" />
-
-- 报错,无法打开:
-
-  1. 尝试管理员模式
-
-  2. 检查系统是不是开了 http 代理 (挂-了-梯-子?),把 http 模式换成 PAC 模式试试,我遇到这个错误可以这样解决
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -462,6 +462,14 @@ Current thread 0x00002a54 (most recent call first):
 
 ---
 
+### anaconda-无法打开
+
+1. 尝试管理员模式
+
+2. 检查系统是不是开了 http 代理 (挂-了-梯-子?),把 http 模式换成 PAC 模式试试,我遇到这个错误可以这样解决
+
+---
+
 ### 环境不一致
 
 - 之前遇到个问题苦恼了很久:
@@ -581,15 +589,23 @@ Current thread 0x00002a54 (most recent call first):
 
 ### OSError
 
-- > OSError: [WinError 1455] 页面文件太小，无法完成操作。 Error loading "D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\cudnn_cnn_train64_8.dll" or one of its dependencies.
+1. > OSError: [WinError 1455] 页面文件太小，无法完成操作。 Error loading "D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\cudnn_cnn_train64_8.dll" or one of its dependencies.
 
-  重启电脑解决
+   重启电脑解决
 
-- > OSError: [WinError 182] 操作系统无法运行 %1。 Error loading "D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
+2. > OSError: [WinError 182] 操作系统无法运行 %1。 Error loading "D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\shm.dll" or one of its dependencies.
 
-  ```
-  pip install intel-openmp
-  ```
+   ```
+   pip install intel-openmp
+   ```
+
+---
+
+### conda-not-found
+
+> ModuleNotFoundError: No module named 'conda'
+
+装 pytorch 后报错如上, 应该是自带 python 版本问题, 新建个环境指定版本 `conda create -n new python=3.7`
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

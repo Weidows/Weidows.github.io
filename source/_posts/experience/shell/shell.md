@@ -17,7 +17,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
  * @Author: Weidows
  * @Date: 2020-09-03 17:35:04
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-05 12:39:01
+ * @LastEditTime: 2022-09-19 18:25:16
  * @FilePath: \Blog-private\source\_posts\experience\shell\shell.md
 -->
 
@@ -40,6 +40,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVavTE.png
     - [用户管理](#用户管理)
       - [切换用户](#切换用户)
       - [设置与解锁用户密码](#设置与解锁用户密码)
+    - [换行符导致报错](#换行符导致报错)
   - [Git](#git)
   - [Docker](#docker)
   - [Vim](#vim)
@@ -282,6 +283,14 @@ export https_proxy=http://192.168.131.1:7890
 
 解锁 xxx 用户密码: `sudo passwd --unlock xxx`
 
+---
+
+### 换行符导致报错
+
+> syntax error near unexpected token `xxx
+
+Linux 并不兼容 windows 下的换行符, 可以通过 vscode 右下角转为 LF <sup id='cite_ref-5'>[\[5\]](#cite_note-5)</sup>
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## Git
@@ -358,3 +367,5 @@ export https_proxy=http://192.168.131.1:7890
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [Linux ln 命令](https://www.runoob.com/linux/linux-comm-ln.html)
 
 <a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [如何正确的删除软连接](https://fantiq.github.io/2017/07/06/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%88%A0%E9%99%A4%E8%BD%AF%E8%BF%9E%E6%8E%A5/)
+
+<a name='cite_note-5' href='#cite_ref-5'>[5]</a>: [syntax error near unexpected token `原因及解决办法 - 走看看](http://t.zoukankan.com/chenjianhong-p-4144905.html)

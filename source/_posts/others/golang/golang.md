@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-10 11:06:20
+ * @LastEditTime: 2022-09-21 18:28:14
  * @FilePath: \Blog-private\source\_posts\others\golang\golang.md
  * @Description:
  * @!: *********************************************************************
@@ -502,11 +502,19 @@ go env -w GOSUMDB=
 
 ### go-get-更新依赖无效
 
-很有可能因为设置了 GOPROXY, 拉不到最新的所以无效, 换成默认的就行了:
+1. 很有可能因为设置了 GOPROXY, 拉不到最新的所以无效, 换成默认的就行了:
 
-```
-go env -w GOPROXY=
-```
+   ```
+   go env -w GOPROXY=
+   ```
+
+2. > cannot find module providing package xxx
+
+   很怪的问题, 全更新就解决了
+
+   ```
+   go get -u all
+   ```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

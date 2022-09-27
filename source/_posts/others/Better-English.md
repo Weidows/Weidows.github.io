@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-22 18:32:26
+ * @LastEditTime: 2022-09-27 19:40:38
  * @FilePath: \Blog-private\source\_posts\others\Better-English.md
  * @Description:
  * @!: *********************************************************************
@@ -174,7 +174,9 @@ Too long; Don't read
 |                                                          RPC                                                           |                              Remote Procedure Call 远程过程调用                              |
 |                                                          Fov                                                           |                                            视场角                                            |
 |                [SOTA，benchmark 和 baseline 分别是什么意思？](https://www.zhihu.com/question/433986039)                |
+|      [机器学习里经常出现 ground truth 这个词，能否准确解释一下？ - 知乎](https://www.zhihu.com/question/22464082)      |
 |   [和、差、积、商、加、减、乘、除 8 个英文单词各是什么](https://zhidao.baidu.com/question/1437456404991027819.html)    |                                       dot-product 点积                                       |
+|   [【學位縮寫】BA、BBA、BS、MA、MS、MBA、PHD 意思是什麼？ &#8211; 英文庫](https://english.cool/degree-abbreviation/)   |
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

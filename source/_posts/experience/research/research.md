@@ -23,7 +23,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-10 11:21:21
+ * @LastEditTime: 2022-09-21 18:47:06
  * @FilePath: \Blog-private\source\_posts\experience\research\research.md
  * @Description:
  * @!: *********************************************************************
@@ -49,6 +49,7 @@ top_img:
       - [标注问题](#标注问题)
       - [其它问题](#其它问题)
       - [欧阳老师给的提议](#欧阳老师给的提议)
+    - [auto-mos](#auto-mos)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -329,8 +330,39 @@ fix_require
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
+### auto-mos
+
+是这个 paper 的流程总结 <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+![](https://www.helloimg.com/images/2022/09/17/Z6OgZ9.png)
+
+主要需要的数据是连续帧雷达点云数据, 论文所提出的 pipeline 是一套 offline 模块:
+
+1. 输入进 SLAM/测距, 首先估计位姿信息
+2. 应用 ERASOR 地图清理方法 (dynamic removal) 检测出 moving object
+3. 利用基于密度的聚类方法 HDBSCAN 对其进行实例分割
+4. 通过卡尔曼滤波进行多目标跟踪检测, 并通过跟踪结果判断是否为动态物体并确定其标签
+
+   中心距离, 重叠的边界框量以及基于其边界框之间的每对实例之间的 volume 更改
+
+   根据运动确定其标签
+
+连续帧雷达点云数据 -> 自动检测移动物体并生成标签
+
+之后使用生成的 label 作为监督数据训练 online 模型, 测试多个方法以及多组不同场景的雷达数据, 结果显示生成结果与人为标注结果差距小
+
+![](https://www.helloimg.com/images/2022/09/18/Z6cOvP.png)
+
+线性插值生成的汽车的轨迹显示灰色, 插值还考虑了旋转和缩放。
+
+![](https://www.helloimg.com/images/2022/09/19/Z67vqX.png)
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [元数据（MetaData）](http://www.ruanyifeng.com/blog/2007/03/metadata.html)
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [【论文必读 ResNet】residual 如此多娇，引无数英雄竞折腰](https://www.bilibili.com/video/BV1XU4y1X7b5/)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [GitHub - PRBonn/auto-mos: Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation](https://github.com/PRBonn/auto-mos)

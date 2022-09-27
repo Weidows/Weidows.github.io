@@ -20,7 +20,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-23 15:02:39
+ * @LastEditTime: 2022-09-21 18:53:07
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -48,6 +48,7 @@ top_img:
     - [内核更换报错](#内核更换报错)
     - [scoop-search](#scoop-search)
     - [brew-install-error](#brew-install-error)
+    - [scoop-update-failed](#scoop-update-failed)
   - [推荐](#推荐)
     - [备份](#备份)
     - [文章](#文章)
@@ -370,6 +371,14 @@ Error: python@3.10: the bottle needs the Apple Command Line Tools to be installe
 ```
 
 解决办法: `xcode-select --install` <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+---
+
+### scoop-update-failed
+
+scoop 软件安装/更新失败导致的错误 (无法正常使用/更新), 一般解决办法是卸载重装
+
+其实可以把失败的版本和 current 删掉 (如图中后两个), 然后 `scoop reset/update`
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 

@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2022-04-16 00:38:40
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-15 16:06:21
+ * @LastEditTime: 2022-09-27 19:43:54
  * @FilePath: \Blog-private\source\_drafts\buffer.md
  * @Description:
  * @!: *********************************************************************
@@ -35,3 +35,25 @@ ctrl+z 褪色
 ctrl+x 褪色
 ctrl+q 换脸
 高雄 mod 使用前要穿上命叫高雄的衣服按 F3 出现菜单
+
+[Python 中文注释报错解决方法 | Python | 小望云北屋](https://www.xiaowangyun.com/wyblog/detail/?id=261)
+
+## GNN
+
+[https://www.bilibili.com/video/BV1nu411e7yb](https://www.bilibili.com/video/BV1nu411e7yb)
+
+GCN (graph convolutional network)
+
+GraphSAGE (graph sample and aggregate approach)
+
+GAN (graph attention network)
+
+GAE (graph auto-encoder)
+
+GGN (graph generative network)
+
+GSTN (graph spatial-temporal network)
+
+---
+
+[颠覆认知——Redis会遇到的15个「坑」，你踩过几个？](http://kaito-kidd.com/2021/03/14/redis-trap/)

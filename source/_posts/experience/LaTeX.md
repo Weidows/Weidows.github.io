@@ -19,7 +19,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-31 15:50:18
+ * @LastEditTime: 2022-09-17 16:57:46
  * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
  * @Description:
  * @!: *********************************************************************
@@ -315,7 +315,7 @@ top_img:
 |            $\frac{1}{2}$            |             `\frac{1}{2}`             |
 |          $\sum_{i=1}^{N}$           |           `\sum_{i=1}^{N}`            |
 |              $1\quad2$              |               `1\quad2`               |
-|            $\sqrt{3}$ 根            |              `\sqrt{3}`               |
+|          $\sqrt[2]{3}$ 根           |             `\sqrt[2]{3}`             |
 |             $\|\|x\|\|$             |              `\|\|x\|\|`              |
 |           $\hat y$ 真实值           |               `\hat y`                |
 |            $\infty$ 无穷            |               `\infty`                |
