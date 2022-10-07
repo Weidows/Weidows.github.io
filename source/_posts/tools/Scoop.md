@@ -20,7 +20,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2021-01-14 23:09:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-21 18:53:07
+ * @LastEditTime: 2022-10-03 21:35:23
  * @FilePath: \Blog-private\source\_posts\tools\Scoop.md
  * @Description:
  * @!: *********************************************************************
@@ -48,6 +48,7 @@ top_img:
     - [内核更换报错](#内核更换报错)
     - [scoop-search](#scoop-search)
     - [brew-install-error](#brew-install-error)
+    - [镜像原问题](#镜像原问题)
     - [scoop-update-failed](#scoop-update-failed)
   - [推荐](#推荐)
     - [备份](#备份)
@@ -202,11 +203,9 @@ mac 上的王座, 没得可争
 
 ### Homebrew
 
-> 国内源安装脚本 https://gitee.com/cunkai/HomebrewCN
+> [国内源安装脚本](https://gitee.com/cunkai/HomebrewCN), 搜软件的话直接去 [官网](https://formulae.brew.sh/) 搜比较快
 
 > [Homebrew 安装、使用、升级和卸载](https://blog.devhitao.com/2020/01/18/homebrew-usage/)
-
-> 搜软件的话直接去官网搜比较快 https://formulae.brew.sh/
 
 ---
 
@@ -370,7 +369,27 @@ created by main.main
 Error: python@3.10: the bottle needs the Apple Command Line Tools to be installed.
 ```
 
-解决办法: `xcode-select --install` <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+解决办法: 安装 devtools <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup>
+
+```
+xcode-select --install
+```
+
+---
+
+### 镜像原问题
+
+```
+Error: No such file or directory @ rb_sysopen - /Users/weidows/Library/Caches/Homebrew/downloads/62f0eafeb7223239272cde77c134d3fa2c0cdc799e2b6d5b1c719d6bf35c4871--libpng-1.6.37.monterey.bottle.tar.gz
+```
+
+暂时换为默认源, 装完再换回去
+
+```
+echo ${HOMEBREW_BOTTLE_DOMAIN}
+export HOMEBREW_BOTTLE_DOMAIN=''
+export HOMEBREW_BOTTLE_DOMAIN='https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/'
+```
 
 ---
 

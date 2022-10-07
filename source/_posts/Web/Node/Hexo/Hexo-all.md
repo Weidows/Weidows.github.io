@@ -21,7 +21,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVJnSE.png
  * @Author: Weidows
  * @Date: 2020-08-25 00:05:52
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-09 15:53:33
+ * @LastEditTime: 2022-10-01 22:15:32
  * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-all.md
 -->
 
@@ -41,6 +41,7 @@ cover: https://www.helloimg.com/images/2022/02/27/GVJnSE.png
     - [bangumis-steam-页面图片无法加载](#bangumis-steam-页面图片无法加载)
     - [Pjax-渲染失效解决方案](#pjax-渲染失效解决方案)
     - [valine-waline-评论无法加载](#valine-waline-评论无法加载)
+    - [rss-编译出错](#rss-编译出错)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -625,6 +626,18 @@ lazyload:
   mushroom.dnspod.net
   ```
 
+---
+
+### rss-编译出错
+
+![](https://www.helloimg.com/images/2022/10/01/ZKIzYE.png)
+
+命令行程序/python-notebook 的输出或者网上复制下来的东西有时会带有垂直定位符号 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+
+![](https://www.helloimg.com/images/2022/10/01/ZKIpdv.png)
+
+在 vscode 中会出现红框标出来, 虽然博客页面展示没问题, 但是会导致 rss.xml 文件解析错误, 可以通过报错前的信息定位到符号所在位置
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 借物表
@@ -633,5 +646,6 @@ lazyload:
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [Hexo 博客之速度优化](https://blog.csdn.net/fengdi_yuxi/article/details/94402350)
 
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [cname 解析教程\_3 分钟，免费拥有你的专属域名——免费一级域名注册申请及域名解析教程...](https://blog.csdn.net/weixin_34163313/article/details/112220858)
 
-<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [cname解析教程_3分钟，免费拥有你的专属域名——免费一级域名注册申请及域名解析教程...](https://blog.csdn.net/weixin_34163313/article/details/112220858)
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [ASCII 控制字符\_mb618d1c8a55b34 的技术博客\_51CTO 博客](https://blog.51cto.com/laoshifu/4839614)

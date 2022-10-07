@@ -17,7 +17,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-04-20 23:44:36
+ * @LastEditTime: 2022-10-03 20:28:43
  * @FilePath: \Blog-private\source\_posts\experience\regex.md
  * @Description:
  * @!: *********************************************************************
@@ -32,6 +32,11 @@ top_img:
     - [一](#一)
     - [二](#二)
   - [sed-替换反斜杠](#sed-替换反斜杠)
+  - [删除匹配多行区域](#删除匹配多行区域)
+    - [多行匹配-替换模式](#多行匹配-替换模式)
+    - [字符匹配-行删除模式](#字符匹配-行删除模式)
+  - [报错](#报错)
+    - [Invalid-cross-device-link](#invalid-cross-device-link)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -182,6 +187,83 @@ Screenshot_\d+_\d+_tv.danmaku.bili`
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
+## 删除匹配多行区域
+
+起因是写的 host 更新脚本有时会因为网络原因出错, 我想删除`<html></html>` 这部分
+
+```
+# pollen
+127.0.0.1 pollen-svc
+
+# simswap.service
+127.0.0.1 simswap-service-svc
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.0 (Ubuntu)</center>
+</body>
+</html>
+# GitHub520 Host Start
+140.82.113.3                  alive.github.com
+140.82.113.3                  live.github.com
+35.91.180.210                 github.githubassets.com
+140.82.113.3                  central.github.com
+35.160.167.22                 desktop.githubusercontent.com
+140.82.113.3                  assets-cdn.github.com
+54.218.63.240                 camo
+```
+
+### 多行匹配-替换模式
+
+不知道为啥, 按道理 regex 没问题, 但是不起效..
+
+```
+sed -i "s/<[\w\W]*>/ /g" 1.txt
+```
+
+### 字符匹配-行删除模式
+
+```
+sed -i "/</d" 1.txt
+```
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
+## 报错
+
+### Invalid-cross-device-link
+
+```
+/d/Scoop/apps/git-all/current/usr/bin/sed: cannot rename ./sedLO8z5J: Invalid cross-device link
+```
+
+跨盘操作不允许替换文件 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
 ## 借物表
 
 <a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [Sed 替换 内容带反斜杠（/）](https://blog.csdn.net/weixin_39031707/article/details/104065184)
+
+<a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [正则表达式如何匹配多行的所有任意字符
+](https://www.jianshu.com/p/ff05d467e145)
+
+<a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [sed 删除文件中含有特定字符（串）的行\_51CTO 博客\_sed 删除指定行](https://blog.51cto.com/u_15278282/4895336)
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [sed 修改文件不成功](https://ceshiren.com/t/topic/3300)

@@ -17,7 +17,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2020-12-01 10:49:30
  * @LastEditors: Weidows
- * @LastEditTime: 2022-08-02 21:09:18
+ * @LastEditTime: 2022-10-06 11:18:46
  * @FilePath: \Blog-private\source\_posts\life\Why-illness.md
  * @Description:
 -->
@@ -26,6 +26,8 @@ top_img:
 
 - [深度病患解析](#深度病患解析)
   - [鼻子](#鼻子)
+    - [鼻窦炎](#鼻窦炎)
+    - [鼻子两侧发红脱皮](#鼻子两侧发红脱皮)
   - [体检](#体检)
   - [维生素](#维生素)
   - [借物表](#借物表)
@@ -39,6 +41,8 @@ top_img:
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## 鼻子
+
+### 鼻窦炎
 
 - 早年至今一直罹患`慢性鼻窦炎`这个病,不过还好,没有严重到"痛苦"
 
@@ -75,6 +79,14 @@ top_img:
   ***
 
 务必读一下的文章 <sup id='cite_ref-1'>[\[1\]](#cite_note-1)</sup> <sup id='cite_ref-2'>[\[2\]](#cite_note-2)</sup> <sup id='cite_ref-3'>[\[3\]](#cite_note-3)</sup>
+
+---
+
+### 鼻子两侧发红脱皮
+
+> 网上大多描述是脂溢性皮炎, 用药膏抗菌 <sup id='cite_ref-4'>[\[4\]](#cite_note-4)</sup>
+
+实际上很有可能是缺维生素 B 族了, 我这皮炎半个月没好, 吃了一片康恩贝的 B 族就好一半了...
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
@@ -172,3 +184,5 @@ Ah,有点焦虑的意蕴,肯定得焦虑啊,都是自己的身体
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [糖皮质激素鼻炎副作用?](https://wapask-mip.39.net/bdsshz/question/60154095.html)
 
 <a name='cite_note-3' href='#cite_ref-3'>[3]</a>: [鼻用糖皮质激素](https://m.baidu.com/bh/m/detail/kg_14979163500798759371)
+
+<a name='cite_note-4' href='#cite_ref-4'>[4]</a>: [鼻翼两侧发红，脱皮是怎么回事？](https://zhuanlan.zhihu.com/p/90499557)

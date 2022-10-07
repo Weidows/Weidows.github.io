@@ -15,7 +15,7 @@ top_img:
  * @Author: Weidows
  * @Date: 2022-04-16 00:38:40
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-27 19:43:54
+ * @LastEditTime: 2022-10-05 13:08:13
  * @FilePath: \Blog-private\source\_drafts\buffer.md
  * @Description:
  * @!: *********************************************************************
@@ -56,4 +56,6 @@ GSTN (graph spatial-temporal network)
 
 ---
 
-[颠覆认知——Redis会遇到的15个「坑」，你踩过几个？](http://kaito-kidd.com/2021/03/14/redis-trap/)
+[颠覆认知——Redis 会遇到的 15 个「坑」，你踩过几个？](http://kaito-kidd.com/2021/03/14/redis-trap/)
+
+context 不复用, 调用一次方法生成一次

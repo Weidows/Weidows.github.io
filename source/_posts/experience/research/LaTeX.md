@@ -19,8 +19,8 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-17 16:57:46
- * @FilePath: \Blog-private\source\_posts\experience\LaTeX.md
+ * @LastEditTime: 2022-10-06 19:45:36
+ * @FilePath: \Blog-private\source\_posts\experience\research\LaTeX.md
  * @Description:
  * @!: *********************************************************************
 -->
@@ -309,27 +309,29 @@ top_img:
 
 ### 常用速查表
 
-|                符号                 |                 LaTeX                 |
-| :---------------------------------: | :-----------------------------------: |
-|             $\partial$              |              `\partial`               |
-|            $\frac{1}{2}$            |             `\frac{1}{2}`             |
-|          $\sum_{i=1}^{N}$           |           `\sum_{i=1}^{N}`            |
-|              $1\quad2$              |               `1\quad2`               |
-|          $\sqrt[2]{3}$ 根           |             `\sqrt[2]{3}`             |
-|             $\|\|x\|\|$             |              `\|\|x\|\|`              |
-|           $\hat y$ 真实值           |               `\hat y`                |
-|            $\infty$ 无穷            |               `\infty`                |
-|              $\cap$ 并              |                `\cap`                 |
-|            $\mathcal{L}$            |             `\mathcal{L}`             |
-|             $1\qquad2$              |              `1\qquad2`               |
-|           $\|a\|$ 绝对值            |           `\|a\| 或 \vert`            |
-|             $a \cdot b$             |              `a \cdot b`              |
-|         $\overline y$ 均值          |             `\overline y`             |
-|           $\vec{w}$ 向量            |               `\vec{w}`               |
-|              $\cup$ 交              |                `\cup`                 |
-| $\begin{bmatrix}1 & 2\end{bmatrix}$ | `$\begin{bmatrix}1 & 2\end{bmatrix}$` |
-| $\begin{Vmatrix}1 & 2\end{Vmatrix}$ |  `\begin{Vmatrix}1 & 2\end{Vmatrix}`  |
-|        $\left( 123 \right)$         |         `\left( 123 \right)`          |
+|                符号                 |                LaTeX                |
+| :---------------------------------: | :---------------------------------: |
+|             $\partial$              |             `\partial`              |
+|            $\frac{1}{2}$            |            `\frac{1}{2}`            |
+|          $\sum_{i=1}^{N}$           |          `\sum_{i=1}^{N}`           |
+|              $1\quad2$              |              `1\quad2`              |
+|          $\sqrt[2]{3}$ 根           |            `\sqrt[2]{3}`            |
+|             $\|\|x\|\|$             |             `\|\|x\|\|`             |
+|           $\hat y$ 真实值           |              `\hat y`               |
+|            $\infty$ 无穷            |              `\infty`               |
+|              $\cap$ 并              |               `\cap`                |
+|            $\mathcal{L}$            |            `\mathcal{L}`            |
+|             $1\qquad2$              |             `1\qquad2`              |
+|           $\|a\|$ 绝对值            |          `\|a\| 或 \vert`           |
+|             $a \cdot b$             |             `a \cdot b`             |
+|         $\overline y$ 均值          |            `\overline y`            |
+|           $\vec{w}$ 向量            |              `\vec{w}`              |
+|              $\cup$ 交              |               `\cup`                |
+| $\begin{bmatrix}1 & 2\end{bmatrix}$ | `\begin{bmatrix}1 & 2\end{bmatrix}` |
+| $\begin{Vmatrix}1 & 2\end{Vmatrix}$ | `\begin{Vmatrix}1 & 2\end{Vmatrix}` |
+|        $\left( 123 \right)$         |        `\left( 123 \right)`         |
+|     $1^\circ 2^\prime$ 角分角秒     |         `1^\circ 2^\prime`          |
+|          $\approx$ 约等于           |              `\approx`              |
 
 ---
 
@@ -413,3 +415,7 @@ $$
 <a name='cite_note-6' href='#cite_ref-6'>[6]</a>: [Mathjax 和 katex 的功能比较（VSCode+MPE）](https://zhuanlan.zhihu.com/p/381263375)
 
 <a name='cite_note-7' href='#cite_ref-7'>[7]</a>: 来自官方博客的文档: [Butterfly 安裝文檔(四) 主題配置-2](https://butterfly.js.org/posts/ceeb73f/#Math-%E6%95%B8%E5%AD%B8)
+
+<a name='cite_note-8' href='#cite_ref-8'>[8]</a>: [如何在 LaTeX 中输入角度、角分、角秒？](https://sand.litofu.com/latex-degree-prime/)
+
+<a name='cite_note-9' href='#cite_ref-9'>[9]</a>: [LaTex 约等于怎么写？ - Firprin](https://www.firprin.com/questions/82/latexyue-deng-yu-zen-yao-xie)

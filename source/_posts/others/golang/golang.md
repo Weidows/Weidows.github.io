@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-21 18:28:14
+ * @LastEditTime: 2022-10-06 11:31:03
  * @FilePath: \Blog-private\source\_posts\others\golang\golang.md
  * @Description:
  * @!: *********************************************************************
@@ -33,6 +33,7 @@ top_img:
     - [Goland-快捷键迁移](#goland-快捷键迁移)
     - [项目热部署](#项目热部署)
     - [go-install](#go-install)
+    - [goland-输出重定向](#goland-输出重定向)
   - [learning](#learning)
     - [package](#package)
       - [package-demo](#package-demo)
@@ -42,6 +43,7 @@ top_img:
     - [名称规范](#名称规范)
     - [指针](#指针)
     - [gp-python](#gp-python)
+    - [concurrent](#concurrent)
   - [常见问题](#常见问题)
     - [阿里云效-go-mod](#阿里云效-go-mod)
       - [官方文档](#官方文档)
@@ -223,6 +225,12 @@ go install github.com/cuigh/protoc-gen-auxo@latest
 go install github.com/tpng/gopkgs@latest
 ```
 
+---
+
+### goland-输出重定向
+
+![](https://www.helloimg.com/images/2022/10/05/ZU4RwA.png)
+
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ## learning
@@ -386,6 +394,49 @@ pkg-config: exec: "pkg-config": executable file not found in %PATH%
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
+### concurrent
+
+| 并发模型 | 实体  |                 通信方式                  | 优点                                                                   | 缺点                                                                                                                           |
+| :------: | :---: | :---------------------------------------: | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+|  多进程  | 进程  | socket, 共享内存, 管道, 信号量, unix 域等 | 隔离性好, 因为每个进程都有自己独立的进程空间                           | 统一性差, 即数据同步比较麻烦. 解决方案(消息队列 zeromq 解决最终一致性问题, rpc 解决强一致性问题, zookeeper 解决服务协调的问题) |
+|  多线程  | 线程  |           消息队列, 管道, 锁等            | 统一性强, 因为线程都在同一个进程内(这里的多线程是指同一进程内的多线程) | 隔离性差, 线程间共享了很多资源, 并且可以轻易的访问其他线程的私有空间, 需要使用锁来进行控制(锁的类型选择和粒度控制都是比较难的) |
+|   csp    | 协程  |  channel (可理解为加强版多线程解决方案)   |
+|  actor   | actor |   通过消息队列传递指针即可达到通信目的    |
+
+- Golang 对 CSP(Communicating Sequential Process) 模型借用了 process(goroutine) 和 channel 这两个概念来实现自己的并发模型, 是对线程的抽象
+
+  如下一个简易 csp golang 实现
+
+  ```go
+  var ch = make(chan string)
+
+  func receive() {
+    // 异步, 阻塞读
+    msg := <-ch
+    fmt.Println(msg)
+  }
+
+  func send() {
+    // 写
+    ch <- "Hello,CSP."
+  }
+
+  func main() {
+    go send()
+    go receive()
+  }
+  ```
+
+- actor 是从语言层面抽象出来的进程概念, erlang 是从语言层面来实现 actor 模型(可理解为加强版多进程解决方案), actor 有三个组成:
+
+  隔离环境: 内存块或 lua 虚拟机
+
+  回调函数: 用于执行 actor, 消费消息
+
+  消息队列: 用于存储消息
+
+<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
+
 ## 常见问题
 
 ### 阿里云效-go-mod
@@ -434,7 +485,7 @@ password xxxx
 <!doctype html>
 <html>
 <head>
-            <meta message='鉴权失败，请确认客户端是否配置&quot;.netrc&quot;文件,traceId:707c9fc316602743714102416e4ef0'>
+            <meta message='鉴权失败, 请确认客户端是否配置&quot;.netrc&quot;文件,traceId:707c9fc316602743714102416e4ef0'>
     </head>
 </html>
 ```
@@ -528,7 +579,7 @@ go env -w GOSUMDB=
 
 <a name='cite_note-05' href='#cite_ref-05'>[5]</a>: https://www.runoob.com/go/go-tutorial.html
 
-<a name='cite_note-06' href='#cite_ref-06'>[6]</a>: [go 语言入门：package command-line-arguments is not a main package](https://blog.csdn.net/A_java_c/article/details/120006213)
+<a name='cite_note-06' href='#cite_ref-06'>[6]</a>: [go 语言入门: package command-line-arguments is not a main package](https://blog.csdn.net/A_java_c/article/details/120006213)
 
 <a name='cite_note-07' href='#cite_ref-07'>[7]</a>: [golang 之 import 和 package 的使用](https://segmentfault.com/a/1190000018235929)
 

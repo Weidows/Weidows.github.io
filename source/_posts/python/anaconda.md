@@ -13,7 +13,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2022-09-21 18:34:09
+ * @LastEditTime: 2022-10-01 17:21:23
  * @FilePath: \Blog-private\source\_posts\python\anaconda.md
  * @Description:
  * @!: *********************************************************************
@@ -36,8 +36,8 @@ top_img:
   - [PyTorch](#pytorch)
     - [实例](#实例)
   - [依赖](#依赖)
+    - [删除环境](#删除环境)
     - [更新依赖](#更新依赖)
-    - [install-报错](#install-报错)
     - [导出-安装依赖](#导出-安装依赖)
     - [清理无用依赖](#清理无用依赖)
   - [报错](#报错)
@@ -48,6 +48,7 @@ top_img:
     - [mayavi-安装问题](#mayavi-安装问题)
     - [OSError](#oserror)
     - [conda-not-found](#conda-not-found)
+    - [install-报错](#install-报错)
   - [借物表](#借物表)
 
 {% endpullquote %}
@@ -340,29 +341,17 @@ conda init 终端名(powershell)
 
 ## 依赖
 
+### 删除环境
+
+```
+conda remove -n xxx --all
+```
+
 ### 更新依赖
 
 ```
 conda update --all
 ```
-
----
-
-### install-报错
-
-conda install pydotplus 时遇到报错:
-
-```
-RemoveError: 'requests' is a dependency of conda and cannot be removed from ...
-```
-
-遇到这报错, 更新下 conda,然后再安装
-
-```
-conda update --force conda
-```
-
-<a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
 ### 导出-安装依赖
 
@@ -606,6 +595,22 @@ Current thread 0x00002a54 (most recent call first):
 > ModuleNotFoundError: No module named 'conda'
 
 装 pytorch 后报错如上, 应该是自带 python 版本问题, 新建个环境指定版本 `conda create -n new python=3.7`
+
+---
+
+### install-报错
+
+conda install pydotplus 时遇到报错:
+
+```
+RemoveError: 'requests' is a dependency of conda and cannot be removed from ...
+```
+
+遇到这报错, 更新下 conda,然后再安装
+
+```
+conda update --force conda
+```
 
 <a>![分割线](https://www.helloimg.com/images/2022/07/01/ZM0SoX.png)</a>
 
