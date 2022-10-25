@@ -1,0 +1,18 @@
+textarea {
+  resize: none;
+  overflow: hidden;
+  width: 100%;
+  min-height: 50px;
+}
+
+lable {
+  font-weight: bold;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+.form-group > lable {
+  color: green;
+}
