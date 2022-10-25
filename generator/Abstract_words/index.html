@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>抽象话生成器 网页版</title>
+    <link href="./css/bootstrap.min.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="alert alert-warning alert-dismissable">
+            <center>
+              <h1>抽象话生成器</h1>
+              生成时请注意温文儒雅。<br />
+              请务必要试试你舍友的名字!<br />
+            </center>
+          </div>
+          <div class="form-group">
+            <input
+              type="text"
+              class="form-control"
+              id="rawText"
+              autofocus
+              placeholder="输入你要转换的语句"
+            />
+          </div>
+          <button
+            class="btn btn-primary btn-block btn-outline-primary"
+            onclick="getResult()"
+            id="create"
+          >
+            生成抽象话
+          </button>
+
+          <div class="form-group">
+            <input type="text" class="form-control" id="resultText" />
+          </div>
+          <button
+            class="btn btn-primary btn-block btn-outline-primary"
+            id="d_clip_button"
+            data-clipboard-target="#resultText"
+          >
+            复制结果
+          </button>
+
+          <div class="form-group">
+            <input type="text" class="form-control" id="chouxiangText" />
+          </div>
+          <button
+            class="btn btn-primary btn-block btn-outline-primary"
+            onclick="retrenResult()"
+          >
+            还原抽象话到拼音
+          </button>
+        </div>
+      </div>
+    </div>
+    <script
+      src="https://utteranc.es/client.js"
+      repo="chenxuuu/chouxianghua"
+      issue-number="1"
+      theme="github-light"
+      crossorigin="anonymous"
+      async
+    ></script>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script>
+      $("#create").attr({ disabled: "disabled" });
+      $("#create").text("加载中，请稍候。。。");
+      function getResult() {
+        if (document.getElementById("rawText").value == "") {
+          document.getElementById("resultText").value =
+            "👇🈹🌶里转🈳7⃣呢¿敲🐔🈹字8⃣❕";
+        } else {
+          document.getElementById("resultText").value = "生成中，请稍候。。。";
+          document.getElementById("resultText").value = chouxiang(
+            document.getElementById("rawText").value
+          );
+        }
+      }
+      function retrenResult() {
+        if (document.getElementById("chouxiangText").value == "") {
+          document.getElementById("resultText").value =
+            "你搁那里转空气呢？敲几个字吧！";
+        } else {
+          document.getElementById("resultText").value = "还原中，请稍候。。。";
+          document.getElementById("resultText").value = dechouxiang(
+            document.getElementById("chouxiangText").value
+          );
+        }
+      }
+    </script>
+    <script type="text/javascript" src="./js/clipboard.min.js"></script>
+    <script>
+      var btn = document.getElementById("d_clip_button");
+      var clipboard = new ClipboardJS(btn);
+      clipboard.on("success", function (e) {
+        alert("复制成功~");
+      });
+      clipboard.on("error", function (e) {
+        alert("复制失败了呢，你还是手动复制吧");
+      });
+    </script>
+    <script>
+      var _hmt = _hmt || [];
+      (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?5762197b261e8aa1c5033c7d7b146ecd";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+    <script>
+      (function () {
+        var hm = document.createElement("script");
+        hm.src = "./js/grapheme-splitter.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+      (function () {
+        var hm = document.createElement("script");
+        hm.src = "./js/cxh.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+  </body>
+</html>
