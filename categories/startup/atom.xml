@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;startup&#34; category</title>
+    <link href="https://weidows.github.io" />
+    <updated>2023-12-19T05:53:16.000Z</updated>
+    <category term="Java" />
+    <category term="Javadoc" />
+    <category term="设计模式" />
+    <category term="编码" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PHP" />
+    <category term="Website" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="游戏" />
+    <category term="摄影" />
+    <category term="生活" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="工作" />
+    <category term="猫" />
+    <category term="笔记" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="English" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="多线程" />
+    <category term="人工智能" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="Tomcat" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="CORS" />
+    <category term="面试" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="Color" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="创业" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="音乐" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="快捷键" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="Markdown" />
+    <category term="Processing" />
+    <category term="MMDetection" />
+    <category term="机器学习" />
+    <category term="概率论" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="蓝易云" />
+    <category term="Colab" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="live2d" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="SEO" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://weidows.github.io/post/experience/startup/%E5%88%9B%E4%B8%9A/</id>
+        <title>🫀创业</title>
+        <link rel="alternate" href="https://weidows.github.io/post/experience/startup/%E5%88%9B%E4%B8%9A/"/>
+        <content type="html">&lt;h1&gt;创业&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-02-05 04:51:59
+ * @FilePath: \Blog-private\source\_posts\experience\startup\创业.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E4%B8%9A&#34;&gt;创业&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E5%90%91&#34;&gt;方向&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#elon-musk&#34;&gt;Elon-Musk&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BC%81%E4%B8%9A&#34;&gt;马斯克的企业&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#yc&#34;&gt;YC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#apple&#34;&gt;Apple&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2IoMzAsIDQ0LCAzNik7IGRpc3BsYXk6IGJsb2NrOyAtLWRhcmtyZWFkZXItaW5saW5lLWJnaW1hZ2U6IGluaXRpYWw7IC0tZGFya3JlYWRlci1pbmxpbmUtYmdjb2xvcjojMDAwMDAwOyIgd2lkdGg9IjIwMHB4IiBoZWlnaHQ9IjIwMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtYmdpbWFnZT0iIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWJnY29sb3I9IiI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KICAubGRpby1kMmd5cTY3YzBmZS1zdDB7b3BhY2l0eTowLjg7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ4MTE7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDJ7b3BhY2l0eTowLjg7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDN7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDR7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ2OTQ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT48c3R5bGUgY2xhc3M9ImRhcmtyZWFkZXIgZGFya3JlYWRlci0tc3luYyIgbWVkaWE9InNjcmVlbiI+PC9zdHlsZT4NCjxnIHN0eWxlPSJvcGFjaXR5OjAuNSI+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjQxLjUgNjIgMzAgNjIgMjQuMiA3MiAzMCA4MiA0MS41IDgyIDQ3LjMgNzIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI1OC44IDcyIDQ3LjMgNzIgNDEuNSA4MiA0Ny4zIDkyIDU4LjggOTIgNjQuNiA4MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9Ijc2LjIgNjIgNjQuNiA2MiA1OC44IDcyIDY0LjYgODIgNzYuMiA4MiA4MS45IDcyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNDEuNSA0MiAzMCA0MiAyNC4yIDUyIDMwIDYyIDQxLjUgNjIgNDcuMyA1MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjU4LjggMTIgNDcuMyAxMiA0MS41IDIyIDQ3LjMgMzIgNTguOCAzMiA2NC42IDIyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNTguOCAzMiA0Ny4zIDMyIDQxLjUgNDIgNDcuMyA1MiA1OC44IDUyIDY0LjYgNDIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI3Ni4yIDIyIDY0LjYgMjIgNTguOCAzMiA2NC42IDQyIDc2LjIgNDIgODEuOSAzMiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQo8L2c+DQo8Zz4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTQ4LjMgNTYuOGwtNC40IDEuNWMtMC45LTEuMy0xLjUtMi43LTEuNy00LjNsLTEuOSAwLjNjMC41IDIuNiAxLjcgNSAzLjYgNi45YzEuOSAxLjkgNC4zIDMuMSA2LjkgMy42IGwwLjMtMS45Yy0xLjYtMC4zLTMtMC45LTQuMy0xLjdMNDguMyA1Ni44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTU3LjggNDcuMmw0LjQtMS41YzAuOSAxLjMgMS41IDIuNyAxLjcgNC4zbDEuOS0wLjNjLTAuNS0yLjYtMS43LTUtMy42LTYuOWMtMS45LTEuOS00LjMtMy4xLTYuOS0zLjZMNTUgNDEuMSBjMS42IDAuMyAzIDAuOSA0LjMgMS43TDU3LjggNDcuMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik02Mi4yIDU4LjJsLTQuNC0xLjVsMS41IDQuNEM1OCA2MiA1Ni41IDYyLjYgNTUgNjIuOWwwLjMgMS45YzIuNi0wLjUgNS0xLjcgNi45LTMuNmMxLjktMS45IDMuMS00LjMgMy42LTYuOSBMNjQgNTMuOUM2My43IDU1LjUgNjMuMSA1Ni45IDYyLjIgNTguMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik00My45IDQyLjhjLTEuOSAxLjktMy4xIDQuMy0zLjYgNi45bDEuOSAwLjNjMC4zLTEuNiAwLjktMyAxLjctNC4zbDQuNCAxLjVsLTEuNS00LjRjMS4zLTAuOSAyLjctMS41IDQuMy0xLjcgbC0wLjMtMS45QzQ4LjIgMzkuNyA0NS44IDQwLjkgNDMuOSA0Mi44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjRzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MiI+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik0zNiA2MS45Yy0xLjctMy0yLjctNi40LTIuNy05LjljMC0xMC45IDguOC0xOS43IDE5LjctMTkuN3YxYy0xMC4zIDAtMTguOCA4LjQtMTguOCAxOC44IGMwIDMuMyAwLjkgNi41IDIuNSA5LjRMMzYgNjEuOXoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIycyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8ZyBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDIiPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNNTcgNzUuM2wtMC41LTNjOS45LTEuNyAxNy4yLTEwLjIgMTcuMi0yMC4zYzAtMTEuNC05LjItMjAuNi0yMC42LTIwLjZTMzIuNSA0MC42IDMyLjUgNTIgYzAgMS42IDAuMiAzLjIgMC41IDQuN2wtMyAwLjdjLTAuNC0xLjgtMC42LTMuNi0wLjYtNS40YzAtMTMuMSAxMC42LTIzLjcgMjMuNy0yMy43Uzc2LjcgMzguOSA3Ni43IDUyIEM3Ni43IDYzLjYgNjguNCA3My40IDU3IDc1LjN6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNOTAuNSA0NS40Yy0xLjUtOC44LTYuMi0xNi44LTEzLTIyLjVsMCAwYy0zLjQtMi45LTcuMy01LjEtMTEuNC02LjZzLTguNS0yLjMtMTMtMi4zdjIuNHYxLjR2Mi40IGMzLjcgMCA3LjQgMC42IDEwLjkgMS45bDAuOC0yLjNjMCAwIDAgMCAwIDBjMy43IDEuNCA3LjIgMy40IDEwLjMgNS45bDEuMi0xLjVMNzUgMjUuOGMwIDAgMCAwIDAgMGwtMS41IDEuOCBjNS43IDQuOCA5LjYgMTEuNSAxMC45IDE4LjhsMy44LTAuN2MwIDAgMCAwIDAgMEw5MC41IDQ1LjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjkuNyAyMmw0LjcgNi4xYzMuNS0yLjggNy41LTQuNiAxMS45LTUuNmwtMS43LTcuNUMzOS4yIDE2LjIgMzQuMiAxOC41IDI5LjcgMjJ6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMnMiIGtleVRpbWVzPSIwOzEiIHZhbHVlcz0iMzYwIDUzLjA2NCA1MjswIDUzLjA2NCA1MiI+PC9hbmltYXRlVHJhbnNmb3JtPg0KPC9nPg0KPGcgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QyIj4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTUzLjEgOTIuNHYtMWMyMS44IDAgMzkuNS0xNy43IDM5LjUtMzkuNWMwLTIxLjgtMTcuNy0zOS41LTM5LjUtMzkuNWMtMTUuOCAwLTMwIDkuNC0zNi4yIDIzLjhMMTUuOSAzNiBjNi40LTE0LjggMjEtMjQuNCAzNy4xLTI0LjRjMjIuMyAwIDQwLjQgMTguMSA0MC40IDQwLjRDOTMuNSA3NC4zIDc1LjMgOTIuNCA1My4xIDkyLjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxwb2x5Z29uIGZpbGw9IiNkOTUzNGYiIHBvaW50cz0iNTcuNCA1MS41IDUzLjUgNTEuNSA1My41IDQ3LjcgNTIuNiA0Ny43IDUyLjYgNTEuNSA0OC43IDUxLjUgNDguNyA1Mi41IDUyLjYgNTIuNSA1Mi42IDU2LjMgNTMuNSA1Ni4zIDUzLjUgNTIuNSA1Ny40IDUyLjUgIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojZmY0ZDQ3OyI+DQogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuMzMycyIga2V5VGltZXM9IjA7MC40OzAuNTswLjk7MSIgdmFsdWVzPSIwOzA7MTsxOzAiPjwvYW5pbWF0ZT4NCjwvcG9seWdvbj4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMzkuNyAyOC41bDAuNiAxYzMuOS0yLjIgOC4zLTMuNCAxMi44LTMuNFYyNUM0OC40IDI1IDQzLjcgMjYuMiAzOS43IDI4LjV6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTRmN2ZmOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjguNiA2MC42bC0xLjEgMC40QzMxLjMgNzEuOCA0MS42IDc5IDUzLjEgNzl2LTEuMkM0Mi4xIDc3LjkgMzIuMyA3MC45IDI4LjYgNjAuNnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSI0cyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8Zz4NCiAgPHBvbHlsaW5lIHN0cm9rZT0iIzM5ZmYzOSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QzIiBwb2ludHM9IjM1LjUgNzcuNSAyNy41IDg5LjUgMjQgODkuNSIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiMyMmZmMjI7Ij48L3BvbHlsaW5lPg0KICA8cmVjdCBzdHJva2U9IiMzOWZmMzkiIHg9IjciIHk9Ijg2IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHdpZHRoPSIxNyIgaGVpZ2h0PSI3IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6IzIyZmYyMjsiPjwvcmVjdD4NCjwvZz4NCjxnPg0KICA8cG9seWxpbmUgc3Ryb2tlPSIjMzlmZjM5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHBvaW50cz0iNTkgMjIgNjkgMTIgODIgMTIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9wb2x5bGluZT4NCiAgPGNpcmNsZSBzdHJva2U9IiMzOWZmMzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0NCIgY3g9Ijg3IiBjeT0iMTIiIHI9IjUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9jaXJjbGU+DQo8L2c+DQo8L3N2Zz4NCg==&#34; data-lazy-src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;方向&#34;&gt;方向&lt;/h2&gt;
+&lt;p&gt;关于第一波起的创业方向&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大小核
+&lt;ol&gt;
+&lt;li&gt;冲击中高端品牌形象, 实际收割中下游冲量&lt;/li&gt;
+&lt;li&gt;高产阶级也会参与消费, 但耗费对其来说不大&lt;/li&gt;
+&lt;li&gt;比如: 奶茶咖啡/Live/旅游/Vtb/直播带货&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;卷积挖历史
+&lt;ol&gt;
+&lt;li&gt;是有点怪相的, 比如 23 年的老二次元最喜欢听的歌很有可能是 13 年附近的&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;创业成功的几个点&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;丰富且适合的人脉&lt;/li&gt;
+&lt;li&gt;具备一定的领导规划能力&lt;/li&gt;
+&lt;li&gt;战略方向选择正确&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;Elon-Musk&#34;&gt;Elon-Musk&lt;/h2&gt;
+&lt;p&gt;突然冒出来个想法, 是在想马斯克如何走到这步时想到的&lt;/p&gt;
+&lt;p&gt;很多个早期采访中, 中马大致也是言辞一致, 并不完全 care 如何挣钱, 烧光自己的刀乐也要尽可能继续做下去&lt;/p&gt;
+&lt;p&gt;他很会操纵或者说引爆舆论 (不过人家执行力也是顶级), 收 X 应该也是他布局很久的一步, 毕竟 X 本身也是个成熟的项目不至于大亏损(当然也确实存在问题, 参见老马-twitter 大裁员), 收了 X 是在做提升愿力那一步, 给其他项目做资本打火石&lt;/p&gt;
+&lt;p&gt;(当时 Tesla 以及后来的 SpaceX 的起色一般, 包括现在在做的脑机, 放谁身上一想都是未经验证的, 风险概率极大的伪需求)&lt;/p&gt;
+&lt;h3 id=&#34;马斯克的企业&#34;&gt;马斯克的企业&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tesla 从初创到发展中期, 是如何成长的, 马斯克做了什么收获了如何大的资金和利润&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;特斯拉是一家美国的电动汽车和能源公司，成立于&lt;span class=&#34;number&#34;&gt;2003&lt;/span&gt;年，由马丁·艾伯哈德（Martin Eberhard）和马克·塔彭宁（Marc Tarpenning）共同创立，&lt;span class=&#34;number&#34;&gt;2004&lt;/span&gt;年埃隆·马斯克（Elon Musk）进入公司并领导了A轮融资¹。特斯拉的愿景是“加速全球向可持续能源的转变”²。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;特斯拉从初创到发展中期，经历了以下几个阶段：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- &lt;span class=&#34;number&#34;&gt;2003&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;2008&lt;/span&gt;年：特斯拉推出了其第一款电动车Roadster，这是一款高性能的跑车，拥有长续航里程和快速加速的特点。特斯拉在这个阶段面临了巨大的资金压力和技术挑战，需要不断地筹集资金来支持公司的发展，并不断完善电池技术和汽车设计。特斯拉在&lt;span class=&#34;number&#34;&gt;2008&lt;/span&gt;年成功进行了首次公开发行（IPO），筹集了&lt;span class=&#34;number&#34;&gt;2.26&lt;/span&gt;亿美元的资金³。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- &lt;span class=&#34;number&#34;&gt;2009&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;2015&lt;/span&gt;年：特斯拉推出了Model S，这是一款豪华电动轿车，获得了众多奖项和高度评价。特斯拉在这个阶段开始建立自己的充电网络，为用户提供便捷的充电服务。特斯拉还推出了Model X，这是一款豪华电动SUV，采用了独特的“鹰翼”式车门设计，具有更高的乘坐舒适性和更强的性能。特斯拉在这个阶段的收入和利润都有了显著的增长，但也经历了一些亏损和波动⁴。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- &lt;span class=&#34;number&#34;&gt;2016&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;2020&lt;/span&gt;年：特斯拉推出了Model &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;，这是一款紧凑型电动轿车，拥有高性能和长续航里程等特点，是特斯拉迄今为止最畅销的车型之一。特斯拉在这个阶段的目标是让电动汽车普及化，并推动全球转向可持续能源。特斯拉还推出了Model Y，这是一款中型电动SUV，具有灵活性、高效性和安全性等特点。特斯拉还发布了Solar Roof太阳能瓦片，这是一种在屋顶上直接安装的太阳能发电系统。特斯拉在这个阶段成为美国和全球市值最高的汽车制造商，并在纳斯达克&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;指数中占据了重要的位置⁵。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;马斯克在特斯拉的发展过程中，发挥了关键的作用。他不仅为公司提供了资金和战略的支持，还为公司注入了创新和变革的精神。他在电动汽车、自动驾驶、太阳能等领域都有着前瞻性的愿景和计划，为特斯拉赢得了市场和用户的认可和信赖。马斯克也从特斯拉的发展中，收获了巨大的资金和利润。根据福布斯的数据，马斯克目前的净资产为&lt;span class=&#34;number&#34;&gt;1850&lt;/span&gt;亿美元，是全球最富有的人之一。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;以上是我为您提供的关于特斯拉从初创到发展中期的成长历程，以及马斯克的作用和收获的信息。如果您还有其他问题，欢迎继续提问。谢谢您的关注。🙏&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;源: 与必应的对话， &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/2/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) 一段艰辛的创业道路，特斯拉(Tesla)创业历程 - 知乎. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;zhuanlan.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;37880913&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;) 特斯拉-一家颠覆性创新的公司-&lt;span class=&#34;number&#34;&gt;20&lt;/span&gt;年发展回顾 - 知乎. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;zhuanlan.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;618819708&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;) 特斯拉CEO马斯克的魔幻创业史 - 知乎 - 知乎专栏. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;zhuanlan.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;368028137&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;) 从电动车到能源革命：马斯克创办特斯拉的奋斗史. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;baijiahao.baidu.com/s?id=&lt;span class=&#34;number&#34;&gt;1760671704674330282&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;) “神一样的男人”——埃隆马斯克的创业史，请收下我的膝盖. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;baijiahao.baidu.com/s?id=&lt;span class=&#34;number&#34;&gt;1664212502026021426&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;马斯克的SpaceX 和脑机接口的项目资金是如何获取的?&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;马斯克的SpaceX和脑机接口的项目资金主要来自以下几个方面：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- SpaceX的资金主要来自于NASA和其他政府机构的合同，以及私人投资者的融资。SpaceX与NASA有多项合作协议，包括商业轨道运输服务、商业载人飞行、月球着陆等，这些合同为SpaceX提供了稳定的收入来源¹。SpaceX也不断吸引私人投资者的注资，目前的估值已经超过&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;亿美元²。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 脑机接口的项目主要由马斯克的另一家公司Neuralink负责，该公司的资金主要来自于马斯克自己的投入，以及其他私人投资者的融资。Neuralink成立于&lt;span class=&#34;number&#34;&gt;2016&lt;/span&gt;年，目前已经完成了多轮融资，总额达到了&lt;span class=&#34;number&#34;&gt;4.3&lt;/span&gt;亿美元³。马斯克本人也是Neuralink的最大股东，他曾表示自己已经投入了超过&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;亿美元⁴。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;以上是我为您提供的关于马斯克的SpaceX和脑机接口的项目资金来源的信息，希望对您有所帮助。如果您还有其他问题，欢迎继续提问。谢谢您的关注。🙏&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;源: 与必应的对话， &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/2/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) 让马斯克疯狂的脑机接口究竟是什么？ - 虎嗅网. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.huxiu.com&lt;span class=&#34;regexp&#34;&gt;/article/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;378954&lt;/span&gt;.html.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;) 马斯克的SpaceX，凭什么估值能达&lt;span class=&#34;number&#34;&gt;2000&lt;/span&gt;亿美元？ - 虎嗅网. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.huxiu.com&lt;span class=&#34;regexp&#34;&gt;/article/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;465544&lt;/span&gt;.html.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;) 马斯克的脑机接口公司Neuralink再融资&lt;span class=&#34;number&#34;&gt;4.3&lt;/span&gt;亿美元 - 腾讯网. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;new.qq.com&lt;span class=&#34;regexp&#34;&gt;/rain/&lt;/span&gt;a/&lt;span class=&#34;number&#34;&gt;20231127&lt;/span&gt;A002M900.html.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;) 埃隆·马斯克 - 百度百科. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;baike.baidu.com&lt;span class=&#34;regexp&#34;&gt;/item/&lt;/span&gt;埃隆·马斯克/&lt;span class=&#34;number&#34;&gt;3776526&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;) 马斯克的脑机接口公司融了&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;亿，资本盯上你的大脑|马斯克|脑机接口|美元_新浪科技_新浪网. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;finance.sina.com.cn&lt;span class=&#34;regexp&#34;&gt;/tech/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;2021&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;08&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;03&lt;/span&gt;/doc-ikqcfncc0702981.shtml.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;) undefined. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;baike.baidu.com&lt;span class=&#34;regexp&#34;&gt;/item/&lt;/span&gt;埃隆.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;YC&#34;&gt;YC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;搜一下 YC 2024 年最近的投资近况, 以及做一下总结: 说一下投的项目平均是多少个人, 人均资历是什么水平(工作年数或者年龄), 男女分布情况&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;根据我从网络上找到的信息¹³⁴，YC &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt; 年最近的投资主要集中在以下几个方面：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- AI 和大模型的应用和基础设施，包括视频、&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;D、语音等多媒体素材生成，以及聊天机器人、机器人流程自动化、内容审核、图像字幕等功能。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 教育和客户支持等细分行业和场景的 AI 解决方案，例如在线教育平台、智能问答系统、销售电话转录器等。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 云计算和数据科学的工具和平台，例如自主托管的机器学习模型、数据收集&lt;span class=&#34;regexp&#34;&gt;/标注/&lt;/span&gt;清理&lt;span class=&#34;regexp&#34;&gt;/微调/&lt;/span&gt;部署的一站式服务、基于云的数据分析和可视化等。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;这些投资项目反映了 YC 对 AI 和大数据领域的高度重视，以及对创新和实用的产品的追求。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;根据我从网络上找到的信息⁵⁸，YC &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt; 年投资的项目平均人数、人均资历和男女分布情况如下：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 平均人数：YC &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt; 年投资的项目一般由 &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; 人的小团队组成，少数项目有 &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt; 人或更多。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 人均资历：YC &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt; 年投资的项目的创始人和团队成员大多具有名校背景、大厂经历或连续创业经验，其中不乏博士、硕士、本科或高中毕业生。他们在 AI、计算机科学、软件工程、数据科学等领域有着丰富的知识和技能，以及对市场和用户需求的敏锐洞察。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 男女分布：YC &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt; 年投资的项目的创始人和团队成员中，男性占据了绝大多数，女性则相对较少。这可能与 AI 和大数据领域的性别差异有关，也可能与 YC 的申请和筛选过程有关。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;以上就是我为您搜索和总结的 YC &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt; 年最近的投资近况，希望对您有所帮助。如果您还有其他问题，欢迎继续向我提问。😊&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;源: 与必应的对话， &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/2/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;) 【VC说】天使湾创投：为什么YC的投资模式在中国需升级？-&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;氪. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;kr.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1641731538945&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;) &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;年投资展望：哪些方向值得关注？-&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;氪. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;kr.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;2599522301812869&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;) &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;年投资策略：科技、医药将成“主战场” - 腾讯网. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;new.qq.com&lt;span class=&#34;regexp&#34;&gt;/rain/&lt;/span&gt;a/&lt;span class=&#34;number&#34;&gt;20231207&lt;/span&gt;A0988N00.html.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;) 天使投资人看YC Demo Day上&lt;span class=&#34;number&#34;&gt;27&lt;/span&gt;个AIGC项目 - 投人的逻辑｜投资人说 - 知乎. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;zhuanlan.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;620094594&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;) Y Combinator，一个价值&lt;span class=&#34;number&#34;&gt;650&lt;/span&gt;亿美金的创业帝国 - 知乎. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;zhuanlan.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;23912903&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;) &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;年有哪些值得投资的方向？ - 知乎. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/question/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;634209507&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;) &lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;氪专访 | 全世界最牛的创业孵化器YC要来中国了，中国创业者有什么新机会？-&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;氪. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt;kr.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1722401718273&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;) Apply to Y Combinator | Y Combinator. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.ycombinator.com&lt;span class=&#34;regexp&#34;&gt;/apply/&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;) &lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;年有哪些比较火的创业可以做？整理六个靠谱创业项目(学起来) - 知乎. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;zhuanlan.zhihu.com&lt;span class=&#34;regexp&#34;&gt;/p/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;675878417&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) 透视过去 &lt;span class=&#34;number&#34;&gt;15&lt;/span&gt; 年的 YC 投资数据：未来究竟应该投什么？. https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;baijiahao.baidu.com/s?id=&lt;span class=&#34;number&#34;&gt;1655978266478057828&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;) 退出OR投资?关于&lt;span class=&#34;number&#34;&gt;2024&lt;/span&gt;年，我们和一线VC&lt;span class=&#34;regexp&#34;&gt;/PE聊了聊 - 腾讯网. https:/&lt;/span&gt;&lt;span class=&#34;regexp&#34;&gt;/new.qq.com/&lt;/span&gt;rain&lt;span class=&#34;regexp&#34;&gt;/a/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;20231217&lt;/span&gt;A02C8U00.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;) undefined. http:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;www.tisiwi.com&lt;span class=&#34;regexp&#34;&gt;/angel/&lt;/span&gt;termsheet.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Apple&#34;&gt;Apple&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;分析一下于今 Apple 发布的 Vision Pro&lt;/p&gt;
+&lt;p&gt;小三万的价格谁都肉疼, Apple 肯定也清楚隔壁 Meta-quest 的不温不火, 以及老黄的 4090 用户端销量&lt;/p&gt;
+&lt;p&gt;我预估, 这东西跟 00-15 年代的手机一样, 即使成本下降了价格也不会下降太多, 直到五年后十年后我们觉得三万价格还可以时才买得起&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以, 我感觉哪怕 Apple 真有钱烧的起, 做的东西概念性强, 实际用起来时, 会因为愿力严重不足而发展缓慢&lt;/p&gt;
+&lt;p&gt;马斯克与 Apple 起势相同, 都是有个技术明星+流量明星带头&lt;/p&gt;
+&lt;p&gt;不同的是 Apple 大口吃上了互联网和智能机的红利, 而老马的项目可以说是大冷门&lt;/p&gt;
+&lt;p&gt;这么想来他完全不是在赌, 他有足够的号召力和执行力, 另一个缺口 Money 一定会被社会补上&lt;/p&gt;
+&lt;p&gt;我看来与老马走相同路子的, 是稚晖君, 就是很成功的走了&lt;/p&gt;
+&lt;p&gt;执行力, 民众愿力, Money 这三个元素一直存在三角关系, 没见过谁完全具有这三样&lt;/p&gt;
+&lt;p&gt;所以我在想, 国内经常见到大流量博主去带货, 有没有挖角他们, 去做实际产品的 (当然, 我知道美妆区多得很)&lt;/p&gt;
+&lt;p&gt;于是有个怪相: 纯做技术的工资挺高的懒得整流量, 纯做流量的一丁点技术都不懂, 俩枣放不进一个碗, 所以如何三仙归洞?&lt;/p&gt;
+&lt;p&gt;做技术明星,&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2IoMzAsIDQ0LCAzNik7IGRpc3BsYXk6IGJsb2NrOyAtLWRhcmtyZWFkZXItaW5saW5lLWJnaW1hZ2U6IGluaXRpYWw7IC0tZGFya3JlYWRlci1pbmxpbmUtYmdjb2xvcjojMDAwMDAwOyIgd2lkdGg9IjIwMHB4IiBoZWlnaHQ9IjIwMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtYmdpbWFnZT0iIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWJnY29sb3I9IiI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KICAubGRpby1kMmd5cTY3YzBmZS1zdDB7b3BhY2l0eTowLjg7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ4MTE7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDJ7b3BhY2l0eTowLjg7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDN7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KICAubGRpby1kMmd5cTY3YzBmZS1zdDR7ZmlsbDpub25lO3N0cm9rZS13aWR0aDowLjQ2OTQ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT48c3R5bGUgY2xhc3M9ImRhcmtyZWFkZXIgZGFya3JlYWRlci0tc3luYyIgbWVkaWE9InNjcmVlbiI+PC9zdHlsZT4NCjxnIHN0eWxlPSJvcGFjaXR5OjAuNSI+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjQxLjUgNjIgMzAgNjIgMjQuMiA3MiAzMCA4MiA0MS41IDgyIDQ3LjMgNzIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI1OC44IDcyIDQ3LjMgNzIgNDEuNSA4MiA0Ny4zIDkyIDU4LjggOTIgNjQuNiA4MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9Ijc2LjIgNjIgNjQuNiA2MiA1OC44IDcyIDY0LjYgODIgNzYuMiA4MiA4MS45IDcyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNDEuNSA0MiAzMCA0MiAyNC4yIDUyIDMwIDYyIDQxLjUgNjIgNDcuMyA1MiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQogIDxwb2x5Z29uIHN0cm9rZT0iIzc5OWI3OSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QwIiBwb2ludHM9IjU4LjggMTIgNDcuMyAxMiA0MS41IDIyIDQ3LjMgMzIgNTguOCAzMiA2NC42IDIyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6I2FkYTE4ZTsiPjwvcG9seWdvbj4NCiAgPHBvbHlnb24gc3Ryb2tlPSIjNzk5Yjc5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDAiIHBvaW50cz0iNTguOCAzMiA0Ny4zIDMyIDQxLjUgNDIgNDcuMyA1MiA1OC44IDUyIDY0LjYgNDIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojYWRhMThlOyI+PC9wb2x5Z29uPg0KICA8cG9seWdvbiBzdHJva2U9IiM3OTliNzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MCIgcG9pbnRzPSI3Ni4yIDIyIDY0LjYgMjIgNTguOCAzMiA2NC42IDQyIDc2LjIgNDIgODEuOSAzMiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiNhZGExOGU7Ij48L3BvbHlnb24+DQo8L2c+DQo8Zz4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTQ4LjMgNTYuOGwtNC40IDEuNWMtMC45LTEuMy0xLjUtMi43LTEuNy00LjNsLTEuOSAwLjNjMC41IDIuNiAxLjcgNSAzLjYgNi45YzEuOSAxLjkgNC4zIDMuMSA2LjkgMy42IGwwLjMtMS45Yy0xLjYtMC4zLTMtMC45LTQuMy0xLjdMNDguMyA1Ni44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTU3LjggNDcuMmw0LjQtMS41YzAuOSAxLjMgMS41IDIuNyAxLjcgNC4zbDEuOS0wLjNjLTAuNS0yLjYtMS43LTUtMy42LTYuOWMtMS45LTEuOS00LjMtMy4xLTYuOS0zLjZMNTUgNDEuMSBjMS42IDAuMyAzIDAuOSA0LjMgMS43TDU3LjggNDcuMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik02Mi4yIDU4LjJsLTQuNC0xLjVsMS41IDQuNEM1OCA2MiA1Ni41IDYyLjYgNTUgNjIuOWwwLjMgMS45YzIuNi0wLjUgNS0xLjcgNi45LTMuNmMxLjktMS45IDMuMS00LjMgMy42LTYuOSBMNjQgNTMuOUM2My43IDU1LjUgNjMuMSA1Ni45IDYyLjIgNTguMnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMxNGY3ZmY7Ij48L3BhdGg+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik00My45IDQyLjhjLTEuOSAxLjktMy4xIDQuMy0zLjYgNi45bDEuOSAwLjNjMC4zLTEuNiAwLjktMyAxLjctNC4zbDQuNCAxLjVsLTEuNS00LjRjMS4zLTAuOSAyLjctMS41IDQuMy0xLjcgbC0wLjMtMS45QzQ4LjIgMzkuNyA0NS44IDQwLjkgNDMuOSA0Mi44eiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IzE0ZjdmZjsiPjwvcGF0aD4NCiAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjRzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0MiI+DQogIDxwYXRoIGZpbGw9IiMyYWNjZmMiIGQ9Ik0zNiA2MS45Yy0xLjctMy0yLjctNi40LTIuNy05LjljMC0xMC45IDguOC0xOS43IDE5LjctMTkuN3YxYy0xMC4zIDAtMTguOCA4LjQtMTguOCAxOC44IGMwIDMuMyAwLjkgNi41IDIuNSA5LjRMMzYgNjEuOXoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIycyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8ZyBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDIiPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNNTcgNzUuM2wtMC41LTNjOS45LTEuNyAxNy4yLTEwLjIgMTcuMi0yMC4zYzAtMTEuNC05LjItMjAuNi0yMC42LTIwLjZTMzIuNSA0MC42IDMyLjUgNTIgYzAgMS42IDAuMiAzLjIgMC41IDQuN2wtMyAwLjdjLTAuNC0xLjgtMC42LTMuNi0wLjYtNS40YzAtMTMuMSAxMC42LTIzLjcgMjMuNy0yMy43Uzc2LjcgMzguOSA3Ni43IDUyIEM3Ni43IDYzLjYgNjguNCA3My40IDU3IDc1LjN6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNOTAuNSA0NS40Yy0xLjUtOC44LTYuMi0xNi44LTEzLTIyLjVsMCAwYy0zLjQtMi45LTcuMy01LjEtMTEuNC02LjZzLTguNS0yLjMtMTMtMi4zdjIuNHYxLjR2Mi40IGMzLjcgMCA3LjQgMC42IDEwLjkgMS45bDAuOC0yLjNjMCAwIDAgMCAwIDBjMy43IDEuNCA3LjIgMy40IDEwLjMgNS45bDEuMi0xLjVMNzUgMjUuOGMwIDAgMCAwIDAgMGwtMS41IDEuOCBjNS43IDQuOCA5LjYgMTEuNSAxMC45IDE4LjhsMy44LTAuN2MwIDAgMCAwIDAgMEw5MC41IDQ1LjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjkuNyAyMmw0LjcgNi4xYzMuNS0yLjggNy41LTQuNiAxMS45LTUuNmwtMS43LTcuNUMzOS4yIDE2LjIgMzQuMiAxOC41IDI5LjcgMjJ6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMnMiIGtleVRpbWVzPSIwOzEiIHZhbHVlcz0iMzYwIDUzLjA2NCA1MjswIDUzLjA2NCA1MiI+PC9hbmltYXRlVHJhbnNmb3JtPg0KPC9nPg0KPGcgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QyIj4NCiAgPHBhdGggZmlsbD0iIzJhY2NmYyIgZD0iTTUzLjEgOTIuNHYtMWMyMS44IDAgMzkuNS0xNy43IDM5LjUtMzkuNWMwLTIxLjgtMTcuNy0zOS41LTM5LjUtMzkuNWMtMTUuOCAwLTMwIDkuNC0zNi4yIDIzLjhMMTUuOSAzNiBjNi40LTE0LjggMjEtMjQuNCAzNy4xLTI0LjRjMjIuMyAwIDQwLjQgMTguMSA0MC40IDQwLjRDOTMuNSA3NC4zIDc1LjMgOTIuNCA1My4xIDkyLjR6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMDA4ZmNiOyI+PC9wYXRoPg0KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGR1cj0iMS4zMzJzIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjAgNTMuMDY0IDUyOzM2MCA1My4wNjQgNTIiPjwvYW5pbWF0ZVRyYW5zZm9ybT4NCjwvZz4NCjxwb2x5Z29uIGZpbGw9IiNkOTUzNGYiIHBvaW50cz0iNTcuNCA1MS41IDUzLjUgNTEuNSA1My41IDQ3LjcgNTIuNiA0Ny43IDUyLjYgNTEuNSA0OC43IDUxLjUgNDguNyA1Mi41IDUyLjYgNTIuNSA1Mi42IDU2LjMgNTMuNSA1Ni4zIDUzLjUgNTIuNSA1Ny40IDUyLjUgIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojZmY0ZDQ3OyI+DQogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBkdXI9IjEuMzMycyIga2V5VGltZXM9IjA7MC40OzAuNTswLjk7MSIgdmFsdWVzPSIwOzA7MTsxOzAiPjwvYW5pbWF0ZT4NCjwvcG9seWdvbj4NCjxnPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMzkuNyAyOC41bDAuNiAxYzMuOS0yLjIgOC4zLTMuNCAxMi44LTMuNFYyNUM0OC40IDI1IDQzLjcgMjYuMiAzOS43IDI4LjV6IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTRmN2ZmOyI+PC9wYXRoPg0KICA8cGF0aCBmaWxsPSIjMmFjY2ZjIiBkPSJNMjguNiA2MC42bC0xLjEgMC40QzMxLjMgNzEuOCA0MS42IDc5IDUzLjEgNzl2LTEuMkM0Mi4xIDc3LjkgMzIuMyA3MC45IDI4LjYgNjAuNnoiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiMwMDhmY2I7Ij48L3BhdGg+DQogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSI0cyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIzNjAgNTMuMDY0IDUyOzAgNTMuMDY0IDUyIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQo8L2c+DQo8Zz4NCiAgPHBvbHlsaW5lIHN0cm9rZT0iIzM5ZmYzOSIgY2xhc3M9ImxkaW8tZDJneXE2N2MwZmUtc3QzIiBwb2ludHM9IjM1LjUgNzcuNSAyNy41IDg5LjUgMjQgODkuNSIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlOiMyMmZmMjI7Ij48L3BvbHlsaW5lPg0KICA8cmVjdCBzdHJva2U9IiMzOWZmMzkiIHg9IjciIHk9Ijg2IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHdpZHRoPSIxNyIgaGVpZ2h0PSI3IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZT0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U6IzIyZmYyMjsiPjwvcmVjdD4NCjwvZz4NCjxnPg0KICA8cG9seWxpbmUgc3Ryb2tlPSIjMzlmZjM5IiBjbGFzcz0ibGRpby1kMmd5cTY3YzBmZS1zdDQiIHBvaW50cz0iNTkgMjIgNjkgMTIgODIgMTIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9wb2x5bGluZT4NCiAgPGNpcmNsZSBzdHJva2U9IiMzOWZmMzkiIGNsYXNzPSJsZGlvLWQyZ3lxNjdjMGZlLXN0NCIgY3g9Ijg3IiBjeT0iMTIiIHI9IjUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtc3Ryb2tlPSIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTojMjJmZjIyOyI+PC9jaXJjbGU+DQo8L2c+DQo8L3N2Zz4NCg==&#34; data-lazy-src=&#34;https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无.&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="创业" />
+        <updated>2023-12-19T05:53:16.000Z</updated>
+    </entry>
+</feed>
