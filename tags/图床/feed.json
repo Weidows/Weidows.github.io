@@ -1,0 +1,22 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "⭐️齐下无贰⭐️ • All posts by \"图床\" tag",
+    "description": "May all the beauty be bless.✨",
+    "home_page_url": "https://weidows.github.io",
+    "items": [
+        {
+            "id": "https://weidows.github.io/post/tools/SM-MS-downloader/",
+            "url": "https://weidows.github.io/post/tools/SM-MS-downloader/",
+            "title": "▶️SM.MS-批量下载器",
+            "date_published": "2021-04-18T03:54:15.000Z",
+            "content_html": "<h1>SM.MS-批量下载器</h1>\n<!--\n * @?: *********************************************************************\n * @Author: Weidows\n * @LastEditors: Weidows\n * @LastEditTime: 2023-04-20 18:28:08\n * @FilePath: \\Blog-private\\source\\_posts\\tools\\SM-MS-downloader.md\n * @Description:\n * @!: *********************************************************************\n-->\n<blockquote class=\"pullquote mindmap mindmap-md\"><ul>\n<li><a href=\"#smms-%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E5%99%A8\">SM.MS-批量下载器</a>\n<ul>\n<li><a href=\"#%E4%BD%BF%E7%94%A8\">使用</a></li>\n<li><a href=\"#%E9%97%AE%E9%A2%98\">问题</a></li>\n<li><a href=\"#%E5%80%9F%E7%89%A9%E8%A1%A8\">借物表</a></li>\n</ul>\n</li>\n</ul>\n</blockquote>\n<p><a href=\"https://weidows.github.io/post/tools/SM-MS-downloader/\">⏩ 文章地址</a> | <a href=\"https://github.com/Weidows-projects/awesome-image-collector\">✔️ 仓库地址</a> 欢迎提交 pr !</p>\n<p><a href=\"http://SM.MS\">SM.MS</a> 没有提供批量下载回图片的功能,于是写了个小爬虫</p>\n<p>可以把对应页面的所有图片(一般是 30 张)获取并打包为 zip 文件下载下来</p>\n<p><a><img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"使用\">使用</h2>\n<ol>\n<li>\n<p>进入 <a href=\"http://SM.MS\">SM.MS</a> 图片管理页面: <a href=\"https://sm.ms/home/picture?page=1\">点这里进入</a></p>\n</li>\n<li>\n<p>按 <code>F12</code> 进入 Console 控制台,输入下面代码: <a href=\"https://cdn.jsdelivr.net/gh/Weidows-projects/awesome-image-collector/implements/SM.MS-collector.js\">-&gt; 查看代码 &lt;-</a></p>\n</li>\n<li>\n<p>不出意外的话,左侧边栏会出现如下两个按钮:<br>\n<img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/blog/GVt2do.png\" alt=\"20210418102023\" /></p>\n</li>\n<li>\n<p>现在可以使用了 =&gt; 下载本页面图片 =&gt; 全选 =&gt; 删除, 这样就导出了!</p>\n</li>\n</ol>\n<p><a><img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"问题\">问题</h2>\n<ul>\n<li>\n<p>刷新页面或者翻页时按钮没了</p>\n<blockquote>\n<p>emmm,每次页面刷新/跳转都需要重新执行一次代码,在 console 中按 <code>↑</code> 然后 <code>Enter</code></p>\n</blockquote>\n</li>\n<li>\n<p>下载下来的压缩包是空的或者是无数据的空图片</p>\n<blockquote>\n<p>检查一下网络是否可以正常访问 <code>i.loli.net</code> 这个域名,有可能是因为网络原因导致图片未成功加载</p>\n</blockquote>\n</li>\n</ul>\n<p><a><img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"借物表\">借物表</h2>\n<blockquote>\n<p><code>JSZip</code></p>\n</blockquote>\n<blockquote>\n<p><a href=\"https://blog.csdn.net/weixin_38361925/article/details/95099838?utm_source=app&amp;app_version=4.5.8\"> JS 如何在 onload 中 return</a></p>\n</blockquote>\n<script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kity@2.0.4/dist/kity.min.js\"></script><script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js\"></script><script defer=\"true\" type=\"text&#x2F;javascript\" src=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js\"></script><link rel=\"stylesheet\" type=\"text&#x2F;css\" href=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css\">",
+            "tags": [
+                "HTML",
+                "JavaScript",
+                "图床",
+                "爬虫",
+                "SM.MS"
+            ]
+        }
+    ]
+}

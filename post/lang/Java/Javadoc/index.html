@@ -1,0 +1,271 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Javadoc使用 &amp;&amp; 命名规范 | ⭐️齐下无贰⭐️</title><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="文档注释方法 常用标签 常用@ Generate  在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会…一团乱麻!   Java 命名规范  文档注释方法  在类&#x2F;方法上面写个&#x2F;**就会出来 文档注释会在代码提示中显示,也可以用 Javadoc 生成文档 其中的标签不用闭合,比如写&lt;p&gt;的话用不着写&lt;&#x2F;p&gt;,但是写上也不会错   常用标签  &amp;l"><meta property="og:type" content="article"><meta property="og:title" content="Javadoc使用 &amp;&amp; 命名规范"><meta property="og:url" content="https://weidows.github.io/post/lang/Java/Javadoc/"><meta property="og:site_name" content="⭐️齐下无贰⭐️"><meta property="og:description" content="文档注释方法 常用标签 常用@ Generate  在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会…一团乱麻!   Java 命名规范  文档注释方法  在类&#x2F;方法上面写个&#x2F;**就会出来 文档注释会在代码提示中显示,也可以用 Javadoc 生成文档 其中的标签不用闭合,比如写&lt;p&gt;的话用不着写&lt;&#x2F;p&gt;,但是写上也不会错   常用标签  &amp;l"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://pan.weidows.tech/d/local/blog/GV3orR.png"><meta property="article:published_time" content="2020-10-25T09:36:12.000Z"><meta property="article:modified_time" content="2024-08-07T05:42:09.000Z"><meta property="article:author" content="⎛⎝Weidows⎠⎞"><meta property="article:tag" content="Java"><meta property="article:tag" content="Javadoc"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://pan.weidows.tech/d/local/blog/GV3orR.png"><link rel="shortcut icon" href="https://pan.weidows.tech/d/local/img/avatar/avatar.png"><link rel="canonical" href="https://weidows.github.io/post/lang/Java/Javadoc/"><link rel="preconnect" href="//cdn.jsdelivr.net"><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="google-site-verification" content="63ToVDqwHzHL8gCsk3EDT__plD-ytNXcHbiAt9lMh9Y"><meta name="bing-site-verification" content="B99F807E806B2C297FF5818253DDD408"><meta name="baidu-site-verification" content="codeva-S90fjC0lEU"><link rel="stylesheet" href="/css/index.css?v=4.9.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" media="print" onload='this.media="all"'><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.min.css" media="print" onload='this.media="all"'><script async src="https://www.googletagmanager.com/gtag/js?id=G-BHH5BNEG3S"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-BHH5BNEG3S")</script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery@2.1.2/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery@2.1.2/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"Javadoc使用 && 命名规范",isPost:!0,isHome:!1,isHighlightShrink:!1,isToc:!0,postUpdate:"2024-08-07 13:42:09"}</script><noscript><style type="text/css">#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+    win.getCSS = (url,id = false) => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      if (id) link.id = id
+      link.onerror = reject
+      link.onload = link.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        link.onload = link.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(link)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script><script src="https://cdn.jsdelivr.net/combine/gh/dylanNew/live2d/webgl/Live2D/lib/live2d.min.js,npm/pixi.js@6.5.2/dist/browser/pixi.min.js,npm/pixi-live2d-display/dist/index.min.js,gh/Weidows-projects/Live2dLoader/dist/Live2dLoader.min.js"></script><meta name="baidu-site-verification" content="codeva-hhGzt89VUk"><script>let HEXO_MMEDIA_DATA = { js: [], css: [], aplayerData: [], metingData: [], artPlayerData: [], dplayerData: []};</script><meta name="generator" content="Hexo 7.3.0"></head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
+
+document.addEventListener('pjax:send', () => {
+  Pace.restart()
+})</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/themes/blue/pace-theme-minimal.min.css"><script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">142</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">204</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">43</div></a></div><hr class="custom-hr"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image:url(https://pan.weidows.tech/d/local/blog/GV3orR.png)"><nav id="nav"><span id="blog-info"><a href="/" title="⭐️齐下无贰⭐️"><span class="site-name">⭐️齐下无贰⭐️</span></a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search" href="javascript:void(0);"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Javadoc使用 &amp;&amp; 命名规范<a class="post-edit-link" href="https://github.com/Weidows/Blog-private/edit/main/source/_posts/lang/Java/Javadoc.md" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a></h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-10-25T09:36:12.000Z" title="发表于 2020-10-25 17:36:12">2020-10-25</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-08-07T05:42:09.000Z" title="更新于 2024-08-07 13:42:09">2024-08-07</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/lang/">lang</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/lang/Java/">Java</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">265</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>1分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" data-flag-title="Javadoc使用 &amp;&amp; 命名规范"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><ul><li><a href="#%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A%E6%96%B9%E6%B3%95">文档注释方法</a></li><li><a href="#%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE">常用标签</a></li><li><a href="#%E5%B8%B8%E7%94%A8">常用@</a></li><li><a href="#generate">Generate</a><ul><li><a href="#%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%BD%93%E5%89%8D%E7%9B%AE%E5%BD%95%E7%94%9F%E6%88%90-javadoc-%E6%96%87%E6%A1%A3%E6%B3%A8%E6%84%8F%E5%AD%98%E6%94%BE%E7%9B%AE%E5%BD%95%E6%9C%80%E5%A5%BD%E6%98%AF%E7%A9%BA%E7%9A%84%E4%B8%8D%E7%84%B6%E4%BC%9A%E4%B8%80%E5%9B%A2%E4%B9%B1%E9%BA%BB">在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会…一团乱麻!</a></li></ul></li><li><a href="#java-%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83">Java 命名规范</a></li></ul><h2 id="文档注释方法">文档注释方法</h2><ul><li>在类/方法上面写个<code>/**</code>就会出来</li><li>文档注释会在代码提示中显示,也可以用 Javadoc 生成文档</li><li>其中的标签不用闭合,比如写<code>&lt;p&gt;</code>的话用不着写<code>&lt;/p&gt;</code>,但是写上也不会错</li></ul><hr><h2 id="常用标签">常用标签</h2><ul><li><code>&lt;p&gt;</code> Passage 段落标签</li></ul><hr><h2 id="常用">常用@</h2><ul><li><code>@author</code></li><li><code>@version</code></li><li><code>@since</code></li><li><code>@see</code></li><li><code>@link</code></li><li><code>@code</code></li><li><code>@param</code></li><li><code>@return</code></li><li><code>@exception</code></li><li><code>@throws</code></li></ul><hr><h2 id="Generate">Generate</h2><h4 id="在命令行当前目录生成-JavaDoc-文档-注意存放目录最好是空的-不然会…一团乱麻">在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会…一团乱麻!</h4><figure class="highlight apache"><table><tr><td class="code"><pre><span class="line"><span class="attribute">javadoc</span> -encoding UTF-<span class="number">8</span> -charset UTF-<span class="number">8</span> Path/文件名</span><br></pre></td></tr></table></figure><hr><h2 id="Java-命名规范">Java 命名规范</h2><ol><li><p>见名知意</p><ol><li><p>不要用中文/拼音命名</p></li><li><p>即使命名不规范也可能不会出 bug,但是问题很大!</p></li></ol></li><li><p>驼峰命名(变量,方法)</p></li><li><p>类,首字母大写,驼峰命名</p></li><li><p>包,全小写命名+下划线</p></li><li><p>常量/枚举,全大写命名+下划线</p></li></ol><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css"></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="https://weidows.github.io/">⎛⎝Weidows⎠⎞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://weidows.github.io/post/lang/Java/Javadoc/">https://weidows.github.io/post/lang/Java/Javadoc/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://weidows.github.io" target="_blank">⭐️齐下无贰⭐️</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/Java/">Java</a><a class="post-meta__tags" href="/tags/Javadoc/">Javadoc</a></div><div class="post_share"><div class="social-share" data-image="https://pan.weidows.tech/d/local/blog/GV3orR.png" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload='this.media="all"'><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMQ5xr.jpg" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNujq.jpg" alt="微信"></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMNj0c.jpg" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNrb5.jpg" alt="支付宝"></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/post/lang/Java/TransformCharset/" title="字符编码转换器"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GV3P1z.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">字符编码转换器</div></div></a></div><div class="next-post pull-right"><a href="/post/others/font/" title="一些字体和VScode字体设置"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVJsVC.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">一些字体和VScode字体设置</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/others/LearnWay/" title="😍Weidows-の成长路线"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVAbOo.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">😍Weidows-の成长路线</div></div></a></div><div><a href="/post/tools/Tomcat/" title="🐱‍🏍Maven+Tomcat开发webapp."><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVtCuY.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-06</div><div class="title">🐱‍🏍Maven+Tomcat开发webapp.</div></div></a></div><div><a href="/post/lang/Java/MOOC-java-FoxAndRabbit/" title="MOOC浙大翁凯教授Java第六章狐狸与兔子源代码"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVmRzE.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">MOOC浙大翁凯教授Java第六章狐狸与兔子源代码</div></div></a></div><div><a href="/post/lang/Java/TransformCharset/" title="字符编码转换器"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GV3P1z.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">字符编码转换器</div></div></a></div><div><a href="/post/lang/Java/design_pattern/" title="Java设计模式"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GV3Tru.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">Java设计模式</div></div></a></div><div><a href="/post/lang/Java/jvm_model/" title="JVM内存模型"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVadev.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">JVM内存模型</div></div></a></div></div></div><hr class="custom-hr"><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="author-info__name">⎛⎝Weidows⎠⎞</div><div class="author-info__description">May all the beauty be bless.✨</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">142</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">204</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">43</div></a></div><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Weidows" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:utsuko27@qq.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQ1NC.jpg" target="_blank" title="QQ号"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQRaK.jpg" target="_blank" title="微信号"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/38283369" target="_blank"><i class="fa-brands fa-bilibili"></i></a><a class="social-icon" href="/categories/rss" target="_blank" title="RSS"><i class="fa fa-rss-square"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><center><h2 style="color:#0ff">-> 欢迎,锟斤拷! <-</h2><h3 style="color:gray">低情商：代码一坨屎<br>高情商：兼容性极强</h3>欢迎加我QQ或群 942848525 <img src="https://moe.counter.weidows.tech/Weidows?theme=rule34" style="width:100%"></center></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A%E6%96%B9%E6%B3%95"><span class="toc-text">文档注释方法</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE"><span class="toc-text">常用标签</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B8%B8%E7%94%A8"><span class="toc-text">常用@</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Generate"><span class="toc-text">Generate</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%BD%93%E5%89%8D%E7%9B%AE%E5%BD%95%E7%94%9F%E6%88%90-JavaDoc-%E6%96%87%E6%A1%A3-%E6%B3%A8%E6%84%8F%E5%AD%98%E6%94%BE%E7%9B%AE%E5%BD%95%E6%9C%80%E5%A5%BD%E6%98%AF%E7%A9%BA%E7%9A%84-%E4%B8%8D%E7%84%B6%E4%BC%9A%E2%80%A6%E4%B8%80%E5%9B%A2%E4%B9%B1%E9%BA%BB"><span class="toc-text">在命令行当前目录生成 JavaDoc 文档,注意存放目录最好是空的,不然会…一团乱麻!</span></a></li></ol></li></ol><li class="toc-item toc-level-2"><a class="toc-link" href="#Java-%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83"><span class="toc-text">Java 命名规范</span></a></li></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"><img src="https://pan.weidows.tech/d/local/blog/owlk10.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"></a><div class="content"><a class="title" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night">🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night</a><time datetime="2024-08-07T05:42:52.694Z" title="更新于 2024-08-07 13:42:52">2024-08-07</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/Web/cloudflare/" title="cloudflare-使用及问题记录"><img src="https://pan.weidows.tech/d/local/blog/20240807115314.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cloudflare-使用及问题记录"></a><div class="content"><a class="title" href="/post/Web/cloudflare/" title="cloudflare-使用及问题记录">cloudflare-使用及问题记录</a><time datetime="2024-08-07T05:42:09.000Z" title="更新于 2024-08-07 13:42:09">2024-08-07</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/others/LearnWay/" title="😍Weidows-の成长路线"><img src="https://pan.weidows.tech/d/local/blog/GVAbOo.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="😍Weidows-の成长路线"></a><div class="content"><a class="title" href="/post/others/LearnWay/" title="😍Weidows-の成长路线">😍Weidows-の成长路线</a><time datetime="2024-08-07T05:42:09.000Z" title="更新于 2024-08-07 13:42:09">2024-08-07</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/system/RaspberryPi/" title="树莓派酱の吃灰日常"><img src="https://pan.weidows.tech/d/local/blog/GV4VHQ.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="树莓派酱の吃灰日常"></a><div class="content"><a class="title" href="/post/system/RaspberryPi/" title="树莓派酱の吃灰日常">树莓派酱の吃灰日常</a><time datetime="2024-08-07T05:42:09.000Z" title="更新于 2024-08-07 13:42:09">2024-08-07</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/system/docker/" title="🌈初探Docker"><img src="https://pan.weidows.tech/d/local/blog/GVawKY.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🌈初探Docker"></a><div class="content"><a class="title" href="/post/system/docker/" title="🌈初探Docker">🌈初探Docker</a><time datetime="2024-08-07T05:42:09.000Z" title="更新于 2024-08-07 13:42:09">2024-08-07</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/experience/basic/OpenGL/" title="🥵OpenGL-xmake-蚌埠住了"><img src="https://pan.weidows.tech/d/local/blog/GVLyTX.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🥵OpenGL-xmake-蚌埠住了"></a><div class="content"><a class="title" href="/post/experience/basic/OpenGL/" title="🥵OpenGL-xmake-蚌埠住了">🥵OpenGL-xmake-蚌埠住了</a><time datetime="2024-08-07T05:42:09.000Z" title="更新于 2024-08-07 13:42:09">2024-08-07</time></div></div></div></div></div></div></main><footer id="footer" style="background-image:url(https://pan.weidows.tech/d/local/blog/GV3orR.png)"><div id="footer-wrap"><div class="copyright">&copy;2020 - ⎛⎝Weidows⎠⎞ - 2024</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://gitee.com/Weidows/Weidows" target="_blank" title="静态网页托管于 Github + Gitee" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Vercel & Github</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://wakatime.com/@bd43b19c-e71d-4edd-a297-cc2989d16939" target="_blank" title="Total time coded since Feb 6 2021"><img src="https://wakatime.com/badge/user/bd43b19c-e71d-4edd-a297-cc2989d16939.svg"></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.jsdelivr.com/" target="_blank" title="图床及 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">Alist-Cloudflare</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://icp.gov.moe/?keyword=20244090" target="_blank" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" data-pjax-state=""><span class="badge-subject">萌ICP备</span><span class="badge-value bg-gradient-2">20244090 号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.9.0"></script><script src="/js/main.js?v=4.9.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page@5.2.0/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.iife.min.js"></script><div class="js-pjax"><script>(() => {
+  const $mermaid = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaid.length === 0) return
+  const runMermaid = () => {
+    window.loadMermaid = true
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'neutral' : 'default'
+
+    Array.from($mermaid).forEach((item, index) => {
+      const mermaidSrc = item.firstElementChild
+      const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+      const mermaidID = 'mermaid-' + index
+      const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+
+      const renderFn = mermaid.render(mermaidID, mermaidDefinition)
+
+      const renderV10 = () => {
+        renderFn.then(({svg}) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svg)
+        })
+      }
+
+      const renderV9 = svg => {
+        mermaidSrc.insertAdjacentHTML('afterend', svg)
+      }
+
+      typeof renderFn === 'string' ? renderV9(renderFn) : renderV10()
+    })
+  }
+
+  const loadMermaid = () => {
+    window.loadMermaid ? runMermaid() : getScript('https://cdn.jsdelivr.net/npm/mermaid@10.2.2/dist/mermaid.min.js').then(runMermaid)
+  }
+
+  btf.addModeChange('mermaid', runMermaid)
+
+  window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+})()</script><script>function loadWaline () {
+  function initWaline () {
+    const waline = Waline.init(Object.assign({
+      el: '#waline-wrap',
+      serverURL: 'https://waline.weidows.tech',
+      pageview: false,
+      dark: 'html[data-theme="dark"]',
+      path: window.location.pathname,
+      comment: false,
+    }, {"emoji":["https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq","https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba"]}))
+  }
+
+  if (typeof Waline === 'object') initWaline()
+  else {
+    getCSS('https://cdn.jsdelivr.net/npm/@waline/client@2.15.5/dist/waline.min.css').then(() => {
+      getScript('https://cdn.jsdelivr.net/npm/@waline/client@2.15.5/dist/waline.min.js').then(initWaline)
+    })
+  }
+}
+
+if ('Waline' === 'Waline' || !true) {
+  if (true) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/fireworks.min.js"></script><script defer id="ribbon" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/canvas-ribbon.min.js" size="150" alpha="0.6" zindex="-1" mobile="true" data-click="true"></script><script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: true,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll
+  window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
+  window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
+
+  document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', 'G-BHH5BNEG3S', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+  Weidows.re();
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span> 数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"></div></div><hr><div class="no-result" id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js?v=4.9.0"></script></div></div><script src="/assets/mmedia/mmedia-loader.js"></script></body></html>

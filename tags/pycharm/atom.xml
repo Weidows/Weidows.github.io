@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://weidows.github.io</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;pycharm&#34; tag</title>
+    <link href="https://weidows.github.io" />
+    <updated>2021-07-29T06:11:07.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="笔记" />
+    <category term="工作" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="English" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="system" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://weidows.github.io/post/tools/IDE-matters/</id>
+        <title>🤔Matters-found-in-IDEs</title>
+        <link rel="alternate" href="https://weidows.github.io/post/tools/IDE-matters/"/>
+        <content type="html">&lt;h1&gt;Matters-found-in-IDEs&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-05-10 18:53:34
+ * @FilePath: \Blog-private\source\_posts\tools\IDE-matters.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#matters-found-in-ides&#34;&gt;Matters-found-in-IDEs&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode&#34;&gt;vscode&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode-%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E4%B8%8D%E6%98%BE%E7%A4%BA&#34;&gt;vscode-源代码管理不显示&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B3%E9%97%AD%E6%9B%B4%E6%96%B0%E6%8F%90%E7%A4%BA&#34;&gt;关闭更新提示&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#jetbrains&#34;&gt;Jetbrains&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#goland-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5&#34;&gt;Goland-快捷键导入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%8D%B8%E8%BD%BD&#34;&gt;插件无法卸载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#goland-%E8%BE%93%E5%87%BA%E9%87%8D%E5%AE%9A%E5%90%91&#34;&gt;goland-输出重定向&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#wakatime&#34;&gt;wakatime&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%8D%E8%AE%A1%E6%97%B6&#34;&gt;不计时&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vscode&#34;&gt;vscode&lt;/h2&gt;
+&lt;h3 id=&#34;vscode-源代码管理不显示&#34;&gt;vscode-源代码管理不显示&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;问题就是这里的&amp;quot;源代码管理&amp;quot;无法显示出来&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAlkD.png&#34; alt=&#34;20220125012150&#34; /&gt;
+&lt;p&gt;经各路探索 (改配置/清空数据重装…etc), 发现此问题只局限在我的某个项目,而且即使 fully restore 问题尚在&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所以我认为这个问题存在于 vscode 可以同步的数据中&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVSbPS.png&#34; alt=&#34;20220125012636&#34; /&gt;
+&lt;p&gt;那么,凶手比较明显了: &lt;code&gt;UI状态&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;查找了一番,其定位在 &lt;code&gt;C:\Users\utsuk\AppData\Roaming\Code\User\globalStorage\state.vscdb&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;打开这个文件,查找关键词 &lt;code&gt;null&lt;/code&gt; 替换为 &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;OK 了,虽然项目的 UI 配置似乎会被重置,但是确实修好了!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;关闭更新提示&#34;&gt;关闭更新提示&lt;/h3&gt;
+&lt;p&gt;这个烦得很, 每次打开都会提示&lt;/p&gt;
+&lt;p&gt;设置里搜 &lt;code&gt;update: mode&lt;/code&gt;, 改下&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Jetbrains&#34;&gt;Jetbrains&lt;/h2&gt;
+&lt;h3 id=&#34;Goland-快捷键导入&#34;&gt;Goland-快捷键导入&lt;/h3&gt;
+&lt;p&gt;在此提一嘴想用 vscode 写 go 的话,目前还是不太友好… (2022.2); &lt;code&gt;首选 Goland&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jetbrains 不同 IDE 之间的快捷键是没法直接导入,一个个地改又非常费劲&lt;/p&gt;
+&lt;p&gt;找到了一个通过修改文件来导入的方式&lt;sup id=&#39;cite_ref-04&#39;&gt;&lt;a href=&#34;#cite_note-04&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;,比如我们想把快捷键 IDEA -&amp;gt; Goland&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 idea 并导出配置到压缩包,快捷键在 &lt;code&gt;settings.zip\keymaps\&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;先打开 Goland 随便改一个快捷键,不然下一步可能找不到; 然后关掉 Goland&lt;/li&gt;
+&lt;li&gt;找到 &lt;code&gt;Goland\profile\config\jba_config\win.keymaps\&lt;/code&gt;,复制粘贴&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;插件无法卸载&#34;&gt;插件无法卸载&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;问题说明:&lt;/p&gt;
+&lt;p&gt;我用的设置同步,所以 IDEA 上的插件也被同步到 PyCharm 上了&lt;/p&gt;
+&lt;p&gt;但是有个 MyBatis 插件 PyCharm 不支持,安装后重启直接报错,而且插件面板也找不到它,没法卸载 (于是每次启动 Pycharm 都会报错,如下:)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;14:07 插件错误: 插件 ‘Free MyBatis plugin’ 之所以与 IntelliJ IDEA 兼容，只是因为它没有定义任何显式模块依赖项&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;解决办法:&lt;/p&gt;
+&lt;p&gt;进入: (用户名和版本号需要注意一下)&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;C&lt;/span&gt;:\Users\&lt;span class=&#34;number&#34;&gt;29845&lt;/span&gt;\AppData\Roaming\JetBrains\PyCharm2021.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;\plugins&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;应该很容易就能找到那个残留的导致报错的家伙了,直接 &lt;code&gt;delete&lt;/code&gt; !&lt;/p&gt;
+&lt;p&gt;再重开就没报错了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;goland-输出重定向&#34;&gt;goland-输出重定向&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZVdhtT.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;pycharm-解释器问题&#34;&gt;pycharm-解释器问题&lt;/h3&gt;
+&lt;p&gt;顺藤摸瓜去找这个文件就对了: &lt;code&gt;C:/Users/Administrator/AppData/Roaming/JetBrains/PyCharm2023.1/options/jdk.table.xml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;通过 pycharm 本身增删改查解释器很是鸡肋, 尤其还有个与项目关联的操作, 如果你没取消这个选项然后修改项目本身(移动/改名), 都会使解释器无效/pycharm 不认&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wakatime&#34;&gt;wakatime&lt;/h2&gt;
+&lt;h3 id=&#34;不计时&#34;&gt;不计时&lt;/h3&gt;
+&lt;p&gt;发现 Mac 上的 wakatime 在所有 IDE 上都无法正常计时, 重新填 key/重装/挂代理都无效&lt;/p&gt;
+&lt;p&gt;最终通过删除 dotfiles 解决: ~/.wakatime*&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZgwyWD.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-04&#39; href=&#39;#cite_ref-04&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://www.cnblogs.com/devzyc/p/14084488.html&#34;&gt;JetBrains 系列 IDE 之间的快捷键相互导入&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="VScode" />
+        <category term="IDEA" />
+        <category term="PyCharm" />
+        <category term="Goland" />
+        <updated>2021-07-29T06:11:07.000Z</updated>
+    </entry>
+</feed>
