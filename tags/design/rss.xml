@@ -1,0 +1,808 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;design&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 07 Aug 2024 14:29:27 +0000</pubDate>
+        <lastBuildDate>Wed, 07 Aug 2024 14:29:27 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>笔记</category>
+        <category>工作</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>English</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>system</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>对象</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>反射</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/system/k8s/k8s/</guid>
+            <title>k8s</title>
+            <link>https://blog.weidows.tech/post/system/k8s/k8s/</link>
+            <category>design</category>
+            <category>system</category>
+            <category>k8s</category>
+            <pubDate>Wed, 07 Aug 2024 14:29:27 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;k8s&lt;/h1&gt;
+&lt;!--
+ * @?: *
+
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-10 18:43:06
+ * @FilePath: \Blog-private\source\_posts\system\k8s\k8s.md
+ * @Description:
+ * @!: *
+
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#k8s&#34;&gt;k8s&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#interview&#34;&gt;Interview&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#distributed-scheduling&#34;&gt;Distributed-Scheduling&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#analyze&#34;&gt;Analyze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#arch-graph&#34;&gt;Arch-graph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#modules-design-doc&#34;&gt;Modules-Design-doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#considerations&#34;&gt;Considerations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#system-architecture-design&#34;&gt;System-Architecture-Design&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#background-1&#34;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#arch-graph-1&#34;&gt;Arch-graph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#modules-design-docs&#34;&gt;Modules-Design-docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gpu-optimization&#34;&gt;GPU-optimization&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#background-2&#34;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#thought&#34;&gt;Thought&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#cn&#34;&gt;CN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#en&#34;&gt;EN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Interview&#34;&gt;Interview&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From: &lt;a href=&#34;https://github.com/cloudpilot-ai/interview&#34;&gt;https://github.com/cloudpilot-ai/interview&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;Distributed-Scheduling&#34;&gt;Distributed-Scheduling&lt;/h3&gt;
+&lt;h4 id=&#34;Background&#34;&gt;Background&lt;/h4&gt;
+&lt;p&gt;In all cloud providers, like AWS, Google, and others, there are many spot instances. They are quite cheap (10% of the on-demand instances’ price), but after you buy them, they could be terminated with only two minutes’ notice in advance (in most scenarios, we don’t set PDB, and we should perform the graceful drain).&lt;/p&gt;
+&lt;p&gt;So, I want you to design a strategy to maximize the use of spot instances without causing service interruptions, instead of relying solely on on-demand instances, to cut costs, by using distributed scheduling in a single cluster (on-demand/spot mixed or other methods for one workload). This is important because all spot instances being terminated at the same time could cause interruptions for different kinds of workloads (single replica workload, multiple replica workload).&lt;/p&gt;
+&lt;p&gt;Also, I don’t want to change the scheduler already used in the K8s cluster and want to ensure the minimal components necessary in the cluster.&lt;/p&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;On demand nodes has label: &lt;a href=&#34;http://node.kubernetes.io/capacity:&#34;&gt;node.kubernetes.io/capacity:&lt;/a&gt; on-demand.&lt;/li&gt;
+&lt;li&gt;Spot node has label: &lt;a href=&#34;http://node.kubernetes.io/capacity:&#34;&gt;node.kubernetes.io/capacity:&lt;/a&gt; spot.&lt;/li&gt;
+&lt;li&gt;Workloads represented as Deployments and StatefulSets.&lt;/li&gt;
+&lt;li&gt;on-demand/spot instance represented as K8s nodes in the cluster.&lt;/li&gt;
+&lt;li&gt;Only focus on scheduling control; the graceful drain after receiving the terminal notification is handled by other components.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;Analyze&#34;&gt;Analyze&lt;/h4&gt;
+&lt;p&gt;尽可能少的使用云平台 on-demand 实例, 转为使用 spot 降低成本&lt;/p&gt;
+&lt;p&gt;spot drain 比较频繁, 需要通过设计一套 schedule system 去解决 graceful drain in 2min 的问题&lt;/p&gt;
+&lt;h4 id=&#34;Arch-graph&#34;&gt;Arch-graph&lt;/h4&gt;
+&lt;!-- 防止 mermaid 错乱 --&gt;&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph TD
+    subgraph k8s cluster
+        A[On-demand node]
+        B[Spot node]
+    end
+
+    C[kube-scheduler]
+    D[Distributed Scheduling controler]
+    E[Event listener]
+    F[re-schedule]
+    G[k8s API Server]
+    H[Cloud Provider&amp;#39;s notification]
+
+    A --&amp;gt; C
+    B --&amp;gt; C
+    C --&amp;gt; D
+    D --&amp;gt; E
+    D --&amp;gt; G
+    E --&amp;gt; F
+    F --&amp;gt; G
+    H --&amp;gt; D
+  &lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&#34;Modules-Design-doc&#34;&gt;Modules-Design-doc&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;kube-scheduler:&lt;/p&gt;
+&lt;p&gt;It handles the initial placement of Pods on the available nodes (either On-demand or Spot). It makes decisions based on resource availability, but it doesn’t handle the dynamic nature of Spot instances, which is why it passes control to the Distributed Scheduling Controller.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Distributed Scheduling Controller:&lt;/p&gt;
+&lt;p&gt;This is a custom controller that monitors the state of Spot nodes. It reacts to termination notifications from the cloud provider, triggering re-scheduling of Pods from Spot nodes to On-demand nodes when necessary. It interacts with both the &lt;code&gt;kube-scheduler&lt;/code&gt; and &lt;code&gt;k8s API Server&lt;/code&gt; to coordinate these actions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Event Listener:&lt;/p&gt;
+&lt;p&gt;A sub-component of the Distributed Scheduling Controller, it listens for termination notifications from the Cloud Provider. When a notification is received, it initiates the re-scheduling process by triggering the necessary operations within the controller.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;re-schedule:&lt;/p&gt;
+&lt;p&gt;This module represents the actual process of migrating Pods from Spot nodes to On-demand nodes. It ensures that services continue running smoothly by moving affected workloads to stable nodes before the Spot nodes are terminated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cloud Provider’s Notification:&lt;/p&gt;
+&lt;p&gt;This is the external signal from the cloud provider indicating that a Spot node is about to be terminated. The Distributed Scheduling Controller listens for this notification and triggers re-scheduling as needed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;Considerations&#34;&gt;Considerations&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Handling Spot Instance Termination:&lt;/p&gt;
+&lt;p&gt;The system must efficiently handle the rapid termination of Spot instances, ensuring that critical workloads are quickly migrated to On-demand nodes without causing service disruptions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitoring and Responsiveness:&lt;/p&gt;
+&lt;p&gt;The Event Listener and Distributed Scheduling Controller must be highly responsive to termination notifications. Delays in re-scheduling could lead to service outages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resource Management:&lt;/p&gt;
+&lt;p&gt;It’s crucial to ensure that there are always enough resources available on On-demand nodes to accommodate Pods migrating from Spot nodes. Resource constraints can lead to scheduling failures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;System Compatibility:&lt;/p&gt;
+&lt;p&gt;The integration between the &lt;code&gt;kube-scheduler&lt;/code&gt;, Distributed Scheduling Controller, and &lt;code&gt;k8s API Server&lt;/code&gt; should be seamless to avoid conflicts in Pod scheduling and state management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Testing and Reliability:&lt;/p&gt;
+&lt;p&gt;The system should be thoroughly tested to handle different failure scenarios, such as mass Spot instance terminations or API Server unavailability, to ensure it can recover gracefully.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;System-Architecture-Design&#34;&gt;System-Architecture-Design&lt;/h3&gt;
+&lt;h4 id=&#34;Background-2&#34;&gt;Background&lt;/h4&gt;
+&lt;p&gt;Our rough system architecture is illustrated as follows:&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/%E5%89%AA%E8%B4%B4%E6%9D%BF-20240810.png&#34; alt=&#34;Architecture Diagram&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Customers install an agent component in their clusters, which pushes metrics to the API endpoint (&lt;a href=&#34;https://api.xxx.com&#34;&gt;https://api.xxx.com&lt;/a&gt;). On the server side, our API server processes and stores these metrics in the database. Another controller analyzes each cluster and provides optimization recommendations to customers, depicted as follows:&lt;/p&gt;
+&lt;p&gt;I want you to outline a rough design document for the system that ensures high availability, security, and performance.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hint: This can be implemented using Kubernetes (K8s) technologies, such as HPA. But for different components, we need use different technologies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;You don’t need to think about the database.&lt;/li&gt;
+&lt;li&gt;For one customer’s cluster, only one agent is installed, it will scrap metrics from the customer’s cluster’s kube-apiserver.&lt;/li&gt;
+&lt;li&gt;Focus on architecture design, not specific implementation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;!--
+  下面我想提一个具有挑战性的问题, 有关k8s架构设计
+
+  背景是, 有服务端和客户端两侧 k8s cluster
+  客户端侧使用了很多云服务平台的 spot (比如 google / AWS 的), 所以 workload 会频繁变化
+  我想设计一套系统, 能够监测客户端侧的 k8s 运行环境, 将 node/workload(deployment, statefulset, namespace, replica) info 实时传到服务端侧
+
+  需求:
+  1. 我想在客户端侧部署一套环境监测程序, 在服务端搭建一套服务接收处理响应客户端的变化
+  2. 处理过程中肯定会用到k8s的各种组件, 请尽可能合理的采用主流和推荐的做法
+  3. 客户端侧的设计并不复杂, 但需要考虑到客户端会有成千上万个, 所以服务端侧需要满足高可用/高性能/安全, 另外服务端并不需要考虑Database的设计, 只需要将其抽象为一个DB模块就好
+
+  输出:
+  请用markdown的mermaid画一下架构图
+  按mermaid介绍一下每个模块/功能点用到了什么, 这么设计有什么优缺点
+
+
+  &lt;a&gt;![分割线](https://pan.weidows.tech/d/local/img/divider.png)&lt;/a&gt;
+
+
+  有几个提问和需要考虑的地方
+  1. server side 在处理之后, 也需要向 client side 传输指令, 然后 client side 处理调度
+  2. 使用了 message queue, 与分布式调度框架比较的话, 有什么区别和优势, 如何后者更好的话可以换一下
+    将消息队列和分布式调度框架作比较时，有几个重要区别：
+      消息队列:
+        优势: 主要用于异步数据传输和解耦服务。消息队列有很强的持久化机制，可以确保消息的可靠传递。适合在需要处理大量并发数据的情况下，将数据流进行缓冲和排队，确保处理的稳定性和可扩展性。
+        局限: 需要额外的监控和管理。队列内的消息处理顺序以及延迟管理可能较为复杂。另外，在高复杂性任务调度上，消息队列可能略显不足。
+
+      分布式调度框架:
+        优势: 比如使用Apache Mesos、Kubernetes的`CronJob`、或Airflow，可以更有效地调度和执行复杂的任务。调度框架通常支持任务的依赖关系处理，能够自动化地对任务进行分配、监控和故障处理。
+        局限: 相比消息队列，调度框架在高并发的简单任务处理上可能效率较低，而且其实现和维护通常需要更高的复杂度。
+
+     结论: 如果系统主要是为了处理数据的高并发传输和处理，消息队列是合适的选择。如果涉及到复杂的任务调度和依赖关系管理，可以考虑引入分布式调度框架。你可以根据具体的需求，选择使用二者之一，或将二者结合使用。
+  3. Authentication 为什么要分开处理
+    将Authentication（认证）独立出来的原因主要有以下几点：
+
+    安全性: 独立的认证服务可以集中管理和更新身份验证策略，避免不同系统模块各自处理认证所带来的安全隐患。
+    复用性: 独立的认证服务可以支持多种客户端和接口的认证需求，方便扩展。
+    可扩展性: 认证服务的独立性允许它根据负载情况进行扩展，而不影响其他服务的稳定性。
+
+    不过，如果系统较为简单，认证负载不大，可以考虑将认证功能集成到API Gateway中，以减少系统复杂性。
+  4. 有什么其他的k8s技术可以考虑加入使用, 比如 HPA, ETCD
+
+  请调整一下 mermaid, 并回答一下
+--&gt;
+&lt;h4 id=&#34;Arch-graph-2&#34;&gt;Arch-graph&lt;/h4&gt;
+&lt;!-- 防止 mermaid 错乱 --&gt;&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph TD
+    subgraph Client Side
+        B([Monitoring Agent])
+        C[Command Executor]
+        D((K8s Cluster))
+        E[Cloud Platform]
+    end
+
+    subgraph Server Side
+        F[API Gateway]
+        G[Authorization Service]
+        H[Message Queue]
+        I[Worker Nodes]
+        J([Processing Service])
+        K[(Database Module)]
+        L[Instruction Generation Module]
+    end
+
+    B --&amp;gt;|Collects Data| D
+    B --&amp;gt;|Sends Data| F
+    E --&amp;gt;|Notice| B
+    F --&amp;gt; G
+    F --&amp;gt;|Sends Instruction| B
+    F --&amp;gt; H
+    G --&amp;gt; J
+    H --&amp;gt; I
+    I --&amp;gt; J
+    J --&amp;gt; K
+    J --&amp;gt; L
+    L --&amp;gt; F
+    B --&amp;gt; C
+    C --&amp;gt; D
+  &lt;/pre&gt;&lt;/div&gt;
+&lt;!--
+  ### 模块及功能介绍
+  1. Environment Monitoring Agent（环境监测程序）
+
+    功能: 部署在每个客户端的 K8s 集群中，负责采集节点信息（Node Info）、工作负载信息（Workload Info，如 Deployment, StatefulSet, Namespace, Replica 等）。这些信息将被打包并通过安全通道发送到服务端。
+    实现: 可以使用 Kubernetes 的原生工具，如`kube-state-metrics`和`node-exporter`，结合`custom controllers`或者`DaemonSet`进行数据采集。数据可以通过 gRPC 或 HTTP API 发送到服务端。
+    优点: 利用 Kubernetes 的原生工具，易于部署和维护，并且具有高扩展性。
+    缺点: 监控数据量大时可能对网络带宽和集群性能造成一定压力。
+
+  2. API Gateway（服务端 API 网关）
+
+    功能: 接收所有客户端的请求，统一处理认证和流量控制，确保服务端的安全性和可扩展性。
+    实现: 可以使用 Nginx 或 Kong 作为 API 网关，并通过 SSL/TLS 进行加密，确保数据传输安全。
+    优点: 提供了统一的入口和控制点，支持负载均衡、限流等功能，确保系统的安全性和稳定性。
+    缺点: 如果网关本身出现故障，会导致整个系统无法正常工作，因此需要高可用部署。
+
+  3. Authentication &amp; Authorization Service（认证与授权服务）
+
+    功能: 确保只有合法的客户端能够接入服务端，并基于角色和权限控制数据的访问。
+    实现: 可以使用 OAuth 2.0 或 OpenID Connect 协议，结合 JWT (JSON Web Token) 进行认证授权。
+    优点: 强大的安全性和灵活的权限控制。
+    缺点: 需要维护认证服务的可用性和密钥的安全性。
+
+  4. Message Queue（消息队列）
+
+    功能: 负责将客户端发送的数据放入消息队列，以解耦数据接收和处理过程，提高系统的处理能力和可扩展性。
+    实现: 可以使用 Kafka 或 RabbitMQ 等高性能消息队列系统。
+    优点: 高吞吐量，支持消息持久化和重试机制，保证数据不会丢失。
+    缺点: 需要额外的资源和复杂的运维管理。
+
+  5. Worker Nodes（工作节点）
+
+    功能: 消费消息队列中的数据，并将数据传递给处理服务进行进一步处理。
+    实现: 可以使用 Kubernetes 的`Deployment`或`StatefulSet`进行工作节点的部署，结合 HPA（Horizontal Pod Autoscaler）实现自动扩展。
+    优点: 动态扩展能力强，能有效处理高并发任务。
+    缺点: 在高峰期，可能需要大量的计算资源支持。
+
+  6. Processing Service（数据处理服务）
+
+    功能: 处理从客户端采集的数据，执行必要的数据清洗、聚合，并将结果存储到数据库模块中。
+    实现: 可以使用基于微服务的架构进行设计，使用流处理框架如 Apache Flink 或 Storm，结合容器化的部署方式。
+    优点: 灵活的扩展性和强大的数据处理能力，适应多样化的处理需求。
+    缺点: 复杂度较高，需要额外的监控和管理。
+
+  7. Database Module（数据库模块）
+    功能: 存储处理后的数据，提供高效的查询和分析能力。
+    实现: 可以使用 NoSQL 数据库如 MongoDB 或 Cassandra，或者分布式 SQL 数据库如 CockroachDB，来保证数据的高可用和高性能。
+    优点: 高可用性和扩展性，适应大规模数据的存储和查询需求。
+    缺点: 数据库的选择和调优需要经验，可能会增加系统复杂性。
+
+  ### 设计分析
+
+  - 优点:
+
+    1. 高可用性：通过多层次的设计，确保系统在任何一层出现问题时，不会导致整体系统的崩溃。
+    2. 高性能：使用消息队列和可扩展的工作节点设计，能够处理大量并发的客户端请求。
+    3. 安全性：通过 API 网关和认证服务，确保数据传输和访问的安全性。
+    4. 可扩展性：客户端数量可以动态增长，服务端可以通过扩展工作节点和数据库模块来应对增加的负载。
+
+  - 缺点:
+    1. 复杂度：系统设计较为复杂，涉及多个组件和服务的集成，增加了部署和运维的难度。
+    2. 成本：由于涉及到多种高性能组件，如消息队列、工作节点、数据库等，可能会增加系统的整体成本。
+    3. 运维挑战：多组件的运维和监控要求较高，需要专业的团队进行管理，特别是消息队列和数据库模块的稳定性保障。
+
+  这种设计能有效满足大规模分布式 K8s 集群监控和数据处理的需求，同时也为系统的扩展性和高可用性提供了强有力的支持。
+
+
+  结合上面 mermaid 架构图, 用英文再次简介的总结一下每个功能模块设计的功能和必要性, 有什么优点和考虑之处
+--&gt;
+&lt;h4 id=&#34;Modules-Design-docs&#34;&gt;Modules-Design-docs&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Monitoring Agent (Client Side)&lt;br&gt;
+Function: The Monitoring Agent is responsible for collecting real-time data from the client-side Kubernetes cluster and receiving notifications from the cloud platform, such as spot instance termination messages. It then sends this data to the Server Side API Gateway.&lt;/p&gt;
+&lt;p&gt;Necessity: This module is crucial for maintaining an up-to-date overview of the client-side environment, enabling the system to react dynamically to changes.&lt;/p&gt;
+&lt;p&gt;Advantages: Centralizes data collection and processing of cloud notifications, making the client-side environment more responsive and easier to manage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Command Executor (Client Side)&lt;br&gt;
+Function: Receives instructions from the Monitoring Agent and executes them on the Kubernetes cluster. Before executing, it assesses the real-time environment to ensure optimal decision-making.&lt;/p&gt;
+&lt;p&gt;Necessity: Ensures that commands are executed with consideration of the current state of the client environment, improving operational efficiency.&lt;/p&gt;
+&lt;p&gt;Advantages: Adds a layer of decision-making that enhances the flexibility and responsiveness of the system, reducing the risk of executing commands that could negatively impact the environment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kubernetes Cluster (Client Side)&lt;br&gt;
+Function: Represents the client-side Kubernetes infrastructure where workloads are deployed and managed.&lt;/p&gt;
+&lt;p&gt;Necessity: The core environment where all client-side applications run, making it the focal point of monitoring and command execution.&lt;/p&gt;
+&lt;p&gt;Advantages: Allows for scalable and automated management of containerized applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cloud Platform (Client Side)&lt;br&gt;
+Function: Sends spot instance termination notices or other relevant notifications to the Monitoring Agent.&lt;/p&gt;
+&lt;p&gt;Necessity: Critical for handling the dynamic and volatile nature of spot instances, which are commonly used to optimize cost.&lt;/p&gt;
+&lt;p&gt;Advantages: Enhances the system’s ability to preemptively respond to changes in the cloud environment, improving uptime and reducing potential disruptions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;API Gateway (Server Side)&lt;br&gt;
+Function: Acts as the central entry point for all data sent from the client side. It handles the routing of data to the appropriate backend services, including sending instructions back to the client side.&lt;/p&gt;
+&lt;p&gt;Necessity: Essential for managing communication between the client and server sides, ensuring secure, scalable, and organized data flow.&lt;/p&gt;
+&lt;p&gt;Advantages: Provides a centralized control point for authentication, authorization, and traffic management, enhancing the system’s overall security and scalability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Authorization Service (Server Side)&lt;br&gt;
+Function: Handles the authentication and authorization of incoming data and commands, ensuring that only verified and authorized actions are processed.&lt;/p&gt;
+&lt;p&gt;Necessity: Critical for maintaining the security and integrity of the system by preventing unauthorized access and operations.&lt;/p&gt;
+&lt;p&gt;Advantages: Adds a strong security layer to the system, protecting against potential breaches and unauthorized data manipulation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Message Queue (Server Side)&lt;br&gt;
+Function: Decouples the ingestion of data from its processing, allowing for high-throughput and reliable handling of large volumes of data.&lt;/p&gt;
+&lt;p&gt;Necessity: Ensures that data from multiple clients can be processed asynchronously, improving system resilience and scalability.&lt;/p&gt;
+&lt;p&gt;Advantages: Enhances the system’s ability to handle bursts of data and maintain performance under heavy load, reducing the likelihood of bottlenecks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worker Nodes (Server Side)&lt;br&gt;
+Function: Consume messages from the queue and process the data or commands as required.&lt;/p&gt;
+&lt;p&gt;Necessity: Essential for executing the bulk of the system’s processing tasks in a distributed and scalable manner.&lt;/p&gt;
+&lt;p&gt;Advantages: Supports horizontal scaling, allowing the system to handle increasing workloads by simply adding more worker nodes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Processing Service (Server Side)&lt;br&gt;
+Function: Core service responsible for processing the data received from the client side, making decisions, and interacting with other server-side components like the database and instruction generation module.&lt;/p&gt;
+&lt;p&gt;Necessity: Central to the system’s ability to analyze client data and generate appropriate responses or commands.&lt;/p&gt;
+&lt;p&gt;Advantages: Provides a flexible and extensible processing framework that can be tailored to specific application needs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Database Module (Server Side)&lt;br&gt;
+Function: Stores processed data, including logs, metrics, and historical records, for analysis and reporting.&lt;/p&gt;
+&lt;p&gt;Necessity: Ensures that all critical data is persisted for future reference, analysis, and compliance requirements.&lt;/p&gt;
+&lt;p&gt;Advantages: Offers high availability and scalability, ensuring that the system can store and retrieve data efficiently as it grows.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instruction Generation Module (Server Side)&lt;br&gt;
+Function: Generates commands and instructions based on the processed data, which are then sent back to the client side via the API Gateway.&lt;/p&gt;
+&lt;p&gt;Necessity: Enables the system to actively manage and optimize client-side operations based on real-time data.&lt;/p&gt;
+&lt;p&gt;Advantages: Allows for automated, data-driven decision-making, enhancing the system’s overall efficiency and responsiveness.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;GPU-optimization&#34;&gt;GPU-optimization&lt;/h3&gt;
+&lt;h4 id=&#34;Background-3&#34;&gt;Background&lt;/h4&gt;
+&lt;p&gt;Please open your mind. In the AI world today, every company uses GPUs for training and inference. Is there anything we can do to reduce the cost of GPUs for training and inference?&lt;/p&gt;
+&lt;p&gt;Alternatively, are there other areas in the public cloud(K8s) that could be optimized?&lt;/p&gt;
+&lt;h4 id=&#34;Thought&#34;&gt;Thought&lt;/h4&gt;
+&lt;h5 id=&#34;CN&#34;&gt;CN&lt;/h5&gt;
+&lt;p&gt;因为我之前待过的公司和创业的公司都是主要涉及 AI, 这块还算比较熟悉, 痛点考虑点如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;AI 项目 (Python 为主) 可迁移性比较差, 与操作系统算是半强绑定&lt;/p&gt;
+&lt;p&gt;不同于 CPU, GPU 是个原子化的东西, 没法再拆分了, 而且 GPU 对 CPU 的性能依赖也是线性关联&lt;/p&gt;
+&lt;p&gt;torch 这边还算比较成熟/版本切换自由, 但还是有很多库, 乃至 cuda 对操作系统有侵入和依赖性&lt;/p&gt;
+&lt;p&gt;如何考虑要让客户端容器能扩缩, 需要额外适配下如何完善的装好依赖&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;train / inference 的任务对性能的优化并不是很好&lt;/p&gt;
+&lt;p&gt;毕竟大多都是研究团队发 paper 用的, 代码很多是一团糟, 适配多进程都很少见, 更不用说适配容器化了&lt;/p&gt;
+&lt;p&gt;涉及到利用容器技术进行扩缩, 不太乐观, 这需要开发者手动去适配代码, 不然扩到 100 核只占用满 10 核也是很有可能的&lt;/p&gt;
+&lt;p&gt;train 的任务非常非常非常怕中断, 哪怕是开发者自己也说不准不同电脑上进行训练到底需要多高的性能, 所以一般会开性能冗余很多的机子&lt;/p&gt;
+&lt;p&gt;数据集 IO 这块的话压力一般来说不算太过分, 可以考虑用 k8s 技术进行读共享, 写需要额外操作&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GPU 共享平台最近有雏形了, 利用容器技术搞这个应该不错&lt;/p&gt;
+&lt;p&gt;毕竟确实有一些不在乎钱的团队整晚开着机子不用&lt;/p&gt;
+&lt;p&gt;而且 GPU 租用平台的受众还是蛮大的, 能用上容器的话, 比常规整租 GPU 的平台应该能便宜些&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果考虑可插入性的, 那就只有在 pod 内跑多个容器了&lt;/p&gt;
+&lt;p&gt;不过还是有预测问题, AI 领域的应用, 跑起来后显存占用起伏比较大且随机&lt;/p&gt;
+&lt;p&gt;会很容易出现突发性性能抢占&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;EN&#34;&gt;EN&lt;/h5&gt;
+&lt;p&gt;Since the companies I’ve worked for and the startups I’ve been involved in have primarily focused on AI, I’m fairly familiar with this area. The pain points and considerations are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AI Project (Mainly Python) Portability Is Relatively Poor, With a Semi-Strong Binding to the Operating System&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unlike CPUs, GPUs are atomic entities and cannot be further split. Moreover, the performance of GPUs is linearly dependent on the CPU’s capabilities.&lt;/p&gt;
+&lt;p&gt;While Torch is relatively mature and allows for flexible version switching, there are still many libraries, and even CUDA, that have invasive dependencies on the operating system. To ensure that a client container can scale up or down, additional adjustments may be necessary to ensure that dependencies are properly installed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Performance Optimization for Train/Inference Tasks Is Not Very Good&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since most of these tasks are designed by research teams for publishing papers, the code is often quite messy, with little adaptation for multiprocessing, let alone containerization.&lt;/p&gt;
+&lt;p&gt;When it comes to utilizing container technology for scaling, the outlook is not very optimistic. Developers often need to manually adapt the code;&lt;br&gt;
+otherwise, it’s possible to scale up to 100 cores but only fully utilize 10 of them.&lt;/p&gt;
+&lt;p&gt;Training tasks are highly sensitive to interruptions, and even developers themselves cannot accurately predict the required performance on different machines for training, so they generally opt for machines with a significant performance surplus.&lt;/p&gt;
+&lt;p&gt;The pressure on dataset I/O is generally not too excessive and can be managed with Kubernetes technology for read-sharing, but additional operations are needed for writes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;There Is a Preliminary GPU Sharing Platform, and Using Container Technology for This Seems Promising&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After all, there are indeed teams that don’t mind leaving their machines running all night without use. Additionally, the market for GPU rental platforms is quite large.&lt;/p&gt;
+&lt;p&gt;If container technology can be utilized, it could potentially be cheaper than conventional GPU rental platforms that require full-time GPU leasing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If Considering Plug-and-Play Capability, Then Running Multiple Containers Within a Pod Is the Only Option&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;However, there is still the issue of prediction. In the field of AI applications, the memory usage can fluctuate significantly and randomly once the process starts running.&lt;/p&gt;
+&lt;p&gt;This could easily lead to sudden performance contention.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: Google &amp;amp; ChatGPT&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/design/architecture/distribution-scheduler/</guid>
+            <title>分布式调度系统设计|distribution-scheduler-system</title>
+            <link>https://blog.weidows.tech/post/design/architecture/distribution-scheduler/</link>
+            <category>design</category>
+            <category>system</category>
+            <category>distribution</category>
+            <pubDate>Mon, 29 Jul 2024 18:48:23 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;分布式调度系统设计|distribution-scheduler-system&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-09 11:25:47
+ * @FilePath: \Blog-private\source\_posts\design\architecture\distribution-scheduler.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%86%E5%B8%83%E5%BC%8F%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1distribution-scheduler-system&#34;&gt;分布式调度系统设计|distribution-scheduler-system&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#from-learning&#34;&gt;From-learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#skynet&#34;&gt;skynet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9E%B6%E6%9E%84%E5%9B%BE&#34;&gt;架构图&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;From-learning&#34;&gt;From-learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;任务 (Job) 在解决什么:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;多个服务 A 需要调用服务 B&lt;/p&gt;
+&lt;p&gt;避免 B 太忙, 可以用作排队等待&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;定时任务&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在 10s 后执行 xx 任务&lt;/li&gt;
+&lt;li&gt;cron job&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分布式 (distribution) 在解决什么:&lt;/p&gt;
+&lt;p&gt;单节点性能总归是有极限, 分布式可以高可用&lt;/p&gt;
+&lt;p&gt;以及可以避免单节点挂掉&lt;/p&gt;
+&lt;p&gt;拆分任务单元和执行单元, 避免执行器因挂掉/高负载导致任务无法执行或执行慢&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;skynet&#34;&gt;skynet&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cuigh/skynet&#34;&gt;https://github.com/cuigh/skynet&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;前司领导写的项目, 他带我工作中用到过, 而且写的很干净, 就拿它分析了&lt;/p&gt;
+&lt;p&gt;WIP…&lt;/p&gt;
+&lt;h3 id=&#34;架构图&#34;&gt;架构图&lt;/h3&gt;
+&lt;p&gt;有参考网上文章 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;, 不过是我自己设计+画的, 想法相当粗糙&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/1723165149145.png&#34; alt=&#34;designed by@Weidows&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://github.com/xuxueli/xxl-job/&#34;&gt;https://github.com/xuxueli/xxl-job/&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/design/placeholder/</guid>
+            <title>🤯Idea-占位符</title>
+            <link>https://blog.weidows.tech/post/design/placeholder/</link>
+            <category>ideas</category>
+            <category>design</category>
+            <pubDate>Tue, 12 Dec 2023 11:41:53 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;Idea-占位符&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-07-22 18:26:33
+ * @FilePath: \Blog-private\source\_posts\design\placeholder.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#idea-%E5%8D%A0%E4%BD%8D%E7%AC%A6&#34;&gt;Idea-占位符&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#name&#34;&gt;Name&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Name&#34;&gt;Name&lt;/h2&gt;
+&lt;p&gt;很喜欢 Rozalia / Arcadia 这种名字, 在想有没有还没人设被占用的&lt;/p&gt;
+&lt;p&gt;所以, 下面是我想到的好名字, 加个 SEO 先占一下&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;kaf / kap 变种
+&lt;ol&gt;
+&lt;li&gt;kafsella 尤其喜欢这个, 好叫好听&lt;/li&gt;
+&lt;li&gt;kapsella
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%8D%A0%E8%8F%9C&#34;&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/oIm7dv.png&#34; alt=&#34;oIm7dv.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;同音不同词, 很常见的荠菜&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;kafsea&lt;/li&gt;
+&lt;li&gt;kapsel&lt;/li&gt;
+&lt;li&gt;kaftia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;kar
+&lt;ol&gt;
+&lt;li&gt;1.karsella&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;sae&lt;/li&gt;
+&lt;li&gt;Xelenstia&lt;/li&gt;
+&lt;li&gt;haneko
+&lt;ol&gt;
+&lt;li&gt;花猫/羽子&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无.&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
