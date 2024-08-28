@@ -1,0 +1,637 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;anaconda&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2021-05-20T01:05:02.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="system" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/lang/python/anaconda/</id>
+        <title>👍Anaconda-Python-水漂浅探池深浅.</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/lang/python/anaconda/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-06-08 12:13:21
+ * @FilePath: \Blog-private\source\_posts\python\anaconda.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;h1&gt;Anaconda-Python-水漂浅探池深浅.&lt;/h1&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#anaconda-python-%E6%B0%B4%E6%BC%82%E6%B5%85%E6%8E%A2%E6%B1%A0%E6%B7%B1%E6%B5%85&#34;&gt;Anaconda-Python-水漂浅探池深浅.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%80%E4%BB%8B&#34;&gt;简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85-%E9%85%8D%E7%BD%AE&#34;&gt;安装-配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#linux-%E5%AE%89%E8%A3%85&#34;&gt;linux-安装&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%8B%E8%AF%95&#34;&gt;测试&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE&#34;&gt;配置文件位置&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F-%E4%BB%A3%E7%90%86&#34;&gt;镜像加速-代理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9%E4%BE%9D%E8%B5%96%E8%B7%AF%E5%BE%84&#34;&gt;修改依赖路径&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%BF%80%E6%B4%BB%E7%BB%88%E7%AB%AF&#34;&gt;激活终端&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cuda-cudnn&#34;&gt;CUDA-cuDNN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#pytorch&#34;&gt;PyTorch&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9E%E4%BE%8B&#34;&gt;实例&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BE%9D%E8%B5%96&#34;&gt;依赖&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A0%E9%99%A4%E7%8E%AF%E5%A2%83&#34;&gt;删除环境&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E4%BE%9D%E8%B5%96&#34;&gt;更新依赖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AF%BC%E5%87%BA-%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96&#34;&gt;导出-安装依赖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B8%85%E7%90%86%E6%97%A0%E7%94%A8%E4%BE%9D%E8%B5%96&#34;&gt;清理无用依赖&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%A5%E9%94%99&#34;&gt;报错&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99&#34;&gt;安装报错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#anaconda-%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80&#34;&gt;anaconda-无法打开&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E4%B8%8D%E4%B8%80%E8%87%B4&#34;&gt;环境不一致&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ssh-%E8%A7%A3%E9%87%8A%E5%99%A8%E4%BD%8D%E7%BD%AE%E9%97%AE%E9%A2%98&#34;&gt;ssh-解释器位置问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mayavi-%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98&#34;&gt;mayavi-安装问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#oserror&#34;&gt;OSError&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#conda-not-found&#34;&gt;conda-not-found&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#install-%E6%8A%A5%E9%94%99&#34;&gt;install-报错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E5%AF%BC%E8%87%B4%E7%9A%84%E4%BE%9D%E8%B5%96%E5%A4%B1%E6%95%88&#34;&gt;更新导致的依赖失效&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sslerror&#34;&gt;SSLError&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unable-find-candidates&#34;&gt;Unable-find-candidates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;anaconda 官网: &lt;a href=&#34;https://www.anaconda.com/products/individual&#34;&gt;https://www.anaconda.com/products/individual&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;简单来说,它是 Python 的一个发行版,其中打包了很多附加工具,比如 &lt;code&gt;Jupyter&lt;/code&gt;,&lt;code&gt;conda&lt;/code&gt; 等等&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;可以理解为 anaconda 内置了 python,所以设备上安装的其他 Python 环境完全可以卸载掉了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Python 一般会自带 pip 这个包管理器,anaconda 也不例外; 而且 anaconda 还带有另一个更强大的包管理器: &lt;code&gt;conda&lt;/code&gt; &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装-配置&#34;&gt;安装-配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;可以选择官网下载安装包安装,我这里是用的 &lt;code&gt;scoop &lt;/code&gt;安装的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载-&amp;gt;安装-&amp;gt;配置环境变量-&amp;gt;改变运行环境, 在 scoop 中一步就可以完成,很方便 (官方的库中没有这个软件,需要添加其他库,&lt;code&gt;dorado&lt;/code&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这样安装避免了很多麻烦和错误,非常推荐!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小毛病&lt;/p&gt;
+&lt;p&gt;anaconda 会把 scoop 里的环境识别为两个 (但实际上就一个)&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVSnUD.png&#34; alt=&#34;20211002190135&#34; /&gt;
+&lt;p&gt;装的依赖多的话, 实际占用内存大的离谱&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/Z6q5Bh.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;linux-安装&#34;&gt;linux-安装&lt;/h3&gt;
+&lt;p&gt;linux 中可以通过 官方 shell 或者 AUR 安装, 但是安装后并没有 export 到 PATH,需要一步:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo cp /opt/anaconda/etc/profile.d/conda.sh /etc/profile.d/&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;另外这样装上后还会因为目录权限不够,无法安装依赖,需要提权&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo chmod -R 777 /opt/anaconda/&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;测试&#34;&gt;测试&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一个很关键的步骤: &lt;code&gt;重启电脑&lt;/code&gt;. 如果没重启的话,环境变量有可能不生效,肯定无法正常打开.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后测试: 能显示出来东西就对了&lt;/p&gt;
+&lt;figure class=&#34;highlight nginx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;conda&lt;/span&gt; --version&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;literal&#34;&gt;info&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装后开始菜单会出来这么几个东西:&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4hCu.png&#34; alt=&#34;20210520093618&#34; /&gt;
+&lt;p&gt;第一个就是 anaconda 主体;二三是终端,不用管它;四和六是附带的第三方软件.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;点第一个,会弹出几次黑框,然后出现下面面板就没问题了.&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4D41.png&#34; alt=&#34;20210520094007&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;配置文件位置&#34;&gt;配置文件位置&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Windows 中:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;conda: &lt;code&gt;~\.condarc 和 .conda\&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pip: &lt;code&gt;~\pip\pip.ini&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;镜像加速-代理&#34;&gt;镜像加速-代理&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;清华镜像站给了教程: &lt;a href=&#34;https://mirror.tuna.tsinghua.edu.cn/help/anaconda/&#34;&gt;Anaconda 镜像使用帮助&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过 navigator 添加进设置,或者直接修改 ~/.condarc&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAdNv.png&#34; alt=&#34;20210520095331&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt; 如果官方给的 https 协议的,会报错 &lt;/summary&gt;
+&lt;figure class=&#34;highlight livecodeserver&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;PS D:\Game\Github\Blog-&lt;span class=&#34;keyword&#34;&gt;private&lt;/span&gt;&amp;gt; conda search cuda&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Loading channels: failed&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;CondaHTTPError: HTTP &lt;span class=&#34;number&#34;&gt;000&lt;/span&gt; CONNECTION FAILED &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; url &amp;lt;&lt;span class=&#34;keyword&#34;&gt;https&lt;/span&gt;://mirrors.bfsu.edu.cn/anaconda/pkgs/main/win&lt;span class=&#34;number&#34;&gt;-64&lt;/span&gt;/repodata.json&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Elapsed: -&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;An HTTP error occurred when trying &lt;span class=&#34;built_in&#34;&gt;to&lt;/span&gt; retrieve this &lt;span class=&#34;built_in&#34;&gt;URL&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HTTP errors are often intermittent, &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;a&lt;/span&gt; simple retry will &lt;span class=&#34;built_in&#34;&gt;get&lt;/span&gt; you &lt;span class=&#34;keyword&#34;&gt;on&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;your&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;way&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;#x27;https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/win-64&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找了半天教程,发现只有一篇有效: &lt;code&gt;https -&amp;gt; http&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://segmentfault.com/q/1010000008668178&#34;&gt;Anaconda 使用 conda 连接网络出现错误&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight less&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;channels:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - defaults&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;show_channel_urls: true&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;default_channels:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/&lt;span class=&#34;attribute&#34;&gt;r&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;  - http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;custom_channels&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;conda-forge&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;msys2&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;bioconda&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;menpo&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;pytorch&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;pytorch-lts&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attribute&#34;&gt;simpleitk&lt;/span&gt;: &lt;span class=&#34;attribute&#34;&gt;http&lt;/span&gt;:&lt;span class=&#34;comment&#34;&gt;//mirrors.tuna.tsinghua.edu.cn/anaconda/cloud&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最近又发现一个导致此错误的问题: 挂-木弟,关掉试试.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;pip&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;pip config set global.index-url https：//pypi.tuna.tsinghua.edu.cn/simple/&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;keyword&#34;&gt;global&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;index&lt;/span&gt;-url = http://mirrors.aliyun.com/pypi/simple/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;trusted&lt;/span&gt;-host = mirrors.aliyun.com&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改依赖路径&#34;&gt;修改依赖路径&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/maggieq8324/p/12099068.html&#34;&gt;pip install 默认安装路径修改&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;anaconda 安装后默认情况下 pip/conda 的库会堆在 anaconda 里面(所以一般不用动了)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;依赖路径&lt;/p&gt;
+&lt;figure class=&#34;highlight ebnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;python -m site&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight taggerscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;❯   python -m site&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sys.path = [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Github&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Blog-private&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;python38.zip&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;DLLs&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;site-packages&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;site-packages&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;locket-0.2.1-py3.8.egg&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;site-packages&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;win32&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;site-packages&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;win32&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#x27;D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;anaconda3&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;lib&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;site-packages&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Pythonwin&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;USER_BASE: &amp;#x27;C:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Users&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;29845&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;AppData&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Roaming&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Python&amp;#x27; (exists)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;USER_SITE: &amp;#x27;C:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Users&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;29845&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;AppData&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Roaming&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Python&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Python38&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;site-packages&amp;#x27; (doesn&amp;#x27;t exist)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ENABLE_USER_SITE: False&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置文件路径 (非必要不然不要修改,此处可以更改上面的 USER_BASE/USER_SITE,但实测并未生效)&lt;/p&gt;
+&lt;figure class=&#34;highlight mel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;python&lt;/span&gt; -m site -&lt;span class=&#34;keyword&#34;&gt;help&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;激活终端&#34;&gt;激活终端&lt;/h3&gt;
+&lt;figure class=&#34;highlight csharp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;keyword&#34;&gt;init&lt;/span&gt; 终端名(powershell)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;CUDA-cuDNN&#34;&gt;CUDA-cuDNN&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这两个是为了调用显卡性能,加速训练.&lt;/p&gt;
+&lt;p&gt;需要注册 NVIDIA 账号才能下载.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/cuda-zone&#34;&gt;下载并安装 CUDA&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://developer.nvidia.com/cudnn&#34;&gt;下载并安装 cuDNN Library&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通过 scoop 安装 CUDA (很有可能安装有问题,即使安装成功也是不能使用的)&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;cuda&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试了一下, cuDNN Library 也是必须的,没配置的话会报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight vbnet&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;RuntimeError:&lt;/span&gt; cuDNN &lt;span class=&#34;keyword&#34;&gt;error&lt;/span&gt;: CUDNN_STATUS_EXECUTION_FAILED&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;配置方法&lt;/code&gt;: 解压,把&lt;code&gt;bin\&lt;/code&gt;添加进 path&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;PyTorch&#34;&gt;PyTorch&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/54350088&#34;&gt;windows10 下安装 GPU 版 pytorch 简明教程&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://pytorch.org/get-started/locally&#34;&gt;PyTorch 官网&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://zhuanlan.zhihu.com/p/106394476&#34;&gt;利用 Conda 安装深度学习框架 Pytorch&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装 (with CUDA 版本):&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;conda&lt;/span&gt; install pytorch==&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; torchvision==&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; torchaudio==&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; cudatoolkit=&lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; -c pytorch -c conda-forge&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试 (以下图方式进入 &lt;code&gt;Open with python&lt;/code&gt;) :&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVL8KS.png&#34; alt=&#34;20210520190432&#34; /&gt;
+&lt;p&gt;测试下方命令就可以了&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;import&lt;/span&gt; torch&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;x&lt;/span&gt; = torch.rand(&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;print&lt;/span&gt;(x)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;预期结果: (说明 pytouch 没得问题)&lt;/p&gt;
+&lt;figure class=&#34;highlight inform7&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;tensor(&lt;span class=&#34;comment&#34;&gt;[&lt;span class=&#34;comment&#34;&gt;[0.3380, 0.3845, 0.3217]&lt;/span&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;[0.8337, 0.9050, 0.2650]&lt;/span&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;[0.2979, 0.7141, 0.9069]&lt;/span&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;[0.1449, 0.1132, 0.1375]&lt;/span&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;        &lt;span class=&#34;comment&#34;&gt;[0.4675, 0.3947, 0.1426]&lt;/span&gt;]&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;实例&#34;&gt;实例&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过一段音频,合成相似声音的项目: &lt;a href=&#34;https://github.com/CorentinJ/Real-Time-Voice-Cloning&#34;&gt;CorentinJ/Real-Time-Voice-Cloning&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CUDA: on,可以看到 python 调用了 &lt;code&gt;CPU+GPU&lt;/code&gt;&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAAGr.png&#34; alt=&#34;20210521102521&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;深度学习项目吃显存好离谱啊!&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVA6R6.png&#34; alt=&#34;20210521104118&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;依赖&#34;&gt;依赖&lt;/h2&gt;
+&lt;h3 id=&#34;删除环境&#34;&gt;删除环境&lt;/h3&gt;
+&lt;figure class=&#34;highlight lua&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;built_in&#34;&gt;remove&lt;/span&gt; -n xxx &lt;span class=&#34;comment&#34;&gt;--all&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;更新依赖&#34;&gt;更新依赖&lt;/h3&gt;
+&lt;figure class=&#34;highlight n1ql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;keyword&#34;&gt;update&lt;/span&gt; --&lt;span class=&#34;keyword&#34;&gt;all&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;导出-安装依赖&#34;&gt;导出-安装依赖&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/chekongfu/article/details/83187591&#34;&gt;pip 和 conda 批量导出、安装组件(requirements.txt)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装依赖&lt;/p&gt;
+&lt;figure class=&#34;highlight cmake&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;pip &lt;span class=&#34;keyword&#34;&gt;install&lt;/span&gt; -r requirements.txt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;keyword&#34;&gt;install&lt;/span&gt; --&lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; requirements.txt (尽量不要用,有很多问题)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;conda env create -f env.yaml&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;导出依赖&lt;/p&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;pip &lt;span class=&#34;keyword&#34;&gt;freeze&lt;/span&gt; &amp;gt; requirements.txt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;conda list -e &amp;gt; requirements.txt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;conda env export &amp;gt; env.yaml&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt; conda/pip 导出的 requirement.txt 有可能有个问题 &lt;/summary&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;pip 导出的,以及安装报错&lt;/p&gt;
+&lt;figure class=&#34;highlight txt&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;anaconda-client @ file:///C:/ci/anaconda-client_1624480273070/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;anaconda-navigator==2.1.0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;anyio==3.3.4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;appdirs==1.4.4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;argon2-cffi @ file:///C:/ci/argon2-cffi_1613037959010/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;audioread==2.1.9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Babel @ file:///tmp/build/80754af9/babel_1620871417480/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;backports.weakref==1.0.post1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bleach @ file:///tmp/build/80754af9/bleach_1626470256873/work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;brotlipy==0.7.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight subunit&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;❯ pip install -r .\pip-list.bak&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Looking in indexes: http://mirrors.aliyun.com/pypi/simple/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Processing c:\ci\anaconda-client_1624480273070\work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;ERROR: &lt;/span&gt;Could not install packages due to an OSError: [Errno 2] No such file or directory: &amp;#x27;C:\\ci\\anaconda-client_1624480273070\\work&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;解决办法就是硬匹配所有 &lt;code&gt; @ file:&lt;/code&gt; 把后面的删掉.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;清理无用依赖&#34;&gt;清理无用依赖&lt;/h3&gt;
+&lt;p&gt;喏, 随便一清就十来个 G…&lt;/p&gt;
+&lt;figure class=&#34;highlight scss&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ conda clean -&lt;span class=&#34;selector-tag&#34;&gt;p&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Will remove &lt;span class=&#34;number&#34;&gt;496&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;13.93&lt;/span&gt; GB) &lt;span class=&#34;built_in&#34;&gt;package&lt;/span&gt;(s).&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Proceed ([y]/n)?&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;报错&#34;&gt;报错&lt;/h2&gt;
+&lt;h3 id=&#34;安装报错&#34;&gt;安装报错&lt;/h3&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╭─    D:\Repo\Weidows\python   master                              ✔  22:53:48  ─╮&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;╰─ python&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Fatal Python error: init_import_site: Failed to import the site module&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Python runtime state: initialized&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ModuleNotFoundError: No module named &amp;#x27;site&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Current thread 0x00002a54 (most recent call first):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;no Python frame&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;由于使用 scoop 安装的,我以为是我自己环境的错误,后来发现是因为安装脚本中 &lt;code&gt;persist&lt;/code&gt; 软链接会导致 anaconda 内部错误&lt;/p&gt;
+&lt;p&gt;这个库 &lt;code&gt;anaconda3_chawyehsu&lt;/code&gt; 给的我启发,虽然这个安装脚本也不并不很好用&lt;/p&gt;
+&lt;p&gt;于是我在自己库中添加了一个: &lt;a href=&#34;https://github.com/Weidows-projects/scoop-3rd/blob/main/bucket/anaconda3.json&#34;&gt;https://github.com/Weidows-projects/scoop-3rd/blob/main/bucket/anaconda3.json&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;anaconda-无法打开&#34;&gt;anaconda-无法打开&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;尝试管理员模式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;检查系统是不是开了 http 代理 (挂-了-梯-子?),把 http 模式换成 PAC 模式试试,我遇到这个错误可以这样解决&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;环境不一致&#34;&gt;环境不一致&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之前遇到个问题苦恼了很久:&lt;/p&gt;
+&lt;p&gt;有一个 py 脚本我想通过 bat 脚本调用执行,但是一直报错&lt;/p&gt;
+&lt;figure class=&#34;highlight vhdl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Traceback (most recent call last):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;File&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;D:\Game\Scoop\apps\anaconda3\current\lib\site-packages\urllib3\connectionpool.py&amp;quot;&lt;/span&gt;, &lt;span class=&#34;literal&#34;&gt;line&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;688&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; urlopen&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    conn = self._get_conn(timeout=pool_timeout)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;File&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;D:\Game\Scoop\apps\anaconda3\current\lib\site-packages\urllib3\connectionpool.py&amp;quot;&lt;/span&gt;, &lt;span class=&#34;literal&#34;&gt;line&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;280&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; _get_conn&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; conn &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; self._new_conn()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;File&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;D:\Game\Scoop\apps\anaconda3\current\lib\site-packages\urllib3\connectionpool.py&amp;quot;&lt;/span&gt;, &lt;span class=&#34;literal&#34;&gt;line&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;979&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; _new_conn&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    raise SSLError(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;urllib3.exceptions.SSLError: Can&lt;span class=&#34;symbol&#34;&gt;&amp;#x27;t&lt;/span&gt; connect &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; HTTPS URL because the SSL module &lt;span class=&#34;keyword&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;not&lt;/span&gt; available.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;大致意思就是缺少依赖,但是我已经装好依赖了,而且通过 PowerShell 可以正常运行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后来突然想到是 python 环境没开:&lt;/p&gt;
+&lt;figure class=&#34;highlight applescript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;built_in&#34;&gt;activate&lt;/span&gt; base&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;事情不大,麻烦不小&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ssh-解释器位置问题&#34;&gt;ssh-解释器位置问题&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is no Pip installer available in the selected environment.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;问题出在 vscode 能找到 python 可执行文件, 但是找解释器(库)时找错了位置&lt;/p&gt;
+&lt;p&gt;按 &lt;code&gt;ctrl + shift + P&lt;/code&gt; -&amp;gt; &lt;code&gt;Python: Select Interpreter&lt;/code&gt; 选择远程服务器上的解释器位置 &lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mayavi-安装问题&#34;&gt;mayavi-安装问题&lt;/h3&gt;
+&lt;div class=&#34;tabs&#34; id=&#34;起因&#34;&gt;&lt;ul class=&#34;nav-tabs&#34;&gt;&lt;li class=&#34;tab active&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#起因-1&#34;&gt;起因&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#起因-2&#34;&gt;经过&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#起因-3&#34;&gt;结果&lt;/button&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&#34;tab-contents&#34;&gt;&lt;div class=&#34;tab-item-content active&#34; id=&#34;起因-1&#34;&gt;&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;(dair) liuwei@adept2080-X11DPG-OT:~/code/DAIR-V2X$ python tools/visualize/vis_label_in_3d.py --task pcd_label --pcd-path &amp;quot;../link2paths/DAIR-V2X-Copy/cooperative-vehicle-infrastructure/vehicle-side/velodyne&amp;quot; --label-path &amp;quot;../link2paths/DAIR-V2X-Copy/cooperative-vehicle-infrastructure/vehicle-side/label/camera&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Traceback (most recent call last):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  File &amp;quot;tools/visualize/vis_label_in_3d.py&amp;quot;, line 3, in &amp;lt;module&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    import mayavi.mlab as mlab&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ModuleNotFoundError: No module named &amp;#x27;mayavi&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;首先, 乱装了一番, 排除 CUDA/Python 版本问题&lt;/p&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;起因-2&#34;&gt;&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;(dair) liuwei@adept2080-X11DPG-OT:~/code/DAIR-V2X$ conda install mayavi&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Collecting package metadata (current_repodata.json): done&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Solving environment: failed with initial frozen solve. Retrying with flexible solve.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Collecting package metadata (repodata.json): done&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Solving environment: failed with initial frozen solve. Retrying with flexible solve.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Solving environment: \&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Found conflicts! Looking for incompatible packages.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;This can take several minutes.  Press CTRL-C to abort.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;failed&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;UnsatisfiableError: The following specifications were found&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;to be incompatible with the existing python installation in your environment:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Specifications:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - mayavi -&amp;gt; python[version=&amp;#x27;&amp;gt;=2.7,&amp;lt;2.8.0a0|&amp;gt;=3.6,&amp;lt;3.7.0a0|&amp;gt;=3.7,&amp;lt;3.8.0a0&amp;#x27;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Your python: python=3.8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;If python is on the left-most side of the chain, that&amp;#x27;s the version you&amp;#x27;ve asked for.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;When python appears to the right, that indicates that the thing on the left is somehow&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;not available for the python version you are constrained to. Note that conda will not&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;change your python version to a different minor version unless you explicitly specify&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;that.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;The following specifications were found to be incompatible with your system:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - feature:/linux-64::__glibc==2.27=0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - feature:|@/linux-64::__glibc==2.27=0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - mayavi -&amp;gt; libgcc-ng[version=&amp;#x27;&amp;gt;=7.3.0&amp;#x27;] -&amp;gt; __glibc[version=&amp;#x27;&amp;gt;=2.17&amp;#x27;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Your installed version is: 2.27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(dair) liuwei@adept2080-X11DPG-OT:~/code/DAIR-V2X$ ^C&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;能找到这, 说明也看到这个驴唇不对马嘴的报错了, 然而这个报错指出的信息并不准确, 只能知道有个地方有环境问题/依赖冲突&lt;/p&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;起因-3&#34;&gt;&lt;p&gt;通过这篇文章, 试了试本地安装, 发现是 &lt;code&gt;VTK&lt;/code&gt; 这个package有问题 &lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;conda install vtk&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;conda install mayavi&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;OSError&#34;&gt;OSError&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OSError: [WinError 1455] 页面文件太小，无法完成操作。 Error loading “D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\cudnn_cnn_train64_8.dll” or one of its dependencies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;重启电脑解决&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OSError: [WinError 182] 操作系统无法运行 %1。 Error loading “D:\Scoop\apps\anaconda3\current\lib\site-packages\torch\lib\shm.dll” or one of its dependencies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight angelscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;pip install &lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;el-openmp&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;conda-not-found&#34;&gt;conda-not-found&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ModuleNotFoundError: No module named ‘conda’&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;装 pytorch 后报错如上, 应该是自带 python 版本问题, 新建个环境指定版本 &lt;code&gt;conda create -n new python=3.7&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;install-报错&#34;&gt;install-报错&lt;/h3&gt;
+&lt;p&gt;conda install pydotplus 时遇到报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight basic&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;RemoveError: &amp;#x27;requests&amp;#x27; is a dependency of conda and cannot be removed from ...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;遇到这报错, 更新下 conda,然后再安装&lt;/p&gt;
+&lt;figure class=&#34;highlight n1ql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;conda &lt;span class=&#34;keyword&#34;&gt;update&lt;/span&gt; --&lt;span class=&#34;keyword&#34;&gt;force&lt;/span&gt; conda&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;更新导致的依赖失效&#34;&gt;更新导致的依赖失效&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;from _ctypes import Union, Structure, Array ImportError: DLL load failed while importing _ctypes: 找不到指定的模块。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;奇葩的报错, 最简单的解决办法就是导出依赖列表, 删除此环境并重装&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;SSLError&#34;&gt;SSLError&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Caused by SSLError(&amp;quot;Can’t connect to HTTPS URL because the SSL module is not&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把 &lt;code&gt;Scripts, Library\\bin&lt;/code&gt; 这俩加入 path &lt;sup id=&#39;cite_ref-5&#39;&gt;&lt;a href=&#34;#cite_note-5&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Unable-find-candidates&#34;&gt;Unable-find-candidates&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Unable to find installation candidates for numpy-posit&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这种一般是因为要安装的 python 包没有支持此系统/平台, 如上的 &lt;a href=&#34;https://pypi.org/project/numpy-posit/&#34;&gt;numpy-posit&lt;/a&gt;, 没有对应 windows 的编译版本, 需要通过 git 安装&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.zhihu.com/question/395145313&#34;&gt;请问大神们，pip install 和 conda install 有什么区别吗？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: 此文章很清晰的介绍了 Anaconda 的安装使用: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/75717350&#34;&gt;https://zhuanlan.zhihu.com/p/75717350&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://stackoverflow.com/questions/50993566/vscode-there-is-no-pip-installer-available-in-the-selected-environment&#34;&gt;https://stackoverflow.com/questions/50993566/vscode-there-is-no-pip-installer-available-in-the-selected-environment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/517215955&#34;&gt;安装 mayavi 遇到的一些问题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-5&#39; href=&#39;#cite_ref-5&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/vosoland/article/details/117593773&#34;&gt;Caused by SSLError(“Can‘t connect to HTTPS URL because the SSL module is not available)_vosoland 的博客-CSDN 博客&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="Python" />
+        <category term="Anaconda" />
+        <updated>2021-05-20T01:05:02.000Z</updated>
+    </entry>
+</feed>

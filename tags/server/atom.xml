@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;server&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2023-07-28T11:35:28.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="system" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/system/server/AWS/</id>
+        <title>🤧AWS-matters</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/system/server/AWS/"/>
+        <content type="html">&lt;h1&gt;AWS-matters&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-09-04 15:07:59
+ * @FilePath: \Blog-private\source\_posts\system\server\AWS.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#aws-matters&#34;&gt;AWS-matters&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E5%BB%BA%E5%AD%90%E8%B4%A6%E6%88%B7&#34;&gt;创建子账户&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ec2&#34;&gt;EC2&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vcpu-%E9%99%90%E5%88%B6&#34;&gt;vCPU-限制&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gpu-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E9%80%89%E5%9E%8B&#34;&gt;GPU-服务器的选型&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9C%A8%E5%93%AA%E9%87%8C%E5%92%8C%E4%BC%9A%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91&#34;&gt;在哪里和会遇到的坑&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%B7%E6%A0%BC&#34;&gt;价格&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5&#34;&gt;服务器连接&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%9B%E5%BB%BA%E7%94%A8%E6%88%B7-ssh-%E8%BF%9E%E6%8E%A5&#34;&gt;服务器创建用户-ssh 连接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9A%E6%97%B6%E5%BC%80%E5%85%B3%E6%9C%BA&#34;&gt;定时开关机&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#credits&#34;&gt;Credits&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E4%B8%9A%E8%AE%A1%E5%88%92%E9%87%91%E9%A2%9D&#34;&gt;创业计划金额&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8&#34;&gt;如何使用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#router-53&#34;&gt;Router-53&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#domain-register&#34;&gt;domain-register&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4&#34;&gt;常用指令&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#aws-cli-login&#34;&gt;AWS-Cli-Login&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ec2-instance-manage&#34;&gt;EC2-instance-manage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%AA%E5%88%86%E7%B1%BB&#34;&gt;未分类&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;创建子账户&#34;&gt;创建子账户&lt;/h2&gt;
+&lt;style&gt;.bbplayer{width: 100%; max-width: 850px; margin: auto}&lt;/style&gt;&lt;div class=&#34;bbplayer&#34;&gt;&lt;iframe class=&#34;bbplayer&#34; id=&#34;mmedia-fhbxkeKqkXbTEZMx&#34; src=&#34;https://player.bilibili.com/player.html?bvid=BV11h4y157Pe&amp;page=1&amp;high_quality=1&amp;danmaku=true&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;0&#34; framespacing=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt; document.getElementById(&#34;mmedia-fhbxkeKqkXbTEZMx&#34;).style.height=document.getElementById(&#34;mmedia-fhbxkeKqkXbTEZMx&#34;).scrollWidth*0.76+&#34;px&#34;;
+    window.onresize = function(){
+      document.getElementById(&#34;mmedia-fhbxkeKqkXbTEZMx&#34;).style.height=document.getElementById(&#34;mmedia-fhbxkeKqkXbTEZMx&#34;).scrollWidth*0.76+&#34;px&#34;;
+    }; &lt;/script&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;EC2&#34;&gt;EC2&lt;/h2&gt;
+&lt;h3 id=&#34;vCPU-限制&#34;&gt;vCPU-限制&lt;/h3&gt;
+&lt;p&gt;新账号默认是 0, 得提交工单去申请, 改为比如 16/32/64 这样 (need n hrs) &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;GPU-服务器的选型&#34;&gt;GPU-服务器的选型&lt;/h3&gt;
+&lt;h4 id=&#34;在哪里和会遇到的坑&#34;&gt;在哪里和会遇到的坑&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws.amazon.com/cn/ec2/instance-types&#34;&gt;Amazon EC2 实例类型-EC2 虚拟云服务器托管-AWS 云服务&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AWS 属实有点迷宫, 比如我想找个合适的算力资源用于开发, 搜了半天 GPU 发现有很多卖 AI 服务的项目挂着, 但没找到服务器&lt;/p&gt;
+&lt;p&gt;那么就直奔 EC2 吧, 下一步迷的是机型挑选, 列了一大排没标 GPU 型号的服务器&lt;/p&gt;
+&lt;p&gt;你还得去搜 g 系列服务器配的卡, 比如 2023 年是 g5-A10G&lt;/p&gt;
+&lt;p&gt;确定目标后想 create instance, 又会发现有 region 限制 (比如国内香港还没有 g5 系列)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;价格&#34;&gt;价格&lt;/h4&gt;
+&lt;p&gt;美 &amp;gt; 欧 &amp;gt; 亚太 &amp;gt; 南美&lt;/p&gt;
+&lt;p&gt;同一区域差别不大, 跨区差额比较大&lt;/p&gt;
+&lt;p&gt;比如 2023.7-g5.xlarge-server 美区 1&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;/&lt;/mi&gt;&lt;mi&gt;h&lt;/mi&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mtext&gt;欧区&lt;/mtext&gt;&lt;mn&gt;1.2&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;/h, 欧区1.2&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;h&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord cjk_fallback&#34;&gt;欧区&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1.2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;/h&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;服务器连接&#34;&gt;服务器连接&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;我用 aws 自动创建的公私钥对登录, 一直是 access denied&lt;/li&gt;
+&lt;li&gt;web console 登录进去, 直接 vim 修改&lt;/li&gt;
+&lt;li&gt;ssh 登录, 也可以改 root 密码切到 root&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;服务器创建用户-ssh-连接&#34;&gt;服务器创建用户-ssh 连接&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; passwd root&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;passwd ubuntu&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;su root&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;adduser project-1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# userdel -r project-1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 一定要切到新用户, 不要用 root 执行后面的&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;su project-1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;mkdir&lt;/span&gt; ~/.ssh&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;touch&lt;/span&gt; ~/.ssh/authorized_keys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;chmod&lt;/span&gt; 600 ~/.ssh/authorized_keys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;su root&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;service sshd restart&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ssh project-1@localhost&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;定时开关机&#34;&gt;定时开关机&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://repost.aws/zh-Hans/knowledge-center/start-stop-lambda-eventbridge&#34;&gt;使用 Lambda 以设定的间隔停止和启动 EC2 实例&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://blog.csdn.net/m0_61418822/article/details/129008798&#34;&gt;AWS EC2 定时开关机（lambda+cloudwatch 实现）&lt;em&gt;aws cloud watch&lt;/em&gt;干运维的 yds 的博客-CSDN 博客&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;EventBridge -&amp;gt; cron&lt;/li&gt;
+&lt;li&gt;Lambda -&amp;gt; py
+&lt;ol&gt;
+&lt;li&gt;IAM -&amp;gt; 执行角色权限&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;EC2 -&amp;gt; start/stop&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://jinshuju.net/f/e8uNNU&#34;&gt;亚马逊云 Startup 免费云资源申请&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://aws.amazon.com/cn/campaigns/activate/&#34;&gt;亚马逊云科技云创计划-亚马逊云科技初创公司起步云资源服务-亚马逊云科技中国区域网络服务解决方案&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;创业计划金额&#34;&gt;创业计划金额&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;填写表格, 介绍项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;需要与负责人会议沟通, 讲明给的金额&lt;/p&gt;
+&lt;p&gt;是按每批 5000$ credit 发, 用完再给, 过期可以续&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第二次会议讲 AWS 可以为我们提供什么个性化服务 (因为有很多方便的服务我们可能并不知道)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;如何使用&#34;&gt;如何使用&lt;/h3&gt;
+&lt;p&gt;这个很坑, 我找了半天 Doc/设置/付款选项也没找到哪里能更换为 credits 抵扣&lt;/p&gt;
+&lt;p&gt;问了 AWS 工作人员才知道, 是先花后付, 每个月的账单会自动扣在 credits 头上, 不够的才扣银行卡&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Router-53&#34;&gt;Router-53&lt;/h2&gt;
+&lt;h3 id=&#34;domain-register&#34;&gt;domain-register&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can’t use AWS credits to pay the fee for registering a new domain with Route 53. &lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt; &lt;br&gt;
+AWS 注册域名不能用 credits 抵扣&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我翻开文档一查，这文档没有年代。歪歪斜斜的每页上都写着“抵扣金额”几个字，我横竖睡不着，仔细看了半夜，才从字缝里看出来，满本上都写着两个字“付费&amp;quot;！&lt;/p&gt;
+&lt;p&gt;woc 藏挺深, 这不坑人嘛, 买了之后看了半天账单没看明白, 原来是扣的信用卡的&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;常用指令&#34;&gt;常用指令&lt;/h2&gt;
+&lt;h3 id=&#34;AWS-Cli-Login&#34;&gt;AWS-Cli-Login&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/aws/aws-cli&#34;&gt;GitHub - aws/aws-cli: Universal Command Line Interface for Amazon Web Services&lt;/a&gt; &amp;gt; &lt;a href=&#34;https://us-east-1.console.aws.amazon.com/iamv2/home#/security_credentials&#34;&gt;https://us-east-1.console.aws.amazon.com/iamv2/home#/security_credentials&lt;/a&gt; &lt;br&gt;
+创建访问秘钥对&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; aws configure&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;AWS Access Key ID [&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;JFP2]: XXXXXXXXXXXXXXXXXXXX&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;AWS Secret Access Key [&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;&lt;span class=&#34;strong&#34;&gt;****&lt;/span&gt;Rb0A]: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Default region name [us-east-1]: 直接回车&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Default output format [None]: 直接回车&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;EC2-instance-manage&#34;&gt;EC2-instance-manage&lt;/h3&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;开机&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;aws ec2 start-instances --instance-ids i-036c4cc27119d3b8e&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查询&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;aws ec2 describe-instances&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;quot;Reservations&amp;quot;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;quot;Groups&amp;quot;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &amp;quot;Instances&amp;quot;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;AmiLaunchIndex&amp;quot;: 0,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;ImageId&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;InstanceId&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;InstanceType&amp;quot;: &amp;quot;g5.2xlarge&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;KeyName&amp;quot;: &amp;quot;Login&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;LaunchTime&amp;quot;: &amp;quot;2023-07-31T03:11:29+00:00&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;Monitoring&amp;quot;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;quot;State&amp;quot;: &amp;quot;enabled&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;Placement&amp;quot;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;quot;AvailabilityZone&amp;quot;: &amp;quot;us-east-1b&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;quot;GroupName&amp;quot;: &amp;quot;&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;quot;Tenancy&amp;quot;: &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;PrivateDnsName&amp;quot;: &amp;quot;ip-172-31-95-130.ec2.internal&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;PrivateIpAddress&amp;quot;: &amp;quot;172.31.95.130&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;ProductCodes&amp;quot;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;PublicDnsName&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;PublicIpAddress&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;State&amp;quot;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;quot;Code&amp;quot;: 16,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;quot;Name&amp;quot;: &amp;quot;running&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;StateTransitionReason&amp;quot;: &amp;quot;&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;SubnetId&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;VpcId&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;Architecture&amp;quot;: &amp;quot;x86_64&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;BlockDeviceMappings&amp;quot;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                            &amp;quot;DeviceName&amp;quot;: &amp;quot;/dev/sda1&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                            &amp;quot;Ebs&amp;quot;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                &amp;quot;AttachTime&amp;quot;: &amp;quot;2023-07-23T04:38:13+00:00&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                &amp;quot;DeleteOnTermination&amp;quot;: true,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                &amp;quot;Status&amp;quot;: &amp;quot;attached&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                                &amp;quot;VolumeId&amp;quot;: &amp;quot;xxxxxx&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                            &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    ],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;ClientToken&amp;quot;: &amp;quot;xxxxxx&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;EbsOptimized&amp;quot;: true,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;EnaSupport&amp;quot;: true,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;Hypervisor&amp;quot;: &amp;quot;xen&amp;quot;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    &amp;quot;NetworkInterfaces&amp;quot;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-- More  --&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;筛选&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;aws ec2 describe-instances --query &lt;span class=&#34;string&#34;&gt;&amp;quot;Reservations[].Instances[].PublicIpAddress&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;quot;1.2.3.4&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;未分类&#34;&gt;未分类&lt;/h3&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;aws organizations &lt;span class=&#34;keyword&#34;&gt;enable&lt;/span&gt;-aws-service-&lt;span class=&#34;keyword&#34;&gt;access&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;--service-principal account.amazonaws.com&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.runoob.com/linux/linux-user-manage.html&#34;&gt;Linux 用户和用户组管理&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://repost.aws/zh-Hans/knowledge-center/ec2-on-demand-instance-vcpu-increase&#34;&gt;计算可为 Amazon EC2 按需型实例请求提高的 vCPU 限制&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html&#34;&gt;Registering a new domain - Amazon Route 53&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-services-ec2-instances.html&#34;&gt;启动、列出和终止 Amazon EC2 实例 - AWS Command Line Interface&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="AWS" />
+        <category term="Server" />
+        <updated>2023-07-28T11:35:28.000Z</updated>
+    </entry>
+</feed>

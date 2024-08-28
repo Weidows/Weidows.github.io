@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;distribution&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2024-07-29T18:48:23.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="system" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/design/architecture/distribution-scheduler/</id>
+        <title>分布式调度系统设计|distribution-scheduler-system</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/architecture/distribution-scheduler/"/>
+        <content type="html">&lt;h1&gt;分布式调度系统设计|distribution-scheduler-system&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-09 11:25:47
+ * @FilePath: \Blog-private\source\_posts\design\architecture\distribution-scheduler.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%86%E5%B8%83%E5%BC%8F%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1distribution-scheduler-system&#34;&gt;分布式调度系统设计|distribution-scheduler-system&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#from-learning&#34;&gt;From-learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#skynet&#34;&gt;skynet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9E%B6%E6%9E%84%E5%9B%BE&#34;&gt;架构图&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;From-learning&#34;&gt;From-learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;任务 (Job) 在解决什么:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;多个服务 A 需要调用服务 B&lt;/p&gt;
+&lt;p&gt;避免 B 太忙, 可以用作排队等待&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;定时任务&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在 10s 后执行 xx 任务&lt;/li&gt;
+&lt;li&gt;cron job&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分布式 (distribution) 在解决什么:&lt;/p&gt;
+&lt;p&gt;单节点性能总归是有极限, 分布式可以高可用&lt;/p&gt;
+&lt;p&gt;以及可以避免单节点挂掉&lt;/p&gt;
+&lt;p&gt;拆分任务单元和执行单元, 避免执行器因挂掉/高负载导致任务无法执行或执行慢&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;skynet&#34;&gt;skynet&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cuigh/skynet&#34;&gt;https://github.com/cuigh/skynet&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;前司领导写的项目, 他带我工作中用到过, 而且写的很干净, 就拿它分析了&lt;/p&gt;
+&lt;p&gt;WIP…&lt;/p&gt;
+&lt;h3 id=&#34;架构图&#34;&gt;架构图&lt;/h3&gt;
+&lt;p&gt;有参考网上文章 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;, 不过是我自己设计+画的, 想法相当粗糙&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/1723165149145.png&#34; alt=&#34;designed by@Weidows&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://github.com/xuxueli/xxl-job/&#34;&gt;https://github.com/xuxueli/xxl-job/&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="design" />
+        <category term="system" />
+        <category term="distribution" />
+        <updated>2024-07-29T18:48:23.000Z</updated>
+    </entry>
+</feed>

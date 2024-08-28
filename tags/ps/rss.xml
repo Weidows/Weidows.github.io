@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;ps&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 29 Nov 2020 04:05:07 +0000</pubDate>
+        <lastBuildDate>Sun, 29 Nov 2020 04:05:07 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>system</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/design/PS/</guid>
+            <title>😵‍💫PS-中一些小用法</title>
+            <link>https://blog.weidows.tech/post/design/PS/</link>
+            <category>备忘录</category>
+            <category>PS</category>
+            <category>设计</category>
+            <pubDate>Sun, 29 Nov 2020 04:05:07 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;PS-中一些小用法&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-29 12:05:07
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-05-14 01:55:26
+ * @FilePath: \Blog-private\source\_posts\design\PS.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ps-%E4%B8%AD%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%94%A8%E6%B3%95&#34;&gt;PS-中一些小用法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BF%AB%E6%8D%B7%E9%94%AE&#34;&gt;快捷键&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A3%E9%94%81%E5%9B%BE%E5%B1%82&#34;&gt;解锁图层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF&#34;&gt;透明背景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9A%E5%90%91%E5%8F%98%E8%89%B2&#34;&gt;定向变色&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%BB%E6%B0%B4%E5%8D%B0&#34;&gt;去水印&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BD%AE%E5%BB%93-%E5%9B%BE%E7%89%87%E5%A1%AB%E5%85%85&#34;&gt;轮廓-图片填充&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;快捷键&#34;&gt;快捷键&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;复制图层&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + J&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;调整图层位置和大小&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + T&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;解锁图层&#34;&gt;解锁图层&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;索引模式无法解锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图像-&amp;gt;模式-&amp;gt;(索引颜色-&amp;gt;RGB 颜色)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV393v.png&#34; alt=&#34;20201129120716&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;双击图层&lt;/li&gt;
+&lt;li&gt;把锁拖进垃圾桶图标&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;透明背景&#34;&gt;透明背景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选择-&amp;gt;色彩范围，点击取色&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVErOM.png&#34; alt=&#34;20201129121309&#34;&gt;&lt;/li&gt;
+&lt;li&gt;选中后按 Delete&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;定向变色&#34;&gt;定向变色&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;变色前后对比&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLV5u.png&#34; alt=&#34;20210210193706&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;首先选择颜色范围,参考&lt;a href=&#34;#%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF&#34;&gt;透明背景&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后右键选择&lt;code&gt;填充&lt;/code&gt;,或者在菜单里找&lt;code&gt;【图像】——【调整】——【替换颜色】&lt;/code&gt;&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4sBv.png&#34; alt=&#34;20210210193939&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;填入目标色即可.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;去水印&#34;&gt;去水印&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/45458379&#34;&gt;PS 去水印的方法和技巧&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;轮廓-图片填充&#34;&gt;轮廓-图片填充&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用一张图的内容轮廓+另一张图的内容填充&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;如视频中的这样:&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/Gh21vg.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV12p4y1z7FZ?spm_id_from=..search-card.all.click&#34;&gt;【ps 小技巧/教程】 快速做出“文字用图片内容作填充”的效果，图片生成特定文字的轮廓效果|新手向|图片文字&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;wsl2&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 01 Feb 2021 05:54:10 +0000</pubDate>
+        <lastBuildDate>Mon, 01 Feb 2021 05:54:10 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>system</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/system/wsl2/</guid>
+            <title>🎇二度尝鲜-wsl</title>
+            <link>https://blog.weidows.tech/post/system/wsl2/</link>
+            <category>操作系统</category>
+            <category>Windows</category>
+            <category>wsl2</category>
+            <pubDate>Mon, 01 Feb 2021 05:54:10 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;二度尝鲜-wsl&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-02-01 13:54:10
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-03-11 17:42:21
+ * @FilePath: \Blog-private\source\_posts\system\wsl2.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BA%8C%E5%BA%A6%E5%B0%9D%E9%B2%9C-wsl&#34;&gt;二度尝鲜-wsl&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8C%87%E5%8D%97&#34;&gt;指南&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%98%E6%96%B9%E7%9A%84&#34;&gt;官方的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A&#34;&gt;名词解释&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4&#34;&gt;安装步骤&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4&#34;&gt;常用指令&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%BB%9F&#34;&gt;系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%9F%E8%83%BD&#34;&gt;功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE&#34;&gt;配置&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#wsl-%E4%BB%A3%E7%90%86&#34;&gt;wsl-代理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90&#34;&gt;安装完成&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#wsl-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85&#34;&gt;wsl 软件安装&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#apt&#34;&gt;apt?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dpkg&#34;&gt;dpkg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9C%B0%E5%9D%80%E6%98%A0%E5%B0%84&#34;&gt;地址映射&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscodewsl&#34;&gt;VScode+wsl&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#terminal&#34;&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#remote-%E5%BC%80%E5%8F%91&#34;&gt;Remote 开发&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ideawsl&#34;&gt;IDEA+wsl&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#terminal-1&#34;&gt;terminal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%A5%E9%94%99&#34;&gt;报错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%90%E6%A7%BD&#34;&gt;吐槽&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指南&#34;&gt;指南&lt;/h2&gt;
+&lt;h3 id=&#34;官方的&#34;&gt;官方的&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个微软是官方的,讲的很详细.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#update-to-wsl-2&#34;&gt;适用于 Linux 的 Windows 子系统安装指南 (Windows 10)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;名词解释&#34;&gt;名词解释&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下面牵扯到很多名词,乍一看会&lt;code&gt;蒙圈&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;放一个关系网络&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt; hyper&lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt;v&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|- Docker(hype-v引擎)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|- Windows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;|- wsl2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;string&#34;&gt;|- wsl-linux&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;string&#34;&gt;|- Docker(wsl引擎)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;|- Nginx&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;|- Node.js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;|- 各种系统和服务&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;hyper-v&lt;/code&gt;是微软家的虚拟机平台,定位于&lt;code&gt;VMware&lt;/code&gt;相同,虽然它看起来是 Windows 内部的软件,但是开启 hyper-v 后 Windows 本身也会成为其内部的虚拟机.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;wsl 是基于 Windows 下实现的 Linux 虚拟化技术,全称&lt;code&gt;Windows Subsystem for Linux&lt;/code&gt;,所以这里面装的系统肯定是各种 linux,&lt;code&gt;2&lt;/code&gt;只是版本号,一般 wsl2 简称 wsl,两个版本功能上有些差别.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;wsl-linux&lt;/code&gt;就是指在 Store 里面像是 Ubuntu,Debian 等等的 linux 系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Docker 的话详见 &lt;a href=&#34;../docker&#34;&gt;🌈 初探 Docker.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装步骤&#34;&gt;安装步骤&lt;/h2&gt;
+&lt;h3 id=&#34;常用指令&#34;&gt;常用指令&lt;/h3&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 打开 Windows 功能&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;dism.exe &lt;span class=&#34;string&#34;&gt;/online&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/enable-feature&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/featurename&lt;/span&gt;&lt;span class=&#34;function&#34;&gt;:Microsoft-Windows-Subsystem-Linux&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/all&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/norestart&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;dism.exe &lt;span class=&#34;string&#34;&gt;/online&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/enable-feature&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/featurename&lt;/span&gt;&lt;span class=&#34;function&#34;&gt;:VirtualMachinePlatform&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/all&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/norestart&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wsl &lt;span class=&#34;params&#34;&gt;--list&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;--online&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wsl &lt;span class=&#34;params&#34;&gt;--install&lt;/span&gt; -d Ubuntu-22.04&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wsl &lt;span class=&#34;params&#34;&gt;--update&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wsl &lt;span class=&#34;params&#34;&gt;--unregister&lt;/span&gt; xxx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;wsl &lt;span class=&#34;params&#34;&gt;--list&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;--verbose&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;netsh winsock reset&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;系统&#34;&gt;系统&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;首先 Windows64 位系统版本号必须大于等于 &lt;code&gt;1903&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;系统类型只有专业版(好像家庭版和企业版不行)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;功能&#34;&gt;功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[x] 启用适用于 Linux 的 Windows 子系统&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[x] 启用虚拟机功能&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如图上面两个&lt;code&gt;必须开启&lt;/code&gt;,其他的您看着来~&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVtzd9.png&#34; alt=&#34;20210201160810&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;配置&#34;&gt;配置&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载并安装&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi&#34;&gt;下载适用于 x64 计算机的 WSL2 Linux 内核更新包&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后,将 WSL 2 设置为默认版本&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 PowerShell 输入&lt;/p&gt;
+&lt;figure class=&#34;highlight actionscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;wsl --&lt;span class=&#34;keyword&#34;&gt;set&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;default&lt;/span&gt;-version &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;没出问题的话会提示 &lt;code&gt;有关与 WSL 2 的主要区别的信息，请访问 https://aka.ms/wsl2&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;最后&lt;/code&gt;,打开&lt;code&gt;Microsoft Store&lt;/code&gt;,安装想安装的 Linux 系统&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ubuntu 16.04 LTS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ubuntu 18.04 LTS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ubuntu 20.04 LTS (主流推荐)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;openSUSE Leap 15.1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SUSE Linux Enterprise Server 12 SP5&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SUSE Linux Enterprise Server 15 SP1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kali Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Debian GNU/Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fedora Remix for WSL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pengwin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pengwin Enterprise&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alpine WSL&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小插曲,如果 Store 加载不出来数据,报错&lt;code&gt;0x80131500&lt;/code&gt;,那么,请关掉你的科学上网软件 🤣&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;wsl-代理&#34;&gt;wsl-代理&lt;/h3&gt;
+&lt;p&gt;可以用 clash 的 TUN 模式: &lt;a href=&#34;https://docs.cfw.lbyczf.com/contents/tun.html#windows&#34;&gt;https://docs.cfw.lbyczf.com/contents/tun.html#windows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装完成&#34;&gt;安装完成&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;第一次打开时他会先安装一小会儿,然后让你输入用户名和密码,创建新用户&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注意 Linux 系统输入密码时不会显示&lt;code&gt;****&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight lasso&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Installing, this may &lt;span class=&#34;keyword&#34;&gt;take&lt;/span&gt; a few minutes&lt;span class=&#34;params&#34;&gt;...&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Please create a default UNIX user account. The username does &lt;span class=&#34;literal&#34;&gt;not&lt;/span&gt; need &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;match&lt;/span&gt; your Windows username.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;For more information visit: https:&lt;span class=&#34;comment&#34;&gt;//aka.ms/wslusers&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Enter &lt;span class=&#34;literal&#34;&gt;new&lt;/span&gt; UNIX username: weidows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;literal&#34;&gt;New&lt;/span&gt; password:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Retype &lt;span class=&#34;literal&#34;&gt;new&lt;/span&gt; password:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;passwd: password updated successfully&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Installation successful!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;wsl-软件安装&#34;&gt;wsl 软件安装&lt;/h3&gt;
+&lt;h4 id=&#34;apt&#34;&gt;apt?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sysgeek.cn/apt-vs-apt-get/&#34;&gt;Linux 中 apt 与 apt-get 命令的区别与解释&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单来说就是：apt = apt-get、apt-cache 和 apt-config 中最常用命令选项的集合。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;dpkg&#34;&gt;dpkg&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/LEON1741/article/details/85127000&#34;&gt;怎么理解 ubuntu 中的软件包管理器 apt 和 dpkg&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;地址映射&#34;&gt;地址映射&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装 wsl 之后就可以通过&lt;code&gt;\\wsl$&lt;/code&gt;访问到自己的虚拟机&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4XTS.png&#34; alt=&#34;20210201173448&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;映射&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVSOhE.png&#34; alt=&#34;20210201174422&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;映射之后出现新盘符&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAEkm.png&#34; alt=&#34;20210201174646&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有个奇妙的事是&lt;code&gt;mnt/&lt;/code&gt;目录下会反过来映射你的所有本地盘符&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;看上面那个图,我有四个盘符,然后 mnt 目录下就有&lt;code&gt;c,d,e,f&lt;/code&gt;四个文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这几个映射文件夹在 Windows 文件管理器无法打开,但是在终端里可以进入&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLfvE.png&#34; alt=&#34;20210201174957&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;VScode-wsl&#34;&gt;VScode+wsl&lt;/h3&gt;
+&lt;h4 id=&#34;Terminal&#34;&gt;Terminal&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;网上大多数人推荐&lt;code&gt;Windows Terminal&lt;/code&gt;,我觉得也不错,不过没用,直接用的&lt;code&gt;VScode&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如图,点&lt;code&gt;选择默认shell&lt;/code&gt;里面就可以选择&lt;code&gt;wsl&lt;/code&gt;了&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVPXRS.png&#34; alt=&#34;20210201165532&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;Remote-开发&#34;&gt;Remote 开发&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;wsl 相当于在内网开了一台电脑,会有一个&lt;code&gt;内网ip&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们不需要获取这个 IP,直接在 VScode 里安装&lt;code&gt;Remote - WSL&lt;/code&gt;这个插件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;甚至都不需要配置,直接点左下角打开就行了&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAtIq.png&#34; alt=&#34;20210201173024&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当然,如果不嫌麻烦拿 ssh 连接 wsl 也可以,需要在 wsl 系统内配置静态 ip,但是很多功能性上不如上面那个插件.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;IDEA-wsl&#34;&gt;IDEA+wsl&lt;/h3&gt;
+&lt;h4 id=&#34;terminal&#34;&gt;terminal&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;设置里打开 &lt;code&gt;File -&amp;gt; Settings -&amp;gt; Tools -&amp;gt; Terminal&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;shell path 填上&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;cmd.exe&amp;quot;&lt;/span&gt; /k &lt;span class=&#34;string&#34;&gt;&amp;quot;wsl.exe&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如图&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLc8h.png&#34; alt=&#34;20210201221447&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- ## 后记
+
+- 本来开始想的是开发环境转到 wsl 内部
+
+- 折腾了大半天发现 wsl 生态并不很讨喜,只有部分特性值得使用
+
+  - 比如跑 `Docker`,`zsh` 终端,`SQL` 服务等等...
+
+  - 尝试了一下,直白点说,`用它做开发不行!`
+
+  - 但是拿它来`替代虚拟机`倒是还可以,它的 CPU 闲时占用很低(不到 1%),内存占用半个 G,还好~
+
+  ***
+
+- 为啥呢? 说一下我遇到的痛点:
+
+  - 首先,`生态问题`,下图是我的开发环境,想要移植到 Linux 难度很大,肯定要放弃一些,,所以我放弃移植了...
+
+    &lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVS9wv.png&#34; alt=&#34;20210201215547&#34; /&gt;
+
+  - 其次,有些小问题需要解决,比如路径问题`&#34;/&#34;与&#34;\&#34;`不一样,还有换行符问题,会导致 git 认为你的项目全绿`(就是所有文件的所有行都有修改)`,令人窒息...
+
+  - 再次,`性能问题`,这个虚拟化毕竟是虚拟,上手试了一下会有迟钝(CPU 和网络问题都有),另外,开启了虚拟后就连 Windows 多多少少也会损耗一些性能.
+
+  - 其实我认为最难受的是`IDE适配`,我用的`IntelliJ IDEA`和`VScode`,它们需要`Git,Node.js,openjdk,maven,python`等等,这些并不能通过 wsl 直通,除非直接用 linux 系统把这些全装进 linux 里面.
+
+---
+
+- 不过倒也没有白安装,一些东西还是需要 wsl 的
+
+  - 比如`bash`,`zsh`,`docker`等等...
+
+  - 害,算了,`VMware`真香!
+
+---
+
+- 还有一个比较上头的问题:
+
+  - 开启 wsl 后因为虚拟化,window 系统开机后`无法自动连接 WiFi`,可能是个 bug,但是劝退了!
+  - 经测试,开启 hyper-v 也会造成这后果.
+  - 有可能只是我这么一个个例,硬件兼容性问题. --&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;报错&#34;&gt;报错&lt;/h2&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: CreateProcessParseCommon:&lt;span class=&#34;number&#34;&gt;711&lt;/span&gt;: Failed to translate C:\Windows\System32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: CreateProcessParseCommon:&lt;span class=&#34;number&#34;&gt;757&lt;/span&gt;: getpwuid(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) failed &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\pwsh\current&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Windows\system32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Windows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Windows\System32\Wbem&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Windows\System32\WindowsPowerShell\v1.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;\&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Windows\System32\OpenSSH\&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\docker-desktop-with-compose\&lt;span class=&#34;number&#34;&gt;139021&lt;/span&gt;\docker\resources\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Program Files (x86)\Windows Kits\&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;\Windows Performance Toolkit\&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\miniconda3\current\scripts&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\miniconda3\current\Library\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\vscode\current\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\rustup\current\.cargo\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\nvm\current\nodejs\nodejs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\nvm\current\pnpm\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\nvm\current\yarn\global\node_modules\.bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\maven\current\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\jvms\current\store\current\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\gvm\current\.g\go\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\gvm\current\.go\GOPATH\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\encore\current\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\docker-desktop-with-compose\current\docker\resources\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\cudnn\current\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\cuda11.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;\current\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\cuda11.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;\current\libnvvp&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\shims&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate D:\Scoop\apps\cygwin-libs-hentai\current\root\bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: UtilTranslatePathList:&lt;span class=&#34;number&#34;&gt;2866&lt;/span&gt;: Failed to translate C:\Users\Weidows\AppData\Local\Microsoft\WindowsApps&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;Processing&lt;/span&gt; fstab with mount -a failed.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;Failed&lt;/span&gt; to mount C:\, see dmesg for more details.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;Failed&lt;/span&gt; to mount D:\, see dmesg for more details.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: CreateProcessEntryCommon:&lt;span class=&#34;number&#34;&gt;334&lt;/span&gt;: getpwuid(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;) failed &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: CreateProcessEntryCommon:&lt;span class=&#34;number&#34;&gt;505&lt;/span&gt;: execvpe /bin/sh failed &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;3&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;WSL&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;) ERROR: CreateProcessEntryCommon:&lt;span class=&#34;number&#34;&gt;508&lt;/span&gt;: Create process not expected to return&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;这是因为 wsl 默认指向了 docker-desktop-data&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.cnblogs.com/kuangdaoyizhimei/p/14175143.html#_label2_0&#34;&gt;本篇文章会介绍 win10 中 wsl2 的安装和使用以及遇到的常见问题比如如何固定 wsl2 地址等问题的总结。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/weixin_43376501/article/details/126957208&#34;&gt;_wsl 打不开_zhjs_abc 的博客-CSDN 博客&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/chuhe163/article/details/112628879&#34;&gt;Docker 安装时提示 Existing installation is up to date_一株禾的博客-CSDN 博客&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;!--
+### 吐槽
+
+- 搜文章头图时发现...百度和谷歌差距有点大...
+
+  我用谷歌时间肯定没百度长,看起来谷歌更了解我 🤣
+
+  &lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLAMg.png&#34; alt=&#34;20210201140021&#34; /&gt;
+
+  &lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVSAfK.png&#34; alt=&#34;20210201140048&#34; /&gt;
+
+- 虽然并不想吹捧或贬低哪个,但是这...(看来我是老双标怪了~) --&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

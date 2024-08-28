@@ -1,0 +1,864 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;npm&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 24 Nov 2020 13:59:29 +0000</pubDate>
+        <lastBuildDate>Tue, 24 Nov 2020 13:59:29 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>system</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/Web/Node/node/</guid>
+            <title>⬆ Node.js-环境配置-使用</title>
+            <link>https://blog.weidows.tech/post/Web/Node/node/</link>
+            <category>nodejs</category>
+            <category>package</category>
+            <category>npm</category>
+            <category>yarn</category>
+            <pubDate>Tue, 24 Nov 2020 13:59:29 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;Node.js-环境配置-使用&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-24 21:59:29
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-06-08 12:05:46
+ * @FilePath: \Blog-private\source\_posts\Web\Node\node.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#nodejs-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE-%E4%BD%BF%E7%94%A8&#34;&gt;Node.js-环境配置-使用&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE&#34;&gt;环境配置&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85-yarn&#34;&gt;安装 yarn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%A0%E9%80%9F&#34;&gt;加速&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8D%A2%E6%BA%90&#34;&gt;换源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%A3%E7%90%86&#34;&gt;代理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BE%9D%E8%B5%96%E5%8D%87%E7%BA%A7&#34;&gt;依赖升级&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%82%E6%95%B0%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4&#34;&gt;参数及常用命令&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#-gglobal&#34;&gt;&lt;code&gt;-g(global)&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#-save&#34;&gt;&lt;code&gt;-save&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#local-%E5%85%A8%E5%B1%80%E4%BE%9D%E8%B5%96&#34;&gt;local-全局依赖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BF%90%E8%A1%8C%E6%8A%A5%E9%94%99&#34;&gt;运行报错&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BE%9D%E8%B5%96%E5%87%BA%E9%94%99&#34;&gt;依赖出错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B2%A1%E8%A3%85%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96&#34;&gt;没装项目依赖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#protocol-not-supported&#34;&gt;Protocol-not-supported&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%9A%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86&#34;&gt;多版本管理&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E5%8E%9F%E5%9B%A0%E6%8A%A5%E9%94%99&#34;&gt;环境变量原因报错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%87%E6%8D%A2%E7%89%88%E6%9C%AC%E6%8A%A5%E9%94%99&#34;&gt;切换版本报错&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7&#34;&gt;大前端工具&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%89%88%E6%9C%AC%E6%8B%9F%E5%AE%9A&#34;&gt;版本拟定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#uglifyjs&#34;&gt;uglifyjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;环境配置&#34;&gt;环境配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之前一直在乐此不疲的修改 npm 和 yarn 的 global 路径,因为每次 Node.js 更新会导致目录索引失效…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后来发现,Scoop 完美解决了这个问题! 它使用&lt;code&gt;Scoop/persist&lt;/code&gt;这个文件夹来挂载数据,不影响程序本身,即使更新也不会影响.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装-yarn&#34;&gt;安装 yarn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Node.js 是 JavaScript 运行环境,某个项目运行起来会需要一些依赖&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;npm/yarn/cnpm&lt;/code&gt; 就是管理这些依赖的, 安装 node.js 后自带 npm,不会带 yarn/cnpm, 这三个中我比较推荐用 &lt;code&gt;yarn&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;yarn 比 npm 更快一些&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;默认锁定版本.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;虽然 npm 与 yarn 是同一类东西,但是可以用 npm 安装 yarn (也可以去官网下载安装,不过那样更复杂麻烦)&lt;/p&gt;
+&lt;p&gt;神不神奇,因为 npm 和 yarn 本身也是依赖,但是这样安装的话需要进行一些目录配置&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install -g  yarn&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;强烈推荐&lt;/code&gt;: 用 Scoop 安装(&lt;code&gt;零配置&lt;/code&gt;)&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;scoop install yarn&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;加速&#34;&gt;加速&lt;/h2&gt;
+&lt;h3 id=&#34;换源&#34;&gt;换源&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;推荐: 使用 &lt;a href=&#34;https://www.npmjs.com/package/yrm&#34;&gt;&lt;code&gt;yrm&lt;/code&gt;&lt;/a&gt;, 会同时将你的 npm 和 yarn 一起切换 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;yrm add njupt https:&lt;span class=&#34;regexp&#34;&gt;//mi&lt;/span&gt;rrors.njupt.edu.cn&lt;span class=&#34;regexp&#34;&gt;/nexus/&lt;/span&gt;repository&lt;span class=&#34;regexp&#34;&gt;/npm/&lt;/span&gt; https:&lt;span class=&#34;regexp&#34;&gt;//mi&lt;/span&gt;rrors.njupt.edu.cn&lt;span class=&#34;regexp&#34;&gt;/help/&lt;/span&gt;npm/&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ yrm test&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  npm ---- 1311ms&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;* cnpm --- Fetch Error&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  taobao - 470ms&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  nj ----- Fetch Error&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  rednpm - 221ms&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  npmMirror  1204ms&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  edunpm - 1408ms&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  yarn --- Fetch Error&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight actionscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;yrm &lt;span class=&#34;keyword&#34;&gt;use&lt;/span&gt; taobao&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当然不嫌麻烦可以手动修改&lt;/p&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm config set registry https://registry.npm.taobao.org&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn config set registry https://registry.npm.taobao.org&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;也可以直接定位 npm 和 yarn 的配置文件 -&amp;gt; &lt;code&gt;~/.npmrc和.yarnrc&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;检查&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm&lt;span class=&#34;built_in&#34;&gt; config &lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;get&lt;/span&gt; registry&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn&lt;span class=&#34;built_in&#34;&gt; config &lt;/span&gt;&lt;span class=&#34;built_in&#34;&gt;get&lt;/span&gt; registry&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问题: 有时会遇到淘宝源某个文件验证失败问题 (Integrity check failed for “@types/body-parser” (computed integrity doesn’t match our records)&lt;/p&gt;
+&lt;p&gt;解决办法是: 换回官方的源,用完之后再换成淘宝源.&lt;/p&gt;
+&lt;figure class=&#34;highlight arduino&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm config set registry https:&lt;span class=&#34;comment&#34;&gt;//registry.npmjs.org&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn config set registry https:&lt;span class=&#34;comment&#34;&gt;//registry.npmjs.org&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;代理&#34;&gt;代理&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;设置代理&lt;/p&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm config set proxy http://127.0.0.1:7890&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm config set https-proxy http://127.0.0.1:7890&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn config set proxy http://127.0.0.1:7890&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn config set https-proxy http://127.0.0.1:7890&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;删除代理&lt;/p&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm config delete proxy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm config delete https-proxy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn config delete proxy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn config delete https-proxy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;依赖升级&#34;&gt;依赖升级&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;package path 简介&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.Js 的包管理器有&lt;code&gt;npm,cnpm,yarn&lt;/code&gt;等,通过上面操作后咱就用&lt;code&gt;npm&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Node.Js 通过 npm 可以安装 hexo 模块,hexo 里面的插件也是通过 npm 安装&lt;/li&gt;
+&lt;li&gt;npm 安装/升级/移除的模块都在&lt;code&gt;node_modules/&lt;/code&gt;里面,不会影响外面的东西&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;npm check &amp;amp;&amp;amp; upgrade(node 插件)&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install -g npm-check&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install -g npm-upgrade&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;使用:直接&lt;code&gt;npm-check&lt;/code&gt;/&lt;code&gt;npm-upgrade&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;缓存清理&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;会清空 node_cache&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm cache clean --force&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;参数及常用命令&#34;&gt;参数及常用命令&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/lililia/p/10482169.html&#34;&gt;详见 yarn 的常用命令&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;按照 package.json 文件的配置安装 module 到 node_modules/里面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;g-global&#34;&gt;&lt;code&gt;-g(global)&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;全局安装/卸载&lt;/li&gt;
+&lt;li&gt;注意脚手架如果是全局安装的话,卸载也要加上&lt;code&gt;-g&lt;/code&gt;才能全局卸载.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;save&#34;&gt;&lt;code&gt;-save&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;默认直接 install 会安装进那个目录,但是不会修改 package.json 文件&lt;/li&gt;
+&lt;li&gt;加上-save 会修改文件,使下次 npm install 也会安装&lt;/li&gt;
+&lt;li&gt;写在前面和后面都可以
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;npm install --save hexo-tag-aplayer&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;npm install hexo-tag-aplayer --save&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;local-全局依赖&#34;&gt;local-全局依赖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;npm&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install -g eslint&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;yarn&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;yarn global add hexo-cli&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn global add vsce&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;全局依赖路径&lt;/code&gt;: 用 Scoop 安装的,其数据挂载&lt;code&gt;摆脱了C盘!&lt;/code&gt;, npm 与 yarn 管理方式并不全然一样&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;node-npm: &lt;code&gt;Scoop\persist\nodejs\bin&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;yarn: &lt;code&gt;Scoop\persist\yarn\global&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;运行报错&#34;&gt;运行报错&lt;/h2&gt;
+&lt;h3 id=&#34;依赖出错&#34;&gt;依赖出错&lt;/h3&gt;
+&lt;figure class=&#34;highlight delphi&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;node_modules\&lt;span class=&#34;keyword&#34;&gt;pascal&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;case&lt;/span&gt;\dist\&lt;span class=&#34;keyword&#34;&gt;index&lt;/span&gt;.js:&lt;span class=&#34;number&#34;&gt;21&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有可能是依赖有故障了,其实用不着挨个排除是哪个依赖有问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;直接把&lt;code&gt;node_modules&lt;/code&gt;整个删掉,然后&lt;code&gt;npm install&lt;/code&gt;就好了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;没装项目依赖&#34;&gt;没装项目依赖&lt;/h3&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;live2d-moc3@1.0.0 uglifyjs&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;uglifyjs src/live2d.js -o dist/live2d.min.js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Parse error at src/live2d.js:2,6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;class Live2dLoader &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      ^&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ERROR: Unexpected token: name «Live2dLoader», expected: punc «;»&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at JS_Parse_Error.get (eval at &amp;lt;anonymous&amp;gt; (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\tools\node.js:18:1), &amp;lt;anonymous&amp;gt;:71:23)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at fatal (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\bin\uglifyjs:394:27)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at run (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\bin\uglifyjs:343:9)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at Object.&amp;lt;anonymous&amp;gt; (D:\Repos\Weidows\Blog-private\node_modules\uglify-js\bin\uglifyjs:259:5)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at Module._compile (node:internal/modules/cjs/loader:1097:14)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1151:10)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at Module.load (node:internal/modules/cjs/loader:975:32)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at Function.Module._load (node:internal/modules/cjs/loader:822:12)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at node:internal/main/run_main_module:17:47&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;终端进程“D:\Scoop\shims\pwsh.exe -Command npm run uglifyjs”已终止，退出代码: 1。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;如上, uglifyjs 已经装了 global 依赖, 但是项目并没装 (没 node_modules),仍会报错&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Protocol-not-supported&#34;&gt;Protocol-not-supported&lt;/h3&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt; pnpm install&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; WARN  deprecated puppeteer@3.3.0: &amp;lt; 19.4.0 is no longer supported&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; WARN  deprecated uuid@2.0.3: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Packages: +129&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Packages are hard linked from the content-addressable store to the virtual store.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  Content-addressable store is at: D:\Scoop\apps\nvm\current\store\v3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  Virtual store is at:             node_modules/.pnpm&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;node_modules/.pnpm/registry.npmmirror.com+puppeteer@3.3.0/node_modules/puppeteer: Running instnode_modules/.pnpm/registry.npmmirror.com+puppeteer@3.3.0/node_modules/puppeteer: Running install script, failed in 288mssed 129, downloaded 0, added 129, done&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.../node_modules/puppeteer install$ node install.js&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│ ERROR: Failed to set up Chromium r756035! Set &amp;quot;PUPPETEER_SKIP_DOWNLOAD&amp;quot; env variable to sk&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│ TypeError [ERR_INVALID_PROTOCOL]: Protocol &amp;quot;https:&amp;quot; not supported. Expected &amp;quot;http:&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at new NodeError (node:internal/errors:399:5)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at new ClientRequest (node:_http_client:183:11)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at Object.request (node:https:364:10)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at httpRequest (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\registry.npmmirror&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at downloadFile (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\registry.npmmirro&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at BrowserFetcher.download (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\regist&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at async download (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\registry.npmmir&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│   -- ASYNC --&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at BrowserFetcher.&amp;lt;anonymous&amp;gt; (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\reg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at fetchBinary (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\registry.npmmirror&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│     at download (D:\Repos\Hebau-Community\.github\node_modules\.pnpm\registry.npmmirror.co&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│   code: &amp;#x27;ERR_INVALID_PROTOCOL&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│ &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;└─ Failed in 289ms at D:\Repos\Hebau-Community\.github\node_modules\.pnpm\registry.npmmirror.com+puppeteer@3.3.0\node_modules\puppeteer&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;node 版本太高了, 得降级 &lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外如果是 puppeteer 的话, 可以试试: &lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true pnpm install&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;pnpm install puppeteer --unsafe-perm&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;不过这样虽然能装上, 但运行时可能会报错&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;也可能是依赖项安装失败(没找到版本号), 比如我遇到的是 svgexport, 它所依赖的 puppeteer 版本号不对, 安装失败&lt;/p&gt;
+&lt;p&gt;这个就得去修改项目 config.json 了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;多版本管理&#34;&gt;多版本管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;主流的有 nvm / n 两种&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;n 在 mac 和 linux 上比较好装,在 win 上就别想了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装 nvm&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;scoop &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;nvm&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 nvm&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000021690038&#34;&gt;node 多版本管理工具——nvm&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;环境变量原因报错&#34;&gt;环境变量原因报错&lt;/h3&gt;
+&lt;figure class=&#34;highlight subunit&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;ERROR &lt;/span&gt;open \settings.txt: The system cannot find the file specified.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;遇到这个报错的话,是因为环境变量还没起效,重启电脑&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;切换版本报错&#34;&gt;切换版本报错&lt;/h3&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;exit&lt;/span&gt; status &lt;span class=&#34;number&#34;&gt;145&lt;/span&gt;: The directory is not empty.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有可能是在安装/切换 node 版本时退出了终端导致非正常终止, 解决办法为重装/排查 &lt;code&gt;nvm/settings.txt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;看到下面 origin 开头的两行了吗? 直接删掉&lt;/p&gt;
+&lt;figure class=&#34;highlight dts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;root:&lt;/span&gt; D:\Game\Scoop\persist\nvm\nodejs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;arch:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;proxy:&lt;/span&gt; http:&lt;span class=&#34;comment&#34;&gt;//127.0.0.1:7890&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;originalpath:&lt;/span&gt; .&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;originalversion:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;node_mirror:&lt;/span&gt; https:&lt;span class=&#34;comment&#34;&gt;//npm.taobao.org/mirrors/node/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;npm_mirror:&lt;/span&gt; https:&lt;span class=&#34;comment&#34;&gt;//npm.taobao.org/mirrors/npm/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大前端工具&#34;&gt;大前端工具&lt;/h2&gt;
+&lt;h3 id=&#34;版本拟定&#34;&gt;版本拟定&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之前一直手动起草 package.json 中的 version,略显笨拙&lt;/p&gt;
+&lt;p&gt;不知道 npm 自带 version 管理功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;npm version&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;npm version [&lt;newversion&gt; | major | minor | patch | premajor | preminor | prepatch | prerelease [–preid=&lt;prerelease-id&gt;] | from-git]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;喏,可以拟定大小版本.&lt;/p&gt;
+&lt;p&gt;一般用这三个: major(大) -&amp;gt; minor(小) -&amp;gt; patch(补丁)&lt;/p&gt;
+&lt;p&gt;另外需要注意,使用之前要 &lt;code&gt;git commit&lt;/code&gt;,不然没法使用.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;uglifyjs&#34;&gt;uglifyjs&lt;/h3&gt;
+&lt;figure class=&#34;highlight x86asm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;yarn &lt;span class=&#34;meta&#34;&gt;global&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;add&lt;/span&gt; uglify-&lt;span class=&#34;keyword&#34;&gt;js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;yarn &lt;span class=&#34;meta&#34;&gt;global&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;add&lt;/span&gt; uglify-&lt;span class=&#34;built_in&#34;&gt;es&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;uglifyjs xxx&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;js&lt;/span&gt; -o xxx&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;min&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;uglifyjs xxx&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;js&lt;/span&gt; -m -o xxx&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;min&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;js&lt;/span&gt; // 更小&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.jianshu.com/p/dbe3cda1ac11&#34;&gt;yarn 源管理工具 yrm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzIyMDkwODczNw==&amp;amp;mid=2247496886&amp;amp;idx=1&amp;amp;sn=513b863b8468fcfaf8c8e750ce266899&amp;amp;chksm=97c66918a0b1e00eb920d278ae03b10ebe1d765db0e17cb8fe5bc60b737fb3c6af1d96fcf724&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=0327cIro7WXAp1jgObHXuKCE&amp;amp;sharer_sharetime=1616807246544&amp;amp;sharer_shareid=ff6bb8cfd138294e80df076b8b76232d#rd&#34;&gt;很多人上来就删除的 package-lock.json，还有这么多你不知道的（深度内容）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/dick_1999/article/details/122470272&#34;&gt;npm ERRcode ERR*INVALID_PROTOCOL Protocol “https:“ not supported. Expected “http:“*懮 俍的博客-CSDN 博客&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://juejin.cn/post/6844903678936104968&#34;&gt;puppetter 安装就踩坑-解决篇 - 掘金&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/Web/Node/Hexo/Hexo-all/</guid>
+            <title>🐍Hexo-一篇概全</title>
+            <link>https://blog.weidows.tech/post/Web/Node/Hexo/Hexo-all/</link>
+            <category>备忘录</category>
+            <category>doing</category>
+            <category>HTML</category>
+            <category>CSS</category>
+            <category>nodejs</category>
+            <category>Website</category>
+            <category>npm</category>
+            <category>Hexo</category>
+            <category>Pjax</category>
+            <pubDate>Mon, 24 Aug 2020 16:05:52 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;Hexo-淦翻各种插件安装-调试&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-08-25 00:05:52
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-06 06:50:50
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\Hexo-all.md
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#hexo-%E6%B7%A6%E7%BF%BB%E5%90%84%E7%A7%8D%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85-%E8%B0%83%E8%AF%95&#34;&gt;Hexo-淦翻各种插件安装-调试&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9D%E5%A7%8B%E5%8C%96&#34;&gt;初始化&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4&#34;&gt;常用命令&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E6%B8%B2%E6%9F%93%E5%99%A8&#34;&gt;安装渲染器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#page-%E9%A1%B5%E9%9D%A2&#34;&gt;page-页面&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E7%A7%8D%E6%8F%92%E4%BB%B6&#34;&gt;各种插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%80%E9%94%AE%E4%B8%89%E8%BF%9E&#34;&gt;一键三连&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B8%B2%E6%9F%93%E6%B3%A8%E5%85%A5&#34;&gt;自定义渲染注入&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BB%E9%A2%98%E6%96%87%E4%BB%B6%E6%B3%A8%E5%85%A5&#34;&gt;主题文件注入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B6%E6%B3%A8%E5%85%A5&#34;&gt;修改内部文件注入&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98&#34;&gt;常见问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#bangumis-steam-%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD&#34;&gt;bangumis-steam-页面图片无法加载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#pjax-%E6%B8%B2%E6%9F%93%E5%A4%B1%E6%95%88%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&#34;&gt;Pjax-渲染失效解决方案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#valine-waline-%E8%AF%84%E8%AE%BA%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD&#34;&gt;valine-waline-评论无法加载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#rss-%E7%BC%96%E8%AF%91%E5%87%BA%E9%94%99&#34;&gt;rss-编译出错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#deploy-error-github_action&#34;&gt;deploy-error-github_action&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;初始化&#34;&gt;初始化&lt;/h2&gt;
+&lt;h3 id=&#34;常用命令&#34;&gt;常用命令&lt;/h3&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;安装 Hexo-cli (需要全局安装)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm install -g hexo-cli&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;初始化博客&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hexo init 博客名&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;安装/删除插件&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;安装过的插件会在 root/package.json 里显示&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-xxx --save&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm uninstall hexo-xxx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;新建文章/页面&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hexo new post 名&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hexo new page 名&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;安装渲染器&#34;&gt;安装渲染器&lt;/h3&gt;
+&lt;p&gt;pug 和 stylus 渲染器, 如下报错是因为没安装&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;extends includes/layout.pug block content #recent-posts.recent-posts include includes/recent-posts.pug include includes/pagination.pug&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-renderer-pug hexo-renderer-stylus --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;page-页面&#34;&gt;page-页面&lt;/h3&gt;
+&lt;p&gt;可以通过修改 top_img 来更换头图 (cover 是针对 post 文章的,在此无效)&lt;/p&gt;
+&lt;p&gt;不能打 tag 和 categories(编译报错)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;tags / categories&lt;/p&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;hexo &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; page &lt;span class=&#34;keyword&#34;&gt;tags&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hexo &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; page categories&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;link&lt;/p&gt;
+&lt;figure class=&#34;highlight lasso&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;hexo &lt;span class=&#34;literal&#34;&gt;new&lt;/span&gt; page &lt;span class=&#34;keyword&#34;&gt;link&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;在 &lt;code&gt;source/_data/link.yml&lt;/code&gt; 里添加数据,如下:&lt;/p&gt;
+&lt;p&gt;还可以在 &lt;a href=&#34;http://link.md&#34;&gt;link.md&lt;/a&gt; 中自定义样式 (写的内容显示在友链下方)&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;class_name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;友情鏈接&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;class_desc:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;那些人，那些事&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;link_list:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;JerryC&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;link:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://jerryc.me/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://jerryc.me/image/avatar.png&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;descr:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;今日事,今日畢&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Hexo&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;link:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://hexo.io/zh-tw/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;descr:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;快速、簡單且強大的網誌框架&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;class_name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;網站&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;class_desc:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;值得推薦的網站&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;link_list:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Youtube&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;link:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://www.youtube.com/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://cdn.jsdelivr.net/gh/Weidows/Images/post/9ZkGg8v3azHJfM1.png&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;descr:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;視頻網站&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Weibo&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;link:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://www.weibo.com/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://cdn.jsdelivr.net/gh/Weidows/Images/post/TLJBum386vcnI1P.png&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;descr:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;中國最大社交分享平台&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Twitter&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;link:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://twitter.com/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;avatar:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://cdn.jsdelivr.net/gh/Weidows/Images/post/5VyHPQqR6LWF39a.png&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;descr:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;社交分享平台&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各种插件&#34;&gt;各种插件&lt;/h2&gt;
+&lt;div class=&#34;tabs&#34; id=&#34;deployer&#34;&gt;&lt;ul class=&#34;nav-tabs&#34;&gt;&lt;li class=&#34;tab active&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-1&#34;&gt;deployer&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-2&#34;&gt;Live2D&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-3&#34;&gt;Steam-游戏页面&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-4&#34;&gt;bilibili-番剧&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-5&#34;&gt;Meting&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-6&#34;&gt;Gulp&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-7&#34;&gt;豆瓣(已停用)&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-8&#34;&gt;Random-页面&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#deployer-9&#34;&gt;neat-压缩&lt;/button&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&#34;tab-contents&#34;&gt;&lt;div class=&#34;tab-item-content active&#34; id=&#34;deployer-1&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装:&lt;/p&gt;
+&lt;figure class=&#34;highlight ada&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-deployer-git &lt;span class=&#34;comment&#34;&gt;--save&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;官方配置文档(必要)&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;, 个人配置&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;deploy:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;repo:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://gitee.com/Weidows/Weidows.git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;branch:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;main&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;repo:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://github.com/Weidows/Weidows.github.io.git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;branch:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;main&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用:&lt;/p&gt;
+&lt;figure class=&#34;highlight ebnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;hexo deploy&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;也可以参照下面一条龙服务自行添加快捷方式.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-2&#34;&gt;&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install --save hexo-helper-live2d&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;白猫 / 黑猫&lt;/p&gt;
+  &lt;figure class=&#34;highlight gams&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install --save live2d-widget-&lt;span class=&#34;keyword&#34;&gt;model&lt;/span&gt;-tororo live2d-widget-&lt;span class=&#34;keyword&#34;&gt;model&lt;/span&gt;-hijiki&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;启用模型: 在&lt;code&gt;/_config.yml&lt;/code&gt; 里找到 model.use 改成想用的模型文件夹名&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-3&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;figure class=&#34;highlight ada&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-steam-games &lt;span class=&#34;comment&#34;&gt;--save&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;steam:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;steamId:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;xxx&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# steam64位Id(需要放在引号里),将steam库设置为公开&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;path:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;tags/games.html&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 页面路径，默认steamgames/index.html&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;⭐️养鸡场⭐️&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;quote:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;Steam给爷爬!别让我家EPIC误会&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 写在页面开头的一段话,支持html语法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;tab:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;all&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# all或recent, all: 所有游戏, recent: 最近游玩的游戏&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;length:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;imgUrl:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;https://pan.weidows.tech/d/local/img/avatar/avatar.png&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 图片链接，在quote下面放一张图片，图片链接到Steam个人资料，可留空&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;proxy:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 如果无法访问steam社区的话请使用代理&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;host:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 代理ip或域名&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;port:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 代理端口&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hexo g&lt;/code&gt; 之前 &lt;code&gt;hexo steam -u&lt;/code&gt;, 如果失败需要手动:&lt;/p&gt;
+&lt;p&gt;浏览器打开&lt;code&gt;https://steamcommunity.com/profiles/76561198321099712/games/?tab=all&lt;/code&gt; {steamId}和{tab}分别替换为上面配置中提到的 steamId 和 tab&lt;/p&gt;
+&lt;p&gt;F12 控制台 console 输入下面内容执行:&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;let&lt;/span&gt; script = &lt;span class=&#34;title function_&#34;&gt;jQuery&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;script[language=&amp;quot;javascript&amp;quot;]&amp;#x27;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; games = [];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (&lt;span class=&#34;keyword&#34;&gt;let&lt;/span&gt; i = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;; i &amp;lt; script.&lt;span class=&#34;property&#34;&gt;length&lt;/span&gt;; i++) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (script.&lt;span class=&#34;title function_&#34;&gt;eq&lt;/span&gt;(i).&lt;span class=&#34;title function_&#34;&gt;html&lt;/span&gt;().&lt;span class=&#34;title function_&#34;&gt;includes&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;rgGames&amp;quot;&lt;/span&gt;)) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;let&lt;/span&gt; rgGames = script.&lt;span class=&#34;title function_&#34;&gt;eq&lt;/span&gt;(i).&lt;span class=&#34;title function_&#34;&gt;html&lt;/span&gt;().&lt;span class=&#34;title function_&#34;&gt;match&lt;/span&gt;(&lt;span class=&#34;regexp&#34;&gt;/var.*?rgGames.*?=.*?(\[[\w\W]*?\&amp;#125;\&amp;#125;\]);/&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (rgGames) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      games = &lt;span class=&#34;title class_&#34;&gt;JSON&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;parse&lt;/span&gt;(rgGames[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;variable language_&#34;&gt;document&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;write&lt;/span&gt;(&lt;span class=&#34;title class_&#34;&gt;JSON&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;stringify&lt;/span&gt;(games))&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;生成的内容复制到&lt;code&gt;root/node_modules/hexo-steam-games/data/games.json&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这个不用 new 页面(但是数据文件路径无法改)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-4&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装:&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm &lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;hexo-&lt;span class=&#34;keyword&#34;&gt;bilibili-bangumi &lt;/span&gt;--save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置: 写入&lt;code&gt;root/_config.yml&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;bangumi:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;path:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#页面路径&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;vmid:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 哔哩哔哩番剧页面的 vmid(uid)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;追番列表&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 页面的标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;quote:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;生命不息，追番不止！&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 写在页面开头的一段话，支持 html 语法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;show:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 初始显示页面：0: 想看 , 1: 在看 , 2: 看过，默认为 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;loading:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 图片加载完成前的 loading 图片&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;metaColor:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;##  meta 部分(简介上方)字体颜色&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;color:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 简介字体颜色&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;webp:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;progress:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;## 获取番剧数据时是否显示进度条，默认true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可选创建页面,进入 root/命令行,执行: &lt;code&gt;hexo new page bangumis&lt;/code&gt; ;当然也可以直接在 source/直接新建一个 markdown,然后把文件头 type 写为:&lt;code&gt;type: &amp;quot;bangumis&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://xn--ihq6t34jk6j7t6abp2a90f.md&#34;&gt;尝试过可以不用.md&lt;/a&gt;,在_data 里只放上数据文件 bangumis.json 就可以在指定路径生成了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更新/删除数据:&lt;/p&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;hexo &lt;span class=&#34;keyword&#34;&gt;bangumi &lt;/span&gt;-u&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hexo &lt;span class=&#34;keyword&#34;&gt;bangumi &lt;/span&gt;-d&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-5&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;吸底 mini 播放器&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;需要导入 js 并通过导入 css 修改 Aplayer 缩进样式:&lt;/p&gt;
+&lt;p&gt;在_config.yml 里修改有一定限制,inject 只能搞腚 source 中文章的其中某一层目录,多层需要不同层级目录各引用一次,如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;inject:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;head:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;## - &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;./css/mine.css&amp;quot;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;bottom:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;## - &amp;lt;script src=&amp;quot;./js/mine.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;## - &amp;lt;script src=&amp;quot;../js/mine.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;## - &amp;lt;script src=&amp;quot;../../js/mine.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;## - &amp;lt;script src=&amp;quot;../../../js/mine_post.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这里介绍另一种全局 inject 的方法:&lt;/p&gt;
+&lt;p&gt;找到 theme/xxx/layout/includes/layout.pug, 在最后添加如下字段:&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;script(&lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;js/mine.js&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;link(&lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;stylesheet&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;css/mine.css&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;按照上面可以自行修改 JS/CSS 的引入,全局生效(注意有可能 PJAX 会使这种引入的 Js 无效化)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-6&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;用于压缩文件, 参考文章 &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cli 和模块&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install gulp -g&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;npm install gulp-htmlclean gulp-htmlmin gulp-imagemin gulp-minify-css gulp-uglify --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在博客根目录新建&lt;code&gt;gulpfile.js&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; gulp = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;gulp&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; minifycss = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;gulp-minify-css&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; uglify = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;gulp-uglify&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; htmlmin = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;gulp-htmlmin&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; htmlclean = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;gulp-htmlclean&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; imagemin = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;gulp-imagemin&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 压缩html&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;gulp.&lt;span class=&#34;title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;minify-html&amp;quot;&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; gulp&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public/**/*.html&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;title function_&#34;&gt;htmlclean&lt;/span&gt;())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;title function_&#34;&gt;htmlmin&lt;/span&gt;(&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;removeComments&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;minifyJS&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;minifyCSS&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;minifyURLs&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    )&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public&amp;quot;&lt;/span&gt;));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 压缩css&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;gulp.&lt;span class=&#34;title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;minify-css&amp;quot;&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; gulp&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public/**/*.css&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;title function_&#34;&gt;minifycss&lt;/span&gt;(&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;compatibility&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;ie8&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    )&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public&amp;quot;&lt;/span&gt;));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 压缩js&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;gulp.&lt;span class=&#34;title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;minify-js&amp;quot;&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; gulp&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public/js/**/*.js&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(&lt;span class=&#34;title function_&#34;&gt;uglify&lt;/span&gt;())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public&amp;quot;&lt;/span&gt;));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 压缩图片&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;gulp.&lt;span class=&#34;title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;minify-images&amp;quot;&lt;/span&gt;, &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; gulp&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;src&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public/images/**/*.*&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;title function_&#34;&gt;imagemin&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          imagemin.&lt;span class=&#34;title function_&#34;&gt;gifsicle&lt;/span&gt;(&amp;#123; &lt;span class=&#34;attr&#34;&gt;optimizationLevel&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; &amp;#125;),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          imagemin.&lt;span class=&#34;title function_&#34;&gt;jpegtran&lt;/span&gt;(&amp;#123; &lt;span class=&#34;attr&#34;&gt;progressive&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &amp;#125;),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          imagemin.&lt;span class=&#34;title function_&#34;&gt;optipng&lt;/span&gt;(&amp;#123; &lt;span class=&#34;attr&#34;&gt;optimizationLevel&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;7&lt;/span&gt; &amp;#125;),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          imagemin.&lt;span class=&#34;title function_&#34;&gt;svgo&lt;/span&gt;(),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        ],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#123; &lt;span class=&#34;attr&#34;&gt;verbose&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      )&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    )&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;pipe&lt;/span&gt;(gulp.&lt;span class=&#34;title function_&#34;&gt;dest&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;./public/images&amp;quot;&lt;/span&gt;));&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 默认任务&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;gulp.&lt;span class=&#34;title function_&#34;&gt;task&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;default&amp;quot;&lt;/span&gt;, [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;minify-html&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;minify-css&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;minify-js&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;minify-images&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后&lt;code&gt;gulp&lt;/code&gt;就可以压缩了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-7&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;figure class=&#34;highlight ada&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-douban &lt;span class=&#34;comment&#34;&gt;--save&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;douban:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;user:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;userID&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 你的豆瓣 ID.打开豆瓣，登入账户，然后在右上角点击 &amp;quot;个人主页&amp;quot; ，这时候地址栏的 URL 大概是这样：&amp;quot;https://www.douban.com/people/xxxxxx/&amp;quot; ，其中的&amp;quot;xxxxxx&amp;quot;就是你的个人 ID 了。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;builtin:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 是否将生成页面的功能嵌入 hexo s 和 hexo g 中，默认是 false,另一可选项为 true(1.x.x 版本新增配置项)。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;timeout:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;10000&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 爬取数据的超时时间，默认是 10000ms ,如果在使用时发现报了超时的错(ETIMEOUT)可以把这个数据设置的大一点。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;# 如果只想显示某一个页面(比如 movie)，那就把其他的配置项注释掉即可。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;book:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;My book title&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 该页面的标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;quote:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;My book quote&amp;quot;&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# 写在页面开头的一段话,支持 html 语法.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;movie:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;My movie title&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;quote:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;My movie quote&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;game:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;title:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;My game title&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;quote:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;My game quote&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-8&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装依赖和插件&lt;/p&gt;
+&lt;figure class=&#34;highlight autoit&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install object-&lt;span class=&#34;built_in&#34;&gt;assign&lt;/span&gt; hexo-generator-&lt;span class=&#34;built_in&#34;&gt;random&lt;/span&gt; --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应用&lt;/p&gt;
+&lt;p&gt;插件会在根目录生成 &lt;code&gt;random.html&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;deployer-9&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;安装&lt;/p&gt;
+&lt;figure class=&#34;highlight ada&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install hexo-neat &lt;span class=&#34;comment&#34;&gt;--save&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 博文压缩&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;neat_enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;neat_html:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;neat_css:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;**/*.min.css&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;neat_js:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;mangle:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;compress:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;**/*.min.js&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;**/jquery.fancybox.pack.js&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;**/index.js&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一键三连&#34;&gt;一键三连&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;正常的测试流程为&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;hexo clean&lt;/li&gt;
+&lt;li&gt;hexo generate&lt;/li&gt;
+&lt;li&gt;hexo server&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;每次生成需要等一段时间,怎么把它们合成为一条指令呢?参下:&lt;/p&gt;
+&lt;p&gt;定位博客根目录下的&lt;code&gt;package.json&lt;/code&gt;, 修改&lt;code&gt;&amp;quot;scripts&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;scripts&amp;quot;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;quot;&lt;span class=&#34;attribute&#34;&gt;all&lt;/span&gt;&amp;quot;: &lt;span class=&#34;string&#34;&gt;&amp;quot;hexo clean &amp;amp;&amp;amp; hexo generate &amp;amp;&amp;amp; hexo server&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后就可以一键使用了.&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVty2h.png&#34; alt=&#34;20201205150401&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;自定义渲染注入&#34;&gt;自定义渲染注入&lt;/h2&gt;
+&lt;h3 id=&#34;主题文件注入&#34;&gt;主题文件注入&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一般是写在&lt;code&gt;theme/xxx/source/&lt;/code&gt;里的&lt;code&gt;js/css&lt;/code&gt;里面&lt;/p&gt;
+&lt;p&gt;随便起个名字,比如我的叫 mine.js 和 mine.css,里面写上需要的内容&lt;/p&gt;
+&lt;p&gt;在主题配置文件&lt;code&gt;_config.yml&lt;/code&gt;里找到&lt;code&gt;inject:&lt;/code&gt;字段,一般 css 在 head,js 在 bottom 里,如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;inject:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  head:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bottom:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但是务必注意这样引入只对&lt;code&gt;某一层&lt;/code&gt;目录生效,比如上面只对 public/第一层目录生效,其中子目录无效,如果想使其生效:&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;inject:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  head:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;link &lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../../css/mine.css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bottom:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;./js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - &amp;lt;script &lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;../../js/mine.js&amp;quot;&lt;/span&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;喏,这样是让第一二三层生效了,以此类推.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;修改内部文件注入&#34;&gt;修改内部文件注入&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;首先操作如上面一样新建文件并写好 js 和 css 文件,只是注入方式不同&lt;/p&gt;
+&lt;p&gt;找到&lt;code&gt;theme/xxx/layout/include/layout.pug&lt;/code&gt;,在内部添加如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;script(&lt;span class=&#34;attribute&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;js/mine.js&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;link(&lt;span class=&#34;attribute&#34;&gt;rel&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;stylesheet&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;attribute&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;css/mine.css&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;这两个分别是引入 js 和 css,可以分别在 body 和 head 里加入,注意缩进格式!&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解释:&lt;br&gt;
+在 Hexo generate 时会把&lt;code&gt;theme/xxx/source/&lt;/code&gt;里你写的文件复制到&lt;code&gt;public/&lt;/code&gt;对应目录里&lt;/p&gt;
+&lt;p&gt;一般 Hexo 在引用时根目录是&lt;code&gt;public/&lt;/code&gt;,所以上面找的是&lt;code&gt;public/js/mine.js&lt;/code&gt;和&lt;code&gt;public/css/mine.css&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这样注入可能因为渲染位置和时机不对而未生效,需要酌情使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;常见问题&#34;&gt;常见问题&lt;/h2&gt;
+&lt;h3 id=&#34;bangumis-steam-页面图片无法加载&#34;&gt;bangumis-steam-页面图片无法加载&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZMAUSX.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;可能是 lazyload-field 设置为 site 了 (全局), 把它改为 post 就行了&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;lazyload:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;field:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;post&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# site/post&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Pjax-渲染失效解决方案&#34;&gt;Pjax-渲染失效解决方案&lt;/h3&gt;
+&lt;p&gt;用过的都知道 Pjax 可以让网页在非跳转的情况下局部刷新来使网页加载速度提升&lt;/p&gt;
+&lt;p&gt;但是会带来非常多的 Bug,比如某些依赖 JS 渲染和加载的插件无效化,或者监听和交互不奏效&lt;/p&gt;
+&lt;p&gt;网上搜的有些是让各种插件本身屈服 Pjax 各种修改渲染策略&lt;/p&gt;
+&lt;p&gt;这里提出一个虽然不是新方法但是也是个不错的解决方案:&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;文件定位:&lt;/p&gt;
+&lt;p&gt;这里修改的是 Butterfly 自带的 Pjax 第三方 pug,如有不同需要自行查找&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;找到&lt;code&gt;themes/butterfly/layout/includes/third-party/pjax.pug&lt;/code&gt;,打开开始修改&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;定位 &lt;code&gt;document.addEventListener(&#39;pjax:complete&#39;, function ()&lt;/code&gt;这一行,这是监听 Pjax 跳转页面是否完成的函数,并执行跳转完成后的指令&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;复制需要重载的 JS,粘贴到这个函数括号内部,并 Hexo Server 测试一下&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;原理就是让 Pjax 加载完成页面后再让 JS 渲染一遍(但是可能有些局部渲染还是无法生效)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;valine-waline-评论无法加载&#34;&gt;valine-waline-评论无法加载&lt;/h3&gt;
+&lt;p&gt;因为某些原因, 国际版 LeanCloud 与 Vercel 停止国内访问了, 我们可以搞个国外域名给 Vercel 绑上&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;免备案, 有 free 的比如 freedom&lt;/li&gt;
+&lt;li&gt;Vercel 本身是国外服务器, 可以调到国际版 LeanCloud API&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;freedom 自带的域名管理不好用, 添加记录会报错 (Error occured: Wild cards are not allowed!), 推荐转到 DNSPOD 管理&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://my.freenom.com/clientarea.php?action=domaindetails&#34;&gt;https://my.freenom.com/clientarea.php?action=domaindetails&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;manage domain -&amp;gt; management tools -&amp;gt; nameservers -&amp;gt; Use custom nameservers&lt;/p&gt;
+&lt;p&gt;填上下面, 然后在 &lt;a href=&#34;https://console.dnspod.cn/dns/weidows.tk/record&#34;&gt;DNSPOD&lt;/a&gt; 添加对应域名就行了 &lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;elm&lt;span class=&#34;selector-class&#34;&gt;.dnspod&lt;/span&gt;&lt;span class=&#34;selector-class&#34;&gt;.net&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;mushroom&lt;span class=&#34;selector-class&#34;&gt;.dnspod&lt;/span&gt;.net&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;rss-编译出错&#34;&gt;rss-编译出错&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZKIzYE.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;命令行程序/python-notebook 的输出或者网上复制下来的东西有时会带有垂直定位符号 &lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZKIpdv.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 vscode 中会出现红框标出来, 虽然博客页面展示没问题, 但是会导致 rss.xml 文件解析错误, 可以通过报错前的信息定位到符号所在位置&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;deploy-error-github-action&#34;&gt;deploy-error-github_action&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;fatal: could not read Username for ‘&lt;a href=&#34;https://github.com&#34;&gt;https://github.com&lt;/a&gt;’: No such device or address&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;配置格式的问题, 可以参照我的这个配置&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;deploy:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;repo:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;github:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;url:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;https://github.com/Weidows/Weidows.github.io.git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;branch:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;main&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;token:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;xxxxxxxxxxx&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# message: [message]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Weidows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;email:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;ceo@weidows.tech&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://github.com/hexojs/hexo-deployer-git&#34;&gt;https://github.com/hexojs/hexo-deployer-git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/fengdi_yuxi/article/details/94402350&#34;&gt;Hexo 博客之速度优化&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/weixin_34163313/article/details/112220858&#34;&gt;cname 解析教程_3 分钟，免费拥有你的专属域名——免费一级域名注册申请及域名解析教程…&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://blog.51cto.com/laoshifu/4839614&#34;&gt;ASCII 控制字符_mb618d1c8a55b34 的技术博客_51CTO 博客&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
