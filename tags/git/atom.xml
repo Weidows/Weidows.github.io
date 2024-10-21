@@ -1,0 +1,816 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;git&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2020-12-04T03:38:58.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/system/system_variable/</id>
+        <title>💥系统开发环境配置</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/system/system_variable/"/>
+        <content type="html">&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-12-04 11:38:58
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:36:56
+ * @FilePath: \Blog-private\source\_posts\system\system_variable.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B7%B1%E5%85%A5%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&#34;&gt;深入环境变量&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%AB%E4%B9%89&#34;&gt;含义&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%BB%9F%E7%94%A8%E6%88%B7%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F&#34;&gt;系统/用户环境变量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%B8%8E-path&#34;&gt;环境变量与 Path&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BE%E4%BE%8B&#34;&gt;举例&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E7%A7%8D%E9%85%8D%E7%BD%AE&#34;&gt;各种配置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;深入环境变量&#34;&gt;深入环境变量&lt;/h2&gt;
+&lt;h3 id=&#34;含义&#34;&gt;含义&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;理解含义很大程度上就能明白自己到底错在哪里,有些问题靠百度很难搜出来,但是真正解决需要的时间可能&lt;code&gt;远小于百度搜的时间&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Windows 系统上一般使用的终端 console 是 cmd(虽然很辣鸡但还是得用它)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个终端可以直接调用启动&lt;code&gt;.cmd&lt;/code&gt;/&lt;code&gt;.bat&lt;/code&gt;/&lt;code&gt;.exe&lt;/code&gt;这种后缀名的文件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(你可以在你配置的语言\bin\目录下轻易找到 XXX.exe 等等这种文件)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果不输入这种文件的具体路径,终端没法找到这个文件到底在哪里&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是环境变量就相当于在 cmd 上登了记,不写路径直接写名字就能启动,比如环境变量设置为&lt;code&gt;你的JDK\bin\&lt;/code&gt;,然后在 cmd 输入&lt;code&gt;java&lt;/code&gt;,cmd 就是去找这个目录下有没有&lt;code&gt;java.exe&lt;/code&gt;这种文件,有的话,你就配置成功了!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;系统-用户环境变量&#34;&gt;系统/用户环境变量&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个区别在于你的电脑是否是&lt;code&gt;多用户&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果你在用户环境变量配置好了编程环境,那么在 Windows 的另一个用户上无效&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所以,看个人选择,一般来说是在&lt;code&gt;用户区&lt;/code&gt;添加.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;系统环境变量配置好之后需要&lt;code&gt;重启电脑生效&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;环境变量与-Path&#34;&gt;环境变量与 Path&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这个是引用关系,比如 Path 里面的&lt;code&gt;%JAVA_HOME%&lt;/code&gt;会引用名为&lt;code&gt;JAVA_HOME&lt;/code&gt;的环境变量值&lt;/li&gt;
+&lt;li&gt;Path 里面从上到下为优先级,上面的优先级高.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;举例&#34;&gt;举例&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这是华为的 DevEco,安装时会询问是否添加至环境变量,那,添加到环境变量有什么用呢?&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVsqxD.png&#34; alt=&#34;20210307160552&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比如我安装了 VScode,并把 vscode 安装目录它添加环境变量,我们打开一个终端&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;终端打开的路径是 &lt;code&gt;D:\Desktop\&lt;/code&gt; ,在这里执行&lt;code&gt;code&lt;/code&gt; 指令,终端首先去找 &lt;code&gt;D:\Desktop\&lt;/code&gt; 这个目录下有没有叫 &lt;code&gt;Code&lt;/code&gt;的程序,没有的话再去环境变量的路径找,直到找到箭头所指的 VScode 程序本体&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;命令后面可以跟一些参数,比如&lt;code&gt;code .&lt;/code&gt;就是让 VScode 打开当前路径(就是划红线的&lt;code&gt;D:\Desktop\&lt;/code&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVsmaQ.png&#34; alt=&#34;20210307161139&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;各种配置&#34;&gt;各种配置&lt;/h2&gt;
+&lt;div class=&#34;tabs&#34; id=&#34;node.js&#34;&gt;&lt;ul class=&#34;nav-tabs&#34;&gt;&lt;li class=&#34;tab active&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#node.js-1&#34;&gt;Scoop&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#node.js-2&#34;&gt;Node.js&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#node.js-3&#34;&gt;Python&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#node.js-4&#34;&gt;Git&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#node.js-5&#34;&gt;Maven&lt;/button&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;button type=&#34;button&#34; data-href=&#34;#node.js-6&#34;&gt;JDK&lt;/button&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&#34;tab-contents&#34;&gt;&lt;div class=&#34;tab-item-content active&#34; id=&#34;node.js-1&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;详见&lt;a href=&#34;../../tools/Scoop&#34;&gt;🙌Windows 平台软件包管理器选择-Scoop&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;node.js-2&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;详见&lt;a href=&#34;../../Web/Node/node&#34;&gt;⬆ Node.js 环境配置 &amp;amp;&amp;amp; 使用&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;node.js-3&#34;&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Path 中+&lt;/p&gt;
+&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Game\Scoop\apps\python&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Game\Scoop\apps\python\Scripts\&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;建议通过 Scoop 安装 Anaconda, 然后用 Anaconda 安装有关 Python 的所有编程环境.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../others/python/anaconda&#34;&gt;👍Anaconda-Python-水漂浅探池深浅.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;node.js-4&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;用 Scoop 安装自带环境变量,不用配置.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;node.js-5&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;内部修改耦合 &lt;a href=&#34;../../tools/IDEA/Modification#maven&#34;&gt;🎉IDEA 魔改记录.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;环境变量: 用 Scoop 安装不需要手动配置!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;检查&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;mvn -v&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VScode 中设置:&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;&amp;quot;java.configuration.maven.globalSettings&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;D:/Game/Scoop/persist/maven/conf/settings.xml&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IDEA 中设置也需要覆盖&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVshlQ.png&#34; alt=&#34;20210325105220&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;div class=&#34;tab-item-content&#34; id=&#34;node.js-6&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;通过 Scoop 安装会自动设置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新建&lt;code&gt;JAVA_HOME&lt;/code&gt;环境变量值: &lt;code&gt;D:\Game\Demo\AdoptOpenJDK\&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Path 里面添加: &lt;code&gt;%JAVA_HOME%\bin&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JDK 创建 jre: 进入 JDK 根目录管理员模式输入(正常 JDK 自带)&lt;/p&gt;
+&lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bin\jlink&lt;span class=&#34;selector-class&#34;&gt;.exe&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;--module-path&lt;/span&gt; jmods &lt;span class=&#34;attr&#34;&gt;--add-modules&lt;/span&gt; java&lt;span class=&#34;selector-class&#34;&gt;.desktop&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;--output&lt;/span&gt; jre&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;button type=&#34;button&#34; class=&#34;tab-to-top&#34; aria-label=&#34;scroll to top&#34;&gt;&lt;i class=&#34;fas fa-arrow-up&#34;&gt;&lt;/i&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="备忘录" />
+        <category term="Python" />
+        <category term="操作系统" />
+        <category term="Scoop" />
+        <category term="Maven" />
+        <category term="Git" />
+        <category term="nodejs" />
+        <updated>2020-12-04T03:38:58.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/tools/Git/matters.mmd/</id>
+        <title>😒Git-GitHub-操作问题和经验</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/tools/Git/matters.mmd/"/>
+        <content type="html">&lt;h1&gt;Git-GitHub-操作问题和经验&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-21 19:28:51
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-10-15 01:26:25
+ * @FilePath: \Blog-private\source\_posts\tools\Git\matters.mmd.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#git-github-%E6%93%8D%E4%BD%9C%E9%97%AE%E9%A2%98%E5%92%8C%E7%BB%8F%E9%AA%8C&#34;&gt;Git-GitHub-操作问题和经验&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9E%E7%94%A8%E6%93%8D%E4%BD%9C&#34;&gt;实用操作&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%89%E7%A7%8D%E5%90%88%E5%B9%B6%E6%96%B9%E5%BC%8F&#34;&gt;三种合并方式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#merge&#34;&gt;merge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#squash&#34;&gt;squash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#rebase&#34;&gt;rebase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86&#34;&gt;配置代理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%89%88%E6%9C%AC%E5%9B%9E%E9%80%80&#34;&gt;版本回退&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BC%A9%E5%B0%8F%E4%BB%93%E5%BA%93%E4%BD%93%E7%A7%AF&#34;&gt;缩小仓库体积&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A0%E9%99%A4%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95&#34;&gt;删除提交记录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%86%E6%94%AF%E7%8B%AC%E7%AB%8B%E6%B3%95&#34;&gt;分支独立法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#github&#34;&gt;GitHub&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A6%96%E9%A1%B5%E7%BB%BF%E6%A0%BC%E5%AD%90&#34;&gt;首页绿格子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#license-choice&#34;&gt;License-choice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#pages-%E5%9F%9F%E5%90%8D&#34;&gt;pages-域名&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A0%E9%99%A4%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF&#34;&gt;删除远程分支&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#github-action&#34;&gt;github-action&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#checkout&#34;&gt;checkout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9B%BD%E5%86%85%E6%97%B6%E5%8C%BA%E9%94%99%E4%BD%8D%E9%97%AE%E9%A2%98&#34;&gt;国内时区错位问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#error-when-deploy2server&#34;&gt;error-when-deploy2server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#jsdelivr-%E5%88%B7%E6%96%B0%E7%BC%93%E5%AD%98&#34;&gt;JsDelivr-刷新缓存&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ssh-config-github-%E5%A4%9A%E8%B4%A6%E5%8F%B7&#34;&gt;ssh-config-github-多账号&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%87%AD%E8%AF%81%E5%92%8C%E6%9D%83%E9%99%90&#34;&gt;凭证和权限&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%AE%E9%A2%98%E4%B8%80&#34;&gt;问题一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%AE%E9%A2%98%E4%BA%8C&#34;&gt;问题二&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%AE%E9%A2%98%E4%B8%89&#34;&gt;问题三&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%AE%E9%A2%98%E5%9B%9B&#34;&gt;问题四&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;实用操作&#34;&gt;实用操作&lt;/h2&gt;
+&lt;h3 id=&#34;三种合并方式&#34;&gt;三种合并方式&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GhMkF1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;设当前 git-status:&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+    A --&amp;gt; B
+
+    B --master--&amp;gt; C --&amp;gt; D --&amp;gt; E --&amp;gt; F --&amp;gt; G
+    B -.dev.-&amp;gt; C1
+
+
+    subgraph merge-target
+      C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+    end
+  &lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;merge&#34;&gt;merge&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;合大分支常用&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;保留所有 commit 信息,merge 操作生成一个 merge-commit&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+  A --&amp;gt; B
+
+  B --master--&amp;gt; C
+  B -.dev.-&amp;gt; C1
+
+  C --&amp;gt; D --&amp;gt; E --&amp;gt; F --&amp;gt; C1&amp;#39;
+  subgraph before-merge
+    C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+  end
+
+  F1 .-&amp;gt; C1&amp;#39;
+
+  subgraph after-merge
+    C1&amp;#39;[C1] --&amp;gt; D1&amp;#39;[D1] --&amp;gt; E1&amp;#39;[E1] --&amp;gt; F1&amp;#39;[F1]
+  end
+
+  F1&amp;#39; --&amp;gt; G
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h4 id=&#34;squash&#34;&gt;squash&lt;/h4&gt;
+&lt;p&gt;压缩合并, 将几次提交的信息合并, &lt;code&gt;很不常用&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;需手动提交所以会改变 commit-user &lt;sup id=&#39;cite_ref-01&#39;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;适用场景为: 同一开发者负责的两 branch, 并且被合并的 branch 记录并不重要&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+  A --&amp;gt; B
+
+  B --master--&amp;gt; C
+  B -.dev.-&amp;gt; C1
+
+
+  subgraph before-merge
+    C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+  end
+  F1 .-&amp;gt; C1-F1
+
+  C --&amp;gt; D --&amp;gt; E --&amp;gt; F --&amp;gt; G
+
+  subgraph after-merge
+    C1-F1
+  end
+  G --&amp;gt; C1-F1
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h4 id=&#34;rebase&#34;&gt;rebase&lt;/h4&gt;
+&lt;p&gt;rebase 变基不会像 squash 那样变更 commit-user 信息, 而且 commit 的合并是手动选择性的&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;常用于在某一 pull request 内的分支合并&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;比如下面合并 commit D1 和 E1, 然后 rebase&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;总图&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+    A --&amp;gt; B --master--&amp;gt; C --&amp;gt; D --&amp;gt; E --&amp;gt; F
+    F -.dev.-&amp;gt; C1&amp;#39;
+
+    B -.dev.-&amp;gt; C1
+    subgraph before-merge
+      C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+    end
+
+    F1 .-&amp;gt; C1&amp;#39;
+
+    subgraph rebase
+      C1&amp;#39;[C1] --&amp;gt; D1-E1 --&amp;gt; F1&amp;#39;[F1]
+    end
+
+    F --master--&amp;gt; C1&amp;#39;&amp;#39;
+    F1&amp;#39; .-&amp;gt; C1&amp;#39;&amp;#39;
+
+    subgraph after-merge
+      C1&amp;#39;&amp;#39;[C1] --&amp;gt; D1-E1&amp;#39;[D1-E1] --&amp;gt; F1&amp;#39;&amp;#39;[F1]
+    end
+
+    F1&amp;#39;&amp;#39; --&amp;gt; G
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分三步图&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+    A --&amp;gt; B
+
+    B --master--&amp;gt; C --&amp;gt; D --&amp;gt; E --&amp;gt; F
+    B -.dev.-&amp;gt; C1
+
+    subgraph before-merge
+      C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+    end
+
+    F --&amp;gt; G
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+    A --&amp;gt; B --master--&amp;gt; C --&amp;gt; D --&amp;gt; E --&amp;gt; F
+    F -.dev.-&amp;gt; C1&amp;#39;
+
+    B -.dev.-&amp;gt; C1
+    subgraph before-merge
+      C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+    end
+
+    F1 .-&amp;gt; C1&amp;#39;
+
+    subgraph rebase
+      C1&amp;#39;[C1] --&amp;gt; D1-E1 --&amp;gt; F1&amp;#39;[F1]
+    end
+
+    F --master--&amp;gt; G
+  &lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+    A --&amp;gt; B --master--&amp;gt; C --&amp;gt; D --&amp;gt; E --&amp;gt; F
+    F --&amp;gt; C1&amp;#39;
+
+    B -.dev.-&amp;gt; C1
+    subgraph before-merge
+      C1 --&amp;gt; D1 --&amp;gt; E1 --&amp;gt; F1
+    end
+
+    subgraph after-merge
+      C1&amp;#39; --&amp;gt; D1-E1 --&amp;gt; F1&amp;#39;
+    end
+    F1&amp;#39; --&amp;gt; G
+  &lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;配置代理&#34;&gt;配置代理&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有时候 github 会被墙,导致无法推送,需要挂代理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;方案:&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git config --global https.proxy http://127.0.0.1:1080&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;或者直接修改&lt;code&gt;~/.gitconfig&lt;/code&gt;文件&lt;/p&gt;
+&lt;figure class=&#34;highlight ini&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[core]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;autocrlf&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;longpaths&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;editor&lt;/span&gt; = code.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[user]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt; = Weidows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;email&lt;/span&gt; = utsuko27@qq.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[http]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;proxy&lt;/span&gt; = localhost://&lt;span class=&#34;number&#34;&gt;127.0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0.1&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;7890&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[https]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;proxy&lt;/span&gt; = localhost://&lt;span class=&#34;number&#34;&gt;127.0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0.1&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;7890&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;版本回退&#34;&gt;版本回退&lt;/h3&gt;
+&lt;p&gt;不小心把 ssh 私钥 copy 到了 git 库里提到了 github 上,差点 GG&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/yxlshk/article/details/79944535&#34;&gt;Git 恢复之前版本的两种方法 reset、revert（图文详解）&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;reset 到出错提交的前一个提交&lt;/li&gt;
+&lt;li&gt;修改,提交&lt;/li&gt;
+&lt;li&gt;强制提交(不强制的话不行): git push origin master -f&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;缩小仓库体积&#34;&gt;缩小仓库体积&lt;/h3&gt;
+&lt;h4 id=&#34;删除提交记录&#34;&gt;删除提交记录&lt;/h4&gt;
+&lt;p&gt;有的仓库因为有时候会提交图片,导致仓库体积格外的庞大&lt;/p&gt;
+&lt;p&gt;而且大到一定程度会被平台检查 (所以要想办法缩小)&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我要压缩的是 &lt;a href=&#34;https://github.com/Weidows-projects/Keeper&#34;&gt;Keeper&lt;/a&gt; 项目&lt;/p&gt;
+&lt;p&gt;因为每天都要提交一张必应壁纸,所以一年下来体积到了 400+ MB&lt;/p&gt;
+&lt;p&gt;我想把壁纸拿走,并且把 git 中提交记录也删掉以抹除体积&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开始我想的是把现有文件复制到一个新建的库,再把这个库 force push 到 github&lt;/p&gt;
+&lt;p&gt;出乎意料,旧的提交并没有消失; 可以看到强推 &lt;code&gt;重构&lt;/code&gt; 前面有一个断档,那之前的就是旧提交&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLue9.png&#34; alt=&#34;20211102134046&#34; /&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为什么出现这情况? 我给画了个图&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVt8KP.png&#34; alt=&#34;20211102144127&#34; /&gt;
+&lt;p&gt;所以,原因是没删除 github 上的 tags,删掉就没了捏&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;分支独立法&#34;&gt;分支独立法&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;起初使用的是上面的方法,后来突然想到把这些大文件独立分支&lt;/p&gt;
+&lt;p&gt;当需要减小体积时,本地保留好当前内容然后直接删除分支&lt;/p&gt;
+&lt;p&gt;再重新拉起一个同名分支 force push&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个方法应该更好些,避免删除不必要内容.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;GitHub&#34;&gt;GitHub&lt;/h2&gt;
+&lt;h3 id=&#34;首页绿格子&#34;&gt;首页绿格子&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 不显示 fork 仓库的 commit, 需要独立出来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;License-choice&#34;&gt;License-choice&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVao5P.png&#34; alt=&#34;License&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一般盲怼 &lt;code&gt;MIT&lt;/code&gt; 就好,不过上图没给出&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;感觉菜鸟教程的文章最详细: &lt;a href=&#34;https://www.runoob.com/w3cnote/open-source-license.html&#34;&gt;各种开源协议介绍&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;pages-域名&#34;&gt;pages-域名&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub 与 Gitee-pages 部署域名规则不同.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;github 上当且仅当 Repo 名字为&lt;code&gt;userName.github.io&lt;/code&gt;时,域名为&lt;code&gt;userName.github.io&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;其他 Repo 名字为&lt;code&gt;userName.github.io/repoName/&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gitee 是当且仅当 Repo 名字为&lt;code&gt;userName.gitee.io&lt;/code&gt;时,域名为&lt;code&gt;userName.gitee.io&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;否则类似上面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;删除远程分支&#34;&gt;删除远程分支&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;不能删除当前默认分支.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;github-action&#34;&gt;github-action&lt;/h3&gt;
+&lt;h4 id=&#34;checkout&#34;&gt;checkout&lt;/h4&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVtV5z.png&#34; alt=&#34;20211124165145&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;checkout 默认下只会检出默认分支,不会 clone submodules,可以设置自定义&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Clone&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;repository&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;uses:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;actions/checkout@v2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;with:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;ref:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;dev&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;# checkout dev branch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;submodules:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;国内时区错位问题&#34;&gt;国内时区错位问题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;我在东八区,布置的 GitHub Action 是 0 点执行
+&lt;ul&gt;
+&lt;li&gt;结果是在早上八点多才执行的(大概是八点半左右,误差&amp;lt;5min)&lt;/li&gt;
+&lt;li&gt;因为 GitHub 服务器不是在国内,时区不同,其对应的大概是欧洲伦敦那块的标准时区.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;结论&lt;/code&gt;:布置 Action 定时任务时,设置的时间要早八个小时(对应东八区)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;error-when-deploy2server&#34;&gt;error-when-deploy2server&lt;/h4&gt;
+&lt;p&gt;github action upload files to server via ssh, 本地可以, 但 action 不行&lt;/p&gt;
+&lt;p&gt;一定要加上最后的 &lt;code&gt;StrictHostKeyChecking=no&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight sas&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bzip2: I/O &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; other &lt;span class=&#34;keyword&#34;&gt;error&lt;/span&gt;, bailing &lt;span class=&#34;keyword&#34;&gt;out&lt;/span&gt;.  Possible reason follows.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bzip2: Broken pipe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;Input&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; = (stdin), &lt;span class=&#34;keyword&#34;&gt;output&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; = (stdout)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Host &lt;span class=&#34;keyword&#34;&gt;key&lt;/span&gt; verification failed.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bzip2: i/o &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; other &lt;span class=&#34;keyword&#34;&gt;error&lt;/span&gt;, bailing &lt;span class=&#34;keyword&#34;&gt;out&lt;/span&gt;. possible reason follows.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight perl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;ssh -i ~&lt;span class=&#34;regexp&#34;&gt;/.ssh/id&lt;/span&gt;_rsa -o StrictHostKeyChecking=&lt;span class=&#34;keyword&#34;&gt;no&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;JsDelivr-刷新缓存&#34;&gt;JsDelivr-刷新缓存&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;把 &lt;code&gt;fastly.jsdelivr.net&lt;/code&gt; 换为 &lt;code&gt;purge.jsdelivr.net&lt;/code&gt; 访问几次 &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;返回的 JSON 显示 cdn 更新时间戳&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;0p2xZacfrSQPrdsO&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;status&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;finished&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;timestamp&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;2022-03-26T05:31:48.172Z&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;paths&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;/gh/Weidows-projects/live2d-moc3/dist/live2d.min.js&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;throttled&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;throttlingReset&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;3554&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;最近测试似乎失效了…&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ssh-config-github-多账号&#34;&gt;ssh-config-github-多账号&lt;/h3&gt;
+&lt;figure class=&#34;highlight crmsh&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# GitHub Personal Account&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Host github.com-personal&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  HostName github.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;User&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  IdentityFile ~/.ssh/id_rsa_github_personal&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  IdentitiesOnly yes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# GitHub Work Account&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Host github.com-work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  HostName github.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;User&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;git&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  IdentityFile ~/.ssh/id_rsa_github_work&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  IdentitiesOnly yes&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;凭证和权限&#34;&gt;凭证和权限&lt;/h2&gt;
+&lt;h3 id=&#34;问题一&#34;&gt;问题一&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;本地 git 有时候会遇到 github 凭证失效问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 VScode 里的 git 仓库失效后会老是催你登陆,没完没了&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(VScode 让你登录后只是暂时性的,你关闭后就还是会失效)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解决办法: VScode 让登录时一次,然后保存凭证就好了!&lt;/p&gt;
+&lt;figure class=&#34;highlight llvm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git config --&lt;span class=&#34;keyword&#34;&gt;global&lt;/span&gt; credential.helper &lt;span class=&#34;keyword&#34;&gt;store&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;问题二&#34;&gt;问题二&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;推送时报:“无权限推送到 xxx 仓库”&lt;/p&gt;
+&lt;p&gt;问题原因是&lt;code&gt;本地的认证失效了&lt;/code&gt;,但是 Git 并不会自动清除让你重新认证&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我遇到这个问题是在 Git 某次更新后, &lt;code&gt;credential.helper store&lt;/code&gt; 情况下.&lt;/p&gt;
+&lt;p&gt;解决办法: 删掉 &lt;code&gt;~/.git-credentials&lt;/code&gt; 这个文件,它失效了,重新认证一下就好&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;问题三&#34;&gt;问题三&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;push 本地仓库到 github 时遇到:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;refusing to allow an OAuth App to create or update workflow `.github/workflo&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是由于仓库中更改了 workflow(github-action) 的内容,而且本地 git 仓库是用 OAuth 方式认证的&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解决办法的话,网上其他文章是一水的改凭据 (我不想这么干)&lt;/p&gt;
+&lt;p&gt;两种办法,配置 ssh-key 或者可以试着安装 &lt;code&gt;github-cli&lt;/code&gt; ,然后用 PTA (personal access token) 认证登录 (如果已经登录过就再次刷新登录)&lt;/p&gt;
+&lt;figure class=&#34;highlight xl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;gh auth login&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;是否用&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;github&lt;/span&gt;-cli来认证github网站 -&amp;gt;&lt;/span&gt; 是&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HTTPS/SS&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;h&lt;/span&gt; -&amp;gt;&lt;/span&gt; 选HTTPS&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;填入PTA登录成功&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;成功后可以看到 ~/.gitconfig 多了几行&lt;/p&gt;
+&lt;figure class=&#34;highlight taggerscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[credential &amp;quot;https://github.com&amp;quot;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  helper = !D:&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Game&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Scoop&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;apps&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;Github-CLI&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;current&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;bin&lt;span class=&#34;symbol&#34;&gt;\\&lt;/span&gt;gh.exe auth git-credential&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;现在再次推送应该没问题了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;问题四&#34;&gt;问题四&lt;/h3&gt;
+&lt;figure class=&#34;highlight livecodeserver&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;gt; git pull &lt;span class=&#34;comment&#34;&gt;--tags origin master&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;From &lt;span class=&#34;keyword&#34;&gt;https&lt;/span&gt;://github.com/Weidows-projects/Programming-Configuration&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; * branch            master     -&amp;gt; FETCH_HEAD&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: You have divergent branches &lt;span class=&#34;keyword&#34;&gt;and&lt;/span&gt; need &lt;span class=&#34;built_in&#34;&gt;to&lt;/span&gt; specify how &lt;span class=&#34;built_in&#34;&gt;to&lt;/span&gt; reconcile them.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: You can &lt;span class=&#34;built_in&#34;&gt;do&lt;/span&gt; so &lt;span class=&#34;keyword&#34;&gt;by&lt;/span&gt; running &lt;span class=&#34;literal&#34;&gt;one&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;the&lt;/span&gt; following commands sometime &lt;span class=&#34;keyword&#34;&gt;before&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: your next pull:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint:   git config pull.rebase &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;  &lt;span class=&#34;comment&#34;&gt;# merge (the default strategy)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint:   git config pull.rebase &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;   &lt;span class=&#34;comment&#34;&gt;# rebase&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint:   git config pull.ff only       &lt;span class=&#34;comment&#34;&gt;# fast-forward only&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: You can &lt;span class=&#34;built_in&#34;&gt;replace&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;git config&amp;quot;&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;git config --global&amp;quot;&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;a&lt;/span&gt; default&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: preference &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; all repositories. You can also pass &lt;span class=&#34;comment&#34;&gt;--rebase, --no-rebase,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: &lt;span class=&#34;keyword&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;--ff-only on the command line to override the configured default per&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hint: invocation.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fatal: Need &lt;span class=&#34;built_in&#34;&gt;to&lt;/span&gt; specify how &lt;span class=&#34;built_in&#34;&gt;to&lt;/span&gt; reconcile divergent branches.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;解决:&lt;/p&gt;
+&lt;figure class=&#34;highlight arduino&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git config pull.ff &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;git config --global pull.rebase &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fenovice.com/&#34;&gt;https://www.fenovice.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;更好的办法是换一个Git版本&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-01&#39; href=&#39;#cite_ref-01&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.jianshu.com/p/ff1877c5864e&#34;&gt;git merge 的三种操作 merge, squash merge, 和 rebase merge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://github.com/wayne0926/jsd&#34;&gt;https://github.com/wayne0926/jsd&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="Git" />
+        <category term="Github" />
+        <category term="Gitee" />
+        <category term="Action" />
+        <category term="branch" />
+        <category term="release" />
+        <updated>2020-11-21T11:28:51.000Z</updated>
+    </entry>
+</feed>

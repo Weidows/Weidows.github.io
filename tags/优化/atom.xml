@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;优化&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2021-02-06T17:11:24.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/Web/Node/Hexo/optimize/</id>
+        <title>🚀网站优化记录.</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/Web/Node/Hexo/optimize/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-02-07 01:11:24
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-08-29 15:15:38
+ * @FilePath: \Blog-private\source\_posts\Web\Node\Hexo\optimize.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#why&#34;&gt;Why?&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#why-do-this&#34;&gt;&lt;code&gt;Why do this?&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A6%82%E8%A7%88&#34;&gt;概览&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A5%91%E5%90%88&#34;&gt;契合&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BC%98%E5%8C%96-css&#34;&gt;优化 css&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BC%98%E5%8C%96-js&#34;&gt;优化 js&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%86%8D%E6%AC%A1%E9%AD%94%E6%94%B9&#34;&gt;再次魔改&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Why&#34;&gt;Why?&lt;/h2&gt;
+&lt;h3 id=&#34;Why-do-this&#34;&gt;&lt;code&gt;Why do this?&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这网站有太多需要简化的东西了,很多样式是&lt;code&gt;直接引入的css和js&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;巨耗费渲染性能和时间(可以感觉出来加载这网站挺费劲的)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;概览&#34;&gt;概览&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;对于 css 的所有修改,全部整合进&lt;code&gt;mine.styl&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;编译时就已经做好美化,额外资源负载几乎降为 0&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注入到&lt;code&gt;index.styl&lt;/code&gt;末尾.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;js 的美化,全部整合到 &lt;code&gt;utils.js&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;请求数加 0,加载策略优化,时间降低; Weidows对象直接全局加载生效且不被GC.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把 js 代码全堆在最后,暴露 &lt;code&gt;Weidows.re()&lt;/code&gt; 供 pjax 调用.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pug 的修改降低为 3 处,方便升级换代,都在此目录下: &lt;code&gt;themes\butterfly\layout\includes\&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;additional-js.pug&lt;/code&gt; - 末尾追加樱花特效&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;footer.pug&lt;/code&gt;- 页脚标签+改注脚样式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;third-party\pjax.pug&lt;/code&gt; - 调用 &lt;a href=&#34;http://Weidows.re&#34;&gt;Weidows.re&lt;/a&gt;(),适配 pjax 刷新&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;契合&#34;&gt;契合&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;结合 &lt;a href=&#34;./butterfly_modify&#34;&gt;butterfly 内部魔改记录&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;优化-css&#34;&gt;优化 css&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;以往的 css 是直接引入的文件,在客户端加载时还是会耗费一些不菲时间加载+渲染出来&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;优化思路就是把 css 变成&lt;code&gt;styl&lt;/code&gt;,使之在编译生成 HTML 文件时就把样式改了,节省客户端耗费.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如下:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;新建一个名为 &lt;code&gt;mine.styl&lt;/code&gt; 的文件.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;原 css 文件就是&lt;code&gt;mine.css&lt;/code&gt;,用&lt;a href=&#34;https://html5beta.com/tools/css2stylus.html&#34;&gt;&lt;code&gt;css2styl&lt;/code&gt;&lt;/a&gt;转换为 styl 格式,粘贴到 &lt;code&gt;mine.styl&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注意这个网站转换成的 styl 有很多 bug(包括缩进和括号,需要人工检验)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVFlgb.png&#34; alt=&#34;20210207134449&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;包括原先&lt;code&gt;source/css/_global/function.styl&lt;/code&gt;之类的内添加或修改的样式,也可以转入 mine.styl.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后在&lt;code&gt;index.styl&lt;/code&gt;中引入:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在末尾加上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight styl&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//mine&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;@import&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;_mine/mine.styl&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用 &lt;code&gt;hexo server&lt;/code&gt; 测试一下,应该没问题~&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这样 css 优化就完成了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;优化-js&#34;&gt;优化 js&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;跟 css 一样,我原先也是直接一个&lt;code&gt;mine.js&lt;/code&gt;引入的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虽然没啥问题,但是会导致页面第二次加载渲染,而且多了一个请求数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是,我想直接把它淦进&lt;code&gt;main.js&lt;/code&gt;中!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;操作不复杂,直接复制&lt;code&gt;mine.js&lt;/code&gt;内容,粘贴进&lt;code&gt;main.js&lt;/code&gt;最后&lt;/li&gt;
+&lt;li&gt;注意不是最末尾&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 粘贴到这里&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;title function_&#34;&gt;refreshFn&lt;/span&gt;();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;title function_&#34;&gt;unRefreshFn&lt;/span&gt;();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;再次魔改&#34;&gt;再次魔改&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;因为某些美化函数会被 pjax 功能搞失效,直接把函数放进 main.js 的话,pjax 无法再次使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所以我把美化 js 打包并弄进 &lt;code&gt;butterfly/layout/head.pug&lt;/code&gt; 中,在页面编译时就会被添加到 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 内,加载时间和请求数不增加!&lt;/p&gt;
+&lt;p&gt;现在,加载逻辑是: js 美化代码在 HTML 文件的 head 中,然后在 main.js 最后写一句调用命令; 在页面用了 pjax 加载时,pjax.pug 中的重渲染函数会被调用.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="Website" />
+        <category term="Hexo" />
+        <category term="优化" />
+        <category term="魔改" />
+        <updated>2021-02-06T17:11:24.000Z</updated>
+    </entry>
+</feed>
