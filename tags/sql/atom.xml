@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;sql&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2021-08-17T09:29:17.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="树莓派" />
+    <category term="服务器" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="虚拟机" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/experience/dev/problem/</id>
+        <title>🚚开发之旅~</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/experience/dev/problem/"/>
+        <content type="html">&lt;h1&gt;开发之旅~&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:25:24
+ * @FilePath: \Blog-private\source\_posts\experience\dev\problem.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%80%E5%8F%91%E4%B9%8B%E6%97%85&#34;&gt;开发之旅~&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%80%E4%BB%8B&#34;&gt;简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E5%BA%93&#34;&gt;数据库&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E7%B3%8A%E6%9F%A5%E8%AF%A2&#34;&gt;模糊查询&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#where&#34;&gt;where&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%9A%E7%B4%A2%E5%BC%95%E6%8E%92%E5%BA%8F&#34;&gt;多索引排序&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mariadb-%E6%97%A0%E6%B3%95%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5&#34;&gt;Mariadb-无法远程连接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E6%BA%90%E8%BF%9E%E6%8E%A5%E4%B8%8D%E4%B8%8A&#34;&gt;数据源连接不上&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%96%E9%94%AE-%E6%95%B0%E6%8D%AE-%E5%AF%BC%E5%87%BA%E5%85%A5&#34;&gt;外键-数据-导出入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mongodb&#34;&gt;mongodb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A5%E5%8F%A3%E9%97%AE%E9%A2%98&#34;&gt;接口问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A5%E5%8F%A3%E6%95%B0%E6%8D%AE%E9%80%9F%E8%A7%88&#34;&gt;接口数据速览&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#api-request-body&#34;&gt;API-request-body&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%E8%B0%83%E4%B8%8D%E9%80%9A&#34;&gt;本地服务调不通&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96-%E6%96%B9%E6%B3%95%E5%90%8D%E8%AE%BE%E8%AE%A1&#34;&gt;数据获取-方法名设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93&#34;&gt;文件传输&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#json-2-struct&#34;&gt;JSON-2-struct&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A8%8B%E5%BA%8F%E5%86%99%E6%B3%95%E9%97%AE%E9%A2%98&#34;&gt;程序写法问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#map-and-filter&#34;&gt;map-and-filter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B4%E6%95%B0%E8%AE%A1%E7%AE%97%E9%A1%BA%E5%BA%8F&#34;&gt;整数计算顺序&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#devops&#34;&gt;Devops&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ali-k8s-%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8&#34;&gt;ali-k8s-服务调用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;一顿课程下来,SQL 语法是熟悉了,但是做到业务层面,不圆滑之处暴露出来惹.&lt;/p&gt;
+&lt;p&gt;不只是 SQL,包括工作中常用的技巧.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据库&#34;&gt;数据库&lt;/h2&gt;
+&lt;h3 id=&#34;模糊查询&#34;&gt;模糊查询&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;包括模糊查询中文 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;中/英都可以正常查询:&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;selectByBean&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;resultMap&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;BaseResultMap&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  select&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;refid&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Base_Column_List&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  from test&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;where&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;test&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;name != null and name != &amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      and name like concat(&amp;#x27;%&amp;#x27;,#&amp;#123;name&amp;#125;,&amp;#x27;%&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;test&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;url != null and url != &amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      and cut_url like concat(&amp;#x27;%&amp;#x27;,#&amp;#123;url&amp;#125;,&amp;#x27;%&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;where&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;select&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;where&#34;&gt;where&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开发中可能经常见到: &lt;code&gt;where 1 = 1&lt;/code&gt; ,这是干什么用的?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;拿上面的举例子,把它变成下面这样子:&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;selectByBean&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;resultMap&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;BaseResultMap&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  select&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;refid&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Base_Column_List&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  from test&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  where&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;test&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;name != null and name != &amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    name like concat(&amp;#x27;%&amp;#x27;,#&amp;#123;name&amp;#125;,&amp;#x27;%&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;test&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;url != null and url != &amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    and cut_url like concat(&amp;#x27;%&amp;#x27;,#&amp;#123;url&amp;#125;,&amp;#x27;%&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;select&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果 name == null,那么 SQL 会是这样:&lt;/p&gt;
+&lt;p&gt;where and cut_url like concat(‘%’,#{url},‘%’)&lt;/p&gt;
+&lt;p&gt;肯定会报错&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;改成这样子就没问题了:&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;selectByBean&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;resultMap&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;BaseResultMap&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  select&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;refid&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;Base_Column_List&amp;quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  from test&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  where 1 = 1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;test&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;name != null and name != &amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    name like concat(&amp;#x27;%&amp;#x27;,#&amp;#123;name&amp;#125;,&amp;#x27;%&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;test&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;url != null and url != &amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    and cut_url like concat(&amp;#x27;%&amp;#x27;,#&amp;#123;url&amp;#125;,&amp;#x27;%&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;if&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;select&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 SQL 支持的情况下,还是套&lt;code&gt;&amp;lt;where&amp;gt;&lt;/code&gt;标签更好,它能处理 &lt;code&gt;where and&lt;/code&gt; 这种情况.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;多索引排序&#34;&gt;多索引排序&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;有时一个表中多个字段需要加索引&lt;/p&gt;
+&lt;p&gt;但是这样导致每次添加/更新数据时排序都会变化&lt;/p&gt;
+&lt;p&gt;前端接到的数据可以认为是无序化的,如何解决呢?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;挺简单的 &lt;code&gt;order by id&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Mariadb-无法远程连接&#34;&gt;Mariadb-无法远程连接&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 manjaro 虚拟机装了个 mariadb&lt;/p&gt;
+&lt;p&gt;主机与虚拟机已经连通,但是 mariadb 无法连接上 (授权失败)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Host ‘192.168.114.1’ is not allowed to connect to this MariaDB server&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因为 mariadb 默认只允许 localhost 连接&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网上找了一堆文章,大多是 &lt;code&gt;grant 授权&lt;/code&gt; , &lt;code&gt;改配置文件&lt;/code&gt; 之类的&lt;/p&gt;
+&lt;p&gt;试了下,各种碰壁 , 这里给个简单方法&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;直接 &lt;code&gt;新建一个用户&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;用户名随意 , host 填 &lt;code&gt;%&lt;/code&gt; (也就是允许所有)&lt;/p&gt;
+&lt;p&gt;远程连接时连这个用户就行了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;数据源连接不上&#34;&gt;数据源连接不上&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Failed to bind properties under ‘’ to com.zaxxer.hikari.HikariDataSource&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这个情况大多是配置属性没写对,重点看一下标记的地方&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAKQR.png&#34; alt=&#34;20210925193945&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;外键-数据-导出入&#34;&gt;外键-数据-导出入&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;结组做数据库课设时发现,含有外键的表,create table 时会报错.&lt;/p&gt;
+&lt;p&gt;解决办法呢,比如下面的三个表&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVA0EY.png&#34; alt=&#34;20211204085119&#34; /&gt;
+&lt;p&gt;先把 player 和 technology 两个表创建好,再创建 good_at 就不会报错了&lt;/p&gt;
+&lt;p&gt;(&lt;code&gt;也就是需要先创建外键指向的表,再创建含有外键的表&lt;/code&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;insert 时还是会遇到问题,跟上面类似&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (&lt;code&gt;test&lt;/code&gt;.&lt;code&gt;test_user&lt;/code&gt;, CONSTRAINT &lt;code&gt;fk_test_user_test_user_id&lt;/code&gt; FOREIGN KEY (&lt;code&gt;test_user_id&lt;/code&gt;) REFERENCES &lt;code&gt;test_user&lt;/code&gt; (&lt;code&gt;id&lt;/code&gt;))&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;先插入 player / technology 表,再插入 good_at 表&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;实则还有种变相解决方法是在插入前 foreign_key_checks,插入后再打开:&lt;/p&gt;
+&lt;figure class=&#34;highlight sql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;set&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  FOREIGN_KEY_CHECKS &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;INSERT&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;INTO&lt;/span&gt; game(id,name,score,player) &lt;span class=&#34;keyword&#34;&gt;VALUES&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;aggdm&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;cmera&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;hzxgy&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;ihqti&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;hozmy&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;wrcux&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;mlijv&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;qmnij&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;vswdc&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;),(&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;,&lt;span class=&#34;string&#34;&gt;&amp;#x27;gebit&amp;#x27;&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;set&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  FOREIGN_KEY_CHECKS &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mongodb&#34;&gt;mongodb&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;mongo find array size&amp;gt;1 的记录&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;db.image.find(&amp;#123; images : &amp;#123; $size: &amp;#123; $gt : 1 &amp;#125; &amp;#125;&amp;#125;)&lt;/code&gt; 这样是不行的, Query failed with error code 2 with name ‘BadValue’ and error message ‘$size needs a number’ on server &lt;sup id=&#39;cite_ref-6&#39;&gt;&lt;a href=&#34;#cite_note-6&#34;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight sql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;db.prompt_krea.find(&amp;#123;&amp;quot;$expr&amp;quot;:&amp;#123;$gt :[&amp;#123;$size: &amp;quot;$images&amp;quot;&amp;#125;,&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&amp;#125;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;mongodb update array &lt;sup id=&#39;cite_ref-5&#39;&gt;&lt;a href=&#34;#cite_note-5&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight sql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;db.image.update(&amp;#123; nums : &amp;#123; $addToSet: &lt;span class=&#34;number&#34;&gt;123&lt;/span&gt; &amp;#125; &amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;接口问题&#34;&gt;接口问题&lt;/h2&gt;
+&lt;h3 id=&#34;接口数据速览&#34;&gt;接口数据速览&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;前端接到 JSON 数据总是需要看一下,通过 postman 那种不是很便捷&lt;/p&gt;
+&lt;p&gt;于是之前我一直是找到响应-&amp;gt;复制-&amp;gt;粘贴到 vscode 格式化&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAj6c.png&#34; alt=&#34;20211015130205&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;偶然发现有个更方便的手段: 浏览器&lt;code&gt;前端助手插件&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;安装后直接双击请求,跳出的新页面就是已经格式化好的&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVtIXg.png&#34; alt=&#34;20211015130109&#34; /&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVS6hz.png&#34; alt=&#34;20211015130815&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;API-request-body&#34;&gt;API-request-body&lt;/h3&gt;
+&lt;p&gt;在调用 &lt;code&gt;https://securetoken.googleapis.com/v1/token&lt;/code&gt; 时, 发现报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;error&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;code&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;400&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;message&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;MISSING_GRANT_TYPE&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;status&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;INVALID_ARGUMENT&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;找了半天原因, 以为是参数/header 不对, 最后发现是传入格式不对 (用的 form-data 请求的)&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZpFGfM.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;请求的参数一般是用 &lt;code&gt;Body -&amp;gt; JSON&lt;/code&gt; 格式, 除非特殊标注用别的格式&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/Z7DeQY.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;本地服务调不通&#34;&gt;本地服务调不通&lt;/h3&gt;
+&lt;p&gt;明明跑起来了服务, 但是接口测试请求就像石沉大海, 发过去没响应&lt;/p&gt;
+&lt;p&gt;那有可能是端口共用了&lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;…如下:&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZDfGKY.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;netstat &lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt;ano &lt;span class=&#34;string&#34;&gt;| findstr &amp;quot;&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;8000&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;# 或者&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;netstat &lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt;ano &lt;span class=&#34;string&#34;&gt;| grep 8000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ps &lt;span class=&#34;string&#34;&gt;| grep 17348&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;数据获取-方法名设计&#34;&gt;数据获取-方法名设计&lt;/h3&gt;
+&lt;p&gt;最常见的以下几种:&lt;/p&gt;
+&lt;p&gt;get([1]) 1|n&lt;/p&gt;
+&lt;p&gt;fetch([1]) n&lt;/p&gt;
+&lt;p&gt;query(1) 1&lt;/p&gt;
+&lt;p&gt;find(1) 1&lt;/p&gt;
+&lt;p&gt;search(1) 1|n&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;文件传输&#34;&gt;文件传输&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZkZKsq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一般是使用 form-data -&amp;gt; file 类型&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;JSON-2-struct&#34;&gt;JSON-2-struct&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZkocHo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接口可能传过来很多字段, 一个个对应输入很麻烦, apifox 可以直接生成对应 struct, 或者复制 JSON 直接粘贴进 goland 也会生成, 之后再对照下数据类型就行.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;程序写法问题&#34;&gt;程序写法问题&lt;/h2&gt;
+&lt;h3 id=&#34;map-and-filter&#34;&gt;map-and-filter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开发时遇到此问题:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Required request body is missing:请求体为空&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;纳闷,把前端数据正常传给后端了,为什么触发此错误?&lt;/p&gt;
+&lt;p&gt;后来发现是 .map() 的坑,被这个问答糊脸了:&lt;br&gt;
+&lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;map 是映射,必然会 return 一个值 (没 return 的话就是 undefined)&lt;/p&gt;
+&lt;p&gt;filter 是过滤,可以过滤掉某些结果不 return&lt;/p&gt;
+&lt;p&gt;虽然这两个都有 transform 能力但是在返回值上不同&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  graph LR
+    subgraph filter
+      A2(A) --filter--&amp;gt; A3(A&amp;#39;)
+      B2(B) --filter--&amp;gt; B3(B)
+      C2(C) --filter--&amp;gt; C3(无)
+    end
+
+    subgraph map
+      A --map--&amp;gt; A&amp;#39;
+      B --map--&amp;gt; B4(B)
+      C --map--&amp;gt; undefined
+    end
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;整数计算顺序&#34;&gt;整数计算顺序&lt;/h3&gt;
+&lt;p&gt;开发时碰到一个统计进度的问题 (l: 1-20)&lt;/p&gt;
+&lt;p&gt;也就是说进度 &lt;code&gt;process = l/20 * 100&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;但是写出来的程序要注意: &lt;code&gt;process = int(l*100/20)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;如果先算 &lt;code&gt;l/20&lt;/code&gt;, 因为化整会导致 process 一直为 0&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Devops&#34;&gt;Devops&lt;/h2&gt;
+&lt;h3 id=&#34;ali-k8s-服务调用&#34;&gt;ali-k8s-服务调用&lt;/h3&gt;
+&lt;p&gt;阿里云 k8s 容器管理, 不同集群 IP 的容器/服务间也可以不走域名直接内部调用&lt;/p&gt;
+&lt;p&gt;需要注意内网 https 调用服务会报错, 只能 http, 例如 &lt;code&gt;http://xxx-svc:8000&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.cnblogs.com/-lin-x-c-/p/10375412.html&#34;&gt;mysql 中模糊查询的四种用法：&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://www.oschina.net/question/160183_36995&#34;&gt;mybatis 模糊查询 中文问题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://www.dovov.com/javascript-mapundefined.html&#34;&gt;为什么 javascript map 函数返回 undefined？(Why does javascript map function return undefined?)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://www.cnblogs.com/luckyplj/p/11843688.html&#34;&gt;05 Windows 下查看 IP、端口、网络是否通畅、访问局域网内另一台电脑&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-5&#39; href=&#39;#cite_ref-5&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/dazuiba008/article/details/8861893&#34;&gt;mongodb update array_魂醉的博客-CSDN 博客&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-6&#39; href=&#39;#cite_ref-6&#39;&gt;[6]&lt;/a&gt;: &lt;a href=&#34;https://www.mongodb.com/community/forums/t/is-there-a-way-to-query-array-fields-with-size-greater-than-some-specified-value/54597&#34;&gt;Is there a way to query array fields with size greater than some specified value?&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="API" />
+        <category term="Docker" />
+        <category term="SQL" />
+        <category term="前端" />
+        <category term="JSON" />
+        <category term="Mariadb" />
+        <category term="后端" />
+        <category term="k8s" />
+        <updated>2021-08-17T09:29:17.000Z</updated>
+    </entry>
+</feed>

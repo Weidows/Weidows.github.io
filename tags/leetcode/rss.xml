@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;leetcode&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 09 Mar 2022 05:20:05 +0000</pubDate>
+        <lastBuildDate>Wed, 09 Mar 2022 05:20:05 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>树莓派</category>
+        <category>服务器</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>虚拟机</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/experience/LeetCode/1/</guid>
+            <title>😵‍💫跟力扣斗智斗勇-log-1</title>
+            <link>https://blog.weidows.tech/post/experience/LeetCode/1/</link>
+            <category>算法</category>
+            <category>LeetCode</category>
+            <category>数据结构</category>
+            <category>面试</category>
+            <pubDate>Wed, 09 Mar 2022 05:20:05 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;跟力扣斗智斗勇-log-1&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:25:09
+ * @FilePath: \Blog-private\source\_posts\experience\LeetCode\1.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B7%9F%E5%8A%9B%E6%89%A3%E6%96%97%E6%99%BA%E6%96%97%E5%8B%87-log-1&#34;&gt;跟力扣斗智斗勇-log-1&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95&#34;&gt;数据结构与算法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%93%BE%E8%A1%A8%E5%8F%8D%E8%BD%AC%E9%97%AE%E9%A2%98&#34;&gt;链表反转问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B4%A0%E6%95%B0&#34;&gt;素数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8C%BA%E5%88%86%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86&#34;&gt;区分二叉树遍历&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B7%B1%E5%BA%A6-%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86&#34;&gt;深度-广度优先遍历&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E4%B8%AD%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86&#34;&gt;前中后序遍历&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#arraylist-linkedlist&#34;&gt;ArrayList-LinkedList&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A2%98%E8%A7%A3&#34;&gt;题解&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8&#34;&gt;160. 相交链表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E7%BB%84%E4%B8%AD%E8%90%BD%E5%8D%95%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0&#34;&gt;数组中落单的两个数&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E6%B3%95&#34;&gt;方法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%95%E7%A5%A8%E7%AE%97%E6%B3%95&#34;&gt;投票算法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88&#34;&gt;快慢指针&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92&#34;&gt;动态规划&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9D%91&#34;&gt;坑&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#python-%E5%8F%96%E6%95%B4%E4%B8%8E%E6%95%B4%E9%99%A4&#34;&gt;python-取整与整除&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;!-- [⏩ 文章地址](https://weidows.github.io/post/experience/LeetCode/1/) | [✔️ 仓库地址](https://github.com/Weidows-projects/public-post/) 欢迎提交 pr ! --&gt;
+&lt;p&gt;一题二写，三数之和，题解四瞅五瞄六瞧，水平还七上八下九流，十分辣鸡&lt;br&gt;
+十天九考，八皇会面，题干七页六道五问，答案仅四行三言两语，一点不会&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据结构与算法&#34;&gt;数据结构与算法&lt;/h2&gt;
+&lt;p&gt;课程: 速览 ing&lt;/p&gt;
+&lt;style&gt;.bbplayer{width: 100%; max-width: 850px; margin: auto}&lt;/style&gt;&lt;div class=&#34;bbplayer&#34;&gt;&lt;iframe class=&#34;bbplayer&#34; id=&#34;mmedia-XkmnxFIfnVPNhvdV&#34; src=&#34;https://player.bilibili.com/player.html?bvid=BV1a54y1b74k&amp;page=1&amp;high_quality=1&amp;danmaku=true&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;0&#34; framespacing=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt; document.getElementById(&#34;mmedia-XkmnxFIfnVPNhvdV&#34;).style.height=document.getElementById(&#34;mmedia-XkmnxFIfnVPNhvdV&#34;).scrollWidth*0.76+&#34;px&#34;;
+    window.onresize = function(){
+      document.getElementById(&#34;mmedia-XkmnxFIfnVPNhvdV&#34;).style.height=document.getElementById(&#34;mmedia-XkmnxFIfnVPNhvdV&#34;).scrollWidth*0.76+&#34;px&#34;;
+    }; &lt;/script&gt;
+&lt;h3 id=&#34;链表反转问题&#34;&gt;链表反转问题&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;迭代(栈)&lt;/code&gt; / &lt;code&gt;递归&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这问题我面试时问我了,我回答的就是栈,面试官说栈要遍历两次,而递归一次就能出(函数参数添加 prev 节点)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;素数&#34;&gt;素数&lt;/h3&gt;
+&lt;p&gt;非素数(合数) / 素数(质数) : 都要排除 0 和 1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;暴力法: 遍历 2 到 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msqrt&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\sqrt{n}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.04em;vertical-align:-0.2397em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord sqrt&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8003em;&#34;&gt;&lt;span class=&#34;svg-align&#34; style=&#34;top:-3em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34; style=&#34;padding-left:0.833em;&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-2.7603em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;hide-tail&#34; style=&#34;min-width:0.853em;height:1.08em;&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;400em&#34; height=&#34;1.08em&#34; viewBox=&#34;0 0 400000 1080&#34; preserveAspectRatio=&#34;xMinYMin slice&#34;&gt;&lt;path d=&#34;M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2397em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 之前的数字,如果能被整除,那么这个数字不是素数&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;; i * i &amp;lt; x; i++)&amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;埃塞法: 比如找 100 内有多少个素数 (25 个)&lt;/p&gt;
+&lt;p&gt;构造 bool[100]&lt;/p&gt;
+&lt;p&gt;找到 3 是素数, 那么 3x3=3, 3x4=12, 3x5=15…3x33=99 都不是素数,对应 bool[i]做标记,遍历时跳过&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;区分二叉树遍历&#34;&gt;区分二叉树遍历&lt;/h3&gt;
+&lt;h4 id=&#34;深度-广度优先遍历&#34;&gt;深度-广度优先遍历&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;深度优先遍历: &lt;code&gt;递归&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;inOrder&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(TreeNode root)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (root == &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.left);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bstQueue.offer(root.val);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.right);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;广度优先遍历: &lt;code&gt;队列&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;inOrder&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(TreeNode root)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (root == &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bstQueue.offer(root.val);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.left);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.right);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;前中后序遍历&#34;&gt;前中后序遍历&lt;/h4&gt;
+&lt;p&gt;前序也叫先序, 这三种都属于深度优先遍历&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;基本上是递归模板,比如中序遍历 BST 如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;inOrder&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(TreeNode root)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (root == &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.left);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bstQueue.offer(root.val);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.right);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;详见这个题解: &lt;a href=&#34;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/173.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BF%AD%E4%BB%A3%E5%99%A8.java&#34;&gt;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/173.二叉搜索树迭代器.java&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;前后序遍历: &lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;inOrder&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(TreeNode root)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (root == &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bstQueue.offer(root.val);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.left);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.right);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;inOrder&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(TreeNode root)&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (root == &lt;span class=&#34;literal&#34;&gt;null&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.left);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  inOrder(root.right);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  bstQueue.offer(root.val);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ArrayList-LinkedList&#34;&gt;ArrayList-LinkedList&lt;/h3&gt;
+&lt;p&gt;顺序遍历时间复杂度相同, n 相同时 LinkedList 空间更大&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ArrayList:&lt;/p&gt;
+&lt;p&gt;随机查询快, 插入和删除慢(不可随机)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;随机指的是对任意指定 index 的操作&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LinkedList:&lt;/p&gt;
+&lt;p&gt;随机查询慢, 插入和删除快(可随机)&lt;/p&gt;
+&lt;p&gt;linkedlist 排序性能更好,并且较 arraylist 更节省空间 &lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;题解&#34;&gt;题解&lt;/h2&gt;
+&lt;h3 id=&#34;160-相交链表&#34;&gt;160. 相交链表&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.py&#34;&gt;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/160.相交链表.py&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;此方法简单描述就是交叉接尾 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;(&lt;span class=&#34;title class_ inherited__&#34;&gt;object&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;getIntersectionNode&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, headA, headB&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        :type head1, head1: ListNode&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        :rtype: ListNode&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        p, q = headA, headB&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; p != q:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            p = p.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; p &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; headB&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            q = q.&lt;span class=&#34;built_in&#34;&gt;next&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; q &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; headA&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; p&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/RCFKPP.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/RCFg7n.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当前链表结尾后接上对方链表的头, 同时以两链表头为起点, 可以发现都走了 7 步后在交叉绿点相遇&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;数组中落单的两个数&#34;&gt;数组中落单的两个数&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;题目：一个整型数组里除了两个数字之外，其他的数字都出现了两次。请写程序找出这两个只出现一次的数字。要求时间复杂度是O(n)，空间复杂度是O(1)。&lt;sup id=&#39;cite_ref-6&#39;&gt;&lt;a href=&#34;#cite_note-6&#34;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/%E6%95%B0%E7%BB%84%E4%B8%AD%E8%90%BD%E5%8D%95%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0.py&#34;&gt;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/数组中落单的两个数.py&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;findTwoSingleNum&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;array&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 两个独立数的异或&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    buff = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; array:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        buff ^= i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bias = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 从末尾轮着找为&amp;#x27;1&amp;#x27;的位 (也就是两独立数不同的位)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (buff &amp;amp; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; != &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        buff &amp;gt;&amp;gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        bias += &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    res_0, res_1 = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;# 通过第bias位的0和1分为两个child-array, 分别all-XOR后就是两个结果&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; array:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (i &amp;gt;&amp;gt; bias &amp;amp; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; == &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;): res_1 ^= i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;: res_0 ^= i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; [res_0, res_1]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 4:    100&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 5:    101&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 4^5:  001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# xxx1&amp;amp;1: 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;arr = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(findTwoSingleNum(arr))&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;方法&#34;&gt;方法&lt;/h2&gt;
+&lt;h3 id=&#34;投票算法&#34;&gt;投票算法&lt;/h3&gt;
+&lt;p&gt;可以看一下多数元素的题解 &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;对于出现次数&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;n&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.4306em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;大于&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mfrac&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\frac{n}{2}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.0404em;vertical-align:-0.345em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6954em;&#34;&gt;&lt;span style=&#34;top:-2.655em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.394em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.345em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;的元素,能抵消其他元素还有余量,最后 candidate 必然是众数&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;快慢指针&#34;&gt;快慢指针&lt;/h3&gt;
+&lt;p&gt;常用于链表&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.go&#34;&gt;判断是否存在 &lt;code&gt;环&lt;/code&gt;, 相遇即成环&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;hasCycle&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(head *ListNode)&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;type&#34;&gt;bool&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  slow, fast := head, head&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; fast != &lt;span class=&#34;literal&#34;&gt;nil&lt;/span&gt; &amp;amp;&amp;amp; fast.Next != &lt;span class=&#34;literal&#34;&gt;nil&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    slow = slow.Next&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    fast = fast.Next.Next&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; slow == fast &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.java&#34;&gt;寻找链表中点&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;type&#34;&gt;ListNode&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;slow&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; head, fast = head;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (fast != tail) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  slow = slow.next;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  fast = fast.next;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (fast != tail) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    fast = fast.next;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;type&#34;&gt;ListNode&lt;/span&gt; &lt;span class=&#34;variable&#34;&gt;mid&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; slow;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;动态规划&#34;&gt;动态规划&lt;/h3&gt;
+&lt;p&gt;有的问题会需要&lt;code&gt;前瞻后顾 找最优 &amp;quot;重叠&amp;quot; 子结构&lt;/code&gt;, 像是递归/迭代/贪心无法解决或者十分棘手, 瞥一眼又是中等+难度的, 多是 dp (dymanic-programming) 没跑了; 这种问题有个大致框架: &lt;sup id=&#39;cite_ref-5&#39;&gt;&lt;a href=&#34;#cite_note-5&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;状态矩阵 &lt;code&gt;dp[n][n]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;dp[i][j] 一般存储第 i 到 j 位通过条件转换后的状态位/数值&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;条件转换方程&lt;/p&gt;
+&lt;p&gt;条件: if-else&lt;/p&gt;
+&lt;p&gt;转换方程: 类似 &lt;code&gt;dp[i][j] = max(dp[i + 1][j], dp[i][j - 1])&lt;/code&gt; 这种形式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最终结果就是最后一趟 i,j 的位置: 如下的 &lt;code&gt;dp[0][ n - 1]&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;i, j 的遍历方向是根据转换方程来确定的, 比如 &lt;a href=&#34;https://github.com/Weidows-projects/public-post/blob/main/LeetCode/code/516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.py&#34;&gt;516.最长回文子序列&lt;/a&gt; 这个题&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Solution&lt;/span&gt;(&lt;span class=&#34;title class_ inherited__&#34;&gt;object&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;longestPalindromeSubseq&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;self, s&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        :type s: str&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        :rtype: int&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;        &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(s) &amp;lt; &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(s)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        n = &lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(s)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        dp = [[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;] * n &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; _ &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n)]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(n - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, -&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            dp[i][i] = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; j &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(i + &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, n):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; s[i] == s[j]:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    dp[i][j] = dp[i + &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;][j - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] + &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    dp[i][j] = &lt;span class=&#34;built_in&#34;&gt;max&lt;/span&gt;(dp[i + &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;][j], dp[i][j - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; dp[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;][n - &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;在确定 &lt;code&gt;dp[i][j]&lt;/code&gt; 前, 需要已经确定 &lt;code&gt;dp[i+1][j]&lt;/code&gt; 和 &lt;code&gt;dp[i][j-1]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;也就是说: 外层 i 为逆序,从上往下推, 内层 j 为正序从左往右推 (x 为所推的值)&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;i \ j&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;0&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;3&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;4&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;5&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;6&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;7&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;8&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;9&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;坑&#34;&gt;坑&lt;/h2&gt;
+&lt;h3 id=&#34;python-取整与整除&#34;&gt;python-取整与整除&lt;/h3&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 整除: 对于正数是int(), 对于负数是round()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)          &lt;span class=&#34;comment&#34;&gt;# 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(-&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;//&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)         &lt;span class=&#34;comment&#34;&gt;# -2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;//&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;)          &lt;span class=&#34;comment&#34;&gt;# 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(-&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt;//&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt;)         &lt;span class=&#34;comment&#34;&gt;# -2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 向下取整&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))    &lt;span class=&#34;comment&#34;&gt;# 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;(-&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))   &lt;span class=&#34;comment&#34;&gt;# -1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 四舍五入&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;round&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))  &lt;span class=&#34;comment&#34;&gt;# 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;round&lt;/span&gt;(-&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)) &lt;span class=&#34;comment&#34;&gt;# -2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 还有其他区别&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt; - &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))  &lt;span class=&#34;comment&#34;&gt;# 12 (14-1.5=12.5 -&amp;gt; 12)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt; - &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; // &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)) &lt;span class=&#34;comment&#34;&gt;# 13 (14-1=13)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;(- &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))     &lt;span class=&#34;comment&#34;&gt;# -1 (-1.5 -&amp;gt; -1)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;int&lt;/span&gt;(-&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; // &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))     &lt;span class=&#34;comment&#34;&gt;# -2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-0&#39; href=&#39;#cite_ref-0&#39;&gt;[0]&lt;/a&gt;: &lt;a href=&#34;https://github.com/Weidows-projects/public-post/&#34;&gt;✔️ 仓库地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/xiang-jiao-lian-biao-by-leetcode-solutio-a8jn/&#34;&gt;https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/xiang-jiao-lian-biao-by-leetcode-solutio-a8jn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/&#34;&gt;https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/u013834525/article/details/80421684&#34;&gt;https://blog.csdn.net/u013834525/article/details/80421684&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;http://www.manongjc.com/detail/16-qngebjtzewkyzmi.html&#34;&gt;jdk8 下 ArrayList 与 LinedList 排序效率对比&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-5&#39; href=&#39;#cite_ref-5&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://leetcode-cn.com/problems/longest-palindromic-subsequence/solution/zui-chang-hui-wen-zi-xu-lie-by-leetcode-hcjqp/&#34;&gt;https://leetcode-cn.com/problems/longest-palindromic-subsequence/solution/zui-chang-hui-wen-zi-xu-lie-by-leetcode-hcjqp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-6&#39; href=&#39;#cite_ref-6&#39;&gt;[6]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/qq_39705793/article/details/81237005&#34;&gt;异或的用途&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

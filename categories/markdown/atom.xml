@@ -1,0 +1,668 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;markdown&#34; category</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2022-06-29T09:31:36.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="树莓派" />
+    <category term="服务器" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="虚拟机" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/lang/markdown/slidev/</id>
+        <title>🦭开会扯皮专用-Slidev</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/lang/markdown/slidev/"/>
+        <content type="html">&lt;h1&gt;slidev&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-15 17:48:38
+ * @FilePath: \Blog-private\source\_posts\lang\markdown\slidev.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slidev&#34;&gt;slidev&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85-%E4%BD%BF%E7%94%A8&#34;&gt;安装-使用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%A5%E9%94%99&#34;&gt;报错&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9D%E5%A7%8B%E5%8C%96&#34;&gt;初始化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BE%9D%E8%B5%96%E9%97%AE%E9%A2%98&#34;&gt;依赖问题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B1%95%E7%A4%BA&#34;&gt;展示&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装-使用&#34;&gt;安装-使用&lt;/h2&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;npm install --save @slidev/cli&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;这里个人不建议全局安装, 有时会遇到依赖问题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;npm install -g @slidev/cli&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;可以用 scripts 来运行, 比较便捷 (没全局安装@slidev/cli 的话, slidev 无法在终端调用)&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;&amp;quot;scripts&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;slides&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;slidev slides.md --remote --open&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;报错&#34;&gt;报错&lt;/h2&gt;
+&lt;h3 id=&#34;初始化&#34;&gt;初始化&lt;/h3&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;D:\Scoop\persist\nvm\nodejs\v18.4.0\node_modules\@slidev\cli\dist\chunk-IP7ZGKHI.js:121&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    throw new Error(`Failed to resolve package &amp;quot;$&amp;#123;importName&amp;#125;&amp;quot;`);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          ^&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Error: Failed to resolve package &amp;quot;D:\Repos\Weidows\Blog-private\scaffolds\slidev/package.json&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at resolveImportPath (D:\Scoop\persist\nvm\nodejs\v18.4.0\node_modules\@slidev\cli\dist\chunk-IP7ZGKHI.js:121:11)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at getPackageJson (D:\Scoop\persist\nvm\nodejs\v18.4.0\node_modules\@slidev\cli\dist\chunk-LIMOCTLS.js:9516:51)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at getAddons (D:\Scoop\persist\nvm\nodejs\v18.4.0\node_modules\@slidev\cli\dist\chunk-LIMOCTLS.js:9522:33)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at resolveOptions (D:\Scoop\persist\nvm\nodejs\v18.4.0\node_modules\@slidev\cli\dist\chunk-LIMOCTLS.js:9604:24)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    at async initServer (D:\Scoop\persist\nvm\nodejs\v18.4.0\node_modules\@slidev\cli\dist\cli.js:82:21)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Node.js v18.4.0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;文档并没说, slidev 需要在目录内有个 &lt;code&gt;package.json&lt;/code&gt;, 也就是需要 &lt;code&gt;npm init&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;依赖问题&#34;&gt;依赖问题&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Error: Cannot find module ‘windicss/colors’&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这种是依赖问题, 即使安装时 success 了; 需要清缓存重装依赖&lt;/p&gt;
+&lt;figure class=&#34;highlight coffeescript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;npm&lt;/span&gt; cache clean --force&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;npm&lt;/span&gt; install&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+&lt;p&gt;我在用 slidev 做 PPT, 用 markdown 写比较快捷 (虽然上手需要一定时间), 如下效果:&lt;/p&gt;
+
+
+	&lt;div class=&#34;row&#34;&gt;
+    &lt;embed src=&#34;https://pan.weidows.tech/d/local/files/slidev.pdf&#34; width=&#34;100%&#34; height=&#34;550&#34; type=&#34;application/pdf&#34;&gt;
+	&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://cn.sli.dev/&#34;&gt;https://cn.sli.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="markdown" />
+        <category term="slidev" />
+        <updated>2022-06-29T09:31:36.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/lang/markdown/markdown/</id>
+        <title>😶‍🌫️Markdown-中一些新奇写法.</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/lang/markdown/markdown/"/>
+        <content type="html">&lt;h1&gt;Markdown-中一些新奇写法.&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-30 00:09:37
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-07-08 11:54:00
+ * @FilePath: \Blog-private\source\_posts\others\markdown\markdown.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#markdown-%E4%B8%AD%E4%B8%80%E4%BA%9B%E6%96%B0%E5%A5%87%E5%86%99%E6%B3%95&#34;&gt;Markdown-中一些新奇写法.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B3%A8%E6%84%8F%E7%82%B9&#34;&gt;注意点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9F%BA%E6%9C%AC%E7%9A%84&#34;&gt;基本的&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#-%E5%86%85%E5%AE%B9&#34;&gt;&lt;code&gt;&amp;gt; 内容&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#---%E5%86%85%E5%AE%B9&#34;&gt;&lt;code&gt;- ### 内容&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E6%8B%9F-console-%E8%BE%93%E5%87%BA&#34;&gt;模拟 console 输出&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%82%AC%E6%B5%AE%E6%8F%90%E7%A4%BA%E6%96%87%E6%9C%AC&#34;&gt;悬浮提示文本&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B0%E5%A5%87%E5%86%99%E6%B3%95&#34;&gt;新奇写法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;&lt;code&gt;[![]()]()&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#-url&#34;&gt;&lt;code&gt;[]: URL&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AF%B9%E8%AF%9D&#34;&gt;对话&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%95%E7%94%A8%E6%9D%A1%E7%9B%AE&#34;&gt;引用+条目&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%9A%E8%A1%8C%E5%BC%95%E7%94%A8&#34;&gt;多行引用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B7%A8%E5%8F%B7%E5%AD%97%E4%BD%93&#34;&gt;巨号字体&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E5%AD%97%E6%A0%B7%E5%BC%8F&#34;&gt;文字样式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#html-%E6%A0%87%E7%AD%BE&#34;&gt;HTML 标签&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%94%B6%E7%BC%A9%E6%A1%86&#34;&gt;收缩框&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%8B%E5%88%92%E7%BA%BF&#34;&gt;下划线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%94%AE%E7%9B%98%E6%A0%B7%E5%BC%8F&#34;&gt;键盘样式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E5%AD%97%E9%81%AE%E7%9B%96&#34;&gt;文字遮盖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AE%BA%E6%96%87%E8%84%9A%E6%B3%A8&#34;&gt;论文脚注&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%AD%E8%8B%B1%E6%96%87%E5%88%87%E6%8D%A2&#34;&gt;中英文切换&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#markdown-%E8%A1%A8%E6%A0%BC%E5%86%85%E6%8D%A2%E8%A1%8C&#34;&gt;markdown-表格内换行&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;注意点&#34;&gt;注意点&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;markdown 文件写的超过 1K 行后,每次格式化/页面加载的性能损耗是恐怖的,而且不利于观看,所以尽量控制 markdown 行数别太多 (我是超过 500~600 行会分页)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不同平台对 markdown 渲染不同,有可能会产生格式不对称问题. (例如 GitHub / Gitee / CSDN 对 README 渲染就不一样)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;严格统一格式,不然以后重构时复杂度极其之高,甚至比写的时候还难; &lt;code&gt;食之无味,弃之可惜&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;基本的&#34;&gt;基本的&lt;/h2&gt;
+&lt;h3 id=&#34;内容&#34;&gt;&lt;code&gt;&amp;gt; 内容&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;展示:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在这里做个展示.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;内容-2&#34;&gt;&lt;code&gt;- ### 内容&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;段落形式的标题,如下&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;这是一个段落标题-h3-字号&#34;&gt;这是一个段落标题,h3 字号&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;模拟-console-输出&#34;&gt;模拟 console 输出&lt;/h3&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;```console&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;╰─ &lt;span class=&#34;keyword&#34;&gt;ls&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Directory: D:\Repo\Weidows\Blog-private&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Mode                LastWriteTime         Length Name&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;                &lt;span class=&#34;params&#34;&gt;-------------&lt;/span&gt;         &lt;span class=&#34;params&#34;&gt;------&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;         2021/2/13     16&lt;span class=&#34;function&#34;&gt;:16&lt;/span&gt;                  &lt;span class=&#34;string&#34;&gt;.github&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;        2021/11/21     14&lt;span class=&#34;function&#34;&gt;:32&lt;/span&gt;                  &lt;span class=&#34;string&#34;&gt;.vscode&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;        2021/11/25      0&lt;span class=&#34;function&#34;&gt;:30&lt;/span&gt;                  node_modules&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;        2021/11/30     14&lt;span class=&#34;function&#34;&gt;:45&lt;/span&gt;                  Others&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;        2021/11/26     21&lt;span class=&#34;function&#34;&gt;:00&lt;/span&gt;                  out&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;        2021/11/25      0&lt;span class=&#34;function&#34;&gt;:17&lt;/span&gt;                  public&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;         2021/5/23      0&lt;span class=&#34;function&#34;&gt;:07&lt;/span&gt;                  scaffolds&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;         2021/11/6     10&lt;span class=&#34;function&#34;&gt;:33&lt;/span&gt;                  source&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d&lt;span class=&#34;params&#34;&gt;----&lt;/span&gt;        2021/11/25      9&lt;span class=&#34;function&#34;&gt;:46&lt;/span&gt;                  themes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;        2021/11/24     16&lt;span class=&#34;function&#34;&gt;:04&lt;/span&gt;           8324   _config.yml&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;        2021/11/25      0&lt;span class=&#34;function&#34;&gt;:28&lt;/span&gt;             87   &lt;span class=&#34;string&#34;&gt;.gitignore&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;        2021/11/25      9&lt;span class=&#34;function&#34;&gt;:46&lt;/span&gt;            436   &lt;span class=&#34;string&#34;&gt;.gitmodules&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;        2021/11/25      0&lt;span class=&#34;function&#34;&gt;:19&lt;/span&gt;       55039465   db.json&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;         2020/9/16     23&lt;span class=&#34;function&#34;&gt;:32&lt;/span&gt;          35184   LICENSE&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;        2021/11/25      0&lt;span class=&#34;function&#34;&gt;:30&lt;/span&gt;         544859   package-lock.json&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a&lt;span class=&#34;params&#34;&gt;---&lt;/span&gt;        2021/11/25      0&lt;span class=&#34;function&#34;&gt;:09&lt;/span&gt;           1168   package.json&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;```&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;样式:&lt;/p&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ ls&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        Directory: D:\Repo\Weidows\Blog-private&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Mode                LastWriteTime         Length Name&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;----                -------------         ------ ----&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----         2021/2/13     16:16                  .github&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----        2021/11/21     14:32                  .vscode&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----        2021/11/25      0:30                  node_modules&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----        2021/11/30     14:45                  Others&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----        2021/11/26     21:00                  out&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----        2021/11/25      0:17                  public&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----         2021/5/23      0:07                  scaffolds&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----         2021/11/6     10:33                  source&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;d----        2021/11/25      9:46                  themes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---        2021/11/24     16:04           8324   _config.yml&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---        2021/11/25      0:28             87   .gitignore&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---        2021/11/25      9:46            436   .gitmodules&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---        2021/11/25      0:19       55039465   db.json&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---         2020/9/16     23:32          35184   LICENSE&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---        2021/11/25      0:30         544859   package-lock.json&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-a---        2021/11/25      0:09           1168   package.json&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;悬浮提示文本&#34;&gt;悬浮提示文本&lt;/h3&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; [&lt;span class=&#34;string&#34;&gt;隐语 SecretFlow&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://www.secretflow.org.cn/ &amp;quot;悬浮提示文本-12345&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.secretflow.org.cn/&#34; title=&#34;悬浮提示文本-12345&#34;&gt;隐语 SecretFlow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;新奇写法&#34;&gt;新奇写法&lt;/h2&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;code&gt;[![]()]()&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这样写是把图片嵌套进了链接里,如下:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pan.weidows.tech/d/local/blog/GVENOC.png&#34;&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVENOC.png&#34; alt=&#34;图片&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本来只是展示图片,现在点击图片跳转了.&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;string&#34;&gt;![图片&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;https://pan.weidows.tech/d/local/blog/GVENOC.png&lt;/span&gt;)](&lt;span class=&#34;link&#34;&gt;https://pan.weidows.tech/d/local/blog/GVENOC.png&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;URL&#34;&gt;&lt;code&gt;[]: URL&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;类似定义变量(引用)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上面指定,下面可以引用.&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;symbol&#34;&gt;github-shield&lt;/span&gt;]: &lt;span class=&#34;link&#34;&gt;https://img.shields.io/github/stars/Weidows/vscode-weidows-theme?style=social&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;symbol&#34;&gt;github-url&lt;/span&gt;]: &lt;span class=&#34;link&#34;&gt;https://github.com/Weidows/vscode-weidows-theme&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;symbol&#34;&gt;vscode-shield&lt;/span&gt;]: &lt;span class=&#34;link&#34;&gt;https://img.shields.io/visual-studio-marketplace/r/TabNine.tabnine-vscode?logo=visual-studio-code&amp;amp;style=social&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;symbol&#34;&gt;vscode-url&lt;/span&gt;]: &lt;span class=&#34;link&#34;&gt;https://bit.ly/3pqj7o2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;string&#34;&gt;![Github Repo&lt;/span&gt;][&lt;span class=&#34;symbol&#34;&gt;github-shield&lt;/span&gt;]][&lt;span class=&#34;symbol&#34;&gt;github-url&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;string&#34;&gt;![VSCode Plugin&lt;/span&gt;][&lt;span class=&#34;symbol&#34;&gt;vscode-shield&lt;/span&gt;]][&lt;span class=&#34;symbol&#34;&gt;vscode-url&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;对话&#34;&gt;对话&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;发现自: &lt;a href=&#34;http://blog.2baxb.me/&#34;&gt;Axb 的自我修养&lt;/a&gt;,样式如下:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVtaMP.png&#34; alt=&#34;20210329091216&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;写法:&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;比如某天...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; 喂?是....&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;样式:&lt;/p&gt;
+&lt;p&gt;比如某天…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;喂?是…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;引用-条目&#34;&gt;引用+条目&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;样式:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/li&gt;
+&lt;li&gt;监听器经常在 GUI 编程中使用.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/li&gt;
+&lt;li&gt;监听器经常在 GUI 编程中使用.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;监听器经常在 GUI 编程中使用.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;监听器经常在 GUI 编程中使用.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;写法:&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; - 对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; - 监听器经常在 GUI 编程中使用.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; 1. 对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; 2. 监听器经常在 GUI 编程中使用.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &amp;gt; 对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;gt; 监听器经常在 GUI 编程中使用.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;1.&lt;/span&gt; &amp;gt; 对应不同业务需求,存在 N 中不同的监听器接口可供实现.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   &amp;gt; 监听器经常在 GUI 编程中使用.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;多行引用&#34;&gt;多行引用&lt;/h3&gt;
+&lt;p&gt;偶然发现的,挺实用的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一般引用只能一行,多行引用写成这样的话&lt;/p&gt;
+&lt;figure class=&#34;highlight md&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; asdfghjkl&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; zxcvbnm&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; asdfghjkl zxcvbnm&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;实际上长得一样&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;asdfghjkl&lt;br&gt;
+zxcvbnm&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;asdfghjkl zxcvbnm&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;改成这样就对了:&lt;/p&gt;
+&lt;figure class=&#34;highlight md&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; asdfghjkl \&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt; zxcvbnm&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;asdfghjkl &lt;br&gt;
+zxcvbnm&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;巨号字体&#34;&gt;巨号字体&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;上面的是巨号,下面的是一号标题,怎样,够大吧?&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4CFq.png&#34; alt=&#34;20211009171608&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;写法: &lt;code&gt;h1 标签 + 列表 + 一级标题&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;h1&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;align&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;center&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; # 🌈Keeper&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;基于 [&lt;span class=&#34;string&#34;&gt;`GitHub-Action`&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;./.github/workflows/daily.yml&lt;/span&gt;) 的定时任务集合.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文字样式&#34;&gt;文字样式&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;样式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;写法&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;*斜体* 或 _斜体_&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;粗体&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;**粗体**&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;标识字&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;`标识字`&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;s&gt;中划线&lt;/s&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;~~中划线~~&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;HTML-标签&#34;&gt;HTML 标签&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&#34;background: grey; color: grey&#34;&gt;遮盖体-select&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;background: grey; color: grey&#34; onmouseout=&#34;this.style.background=&#39;grey&#39;;this.style.color=&#39;grey&#39;&#34; onmouseover=&#34;this.style=&#39;&#39;&#34;&gt;遮盖体-hove&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;收缩框&#34;&gt;收缩框&lt;/h3&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;details&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;summary&lt;/span&gt;&amp;gt;&lt;/span&gt;收缩框标题&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;summary&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  这里写内容&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;details&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;details&gt;
+  &lt;summary&gt;演示: 收缩框标题&lt;/summary&gt;
+  这里写内容
+&lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;下划线&#34;&gt;下划线&lt;/h3&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;u&lt;/span&gt;&amp;gt;&lt;/span&gt;文字&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;u&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;样式 &lt;u&gt;文字&lt;/u&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;键盘样式&#34;&gt;键盘样式&lt;/h3&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;kbd&lt;/span&gt;&amp;gt;&lt;/span&gt;Ctrl + shift + [&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;kbd&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;样式 &lt;kbd&gt;Ctrl + shift + [&lt;/kbd&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;文字遮盖&#34;&gt;文字遮盖&lt;/h3&gt;
+&lt;figure class=&#34;highlight routeros&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;span &lt;span class=&#34;attribute&#34;&gt;style&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;background: grey; color: grey&amp;quot;&lt;/span&gt;&amp;gt;遮盖体-select&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;span &lt;span class=&#34;attribute&#34;&gt;style&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;background: grey; color: grey&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;onmouseout&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;this.style.background=&amp;#x27;grey&amp;#x27;;this.style.color=&amp;#x27;grey&amp;#x27;&amp;quot;&lt;/span&gt; &lt;span class=&#34;attribute&#34;&gt;onmouseover&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;this.style=&amp;#x27;&amp;#x27;&amp;quot;&lt;/span&gt;&amp;gt;遮盖体-hove&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;样式:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background: grey; color: grey&#34;&gt;遮盖体-select&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;background: grey; color: grey&#34; onmouseout=&#34;this.style.background=&#39;grey&#39;;this.style.color=&#39;grey&#39;&#34; onmouseover=&#34;this.style=&#39;&#39;&#34;&gt;遮盖体-hove&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;论文脚注&#34;&gt;论文脚注&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;可正反双向跳转&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;sup&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;cite_ref-01&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;[\[1\]](#cite_note-01)&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;sup&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;name&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;cite_note-01&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;#cite_ref-01&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;[1]&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;论文脚注测试处 &lt;sup id=&#34;cite_ref-01&#34;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;。 &lt;code&gt;&amp;lt;sup id=&amp;quot;cite_ref-01&amp;quot;&amp;gt;[\[1\]](#cite_note-01)&amp;lt;/sup&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;论文脚注测试处 &lt;sup id=&#34;cite_ref-02&#34;&gt;&lt;a href=&#34;#cite_note-02&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;。 &lt;code&gt;&amp;lt;sup id=&amp;quot;cite_ref-02&amp;quot;&amp;gt;[\[2\]](#cite_note-02)&amp;lt;/sup&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;中英文切换&#34;&gt;中英文切换&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Repo-README 中常常需要中英文切换 &lt;sup id=&#39;cite_ref-03&#39;&gt;&lt;a href=&#34;#cite_note-03&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div align=&#34;right&#34;&gt;
+&lt;p&gt;Language: 🇺🇸 | &lt;a href=&#34;/README_CN.md&#34;&gt;cn&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;figure class=&#34;highlight x86asm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;&lt;span class=&#34;keyword&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;meta&#34;&gt;align&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;right&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;Language:&lt;/span&gt; 🇺🇸 | [cn](/README_CN&lt;span class=&#34;number&#34;&gt;.&lt;/span&gt;md)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;/&lt;span class=&#34;keyword&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;markdown-表格内换行&#34;&gt;markdown-表格内换行&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找了很多办法来实现换行,后来发现实现原理简单粗暴: &lt;code&gt;&amp;lt;br&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;列 1&lt;/th&gt;
+&lt;th&gt;列 2&lt;/th&gt;
+&lt;th&gt;列 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;列 1 &lt;br&gt; 列 1.1&lt;/td&gt;
+&lt;td&gt;列 2 &lt;br&gt; 列 2.1&lt;/td&gt;
+&lt;td&gt;列 3 &lt;br&gt; 列 3.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;列 1 &lt;br&gt; 列 1.2&lt;/td&gt;
+&lt;td&gt;列 2 &lt;br&gt; 列 2.2&lt;/td&gt;
+&lt;td&gt;列 3 &lt;br&gt; 列 3.2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#34;cite_note-01&#34; href=&#34;#cite_ref-01&#34;&gt;[1]&lt;/a&gt;：&lt;code&gt;&amp;lt;a name=&amp;quot;cite_note-01&amp;quot; href=&amp;quot;#cite_ref-01&amp;quot;&amp;gt;[1]&amp;lt;/a&amp;gt;&lt;/code&gt; (测试)&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;cite_note-02&#34; href=&#34;#cite_ref-02&#34;&gt;[2]&lt;/a&gt;：&lt;code&gt;&amp;lt;a name=&amp;quot;cite_note-02&amp;quot; href=&amp;quot;#cite_ref-02&amp;quot;&amp;gt;[2]&amp;lt;/a&amp;gt;&lt;/code&gt; (测试)&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-03&#39; href=&#39;#cite_ref-03&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://raw.githubusercontent.com/jerryc127/hexo-theme-butterfly/dev/README.md&#34;&gt;https://raw.githubusercontent.com/jerryc127/hexo-theme-butterfly/dev/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="HTML" />
+        <category term="Markdown" />
+        <updated>2020-11-29T16:09:37.000Z</updated>
+    </entry>
+</feed>
