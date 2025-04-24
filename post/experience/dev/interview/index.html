@@ -1,0 +1,271 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>🐔凉经-面试题 | ⭐️齐下无贰⭐️</title><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="凉经-面试题   凉经-面试题  列表 具体细节点  collection-map 悲观锁-乐观锁  上锁业务与读写性能分析 行锁与表锁   排序算法  推荐文章 快排 时间复杂度及对应情况 稳定性及其意义     借物表      列表   MetaAPP 部分笔试题   什么是“堆”,“栈”,“堆栈”,“队列”,它们的区别   到底产生几个 String 对象   浅谈 Java 中的 equ"><meta property="og:type" content="article"><meta property="og:title" content="🐔凉经-面试题"><meta property="og:url" content="https://blog.weidows.tech/post/experience/dev/interview/"><meta property="og:site_name" content="⭐️齐下无贰⭐️"><meta property="og:description" content="凉经-面试题   凉经-面试题  列表 具体细节点  collection-map 悲观锁-乐观锁  上锁业务与读写性能分析 行锁与表锁   排序算法  推荐文章 快排 时间复杂度及对应情况 稳定性及其意义     借物表      列表   MetaAPP 部分笔试题   什么是“堆”,“栈”,“堆栈”,“队列”,它们的区别   到底产生几个 String 对象   浅谈 Java 中的 equ"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://pan.weidows.tech/d/local/blog/Z0I1NC.png"><meta property="article:published_time" content="2022-03-29T08:25:57.000Z"><meta property="article:modified_time" content="2024-08-06T08:28:34.000Z"><meta property="article:author" content="⎛⎝Weidows⎠⎞"><meta property="article:tag" content="面试"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://pan.weidows.tech/d/local/blog/Z0I1NC.png"><link rel="shortcut icon" href="https://pan.weidows.tech/d/local/img/avatar/avatar.png"><link rel="canonical" href="https://blog.weidows.tech/post/experience/dev/interview/"><link rel="preconnect" href="//fastly.jsdelivr.net"><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="baidu-site-verification" content="codeva-S90fjC0lEU"><link rel="stylesheet" href="/css/index.css?v=4.9.0"><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" media="print" onload='this.media="all"'><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.min.css" media="print" onload='this.media="all"'><script async src="https://www.googletagmanager.com/gtag/js?id=G-BHH5BNEG3S"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-BHH5BNEG3S")</script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://fastly.jsdelivr.net/npm/flickr-justified-gallery@2.1.2/dist/fjGallery.min.js',
+      css: 'https://fastly.jsdelivr.net/npm/flickr-justified-gallery@2.1.2/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"🐔凉经-面试题",isPost:!0,isHome:!1,isHighlightShrink:!1,isToc:!0,postUpdate:"2024-08-06 16:28:34"}</script><noscript><style type="text/css">#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+    win.getCSS = (url,id = false) => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      if (id) link.id = id
+      link.onerror = reject
+      link.onload = link.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        link.onload = link.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(link)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script><script src="https://fastly.jsdelivr.net/combine/gh/dylanNew/live2d/webgl/Live2D/lib/live2d.min.js,npm/pixi.js@6.5.2/dist/browser/pixi.min.js,npm/pixi-live2d-display/dist/index.min.js,gh/Weidows-projects/Live2dLoader/dist/Live2dLoader.min.js"></script><meta name="baidu-site-verification" content="codeva-hhGzt89VUk"><script>let HEXO_MMEDIA_DATA = { js: [], css: [], aplayerData: [], metingData: [], artPlayerData: [], dplayerData: []};</script><meta name="generator" content="Hexo 7.3.0"></head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
+
+document.addEventListener('pjax:send', () => {
+  Pace.restart()
+})</script><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/pace-js@1.2.4/themes/blue/pace-theme-minimal.min.css"><script src="https://fastly.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">149</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">219</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">48</div></a></div><hr class="custom-hr"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image:url(https://pan.weidows.tech/d/local/blog/Z0I1NC.png)"><nav id="nav"><span id="blog-info"><a href="/" title="⭐️齐下无贰⭐️"><span class="site-name">⭐️齐下无贰⭐️</span></a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">🐔凉经-面试题</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2022-03-29T08:25:57.000Z" title="发表于 2022-03-29 16:25:57">2022-03-29</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-08-06T08:28:34.000Z" title="更新于 2024-08-06 16:28:34">2024-08-06</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/experience/">experience</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/experience/dev/">dev</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">1.7k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>5分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" data-flag-title="🐔凉经-面试题"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1>凉经-面试题</h1><blockquote class="pullquote mindmap mindmap-md"><ul><li><a href="#%E5%87%89%E7%BB%8F-%E9%9D%A2%E8%AF%95%E9%A2%98">凉经-面试题</a><ul><li><a href="#%E5%88%97%E8%A1%A8">列表</a></li><li><a href="#%E5%85%B7%E4%BD%93%E7%BB%86%E8%8A%82%E7%82%B9">具体细节点</a><ul><li><a href="#collection-map">collection-map</a></li><li><a href="#%E6%82%B2%E8%A7%82%E9%94%81-%E4%B9%90%E8%A7%82%E9%94%81">悲观锁-乐观锁</a><ul><li><a href="#%E4%B8%8A%E9%94%81%E4%B8%9A%E5%8A%A1%E4%B8%8E%E8%AF%BB%E5%86%99%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90">上锁业务与读写性能分析</a></li><li><a href="#%E8%A1%8C%E9%94%81%E4%B8%8E%E8%A1%A8%E9%94%81">行锁与表锁</a></li></ul></li><li><a href="#%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95">排序算法</a><ul><li><a href="#%E6%8E%A8%E8%8D%90%E6%96%87%E7%AB%A0">推荐文章</a></li><li><a href="#%E5%BF%AB%E6%8E%92">快排</a></li><li><a href="#%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%8F%8A%E5%AF%B9%E5%BA%94%E6%83%85%E5%86%B5">时间复杂度及对应情况</a></li><li><a href="#%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%8F%8A%E5%85%B6%E6%84%8F%E4%B9%89">稳定性及其意义</a></li></ul></li></ul></li><li><a href="#%E5%80%9F%E7%89%A9%E8%A1%A8">借物表</a></li></ul></li></ul></blockquote><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h2 id="列表">列表</h2><ol><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://blog.csdn.net/weixin_38607253/article/details/114154414">MetaAPP 部分笔试题</a></p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.cnblogs.com/guoxiaoyan/p/8664150.html">什么是“堆”,“栈”,“堆栈”,“队列”,它们的区别</a></p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.cnblogs.com/timecloud/p/6555868.html">到底产生几个 String 对象</a></p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.cnblogs.com/dolphin0520/p/3592500.html">浅谈 Java 中的 equals 和==</a></p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://mp.weixin.qq.com/s/SytfnrsYqequ2M7CnSY-IA">字节终面：两个文件的公共 url 怎么找？</a> / <a target="_blank" rel="noopener external nofollow noreferrer" href="https://mp.weixin.qq.com/s/TdJWFxrDAadK9UXar4WiRA">小米面试：孔融找梨</a></p><p>通过 hash 降低时间复杂度, 以及通过 hash 分治降低空间复杂度</p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://segmentfault.com/a/1190000022410446">详解 TCP 三次握手、四次挥手，附带精美图解和超高频面试题</a></p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://developer.51cto.com/article/614590.html">图文详解两种算法：深度优先遍历（DFS）和广度优先遍历（BFS）</a></p></li><li><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://blog.csdn.net/qq_39705793/article/details/81237005">异或的用途</a></p></li></ol><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h2 id="具体细节点">具体细节点</h2><h3 id="collection-map">collection-map</h3><blockquote><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/blog/RqkWHh.png" alt=""><br>取自菜鸟教程并 AI 放大 <sup id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p></blockquote><hr><h3 id="悲观锁-乐观锁">悲观锁-乐观锁</h3><p>对数据库中同一数据进行多个操作 (如 update),需要加锁来保证数据/操作正确 <sup id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p><ul><li><p>这里拿 Git 举例子:</p><p>有一个 Git 仓库, A,B,C 三个开发者负责不同开发任务</p><p><code>悲观锁</code>就是保证某一时刻只能一人进行一个任务,无论谁先开始,其他人必须等到前一位完成后,在前一位的提交结果上再做操作</p><p><code>乐观锁</code>就是让开发者可以同起点同时进行任务,第一位完成的可以正常提交,但是后续其他人的提交会产生合并冲突,把他们打回重做(在第一位提交后的基础上)</p><blockquote><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/blog/R13Vcg.png" alt="R13Vcg.png"></p></blockquote><hr></li><li><p>原理: <sup id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p><p>悲观锁实际上就是尝试加个排它锁,能加上锁就可以操作,不然说明数据正在被操作,等着</p><p>乐观锁是通过添加数据版本(版本号/时间戳)来校验,提交时数据版本一致就可以提交,否则是有冲突打回</p><hr></li><li><p>适用场景:</p><p>在高并发场景下, 乐观锁会大量打回,提交率不如悲观锁</p><p>低并发场景下, 不同任务同时操作同一数据概率低时, 乐观锁可以发挥多线程的性能优势</p></li></ul><hr><h4 id="上锁业务与读写性能分析">上锁业务与读写性能分析</h4><ul><li><p>悲观锁</p><p>在某一事务 for update 上锁后,其他所有线程 <code>不能读/写</code> 被锁数据直到 commit 后</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">begin</span>;</span><br><span class="line">Select...For <span class="keyword">Update</span>; # InnoDB 中用于加悲观锁的命令</span><br><span class="line">update...</span><br><span class="line"><span class="keyword">commit</span>;</span><br></pre></td></tr></table></figure></li><li><p>乐观锁</p><p>乐观锁是个概念锁, 不影响任何线程读写, 只是在更新数据/提交时校验与先前版本是否一致, 不一致的话不做更改</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">prev_version <span class="operator">=</span> <span class="keyword">select</span> version <span class="keyword">from</span> ...</span><br><span class="line"><span class="keyword">begin</span>;</span><br><span class="line">update...where version <span class="operator">=</span> prev_version;</span><br><span class="line"><span class="keyword">commit</span>;</span><br></pre></td></tr></table></figure></li><li><p>综上来看</p><p>高频写 -&gt; 悲观锁</p><p>高频读 -&gt; 乐观锁</p></li></ul><hr><h4 id="行锁与表锁">行锁与表锁</h4><p>当 <code>select...where...for update</code> 中 where 条件用了 <code>index / primary key</code>, 就会锁行,否则会锁表 <sup id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p><ul><li><p>我的理解:</p><p>含有 index / primary key 条件的查询结果一般只有一行,索引快,上锁性能损耗低</p><p>而不含的, 查出来的结果数据量庞大, 逐行加锁性能损耗太大, 不如直接锁表</p></li></ul><hr><h3 id="排序算法">排序算法</h3><h4 id="推荐文章">推荐文章</h4><blockquote><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.jianshu.com/p/ba57f02aa9db">IOS 排序算法之冒泡排序、插入排序、选择排序、希尔排序</a><br><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.jianshu.com/p/de09fa026ce1">IOS 排序算法之归并排序、快速排序</a><br><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.jianshu.com/p/8d2f484b803c">IOS 排序算法之桶排序、计数排序、基数排序</a></p></blockquote><hr><h4 id="快排">快排</h4><ul><li><p>思路一</p><figure class="highlight apache"><table><tr><td class="code"><pre><span class="line"><span class="attribute">arr</span>[<span class="number">10</span>]=&#123;<span class="number">49</span>, <span class="number">38</span>, <span class="number">10</span>, <span class="number">97</span>, <span class="number">76</span>, <span class="number">13</span>, <span class="number">27</span>, <span class="number">49</span>, <span class="number">8</span>, <span class="number">65</span>&#125;</span><br></pre></td></tr></table></figure><ol><li>选择第一位 arr[0]:49 为基准数</li><li>从左往右找比它大的或相等的,从右往左找比它小的或相等的,找到了两方交换 (比如 97-8, 76-49)</li></ol><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/blog/GhApPX.png" alt=""></p><ol start="3"><li>直到两方碰头结束,取碰头位置与基准数交换 (49-27); 没有的话就退出循环且不交换基准数</li><li>每轮结束后划分出左右两边子范围</li></ol><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/blog/GhAzng.png" alt=""></p><p>比如第一轮确定 49 之后,分出 [27-8],[13-65]两个子范围</p><p>第二轮确定 27 之后,分出 [8-10],[49-38]两个子范围</p><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/blog/GhAICP.png" alt=""></p><p>当子范围只有一个数时,不用遍历就可以直接确定位置了 (如上图框起来的数,在其旁边的数确定位置时就可以同时确定位置)</p><hr></li><li><p>思路二</p><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://mp.weixin.qq.com/s?__biz=Mzg5MzgwOTgzMg==&amp;mid=2247503394&amp;idx=1&amp;sn=d0b4b1d86dbea63401d6f0b7723b9163&amp;source=41#wechat_redirect">上厕所的功夫，学会了快速排序算法</a></p><p>在某区间中取最左/最右为基准,并给定左右两边移动指针</p><p>左边有坑的话右指针向左遍历找比基准小的, 右边有坑的话左指针向右遍历找比基准大的, 找到的话就填坑, 两指针相遇就把基准填在相遇位置, 然后子序列再排序</p></li></ul><hr><h4 id="时间复杂度及对应情况">时间复杂度及对应情况</h4><p>面试中被问到了, 只粗浅答出来了时间复杂度, 至于如何推理/在什么场景下会出现就不知道了…</p><blockquote><p>比如: 快排什么情况下最快, 什么情况下最慢<br><a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.jianshu.com/p/742d0a19d933">排序算法总结</a></p></blockquote><hr><h4 id="稳定性及其意义">稳定性及其意义</h4><p>稳定性指的是对序列中相同的值, 排序后会不会顺序改变</p><p>对于多个相同序列, 我们使用同一排序算法得到的结果<code>肯定相同</code></p><p>如果使用不同排序算法, 或者用同一算法把序列排序多次, 结果<code>不一定相同</code>, 取决于稳定性</p><blockquote><p>举个例子，一个班的学生已经按照学号大小排好序了，我现在要求按照年龄从小到大再排个序，如果年龄相同的，必须按照学号从小到大的顺序排列。那么问题来了，你选择的年龄排序方法如果是不稳定的，是不是排序完了后年龄相同的一组学生学号就乱了，你就得把这组年龄相同的学生再按照学号拍一遍。如果是稳定的排序算法，我就只需要按照年龄排一遍就好了。 <sup id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p></blockquote><ul><li><p>另外一个题: 什么导致了快排不稳定?</p><p>这个问题不好解释, 其实看个例子就知道了:</p><figure class="highlight basic"><table><tr><td class="code"><pre><span class="line"><span class="symbol">5 </span> <span class="number">6</span> <span class="number">2</span> <span class="number">6</span>*  <span class="number">4</span>* <span class="number">8</span> <span class="number">4</span></span><br></pre></td></tr></table></figure><p>比如上面为待排序的数组, 以 5 为 pivot, 第一轮 6/4 和 6*/4*位置会调换, 然后 5/4*位置调换</p><figure class="highlight apache"><table><tr><td class="code"><pre><span class="line"><span class="attribute">4</span>*  <span class="number">4</span> <span class="number">2</span> <span class="number">5</span>  <span class="number">6</span>* <span class="number">8</span> <span class="number">6</span></span><br></pre></td></tr></table></figure><p>喏, 6/6* 调换位置了</p></li></ul><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h2 id="借物表">借物表</h2><p><a name="cite_note-1" href="#cite_ref-1">[1]</a>: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.runoob.com/java/java-arraylist.html">https://www.runoob.com/java/java-arraylist.html</a></p><p><a name="cite_note-2" href="#cite_ref-2">[2]</a>: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://bbs.huaweicloud.com/blogs/127449">如果我问你：排序算法的「稳定性」有何意义？你怎么回答？</a></p><p><a name="cite_note-4" href="#cite_ref-4">[4]</a>: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://zhuanlan.zhihu.com/p/31537871">什么是悲观锁和乐观锁</a></p><p><a name="cite_note-5" href="#cite_ref-5">[5]</a>: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://zhuanlan.zhihu.com/p/85803908">乐观锁与悲观锁深入学习</a></p><p><a name="cite_note-6" href="#cite_ref-6">[6]</a>: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://mp.weixin.qq.com/s/5bSLAhIATj89fFQ4uAc-Ww">字节一面：select…for update 会锁表还是锁行？</a></p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css"></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a target="_blank" rel="noopener" href="https://weidows.github.io/">⎛⎝Weidows⎠⎞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://blog.weidows.tech/post/experience/dev/interview/">https://blog.weidows.tech/post/experience/dev/interview/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://blog.weidows.tech" target="_blank">⭐️齐下无贰⭐️</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E9%9D%A2%E8%AF%95/">面试</a></div><div class="post_share"><div class="social-share" data-image="https://pan.weidows.tech/d/local/blog/Z0I1NC.png" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload='this.media="all"'><script src="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMQ5xr.jpg" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNujq.jpg" alt="微信"></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMNj0c.jpg" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNrb5.jpg" alt="支付宝"></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/post/lang/python/code/ML/" title="👀Code-4-Machine-Learning"><img class="cover" src="https://pan.weidows.tech/d/local/blog/RsEzqc.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">👀Code-4-Machine-Learning</div></div></a></div><div class="next-post pull-right"><a href="/post/lang/python/AI/AI/" title="🐊All-about-AI"><img class="cover" src="https://pan.weidows.tech/d/local/blog/RaxR4K.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">🐊All-about-AI</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/experience/LeetCode/1/" title="😵‍💫跟力扣斗智斗勇-log-1"><img class="cover" src="https://pan.weidows.tech/d/local/blog/RCFDqX.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-06</div><div class="title">😵‍💫跟力扣斗智斗勇-log-1</div></div></a></div><div><a href="/post/lang/JavaScript/CORS/" title="😡一次解决CORS经验记录."><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVSiWo.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">😡一次解决CORS经验记录.</div></div></a></div><div><a href="/post/lang/ts/issues/" title="🤗工作中遇到的前端问题和场景"><img class="cover" src="https://pan.weidows.tech/d/local/blog/aa5c42e751d8e6502bedf1ebfa378530d3dd61183ef88635af6815b4bf0d9df6.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2025-04-21</div><div class="title">🤗工作中遇到的前端问题和场景</div></div></a></div></div></div><hr class="custom-hr"><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="author-info__name">⎛⎝Weidows⎠⎞</div><div class="author-info__description">May all the beauty be bless.✨</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">149</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">219</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">48</div></a></div><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Weidows" rel="external nofollow noreferrer" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:utsuko27@qq.com" rel="external nofollow noreferrer" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQ1NC.jpg" rel="external nofollow noreferrer" target="_blank" title="QQ号"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQRaK.jpg" rel="external nofollow noreferrer" target="_blank" title="微信号"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/38283369" rel="external nofollow noreferrer" target="_blank"><i class="fa-brands fa-bilibili"></i></a><a class="social-icon" href="/categories/rss" target="_blank" title="RSS"><i class="fa fa-rss-square"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><center><h2 style="color:#0ff">-> 欢迎,锟斤拷! <-</h2><h3 style="color:gray">低情商：代码一坨屎<br>高情商：兼容性极强</h3>欢迎加我QQ或群 942848525 <img src="https://moe.counter.weidows.tech/Weidows?theme=rule34" style="width:100%"></center></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">凉经-面试题</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%88%97%E8%A1%A8"><span class="toc-text">列表</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B7%E4%BD%93%E7%BB%86%E8%8A%82%E7%82%B9"><span class="toc-text">具体细节点</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#collection-map"><span class="toc-text">collection-map</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%82%B2%E8%A7%82%E9%94%81-%E4%B9%90%E8%A7%82%E9%94%81"><span class="toc-text">悲观锁-乐观锁</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E4%B8%8A%E9%94%81%E4%B8%9A%E5%8A%A1%E4%B8%8E%E8%AF%BB%E5%86%99%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90"><span class="toc-text">上锁业务与读写性能分析</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E8%A1%8C%E9%94%81%E4%B8%8E%E8%A1%A8%E9%94%81"><span class="toc-text">行锁与表锁</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95"><span class="toc-text">排序算法</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%8E%A8%E8%8D%90%E6%96%87%E7%AB%A0"><span class="toc-text">推荐文章</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%BF%AB%E6%8E%92"><span class="toc-text">快排</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%8F%8A%E5%AF%B9%E5%BA%94%E6%83%85%E5%86%B5"><span class="toc-text">时间复杂度及对应情况</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%8F%8A%E5%85%B6%E6%84%8F%E4%B9%89"><span class="toc-text">稳定性及其意义</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%80%9F%E7%89%A9%E8%A1%A8"><span class="toc-text">借物表</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"><img src="https://pan.weidows.tech/d/local/blog/owlk10.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"></a><div class="content"><a class="title" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night">🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night</a><time datetime="2025-04-24T05:53:49.515Z" title="更新于 2025-04-24 13:53:49">2025-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/golang/wutils/README/" title="🎉Docs-wutils"><img src="https://pan.weidows.tech/d/local/blog/1d36e9d50555af6fca23e5fd36246cf5490809012.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🎉Docs-wutils"></a><div class="content"><a class="title" href="/post/lang/golang/wutils/README/" title="🎉Docs-wutils">🎉Docs-wutils</a><time datetime="2025-04-24T05:53:49.211Z" title="更新于 2025-04-24 13:53:49">2025-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/python/AI/application/" title="AI-application"><img src="https://pan.weidows.tech/d/local/img/404.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="AI-application"></a><div class="content"><a class="title" href="/post/lang/python/AI/application/" title="AI-application">AI-application</a><time datetime="2025-04-24T05:53:21.000Z" title="更新于 2025-04-24 13:53:21">2025-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/design/placeholder/" title="🤯Idea-占位符"><img src="https://pan.weidows.tech/d/local/blog/oDhham.gif" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🤯Idea-占位符"></a><div class="content"><a class="title" href="/post/design/placeholder/" title="🤯Idea-占位符">🤯Idea-占位符</a><time datetime="2025-04-21T12:29:01.000Z" title="更新于 2025-04-21 20:29:01">2025-04-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/system/RaspberryPi/" title="树莓派酱の吃灰日常"><img src="https://pan.weidows.tech/d/local/blog/GV4VHQ.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="树莓派酱の吃灰日常"></a><div class="content"><a class="title" href="/post/system/RaspberryPi/" title="树莓派酱の吃灰日常">树莓派酱の吃灰日常</a><time datetime="2025-04-21T12:29:01.000Z" title="更新于 2025-04-21 20:29:01">2025-04-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/tools/device/" title="📱设备生平录"><img src="https://pan.weidows.tech/d/local/blog/ZWDWlq.gif" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="📱设备生平录"></a><div class="content"><a class="title" href="/post/tools/device/" title="📱设备生平录">📱设备生平录</a><time datetime="2025-04-21T12:29:01.000Z" title="更新于 2025-04-21 20:29:01">2025-04-21</time></div></div></div></div></div></div></main><footer id="footer" style="background-image:url(https://pan.weidows.tech/d/local/blog/Z0I1NC.png)"><div id="footer-wrap"><div class="copyright">&copy;2020 - ⎛⎝Weidows⎠⎞ - 2025</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/Weidows/Weidows.github.io" target="_blank" title="静态网页托管" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Vercel + GithubPage</span></a></div><div class="github-badge"><a style="color:#fff;vertical-align:middle" rel="external nofollow noopener noreferrer" href="https://wakatime.com/@bd43b19c-e71d-4edd-a297-cc2989d16939" target="_blank" title="Total time coded since Feb 6 2021"><img src="https://wakatime.com/badge/user/bd43b19c-e71d-4edd-a297-cc2989d16939.svg"></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://pan.weidows.tech" target="_blank" title="图床及 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">Cloudflare</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.foreverblog.cn/blog/6104.html" target="_blank" title="一个人的寂寞，一群人的狂欢。" data-pjax-state=""><span class="badge-subject">十年之约</span></a><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://icp.gov.moe/?keyword=20244090" target="_blank" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" data-pjax-state=""><span class="badge-value bg-gradient-2">萌ICP备-20244090号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.9.0"></script><script src="/js/main.js?v=4.9.0"></script><script src="https://fastly.jsdelivr.net/npm/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.umd.min.js"></script><script src="https://fastly.jsdelivr.net/npm/instant.page@5.2.0/instantpage.min.js" type="module"></script><script src="https://fastly.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.iife.min.js"></script><div class="js-pjax"><script>(() => {
+  const $mermaid = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaid.length === 0) return
+  const runMermaid = () => {
+    window.loadMermaid = true
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'neutral' : 'default'
+
+    Array.from($mermaid).forEach((item, index) => {
+      const mermaidSrc = item.firstElementChild
+      const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+      const mermaidID = 'mermaid-' + index
+      const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+
+      const renderFn = mermaid.render(mermaidID, mermaidDefinition)
+
+      const renderV10 = () => {
+        renderFn.then(({svg}) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svg)
+        })
+      }
+
+      const renderV9 = svg => {
+        mermaidSrc.insertAdjacentHTML('afterend', svg)
+      }
+
+      typeof renderFn === 'string' ? renderV9(renderFn) : renderV10()
+    })
+  }
+
+  const loadMermaid = () => {
+    window.loadMermaid ? runMermaid() : getScript('https://fastly.jsdelivr.net/npm/mermaid@10.2.2/dist/mermaid.min.js').then(runMermaid)
+  }
+
+  btf.addModeChange('mermaid', runMermaid)
+
+  window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+})()</script><script>function loadWaline () {
+  function initWaline () {
+    const waline = Waline.init(Object.assign({
+      el: '#waline-wrap',
+      serverURL: 'https://waline.weidows.tech',
+      pageview: false,
+      dark: 'html[data-theme="dark"]',
+      path: window.location.pathname,
+      comment: false,
+    }, {"emoji":["https://fastly.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba"]}))
+  }
+
+  if (typeof Waline === 'object') initWaline()
+  else {
+    getCSS('https://fastly.jsdelivr.net/npm/@waline/client@2.15.5/dist/waline.min.css').then(() => {
+      getScript('https://fastly.jsdelivr.net/npm/@waline/client@2.15.5/dist/waline.min.js').then(initWaline)
+    })
+  }
+}
+
+if ('Waline' === 'Waline' || !true) {
+  if (true) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/fireworks.min.js"></script><script defer id="ribbon" src="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/canvas-ribbon.min.js" size="150" alpha="0.6" zindex="-1" mobile="true" data-click="true"></script><script src="https://fastly.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: true,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll
+  window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
+  window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
+
+  document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', 'G-BHH5BNEG3S', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+  Weidows.re();
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span> 数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"></div></div><hr><div class="no-result" id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js?v=4.9.0"></script></div></div><script src="/assets/mmedia/mmedia-loader.js"></script></body></html>

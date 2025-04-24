@@ -1,0 +1,326 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>k8s | ⭐️齐下无贰⭐️</title><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="k8s   k8s  Interview  Distributed-Scheduling  Background Analyze Arch-graph Modules-Design-doc Considerations   System-Architecture-Design  Background Arch-graph Modules-Design-docs   GPU-optimization"><meta property="og:type" content="article"><meta property="og:title" content="k8s"><meta property="og:url" content="https://blog.weidows.tech/post/system/k8s/k8s/"><meta property="og:site_name" content="⭐️齐下无贰⭐️"><meta property="og:description" content="k8s   k8s  Interview  Distributed-Scheduling  Background Analyze Arch-graph Modules-Design-doc Considerations   System-Architecture-Design  Background Arch-graph Modules-Design-docs   GPU-optimization"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://pan.weidows.tech/d/local/blog/26a5bd0cb4cc47e6dd826531fd839cf72e6c7adacba1c40344a303c501e6baa1.jpg"><meta property="article:published_time" content="2024-08-07T14:29:27.000Z"><meta property="article:modified_time" content="2024-08-10T10:50:22.000Z"><meta property="article:author" content="⎛⎝Weidows⎠⎞"><meta property="article:tag" content="design"><meta property="article:tag" content="system"><meta property="article:tag" content="k8s"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://pan.weidows.tech/d/local/blog/26a5bd0cb4cc47e6dd826531fd839cf72e6c7adacba1c40344a303c501e6baa1.jpg"><link rel="shortcut icon" href="https://pan.weidows.tech/d/local/img/avatar/avatar.png"><link rel="canonical" href="https://blog.weidows.tech/post/system/k8s/k8s/"><link rel="preconnect" href="//fastly.jsdelivr.net"><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="baidu-site-verification" content="codeva-S90fjC0lEU"><link rel="stylesheet" href="/css/index.css?v=4.9.0"><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" media="print" onload='this.media="all"'><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.min.css" media="print" onload='this.media="all"'><script async src="https://www.googletagmanager.com/gtag/js?id=G-BHH5BNEG3S"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-BHH5BNEG3S")</script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://fastly.jsdelivr.net/npm/flickr-justified-gallery@2.1.2/dist/fjGallery.min.js',
+      css: 'https://fastly.jsdelivr.net/npm/flickr-justified-gallery@2.1.2/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"k8s",isPost:!0,isHome:!1,isHighlightShrink:!1,isToc:!0,postUpdate:"2024-08-10 18:50:22"}</script><noscript><style type="text/css">#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+    win.getCSS = (url,id = false) => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      if (id) link.id = id
+      link.onerror = reject
+      link.onload = link.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        link.onload = link.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(link)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script><script src="https://fastly.jsdelivr.net/combine/gh/dylanNew/live2d/webgl/Live2D/lib/live2d.min.js,npm/pixi.js@6.5.2/dist/browser/pixi.min.js,npm/pixi-live2d-display/dist/index.min.js,gh/Weidows-projects/Live2dLoader/dist/Live2dLoader.min.js"></script><meta name="baidu-site-verification" content="codeva-hhGzt89VUk"><script>let HEXO_MMEDIA_DATA = { js: [], css: [], aplayerData: [], metingData: [], artPlayerData: [], dplayerData: []};</script><meta name="generator" content="Hexo 7.3.0"></head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
+
+document.addEventListener('pjax:send', () => {
+  Pace.restart()
+})</script><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/pace-js@1.2.4/themes/blue/pace-theme-minimal.min.css"><script src="https://fastly.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">149</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">219</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">48</div></a></div><hr class="custom-hr"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image:url(https://pan.weidows.tech/d/local/blog/26a5bd0cb4cc47e6dd826531fd839cf72e6c7adacba1c40344a303c501e6baa1.jpg)"><nav id="nav"><span id="blog-info"><a href="/" title="⭐️齐下无贰⭐️"><span class="site-name">⭐️齐下无贰⭐️</span></a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">k8s</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-08-07T14:29:27.000Z" title="发表于 2024-08-07 22:29:27">2024-08-07</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-08-10T10:50:22.000Z" title="更新于 2024-08-10 18:50:22">2024-08-10</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/system/">system</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/system/k8s/">k8s</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">2.6k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>14分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" data-flag-title="k8s"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1>k8s</h1><blockquote class="pullquote mindmap mindmap-md"><ul><li><a href="#k8s">k8s</a><ul><li><a href="#interview">Interview</a><ul><li><a href="#distributed-scheduling">Distributed-Scheduling</a><ul><li><a href="#background">Background</a></li><li><a href="#analyze">Analyze</a></li><li><a href="#arch-graph">Arch-graph</a></li><li><a href="#modules-design-doc">Modules-Design-doc</a></li><li><a href="#considerations">Considerations</a></li></ul></li><li><a href="#system-architecture-design">System-Architecture-Design</a><ul><li><a href="#background-1">Background</a></li><li><a href="#arch-graph-1">Arch-graph</a></li><li><a href="#modules-design-docs">Modules-Design-docs</a></li></ul></li><li><a href="#gpu-optimization">GPU-optimization</a><ul><li><a href="#background-2">Background</a></li><li><a href="#thought">Thought</a><ul><li><a href="#cn">CN</a></li><li><a href="#en">EN</a></li></ul></li></ul></li></ul></li><li><a href="#%E5%80%9F%E7%89%A9%E8%A1%A8">借物表</a></li></ul></li></ul></blockquote><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h2 id="Interview">Interview</h2><blockquote><p>From: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/cloudpilot-ai/interview">https://github.com/cloudpilot-ai/interview</a></p></blockquote><h3 id="Distributed-Scheduling">Distributed-Scheduling</h3><h4 id="Background">Background</h4><p>In all cloud providers, like AWS, Google, and others, there are many spot instances. They are quite cheap (10% of the on-demand instances’ price), but after you buy them, they could be terminated with only two minutes’ notice in advance (in most scenarios, we don’t set PDB, and we should perform the graceful drain).</p><p>So, I want you to design a strategy to maximize the use of spot instances without causing service interruptions, instead of relying solely on on-demand instances, to cut costs, by using distributed scheduling in a single cluster (on-demand/spot mixed or other methods for one workload). This is important because all spot instances being terminated at the same time could cause interruptions for different kinds of workloads (single replica workload, multiple replica workload).</p><p>Also, I don’t want to change the scheduler already used in the K8s cluster and want to ensure the minimal components necessary in the cluster.</p><p>Notes:</p><blockquote><ol><li>On demand nodes has label: <a target="_blank" rel="noopener external nofollow noreferrer" href="http://node.kubernetes.io/capacity:">node.kubernetes.io/capacity:</a> on-demand.</li><li>Spot node has label: <a target="_blank" rel="noopener external nofollow noreferrer" href="http://node.kubernetes.io/capacity:">node.kubernetes.io/capacity:</a> spot.</li><li>Workloads represented as Deployments and StatefulSets.</li><li>on-demand/spot instance represented as K8s nodes in the cluster.</li><li>Only focus on scheduling control; the graceful drain after receiving the terminal notification is handled by other components.</li></ol></blockquote><hr><h4 id="Analyze">Analyze</h4><p>尽可能少的使用云平台 on-demand 实例, 转为使用 spot 降低成本</p><p>spot drain 比较频繁, 需要通过设计一套 schedule system 去解决 graceful drain in 2min 的问题</p><h4 id="Arch-graph">Arch-graph</h4><div class="mermaid-wrap"><pre class="mermaid-src" hidden>
+  graph TD
+    subgraph k8s cluster
+        A[On-demand node]
+        B[Spot node]
+    end
+
+    C[kube-scheduler]
+    D[Distributed Scheduling controler]
+    E[Event listener]
+    F[re-schedule]
+    G[k8s API Server]
+    H[Cloud Provider&#39;s notification]
+
+    A --&gt; C
+    B --&gt; C
+    C --&gt; D
+    D --&gt; E
+    D --&gt; G
+    E --&gt; F
+    F --&gt; G
+    H --&gt; D
+  </pre></div><h4 id="Modules-Design-doc">Modules-Design-doc</h4><ul><li><p>kube-scheduler:</p><p>It handles the initial placement of Pods on the available nodes (either On-demand or Spot). It makes decisions based on resource availability, but it doesn’t handle the dynamic nature of Spot instances, which is why it passes control to the Distributed Scheduling Controller.</p></li><li><p>Distributed Scheduling Controller:</p><p>This is a custom controller that monitors the state of Spot nodes. It reacts to termination notifications from the cloud provider, triggering re-scheduling of Pods from Spot nodes to On-demand nodes when necessary. It interacts with both the <code>kube-scheduler</code> and <code>k8s API Server</code> to coordinate these actions.</p></li><li><p>Event Listener:</p><p>A sub-component of the Distributed Scheduling Controller, it listens for termination notifications from the Cloud Provider. When a notification is received, it initiates the re-scheduling process by triggering the necessary operations within the controller.</p></li><li><p>re-schedule:</p><p>This module represents the actual process of migrating Pods from Spot nodes to On-demand nodes. It ensures that services continue running smoothly by moving affected workloads to stable nodes before the Spot nodes are terminated.</p></li><li><p>Cloud Provider’s Notification:</p><p>This is the external signal from the cloud provider indicating that a Spot node is about to be terminated. The Distributed Scheduling Controller listens for this notification and triggers re-scheduling as needed.</p></li></ul><hr><h4 id="Considerations">Considerations</h4><ul><li><p>Handling Spot Instance Termination:</p><p>The system must efficiently handle the rapid termination of Spot instances, ensuring that critical workloads are quickly migrated to On-demand nodes without causing service disruptions.</p></li><li><p>Monitoring and Responsiveness:</p><p>The Event Listener and Distributed Scheduling Controller must be highly responsive to termination notifications. Delays in re-scheduling could lead to service outages.</p></li><li><p>Resource Management:</p><p>It’s crucial to ensure that there are always enough resources available on On-demand nodes to accommodate Pods migrating from Spot nodes. Resource constraints can lead to scheduling failures.</p></li><li><p>System Compatibility:</p><p>The integration between the <code>kube-scheduler</code>, Distributed Scheduling Controller, and <code>k8s API Server</code> should be seamless to avoid conflicts in Pod scheduling and state management.</p></li><li><p>Testing and Reliability:</p><p>The system should be thoroughly tested to handle different failure scenarios, such as mass Spot instance terminations or API Server unavailability, to ensure it can recover gracefully.</p></li></ul><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h3 id="System-Architecture-Design">System-Architecture-Design</h3><h4 id="Background-2">Background</h4><p>Our rough system architecture is illustrated as follows:</p><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/blog/%E5%89%AA%E8%B4%B4%E6%9D%BF-20240810.png" alt="Architecture Diagram"></p><p>Customers install an agent component in their clusters, which pushes metrics to the API endpoint (<a target="_blank" rel="noopener external nofollow noreferrer" href="https://api.xxx.com">https://api.xxx.com</a>). On the server side, our API server processes and stores these metrics in the database. Another controller analyzes each cluster and provides optimization recommendations to customers, depicted as follows:</p><p>I want you to outline a rough design document for the system that ensures high availability, security, and performance.</p><blockquote><p>Hint: This can be implemented using Kubernetes (K8s) technologies, such as HPA. But for different components, we need use different technologies.</p></blockquote><p>Notes:</p><blockquote><ol><li>You don’t need to think about the database.</li><li>For one customer’s cluster, only one agent is installed, it will scrap metrics from the customer’s cluster’s kube-apiserver.</li><li>Focus on architecture design, not specific implementation.</li></ol></blockquote><h4 id="Arch-graph-2">Arch-graph</h4><div class="mermaid-wrap"><pre class="mermaid-src" hidden>
+  graph TD
+    subgraph Client Side
+        B([Monitoring Agent])
+        C[Command Executor]
+        D((K8s Cluster))
+        E[Cloud Platform]
+    end
+
+    subgraph Server Side
+        F[API Gateway]
+        G[Authorization Service]
+        H[Message Queue]
+        I[Worker Nodes]
+        J([Processing Service])
+        K[(Database Module)]
+        L[Instruction Generation Module]
+    end
+
+    B --&gt;|Collects Data| D
+    B --&gt;|Sends Data| F
+    E --&gt;|Notice| B
+    F --&gt; G
+    F --&gt;|Sends Instruction| B
+    F --&gt; H
+    G --&gt; J
+    H --&gt; I
+    I --&gt; J
+    J --&gt; K
+    J --&gt; L
+    L --&gt; F
+    B --&gt; C
+    C --&gt; D
+  </pre></div><h4 id="Modules-Design-docs">Modules-Design-docs</h4><ol><li><p>Monitoring Agent (Client Side)<br>Function: The Monitoring Agent is responsible for collecting real-time data from the client-side Kubernetes cluster and receiving notifications from the cloud platform, such as spot instance termination messages. It then sends this data to the Server Side API Gateway.</p><p>Necessity: This module is crucial for maintaining an up-to-date overview of the client-side environment, enabling the system to react dynamically to changes.</p><p>Advantages: Centralizes data collection and processing of cloud notifications, making the client-side environment more responsive and easier to manage.</p></li><li><p>Command Executor (Client Side)<br>Function: Receives instructions from the Monitoring Agent and executes them on the Kubernetes cluster. Before executing, it assesses the real-time environment to ensure optimal decision-making.</p><p>Necessity: Ensures that commands are executed with consideration of the current state of the client environment, improving operational efficiency.</p><p>Advantages: Adds a layer of decision-making that enhances the flexibility and responsiveness of the system, reducing the risk of executing commands that could negatively impact the environment.</p></li><li><p>Kubernetes Cluster (Client Side)<br>Function: Represents the client-side Kubernetes infrastructure where workloads are deployed and managed.</p><p>Necessity: The core environment where all client-side applications run, making it the focal point of monitoring and command execution.</p><p>Advantages: Allows for scalable and automated management of containerized applications.</p></li><li><p>Cloud Platform (Client Side)<br>Function: Sends spot instance termination notices or other relevant notifications to the Monitoring Agent.</p><p>Necessity: Critical for handling the dynamic and volatile nature of spot instances, which are commonly used to optimize cost.</p><p>Advantages: Enhances the system’s ability to preemptively respond to changes in the cloud environment, improving uptime and reducing potential disruptions.</p></li><li><p>API Gateway (Server Side)<br>Function: Acts as the central entry point for all data sent from the client side. It handles the routing of data to the appropriate backend services, including sending instructions back to the client side.</p><p>Necessity: Essential for managing communication between the client and server sides, ensuring secure, scalable, and organized data flow.</p><p>Advantages: Provides a centralized control point for authentication, authorization, and traffic management, enhancing the system’s overall security and scalability.</p></li><li><p>Authorization Service (Server Side)<br>Function: Handles the authentication and authorization of incoming data and commands, ensuring that only verified and authorized actions are processed.</p><p>Necessity: Critical for maintaining the security and integrity of the system by preventing unauthorized access and operations.</p><p>Advantages: Adds a strong security layer to the system, protecting against potential breaches and unauthorized data manipulation.</p></li><li><p>Message Queue (Server Side)<br>Function: Decouples the ingestion of data from its processing, allowing for high-throughput and reliable handling of large volumes of data.</p><p>Necessity: Ensures that data from multiple clients can be processed asynchronously, improving system resilience and scalability.</p><p>Advantages: Enhances the system’s ability to handle bursts of data and maintain performance under heavy load, reducing the likelihood of bottlenecks.</p></li><li><p>Worker Nodes (Server Side)<br>Function: Consume messages from the queue and process the data or commands as required.</p><p>Necessity: Essential for executing the bulk of the system’s processing tasks in a distributed and scalable manner.</p><p>Advantages: Supports horizontal scaling, allowing the system to handle increasing workloads by simply adding more worker nodes.</p></li><li><p>Processing Service (Server Side)<br>Function: Core service responsible for processing the data received from the client side, making decisions, and interacting with other server-side components like the database and instruction generation module.</p><p>Necessity: Central to the system’s ability to analyze client data and generate appropriate responses or commands.</p><p>Advantages: Provides a flexible and extensible processing framework that can be tailored to specific application needs.</p></li><li><p>Database Module (Server Side)<br>Function: Stores processed data, including logs, metrics, and historical records, for analysis and reporting.</p><p>Necessity: Ensures that all critical data is persisted for future reference, analysis, and compliance requirements.</p><p>Advantages: Offers high availability and scalability, ensuring that the system can store and retrieve data efficiently as it grows.</p></li><li><p>Instruction Generation Module (Server Side)<br>Function: Generates commands and instructions based on the processed data, which are then sent back to the client side via the API Gateway.</p><p>Necessity: Enables the system to actively manage and optimize client-side operations based on real-time data.</p><p>Advantages: Allows for automated, data-driven decision-making, enhancing the system’s overall efficiency and responsiveness.</p></li></ol><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h3 id="GPU-optimization">GPU-optimization</h3><h4 id="Background-3">Background</h4><p>Please open your mind. In the AI world today, every company uses GPUs for training and inference. Is there anything we can do to reduce the cost of GPUs for training and inference?</p><p>Alternatively, are there other areas in the public cloud(K8s) that could be optimized?</p><h4 id="Thought">Thought</h4><h5 id="CN">CN</h5><p>因为我之前待过的公司和创业的公司都是主要涉及 AI, 这块还算比较熟悉, 痛点考虑点如下:</p><ol><li><p>AI 项目 (Python 为主) 可迁移性比较差, 与操作系统算是半强绑定</p><p>不同于 CPU, GPU 是个原子化的东西, 没法再拆分了, 而且 GPU 对 CPU 的性能依赖也是线性关联</p><p>torch 这边还算比较成熟/版本切换自由, 但还是有很多库, 乃至 cuda 对操作系统有侵入和依赖性</p><p>如何考虑要让客户端容器能扩缩, 需要额外适配下如何完善的装好依赖</p></li><li><p>train / inference 的任务对性能的优化并不是很好</p><p>毕竟大多都是研究团队发 paper 用的, 代码很多是一团糟, 适配多进程都很少见, 更不用说适配容器化了</p><p>涉及到利用容器技术进行扩缩, 不太乐观, 这需要开发者手动去适配代码, 不然扩到 100 核只占用满 10 核也是很有可能的</p><p>train 的任务非常非常非常怕中断, 哪怕是开发者自己也说不准不同电脑上进行训练到底需要多高的性能, 所以一般会开性能冗余很多的机子</p><p>数据集 IO 这块的话压力一般来说不算太过分, 可以考虑用 k8s 技术进行读共享, 写需要额外操作</p></li><li><p>GPU 共享平台最近有雏形了, 利用容器技术搞这个应该不错</p><p>毕竟确实有一些不在乎钱的团队整晚开着机子不用</p><p>而且 GPU 租用平台的受众还是蛮大的, 能用上容器的话, 比常规整租 GPU 的平台应该能便宜些</p></li><li><p>如果考虑可插入性的, 那就只有在 pod 内跑多个容器了</p><p>不过还是有预测问题, AI 领域的应用, 跑起来后显存占用起伏比较大且随机</p><p>会很容易出现突发性性能抢占</p></li></ol><h5 id="EN">EN</h5><p>Since the companies I’ve worked for and the startups I’ve been involved in have primarily focused on AI, I’m fairly familiar with this area. The pain points and considerations are as follows:</p><ol><li><p><strong>AI Project (Mainly Python) Portability Is Relatively Poor, With a Semi-Strong Binding to the Operating System</strong></p><p>Unlike CPUs, GPUs are atomic entities and cannot be further split. Moreover, the performance of GPUs is linearly dependent on the CPU’s capabilities.</p><p>While Torch is relatively mature and allows for flexible version switching, there are still many libraries, and even CUDA, that have invasive dependencies on the operating system. To ensure that a client container can scale up or down, additional adjustments may be necessary to ensure that dependencies are properly installed.</p></li><li><p><strong>The Performance Optimization for Train/Inference Tasks Is Not Very Good</strong></p><p>Since most of these tasks are designed by research teams for publishing papers, the code is often quite messy, with little adaptation for multiprocessing, let alone containerization.</p><p>When it comes to utilizing container technology for scaling, the outlook is not very optimistic. Developers often need to manually adapt the code;<br>otherwise, it’s possible to scale up to 100 cores but only fully utilize 10 of them.</p><p>Training tasks are highly sensitive to interruptions, and even developers themselves cannot accurately predict the required performance on different machines for training, so they generally opt for machines with a significant performance surplus.</p><p>The pressure on dataset I/O is generally not too excessive and can be managed with Kubernetes technology for read-sharing, but additional operations are needed for writes.</p></li><li><p><strong>There Is a Preliminary GPU Sharing Platform, and Using Container Technology for This Seems Promising</strong></p><p>After all, there are indeed teams that don’t mind leaving their machines running all night without use. Additionally, the market for GPU rental platforms is quite large.</p><p>If container technology can be utilized, it could potentially be cheaper than conventional GPU rental platforms that require full-time GPU leasing.</p></li><li><p><strong>If Considering Plug-and-Play Capability, Then Running Multiple Containers Within a Pod Is the Only Option</strong></p><p>However, there is still the issue of prediction. In the field of AI applications, the memory usage can fluctuate significantly and randomly once the process starts running.</p><p>This could easily lead to sudden performance contention.</p></li></ol><p><a><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p><h2 id="借物表">借物表</h2><p><a name="cite_note-1" href="#cite_ref-1">[1]</a>: Google &amp; ChatGPT</p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css"></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a target="_blank" rel="noopener" href="https://weidows.github.io/">⎛⎝Weidows⎠⎞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://blog.weidows.tech/post/system/k8s/k8s/">https://blog.weidows.tech/post/system/k8s/k8s/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://blog.weidows.tech" target="_blank">⭐️齐下无贰⭐️</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/design/">design</a><a class="post-meta__tags" href="/tags/system/">system</a><a class="post-meta__tags" href="/tags/k8s/">k8s</a></div><div class="post_share"><div class="social-share" data-image="https://pan.weidows.tech/d/local/blog/26a5bd0cb4cc47e6dd826531fd839cf72e6c7adacba1c40344a303c501e6baa1.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload='this.media="all"'><script src="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMQ5xr.jpg" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNujq.jpg" alt="微信"></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMNj0c.jpg" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNrb5.jpg" alt="支付宝"></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/post/lang/ts/nextjs/" title="fullstack-matters-next-全栈框架搭建过程中遇到的问题记录"><img class="cover" src="https://pan.weidows.tech/d/local/blog/12f1b6611fa7be4f0d5613953b7187d312806405.jpg" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">fullstack-matters-next-全栈框架搭建过程中遇到的问题记录</div></div></a></div><div class="next-post pull-right"><a href="/post/Web/cloudflare/" title="cloudflare-使用及问题记录"><img class="cover" src="https://pan.weidows.tech/d/local/blog/20240807115314.jpg" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">cloudflare-使用及问题记录</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/design/architecture/distribution-scheduler/" title="分布式调度系统设计|distribution-scheduler-system"><img class="cover" src="https://pan.weidows.tech/d/local/img/404.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-10</div><div class="title">分布式调度系统设计|distribution-scheduler-system</div></div></a></div><div><a href="/post/design/placeholder/" title="🤯Idea-占位符"><img class="cover" src="https://pan.weidows.tech/d/local/blog/oDhham.gif" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2025-04-21</div><div class="title">🤯Idea-占位符</div></div></a></div><div><a href="/post/system/hosts/" title="巧用hosts更好地连接局域网设备"><img class="cover" src="https://pan.weidows.tech/d/local/blog/photo_2023-01-31_03-03-46.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-09-18</div><div class="title">巧用hosts更好地连接局域网设备</div></div></a></div><div><a href="/post/system/server/serv00/" title="serv00-服务搭建记录"><img class="cover" src="https://pan.weidows.tech/d/local/blog/%E5%89%AA%E8%B4%B4%E6%9D%BF-20240401.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">serv00-服务搭建记录</div></div></a></div><div><a href="/post/experience/dev/problem/" title="🚚开发之旅~"><img class="cover" src="https://pan.weidows.tech/d/local/blog/GVL2dA.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-06</div><div class="title">🚚开发之旅~</div></div></a></div></div></div><hr class="custom-hr"><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="author-info__name">⎛⎝Weidows⎠⎞</div><div class="author-info__description">May all the beauty be bless.✨</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">149</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">219</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">48</div></a></div><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Weidows" rel="external nofollow noreferrer" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:utsuko27@qq.com" rel="external nofollow noreferrer" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQ1NC.jpg" rel="external nofollow noreferrer" target="_blank" title="QQ号"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQRaK.jpg" rel="external nofollow noreferrer" target="_blank" title="微信号"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/38283369" rel="external nofollow noreferrer" target="_blank"><i class="fa-brands fa-bilibili"></i></a><a class="social-icon" href="/categories/rss" target="_blank" title="RSS"><i class="fa fa-rss-square"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><center><h2 style="color:#0ff">-> 欢迎,锟斤拷! <-</h2><h3 style="color:gray">低情商：代码一坨屎<br>高情商：兼容性极强</h3>欢迎加我QQ或群 942848525 <img src="https://moe.counter.weidows.tech/Weidows?theme=rule34" style="width:100%"></center></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">k8s</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Interview"><span class="toc-text">Interview</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Distributed-Scheduling"><span class="toc-text">Distributed-Scheduling</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Background"><span class="toc-text">Background</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Analyze"><span class="toc-text">Analyze</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Arch-graph"><span class="toc-text">Arch-graph</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Modules-Design-doc"><span class="toc-text">Modules-Design-doc</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Considerations"><span class="toc-text">Considerations</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#System-Architecture-Design"><span class="toc-text">System-Architecture-Design</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Background-2"><span class="toc-text">Background</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Arch-graph-2"><span class="toc-text">Arch-graph</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Modules-Design-docs"><span class="toc-text">Modules-Design-docs</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#GPU-optimization"><span class="toc-text">GPU-optimization</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Background-3"><span class="toc-text">Background</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Thought"><span class="toc-text">Thought</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#CN"><span class="toc-text">CN</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#EN"><span class="toc-text">EN</span></a></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%80%9F%E7%89%A9%E8%A1%A8"><span class="toc-text">借物表</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"><img src="https://pan.weidows.tech/d/local/blog/owlk10.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"></a><div class="content"><a class="title" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night">🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night</a><time datetime="2025-04-24T05:53:49.515Z" title="更新于 2025-04-24 13:53:49">2025-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/golang/wutils/README/" title="🎉Docs-wutils"><img src="https://pan.weidows.tech/d/local/blog/1d36e9d50555af6fca23e5fd36246cf5490809012.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🎉Docs-wutils"></a><div class="content"><a class="title" href="/post/lang/golang/wutils/README/" title="🎉Docs-wutils">🎉Docs-wutils</a><time datetime="2025-04-24T05:53:49.211Z" title="更新于 2025-04-24 13:53:49">2025-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/python/AI/application/" title="AI-application"><img src="https://pan.weidows.tech/d/local/img/404.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="AI-application"></a><div class="content"><a class="title" href="/post/lang/python/AI/application/" title="AI-application">AI-application</a><time datetime="2025-04-24T05:53:21.000Z" title="更新于 2025-04-24 13:53:21">2025-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/design/placeholder/" title="🤯Idea-占位符"><img src="https://pan.weidows.tech/d/local/blog/oDhham.gif" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🤯Idea-占位符"></a><div class="content"><a class="title" href="/post/design/placeholder/" title="🤯Idea-占位符">🤯Idea-占位符</a><time datetime="2025-04-21T12:29:01.000Z" title="更新于 2025-04-21 20:29:01">2025-04-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/system/RaspberryPi/" title="树莓派酱の吃灰日常"><img src="https://pan.weidows.tech/d/local/blog/GV4VHQ.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="树莓派酱の吃灰日常"></a><div class="content"><a class="title" href="/post/system/RaspberryPi/" title="树莓派酱の吃灰日常">树莓派酱の吃灰日常</a><time datetime="2025-04-21T12:29:01.000Z" title="更新于 2025-04-21 20:29:01">2025-04-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/tools/device/" title="📱设备生平录"><img src="https://pan.weidows.tech/d/local/blog/ZWDWlq.gif" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="📱设备生平录"></a><div class="content"><a class="title" href="/post/tools/device/" title="📱设备生平录">📱设备生平录</a><time datetime="2025-04-21T12:29:01.000Z" title="更新于 2025-04-21 20:29:01">2025-04-21</time></div></div></div></div></div></div></main><footer id="footer" style="background-image:url(https://pan.weidows.tech/d/local/blog/26a5bd0cb4cc47e6dd826531fd839cf72e6c7adacba1c40344a303c501e6baa1.jpg)"><div id="footer-wrap"><div class="copyright">&copy;2020 - ⎛⎝Weidows⎠⎞ - 2025</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/Weidows/Weidows.github.io" target="_blank" title="静态网页托管" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Vercel + GithubPage</span></a></div><div class="github-badge"><a style="color:#fff;vertical-align:middle" rel="external nofollow noopener noreferrer" href="https://wakatime.com/@bd43b19c-e71d-4edd-a297-cc2989d16939" target="_blank" title="Total time coded since Feb 6 2021"><img src="https://wakatime.com/badge/user/bd43b19c-e71d-4edd-a297-cc2989d16939.svg"></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://pan.weidows.tech" target="_blank" title="图床及 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">Cloudflare</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.foreverblog.cn/blog/6104.html" target="_blank" title="一个人的寂寞，一群人的狂欢。" data-pjax-state=""><span class="badge-subject">十年之约</span></a><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://icp.gov.moe/?keyword=20244090" target="_blank" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" data-pjax-state=""><span class="badge-value bg-gradient-2">萌ICP备-20244090号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.9.0"></script><script src="/js/main.js?v=4.9.0"></script><script src="https://fastly.jsdelivr.net/npm/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.umd.min.js"></script><script src="https://fastly.jsdelivr.net/npm/instant.page@5.2.0/instantpage.min.js" type="module"></script><script src="https://fastly.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.iife.min.js"></script><div class="js-pjax"><script>(() => {
+  const $mermaid = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaid.length === 0) return
+  const runMermaid = () => {
+    window.loadMermaid = true
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'neutral' : 'default'
+
+    Array.from($mermaid).forEach((item, index) => {
+      const mermaidSrc = item.firstElementChild
+      const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+      const mermaidID = 'mermaid-' + index
+      const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+
+      const renderFn = mermaid.render(mermaidID, mermaidDefinition)
+
+      const renderV10 = () => {
+        renderFn.then(({svg}) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svg)
+        })
+      }
+
+      const renderV9 = svg => {
+        mermaidSrc.insertAdjacentHTML('afterend', svg)
+      }
+
+      typeof renderFn === 'string' ? renderV9(renderFn) : renderV10()
+    })
+  }
+
+  const loadMermaid = () => {
+    window.loadMermaid ? runMermaid() : getScript('https://fastly.jsdelivr.net/npm/mermaid@10.2.2/dist/mermaid.min.js').then(runMermaid)
+  }
+
+  btf.addModeChange('mermaid', runMermaid)
+
+  window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+})()</script><script>function loadWaline () {
+  function initWaline () {
+    const waline = Waline.init(Object.assign({
+      el: '#waline-wrap',
+      serverURL: 'https://waline.weidows.tech',
+      pageview: false,
+      dark: 'html[data-theme="dark"]',
+      path: window.location.pathname,
+      comment: false,
+    }, {"emoji":["https://fastly.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba"]}))
+  }
+
+  if (typeof Waline === 'object') initWaline()
+  else {
+    getCSS('https://fastly.jsdelivr.net/npm/@waline/client@2.15.5/dist/waline.min.css').then(() => {
+      getScript('https://fastly.jsdelivr.net/npm/@waline/client@2.15.5/dist/waline.min.js').then(initWaline)
+    })
+  }
+}
+
+if ('Waline' === 'Waline' || !true) {
+  if (true) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/fireworks.min.js"></script><script defer id="ribbon" src="https://fastly.jsdelivr.net/npm/butterfly-extsrc@1.1.3/dist/canvas-ribbon.min.js" size="150" alpha="0.6" zindex="-1" mobile="true" data-click="true"></script><script src="https://fastly.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: true,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll
+  window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
+  window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
+
+  document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', 'G-BHH5BNEG3S', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+  Weidows.re();
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span> 数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"></div></div><hr><div class="no-result" id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js?v=4.9.0"></script></div></div><script src="/assets/mmedia/mmedia-loader.js"></script></body></html>

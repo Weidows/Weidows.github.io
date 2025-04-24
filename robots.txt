@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /page/
+Allow: /post/
+Allow: /tags/
+Allow: /assets/
+Allow: /js/
+Allow: /lib/
+Allow: /css/
+
+Sitemap: https://blog.weidows.tech/sitemap.xml
