@@ -1,0 +1,974 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;design&#34; category</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2024-07-29T18:48:23.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="笔记" />
+    <category term="English" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="宝塔面板" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="rime" />
+    <category term="输入法" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="Emmet" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="机器学习" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <category term="天文学" />
+    <category term="物理" />
+    <entry>
+        <id>https://blog.weidows.tech/post/design/architecture/distribution-scheduler/</id>
+        <title>分布式调度系统设计|distribution-scheduler-system</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/architecture/distribution-scheduler/"/>
+        <content type="html">&lt;h1&gt;分布式调度系统设计|distribution-scheduler-system&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-09 11:25:47
+ * @FilePath: \Blog-private\source\_posts\design\architecture\distribution-scheduler.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%86%E5%B8%83%E5%BC%8F%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1distribution-scheduler-system&#34;&gt;分布式调度系统设计|distribution-scheduler-system&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#from-learning&#34;&gt;From-learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#skynet&#34;&gt;skynet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9E%B6%E6%9E%84%E5%9B%BE&#34;&gt;架构图&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;From-learning&#34;&gt;From-learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;任务 (Job) 在解决什么:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;多个服务 A 需要调用服务 B&lt;/p&gt;
+&lt;p&gt;避免 B 太忙, 可以用作排队等待&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;定时任务&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在 10s 后执行 xx 任务&lt;/li&gt;
+&lt;li&gt;cron job&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分布式 (distribution) 在解决什么:&lt;/p&gt;
+&lt;p&gt;单节点性能总归是有极限, 分布式可以高可用&lt;/p&gt;
+&lt;p&gt;以及可以避免单节点挂掉&lt;/p&gt;
+&lt;p&gt;拆分任务单元和执行单元, 避免执行器因挂掉/高负载导致任务无法执行或执行慢&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;skynet&#34;&gt;skynet&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cuigh/skynet&#34;&gt;https://github.com/cuigh/skynet&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;前司领导写的项目, 他带我工作中用到过, 而且写的很干净, 就拿它分析了&lt;/p&gt;
+&lt;p&gt;WIP…&lt;/p&gt;
+&lt;h3 id=&#34;架构图&#34;&gt;架构图&lt;/h3&gt;
+&lt;p&gt;有参考网上文章 &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;, 不过是我自己设计+画的, 想法相当粗糙&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/1723165149145.png&#34; alt=&#34;designed by@Weidows&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://github.com/xuxueli/xxl-job/&#34;&gt;https://github.com/xuxueli/xxl-job/&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="design" />
+        <category term="system" />
+        <category term="distribution" />
+        <updated>2024-07-29T18:48:23.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/design/placeholder/</id>
+        <title>🤯Idea-占位符</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/placeholder/"/>
+        <content type="html">&lt;h1&gt;Idea-占位符&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-10-30 19:09:02
+ * @FilePath: \Blog-private\source\_posts\design\placeholder.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#idea-%E5%8D%A0%E4%BD%8D%E7%AC%A6&#34;&gt;Idea-占位符&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#name&#34;&gt;Name&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Name&#34;&gt;Name&lt;/h2&gt;
+&lt;p&gt;很喜欢 Rozalia / Arcadia 这种名字, 在想有没有还没人设被占用的&lt;/p&gt;
+&lt;p&gt;所以, 下面是我想到的好名字, 加个 SEO 先占一下&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;kaf / kap 变种
+&lt;ol&gt;
+&lt;li&gt;kafsella 尤其喜欢这个, 好叫好听&lt;/li&gt;
+&lt;li&gt;kapsella
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%8D%A0%E8%8F%9C&#34;&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/oIm7dv.png&#34; alt=&#34;oIm7dv.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;同音不同词, 很常见的荠菜&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;kafsea&lt;/li&gt;
+&lt;li&gt;kapsel&lt;/li&gt;
+&lt;li&gt;kaftia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;kar
+&lt;ol&gt;
+&lt;li&gt;1.karsella&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;sae&lt;/li&gt;
+&lt;li&gt;Xelenstia&lt;/li&gt;
+&lt;li&gt;haneko
+&lt;ol&gt;
+&lt;li&gt;花猫/羽子&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;老滚风格
+&lt;ol&gt;
+&lt;li&gt;瑞仑图納尔 Relenstunalr&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无.&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="ideas" />
+        <category term="design" />
+        <updated>2023-12-12T11:41:53.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/design/architecture/</id>
+        <title>🏗️企业管理与架构设计</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/architecture/"/>
+        <content type="html">&lt;h1&gt;企业管理与架构设计&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:00:45
+ * @FilePath: \Blog-private\source\_posts\design\architecture.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&#34;&gt;企业管理与架构设计&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%A1%E7%90%86%E8%AE%BE%E8%AE%A1&#34;&gt;管理设计&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6-%E4%BB%98%E8%B4%B9%E6%9C%8D%E5%8A%A1%E7%9A%84%E9%80%89%E6%8B%A9&#34;&gt;开源软件-付费服务的选择&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B0%91%E5%BC%80%E4%BC%9A&#34;&gt;少开会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%BB%8F%E5%85%B8%E4%BE%8B%E5%AD%90&#34;&gt;经典例子&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%83%96%E5%B8%83%E4%B8%81%E6%B8%B8%E6%88%8F&#34;&gt;胖布丁游戏&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%9A%87%E6%9D%83%E5%88%B6%E8%A1%A1&#34;&gt;皇权制衡&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&#34;&gt;架构设计&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E9%97%AE%E9%A2%98&#34;&gt;目录结构问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BA%92%E8%81%94%E7%BD%91%E5%90%8E%E5%8F%B0%E6%9E%B6%E6%9E%84&#34;&gt;互联网后台架构&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1&#34;&gt;产品设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本章起草于一篇关于企业选择 ‘开源软件 or 付费服务’ 的讨论 &lt;sup id=&#39;cite_ref-01&#39;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;思考如何进行组织/企业化的管理, 以及应对 ToB/ToC 产品的人员管理/技术架构 &lt;code&gt;起底设计&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;管理设计&#34;&gt;管理设计&lt;/h2&gt;
+&lt;h3 id=&#34;开源软件-付费服务的选择&#34;&gt;开源软件-付费服务的选择&lt;/h3&gt;
+&lt;p&gt;实际上就是 &lt;code&gt;人力资源成本-服务价值&lt;/code&gt; 之间的衡量&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开源软件弊病:&lt;/p&gt;
+&lt;p&gt;配置,维护,摸索学习的成本高&lt;/p&gt;
+&lt;p&gt;开发者说不定拍拍屁股 -&amp;gt; &lt;code&gt;deprecated&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;资源调度方面,兼容性差: 比如想搞一个企业级图床,需要购置大宽带,服务器,cdn,硬盘等; 自己搞性价比低不稳定,不如直接上云服务.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is where the maxim of open source being ‘free as in puppies not free as in beer/lunch’ comes from.&lt;sup id=&#39;cite_ref-01&#39;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;免费的是最贵的&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;人力时间成本往往被忽视的很厉害&lt;/p&gt;
+&lt;p&gt;按时薪 50 RMB/per h 计算, 2 天/人次就是 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;50&lt;/mn&gt;&lt;mo&gt;∗&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;∗&lt;/mo&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;800&lt;/mn&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mi&gt;M&lt;/mi&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;50 * 2 * 8 = 800 RMB&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;50&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;∗&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;∗&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;800&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05017em;&#34;&gt;RMB&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;所以说一旦涉及 &lt;code&gt;机器服务&lt;/code&gt;,买付费服务绝对是性价比更高的.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;少开会&#34;&gt;少开会&lt;/h3&gt;
+&lt;p&gt;遇到的很多上级喜欢开会 (尤其是不碰代码的人), 以为互相沟通进展能提高效率&lt;/p&gt;
+&lt;p&gt;实际上很多工作也就两三个人合作起来, 微信沟通足够了, 开会只是走个形式和浪费不相关人的时间&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建议的方案是: 最勤一周一次, 对于同一工作可以选代表轮流参会, 非必要内容闲人不需参会&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;经典例子&#34;&gt;经典例子&lt;/h3&gt;
+&lt;h4 id=&#34;胖布丁游戏&#34;&gt;胖布丁游戏&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV14r4y1Y77K&#34;&gt;我第一家公司做倒闭了 胖布丁游戏小棉花 钱从哪来系列 游戏纪录片 S01E02&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一百个人一百个哈姆雷特, 定会有所收获&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;皇权制衡&#34;&gt;皇权制衡&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Bv411p7uz/&#34;&gt;为什么皇帝明知道谁是奸臣却不除掉他？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;架构设计&#34;&gt;架构设计&lt;/h2&gt;
+&lt;h3 id=&#34;目录结构问题&#34;&gt;目录结构问题&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;今天整理文件夹时遇到的小问题:&lt;/p&gt;
+&lt;p&gt;我的目录如下,因为在整理时发现在 Audio/Image 下也有要整理的素材&lt;/p&gt;
+&lt;p&gt;如果每个里面都搞一个&amp;quot;素材&amp;quot;文件夹又显得多余,于是动手开始合并 Audio,Image,Video 这三个文件夹&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Audio&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|&amp;gt; 素材&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Image&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|&amp;gt; 素材&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Video&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;|&amp;gt; 素材&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;but&lt;/p&gt;
+&lt;p&gt;整理过程中发现简单粗暴地合并会给我的人为检索带来困难:&lt;/p&gt;
+&lt;p&gt;大多东西 (比如歌/MV/涩图) 都是&lt;code&gt;单方面的内容&lt;/code&gt;,不涉及另外两方面&lt;/p&gt;
+&lt;p&gt;所以一旦合并,人为检索复杂度会 1 -&amp;gt; 2~3&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最终选择:&lt;/p&gt;
+&lt;p&gt;运用 &lt;code&gt;解耦&lt;/code&gt; 思想,把&amp;quot;素材&amp;quot;抽离出来;&lt;/p&gt;
+&lt;p&gt;尽管你可能人为&amp;quot;素材&amp;quot;应该是那三个的子分类,但是这种结构应该才是最优解&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Audio&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Image&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; Video&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;|&amp;gt; 素材&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🤔🤣 是不是很傻的问题呢? 我倒是感觉这种抽象化思维很有帮助.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;互联网后台架构&#34;&gt;互联网后台架构&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/U4htId6IvjsXLqr4kAEEdw&#34;&gt;张力柯：从技术演变的角度看互联网后台架构(附视频回顾）&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;产品设计&#34;&gt;产品设计&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.woshipm.com/pd/4395305.html&#34;&gt;SaaS 产品设计，从 0 到 1 案例实操&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-01&#39; href=&#39;#cite_ref-01&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://news.ycombinator.com/item?id=27917069&#34;&gt;https://news.ycombinator.com/item?id=27917069&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.36kr.com/p/1723330929851395&#34;&gt;https://www.36kr.com/p/1723330929851395&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.36dianping.com/dianping/4783401210&#34;&gt;https://www.36dianping.com/dianping/4783401210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/easychen/one-person-businesses-methodology&#34;&gt;https://github.com/easychen/one-person-businesses-methodology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lazyparser/minimalist-team-leader&#34;&gt;https://github.com/lazyparser/minimalist-team-leader&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="设计" />
+        <category term="架构" />
+        <category term="公司" />
+        <category term="管理" />
+        <category term="doing" />
+        <updated>2021-11-28T15:18:29.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/design/%E6%91%84%E5%BD%B1/</id>
+        <title>💧摄影方面的细节收集.</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/%E6%91%84%E5%BD%B1/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:00:27
+ * @FilePath: \Blog-private\source\_posts\design\摄影.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%89%E5%BD%B1&#34;&gt;光影&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%92%E5%BA%A6&#34;&gt;角度&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%B0%E8%A7%92&#34;&gt;仰角&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%91%E6%83%B3%E8%81%8A%E8%81%8A%E7%9A%84&#34;&gt;我想聊聊的:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B0%83%E8%89%B2&#34;&gt;调色&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;光影&#34;&gt;光影&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV18J411B7or&#34;&gt;当一部电影少了灯光师会变成什么样？是时候让国内导演看看了&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人眼本能就是第一眼看明暗对比最强烈的地方，紧跟着注意力放松，关注点逐渐往暗面涣散，被暗面中隐约的细节吸引。不使用任何一种构图法的情况下，优秀的灯光布置可以独立完成视觉引导的工作，对画面最终的展示效果大大增色。所有视觉设计相关的工作都能从学习灯光中获得裨益。​&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;角度&#34;&gt;角度&lt;/h2&gt;
+&lt;h3 id=&#34;仰角&#34;&gt;仰角&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先感谢摄影作者及搬运 up 的分享,图片左上角有 up 的名字.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;拍摄人物时结合&lt;code&gt;仰角+宽镜头+一定距离&lt;/code&gt;更能凸显出&lt;code&gt;人与景的融合&lt;/code&gt;&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVEyRz.jpg&#34; alt=&#34;Screenshot20210313171420&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;给人以宏大的观感&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;另外还有有一张&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVJBQ5.jpg&#34; alt=&#34;Screenshot20210313171408&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;这种照片国内并不是很流行,感觉国内一些摄影方式过于局限在&lt;code&gt;人&lt;/code&gt;身上,宽泛却只包括&lt;code&gt;表情,动作&lt;/code&gt;,而对于取景这方面没下太大功夫,这种有点&lt;code&gt;非主流&lt;/code&gt;的摄影方式确实更能让人眼前一亮.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后一张&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVEj6R.jpg&#34; alt=&#34;Screenshot20210313171427&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;正如:&lt;code&gt;画自会说话&lt;/code&gt;,一句;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;也贴合另外一句:&lt;code&gt;一千个人看这个照片有一千种感受&lt;/code&gt;,看到这个画面感受挺多,但说不出开具体是哪一种.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;语文老师常说的: &lt;code&gt;融情于景&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;我想聊聊的&#34;&gt;我想聊聊的:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我个人对国内大部分婚纱摄影(也不单单指婚纱摄影方面)不是很满意,不过想也自然,结婚方对此不是很感冒,婚办方也只想拿钱走人,于是衍生出了如今这种&lt;code&gt;半自动式婚纱摄影&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我所向往的婚纱照,是两人最美好时刻的&lt;code&gt;时间刻印&lt;/code&gt;,而非像是&lt;code&gt;任务打关&lt;/code&gt;一样在摄影馆一进一出…&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;具体而言,我个人对&lt;code&gt;华丽的西装裙摆,豪华的别墅房车,贵族样得风情庭院&lt;/code&gt;,这种土老帽一样的 &lt;code&gt;scene&lt;/code&gt; 有些抗拒 🤔&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;来个例子(网图),这里打了马赛克了,对人物并无恶意,单单评价摄影方式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVsb9g.png&#34; alt=&#34;20210313180119&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一是,它真的不好看,还不如一件&lt;code&gt;白丝袜&lt;/code&gt;让我鼻血来的刺激 (当然可能大部分女方向往这种的,我不是女生,没经验 🤣)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;二是,它真的无法把&lt;code&gt;感情融入&lt;/code&gt;相片里.你仔细瞅瞅周围亲戚们拍相片时的表情 (是不是略带僵硬?)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;三是,它真的很难勾魂.谁看到自己的婚纱照会说&amp;quot;我还想再跟你去一次?&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所以,个人比较倾向的是 &lt;code&gt;双人游拍&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;没有人比另一半更能发掘你的美&lt;/code&gt; (别说不能 😂)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;毕竟也不可能请一位摄影师天天守着拍两人秀恩爱的画面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最后,我想把对&lt;code&gt;她和景色&lt;/code&gt; 的感情,掺杂进镜头,即使是演的,也要演的两人都信以为真,容不得第三人插足此时此刻此情此景.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;调色&#34;&gt;调色&lt;/h2&gt;
+&lt;p&gt;不知道把这个归到哪一类了,算到摄影里凑凑数吧…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开局一张图,故事全靠编&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVA8Ln.png&#34; alt=&#34;20210510230442&#34; /&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比较风雅照片风格,感觉比较适合&lt;code&gt;人物日常&lt;/code&gt;,印象中尤其是一些高档休闲店铺喜欢用的照片风格 (咖啡厅,甜品店)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;很歉意的&lt;/code&gt;,找不到原创作者地址了(因为是偶然刷到的)…他给的调色面板&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVaSe1.png&#34; alt=&#34;1620631630921&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="设计" />
+        <category term="摄影" />
+        <updated>2021-03-13T09:18:34.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/design/UI-design/</id>
+        <title>🙌UI-平面设计</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/UI-design/"/>
+        <content type="html">&lt;h1&gt;UI-平面设计&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-01-30 18:40:45
+ * @LastEditors: Weidows
+ * @LastEditTime: 2022-09-01 20:12:51
+ * @FilePath: \Blog-private\source\_posts\design\UI-design.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ui-%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1&#34;&gt;UI-平面设计&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%B4%E5%9B%BE%E8%AE%BE%E8%AE%A1&#34;&gt;头图设计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%91%88%E7%8E%B0%E6%96%B9%E5%BC%8F&#34;&gt;呈现方式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9B%BE%E5%A4%A7%E4%BA%8E%E5%AD%97&#34;&gt;图大于字&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9D%9E%E6%A0%87%E5%87%86%E4%B8%8E%E7%95%99%E7%99%BD&#34;&gt;非标准与留白&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E8%89%B2&#34;&gt;配色&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%89%B2%E5%8D%A1&#34;&gt;色卡&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;头图设计&#34;&gt;头图设计&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一张好看的图片能有啥效果?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[x] 吊起胃口&lt;/li&gt;
+&lt;li&gt;[x] 引人入胜&lt;/li&gt;
+&lt;li&gt;[x] 图片养眼&lt;/li&gt;
+&lt;li&gt;[x] 吟唱施法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;于是,找到个比较&lt;code&gt;中肯&lt;/code&gt;的知乎问答:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/313933884&#34;&gt;微信公众号推送封面如何设计制作？&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;从博客文章头图无从下手切入的,以往就是百度谷歌搜关键词,找一个好看的图,但是耦合性太差,想找个流水线式解决方案.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;起初是因为看到 &lt;code&gt;@小康博客&lt;/code&gt; 的文章头图,感觉很好看,于是去找的方案.&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV49wA.png&#34; alt=&#34;20210127191714&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我发现并没有太过快速的生成器(哈哈哈不能一口吃个胖子)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;但是找到了不少好模板网站.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;推荐下,我这篇文章用的是&lt;a href=&#34;https://www.canva.cn/&#34;&gt;&lt;code&gt;可画&lt;/code&gt;&lt;/a&gt; 网做出来的,我改了改字就可以使用了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上手时间成本几乎没有,现阶段可以说是最直接有效的解决方案了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;呈现方式&#34;&gt;呈现方式&lt;/h2&gt;
+&lt;h3 id=&#34;图大于字&#34;&gt;图大于字&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;有些情况下,同样的内容,同样的格式性,图片效果还是会更显著&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVmbFr.png&#34; alt=&#34;20210226172913&#34; /&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVmnUq.png&#34; alt=&#34;20210226173119&#34; /&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;非标准与留白&#34;&gt;非标准与留白&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如上面的两张图,有毛边效果,用的好的话可以让人眼前一亮(我截的图比较差)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还有留白(padding),下图的留白就不是很好,略小了&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVmiTc.png&#34; alt=&#34;20210226173845&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配色&#34;&gt;配色&lt;/h2&gt;
+&lt;p&gt;之前自己调整了一个 &lt;a href=&#34;https://vscodethemes.com/?text=weidows&#34;&gt;vscode 主题&lt;/a&gt;, 虽然用了很久了,但总感觉还可以再精进一步&lt;/p&gt;
+&lt;p&gt;恰逢见到此视频讲解配色,有空修理一番:&lt;/p&gt;
+&lt;style&gt;.bbplayer{width: 100%; max-width: 850px; margin: auto}&lt;/style&gt;&lt;div class=&#34;bbplayer&#34;&gt;&lt;iframe class=&#34;bbplayer&#34; id=&#34;mmedia-nGYrFJuLcAMINVps&#34; src=&#34;https://player.bilibili.com/player.html?bvid=BV1oV411p7AW&amp;page=1&amp;high_quality=1&amp;danmaku=true&amp;autoplay=0&#34; allowfullscreen=&#34;allowfullscreen&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;0&#34; framespacing=&#34;0&#34; sandbox=&#34;allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt; document.getElementById(&#34;mmedia-nGYrFJuLcAMINVps&#34;).style.height=document.getElementById(&#34;mmedia-nGYrFJuLcAMINVps&#34;).scrollWidth*0.76+&#34;px&#34;;
+    window.onresize = function(){
+      document.getElementById(&#34;mmedia-nGYrFJuLcAMINVps&#34;).style.height=document.getElementById(&#34;mmedia-nGYrFJuLcAMINVps&#34;).scrollWidth*0.76+&#34;px&#34;;
+    }; &lt;/script&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;色卡&#34;&gt;色卡&lt;/h3&gt;
+&lt;p&gt;复制到 vscode 就会呈现出颜色&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;颜色名&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;十六进制&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;RGB&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;SteelBlue&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#4682B4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(70, 130, 180)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Tan&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#D2B48C&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(210, 180, 140)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Teal&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#008080&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(0, 128, 128)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Thistle&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#D8BFD8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(216, 191, 216)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Tomato&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#FF6347&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(255, 99, 71)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Turquoise&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#40E0D0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(64, 224, 208)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Violet&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#EE82EE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(238, 130, 238)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VioletRed&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#D02090&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(208, 32, 144)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Wheat&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#F5DEB3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(245, 222, 179)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;White&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#FFFFFF&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(255, 255, 255)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;WhiteSmoke&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#F5F5F5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(245, 245, 245)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Yellow&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#FFFF00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(255, 255, 0)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;YellowGreen&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#9ACD32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;rgb(154, 205, 50)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;蒂芙尼&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#67c5c4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;deeppink&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;aqua&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#39C5BB&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#FFC910&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;#02C3F6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无…&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="设计" />
+        <category term="配色" />
+        <updated>2021-01-30T10:40:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/design/PS/</id>
+        <title>😵‍💫PS-中一些小用法</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/design/PS/"/>
+        <content type="html">&lt;h1&gt;PS-中一些小用法&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-11-29 12:05:07
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-05-14 01:55:26
+ * @FilePath: \Blog-private\source\_posts\design\PS.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ps-%E4%B8%AD%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%94%A8%E6%B3%95&#34;&gt;PS-中一些小用法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BF%AB%E6%8D%B7%E9%94%AE&#34;&gt;快捷键&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%A3%E9%94%81%E5%9B%BE%E5%B1%82&#34;&gt;解锁图层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF&#34;&gt;透明背景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9A%E5%90%91%E5%8F%98%E8%89%B2&#34;&gt;定向变色&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8E%BB%E6%B0%B4%E5%8D%B0&#34;&gt;去水印&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BD%AE%E5%BB%93-%E5%9B%BE%E7%89%87%E5%A1%AB%E5%85%85&#34;&gt;轮廓-图片填充&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;快捷键&#34;&gt;快捷键&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;复制图层&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + J&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;调整图层位置和大小&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;Ctrl + T&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;解锁图层&#34;&gt;解锁图层&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;索引模式无法解锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图像-&amp;gt;模式-&amp;gt;(索引颜色-&amp;gt;RGB 颜色)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV393v.png&#34; alt=&#34;20201129120716&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解锁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;双击图层&lt;/li&gt;
+&lt;li&gt;把锁拖进垃圾桶图标&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;透明背景&#34;&gt;透明背景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选择-&amp;gt;色彩范围，点击取色&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVErOM.png&#34; alt=&#34;20201129121309&#34;&gt;&lt;/li&gt;
+&lt;li&gt;选中后按 Delete&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;定向变色&#34;&gt;定向变色&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;变色前后对比&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLV5u.png&#34; alt=&#34;20210210193706&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;首先选择颜色范围,参考&lt;a href=&#34;#%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF&#34;&gt;透明背景&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后右键选择&lt;code&gt;填充&lt;/code&gt;,或者在菜单里找&lt;code&gt;【图像】——【调整】——【替换颜色】&lt;/code&gt;&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4sBv.png&#34; alt=&#34;20210210193939&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;填入目标色即可.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;去水印&#34;&gt;去水印&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/45458379&#34;&gt;PS 去水印的方法和技巧&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;轮廓-图片填充&#34;&gt;轮廓-图片填充&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用一张图的内容轮廓+另一张图的内容填充&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;如视频中的这样:&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/Gh21vg.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV12p4y1z7FZ?spm_id_from=..search-card.all.click&#34;&gt;【ps 小技巧/教程】 快速做出“文字用图片内容作填充”的效果，图片生成特定文字的轮廓效果|新手向|图片文字&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="备忘录" />
+        <category term="PS" />
+        <category term="设计" />
+        <updated>2020-11-29T04:05:07.000Z</updated>
+    </entry>
+</feed>

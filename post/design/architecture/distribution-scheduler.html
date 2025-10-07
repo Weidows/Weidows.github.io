@@ -1,0 +1,80 @@
+<hr>
+<p>title: 分布式调度系统设计|distribution-scheduler-system<br>
+password: “”<br>
+tags:</p>
+<ul>
+<li>system</li>
+<li>design</li>
+<li>distribution<br>
+katex: false<br>
+comments: true<br>
+aside: true<br>
+date: 2024-07-30 02:48:23<br>
+top_img:<br>
+cover:</li>
+</ul>
+<hr>
+<h1>分布式调度系统设计|distribution-scheduler-system</h1>
+<!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-09 11:25:47
+ * @FilePath: \Blog-private\source\_posts\design\architecture\distribution-scheduler.md
+ * @Description:
+ * @!: *********************************************************************
+-->
+<p>{% pullquote mindmap mindmap-sm %}</p>
+<ul>
+<li><a href="#%E5%88%86%E5%B8%83%E5%BC%8F%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1distribution-scheduler-system">分布式调度系统设计|distribution-scheduler-system</a>
+<ul>
+<li><a href="#from-learning">From-learning</a>
+<ul>
+<li><a href="#skynet">skynet</a></li>
+<li><a href="#%E6%9E%B6%E6%9E%84%E5%9B%BE">架构图</a></li>
+</ul>
+</li>
+<li><a href="#%E5%80%9F%E7%89%A9%E8%A1%A8">借物表</a></li>
+</ul>
+</li>
+</ul>
+<p>{% endpullquote %}</p>
+<p><a><img src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p>
+<h2 id="From-learning">From-learning</h2>
+<ul>
+<li>
+<p>任务 (Job) 在解决什么:</p>
+<ol>
+<li>
+<p>多个服务 A 需要调用服务 B</p>
+<p>避免 B 太忙, 可以用作排队等待</p>
+</li>
+<li>
+<p>定时任务</p>
+<ol>
+<li>在 10s 后执行 xx 任务</li>
+<li>cron job</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>分布式 (distribution) 在解决什么:</p>
+<p>单节点性能总归是有极限, 分布式可以高可用</p>
+<p>以及可以避免单节点挂掉</p>
+<p>拆分任务单元和执行单元, 避免执行器因挂掉/高负载导致任务无法执行或执行慢</p>
+</li>
+</ul>
+<hr>
+<h3 id="skynet">skynet</h3>
+<blockquote>
+<p><a href="https://github.com/cuigh/skynet">https://github.com/cuigh/skynet</a></p>
+</blockquote>
+<p>前司领导写的项目, 他带我工作中用到过, 而且写的很干净, 就拿它分析了</p>
+<p>WIP…</p>
+<h3 id="架构图">架构图</h3>
+<p>有参考网上文章 <sup id='cite_ref-1'><a href="#cite_note-1">[1]</a></sup>, 不过是我自己设计+画的, 想法相当粗糙</p>
+<p><img src="https://pan.weidows.tech/d/local/blog/1723165149145.png" alt="designed by@Weidows"></p>
+<p><a><img src="https://pan.weidows.tech/d/local/img/divider.png" alt="分割线"></a></p>
+<h2 id="借物表">借物表</h2>
+<p><a name='cite_note-1' href='#cite_ref-1'>[1]</a>: <a href="https://github.com/xuxueli/xxl-job/">https://github.com/xuxueli/xxl-job/</a></p>

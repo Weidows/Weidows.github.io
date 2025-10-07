@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;php&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 25 Aug 2020 01:50:37 +0000</pubDate>
+        <lastBuildDate>Tue, 25 Aug 2020 01:50:37 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>宝塔面板</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>Emmet</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>机器学习</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/lang/php/PHP_interface/</guid>
+            <title>关于在不会PHP的情况下调用PHP API</title>
+            <link>https://blog.weidows.tech/post/lang/php/PHP_interface/</link>
+            <category>备忘录</category>
+            <category>Website</category>
+            <category>PHP</category>
+            <pubDate>Tue, 25 Aug 2020 01:50:37 +0000</pubDate>
+            <description><![CDATA[ &lt;!--
+ * @Author: Weidows
+ * @Date: 2020-08-25 09:50:37
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-02-13 17:01:12
+ * @FilePath: \Weidowsd:\Game\Github\Blog-private\source\_posts\experience\PHP_interface.md
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%AE%80%E5%8D%95%E8%B0%83%E7%94%A8&#34;&gt;简单调用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#get-%E6%96%B9%E5%BC%8F%E7%9A%84%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8&#34;&gt;GET 方式的直接使用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;简单调用&#34;&gt;简单调用&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;他会提供相应接口给你的，具体调用方法就相当于讲求某个链接,如：&lt;br&gt;
+&lt;code&gt;http://localhost/operate.php?act=get_user_list&amp;amp;type=json&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在这里 operate.php 相当于一个接口，其中 get_user_list 是一个 API（获取用户列表），讲求返回的数据类型为 JSON 格式。&lt;/li&gt;
+&lt;li&gt;你只需要在你 PHP 代码中执行这条链接他就会返回。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;GET-方式的直接使用&#34;&gt;GET 方式的直接使用&lt;/h2&gt;
+&lt;p&gt;$file_contents = file_get_content(‘&lt;a href=&#34;http://localhost/operate.php?act=get_user_list&amp;amp;type=json&#34;&gt;http://localhost/operate.php?act=get_user_list&amp;amp;type=json&lt;/a&gt;’)&lt;/p&gt;
+&lt;p&gt;POST 方式得用下面的(需要开启 PHP curl 支持)。&lt;/p&gt;
+&lt;figure class=&#34;highlight gams&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;$url&lt;/span&gt; = &amp;#x27;http://localhost/operate.php?act=get_user_list&amp;amp;type=json&amp;#x27;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;$ch&lt;/span&gt; = curl_init ();&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;curl_setopt ( &lt;span class=&#34;symbol&#34;&gt;$&lt;/span&gt;ch, CURLOPT_URL, &lt;span class=&#34;symbol&#34;&gt;$&lt;/span&gt;url );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;curl_setopt ( &lt;span class=&#34;symbol&#34;&gt;$&lt;/span&gt;ch, CURLOPT_RETURNTRANSFER, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;curl_setopt ( &lt;span class=&#34;symbol&#34;&gt;$&lt;/span&gt;ch, CURLOPT_CONNECTTIMEOUT, &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt; );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;curl_setopt ( &lt;span class=&#34;symbol&#34;&gt;$&lt;/span&gt;ch, CURLOPT_POST, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; ); &lt;span class=&#34;comment&#34;&gt;//启用POST提交&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;$file&lt;/span&gt;_contents = curl_exec ( $ch );&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;curl_close ( &lt;span class=&#34;symbol&#34;&gt;$&lt;/span&gt;ch );&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

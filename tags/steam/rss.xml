@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;steam&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 12 Mar 2022 15:50:57 +0000</pubDate>
+        <lastBuildDate>Sat, 12 Mar 2022 15:50:57 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>宝塔面板</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>Emmet</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>机器学习</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/life/game/</guid>
+            <title>🥳一些游戏遇到的问题及攻略</title>
+            <link>https://blog.weidows.tech/post/life/game/</link>
+            <category>游戏</category>
+            <category>Steam</category>
+            <category>ARK</category>
+            <category>Noita</category>
+            <pubDate>Sat, 12 Mar 2022 15:50:57 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;些些游戏琐事&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-26 00:36:21
+ * @FilePath: \Blog-private\source\_posts\life\game.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BA%9B%E4%BA%9B%E6%B8%B8%E6%88%8F%E7%90%90%E4%BA%8B&#34;&gt;些些游戏琐事&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#epic&#34;&gt;EPIC&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BA%93%E7%A9%BA%E4%BA%86&#34;&gt;库空了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A7%BB%E5%8A%A8%E6%B8%B8%E6%88%8F&#34;&gt;移动游戏&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#steam&#34;&gt;Steam&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%A5%E5%BA%93%E4%BB%A3%E7%A0%81&#34;&gt;入库代码&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#wallpaper-engine&#34;&gt;Wallpaper-Engine&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AE%A2%E9%98%85%E5%8F%96%E6%B6%88%E6%97%A0%E6%B3%95%E5%88%A0%E9%99%A4%E5%A3%81%E7%BA%B8&#34;&gt;订阅取消无法删除壁纸&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B8%B8%E6%88%8F%E4%BD%8D%E7%BD%AE%E7%A7%BB%E5%8A%A8&#34;&gt;游戏位置移动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A2%AB%E7%9B%97%E5%88%B7%E7%A4%BE%E5%8C%BA%E5%B8%82%E5%9C%BA&#34;&gt;被盗刷社区市场&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%B9%E8%88%9F-ark&#34;&gt;方舟-ARK&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%94%81%E5%B8%A7&#34;&gt;锁帧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%94%B9%E7%89%A9%E5%93%81%E5%A0%86%E5%8F%A0%E6%95%B0%E9%87%8F&#34;&gt;更改物品堆叠数量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BD%9C%E5%BC%8A%E4%BB%A3%E7%A0%81&#34;&gt;作弊代码&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%92%E8%89%B2%E7%AD%89%E7%BA%A7%E4%B8%8A%E9%99%90&#34;&gt;角色等级上限&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%AC%BC%E6%B3%A3&#34;&gt;鬼泣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#steam-%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4%E5%8A%A8%E6%80%81&#34;&gt;steam-如何删除动态&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#noita&#34;&gt;Noita&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%A5%E9%97%A8&#34;&gt;入门&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B6%E4%BB%96%E6%B8%B8%E6%88%8F&#34;&gt;其他游戏&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B0%8F%E5%B0%8F%E6%A2%A6%E9%AD%87&#34;&gt;小小梦魇&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%9E%8E%E7%9C%BC%E5%8E%A8%E5%B8%88%E5%85%B3&#34;&gt;瞎眼厨师关&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%81%8B%E6%B4%BB&#34;&gt;恋活&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#discord&#34;&gt;Discord&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%99%BB%E5%BD%95%E9%AA%8C%E8%AF%81&#34;&gt;登录验证&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E9%82%80%E8%AF%B7&#34;&gt;无法接受邀请&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A0%E9%99%A4%E4%B8%B4%E6%97%B6%E6%B6%88%E6%81%AF&#34;&gt;删除临时消息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dmm&#34;&gt;DMM&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B5%9B%E9%A9%AC%E5%A8%98-steam-%E5%BF%AB%E9%80%9F%E7%99%BB%E5%BD%95&#34;&gt;赛马娘-steam-快速登录&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;EPIC&#34;&gt;EPIC&lt;/h2&gt;
+&lt;h3 id=&#34;库空了&#34;&gt;库空了&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;大概就是这么个情况:&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/RFHXkK.png&#34; alt=&#34;RFHXkK.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;试了如下方法:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用朋友电脑登录,库存正常显示&lt;/li&gt;
+&lt;li&gt;重装/清除 C 盘数据(program files,APPdata/Local 等都请了)/清理注册表 -&amp;gt; 都无效&lt;/li&gt;
+&lt;li&gt;把设置里所有选项试了个遍,无效&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;之后尝试用 GOG 看看库存,发现 GOG 上正常而且能调用 EPIC 安装游戏&lt;/p&gt;
+&lt;p&gt;于是我这样试了下安装了一个游戏,装完后惊奇的发现: 我叼出来了!&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/RFHq1b.png&#34; alt=&#34;RFHq1b.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;所以…解决办法就是随便装个游戏&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;移动游戏&#34;&gt;移动游戏&lt;/h3&gt;
+&lt;p&gt;比如我的 shapez 原始位置是 &lt;code&gt;E:\mystream\shapezaa2PF&lt;/code&gt;, 我想移动到 &lt;code&gt;D:\mystream\shapezaa2PF&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;定位到路径&lt;/p&gt;
+&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\ProgramData\Epic\EpicGamesLauncher\Data\Manifests&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;找到对应 manifest 改一下路径就行了&lt;/p&gt;
+&lt;figure class=&#34;highlight swift&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;FormatVersion&amp;quot;&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bIsIncompleteInstall&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;LaunchCommand&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;--disable-direct-composition --in-process-gpu&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;LaunchExecutable&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;shapezio.exe&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;ManifestLocation&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;D:&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;mystream&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;shapezaa2PF/.egstore&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;ManifestHash&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;d04a28b8b07406eb2b92f7a6ff969a58a38daa3f&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bIsApplication&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bIsExecutable&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bIsManaged&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bNeedsValidation&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bRequiresAuth&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bAllowMultipleInstances&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bCanRunOffline&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;bAllowUriCmdArgs&amp;quot;&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;BaseURLs&amp;quot;&lt;/span&gt;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;http://epicgames-download1.akamaized.net/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;http://download.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;http://download2.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;http://download3.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;http://download4.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;http://fastly-download.epicgames.com/Builds/Org/o-vcevjkg64lqrmhwvv95bvgsww28e43/6aac3071aeae452990a71aac0a1fbc30/default&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;BuildLabel&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Live&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;AppCategories&amp;quot;&lt;/span&gt;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;games&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;quot;applications&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;ChunkDbs&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;CompatibleApps&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;DisplayName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;shapez&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;InstallationGuid&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;B2439BDA471F426E0BB36883B0A4707D&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;InstallLocation&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;D:&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;mystream&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;shapezaa2PF&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;InstallSessionId&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;EA9500BC4315733ECB1B7D8D10D7D821&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;InstallTags&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;InstallComponents&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;HostInstallationGuid&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;00000000000000000000000000000000&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;PrereqIds&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;PrereqSHA1Hash&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;LastPrereqSucceededSHA1Hash&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;StagingLocation&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;D:&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;mystream&lt;span class=&#34;subst&#34;&gt;\\&lt;/span&gt;shapezaa2PF/.egstore/bps&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;TechnicalType&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;games,applications&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;VaultThumbnailUrl&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;VaultTitleText&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;InstallSize&amp;quot;&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;378312919&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;MainWindowProcessName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;ProcessNames&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;BackgroundProcessNames&amp;quot;&lt;/span&gt;: [],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;MandatoryAppFolderName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;shapezaa2PF&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;OwnershipToken&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;false&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;CatalogNamespace&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;315e6807f6684c279fc286d0fc36a44f&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;CatalogItemId&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;d9a609c6106046eab55014955f31448b&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;AppName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;e87a43f695bc409ca8858206678ac7e7&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;AppVersionString&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;1.5.5&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;MainGameCatalogNamespace&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;315e6807f6684c279fc286d0fc36a44f&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;MainGameCatalogItemId&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;d9a609c6106046eab55014955f31448b&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;MainGameAppName&amp;quot;&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;e87a43f695bc409ca8858206678ac7e7&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;AllowedUriEnvVars&amp;quot;&lt;/span&gt;: []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Steam&#34;&gt;Steam&lt;/h2&gt;
+&lt;h3 id=&#34;入库代码&#34;&gt;入库代码&lt;/h3&gt;
+&lt;figure class=&#34;highlight dts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;steam:&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;//install/xxx&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Wallpaper-Engine&#34;&gt;Wallpaper-Engine&lt;/h3&gt;
+&lt;h4 id=&#34;订阅取消无法删除壁纸&#34;&gt;订阅取消无法删除壁纸&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.steampowered.com/zh-cn/faqs/view/0C48-FCBD-DA71-93EB&#34;&gt;https://help.steampowered.com/zh-cn/faqs/view/0C48-FCBD-DA71-93EB&lt;/a&gt; &lt;sup id=&#39;cite_ref-5&#39;&gt;&lt;a href=&#34;#cite_note-5&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;游戏位置移动&#34;&gt;游戏位置移动&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/oFwHBq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;尝试把 ARK 从 E 移动到 G 盘, 但是移动一半时 steam 出问题了, 文件挪过去了但是 steam 不认&lt;/p&gt;
+&lt;p&gt;后续定位到问题, steam 是通过对应的.acf 标志某个游戏的,&lt;/p&gt;
+&lt;p&gt;上面 steam 出问题后没把 ARK 的.acf 移动过去, 而 steam 检测逻辑是如图红箭头那样顺序的, 也就是说即使游戏本体和.acf 都已经挪到 G 盘, 只要 E 盘还存在.acf, steam 就会误判位置&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;被盗刷社区市场&#34;&gt;被盗刷社区市场&lt;/h3&gt;
+&lt;p&gt;去了趟网吧, 一大早出来几十封邮件 &lt;code&gt;您在社区市场上售出了一件物品&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;寄被盗刷了, 首先抢救是 steam 取消受信设备&lt;/p&gt;
+&lt;p&gt;steam 设置 -&amp;gt; 安全性 -&amp;gt;取消对所有设备的授权&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;方舟-ARK&#34;&gt;方舟-ARK&lt;/h3&gt;
+&lt;h4 id=&#34;锁帧&#34;&gt;锁帧&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor\Engine.ini&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在最后 append 这个:&lt;/p&gt;
+&lt;figure class=&#34;highlight ini&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[/script/engine.renderersettings]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;t.maxfps&lt;/span&gt;=&lt;span class=&#34;number&#34;&gt;60&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;更改物品堆叠数量&#34;&gt;更改物品堆叠数量&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ARKSurvivalEvolved\ShooterGame\Saved\Config\WindowsNoEditor\GameUserSettings.ini&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;里面的 &lt;code&gt;ItemStackSizeMultiplier&lt;/code&gt; 这一项&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;作弊代码&#34;&gt;作弊代码&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;代码&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;飞&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;fly&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;走&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;walk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;伽马值&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;gamma x.x&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;S+X 异性植物种子&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;bug 原因,只能通过代码获取… &lt;br&gt; 进此网页&lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt; 搜 seed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;角色等级上限&#34;&gt;角色等级上限&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://tieba.baidu.com/p/7668323181&#34;&gt;https://tieba.baidu.com/p/7668323181&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;鬼泣&#34;&gt;鬼泣&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鬼泣 5 存档位置 &lt;code&gt;C:\Users\Public\Documents\Steam\CODEX\601150&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;鬼泣 DMC 闪退-一定要把输入法切到英文&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;steam-如何删除动态&#34;&gt;steam-如何删除动态&lt;/h3&gt;
+&lt;p&gt;常见场景于 wallpaper enginesd 对某个瑟瑟壁纸不小心点到了收藏, 出现在了动态里还没发删&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;个人资料&lt;/li&gt;
+&lt;li&gt;动态&lt;/li&gt;
+&lt;li&gt;好友动态设置&lt;/li&gt;
+&lt;li&gt;收藏一件物品 取消勾选&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Noita&#34;&gt;Noita&lt;/h3&gt;
+&lt;h4 id=&#34;入门&#34;&gt;入门&lt;/h4&gt;
+&lt;p&gt;刚开始玩, 不知道怎么 &lt;code&gt;回血&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;搜需要到几个 Mod:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://steamcommunity.com/workshop/filedetails/?l=greek&amp;amp;id=2286342770&#34;&gt;https://steamcommunity.com/workshop/filedetails/?l=greek&amp;amp;id=2286342770&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;其他游戏&#34;&gt;其他游戏&lt;/h2&gt;
+&lt;h3 id=&#34;小小梦魇&#34;&gt;小小梦魇&lt;/h3&gt;
+&lt;h4 id=&#34;瞎眼厨师关&#34;&gt;瞎眼厨师关&lt;/h4&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/RqmsTz.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;网上教程大多是先让进这个笼子&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;,然后等 boss 走到左边后出来跟他赛跑&lt;/p&gt;
+&lt;p&gt;试了好多次都被抓&lt;/p&gt;
+&lt;p&gt;后来发现, 可以爬上这个笼子,等 boss 走到左边后从笼子右边跳下去,boss 不会追上来&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;恋活&#34;&gt;恋活&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;白屏转圈打不开&lt;/p&gt;
+&lt;p&gt;安装路径不要有中文 &lt;sup id=&#39;cite_ref-9&#39;&gt;&lt;a href=&#34;#cite_note-9&#34;&gt;[9]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Discord&#34;&gt;Discord&lt;/h2&gt;
+&lt;p&gt;嘛, 有的是开发 Bot 过程中遇到的问题, 也记在这里吧…&lt;/p&gt;
+&lt;h3 id=&#34;登录验证&#34;&gt;登录验证&lt;/h3&gt;
+&lt;p&gt;通过 Gmail 注册的账号, 可能因为梯子 IP 变动触发风控了, 让我验证手机号&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZQcEVo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;然后在电脑上死都验证不过去, 换到手机端就直接通过了…(用的国内号)&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZQcAZQ.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;无法接受邀请&#34;&gt;无法接受邀请&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZQccS6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这个设计很坑爹…正确接受邀请方式是点侧边栏的加号, 把链接粘贴在这里加入, 而不是直接访问链接&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZQc0mz.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;删除临时消息&#34;&gt;删除临时消息&lt;/h3&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZQz5k1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如上图, 开发中 ephemeral message 只能被 edit 无法删除; 而且只能通过用户的斜杠指令 &lt;code&gt;/&lt;/code&gt; 触发唯一一条 Interaction &lt;sup id=&#39;cite_ref-6&#39;&gt;&lt;a href=&#34;#cite_note-6&#34;&gt;[6]&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#39;cite_ref-7&#39;&gt;&lt;a href=&#34;#cite_note-7&#34;&gt;[7]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;DMM&#34;&gt;DMM&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ページの有効期限が切れました、再度入力をお願いします。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个问题大概率是加速器/节点有问题, 亲测换其他的就好了&lt;/p&gt;
+&lt;h3 id=&#34;赛马娘-steam-快速登录&#34;&gt;赛马娘-steam-快速登录&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;clash bypass 绕过列表里一定要加上下面:&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;*cygames.jp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;*dmm.com&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;*api-umamusume.cygames.jp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ol&gt;
+&lt;li&gt;报错代理有问题 / region not allowed&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MiddleRed/UmamusumeLauncher/issues/1&#34;&gt;https://github.com/MiddleRed/UmamusumeLauncher/issues/1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MinamiChiwa/Trainers-Legend-G/issues/130&#34;&gt;https://github.com/MinamiChiwa/Trainers-Legend-G/issues/130&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;这是因为有个 &lt;code&gt;api-umamusume.cygames.jp&lt;/code&gt; 的域名没被加速器拦下, 走的系统代理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开加速器&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DMM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;赛马娘&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;赛马娘自动带起来插件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;插件-&amp;gt;快速登录&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不要勾 http 代理&lt;/li&gt;
+&lt;li&gt;点中间登录, 刷 cookie (要等一会)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;steam 添加 legend 插件(steam 截图很方便)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用 steam 打开插件&lt;/li&gt;
+&lt;li&gt;快速登录 -&amp;gt; 使用缓存登录&lt;/li&gt;
+&lt;li&gt;如果报错, 可以试试走一遍薄荷加速器的网络重置, 然后重启电脑&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;后续 (找到了类似 steam 的截图软件 ShareX):&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人生苦短, 还是不折腾了, 老老实实用 DMM 启动, 用 ShareX 截图, 比上面强得多&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;http://www.wyaq.com/youxi/gonglue/8142_5.html&#34;&gt;小小梦魇 1 图文攻略 全剧情流程+全解谜 boss 打法攻略(5)瞎眼厨子&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV1mf4y1X7na&#34;&gt;方舟生存进化系统自带叠加功能设置方法及效果（非模组）【方舟三分钟】&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV14V411z7NY&#34;&gt;【方舟】告别显卡占用过高造成的卡顿-死机等情况，锁帧教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRBnQSrT5CidPWSbeIT5GK7WWBeYu9Uhu9unEkazAfytljMSe7g7qJSX5rhDtb4zI-kh1TIH2-ZNqAX/pubhtml?gid=0&amp;amp;single=true&#34;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vRBnQSrT5CidPWSbeIT5GK7WWBeYu9Uhu9unEkazAfytljMSe7g7qJSX5rhDtb4zI-kh1TIH2-ZNqAX/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-5&#39; href=&#39;#cite_ref-5&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://steamcommunity.com/app/431960/discussions/2/1745646405802281630/&#34;&gt;https://steamcommunity.com/app/431960/discussions/2/1745646405802281630/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-6&#39; href=&#39;#cite_ref-6&#39;&gt;[6]&lt;/a&gt;: &lt;a href=&#34;https://www.reddit.com/r/Discord_Bots/comments/vv9n1q/is_it_possible_to_delete_an_ephemeral_message_in/&#34;&gt;https://www.reddit.com/r/Discord_Bots/comments/vv9n1q/is_it_possible_to_delete_an_ephemeral_message_in/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-7&#39; href=&#39;#cite_ref-7&#39;&gt;[7]&lt;/a&gt;: &lt;a href=&#34;https://github.com/discord/discord-api-docs/discussions/3291&#34;&gt;https://github.com/discord/discord-api-docs/discussions/3291&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-8&#39; href=&#39;#cite_ref-8&#39;&gt;[8]&lt;/a&gt;: &lt;a href=&#34;https://twitter.com/abskoop/status/1521798521745453061&#34;&gt;https://twitter.com/abskoop/status/1521798521745453061&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-9&#39; href=&#39;#cite_ref-9&#39;&gt;[9]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/read/cv21058678/&#34;&gt;恋活求助问题汇总&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
