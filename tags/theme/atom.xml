@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;theme&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2023-11-20T09:08:04.000Z</updated>
+    <category term="PS" />
+    <category term="备忘录" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="摄影" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="English" />
+    <category term="推荐" />
+    <category term="笔记" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="system" />
+    <category term="Docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Cmake" />
+    <category term="Vue" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="server" />
+    <category term="ubuntu" />
+    <category term="nvidia" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Gitlab" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="rime" />
+    <category term="输入法" />
+    <category term="Emmet" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://blog.weidows.tech/post/system/Windows-Theme-HighContract-Tokyo-Night/README/</id>
+        <title>🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/system/Windows-Theme-HighContract-Tokyo-Night/README/"/>
+        <content type="html">&lt;h1&gt;Windows-Theme-HighContract-Tokyo-Night&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-08-06 15:44:32
+ * @FilePath: \Blog-private\source\_posts\system\Windows-Theme-HighContract-Tokyo-Night\README.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#windows-theme-highcontract-tokyo-night&#34;&gt;Windows-Theme-HighContract-Tokyo-Night&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#preview&#34;&gt;Preview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#feature&#34;&gt;Feature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85&#34;&gt;安装&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%8B%E5%8A%A8&#34;&gt;手动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scoop&#34;&gt;Scoop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Preview&#34;&gt;Preview&lt;/h2&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/owlrlm.png&#34; alt=&#34;owlrlm.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/owlk10.png&#34; alt=&#34;owlk10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/owluuT.png&#34; alt=&#34;owluuT.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Feature&#34;&gt;Feature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[x] 一键安装
+&lt;ul&gt;
+&lt;li&gt;[ ] 本来想用 .themepack 打包, 遇到点问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[x] 原神音效&lt;/li&gt;
+&lt;li&gt;[x] 拉扬白光标&lt;/li&gt;
+&lt;li&gt;[x] 极高对比度
+&lt;ul&gt;
+&lt;li&gt;[ ] 可惜系统对某些组件的显示效果支持不好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;安装&#34;&gt;安装&lt;/h2&gt;
+&lt;h3 id=&#34;手动&#34;&gt;手动&lt;/h3&gt;
+&lt;p&gt;下载 Release 中压缩包-解压-右键管理员模式运行 &lt;code&gt;install.bat&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;然后设置-个性化-主题里会出现新的主题, 点一下就 OK&lt;/p&gt;
+&lt;p&gt;卸载的话, 同上运行 &lt;code&gt;uninstall.bat&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Scoop&#34;&gt;Scoop&lt;/h3&gt;
+&lt;figure class=&#34;highlight armasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;scoop&lt;/span&gt; bucket &lt;span class=&#34;keyword&#34;&gt;add&lt;/span&gt; apps https:&lt;span class=&#34;comment&#34;&gt;//github.com/kkzzhizhou/scoop-apps&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;scoop&lt;/span&gt; install Windows-Theme-HighContract-Tokyo-Night&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;customize&#34;&gt;customize&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;[Control Panel\Colors]&lt;/code&gt; 这些键及其对应的 RGB 颜色值用于定义 Windows 经典主题中各种界面的颜色元素。下面解释每个键对应的具体界面部分：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ActiveTitle=10 36 106&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;激活窗口的标题栏背景颜色&lt;/strong&gt;。当窗口处于激活状态（选中）时，标题栏的背景颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Background=166 202 240&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;桌面背景颜色&lt;/strong&gt;。这定义了桌面上未被任何窗口或图标覆盖的区域的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hilight=10 36 106&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;选中项目的背景颜色&lt;/strong&gt;。当你在文件资源管理器中选中一个文件或选项时，背景高亮显示的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;HilightText=255 255 255&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;选中项目的文本颜色&lt;/strong&gt;。文件或选项被选中时，文本的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TitleText=255 255 255&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;激活窗口的标题栏文字颜色&lt;/strong&gt;。窗口标题栏上的文字颜色，当窗口处于激活状态时。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Window=255 255 255&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;窗口背景颜色&lt;/strong&gt;。窗口内容区域的背景颜色，例如记事本的空白区域。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;WindowText=0 0 0&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;窗口文本颜色&lt;/strong&gt;。窗口中正常显示文本的颜色，比如记事本中的文字。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Scrollbar=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;滚动条背景颜色&lt;/strong&gt;。滚动条轨道的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;InactiveTitle=128 128 128&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;非激活窗口的标题栏背景颜色&lt;/strong&gt;。当窗口处于非激活状态（未选中）时，标题栏的背景颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Menu=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;菜单背景颜色&lt;/strong&gt;。窗口菜单（如右键菜单或文件菜单）的背景颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;WindowFrame=0 0 0&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;窗口边框颜色&lt;/strong&gt;。窗口的外框颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MenuText=0 0 0&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;菜单文本颜色&lt;/strong&gt;。菜单中显示文字的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ActiveBorder=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;激活窗口的边框颜色&lt;/strong&gt;。当窗口被选中时，边框的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;InactiveBorder=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;非激活窗口的边框颜色&lt;/strong&gt;。当窗口未被选中时，边框的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AppWorkspace=128 128 128&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;应用程序工作区背景颜色&lt;/strong&gt;。当多个文档窗口处于 MDI 应用程序（多文档界面）中时，非活动窗口之间的区域颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ButtonFace=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;按钮的表面颜色&lt;/strong&gt;。按钮的背景颜色，例如 “确定” 或 “取消” 按钮的表面。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ButtonShadow=128 128 128&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;按钮的阴影颜色&lt;/strong&gt;。按钮阴影部分的颜色，通常是边缘或下部的颜色，给人一种 3D 效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GrayText=128 128 128&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;禁用文本颜色&lt;/strong&gt;。当文本处于禁用状态时（比如按钮不可点击时），显示为灰色的文字颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ButtonText=0 0 0&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;按钮文字颜色&lt;/strong&gt;。按钮上显示的文字的颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;InactiveTitleText=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;非激活窗口的标题栏文字颜色&lt;/strong&gt;。当窗口未被选中时，标题栏的文字颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ButtonHilight=255 255 255&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;按钮高光颜色&lt;/strong&gt;。按钮高光部分的颜色，通常是按钮顶部或侧面的高光区域，给人一种 3D 效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ButtonDkShadow=64 64 64&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;按钮深色阴影&lt;/strong&gt;。按钮的深色阴影，通常在按钮的底部或右侧，增强 3D 效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ButtonLight=212 208 200&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;按钮浅色部分&lt;/strong&gt;。按钮的浅色部分，通常用于边缘，帮助增强按钮的视觉效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;InfoText=0 0 0&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;工具提示文本颜色&lt;/strong&gt;。工具提示窗口中显示的文本颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;InfoWindow=255 255 225&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;工具提示背景颜色&lt;/strong&gt;。工具提示窗口的背景颜色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GradientActiveTitle=166 202 240&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;激活窗口的渐变标题栏颜色&lt;/strong&gt;。当启用渐变效果时，激活窗口标题栏的颜色变化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GradientInactiveTitle=192 192 192&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;非激活窗口的渐变标题栏颜色&lt;/strong&gt;。当窗口未激活并且启用渐变效果时，标题栏的颜色变化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;请去支持各位原作者, 至少点个赞&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV1Ls4y1B7mB&#34;&gt;原神游戏音效选集：七圣召唤更新&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://zhutix.com/ico/layan-white-cus/&#34;&gt;拉扬白光标 - 图标指针 - 致美化&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://zhutix.com/pc/tokyo-night-vs/&#34;&gt;东京之夜 Win11 主题 - 桌面主题 - 致美化&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://meta.appinn.net/t/topic/27800&#34;&gt;自己动手做主题包&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-5&#39; href=&#39;#cite_ref-5&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://github.com/sapientcoder/CabMaker/&#34;&gt;GitHub - sapientcoder/CabMaker: CabMaker is a free Windows desktop tool that lets you quickly package up an entire folder of files (including subfolders) into a .cab file.&lt;/a&gt; &lt;br&gt;
+似乎只能 pack .theme, 不太好使&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="Windows" />
+        <category term="theme" />
+        <updated>2023-11-20T09:08:04.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;ts&#34; category</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2024-08-21T19:39:52.000Z</updated>
+    <category term="PS" />
+    <category term="备忘录" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="摄影" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="English" />
+    <category term="推荐" />
+    <category term="笔记" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="system" />
+    <category term="Docker" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Cmake" />
+    <category term="Vue" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="PHP" />
+    <category term="Processing" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="server" />
+    <category term="ubuntu" />
+    <category term="nvidia" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Gitlab" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="rime" />
+    <category term="输入法" />
+    <category term="Emmet" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <entry>
+        <id>https://blog.weidows.tech/post/lang/ts/issues/</id>
+        <title>🤗工作中遇到的前端问题和场景</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/lang/ts/issues/"/>
+        <content type="html">&lt;h1&gt;工作中遇到的前端问题和场景&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-10-26 22:38:08
+ * @FilePath: \Blog-private\source\_posts\lang\ts\issues.md
+ * @Description:
+ * @:
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠻⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⣀⡾⠀⠀⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣤⣀⣠⡴⠋
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠈⢷⡀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣿⢠⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣧⠀⠀⠀⠀⠀⠀⠀⠈⣆
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⣰⠀⠀⠀⠀⣾⢸⣿⣀⣤⣶⡛⠁⣿⠘⡄⠀⠀⠀⠀⢀⠀⠀⣿⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠸
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⡟⠀⠀⠀⠀⣿⡈⡏⠀⠀⠀⠀⠙⡜⡄⢿⠀⠀⠀⠀⣾⣧⣾⢸⠀⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⣇⠀⠀⠀⠀⣷⣿⣿⣶⣦⣀⠀⠀⠀⠹⡘⣿⡀⠀⠀⢹⣿⠃⢸⠀⣿⠀⢠⣿⠀⠀⠀⠀⠀⣄⣧
+ * ⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⣿⠀⠀⠀⠀⢿⠉⠉⠉⠻⣿⣷⡀⠀⠀⠈⠁⠙⢦⣀⣸⠋⠈⣸⣼⢻⠀⣾⡿⠀⠀⠀⠀⢸⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⠀⠸⡄⣤⠀⠀⠀⣧⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⣿⣿⠇⠀⠀⠀⠀⣾⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠀⠙⠿⣿⠛⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣦⡀⡿⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⠀⣴⠋⠙⣦⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⣼⠉⠙⠳⠦⣤⡀⠀⠀⠀⠀⠀⠀⠈⠻⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⢤⠇⣀⡀⣼⠀⠀⠀⢹⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⢠⣯⣿⣿
+ * ⠀⠀⠀⠀⣠⠋⣠⠟⠁⠀⠈⠛⣄⠀⠀⠀⣇⠀⠀⠀⠀⢹⠀⠀⠀⠀⢀⠟⠀⠀⠀⠀⠀⠀⢾⣁⠀⠀⠀⠀⢀⣾⣤⡏⠉⠉⣿
+ * ⠀⠀⢀⣞⠤⣴⠁⠀⠀⠀⠀⠀⠀⣧⠀⠀⢿⠉⠳⣤⡀⠀⠁⠀⠠⠶⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠧⣴⣾⣿⣿⠟⡇⠀⠀⢸
+ * ⣠⠚⠁⢀⠏⣿⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠈⡏⠛⠶⣤⡉⠛⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡴⣿⣿⠟⠁⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⢸⠀⠘⡄⠀⠀⠀⠀⠀⢹⠀⡿⡄⠀⣿⠀⠀⠀⠀⠙⠲⣤⡀⠙⢦⠉⠉⠉⠉⠉⠉⠁⠀⠀⣿⠀⠀⠀⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⠘⡄⠀⣿⠀⠀⠀⠀⠀⣸⠛⡄⢻⠀⠸⡀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡉⢦⡀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⢰⠇⠀⠀⢸
+ * ⠀⠀⠀⠀⢿⠀⠈⠙⢦⣄⣠⠴⠃⢠⠃⠀⡇⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣦⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣼⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠙⢤⠀⠀⠀⠀⠀⡴⠋⠀⠀⡇⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⡿⠀⠀⠀⠀⡿⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠘⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠀⠀⡇⠀⠀⠀⢰⠁⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡿⠀⠀⠀⠀⠀⣷
+ *
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B7%A5%E4%BD%9C%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%89%8D%E7%AB%AF%E9%97%AE%E9%A2%98%E5%92%8C%E5%9C%BA%E6%99%AF&#34;&gt;工作中遇到的前端问题和场景&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%9A%E4%BF%A1&#34;&gt;通信&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#buffer-vs-stream&#34;&gt;Buffer-vs-Stream&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#style-css&#34;&gt;Style-css&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%83%E5%B1%80-tailwind&#34;&gt;布局-tailwind&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#flex-%E5%B8%B8%E7%94%A8%E5%B1%85%E4%B8%AD%E6%93%8D%E4%BD%9C&#34;&gt;flex-常用居中操作&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#nodejs&#34;&gt;nodejs&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#version-issues&#34;&gt;version-issues&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;通信&#34;&gt;通信&lt;/h2&gt;
+&lt;h3 id=&#34;Buffer-vs-Stream&#34;&gt;Buffer-vs-Stream&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Buffer&lt;/strong&gt; 是一种暂时存储二进制数据的方式。在文件处理过程中，整个文件会先被加载到内存中形成一个 Buffer，然后可以在内存中对其进行操作，再将其发送到目标位置。Buffer 更像是一次性读入的方式，适用于处理较小文件或需要完整文件内容的场景。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;完整文件的访问和操作&lt;/strong&gt;：如果你需要在上传之前对文件进行某些操作（例如图像处理、压缩、加密等），Buffer 是更合适的选择，因为它允许你在内存中完整地访问文件内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小文件上传&lt;/strong&gt;：对于尺寸较小的文件（例如几 MB 以内的文件），Buffer 处理不会对内存造成太大负担，因此可以考虑使用 Buffer 进行上传。这样可以简化编码过程，并且有助于在后续操作中对文件数据进行更方便的处理。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;简便性&lt;/strong&gt;：Buffer 更易于理解和实现，尤其是在开发过程中。如果应用场景对内存要求不高，使用 Buffer 可以简化文件上传的实现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stream&lt;/strong&gt; 是一种逐块（chunk）处理数据的方式。数据在传输过程中会分成若干小块，后端会逐步接收并处理这些数据块，而不需要等待整个文件被完全加载到内存中。Stream 更像是一个持续的、分段的数据流，适用于处理大型文件或需要节省内存资源的场景。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;大文件上传&lt;/strong&gt;：当处理较大的文件时，使用 Stream 可以显著减少内存占用，因为 Stream 处理只需加载数据的一部分（块）到内存中，而不必加载整个文件。这样能有效防止内存泄漏或内存不足等问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;高并发请求&lt;/strong&gt;：在高并发的应用场景中，Stream 可以减少每个请求的内存消耗，从而提升服务器的整体性能，降低资源占用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;长时间运行的任务&lt;/strong&gt;：对于需要长时间传输数据的任务（如实时音视频传输），Stream 是最佳选择，因为它支持数据的分块处理和实时传输。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单来说, 图片用 Buffer, 视频用 Stream&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Style-css&#34;&gt;Style-css&lt;/h2&gt;
+&lt;h3 id=&#34;布局-tailwind&#34;&gt;布局-tailwind&lt;/h3&gt;
+&lt;h4 id=&#34;flex-常用居中操作&#34;&gt;flex-常用居中操作&lt;/h4&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/1725380017502.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如上图这种布局, 可以这样&lt;/p&gt;
+&lt;figure class=&#34;highlight tsx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;div className=&lt;span class=&#34;string&#34;&gt;&amp;quot;flex justify-center p-2&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;h-full&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;A&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;className&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;h-full items-center space-y-2&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;B&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;C&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;language-xml&#34;&gt;  &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;nodejs&#34;&gt;nodejs&lt;/h2&gt;
+&lt;h3 id=&#34;version-issues&#34;&gt;version-issues&lt;/h3&gt;
+&lt;p&gt;下面的代码可以在 &lt;code&gt;node&amp;lt;=22&lt;/code&gt; 版本中试试, 会有注释中的问题, &lt;code&gt;&amp;gt; 23&lt;/code&gt; 版本就修复了&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; &amp;#123; dirname &amp;#125; = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;path&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; &amp;#123; mkdirSync &amp;#125; = &lt;span class=&#34;built_in&#34;&gt;require&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;fs&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; destPath = [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// ok.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// &amp;quot;D:/test/CalienteTools/BodySlide/ShapeData/[SunJeong] Kitsune Miko Lower - CBBE 3BA/SunJeong.txt&amp;quot;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// not working, exit with no error.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// &amp;quot;D:/test/【服装模组】000巫女服/CalienteTools/BodySlide/ShapeData/[SunJeong] Kitsune Miko Lower - CBBE 3BA/SunJeong.txt&amp;quot;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// not working, exit with no error.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;D:/test/巫女服/SunJeong.txt&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// will create &amp;#x27;test&amp;#x27; folder, and get stuck&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;D:/test/巫女服/CalienteTools/BodySlide/ShapeData/[SunJeong] Kitsune Miko Lower - CBBE 3BA/SunJeong.txt&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;try&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  destPath.&lt;span class=&#34;title function_&#34;&gt;forEach&lt;/span&gt;(&lt;span class=&#34;function&#34;&gt;(&lt;span class=&#34;params&#34;&gt;path&lt;/span&gt;) =&amp;gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;title function_&#34;&gt;mkdirSync&lt;/span&gt;(&lt;span class=&#34;title function_&#34;&gt;dirname&lt;/span&gt;(path), &amp;#123; &lt;span class=&#34;attr&#34;&gt;recursive&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt; &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125; &lt;span class=&#34;keyword&#34;&gt;catch&lt;/span&gt; (error) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;variable language_&#34;&gt;console&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;error&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;Error creating directory:&amp;quot;&lt;/span&gt;, error);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无.&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="nodejs" />
+        <category term="面试" />
+        <category term="前端" />
+        <category term="css" />
+        <updated>2024-08-21T19:39:52.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/lang/ts/nextjs/</id>
+        <title>fullstack-matters-next-全栈框架搭建过程中遇到的问题记录</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/lang/ts/nextjs/"/>
+        <content type="html">&lt;h1&gt;fullstack-matters-next-全栈框架搭建过程中遇到的问题记录&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-10-22 08:19:23
+ * @FilePath: \Blog-private\source\_posts\lang\ts\nextjs.md
+ * @Description:
+ * @:
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠻⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⣀⡾⠀⠀⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣤⣀⣠⡴⠋
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠈⢷⡀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣿⢠⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣧⠀⠀⠀⠀⠀⠀⠀⠈⣆
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⣰⠀⠀⠀⠀⣾⢸⣿⣀⣤⣶⡛⠁⣿⠘⡄⠀⠀⠀⠀⢀⠀⠀⣿⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠸
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⡟⠀⠀⠀⠀⣿⡈⡏⠀⠀⠀⠀⠙⡜⡄⢿⠀⠀⠀⠀⣾⣧⣾⢸⠀⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⣇⠀⠀⠀⠀⣷⣿⣿⣶⣦⣀⠀⠀⠀⠹⡘⣿⡀⠀⠀⢹⣿⠃⢸⠀⣿⠀⢠⣿⠀⠀⠀⠀⠀⣄⣧
+ * ⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⣿⠀⠀⠀⠀⢿⠉⠉⠉⠻⣿⣷⡀⠀⠀⠈⠁⠙⢦⣀⣸⠋⠈⣸⣼⢻⠀⣾⡿⠀⠀⠀⠀⢸⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⠀⠸⡄⣤⠀⠀⠀⣧⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⣿⣿⠇⠀⠀⠀⠀⣾⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠀⠙⠿⣿⠛⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣦⡀⡿⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⠀⣴⠋⠙⣦⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⣼⠉⠙⠳⠦⣤⡀⠀⠀⠀⠀⠀⠀⠈⠻⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⢤⠇⣀⡀⣼⠀⠀⠀⢹⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⢠⣯⣿⣿
+ * ⠀⠀⠀⠀⣠⠋⣠⠟⠁⠀⠈⠛⣄⠀⠀⠀⣇⠀⠀⠀⠀⢹⠀⠀⠀⠀⢀⠟⠀⠀⠀⠀⠀⠀⢾⣁⠀⠀⠀⠀⢀⣾⣤⡏⠉⠉⣿
+ * ⠀⠀⢀⣞⠤⣴⠁⠀⠀⠀⠀⠀⠀⣧⠀⠀⢿⠉⠳⣤⡀⠀⠁⠀⠠⠶⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠧⣴⣾⣿⣿⠟⡇⠀⠀⢸
+ * ⣠⠚⠁⢀⠏⣿⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠈⡏⠛⠶⣤⡉⠛⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡴⣿⣿⠟⠁⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⢸⠀⠘⡄⠀⠀⠀⠀⠀⢹⠀⡿⡄⠀⣿⠀⠀⠀⠀⠙⠲⣤⡀⠙⢦⠉⠉⠉⠉⠉⠉⠁⠀⠀⣿⠀⠀⠀⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⠘⡄⠀⣿⠀⠀⠀⠀⠀⣸⠛⡄⢻⠀⠸⡀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡉⢦⡀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⢰⠇⠀⠀⢸
+ * ⠀⠀⠀⠀⢿⠀⠈⠙⢦⣄⣠⠴⠃⢠⠃⠀⡇⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣦⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣼⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠙⢤⠀⠀⠀⠀⠀⡴⠋⠀⠀⡇⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⡿⠀⠀⠀⠀⡿⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠘⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠀⠀⡇⠀⠀⠀⢰⠁⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡿⠀⠀⠀⠀⠀⣷
+ *
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#fullstack-matters-next-%E5%85%A8%E6%A0%88%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95&#34;&gt;fullstack-matters-next-全栈框架搭建过程中遇到的问题记录&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#config&#34;&gt;config&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#next-auth&#34;&gt;next-auth&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#google-timeout&#34;&gt;google-timeout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#secret-missing&#34;&gt;secret-missing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#prisma&#34;&gt;prisma&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#client-deps-error&#34;&gt;client-deps-error&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#table-does-not-exist&#34;&gt;table-does-not-exist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#nextauth-mysql&#34;&gt;nextauth-mysql&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#too-lang&#34;&gt;too-lang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#usage&#34;&gt;usage&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0-upload-file-image&#34;&gt;文件上传-upload-file-image&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#form-data-parse&#34;&gt;form-data-parse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#image-to-buffer2string&#34;&gt;image-to-Buffer2string&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#next-router-%E5%A4%9A%E9%A1%B5%E9%9D%A2%E8%B7%AF%E7%94%B1&#34;&gt;next-router-多页面路由&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#payment-stripe&#34;&gt;payment-stripe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#deployments&#34;&gt;deployments&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vercel-file-read-write&#34;&gt;vercel-file-read-write&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#jimp-watermark-%E6%B7%BB%E5%8A%A0%E6%B0%B4%E5%8D%B0&#34;&gt;Jimp-watermark-添加水印&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vercel-rewrites&#34;&gt;vercel-rewrites&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#aliyun-%E7%99%BE%E7%82%BC%E6%8D%A2%E8%A3%85&#34;&gt;aliyun-百炼换装&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#centos7-%E5%AE%9D%E5%A1%94-docker-cicd&#34;&gt;centos7-宝塔-docker-CICD&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%9E%E8%B7%B5-cicd-nextjs-docker-dotenv&#34;&gt;实践-CICD-nextjs-docker-dotenv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8F%8C%E5%BC%95%E5%8F%B7%E9%97%AE%E9%A2%98&#34;&gt;双引号问题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;config&#34;&gt;config&lt;/h2&gt;
+&lt;h3 id=&#34;Image&#34;&gt;Image&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠ The “images.domains” configuration is deprecated. Please use “images.remotePatterns” configuration instead.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;const config = &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  webpack&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; (config&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt; isServer &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;) =&amp;gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// https://nextjs.org/docs/messages/next-image-unconfigured-host&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// https://stackoverflow.com/questions/71235874/how-to-allow-all-domains-for-image-nextjs-config&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  images&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    remotePatterns&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;[&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt; protocol&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;https&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt; hostname&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;**&amp;quot;&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt; protocol&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;https&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt; hostname&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;xxx.com&amp;quot;&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// deprecated&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// domains: [&amp;quot;&amp;quot;],&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;next-auth&#34;&gt;next-auth&lt;/h3&gt;
+&lt;h4 id=&#34;google-timeout&#34;&gt;google-timeout&lt;/h4&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;title class_&#34;&gt;GoogleProvider&lt;/span&gt;(&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;clientId&lt;/span&gt;: env.&lt;span class=&#34;property&#34;&gt;GOOGLE_ID&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;clientSecret&lt;/span&gt;: env.&lt;span class=&#34;property&#34;&gt;GOOGLE_SECRET&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;httpOptions&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;timeout&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;40000&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;),&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[next-auth][error][SIGNIN_OAUTH_ERROR]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https://next-auth.js.org/errors#signin_oauth_error outgoing request timed out after 3500ms &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  error: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    message: &amp;#x27;outgoing request timed out after 3500ms&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    stack: &amp;#x27;RPError: outgoing request timed out after 3500ms\n&amp;#x27; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#x27;    at eval (webpack-internal:///(rsc)/./node_modules/.pnpm/openid-client@5.6.5/node_modules/openid-client/lib/helpers/request.js:140:13)\n&amp;#x27; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      ...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#x27;    at async Server.requestListener (D:\\Repos\\AI-MOBI\\Dress\\ChatUp-AI-Dress-fullstack\\node_modules\\.pnpm\\next@14.2.5_react-dom@18.3.1_react@18.3.1__react@18.3.1\\node_modules\\next\\dist\\server\\lib\\start-server.js:141:13)&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    name: &amp;#x27;RPError&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  providerId: &amp;#x27;google&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  message: &amp;#x27;outgoing request timed out after 3500ms&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https://next-auth.js.org/errors#signin_oauth_error  &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  error: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    message: &amp;#x27;&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    stack: &amp;#x27;AggregateError\n&amp;#x27; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#x27;    at internalConnectMultiple (node:net:1114:18)\n&amp;#x27; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#x27;    at afterConnectMultiple (node:net:1667:5)\n&amp;#x27; +&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#x27;    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    name: &amp;#x27;AggregateError&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  providerId: &amp;#x27;google&amp;#x27;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  message: &amp;#x27;&amp;#x27;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;这是因为 auth 走的是后端而不是前端浏览器, next dev 跑的服务没走网络代理, 打开 tun 模式就行了&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;secret-missing&#34;&gt;secret-missing&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Please define a &lt;code&gt;secret&lt;/code&gt; in production&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;providers&lt;/span&gt;: [&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;title class_&#34;&gt;GoogleProvider&lt;/span&gt;(&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;clientId&lt;/span&gt;: env.&lt;span class=&#34;property&#34;&gt;GOOGLE_ID&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;clientSecret&lt;/span&gt;: env.&lt;span class=&#34;property&#34;&gt;GOOGLE_SECRET&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;httpOptions&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;timeout&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;40000&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;],&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// add this&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;secret&lt;/span&gt;: env.&lt;span class=&#34;property&#34;&gt;NEXTAUTH_SECRET&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;prisma&#34;&gt;prisma&lt;/h3&gt;
+&lt;h4 id=&#34;client-deps-error&#34;&gt;client-deps-error&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Prisma Client was generated for “linux-musl-openssl-3.0.x”, but the actual deployment required “debian-openssl-3.0.x”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如下加上 &lt;sup id=&#39;cite_ref-3&#39;&gt;&lt;a href=&#34;#cite_note-3&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight axapta&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;generator &lt;span class=&#34;keyword&#34;&gt;client&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    provider = &lt;span class=&#34;string&#34;&gt;&amp;quot;prisma-client-js&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// for dockerfile doploy&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    binaryTargets = [&lt;span class=&#34;string&#34;&gt;&amp;quot;native&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;debian-openssl-3.0.x&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;table-does-not-exist&#34;&gt;table-does-not-exist&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The table &lt;code&gt;main.account&lt;/code&gt; does not exist in the current database.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;类似的问题先直接试一下 &lt;code&gt;prisma db push&lt;/code&gt; 更新下数据库结构&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;nextauth-mysql&#34;&gt;nextauth-mysql&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Try signing in with a different account. &lt;br&gt;
+next auth google login failed | prisma | mysql&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;非常坑的问题, 说是无法登录, 实际是无法在 db 中插入数据, 务必删库重新建一个试试!!&lt;/p&gt;
+&lt;h4 id=&#34;too-lang&#34;&gt;too-lang&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NextAuth With Prisma for mysql specified key is too long&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;字段加上 &lt;code&gt;@db.Text&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;usage&lt;/h2&gt;
+&lt;h3 id=&#34;文件上传-upload-file-image&#34;&gt;文件上传-upload-file-image&lt;/h3&gt;
+&lt;p&gt;如何实现图片/文件上传操作&lt;/p&gt;
+&lt;p&gt;使用 t3app 创建的项目, 其中用到了 tRPC, 但很难受的是它对文件传输不支持&lt;/p&gt;
+&lt;p&gt;只能用 next 原生 API router 去写 RESTFUL &lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h4 id=&#34;form-data-parse&#34;&gt;form-data-parse&lt;/h4&gt;
+&lt;p&gt;next 后端如何解析 form 格式带文件的请求&lt;/p&gt;
+&lt;p&gt;一开始是想用 form 直接上传图片文件, 但是解析过程中有问题 (用到的是 formidable )&lt;/p&gt;
+&lt;p&gt;不知道哪里的问题, 解析出来的文件会在 fields 里 (string 形式, 很奇怪), files 为空&lt;/p&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; config = &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;api&lt;/span&gt;: &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 需要禁用默认的&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;bodyParser&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 将 form.parse 封装在一个 Promise 中&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;parseForm&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;params&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;req&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;NextApiRequest&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;): &lt;span class=&#34;title class_&#34;&gt;Promise&lt;/span&gt;&amp;lt;&amp;#123; &lt;span class=&#34;attr&#34;&gt;fields&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;Fields&lt;/span&gt;; &lt;span class=&#34;attr&#34;&gt;files&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;Files&lt;/span&gt; &amp;#125;&amp;gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Promise&lt;/span&gt;(&lt;span class=&#34;function&#34;&gt;(&lt;span class=&#34;params&#34;&gt;resolve, reject&lt;/span&gt;) =&amp;gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; form = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;IncomingForm&lt;/span&gt;(&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;allowEmptyFiles&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;multiples&lt;/span&gt;: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;maxFileSize&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;50&lt;/span&gt; * &lt;span class=&#34;number&#34;&gt;1024&lt;/span&gt; * &lt;span class=&#34;number&#34;&gt;1024&lt;/span&gt;, &lt;span class=&#34;comment&#34;&gt;// 增加文件大小限制, 单位为字节&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    form.&lt;span class=&#34;title function_&#34;&gt;parse&lt;/span&gt;(req, &lt;span class=&#34;function&#34;&gt;(&lt;span class=&#34;params&#34;&gt;err, fields, files&lt;/span&gt;) =&amp;gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (err) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;title function_&#34;&gt;reject&lt;/span&gt;(err); &lt;span class=&#34;comment&#34;&gt;// 如果解析出错，reject 这个 promise&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;title function_&#34;&gt;resolve&lt;/span&gt;(&amp;#123; fields, files &amp;#125;); &lt;span class=&#34;comment&#34;&gt;// 如果成功，resolve 这个 promise，返回解析后的数据&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;image-to-Buffer2string&#34;&gt;image-to-Buffer2string&lt;/h4&gt;
+&lt;p&gt;转为使用 string 去传递图片&lt;/p&gt;
+&lt;p&gt;前端, 先从事件拿到 File 对象, 转为 ArrayBuffer, 再转为 binary 格式的 Buffer&lt;/p&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;handleImageChange&lt;/span&gt; = (&lt;span class=&#34;params&#34;&gt;&lt;span class=&#34;attr&#34;&gt;event&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;React&lt;/span&gt;.&lt;span class=&#34;title class_&#34;&gt;ChangeEvent&lt;/span&gt;&amp;lt;&lt;span class=&#34;title class_&#34;&gt;HTMLInputElement&lt;/span&gt;&amp;gt;&lt;/span&gt;) =&amp;gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; file = event.&lt;span class=&#34;property&#34;&gt;target&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;files&lt;/span&gt;?.[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (!file) &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  file&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;arrayBuffer&lt;/span&gt;()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    .&lt;span class=&#34;title function_&#34;&gt;then&lt;/span&gt;(&lt;span class=&#34;function&#34;&gt;(&lt;span class=&#34;params&#34;&gt;data&lt;/span&gt;) =&amp;gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; textData = &lt;span class=&#34;title class_&#34;&gt;Buffer&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;from&lt;/span&gt;(data).&lt;span class=&#34;title function_&#34;&gt;toString&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;binary&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;后端:&lt;/p&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;interface&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;ResData&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;file&lt;/span&gt;: &lt;span class=&#34;built_in&#34;&gt;string&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// API路由处理程序&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;default&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;async&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;handler&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;params&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;req&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;NextApiRequest&lt;/span&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;params&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;res&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;NextApiResponse&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (req.&lt;span class=&#34;property&#34;&gt;method&lt;/span&gt; !== &lt;span class=&#34;string&#34;&gt;&amp;quot;POST&amp;quot;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res.&lt;span class=&#34;title function_&#34;&gt;status&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;405&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;json&lt;/span&gt;(&amp;#123; &lt;span class=&#34;attr&#34;&gt;error&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Method not allowed&amp;quot;&lt;/span&gt; &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;try&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; data = &lt;span class=&#34;title class_&#34;&gt;JSON&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;parse&lt;/span&gt;(req.&lt;span class=&#34;property&#34;&gt;body&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;string&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;ResData&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// console.log(data);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 将接收到的字符串转为 Buffer&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; buffer = &lt;span class=&#34;title class_&#34;&gt;Buffer&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;from&lt;/span&gt;(data.&lt;span class=&#34;property&#34;&gt;file&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;binary&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// &lt;span class=&#34;doctag&#34;&gt;TODO:&lt;/span&gt; 保存或者处理 Buffer&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res.&lt;span class=&#34;title function_&#34;&gt;status&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;200&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;json&lt;/span&gt;(&amp;#123; &lt;span class=&#34;attr&#34;&gt;status&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;ok&amp;quot;&lt;/span&gt; &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125; &lt;span class=&#34;keyword&#34;&gt;catch&lt;/span&gt; (err) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 捕获解析过程中可能发生的错误&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;variable language_&#34;&gt;console&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;error&lt;/span&gt;(err);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; res.&lt;span class=&#34;title function_&#34;&gt;status&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;500&lt;/span&gt;).&lt;span class=&#34;title function_&#34;&gt;json&lt;/span&gt;(&amp;#123; &lt;span class=&#34;attr&#34;&gt;error&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;Error parsing form data&amp;quot;&lt;/span&gt; &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;next-router-多页面路由&#34;&gt;next-router-多页面路由&lt;/h3&gt;
+&lt;p&gt;使用 t3app 创建的项目一般会带有 layout.tsx 和 page.tsx, 作用是这样:&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;- app&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - layout.tsx  &lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt; 控制网站根节点页面布局&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - page.tsx    &lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt; 控制 &lt;span class=&#34;string&#34;&gt;&amp;#x27;/&amp;#x27;&lt;/span&gt; 页面路由&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - login       &lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt; 新建 &lt;span class=&#34;string&#34;&gt;&amp;#x27;/login&amp;#x27;&lt;/span&gt; 页面&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - layout.tsx&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt; 同理, 根节点必须有, 子页面没有也行&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - page.tsx  &lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt; 同理, 子页面必须&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - about       &lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt; 新建 &lt;span class=&#34;string&#34;&gt;&amp;#x27;/about&amp;#x27;&lt;/span&gt; 页面&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    - page.tsx&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;可以新建这个文件, 然后访问 &lt;code&gt;/login&lt;/code&gt; 试一试&lt;/p&gt;
+&lt;figure class=&#34;highlight tsx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// `app/login/page.tsx` is the UI for the `/login` URL&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;default&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;Page&lt;/span&gt;(&lt;span class=&#34;params&#34;&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;language-xml&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;Hello, login page!&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;payment-stripe&#34;&gt;payment-stripe&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No such price: ‘price_1PyqB006uMozVQ0qomnghCIo’; a similar object exists in live mode, but a test mode key was used to make this request.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;priceId 与 stripe secret 不匹配导致, 正式与测试 key 不通用&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;deployments&#34;&gt;deployments&lt;/h2&gt;
+&lt;h3 id=&#34;vercel-file-read-write&#34;&gt;vercel-file-read-write&lt;/h3&gt;
+&lt;p&gt;用了之后才深刻知道 vercel 是个 serverless 平台, 也就是代码里不能用 “fs”&lt;/p&gt;
+&lt;p&gt;当然也不是完全不能用, 是只读状态 (申请写入会报错: &lt;code&gt;EROFS: read-only file system&lt;/code&gt;)&lt;/p&gt;
+&lt;p&gt;文件引入也比较苛刻 (通过 &lt;code&gt;../&lt;/code&gt; 这种导入很容易出现 file not found) &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vercel.com/guides/how-can-i-use-files-in-serverless-functions&#34;&gt;按官方建议&lt;/a&gt; 是这种:&lt;/p&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;path.&lt;span class=&#34;title function_&#34;&gt;join&lt;/span&gt;(process.&lt;span class=&#34;title function_&#34;&gt;cwd&lt;/span&gt;(), &lt;span class=&#34;string&#34;&gt;&amp;quot;/public/img/xxx.png&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;如果真遇到需要 &lt;code&gt;临时&lt;/code&gt; 写入的情况, 可以用 &lt;code&gt;/tmp&lt;/code&gt; 这个路径&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/questions/70924414/vercel-read-only-file-system-chmod&#34;&gt;vercel read-only file system, chmod&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;另外更建议的做法是用 Buffer 传递, 一般主流第三方库的输入输入都适配了 (比如我用到了 Jimp)&lt;/p&gt;
+&lt;h4 id=&#34;Jimp-watermark-添加水印&#34;&gt;Jimp-watermark-添加水印&lt;/h4&gt;
+&lt;figure class=&#34;highlight ts&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; srcImg = &lt;span class=&#34;keyword&#34;&gt;await&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Jimp&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;read&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;title class_&#34;&gt;Buffer&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;from&lt;/span&gt;(&lt;span class=&#34;title function_&#34;&gt;await&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;await&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;fetch&lt;/span&gt;(data.&lt;span class=&#34;property&#34;&gt;output&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;image_url&lt;/span&gt; ?? &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;)).&lt;span class=&#34;title function_&#34;&gt;arrayBuffer&lt;/span&gt;())&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 水印加到左下角&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;srcImg.&lt;span class=&#34;title function_&#34;&gt;composite&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;await&lt;/span&gt; &lt;span class=&#34;title class_&#34;&gt;Jimp&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;read&lt;/span&gt;(path.&lt;span class=&#34;title function_&#34;&gt;join&lt;/span&gt;(process.&lt;span class=&#34;title function_&#34;&gt;cwd&lt;/span&gt;(), &lt;span class=&#34;string&#34;&gt;&amp;quot;/public/img/watermark.png&amp;quot;&lt;/span&gt;)),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  srcImg.&lt;span class=&#34;title function_&#34;&gt;getHeight&lt;/span&gt;() - &lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;mode&lt;/span&gt;: &lt;span class=&#34;title class_&#34;&gt;Jimp&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;BLEND_SOURCE_OVER&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;opacitySource&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;opacityDest&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;0.8&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;const&lt;/span&gt; resultBuffer = &lt;span class=&#34;keyword&#34;&gt;await&lt;/span&gt; srcImg.&lt;span class=&#34;title function_&#34;&gt;getBufferAsync&lt;/span&gt;(&lt;span class=&#34;title class_&#34;&gt;Jimp&lt;/span&gt;.&lt;span class=&#34;property&#34;&gt;MIME_JPEG&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;vercel-rewrites&#34;&gt;vercel-rewrites&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://vercel.com/docs/edge-network/rewrites&#34;&gt;https://vercel.com/docs/edge-network/rewrites&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;vercel 在部署一些 app 时, 会存在 404 的问题&lt;/p&gt;
+&lt;p&gt;因为 Vercel 中 &lt;code&gt;/xxx/&lt;/code&gt; 实际解析地址为 &lt;code&gt;xxx/index.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;而不是 &lt;code&gt;/xxx.html&lt;/code&gt;, 导致解析错误, 可以参考文档修复:&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;rewrites&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;[&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;&amp;quot;source&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;/tags/:path(.*(?!/))&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;&amp;quot;destination&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;/tags/:path.html&amp;quot;&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;punctuation&#34;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;aliyun-百炼换装&#34;&gt;aliyun-百炼换装&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Download the media resource timed out during the data inspection process.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这问题是由于资源链接离上海有点远/太大, 获取超时了, 把文件服务换到 ap-shanghai&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;centos7-宝塔-docker-CICD&#34;&gt;centos7-宝塔-docker-CICD&lt;/h3&gt;
+&lt;p&gt;首先面临的问题是 centos 7 在不升级系统的情况下无法直接安装 nodejs 18 (nextjs 最低要求)&lt;/p&gt;
+&lt;p&gt;所以选择用 docker 部署, t3app 自带了 Dockerfile&lt;/p&gt;
+&lt;h4 id=&#34;实践-CICD-nextjs-docker-dotenv&#34;&gt;实践-CICD-nextjs-docker-dotenv&lt;/h4&gt;
+&lt;p&gt;一般情况下前端项目的环境变量不太会在 build 时使用, 如果在代码里写环境变量切换 (JS/TS), 会在 build 时被编译为静态的, 无法在 run 的时候动态变化&lt;/p&gt;
+&lt;p&gt;所以用 docker 编译 nextjs 项目时, dockerfile 不用考虑 .env, 也不建议将 .env 打包在 docker image 中&lt;/p&gt;
+&lt;p&gt;build 为一个 docker image, 把 .env 复制到不同环境再运行&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;双引号问题&#34;&gt;双引号问题&lt;/h4&gt;
+&lt;p&gt;.env 中正常设置了: &lt;code&gt;NEXTAUTH_URL=&amp;quot;http://localhost:3000&amp;quot;&lt;/code&gt;, 但运行时报错了&lt;/p&gt;
+&lt;p&gt;❌ Invalid environment variables: { NEXTAUTH_URL: [ ‘Invalid url’ ] }&lt;/p&gt;
+&lt;p&gt;实际 .env 的解析也跟部署环境有联系, 我用的是 docker run --env-file .env 的形式插入环境变量, docker 中实际是这样解析的&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;25&amp;quot;&lt;/span&gt; : &lt;span class=&#34;string&#34;&gt;&amp;quot;NEXTAUTH_URL=&amp;quot;&lt;/span&gt;http:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;localhost:&lt;span class=&#34;number&#34;&gt;3000&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;26&amp;quot;&lt;/span&gt; : &lt;span class=&#34;string&#34;&gt;&amp;quot;NEXT_PUBLIC_NEXTAUTH_URL=&amp;quot;&lt;/span&gt;http:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;localhost:&lt;span class=&#34;number&#34;&gt;3000&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;27&amp;quot;&lt;/span&gt; : &lt;span class=&#34;string&#34;&gt;&amp;quot;PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;28&amp;quot;&lt;/span&gt; : &lt;span class=&#34;string&#34;&gt;&amp;quot;SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;29&amp;quot;&lt;/span&gt; : &lt;span class=&#34;string&#34;&gt;&amp;quot;NEXT_SHARP_PATH=/app/node_modules/sharp&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;但可见的问题是引号被提前截止, 所以导致程序无法引到变量&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://stackoverflow.com/questions/76105855/send-blob-image-from-frontend-to-backend-with-nextjs-and-trpc-t3-stack&#34;&gt;https://stackoverflow.com/questions/76105855/send-blob-image-from-frontend-to-backend-with-nextjs-and-trpc-t3-stack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://medium.com/@nksCodingLearnings/how-to-read-and-write-files-in-next-js-on-a-vercel-deployed-website-c1e9ea606cb6&#34;&gt;How to Read and Write Files in Next.js on a Vercel Deployed Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://stackoverflow.com/questions/71600978/missingsecret-missingsecreterror-please-define-a-secret-in-production&#34;&gt;MissingSecret [MissingSecretError]: Please define a &lt;code&gt;secret&lt;/code&gt; in production&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="nextjs" />
+        <category term="fullstack" />
+        <category term="vercel" />
+        <category term="阿里云" />
+        <category term="jimp" />
+        <category term="typescript" />
+        <updated>2024-08-21T16:53:57.000Z</updated>
+    </entry>
+</feed>

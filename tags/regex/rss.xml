@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;regex&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 22 Feb 2022 17:34:56 +0000</pubDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:34:56 +0000</lastBuildDate>
+        <category>PS</category>
+        <category>备忘录</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>摄影</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>English</category>
+        <category>推荐</category>
+        <category>笔记</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>system</category>
+        <category>Docker</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Cmake</category>
+        <category>Vue</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>server</category>
+        <category>ubuntu</category>
+        <category>nvidia</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Gitlab</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>Emmet</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/experience/regex/</guid>
+            <title>🙉修为突破灵药-正则表达式</title>
+            <link>https://blog.weidows.tech/post/experience/regex/</link>
+            <category>Regex</category>
+            <pubDate>Tue, 22 Feb 2022 17:34:56 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;修为突破灵药-正则表达式&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:31:39
+ * @FilePath: \Blog-private\source\_posts\experience\regex.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E4%B8%BA%E7%AA%81%E7%A0%B4%E7%81%B5%E8%8D%AF-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F&#34;&gt;修为突破灵药-正则表达式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#fix-%E8%AE%B0%E5%BD%95&#34;&gt;fix-记录&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#regex-matter&#34;&gt;regex-matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#word-matching&#34;&gt;word-matching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#regex-%E5%A4%9A%E5%AF%B9%E5%A4%9A%E6%9B%BF%E6%8D%A2&#34;&gt;regex-多对多替换&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vscode-%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2&#34;&gt;vscode-批量替换&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%80&#34;&gt;一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BA%8C&#34;&gt;二&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B0%BD%E7%9F%AD%E5%8C%B9%E9%85%8D&#34;&gt;尽短匹配&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sed-%E6%9B%BF%E6%8D%A2%E5%8F%8D%E6%96%9C%E6%9D%A0&#34;&gt;sed-替换反斜杠&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A0%E9%99%A4%E5%8C%B9%E9%85%8D%E5%A4%9A%E8%A1%8C%E5%8C%BA%E5%9F%9F&#34;&gt;删除匹配多行区域&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%9A%E8%A1%8C%E5%8C%B9%E9%85%8D-%E6%9B%BF%E6%8D%A2%E6%A8%A1%E5%BC%8F&#34;&gt;多行匹配-替换模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AD%97%E7%AC%A6%E5%8C%B9%E9%85%8D-%E8%A1%8C%E5%88%A0%E9%99%A4%E6%A8%A1%E5%BC%8F&#34;&gt;字符匹配-行删除模式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%A5%E9%94%99&#34;&gt;报错&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#invalid-cross-device-link&#34;&gt;Invalid-cross-device-link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Regular Expressions，缩写为 Regex 或 Regexp&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;推荐两个学习网址:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/74136752&#34;&gt;手握手教你学会正则表达式&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://regexlearn.com/zh-cn&#34;&gt;https://regexlearn.com/zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;fix-记录&#34;&gt;fix-记录&lt;/h2&gt;
+&lt;h3 id=&#34;regex-matter&#34;&gt;regex-matter&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/bubkoo/hexo-filter-fenced-code/issues/3&#34;&gt;https://github.com/bubkoo/hexo-filter-fenced-code/issues/3&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; rFenceCode = &lt;span class=&#34;regexp&#34;&gt;/(\s*)(`&amp;#123;3,&amp;#125;|~&amp;#123;3,&amp;#125;) *(.*) *\n?([\s\S]+?)\s*(\2)(\n+|$)/g&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;regex&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;解释&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;(\s*)(`&amp;#123;3,&amp;#125; | ~&amp;#123;3,&amp;#125;)&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;``` 或者 ~~~&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt; *(.*)&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;至少 1 个空格+至少 1 个任意字符&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt; *\n?&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;至少 1 个空格+可有可无换行 &lt;br&gt; 错误原因就是此,我习惯 trim 行尾的空格,所以无法正常匹配&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;word-matching&#34;&gt;word-matching&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/imdong/Var-Conv/pull/3&#34;&gt;https://github.com/imdong/Var-Conv/pull/3&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;RedirectURL&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;Redirect_URL&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;redirect_url&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;Redirect_url&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;redirect_Url&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;Redirect-url&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;Redirect2-url2&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;REDIRECT_URL&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;REDIRECT2_URL&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;URLParse&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;URL2Parse&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;string&#34;&gt;&amp;quot;ParseURL&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;].&lt;span class=&#34;title function_&#34;&gt;forEach&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;function&lt;/span&gt; (&lt;span class=&#34;params&#34;&gt;key&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;variable language_&#34;&gt;console&lt;/span&gt;.&lt;span class=&#34;title function_&#34;&gt;log&lt;/span&gt;(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 1.匹配 redirect / Redirect 这种&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 2.正前瞻 URLPa 这种大写+小写前面的内容 (Pa前面的, 即URL)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// 3.匹配连续大写 REDIRECT 这种&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    key.&lt;span class=&#34;title function_&#34;&gt;match&lt;/span&gt;(&lt;span class=&#34;regexp&#34;&gt;/([A-Z]?[a-z]+\d*)|([A-Z]+(?=[A-Z][a-z])\d*|[A-Z]+\d*)/g&lt;/span&gt;),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    key.&lt;span class=&#34;title function_&#34;&gt;match&lt;/span&gt;(&lt;span class=&#34;regexp&#34;&gt;/(^[A-Z]|^|[A-Z])([a-z]+)?/g&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  );&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;Redirect&amp;#x27;, &amp;#x27;URL&amp;#x27; ] [ &amp;#x27;Redirect&amp;#x27;, &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;Redirect&amp;#x27;, &amp;#x27;URL&amp;#x27; ] [ &amp;#x27;Redirect&amp;#x27;, &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;redirect&amp;#x27;, &amp;#x27;url&amp;#x27; ] [ &amp;#x27;redirect&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;Redirect&amp;#x27;, &amp;#x27;url&amp;#x27; ] [ &amp;#x27;Redirect&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;redirect&amp;#x27;, &amp;#x27;Url&amp;#x27; ] [ &amp;#x27;redirect&amp;#x27;, &amp;#x27;Url&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;Redirect&amp;#x27;, &amp;#x27;url&amp;#x27; ] [ &amp;#x27;Redirect&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;Redirect2&amp;#x27;, &amp;#x27;url2&amp;#x27; ] [ &amp;#x27;Redirect&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;REDIRECT&amp;#x27;, &amp;#x27;URL&amp;#x27; ] [&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//   &amp;#x27;R&amp;#x27;, &amp;#x27;E&amp;#x27;, &amp;#x27;D&amp;#x27;, &amp;#x27;I&amp;#x27;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//   &amp;#x27;R&amp;#x27;, &amp;#x27;E&amp;#x27;, &amp;#x27;C&amp;#x27;, &amp;#x27;T&amp;#x27;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//   &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;REDIRECT2&amp;#x27;, &amp;#x27;URL&amp;#x27; ] [&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//   &amp;#x27;R&amp;#x27;, &amp;#x27;E&amp;#x27;, &amp;#x27;D&amp;#x27;, &amp;#x27;I&amp;#x27;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//   &amp;#x27;R&amp;#x27;, &amp;#x27;E&amp;#x27;, &amp;#x27;C&amp;#x27;, &amp;#x27;T&amp;#x27;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;//   &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;URL&amp;#x27;, &amp;#x27;Parse&amp;#x27; ] [ &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27;, &amp;#x27;Parse&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;URL2&amp;#x27;, &amp;#x27;Parse&amp;#x27; ] [ &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27;, &amp;#x27;Parse&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// [ &amp;#x27;Parse&amp;#x27;, &amp;#x27;URL&amp;#x27; ] [ &amp;#x27;Parse&amp;#x27;, &amp;#x27;U&amp;#x27;, &amp;#x27;R&amp;#x27;, &amp;#x27;L&amp;#x27; ]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;regex-多对多替换&#34;&gt;regex-多对多替换&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我在切换图床时想实现如下 &lt;code&gt;多对多替换&lt;/code&gt; 的需求&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;fastly.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post/&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;d9Xs6ADR3MaNCy.png&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;--&amp;gt; https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;pan.weidows.tech&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;local&lt;span class=&#34;regexp&#34;&gt;/blog/&lt;/span&gt;GVFbWK.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;fastly.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;C7cgeEIQNr3qLu.png&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;--&amp;gt; https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;pan.weidows.tech&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;local&lt;span class=&#34;regexp&#34;&gt;/blog/&lt;/span&gt;GVFlgb.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;fastly.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;GXOS5mW8EzIT7Y.png&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;--&amp;gt; https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;pan.weidows.tech&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;local&lt;span class=&#34;regexp&#34;&gt;/blog/&lt;/span&gt;GVFWDS.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;fastly.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;POdUowc3qW8DRy.png&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;--&amp;gt; https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;pan.weidows.tech&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;local&lt;span class=&#34;regexp&#34;&gt;/blog/&lt;/span&gt;GVFTHD.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;fastly.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;ThkbFZmCU3QvEN.png&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;--&amp;gt; https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;pan.weidows.tech&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;local&lt;span class=&#34;regexp&#34;&gt;/blog/&lt;/span&gt;GVF2ao.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;fastly.jsdelivr.net&lt;span class=&#34;regexp&#34;&gt;/gh/&lt;/span&gt;Weidows&lt;span class=&#34;regexp&#34;&gt;/Images/&lt;/span&gt;post/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;ThYuqlEtFfdJeK.png&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;--&amp;gt; https:&lt;span class=&#34;regexp&#34;&gt;//&lt;/span&gt;pan.weidows.tech&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;local&lt;span class=&#34;regexp&#34;&gt;/blog/&lt;/span&gt;GVFOGC.jpg&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;shell 脚本实现:&lt;/p&gt;
+&lt;p&gt;支持同一链接在多个文件/多次出现出现的情况&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;comment&#34;&gt;##&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@?: *********************************************************************&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@Author: Weidows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@Date: 2022-02-27 01:34:37&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@LastEditors: Weidows&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@LastEditTime: 2022-02-27 18:29:00&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@FilePath: \Blog-private\test.sh&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@Description:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;@!: *********************************************************************&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;comment&#34;&gt;##&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;echo &amp;quot;hello! now  working in:&amp;quot; &amp;amp;&amp;amp; pwd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;fileArray=(&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  1d9Xs6ADR3MaNCy&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2C7cgeEIQNr3qLu&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2GXOS5mW8EzIT7Y&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2POdUowc3qW8DRy&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2ThkbFZmCU3QvEN&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fileArray=(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;urlArray=(&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2022/02/27/GVFbWK.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2022/02/27/GVFlgb.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2022/02/27/GVFWDS.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2022/02/27/GVFTHD.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;  2022/02/27/GVF2ao.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;urlArray=(&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;for i in &amp;quot;$&amp;#123;!fileArray[@]&amp;#125;&amp;quot;; do&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;  # &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;查找&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  path=`grep -rl $&amp;#123;fileArray[$i]&amp;#125; ./source`&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;  # &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;替换&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  sed -i &amp;quot;s#fastly.jsdelivr.net/gh/Weidows/Images/post/$&amp;#123;fileArray[$i]&amp;#125;\.\w\w\w#www.helloimg.com/images/$&amp;#123;urlArray[$i]&amp;#125;#g&amp;quot; $path&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;done&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vscode-批量替换&#34;&gt;vscode-批量替换&lt;/h2&gt;
+&lt;h3 id=&#34;一&#34;&gt;一&lt;/h3&gt;
+&lt;figure class=&#34;highlight livescript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Screenshot_20210313_171408_tv.danmaku.bili&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-&amp;gt; Screenshot20210313171408&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Screenshot_&lt;span class=&#34;string&#34;&gt;\d+_\d+_tv.danmaku.bili`&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-&amp;gt; Screenshot&lt;span class=&#34;string&#34;&gt;\d+\d+&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;二&#34;&gt;二&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;匹配下面内容&lt;/p&gt;
+&lt;figure class=&#34;highlight subunit&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;categories:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - experience&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - shell&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - experience&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  - shell&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;categories:*tags:&lt;/p&gt;
+&lt;p&gt;行不通, 其中间含有 \n&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;categories:\n((.)±(.)+\n)+tags:\n((.)±(.)+\n)+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;尽短匹配&#34;&gt;尽短匹配&lt;/h3&gt;
+&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;%SystemRoot%\system32\WBEM;%SystemRoot%\system32\WBEM;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\vmware-workstation-pro\&lt;span class=&#34;number&#34;&gt;16.2&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.4&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;-20089737&lt;/span&gt;\bin\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\system32\WBEM;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\system32;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\System32\Wbem;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\System32\WindowsPowerShell\v1&lt;span class=&#34;number&#34;&gt;.0&lt;/span&gt;\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\System32\OpenSSH\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Program Files (x86)\dotnet\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Program Files\dotnet\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\system32;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\System32\Wbem;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\System32\WindowsPowerShell\v1&lt;span class=&#34;number&#34;&gt;.0&lt;/span&gt;\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\System32\OpenSSH\;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\JetBrains\Toolbox\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\yarn\current\global\node_modules\.bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\yarn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\JetBrains\Toolbox\scripts&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;比如上面一大段, 想要匹配出来每段 &lt;code&gt;D:\Scoop...;&lt;/code&gt;, 用 &lt;code&gt;D:\\Scoop.+;&lt;/code&gt; 的匹配结果为一大段:&lt;/p&gt;
+&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;共 &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; 个匹配项&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\vmware-workstation-pro\&lt;span class=&#34;number&#34;&gt;16.2&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.4&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;-20089737&lt;/span&gt;\bin\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\system32\WBEM;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\system32;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\System32\Wbem;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\System32\WindowsPowerShell\v1&lt;span class=&#34;number&#34;&gt;.0&lt;/span&gt;\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Windows\System32\OpenSSH\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Program Files (x86)\dotnet\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Program Files\dotnet\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\system32;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\System32\Wbem;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\System32\WindowsPowerShell\v1&lt;span class=&#34;number&#34;&gt;.0&lt;/span&gt;\;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\WINDOWS\System32\OpenSSH\;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\JetBrains\Toolbox\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\yarn\current\global\node_modules\.bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\yarn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;span class=&#34;name&#34;&gt;C&lt;/span&gt;:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;&lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;改为 &lt;code&gt;D:\\Scoop.+?;&lt;/code&gt; 尽短匹配, 结果:&lt;/p&gt;
+&lt;figure class=&#34;highlight moonscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;共 &lt;span class=&#34;number&#34;&gt;45&lt;/span&gt; 个匹配项&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\vmware-workstation-pro\&lt;span class=&#34;number&#34;&gt;16.2&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.4&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;-20089737&lt;/span&gt;\bin\;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;5&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;8&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;11&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;13&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;15&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;16&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;17&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;18&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;19&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;20&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;21&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;22&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;23&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;24&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;25&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;26&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;27&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;28&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;29&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\yarn\current\global\node_modules\.bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;30&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\yarn\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;31&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;32&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\go-cn\current\global_path\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;33&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\nvm\current\nodejs\nodejs;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;34&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\latex\current\texmfs\install\miktex\bin\x64;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;35&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\openjdk8-redhat\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;36&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\winlibs-mingw-llvm-msvcrt\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;37&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\maven\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;38&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\scripts;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;39&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\miniconda-cn\current\Library\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;40&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;41&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cuda11&lt;span class=&#34;number&#34;&gt;.3&lt;/span&gt;\current\libnvvp;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;42&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\cudnn\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;43&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\apps\chocolatey_chawyehsu\current\bin;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;$&lt;span class=&#34;number&#34;&gt;44&lt;/span&gt; -&amp;gt; &lt;span class=&#34;name&#34;&gt;D&lt;/span&gt;:\Scoop\shims;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sed-替换反斜杠&#34;&gt;sed-替换反斜杠&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;数据中的斜杠是脚本天敌,需要做预处理转义&lt;br&gt;
+&lt;sup id=&#39;cite_ref-1&#39;&gt;&lt;a href=&#34;#cite_note-1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;2022/02/27/GVJOM6.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-&amp;gt; 2022\&lt;span class=&#34;string&#34;&gt;/02&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;/27&lt;/span&gt;\&lt;span class=&#34;string&#34;&gt;/GVJOM6.jpg&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;code&gt;sed -i &amp;quot;s#/#\\/#g&amp;quot; result.txt&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;删除匹配多行区域&#34;&gt;删除匹配多行区域&lt;/h2&gt;
+&lt;p&gt;起因是写的 host 更新脚本有时会因为网络原因出错, 我想删除&lt;code&gt;&amp;lt;html&amp;gt;&amp;lt;/html&amp;gt;&lt;/code&gt; 这部分&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# pollen&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;127&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; pollen-svc&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# simswap.service&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;127&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; simswap-service-svc&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;502&lt;/span&gt; Bad Gateway&amp;lt;/title&amp;gt;&amp;lt;/head&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;body bgcolor=&lt;span class=&#34;string&#34;&gt;&amp;quot;white&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;502&lt;/span&gt; Bad Gateway&amp;lt;/h1&amp;gt;&amp;lt;/center&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;hr&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;nginx&lt;/span&gt;/&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; (Ubuntu)&amp;lt;/center&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;502&lt;/span&gt; Bad Gateway&amp;lt;/title&amp;gt;&amp;lt;/head&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;body bgcolor=&lt;span class=&#34;string&#34;&gt;&amp;quot;white&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;502&lt;/span&gt; Bad Gateway&amp;lt;/h1&amp;gt;&amp;lt;/center&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;hr&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;nginx&lt;/span&gt;/&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; (Ubuntu)&amp;lt;/center&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;502&lt;/span&gt; Bad Gateway&amp;lt;/title&amp;gt;&amp;lt;/head&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;body bgcolor=&lt;span class=&#34;string&#34;&gt;&amp;quot;white&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;502&lt;/span&gt; Bad Gateway&amp;lt;/h1&amp;gt;&amp;lt;/center&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;hr&amp;gt;&lt;/span&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;&lt;span class=&#34;attribute&#34;&gt;nginx&lt;/span&gt;/&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; (Ubuntu)&amp;lt;/center&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# GitHub520 Host Start&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;140&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;82&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;113&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;                  alive.github.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;140&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;82&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;113&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;                  live.github.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;35&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;91&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;180&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;210&lt;/span&gt;                 github.githubassets.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;140&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;82&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;113&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;                  central.github.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;35&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;160&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;167&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;22&lt;/span&gt;                 desktop.githubusercontent.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;140&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;82&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;113&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;                  assets-cdn.github.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;54&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;218&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;63&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;240&lt;/span&gt;                 camo&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;多行匹配-替换模式&#34;&gt;多行匹配-替换模式&lt;/h3&gt;
+&lt;p&gt;不知道为啥, 按道理 regex 没问题, 但是不起效…&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sed -&lt;span class=&#34;selector-tag&#34;&gt;i&lt;/span&gt; &amp;quot;s/&amp;lt;&lt;span class=&#34;selector-attr&#34;&gt;[\w\W]&lt;/span&gt;*&amp;gt;/ /&lt;span class=&#34;selector-tag&#34;&gt;g&lt;/span&gt;&amp;quot; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;selector-class&#34;&gt;.txt&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;字符匹配-行删除模式&#34;&gt;字符匹配-行删除模式&lt;/h3&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;sed&lt;/span&gt; -i &lt;span class=&#34;string&#34;&gt;&amp;quot;/&amp;lt;/d&amp;quot;&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;.txt&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;报错&#34;&gt;报错&lt;/h2&gt;
+&lt;h3 id=&#34;Invalid-cross-device-link&#34;&gt;Invalid-cross-device-link&lt;/h3&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;regexp&#34;&gt;/d/&lt;/span&gt;Scoop&lt;span class=&#34;regexp&#34;&gt;/apps/gi&lt;/span&gt;t-all&lt;span class=&#34;regexp&#34;&gt;/current/u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/bin/&lt;/span&gt;sed: cannot rename ./sedLO8z5J: Invalid cross-device link&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;跨盘操作不允许替换文件 &lt;sup id=&#39;cite_ref-4&#39;&gt;&lt;a href=&#34;#cite_note-4&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/weixin_39031707/article/details/104065184&#34;&gt;Sed 替换 内容带反斜杠（/）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://www.jianshu.com/p/ff05d467e145&#34;&gt;正则表达式如何匹配多行的所有任意字符&lt;br&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.51cto.com/u_15278282/4895336&#34;&gt;sed 删除文件中含有特定字符（串）的行_51CTO 博客_sed 删除指定行&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://ceshiren.com/t/topic/3300&#34;&gt;sed 修改文件不成功&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
