@@ -1,0 +1,676 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;golang&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 06 Feb 2022 16:53:07 +0000</pubDate>
+        <lastBuildDate>Sun, 06 Feb 2022 16:53:07 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>server</category>
+        <category>ubuntu</category>
+        <category>nvidia</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Gitlab</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>scoop</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>对象</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>反射</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>chatgpt</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/lang/golang/golang/</guid>
+            <title>🐭从零开始-Golang</title>
+            <link>https://blog.weidows.tech/post/lang/golang/golang/</link>
+            <category>区块链</category>
+            <category>Golang</category>
+            <pubDate>Sun, 06 Feb 2022 16:53:07 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;从零开始-Golang&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2024-01-12 22:02:38
+ * @FilePath: \Blog-private\source\_posts\others\golang\golang.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B-golang&#34;&gt;从零开始-Golang&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE&#34;&gt;配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4&#34;&gt;常用命令&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#go-env&#34;&gt;Go-env&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#goland-%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%BF%81%E7%A7%BB&#34;&gt;Goland-快捷键迁移&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A1%B9%E7%9B%AE%E7%83%AD%E9%83%A8%E7%BD%B2&#34;&gt;项目热部署&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#go-install&#34;&gt;go-install&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#learning&#34;&gt;learning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#package&#34;&gt;package&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#package-demo&#34;&gt;package-demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8C%E4%B8%80%E5%8C%85%E4%B8%8B%E5%90%8C%E5%90%8D%E6%96%B9%E6%B3%95%E9%9A%94%E7%A6%BB&#34;&gt;同一包下同名方法隔离&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%AF%E4%BD%9C%E7%94%A8%E5%AF%BC%E5%85%A5&#34;&gt;副作用导入&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#public-package&#34;&gt;public-package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#http-json-req&#34;&gt;http-json-req&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8D%E7%A7%B0%E8%A7%84%E8%8C%83&#34;&gt;名称规范&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8C%87%E9%92%88&#34;&gt;指针&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gp-python&#34;&gt;gp-python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#concurrent&#34;&gt;concurrent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#context&#34;&gt;context&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cgo&#34;&gt;cgo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#zincsearch&#34;&gt;zincsearch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AF%AD%E6%B3%95&#34;&gt;语法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%A4%E7%A9%BA&#34;&gt;判空&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#slice-map-init&#34;&gt;slice-map-init&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mongo&#34;&gt;mongo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#insertmany&#34;&gt;insertMany&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mq&#34;&gt;mq&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9D%83%E9%99%90%E5%8F%8A%E8%BF%9E%E6%8E%A5&#34;&gt;权限及连接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98&#34;&gt;常见问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%88-go-mod&#34;&gt;阿里云效-go-mod&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3&#34;&gt;官方文档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A7%81%E6%9C%89%E5%BA%93%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98&#34;&gt;私有库连接问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%89%B4%E6%9D%83%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98&#34;&gt;鉴权失败问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#macos&#34;&gt;Macos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gosumdb-%E4%BB%A3%E7%90%86%E9%97%AE%E9%A2%98&#34;&gt;GOSUMDB-代理问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hostname-%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90&#34;&gt;hostname-无法解析&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#protobuf-%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96&#34;&gt;protobuf-无法获取&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#package-1&#34;&gt;package&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#go-get-%E6%9B%B4%E6%96%B0%E4%BE%9D%E8%B5%96%E6%97%A0%E6%95%88&#34;&gt;go-get-更新依赖无效&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cgo-1&#34;&gt;cgo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%81%E6%B2%A1%E5%85%B3%E9%97%AD%E5%AF%BC%E8%87%B4%E8%AF%BB%E5%8F%96%E5%A4%B1%E8%B4%A5&#34;&gt;流没关闭导致读取失败&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B1%BB%E5%9E%8B%E5%8F%82%E6%95%B0-%E4%B8%BB%E7%B1%BB%E5%9E%8B%E4%B8%8D%E4%B8%80%E8%87%B4&#34;&gt;类型参数-主类型不一致&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#access-is-denied&#34;&gt;Access-is-denied&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;文章开辟于《Golang 区块链入门到实战_以太坊/fabric》&lt;sup id=&#39;cite_ref-01&#39;&gt;&lt;a href=&#34;#cite_note-01&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;没成想半途真的投入 Golang 岗, 深挖亿下…&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置&#34;&gt;配置&lt;/h2&gt;
+&lt;h3 id=&#34;常用命令&#34;&gt;常用命令&lt;/h3&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;windows 安装&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;scoop install go-cn&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;模块初始化&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go mod init ProjectName&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;依赖更新&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go get -u xxx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;Go 1.16 及以后版本&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go install xxx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go mod tidy&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;显示已安装的package&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go list ...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;gopkgs&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;cannot determine module path for source directory (outside GOPATH&lt;sup id=&#39;cite_ref-03&#39;&gt;&lt;a href=&#34;#cite_note-03&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Go-env&#34;&gt;Go-env&lt;/h3&gt;
+&lt;p&gt;可以通过设置系统环境变量和使用 &lt;code&gt;go env -w&lt;/code&gt; 两种形式 &lt;sup id=&#39;cite_ref-2&#39;&gt;&lt;a href=&#34;#cite_note-2&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;, 前者权限大于后者, 推荐用后者 (已经测试好的配置, 尽量别改了)&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;代理服务列表&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[Environment]::SetEnvironmentVariable(&amp;#x27;GOPROXY&amp;#x27;, &amp;#x27;https://proxy.golang.com.cn,direct&amp;#x27;, &amp;#x27;User&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;GOSUMDB 建议留空取默认的sum.golang.org, 速度慢点总比疯狂报错好&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[Environment]::SetEnvironmentVariable(&amp;#x27;GOSUMDB&amp;#x27;, &amp;#x27;&amp;#x27;, &amp;#x27;User&amp;#x27;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# Go 1.15 及之前版本&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w GO111MODULE=on&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;下面二选一&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOPROXY=https://proxy.golang.com.cn,direct&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOPROXY=https://goproxy.cn,direct&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOSUMDB=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;已失效&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOPROXY=https://goproxy.io,direct&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;通过 &lt;code&gt;go env&lt;/code&gt; 查看更改后的 (有时可能要重启才生效)&lt;/p&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;set GO111MODULE=on&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOARCH=amd64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOBIN=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOCACHE=C:\Users\Administrator\AppData\Local\go-build&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOENV=C:\Users\Administrator\AppData\Roaming\go\env&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOEXE=.exe&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOEXPERIMENT=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOFLAGS=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOHOSTARCH=amd64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOHOSTOS=windows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOINSECURE=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOMODCACHE=D:\Scoop\apps\go-cn\current\global_path\pkg\mod&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GONOPROXY=codeup.aliyun.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GONOSUMDB=codeup.aliyun.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOOS=windows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOPATH=D:\Scoop\apps\go-cn\current\global_path&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOPRIVATE=codeup.aliyun.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOPROXY=https://proxy.golang.com.cn,direct&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOROOT=D:\Scoop\apps\go-cn\current&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOSUMDB=sum.golang.org&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOTMPDIR=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOTOOLDIR=D:\Scoop\apps\go-cn\current\pkg\tool\windows_amd64&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOVCS=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOVERSION=go1.19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GCCGO=gccgo&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOAMD64=v1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set AR=ar&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CC=gcc&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CXX=g++&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CGO_ENABLED=1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOMOD=NUL&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOWORK=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CGO_CFLAGS=-g -O2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CGO_CPPFLAGS=&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CGO_CXXFLAGS=-g -O2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CGO_FFLAGS=-g -O2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set CGO_LDFLAGS=-g -O2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set PKG_CONFIG=pkg-config&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set GOGCCFLAGS=-m64 -mthreads -Wl,--no-gc-sections -fmessage-length=0 -fdebug-prefix-map=C:\Users\ADMINI~1\AppData\Local\Temp\go-build2787993248=/tmp/go-build -gno-record-gcc-switches&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;Goland-快捷键迁移&#34;&gt;Goland-快捷键迁移&lt;/h3&gt;
+&lt;p&gt;在另一篇: &lt;a href=&#34;../../../tools/IDE-matters#Goland-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5&#34;&gt;🤔Matters-found-in-IDEs&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;项目热部署&#34;&gt;项目热部署&lt;/h3&gt;
+&lt;p&gt;这里推荐用 &lt;a href=&#34;https://github.com/cosmtrek/air/blob/master/README-zh_cn.md&#34;&gt;air&lt;/a&gt;, 项目还比较活跃&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;先安装上&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入项目 &lt;code&gt;air init&lt;/code&gt;, 会出现 &lt;code&gt;.air.toml&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置 &lt;code&gt;.air.toml&lt;/code&gt;, 实际上只需要改一些 bin 和 cmd, 如下&lt;/p&gt;
+&lt;figure class=&#34;highlight toml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;root&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;.&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;testdata_dir&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tmp_dir&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[build]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;args_bin&lt;/span&gt; = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;bin&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;discord-bot.exe&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;cmd&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;go build -o . codeup.aliyun.com/wenuts/aimage/discord-bot&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;delay&lt;/span&gt; = &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude_dir&lt;/span&gt; = [&lt;span class=&#34;string&#34;&gt;&amp;quot;assets&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;tmp&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;vendor&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;testdata&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude_file&lt;/span&gt; = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude_regex&lt;/span&gt; = [&lt;span class=&#34;string&#34;&gt;&amp;quot;_test.go&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;exclude_unchanged&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;follow_symlink&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;full_bin&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;include_dir&lt;/span&gt; = []&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;include_ext&lt;/span&gt; = [&lt;span class=&#34;string&#34;&gt;&amp;quot;go&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;tpl&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;tmpl&amp;quot;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;quot;html&amp;quot;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;kill_delay&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;0s&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;log&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;build-errors.log&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;send_interrupt&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;stop_on_error&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[color]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;app&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;build&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;yellow&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;main&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;magenta&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;runner&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;green&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;watcher&lt;/span&gt; = &lt;span class=&#34;string&#34;&gt;&amp;quot;cyan&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[log]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;time&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[misc]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;clean_on_exit&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;[screen]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;clear_on_rebuild&lt;/span&gt; = &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;console 直接运行 air, 就可以热部署开发了, 缺点是不能 Debug&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;go-install&#34;&gt;go-install&lt;/h3&gt;
+&lt;p&gt;给出地址, go 可以直接拉下来编译为对应平台的可执行文件&lt;/p&gt;
+&lt;figure class=&#34;highlight swift&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go install google.golang.org&lt;span class=&#34;regexp&#34;&gt;/protobuf/&lt;/span&gt;cmd&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;protoc&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;gen&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;go&lt;span class=&#34;meta&#34;&gt;@latest&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go install github.com&lt;span class=&#34;regexp&#34;&gt;/cuigh/&lt;/span&gt;protoc&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;gen&lt;span class=&#34;operator&#34;&gt;-&lt;/span&gt;auxo&lt;span class=&#34;meta&#34;&gt;@latest&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go install github.com&lt;span class=&#34;regexp&#34;&gt;/tpng/&lt;/span&gt;gopkgs&lt;span class=&#34;meta&#34;&gt;@latest&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;learning&#34;&gt;learning&lt;/h2&gt;
+&lt;p&gt;基础语法可以跟着菜鸟教程学习 &lt;sup id=&#39;cite_ref-05&#39;&gt;&lt;a href=&#34;#cite_note-05&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;package&#34;&gt;package&lt;/h3&gt;
+&lt;h4 id=&#34;package-demo&#34;&gt;package-demo&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;package&lt;/code&gt;被误改会报错&lt;sup id=&#39;cite_ref-06&#39;&gt;&lt;a href=&#34;#cite_note-06&#34;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;package command-line-arguments is not a main package&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正确 import 法:&lt;sup id=&#39;cite_ref-07&#39;&gt;&lt;a href=&#34;#cite_note-07&#34;&gt;[7]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;简易例子:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;test.go&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;( a, b &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; )&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; a + b&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;main.go&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;package&lt;/span&gt; main&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  fmt.Println(sum(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;同一包下同名方法隔离&#34;&gt;同一包下同名方法隔离&lt;/h4&gt;
+&lt;p&gt;比如 a.go 和 b.go 都在 package main 里, 都有 print()方法, 没隔离的情况下会报错 (同名方法重复)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;一般常采用接口进行文件间的隔离:&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; A &lt;span class=&#34;keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;(a *A)&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;() &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;type&lt;/span&gt; B &lt;span class=&#34;keyword&#34;&gt;struct&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;params&#34;&gt;(b *B)&lt;/span&gt;&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;() &amp;#123;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;副作用导入&#34;&gt;副作用导入&lt;/h4&gt;
+&lt;p&gt;有时项目会用到其他 package 的初始化, 但并没有实际调用函数, 就会通过 &lt;code&gt;_&lt;/code&gt; 副作用导入, 不写不会提示但缺少运行时会报错, 除非熟悉不然很难揪出来的问题&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; (&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ &lt;span class=&#34;string&#34;&gt;&amp;quot;codeup.aliyun.com/wenuts/aimage/api/handler&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ &lt;span class=&#34;string&#34;&gt;&amp;quot;codeup.aliyun.com/wenuts/aimage/api/security&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/app&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/app/flag&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/app/ioc&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ &lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/cache/memory&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ &lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/cache/redis&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/config&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/data/valid&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/errors&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ &lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/net/rpc/codec/proto&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ &lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/net/rpc/resolver/dns&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/net/web&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;github.com/cuigh/auxo/net/web/filter&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;net/http&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;string&#34;&gt;&amp;quot;os&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;public-package&#34;&gt;public-package&lt;/h4&gt;
+&lt;p&gt;发布到网上的库可以通过 go 获取: &lt;code&gt;go install github.com/Weidows/Golang/demo/gmm@latest&lt;/code&gt;, 有的会遇到报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight console&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt; go install github.com/Weidows/Golang/demo/gmm@latest                                                                                                                                                                   go: github.com/Weidows/Golang/demo/gmm@latest: github.com/Weidows/Golang@v0.0.0-20221031074205-850af8522b95: parsing go.mod:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        module declares its path as: Golang&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                but was required as: github.com/Weidows/Golang&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;原因是 go.mod 里面第一行应换为 &lt;code&gt;module github.com/Weidows/Golang&lt;/code&gt; 形式&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;http-json-req&#34;&gt;http-json-req&lt;/h3&gt;
+&lt;p&gt;用 golang 做带有 JSON 格式 body 的 http 请求&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;跟&lt;a href=&#34;../../../experience/dev/problem#api-request-body&#34;&gt;这个问题&lt;/a&gt;同时出现的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	token := &lt;span class=&#34;string&#34;&gt;&amp;quot;AOEOulb6yc81T2dbV8QN2-r9-RS7BoEEGHJhHkfLp50kMB8F0fO61PzHkQUiT1qMTMQZwAqHIUlU4D89gUs_YwX1BVc5KbD1maDC2M_T0zyk8BKSKGBrsYf5bqx606Xc3vSu3qYRv-jDVcb7D52Kqpl3M-jWTeaDhcSm2CyolUMie3oyifyh3fE&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	jsonBody, _ := json.Marshal(&lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;]any&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;string&#34;&gt;&amp;quot;grantType&amp;quot;&lt;/span&gt;:    &lt;span class=&#34;string&#34;&gt;&amp;quot;refresh_token&amp;quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;string&#34;&gt;&amp;quot;refreshToken&amp;quot;&lt;/span&gt;: token,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	req := bytes.NewBuffer(jsonBody)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;comment&#34;&gt;//resp, _ := http.Post(&amp;quot;&amp;quot;, &amp;quot;&amp;quot;, buff)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	resp := req&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; m any&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	_ = json.NewDecoder(resp).Decode(&amp;amp;m)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;comment&#34;&gt;//	map[grantType:refresh_token refreshToken:AOEOulb6yc81T2dbV8QN2-r9-RS7BoEEGHJhHkfLp50kMB8F0fO61PzHkQUiT1qMTMQZwAqHIUlU4D89gUs_YwX1BVc5KbD1maDC2M_T0zyk8BKSKGBrsYf5bqx606Xc3vSu3qYRv-jDVcb7D52Kqpl3M-jWTeaDhcSm2CyolUMie3oyifyh3fE]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	fmt.Println(m)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;名称规范&#34;&gt;名称规范&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;源文件名不包含大写&lt;/p&gt;
+&lt;p&gt;get.go -&amp;gt; × getV3.go&lt;br&gt;
+get.go -&amp;gt; √ get3.go&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;驼峰命名, 对于公开方法/变量/常量, 首字母大写,否则小写&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;指针&#34;&gt;指针&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://studygolang.com/articles/7412&#34;&gt;go 语言指针符号的*和&amp;amp;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;golang string 转 *string&lt;/p&gt;
+&lt;p&gt;比如字符串 “abc”, 无法直接通过 &amp;amp;“abc” 取到 *string, 需要先出个变量&lt;/p&gt;
+&lt;p&gt;v := “abc”, &amp;amp;v 就可以取到了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gp-python&#34;&gt;gp-python&lt;/h3&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;# github.&lt;span class=&#34;keyword&#34;&gt;com&lt;/span&gt;/sbinet/&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;python&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;In &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; included from D:\Scoop\apps\&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;cn&lt;/span&gt;\current\global_path\pkg\&lt;span class=&#34;keyword&#34;&gt;mod&lt;/span&gt;\github.&lt;span class=&#34;keyword&#34;&gt;com&lt;/span&gt;\sbinet\&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;-python@v0.&lt;span class=&#34;number&#34;&gt;1.0&lt;/span&gt;\capi.&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;./&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;-&lt;span class=&#34;keyword&#34;&gt;python&lt;/span&gt;.h:&lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;: fatal error: Python.h: No such &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;or&lt;/span&gt; directory&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt; | #include &lt;span class=&#34;string&#34;&gt;&amp;quot;Python.h&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      |          ^~~~~~~~~~&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;compilation terminated.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;因为 &lt;a href=&#34;https://github.com/sbinet/go-python&#34;&gt;go-python&lt;/a&gt; 调的是 python2, 不兼容 python3, 可以用 &lt;a href=&#34;https://github.com/go-python/cpy3&#34;&gt;cpy&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight mel&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;pkg-config: &lt;span class=&#34;keyword&#34;&gt;exec&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;quot;pkg-config&amp;quot;&lt;/span&gt;: executable &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; not found &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; %PATH%&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;没装这个软件&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;concurrent&#34;&gt;concurrent&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;并发模型&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;实体&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;通信方式&lt;/th&gt;
+&lt;th&gt;优点&lt;/th&gt;
+&lt;th&gt;缺点&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多进程&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;进程&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;socket, 共享内存, 管道, 信号量, unix 域等&lt;/td&gt;
+&lt;td&gt;隔离性好, 因为每个进程都有自己独立的进程空间&lt;/td&gt;
+&lt;td&gt;统一性差, 即数据同步比较麻烦. 解决方案(消息队列 zeromq 解决最终一致性问题, rpc 解决强一致性问题, zookeeper 解决服务协调的问题)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;多线程&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;线程&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;消息队列, 管道, 锁等&lt;/td&gt;
+&lt;td&gt;统一性强, 因为线程都在同一个进程内(这里的多线程是指同一进程内的多线程)&lt;/td&gt;
+&lt;td&gt;隔离性差, 线程间共享了很多资源, 并且可以轻易的访问其他线程的私有空间, 需要使用锁来进行控制(锁的类型选择和粒度控制都是比较难的)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;csp&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;协程&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;channel (可理解为加强版多线程解决方案)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;actor&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;actor&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;通过消息队列传递指针即可达到通信目的&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Golang 对 CSP(Communicating Sequential Process) 模型借用了 process(goroutine) 和 channel 这两个概念来实现自己的并发模型, 是对线程的抽象&lt;/p&gt;
+&lt;p&gt;如下一个简易 csp golang 实现&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; ch = &lt;span class=&#34;built_in&#34;&gt;make&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;chan&lt;/span&gt; &lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;receive&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 异步, 阻塞读&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  msg := &amp;lt;-ch&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  fmt.Println(msg)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;send&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;// 写&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ch &amp;lt;- &lt;span class=&#34;string&#34;&gt;&amp;quot;Hello,CSP.&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt; send()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt; receive()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;actor 是从语言层面抽象出来的进程概念, erlang 是从语言层面来实现 actor 模型(可理解为加强版多进程解决方案), actor 有三个组成:&lt;/p&gt;
+&lt;p&gt;隔离环境: 内存块或 lua 虚拟机&lt;/p&gt;
+&lt;p&gt;回调函数: 用于执行 actor, 消费消息&lt;/p&gt;
+&lt;p&gt;消息队列: 用于存储消息&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;context&#34;&gt;context&lt;/h3&gt;
+&lt;p&gt;context 上下文不复用, 多数是用来设置超时调用的, 调用一次方法/每个调用链生成一次, 不然后面调用的方法可能会因为时间短而超时失败&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cgo&#34;&gt;cgo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;依赖引入比较棘手, 下面分别为代码与环境变量需要配置的&lt;/p&gt;
+&lt;figure class=&#34;highlight go&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;/*&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#cgo CFLAGS: -I../face_swap/include&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#cgo LDFLAGS: -L/root/workspace/src/face_swap/lib -lSwapFace&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#include &amp;quot;../face_swap/include/sim_swap_api.h&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;export LD_LIBRARY_PATH=&lt;span class=&#34;regexp&#34;&gt;/root/&lt;/span&gt;workspace&lt;span class=&#34;regexp&#34;&gt;/src/&lt;/span&gt;face_swap&lt;span class=&#34;regexp&#34;&gt;/lib:/u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/local/&lt;/span&gt;cuda&lt;span class=&#34;regexp&#34;&gt;/lib64:/u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/local/&lt;/span&gt;OpenCV&lt;span class=&#34;regexp&#34;&gt;/lib:/u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/local/&lt;/span&gt;TensorRT&lt;span class=&#34;regexp&#34;&gt;/lib:/u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/local/&lt;/span&gt;LibTorch&lt;span class=&#34;regexp&#34;&gt;/lib:/u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/local/&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;rdlib&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CFLAGS (compile flags):&lt;/p&gt;
+&lt;p&gt;头文件只有编译时需要, 可以相对路径引入&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LDFLAGS (load flags):&lt;/p&gt;
+&lt;p&gt;这项由于 gcc 设计问题, 必须使用绝对路径引用, 而且路径会编译进二进制文件, 在运行环境也会去找对应文件 &lt;sup id=&#39;cite_ref-10&#39;&gt;&lt;a href=&#34;#cite_note-10&#34;&gt;[10]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;比如上面在运行时就会去找 /root/workspace/src/face_swap/lib/libSwapFace.so&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LD_LIBRARY_PATH (load library path):&lt;/p&gt;
+&lt;p&gt;与 LDFLAGS 不同, 这个搜索的是链接库路径, LDFLAGS 是指定的链接文件, 所以写在代码 LDFLAGS 那里无效&lt;/p&gt;
+&lt;p&gt;无论是代码中还是 &lt;a href=&#34;http://libSwapFace.so&#34;&gt;libSwapFace.so&lt;/a&gt; 的依赖项在查找时都是从 LD_LIBRARY_PATH 这些路径里面找&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;zincsearch&#34;&gt;zincsearch&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;虽然像是 mongo 不指定字段也能直接往里塞数据, 但是只能在创建 index 时对字段的类型和策略进行指定: &lt;a href=&#34;https://docs.zincsearch.com/api/index/update-mapping/#field-types&#34;&gt;Update Mapping - ZincSearch&lt;/a&gt;, 如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight json&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;&amp;quot;properties&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;@timestamp&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;date&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;index&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;store&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;sortable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;aggregatable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;highlightable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;keyword&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;index&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;store&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;sortable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;aggregatable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;highlightable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;id&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;keyword&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;index&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;store&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;sortable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;aggregatable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;highlightable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;model&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;keyword&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;store&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;sortable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;aggregatable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;highlightable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;&amp;quot;text&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;type&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;text&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;store&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;sortable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;aggregatable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;,&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;&amp;quot;highlightable&amp;quot;&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;语法&#34;&gt;语法&lt;/h3&gt;
+&lt;h4 id=&#34;判空&#34;&gt;判空&lt;/h4&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(result.Translations) != &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 等效于&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result.Translations != &lt;span class=&#34;literal&#34;&gt;nil&lt;/span&gt; &amp;amp;&amp;amp; result.Translations.Text != &lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;slice-map-init&#34;&gt;slice-map-init&lt;/h4&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; sli []&lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 正常, append可以初始化&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sli = &lt;span class=&#34;built_in&#34;&gt;append&lt;/span&gt;(sli, &lt;span class=&#34;string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;]&lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 会报错空指针&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;] = &lt;span class=&#34;string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt; = &lt;span class=&#34;built_in&#34;&gt;make&lt;/span&gt;(&lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;]&lt;span class=&#34;type&#34;&gt;string&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 正常&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;] = &lt;span class=&#34;string&#34;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mongo&#34;&gt;mongo&lt;/h3&gt;
+&lt;h4 id=&#34;insertMany&#34;&gt;insertMany&lt;/h4&gt;
+&lt;p&gt;ordered=false 可以忽视插入失败的, 能正常插入的不回退&lt;/p&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;opts := options.InsertMany().SetOrdered(&lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result, err := d.t.InsertMany(ctx, ps, opts)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mq&#34;&gt;mq&lt;/h3&gt;
+&lt;h4 id=&#34;权限及连接&#34;&gt;权限及连接&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;aliyun-mq 内网/外网为两个地址+账号&lt;/p&gt;
+&lt;p&gt;internal url +内网账号&lt;/p&gt;
+&lt;p&gt;external url + 外网账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;没创建 mq 或者账号对应错误就会出现下面报错&lt;/p&gt;
+&lt;figure class=&#34;highlight nix&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;GID_SIMSWAP_SPLIT_TEST_JOB&amp;amp;ns&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;MQ_INST_1195962631068374_BYL49Q98&amp;amp;numOfMessages&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&amp;amp;waitseconds&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;30&lt;/span&gt;, &lt;span class=&#34;params&#34;&gt;requestId:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6371&lt;/span&gt;A9653942330E0073F9D1, &lt;span class=&#34;params&#34;&gt;Id:&lt;/span&gt; MQ&lt;span class=&#34;comment&#34;&gt;#101:83F0859&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[E]&lt;span class=&#34;number&#34;&gt;202&lt;/span&gt;2-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;1-&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;35&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;18.041&lt;/span&gt;: failed to receive &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; aliyun_mq response status error,&lt;span class=&#34;params&#34;&gt;code:&lt;/span&gt; AccessDenied, &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; valid resource owner failed. maybe the resource MQ_INST_1195962631068374_BYL49Q98%simswap_split_test_job not created, &lt;span class=&#34;params&#34;&gt;path:&lt;/span&gt; topics&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;simswap_split_test_job&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;messages&lt;span class=&#34;operator&#34;&gt;?&lt;/span&gt;consumer&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;GID_SIMSWAP_SPLIT_TEST_JOB&amp;amp;ns&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;MQ_INST_1195962631068374_BYL49Q98&amp;amp;numOfMessages&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&amp;amp;waitseconds&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;30&lt;/span&gt;, &lt;span class=&#34;params&#34;&gt;requestId:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6371&lt;/span&gt;A9663942330E0073FCB6, &lt;span class=&#34;params&#34;&gt;Id:&lt;/span&gt; MQ&lt;span class=&#34;comment&#34;&gt;#101:90146AF&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[E]&lt;span class=&#34;number&#34;&gt;202&lt;/span&gt;2-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;1-&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;35&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;19.044&lt;/span&gt;: failed to receive &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; aliyun_mq response status error,&lt;span class=&#34;params&#34;&gt;code:&lt;/span&gt; AccessDenied, &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; valid resource owner failed. maybe the resource MQ_INST_1195962631068374_BYL49Q98%simswap_split_test_job not created, &lt;span class=&#34;params&#34;&gt;path:&lt;/span&gt; topics&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;simswap_split_test_job&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;messages&lt;span class=&#34;operator&#34;&gt;?&lt;/span&gt;consumer&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;GID_SIMSWAP_SPLIT_TEST_JOB&amp;amp;ns&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;MQ_INST_1195962631068374_BYL49Q98&amp;amp;numOfMessages&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&amp;amp;waitseconds&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;30&lt;/span&gt;, &lt;span class=&#34;params&#34;&gt;requestId:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6371&lt;/span&gt;A9673942330E0073FF50, &lt;span class=&#34;params&#34;&gt;Id:&lt;/span&gt; MQ&lt;span class=&#34;comment&#34;&gt;#101:D8A6C84&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[E]&lt;span class=&#34;number&#34;&gt;202&lt;/span&gt;2-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;1-&lt;span class=&#34;number&#34;&gt;14&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;35&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;20.047&lt;/span&gt;: failed to receive &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; aliyun_mq response status error,&lt;span class=&#34;params&#34;&gt;code:&lt;/span&gt; AccessDenied, &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; valid resource owner failed. maybe the resource MQ_INST_1195962631068374_BYL49Q98%simswap_split_test_job not created, &lt;span class=&#34;params&#34;&gt;path:&lt;/span&gt; topics&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;simswap_split_test_job&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;messages&lt;span class=&#34;operator&#34;&gt;?&lt;/span&gt;consumer&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;GID_SIMSWAP_SPLIT_TEST_JOB&amp;amp;ns&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;MQ_INST_1195962631068374_BYL49Q98&amp;amp;numOfMessages&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&amp;amp;waitseconds&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;30&lt;/span&gt;, &lt;span class=&#34;params&#34;&gt;requestId:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;6371&lt;/span&gt;A9683942330E0074020B, &lt;span class=&#34;params&#34;&gt;Id:&lt;/span&gt; MQ&lt;span class=&#34;comment&#34;&gt;#101:7D60BBD&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;aliyun_mq response status error,&lt;span class=&#34;params&#34;&gt;code:&lt;/span&gt; AccessDenied, &lt;span class=&#34;params&#34;&gt;message:&lt;/span&gt; valid resource owner failed. maybe the resource MQ_INST_1195962631068374_BYL49Q98%simswap_split_job_test not created, &lt;span class=&#34;params&#34;&gt;path:&lt;/span&gt; topics&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;simswap_split_job_test&lt;span class=&#34;operator&#34;&gt;/&lt;/span&gt;messages&lt;span class=&#34;operator&#34;&gt;?&lt;/span&gt;ns&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;MQ_INST_1195962631068374_BYL49Q98, &lt;span class=&#34;params&#34;&gt;requestId:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;63721&lt;/span&gt;BA23842370E005637D5, &lt;span class=&#34;params&#34;&gt;Id:&lt;/span&gt; MQ&lt;span class=&#34;comment&#34;&gt;#101:117860E&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;常见问题&#34;&gt;常见问题&lt;/h2&gt;
+&lt;h3 id=&#34;阿里云效-go-mod&#34;&gt;阿里云效-go-mod&lt;/h3&gt;
+&lt;h4 id=&#34;官方文档&#34;&gt;官方文档&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://help.aliyun.com/document_detail/217597.html#section-515-iz5-zp0&#34;&gt;代码服务常见问题 FAQ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;私有库连接问题&#34;&gt;私有库连接问题&lt;/h4&gt;
+&lt;p&gt;私有库无论走代理/Direct 都拉不到, 只需要配置下面这个&lt;/p&gt;
+&lt;figure class=&#34;highlight elixir&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 代理黑名单 - 不走代理的域名; 公司用的私有库走代理是找不找的, 需要写进黑名单; 一般只需要改 GOPRIVATE, 后两个默认取 GOPRIVATE 所以不需要动&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;title class_&#34;&gt;Environment&lt;/span&gt;]::&lt;span class=&#34;title class_&#34;&gt;SetEnvironmentVariable&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;GOPRIVATE&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;codeup.aliyun.com&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;User&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;title class_&#34;&gt;Environment&lt;/span&gt;]::&lt;span class=&#34;title class_&#34;&gt;SetEnvironmentVariable&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;GONOPROXY&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;codeup.aliyun.com&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;User&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;title class_&#34;&gt;Environment&lt;/span&gt;]::&lt;span class=&#34;title class_&#34;&gt;SetEnvironmentVariable&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;GONOSUMDB&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;codeup.aliyun.com&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;User&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 建议用下面这个命令&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;go env -w &lt;span class=&#34;title class_&#34;&gt;GOPRIVATE&lt;/span&gt;=codeup.aliyun.com&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;鉴权失败问题&#34;&gt;鉴权失败问题&lt;/h4&gt;
+&lt;p&gt;通过 go get 下载云效的私有 Mod 时需要做鉴权&lt;/p&gt;
+&lt;p&gt;在用户目录 &lt;code&gt;~/&lt;/code&gt; 下新建 &lt;code&gt;.netrc&lt;/code&gt; 或者 &lt;code&gt;_netrc&lt;/code&gt; (对应 Linux/Mac 与 Windows), 添加如下内容&lt;/p&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;machine codeup.aliyun.com&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;login&lt;/span&gt; xxx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;password&lt;/span&gt; xxxx&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;注意这里的用户名/密码是云效-&amp;gt;个人设置-&amp;gt;HTTPS 密码, 不是登录云效用的用户名/密码, 否则会出现以下报错 (环境变量/文件都配置对了但鉴权失败)&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZNwrjv.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Error: unrecognized import path “&lt;a href=&#34;http://codeup.aliyun.com/wenuts/basis/pollen&#34;&gt;codeup.aliyun.com/wenuts/basis/pollen&lt;/a&gt;”: parse &lt;a href=&#34;https://codeup.aliyun.com/wenuts/basis/pollen?go-get=1:&#34;&gt;https://codeup.aliyun.com/wenuts/basis/pollen?go-get=1:&lt;/a&gt; no go-import meta tags ()&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;lt;!doctype &lt;span class=&#34;keyword&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;message&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;#x27;鉴权失败, 请确认客户端是否配置&lt;span class=&#34;symbol&#34;&gt;&amp;amp;quot;&lt;/span&gt;.netrc&lt;span class=&#34;symbol&#34;&gt;&amp;amp;quot;&lt;/span&gt;文件,traceId:707c9fc316602743714102416e4ef0&amp;#x27;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;head&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;Macos&#34;&gt;Macos&lt;/h4&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go: codeup.aliyun.com&lt;span class=&#34;regexp&#34;&gt;/wenuts/&lt;/span&gt;basis&lt;span class=&#34;regexp&#34;&gt;/gox@v0.0.0-20220802063744-4facf115cdc5: invalid version: git ls-remote -q origin in /&lt;/span&gt;Users&lt;span class=&#34;regexp&#34;&gt;/weidows/g&lt;/span&gt;o&lt;span class=&#34;regexp&#34;&gt;/pkg/m&lt;/span&gt;od&lt;span class=&#34;regexp&#34;&gt;/cache/&lt;/span&gt;vcs/&lt;span class=&#34;number&#34;&gt;94&lt;/span&gt;a54894325b8a8441b8518aba18b8841ef7b2b555fe37fcd220c2d9a7755096: &lt;span class=&#34;keyword&#34;&gt;exit&lt;/span&gt; status &lt;span class=&#34;number&#34;&gt;128&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;fatal: could not read Username &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;https://codeup.aliyun.com&amp;#x27;&lt;/span&gt;: terminal prompts disabled&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Confirm the import path was entered correctly.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;If this is a private repository, see https:&lt;span class=&#34;regexp&#34;&gt;//g&lt;/span&gt;olang.org&lt;span class=&#34;regexp&#34;&gt;/doc/&lt;/span&gt;faq&lt;span class=&#34;comment&#34;&gt;#git_https for additional information.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;照搬 windows 上已经配好的配置还是如上报错, 实际上 macos 上还需要在 ~/.gitconfig 里面添加如下 &lt;sup id=&#39;cite_ref-9&#39;&gt;&lt;a href=&#34;#cite_note-9&#34;&gt;[9]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight csharp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;meta&#34;&gt;url &lt;span class=&#34;string&#34;&gt;&amp;quot;git@codeup.aliyun.com:&amp;quot;&lt;/span&gt;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	insteadOf = https:&lt;span class=&#34;comment&#34;&gt;//codeup.aliyun.com/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;GOSUMDB-代理问题&#34;&gt;GOSUMDB-代理问题&lt;/h4&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;╰─ &lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;get&lt;/span&gt; -&lt;span class=&#34;keyword&#34;&gt;u&lt;/span&gt; codeup.aliyun.&lt;span class=&#34;keyword&#34;&gt;com&lt;/span&gt;/wenuts/aimage/service&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;: golang.org/&lt;span class=&#34;keyword&#34;&gt;x&lt;/span&gt;/crypto@v0.&lt;span class=&#34;number&#34;&gt;0.0&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;20210817164053&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;32&lt;/span&gt;db794688a5: verifying &lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt;.&lt;span class=&#34;keyword&#34;&gt;mod&lt;/span&gt;: invalid GOSUMDB: malformed verifier id&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;有时 GOSUMDB 设置代理会出现上面问题, 只需要把 GOSUMDB 置空就行:&lt;/p&gt;
+&lt;figure class=&#34;highlight abnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOSUMDB&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;hostname-无法解析&#34;&gt;hostname-无法解析&lt;/h4&gt;
+&lt;figure class=&#34;highlight smali&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;ssh: Could&lt;span class=&#34;built_in&#34;&gt; not &lt;/span&gt;resolve hostname codeup.aliyun.com: Name&lt;span class=&#34;built_in&#34;&gt; or &lt;/span&gt;service&lt;span class=&#34;built_in&#34;&gt; not &lt;/span&gt;known&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Ping request could&lt;span class=&#34;built_in&#34;&gt; not &lt;/span&gt;find host codeup.aliyun.com. Please&lt;span class=&#34;built_in&#34;&gt; check &lt;/span&gt;the name&lt;span class=&#34;built_in&#34;&gt; and &lt;/span&gt;try again.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;或者&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ssh: Could&lt;span class=&#34;built_in&#34;&gt; not &lt;/span&gt;resolve hostname codeup.aliyun.com: Name&lt;span class=&#34;built_in&#34;&gt; or &lt;/span&gt;service&lt;span class=&#34;built_in&#34;&gt; not &lt;/span&gt;known Could&lt;span class=&#34;built_in&#34;&gt; not &lt;/span&gt;read from remote repository.  Please make sure you have the correct access rights&lt;span class=&#34;built_in&#34;&gt; and &lt;/span&gt;the repository exists.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;很奇葩的问题, 通过 ssh 推代码或者 ping 时都不通, 但是网页可以访问, 清理本机 DNS 缓存也不管用&lt;/p&gt;
+&lt;p&gt;直到换了个 WIFI 试了试…&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;protobuf-无法获取&#34;&gt;protobuf-无法获取&lt;/h3&gt;
+&lt;p&gt;手动下载的话可以参照: &lt;sup id=&#39;cite_ref-8&#39;&gt;&lt;a href=&#34;#cite_note-8&#34;&gt;[8]&lt;/a&gt;&lt;/sup&gt; 另外配置好下面提到的配置+有魔法能力, 不会出现这问题&lt;/p&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt; env -&lt;span class=&#34;keyword&#34;&gt;w&lt;/span&gt; GOPROXY=https://proxy.golang.&lt;span class=&#34;keyword&#34;&gt;com&lt;/span&gt;.&lt;span class=&#34;keyword&#34;&gt;cn&lt;/span&gt;,direct&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt; env -&lt;span class=&#34;keyword&#34;&gt;w&lt;/span&gt; GOSUMDB=&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;package-2&#34;&gt;package&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;missing go.sum entry for module providing package&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;就如报错信息一样, 缺少 go.sum, 执行 &lt;code&gt;go mod tidy&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;go install &lt;a href=&#34;http://github.com/Weidows/Golang/cmd/common-starter@latest&#34;&gt;github.com/Weidows/Golang/cmd/common-starter@latest&lt;/a&gt; &lt;br&gt;
+but does not contain package &lt;a href=&#34;http://github.com/Weidows/Golang/cmd/common-starter&#34;&gt;github.com/Weidows/Golang/cmd/common-starter&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;去掉尾部的@latest&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;go-get-更新依赖无效&#34;&gt;go-get-更新依赖无效&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;很有可能因为设置了 GOPROXY, 拉不到最新的所以无效, 换成默认的就行了:&lt;/p&gt;
+&lt;figure class=&#34;highlight abnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;go env -w GOPROXY&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;cannot find module providing package xxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;很怪的问题, 全更新就解决了&lt;/p&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;go&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;get&lt;/span&gt; -&lt;span class=&#34;keyword&#34;&gt;u&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;all&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cgo-2&#34;&gt;cgo&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;av_read_frame failed and ret:-541478725&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有可能只是单纯读帧读完了, 实际是正常退出&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;流没关闭导致读取失败&#34;&gt;流没关闭导致读取失败&lt;/h3&gt;
+&lt;p&gt;有业务: 拿到图片文件写入到 oss,并把 oss 图片地址返回前端展示&lt;/p&gt;
+&lt;p&gt;但是出现问题: 文件写入后把正常地址传给前端, 前端获取图片, code200 但是没数据&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/ZrWEvX.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;也就是前端从 oss 获取图片时, golang 还占着文件没放, 导致前端能找到图片但读不到数据&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;类型参数-主类型不一致&#34;&gt;类型参数-主类型不一致&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;annot range over array (variable of type S constrained by interface{[]any|map[any]any}) (S has no core type)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight golang&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;ForEach&lt;/span&gt;[&lt;span class=&#34;title&#34;&gt;S&lt;/span&gt; []&lt;span class=&#34;title&#34;&gt;any&lt;/span&gt; | &lt;span class=&#34;title&#34;&gt;map&lt;/span&gt;[&lt;span class=&#34;title&#34;&gt;any&lt;/span&gt;]&lt;span class=&#34;title&#34;&gt;any&lt;/span&gt;]&lt;span class=&#34;params&#34;&gt;(array S, fn &lt;span class=&#34;keyword&#34;&gt;func&lt;/span&gt;(index &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt;, value any)&lt;/span&gt;&lt;/span&gt;) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; i, v := &lt;span class=&#34;keyword&#34;&gt;range&lt;/span&gt; array &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      fn(i, v)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;[]any 与 map[any]any 是不同的主类型, 虽然不会报错但是编译通不过, 改为 []any | any 就不会报错了 &lt;sup id=&#39;cite_ref-11&#39;&gt;&lt;a href=&#34;#cite_note-11&#34;&gt;[11]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Access-is-denied&#34;&gt;Access-is-denied&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;• Compiling application: go: error obtaining buildID for go tool compile: fork/exec D:\Scoop\apps\gvm\current.g\go\pkg\tool\windows_amd64\compile.exe: Access is denied.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;很有可能是符号链接导致的, 套了不止一层就会出现这个问题&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-01&#39; href=&#39;#cite_ref-01&#39;&gt;[1]&lt;/a&gt;: &lt;a href=&#34;https://www.zlkt.net/book/detail/9/257&#34;&gt;《Golang 区块链入门到实战_以太坊/fabric》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://learnku.com/docs/go-mod/1.17/private-modules/11448&#34;&gt;私有模块&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-03&#39; href=&#39;#cite_ref-03&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/ciel_yu/article/details/107847578&#34;&gt;go mod init 在初始化时出现 cannot determine module path for source directory (outside GOPATH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-05&#39; href=&#39;#cite_ref-05&#39;&gt;[5]&lt;/a&gt;: &lt;a href=&#34;https://www.runoob.com/go/go-tutorial.html&#34;&gt;https://www.runoob.com/go/go-tutorial.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-06&#39; href=&#39;#cite_ref-06&#39;&gt;[6]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/A_java_c/article/details/120006213&#34;&gt;go 语言入门: package command-line-arguments is not a main package&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-07&#39; href=&#39;#cite_ref-07&#39;&gt;[7]&lt;/a&gt;: &lt;a href=&#34;https://segmentfault.com/a/1190000018235929&#34;&gt;golang 之 import 和 package 的使用&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-8&#39; href=&#39;#cite_ref-8&#39;&gt;[8]&lt;/a&gt;: &lt;a href=&#34;https://blog.csdn.net/u012762986/article/details/120036268&#34;&gt;如何解决 Golang 获取 google.golang.org/protobuf 包报错的问题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-9&#39; href=&#39;#cite_ref-9&#39;&gt;[9]&lt;/a&gt;: &lt;a href=&#34;https://blog.clarence.tw/2021/02/15/use-go-get-or-go-mod-download-to-encounter-fatal-could-not-read-username-for-https-github-com-terminal-prompts-disabled/&#34;&gt;使用 go get 或 go mod download 在私人儲存庫遇到 fatal: could not read Username for ‘https://github.com’: terminal prompts disabled&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-10&#39; href=&#39;#cite_ref-10&#39;&gt;[10]&lt;/a&gt;: &lt;a href=&#34;https://blog.51cto.com/u_15177889/2727561&#34;&gt;LD_LIBRARY_PATH 与-L 的关系以及延伸_51CTO 博客_LD_LIBRARY_PATH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-11&#39; href=&#39;#cite_ref-11&#39;&gt;[11]&lt;/a&gt;: &lt;a href=&#34;https://jishuin.proginn.com/p/763bfbd6c69d&#34;&gt;Go 泛型系列：Go1.18 类型约束那些事-技术圈&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
