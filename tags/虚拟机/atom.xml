@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;虚拟机&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2021-02-03T06:00:21.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="Twitter" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="English" />
+    <category term="笔记" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="网课" />
+    <category term="VR" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Cmake" />
+    <category term="Vue" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Lambda" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="Processing" />
+    <category term="Markdown" />
+    <category term="PHP" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="server" />
+    <category term="ubuntu" />
+    <category term="nvidia" />
+    <category term="蓝易云" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Gitlab" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Hexo" />
+    <category term="rime" />
+    <category term="输入法" />
+    <category term="scoop" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="DL" />
+    <category term="LoRA" />
+    <category term="SFT" />
+    <category term="chatgpt" />
+    <category term="LLM" />
+    <category term="deploy" />
+    <category term="inference" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/system/Manjaro-Server/</id>
+        <title>😍Manjaro虚拟机充当服务器记录.</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/system/Manjaro-Server/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-02-03 14:00:21
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-04-20 18:36:27
+ * @FilePath: \Blog-private\source\_posts\system\Manjaro-Server.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%BB%9F%E9%80%89%E6%8B%A9&#34;&gt;系统选择&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%91%E7%9A%84%E9%9C%80%E6%B1%82&#34;&gt;我的需求&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%AF%E7%94%A8-ssh-%E6%9C%8D%E5%8A%A1&#34;&gt;启用 ssh 服务&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4&#34;&gt;故障排除&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8D%A2%E6%BA%90&#34;&gt;换源&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%87%AA%E5%8A%A8&#34;&gt;自动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%89%8B%E5%8A%A8&#34;&gt;手动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%96%B0&#34;&gt;更新&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE-docker&#34;&gt;配置 docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85&#34;&gt;软件安装&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E5%A4%B1%E8%B4%A5&#34;&gt;更新失败&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E4%BB%B6%E5%86%B2%E7%AA%81&#34;&gt;文件冲突&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%BB%A3%E7%90%86&#34;&gt;虚拟机代理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;系统选择&#34;&gt;系统选择&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;关于我为什么最后选择了作为 Server 来说比较冷门的 &lt;code&gt;Manjaro&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;系统&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;特性&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;CentOS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;系统特别稳健,bug 少,出了问题解决方案多,服务型软件丰富;标准 server,不怎么需要特殊配置,维护难度低&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ubuntu&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;跟 CentOS 差不多,但是因为生态惯性问题确实比 CentOS 用得少,现在由 CentOS 转向 Ubuntu 的很多;server 安装后需要做很多配置才能使用,维护性难度中等;server 安装后默认没有 root 用户&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Manjaro&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Arch 分支的 Linux 发行版,desktop-KDE,内核滚动更新很快,更新比 Arch 慢但更稳定,软件生态很丰富,图形化好维护;定位并非 Server,是桌面操作系统所以功耗稍大;默认不启用 ssh 服务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RaspberryPi&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;树莓派定制化系统,可以说啥都干得了,但是啥都干不好&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Deepin&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;生态正在逐步扩大,但是对于服务器端还是太差了,毕竟它的定位也是桌面操作系统;图形化卡顿比较严重,有些无解决方案的 bug;不开放 root 用户&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;我的需求&#34;&gt;我的需求&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我想让服务器比较稳定,因为在主机上用&lt;code&gt;VMware&lt;/code&gt; 开的虚拟机,所以性能消耗要求不高.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最好是带有图形界面,这样维护比较方便&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;与&lt;code&gt;VScode-ssh&lt;/code&gt;连接必须稳定!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有些服务需要把代码拉到服务器上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;已经有解决方案了,参见 &lt;a href=&#34;../../experience/SSH#VScode-ssh-%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5&#34;&gt;✨SSH 远程连接.#VScode-ssh-断开连接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有且要开放 root&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有的系统不带 root 账户,有的不开放.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;启用-ssh-服务&#34;&gt;启用 ssh 服务&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/SUDDEV/article/details/85314469&#34;&gt;Manjaro Linux 系统 ssh：connect to host localhost port 22: Connection refused 解决方法&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;默认情况下 manjaro 有 ssh 但是不开启.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 ssh 连接它会出现以下报错:&lt;/p&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;connect&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; host localhost port &lt;span class=&#34;number&#34;&gt;22&lt;/span&gt;: &lt;span class=&#34;keyword&#34;&gt;Connection&lt;/span&gt; refused&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开启 ssh 服务&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;systemctl enable sshd.service&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开启后需要&lt;code&gt;重启&lt;/code&gt;下才能生效.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;故障排除&#34;&gt;故障排除&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果 ssh 服务开启了,连接步骤也没错,但是就是连不上,有可能是 ssh 旧记录的问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;报错信息包含如下&lt;/p&gt;
+&lt;figure class=&#34;highlight gauss&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     &lt;span class=&#34;comment&#34;&gt;@&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;&amp;gt; @&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;@@&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;去主机电脑上找到&lt;code&gt;~/.ssh/known_hosts&lt;/code&gt;,这里面有过去连接的 ip 记录和公钥,删除对应的就可.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 上那个位置就是&lt;code&gt;C:\Users\你的用户名\.ssh&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;换源&#34;&gt;换源&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/weixin_43968923/article/details/86349914&#34;&gt;arch/Manjaro 添加国内源以及社区源&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;自动&#34;&gt;自动&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; pacman-mirrors -i -c China -m rank&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;手动&#34;&gt;手动&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找到&lt;code&gt;/etc/pacman.d/mirrorlist&lt;/code&gt;,备份之后修改:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;越靠上优先级越高.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 中科大&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Server = https:&lt;span class=&#34;regexp&#34;&gt;//mi&lt;/span&gt;rrors.ustc.edu.cn&lt;span class=&#34;regexp&#34;&gt;/manjaro/&lt;/span&gt;stable&lt;span class=&#34;regexp&#34;&gt;/$repo/&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$arch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#  清华大学&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Server = https:&lt;span class=&#34;regexp&#34;&gt;//mi&lt;/span&gt;rrors.tuna.tsinghua.edu.cn&lt;span class=&#34;regexp&#34;&gt;/manjaro/&lt;/span&gt;stable&lt;span class=&#34;regexp&#34;&gt;/$repo/&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$arch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 上海交通大学&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Server = https:&lt;span class=&#34;regexp&#34;&gt;//mi&lt;/span&gt;rrors.sjtug.sjtu.edu.cn&lt;span class=&#34;regexp&#34;&gt;/manjaro/&lt;/span&gt;stable&lt;span class=&#34;regexp&#34;&gt;/$repo/&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$arch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 浙江大学&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Server = https:&lt;span class=&#34;regexp&#34;&gt;//mi&lt;/span&gt;rrors.zju.edu.cn&lt;span class=&#34;regexp&#34;&gt;/manjaro/&lt;/span&gt;stable&lt;span class=&#34;regexp&#34;&gt;/$repo/&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;$arch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;更新&#34;&gt;更新&lt;/h3&gt;
+&lt;p&gt;换源后执行一下,更新本地软件包数据库.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;更新软件包&lt;/p&gt;
+&lt;figure class=&#34;highlight ebnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;pacman -Sy&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更新所有&lt;/p&gt;
+&lt;figure class=&#34;highlight ebnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;pacman -Syyu&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置-docker&#34;&gt;配置 docker&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;详见 &lt;a href=&#34;../../system/docker&#34;&gt;🌈 初探 Docker.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.huangz.me/2020/docker-on-linux.html&#34;&gt;在 Manjaro Linux 系统使用 Docker&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;软件安装&#34;&gt;软件安装&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/john_bh/article/details/104652224&#34;&gt;msys2 pacman 常用命令以及添加国内源加速 pacman&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; pacman -S docker&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新失败&#34;&gt;更新失败&lt;/h2&gt;
+&lt;h3 id=&#34;文件冲突&#34;&gt;文件冲突&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这种删掉它提示的文件就好了,可能会报好多个,如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;有冲突的文件:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;lib&lt;span class=&#34;regexp&#34;&gt;/qt/&lt;/span&gt;plugins/kcm_formats.so 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;lib&lt;span class=&#34;regexp&#34;&gt;/qt/&lt;/span&gt;plugins&lt;span class=&#34;regexp&#34;&gt;/kcms/&lt;/span&gt;kcm_autostart.so 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;lib&lt;span class=&#34;regexp&#34;&gt;/qt/&lt;/span&gt;plugins&lt;span class=&#34;regexp&#34;&gt;/kcms/&lt;/span&gt;kcm_nightcolor.so 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;lib&lt;span class=&#34;regexp&#34;&gt;/qt/&lt;/span&gt;plugins&lt;span class=&#34;regexp&#34;&gt;/kcms/&lt;/span&gt;kcm_notifications.so 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;share&lt;span class=&#34;regexp&#34;&gt;/doc/&lt;/span&gt;HTML&lt;span class=&#34;regexp&#34;&gt;/ca/&lt;/span&gt;kcontrol&lt;span class=&#34;regexp&#34;&gt;/autostart/i&lt;/span&gt;ndex.cache.bz2 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;share&lt;span class=&#34;regexp&#34;&gt;/doc/&lt;/span&gt;HTML&lt;span class=&#34;regexp&#34;&gt;/ca/&lt;/span&gt;kcontrol&lt;span class=&#34;regexp&#34;&gt;/autostart/i&lt;/span&gt;ndex.docbook 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;share&lt;span class=&#34;regexp&#34;&gt;/doc/&lt;/span&gt;HTML&lt;span class=&#34;regexp&#34;&gt;/ca/&lt;/span&gt;kcontrol&lt;span class=&#34;regexp&#34;&gt;/formats/i&lt;/span&gt;ndex.cache.bz2 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;share&lt;span class=&#34;regexp&#34;&gt;/doc/&lt;/span&gt;HTML&lt;span class=&#34;regexp&#34;&gt;/ca/&lt;/span&gt;kcontrol&lt;span class=&#34;regexp&#34;&gt;/formats/i&lt;/span&gt;ndex.docbook 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- plasma-workspace：&lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;share&lt;span class=&#34;regexp&#34;&gt;/doc/&lt;/span&gt;HTML&lt;span class=&#34;regexp&#34;&gt;/ca/&lt;/span&gt;kcontrol&lt;span class=&#34;regexp&#34;&gt;/notifications/i&lt;/span&gt;ndex.cache.bz2 已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把提示的内容复制进文本编辑器 (比如 VScode)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;- plasma-workspace：&lt;/code&gt; 和 &lt;code&gt;已经存在于文件系统中（所有者为plasma-desktop-primex）&lt;/code&gt; 都是重复的,按 &lt;code&gt;Ctrl + shift + L&lt;/code&gt; 可以选中全部,然后删掉,再去掉换行符整合到一行,结果如下:&lt;/p&gt;
+&lt;figure class=&#34;highlight awk&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo rm &lt;span class=&#34;regexp&#34;&gt;/usr/&lt;/span&gt;lib&lt;span class=&#34;regexp&#34;&gt;/qt/&lt;/span&gt;plugins&lt;span class=&#34;regexp&#34;&gt;/kcm_formats.so /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/lib/&lt;/span&gt;qt&lt;span class=&#34;regexp&#34;&gt;/plugins/&lt;/span&gt;kcms&lt;span class=&#34;regexp&#34;&gt;/kcm_autostart.so /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/lib/&lt;/span&gt;qt&lt;span class=&#34;regexp&#34;&gt;/plugins/&lt;/span&gt;kcms&lt;span class=&#34;regexp&#34;&gt;/kcm_nightcolor.so /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/lib/&lt;/span&gt;qt&lt;span class=&#34;regexp&#34;&gt;/plugins/&lt;/span&gt;kcms&lt;span class=&#34;regexp&#34;&gt;/kcm_notifications.so /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;ca&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;autostart&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;ca&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;autostart&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;ca&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;formats&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;ca&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;formats&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;ca&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;notifications&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;ca&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;notifications&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;de&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;autostart&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;de&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;autostart&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;de&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;formats&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;de&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;formats&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;en&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;autostart&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;en&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;autostart&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;en&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;formats&lt;span class=&#34;regexp&#34;&gt;/index.cache.bz2 /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;en&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;formats&lt;span class=&#34;regexp&#34;&gt;/index.docbook /u&lt;/span&gt;sr&lt;span class=&#34;regexp&#34;&gt;/share/&lt;/span&gt;doc&lt;span class=&#34;regexp&#34;&gt;/HTML/&lt;/span&gt;en&lt;span class=&#34;regexp&#34;&gt;/kcontrol/&lt;/span&gt;notifications/index.cache.bz2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后复制进 console 执行-&amp;gt;再次更新-&amp;gt;成功!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;虚拟机代理&#34;&gt;虚拟机代理&lt;/h2&gt;
+&lt;p&gt;&lt;s&gt;好久没更新这篇了,冲冲水&lt;/s&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;服务器端当安装某些软件时也会有 &lt;code&gt;访问-国外&lt;/code&gt; 的需求,在服务器再安装一个软件的话,也可以&lt;/p&gt;
+&lt;p&gt;但是节点维护会烦人一些,我想的是: 直接让虚拟机服务器用主机开的代理&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;首先需要主机 &amp;lt;–&amp;gt; 虚拟机 可实现互通,这过程中遇到了几个弯&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;首先,虚拟机网络&lt;code&gt;不要用桥接模式&lt;/code&gt;,这个模式下,每次主机换 WIFI 都需要虚拟机端重新配置主机的 IP(麻烦得很)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;用NAT模式!&lt;/code&gt; 这种模式下主机地址(192.168.114.1) ,路由地址(192.168.114.2) ,虚拟机地址(&lt;a href=&#34;http://192.168.114.xxx&#34;&gt;192.168.114.xxx&lt;/a&gt;) 不手动改的话都&lt;code&gt;固定&lt;/code&gt;,而且主机换网络环境也不会变. (提一嘴,必须开启 DHCP 虚拟机才能连上主机,默认是开启的不用动)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;实际操作的话&lt;/p&gt;
+&lt;p&gt;比如我主机端代理是: localhost:7890&lt;/p&gt;
+&lt;p&gt;虚拟机里代理填 192.168.114.1:7890&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重启.(&lt;s&gt;灵药&lt;/s&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="Manjaro" />
+        <category term="操作系统" />
+        <category term="服务器" />
+        <category term="虚拟机" />
+        <updated>2021-02-03T06:00:21.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.weidows.tech/post/system/server/Ubuntu-server/</id>
+        <title>🟡Ubuntu-Server搞机记录.</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/system/server/Ubuntu-server/"/>
+        <content type="html">&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2021-02-02 02:04:38
+ * @LastEditors: Weidows
+ * @LastEditTime: 2021-09-02 15:47:06
+ * @FilePath: \Blog-private\source\_posts\system\virtual-server.md
+ * @Description:
+ * @!: *********************************************************************
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85&#34;&gt;下载安装&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8D%A2%E6%BA%90&#34;&gt;换源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%85%8D%E7%BD%AE%E9%9D%99%E6%80%81-ip&#34;&gt;配置静态 IP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BD%AF%E4%BB%B6%E5%A4%87%E4%BB%BD&#34;&gt;软件备份&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载安装&#34;&gt;下载安装&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;官网上下载 ISO 文件就行,挺快的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;desktop 是桌面版,有图形界面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;server 是服务器版,没有图形界面(也就是只有命令行界面)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我用的&lt;code&gt;VMware&lt;/code&gt;安装的,用其他软件也可,个人比较喜欢这个.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安装时可以选择附带的服务软件,比如&lt;code&gt;docker&lt;/code&gt;,&lt;code&gt;k8s&lt;/code&gt;等等…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装完成后长这样&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4SqX.png&#34; alt=&#34;20210202144325&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;换源&#34;&gt;换源&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/xiangxianghehe/article/details/105688062&#34;&gt;Ubuntu 20.04 换国内源 清华源 阿里源 中科大源 163 源&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;安装系统过程中就有换源选项.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;配置静态-IP&#34;&gt;配置静态 IP&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/yaohong/p/11593989.html&#34;&gt;ubuntu 18.04 设置静态 ip 方法&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;初始的 Ubuntu-Server 没有&lt;code&gt;net-tools&lt;/code&gt;,需要&lt;a href=&#34;#%E8%BD%AF%E4%BB%B6%E5%A4%87%E4%BB%BD&#34;&gt;安装&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;默认情况下使用&lt;code&gt;DHCP&lt;/code&gt;,连接网络会自动分配一个 IP,使用&lt;code&gt;ifconfig&lt;/code&gt;查看(这个 ifconfig 就是上面 net-tools 里面的)&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;weidows&lt;/span&gt;@ubuntu-server:~/Code$ ifconfig&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;ens33&lt;/span&gt;: flags=&lt;span class=&#34;number&#34;&gt;4163&lt;/span&gt;&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;  mtu &lt;span class=&#34;number&#34;&gt;1500&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;inet&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;192.168.2.122&lt;/span&gt;  netmask &lt;span class=&#34;number&#34;&gt;255.255.255.0&lt;/span&gt;  broadcast &lt;span class=&#34;number&#34;&gt;192.168.2.255&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;inet6&lt;/span&gt; fe80::&lt;span class=&#34;number&#34;&gt;20&lt;/span&gt;c:&lt;span class=&#34;number&#34;&gt;29&lt;/span&gt;ff:fe28:c082  prefixlen &lt;span class=&#34;number&#34;&gt;64&lt;/span&gt;  scopeid &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;x20&amp;lt;link&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;ether&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;00&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;c:&lt;span class=&#34;number&#34;&gt;29&lt;/span&gt;:&lt;span class=&#34;number&#34;&gt;28&lt;/span&gt;:c0:&lt;span class=&#34;number&#34;&gt;82&lt;/span&gt;  txqueuelen &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;  (Ethernet)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;RX&lt;/span&gt; packets &lt;span class=&#34;number&#34;&gt;114664&lt;/span&gt;  bytes &lt;span class=&#34;number&#34;&gt;143722941&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;143&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;7&lt;/span&gt; MB)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;RX&lt;/span&gt; errors &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  dropped &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  overruns &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  frame &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;TX&lt;/span&gt; packets &lt;span class=&#34;number&#34;&gt;52086&lt;/span&gt;  bytes &lt;span class=&#34;number&#34;&gt;37199464&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;37&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt; MB)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;TX&lt;/span&gt; errors &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  dropped &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; overruns &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  carrier &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  collisions &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;lo&lt;/span&gt;: flags=&lt;span class=&#34;number&#34;&gt;73&lt;/span&gt;&amp;lt;UP,LOOPBACK,RUNNING&amp;gt;  mtu &lt;span class=&#34;number&#34;&gt;65536&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;inet&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;127.0.0.1&lt;/span&gt;  netmask &lt;span class=&#34;number&#34;&gt;255.0.0.0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;inet6&lt;/span&gt; ::&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;  prefixlen &lt;span class=&#34;number&#34;&gt;128&lt;/span&gt;  scopeid &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;x10&amp;lt;host&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;loop&lt;/span&gt;  txqueuelen &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;  (Local Loopback)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;RX&lt;/span&gt; packets &lt;span class=&#34;number&#34;&gt;14643&lt;/span&gt;  bytes &lt;span class=&#34;number&#34;&gt;53874531&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;53&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;8&lt;/span&gt; MB)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;RX&lt;/span&gt; errors &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  dropped &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  overruns &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  frame &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;TX&lt;/span&gt; packets &lt;span class=&#34;number&#34;&gt;14643&lt;/span&gt;  bytes &lt;span class=&#34;number&#34;&gt;53874531&lt;/span&gt; (&lt;span class=&#34;number&#34;&gt;53&lt;/span&gt;.&lt;span class=&#34;number&#34;&gt;8&lt;/span&gt; MB)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attribute&#34;&gt;TX&lt;/span&gt; errors &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  dropped &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; overruns &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  carrier &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;  collisions &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;weidows&lt;/span&gt;@ubuntu-server:~/Code$&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以看到第三行&lt;code&gt;192.168.2.122&lt;/code&gt;就是分配的 ip 了,用它就行.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入&lt;code&gt;/etc/netplan/&lt;/code&gt;这个目录,使用&lt;code&gt;ll&lt;/code&gt;查看内部有啥东西&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;发现第六行&lt;code&gt;00-installer-config.yaml&lt;/code&gt;这个文件是我们要找的(可能名字不一样,后缀是.yaml 就对了)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用&lt;code&gt;cat&lt;/code&gt;查看文件内容,核实没错,然后修改它!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight jboss-cli&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;weidows@ubuntu-server:~&lt;span class=&#34;string&#34;&gt;/Code&lt;/span&gt;$ &lt;span class=&#34;keyword&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;/etc/netplan/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;weidows@ubuntu-server:&lt;span class=&#34;string&#34;&gt;/etc/netplan&lt;/span&gt;$ ll&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total 12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;drwxr-xr-x  2 root root 4096 Feb  1 17&lt;span class=&#34;function&#34;&gt;:55&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;./&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;drwxr-xr-x 92 root root 4096 Feb  2 06&lt;span class=&#34;function&#34;&gt;:25&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;../&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;-rw-r&lt;span class=&#34;params&#34;&gt;--r--&lt;/span&gt;  1 root root  116 Feb  1 17&lt;span class=&#34;function&#34;&gt;:55&lt;/span&gt; 00-installer-config.yaml&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;weidows@ubuntu-server:&lt;span class=&#34;string&#34;&gt;/etc/netplan&lt;/span&gt;$ cat 00-installer-config.yaml&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# This is the network config written by &amp;#x27;subiquity&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;network:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ethernets:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ens33:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      dhcp4: &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;version&lt;/span&gt;: 2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;weidows@ubuntu-server:&lt;span class=&#34;string&#34;&gt;/etc/netplan&lt;/span&gt;$&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用&lt;code&gt;vi&lt;/code&gt;修改&lt;code&gt; sudo vi /etc/netplan/00-installer-config.yaml&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;地址啥的按照规则设&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;## This is the network config written by &amp;#x27;subiquity&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;network:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;ethernets:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;ens33:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;dhcp4:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;addresses:&lt;/span&gt; [&lt;span class=&#34;number&#34;&gt;192.168&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.2&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.122&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;/24&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;gateway4:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;192.168&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.2&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;      &lt;span class=&#34;attr&#34;&gt;nameservers:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;addresses:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;          &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;192.168&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.2&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;.1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;attr&#34;&gt;version:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后应用&lt;code&gt;sudo netplan apply&lt;/code&gt;设置,完事!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件备份&#34;&gt;软件备份&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;找软件的话可以用&lt;code&gt;apt search XXX&lt;/code&gt;来找&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;个人安装的一些服务型软件(在主机上做的开发,用这个 Server 跑服务)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; apt install docker&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; apt install net-tools&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="操作系统" />
+        <category term="服务器" />
+        <category term="虚拟机" />
+        <category term="Ubuntu" />
+        <updated>2021-02-01T18:04:38.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "⭐️齐下无贰⭐️ • All posts by \"architecture\" category",
+    "description": "May all the beauty be bless.✨",
+    "home_page_url": "https://blog.weidows.tech",
+    "items": [
+        {
+            "id": "https://blog.weidows.tech/post/design/architecture/distribution-scheduler/",
+            "url": "https://blog.weidows.tech/post/design/architecture/distribution-scheduler/",
+            "title": "分布式调度系统设计|distribution-scheduler-system",
+            "date_published": "2024-07-29T18:48:23.000Z",
+            "content_html": "<h1>分布式调度系统设计|distribution-scheduler-system</h1>\n<!--\n * @?: *********************************************************************\n * @Author: Weidows\n * @LastEditors: Weidows\n * @LastEditTime: 2024-08-09 11:25:47\n * @FilePath: \\Blog-private\\source\\_posts\\design\\architecture\\distribution-scheduler.md\n * @Description:\n * @!: *********************************************************************\n-->\n<blockquote class=\"pullquote mindmap mindmap-sm\"><ul>\n<li><a href=\"#%E5%88%86%E5%B8%83%E5%BC%8F%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1distribution-scheduler-system\">分布式调度系统设计|distribution-scheduler-system</a>\n<ul>\n<li><a href=\"#from-learning\">From-learning</a>\n<ul>\n<li><a href=\"#skynet\">skynet</a></li>\n<li><a href=\"#%E6%9E%B6%E6%9E%84%E5%9B%BE\">架构图</a></li>\n</ul>\n</li>\n<li><a href=\"#%E5%80%9F%E7%89%A9%E8%A1%A8\">借物表</a></li>\n</ul>\n</li>\n</ul>\n</blockquote>\n<p><a><img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"From-learning\">From-learning</h2>\n<ul>\n<li>\n<p>任务 (Job) 在解决什么:</p>\n<ol>\n<li>\n<p>多个服务 A 需要调用服务 B</p>\n<p>避免 B 太忙, 可以用作排队等待</p>\n</li>\n<li>\n<p>定时任务</p>\n<ol>\n<li>在 10s 后执行 xx 任务</li>\n<li>cron job</li>\n</ol>\n</li>\n</ol>\n</li>\n<li>\n<p>分布式 (distribution) 在解决什么:</p>\n<p>单节点性能总归是有极限, 分布式可以高可用</p>\n<p>以及可以避免单节点挂掉</p>\n<p>拆分任务单元和执行单元, 避免执行器因挂掉/高负载导致任务无法执行或执行慢</p>\n</li>\n</ul>\n<hr>\n<h3 id=\"skynet\">skynet</h3>\n<blockquote>\n<p><a href=\"https://github.com/cuigh/skynet\">https://github.com/cuigh/skynet</a></p>\n</blockquote>\n<p>前司领导写的项目, 他带我工作中用到过, 而且写的很干净, 就拿它分析了</p>\n<p>WIP…</p>\n<h3 id=\"架构图\">架构图</h3>\n<p>有参考网上文章 <sup id='cite_ref-1'><a href=\"#cite_note-1\">[1]</a></sup>, 不过是我自己设计+画的, 想法相当粗糙</p>\n<p><img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/blog/1723165149145.png\" alt=\"designed by@Weidows\"></p>\n<p><a><img src= \"https://pan.weidows.tech/d/local/img/loading.svg\" data-lazy-src=\"https://pan.weidows.tech/d/local/img/divider.png\" alt=\"分割线\"></a></p>\n<h2 id=\"借物表\">借物表</h2>\n<p><a name='cite_note-1' href='#cite_ref-1'>[1]</a>: <a href=\"https://github.com/xuxueli/xxl-job/\">https://github.com/xuxueli/xxl-job/</a></p>\n<script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kity@2.0.4/dist/kity.min.js\"></script><script type=\"text&#x2F;javascript\" src=\"https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js\"></script><script defer=\"true\" type=\"text&#x2F;javascript\" src=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js\"></script><link rel=\"stylesheet\" type=\"text&#x2F;css\" href=\"https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css\">",
+            "tags": [
+                "design",
+                "system",
+                "distribution"
+            ]
+        }
+    ]
+}

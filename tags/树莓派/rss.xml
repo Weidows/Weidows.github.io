@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;树莓派&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 03 Dec 2020 02:44:06 +0000</pubDate>
+        <lastBuildDate>Thu, 03 Dec 2020 02:44:06 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>Twitter</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>English</category>
+        <category>笔记</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>网课</category>
+        <category>VR</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Cmake</category>
+        <category>Vue</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Lambda</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>Processing</category>
+        <category>Markdown</category>
+        <category>PHP</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>宝塔面板</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>server</category>
+        <category>ubuntu</category>
+        <category>nvidia</category>
+        <category>蓝易云</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Gitlab</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>Hexo</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>scoop</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>DL</category>
+        <category>LoRA</category>
+        <category>SFT</category>
+        <category>chatgpt</category>
+        <category>LLM</category>
+        <category>deploy</category>
+        <category>inference</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/system/RaspberryPi/</guid>
+            <title>树莓派酱の吃灰日常</title>
+            <link>https://blog.weidows.tech/post/system/RaspberryPi/</link>
+            <category>服务器</category>
+            <category>树莓派</category>
+            <pubDate>Thu, 03 Dec 2020 02:44:06 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;树莓派酱の吃灰日常&lt;/h1&gt;
+&lt;!--
+ * @Author: Weidows
+ * @Date: 2020-12-03 10:44:06
+ * @LastEditors: Weidows
+ * @LastEditTime: 2025-02-12 12:26:04
+ * @FilePath: \Blog-private\source\_posts\system\RaspberryPi.md
+ * @Description:
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A0%91%E8%8E%93%E6%B4%BE%E9%85%B1%E3%81%AE%E5%90%83%E7%81%B0%E6%97%A5%E5%B8%B8&#34;&gt;树莓派酱の吃灰日常&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%97%A0%E5%B1%8F%E5%B9%95%E8%BF%9E%E6%8E%A5&#34;&gt;无屏幕连接&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ssh-%E8%BF%9E%E6%8E%A5&#34;&gt;SSH 连接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vnc-%E8%BF%9E%E6%8E%A5&#34;&gt;VNC 连接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE&#34;&gt;常用配置&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#screenfetch&#34;&gt;Screenfetch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#apt-%E6%8D%A2%E6%BA%90&#34;&gt;apt-换源&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%86%85%E7%BD%91%E4%BD%BF%E7%94%A8&#34;&gt;内网使用&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#smb-%E5%86%85%E7%BD%91%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB&#34;&gt;smb-内网文件共享&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE&#34;&gt;安装配置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BF%9E%E6%8E%A5&#34;&gt;连接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B1%80%E5%9F%9F%E7%BD%91-%E7%BD%91%E7%BA%BF%E8%BF%9E%E6%8E%A5&#34;&gt;局域网-网线连接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BD%A9%E8%89%B2%E7%81%AF%E5%B8%A6&#34;&gt;彩色灯带&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%A1%AC%E4%BB%B6%E8%BF%9E%E6%8E%A5&#34;&gt;硬件连接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7%E9%93%BE&#34;&gt;安装工具链&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AE%89%E8%A3%85%E9%A9%B1%E5%8A%A8&#34;&gt;安装驱动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6&#34;&gt;修改配置文件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C&#34;&gt;测试运行&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A2%9E%E5%BC%BA-%E9%9F%B3%E4%B9%90%E9%A2%91%E8%B0%B1&#34;&gt;增强-音乐频谱&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A3%85%E7%8E%AF%E5%A2%83&#34;&gt;装环境&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C-1&#34;&gt;测试运行&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%81%AF%E5%B8%A6%E6%A3%80%E6%B5%8B&#34;&gt;灯带检测&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;无屏幕连接&#34;&gt;无屏幕连接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;刚到手的树莓派裸机没屏幕和 Mini-HDMI 线,用 ssh 连接.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;首先,用手机或者电脑开热点 (注意只能连 2.4G 频段)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后在桌面新建文件夹&lt;code&gt;树莓派&lt;/code&gt;,存放今后需要的数据文件.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新建文件命名为&lt;code&gt;ssh&lt;/code&gt;,注意它没有后缀名和文件数据.&lt;/li&gt;
+&lt;li&gt;新建文件命名为 &lt;code&gt;wpa_supplicant.conf&lt;/code&gt; ,文件数据如下:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight abnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;country&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;GB&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ctrl_interface&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;DIR&lt;span class=&#34;operator&#34;&gt;=/&lt;/span&gt;var/run/wpa_supplicant GROUP&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;netdev&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;update_config&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;network&lt;/span&gt;&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ssid&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;你的Wifi名称，注意大小写&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    psk&lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;string&#34;&gt;&amp;quot;你的Wifi密码&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Weidows/Programming-Configuration/tree/master/others/raspberryPi/boot&#34;&gt;文件链接&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAZaM.png&#34; alt=&#34;20201203110651&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用读卡器把树莓派系统 TF 卡插进电脑,把这两个文件复制进内存卡里名叫 &lt;code&gt;boot&lt;/code&gt; 的盘符根目录里.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开鸡,等会应该就会发现电脑或者手机连接上了,如下:&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4wUh.png&#34; alt=&#34;20201203110842&#34; /&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVEkEg.png&#34; alt=&#34;Screenshot20201203112505&#34; width=&#34;50%&#34; /&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后就可以用 ssh 连接这个 IP 地址了.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;SSH-连接&#34;&gt;SSH 连接&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;连接三要素是&lt;code&gt;IP地址 + 用户名 + 密码&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;树莓派系统默认账号是 &lt;code&gt;pi&lt;/code&gt;，密码是 &lt;code&gt;raspberry&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可参照 &lt;a href=&#34;../../experience/SSH#%E8%87%AA%E5%8A%A8%E6%8C%A1&#34;&gt;✨SSH 远程连接.&lt;/a&gt; &lt;br&gt;
+连接后记得改下密码: &lt;a href=&#34;../../lang/shell/shell#%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86&#34;&gt;💧 一些常用终端命令&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;VNC-连接&#34;&gt;VNC 连接&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;没屏幕或者没 Mini-HDMI 线时最佳方案.&lt;/li&gt;
+&lt;li&gt;首先&lt;a href=&#34;https://www.realvnc.com/en/connect/download/viewer&#34;&gt;下载 VNC 软件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装后打开搜索树莓派的内网 ip,输入用户名连接&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVLgiQ.png&#34; alt=&#34;20201204103758&#34; /&gt;&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV4eUC.png&#34; alt=&#34;20201204103843&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;常用配置&#34;&gt;常用配置&lt;/h2&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta prompt_&#34;&gt;# &lt;/span&gt;&lt;span class=&#34;language-bash&#34;&gt;树莓派系统设置&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo raspi-config&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;Screenfetch&#34;&gt;Screenfetch&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;显示系统、主题信息&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo apt &lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;screenfetch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;&lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;screenfetch&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这里不用 Neofetch 是因为树莓派 Debian8 系统的 repo 地址需要更新,安装还需要其他操作,怪麻烦~&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;显示 Linux 系统及版本信息,如下:&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVSdqY.png&#34; alt=&#34;20201205143342&#34; /&gt;&lt;br&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GVAC9X.png&#34; alt=&#34;20201203115807&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;apt-换源&#34;&gt;apt-换源&lt;/h3&gt;
+&lt;p&gt;sudo nano /etc/apt/sources.list&lt;/p&gt;
+&lt;figure class=&#34;highlight clean&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;deb http:&lt;span class=&#34;comment&#34;&gt;//mirrors.ustc.edu.cn/debian bookworm main contrib non-free non-free-firmware&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;deb http:&lt;span class=&#34;comment&#34;&gt;//mirrors.ustc.edu.cn/debian-security/ bookworm-security main contrib non-free non-free-firmware&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;deb http:&lt;span class=&#34;comment&#34;&gt;//mirrors.ustc.edu.cn/debian bookworm-updates main contrib non-free non-free-firmware&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;# Uncomment deb-src lines below then &lt;span class=&#34;string&#34;&gt;&amp;#x27;apt-get update&amp;#x27;&lt;/span&gt; to enable &lt;span class=&#34;string&#34;&gt;&amp;#x27;apt-get source&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;#deb-src http:&lt;span class=&#34;comment&#34;&gt;//mirrors.ustc.edu.cn/debian bookworm main contrib non-free non-free-firmware&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;#deb-src http:&lt;span class=&#34;comment&#34;&gt;//mirrors.ustc.edu.cn/debian-security/ bookworm-security main contrib non-free non-free-firmware&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;#deb-src http:&lt;span class=&#34;comment&#34;&gt;//mirrors.ustc.edu.cn/debian bookworm-updates main contrib non-free non-free-firmware&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;内网使用&#34;&gt;内网使用&lt;/h2&gt;
+&lt;h3 id=&#34;smb-内网文件共享&#34;&gt;smb-内网文件共享&lt;/h3&gt;
+&lt;h4 id=&#34;安装配置&#34;&gt;安装配置&lt;/h4&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo apt update &amp;amp;&amp;amp; sudo apt install exfat-fuse exfatprogs ntfs-3g samba samba-common-bin&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;dpkg -l | grep -E &amp;quot;exfat|ntfs&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;sudo nano /etc/fstab&lt;/p&gt;
+&lt;figure class=&#34;highlight apache&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;UUID&lt;/span&gt;=&lt;span class=&#34;number&#34;&gt;749&lt;/span&gt;C-&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;C4F /mnt/storage exfat defaults,auto,users,rw,nofail,uid=&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;,gid=&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;UUID&lt;/span&gt;=&lt;span class=&#34;number&#34;&gt;026815&lt;/span&gt;AC5FEFC0F7 /mnt/stack ntfs defaults,auto,users,rw,nofail,uid=&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;,gid=&lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;sudo nano /etc/samba/smb.conf&lt;/p&gt;
+&lt;figure class=&#34;highlight pgsql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;# 共享 exFAT 硬盘（/dev/sdb1）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[&lt;span class=&#34;keyword&#34;&gt;storage&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;type&#34;&gt;path&lt;/span&gt; = /mnt/&lt;span class=&#34;keyword&#34;&gt;storage&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;browseable = yes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;read&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;only&lt;/span&gt; = &lt;span class=&#34;keyword&#34;&gt;no&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;valid&lt;/span&gt; users = weidows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;create&lt;/span&gt; mask = &lt;span class=&#34;number&#34;&gt;0775&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;directory mask = &lt;span class=&#34;number&#34;&gt;0775&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;# 共享 NTFS 硬盘（/dev/sda1）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[stack]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;type&#34;&gt;path&lt;/span&gt; = /mnt/stack&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;browseable = yes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;read&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;only&lt;/span&gt; = &lt;span class=&#34;keyword&#34;&gt;no&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;valid&lt;/span&gt; users = weidows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;create&lt;/span&gt; mask = &lt;span class=&#34;number&#34;&gt;0775&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;directory mask = &lt;span class=&#34;number&#34;&gt;0775&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; smbpasswd -a weidows&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; systemctl restart smbd&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;连接&#34;&gt;连接&lt;/h3&gt;
+&lt;p&gt;windows 直接在资源管理器输入内网地址 &lt;code&gt;\\192.168.xxx.xxx&lt;/code&gt;, 不建议用 mac 连, 会出现很多.DS_Store 文件&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;局域网-网线连接&#34;&gt;局域网-网线连接&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; apt update&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; apt install dhcpcd5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; systemctl &lt;span class=&#34;built_in&#34;&gt;enable&lt;/span&gt; dhcpcd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; systemctl start dhcpcd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; systemctl restart dhcpcd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 在电脑上看好DHCP掩码网段, 一般是255.255.0.0, 所以前两位需要跟电脑上显示一致&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; nano /etc/dhcpcd.conf&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;interface enxb827ebeb0a18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;static ip_address=169.254.135.223/16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;nohook wpa_supplicant&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; nano /etc/sysctl.conf&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;net.ipv4.ip_forward=1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; sysctl -p&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;彩色灯带&#34;&gt;彩色灯带&lt;/h2&gt;
+&lt;h3 id=&#34;硬件连接&#34;&gt;硬件连接&lt;/h3&gt;
+&lt;p&gt;本人用的 pi 3B/4B, WS2812B 型号灯带, 分三根线(颜色可能并不一致,红黑绿白)&lt;/p&gt;
+&lt;p&gt;淘宝买条杜邦共对母口线, 直接拿小刀豁开绝缘皮插也行&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这里只是做的临时序号,GPIO 并不是这么排的, &lt;code&gt;此处只用第一行&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;_____________________&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;| 1 2 3 4 5 6 7 ....&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;| 1 2 3 4 5 6 7 ....&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|        CPU&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;|&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;_____________________&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;接线&lt;/p&gt;
+&lt;p&gt;一般都有红线,+5V, 接 2&lt;/p&gt;
+&lt;p&gt;中间的线是信号线,接 6&lt;/p&gt;
+&lt;p&gt;另一根是 GND,接 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;安装工具链&#34;&gt;安装工具链&lt;/h3&gt;
+&lt;figure class=&#34;highlight mipsasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo apt-get -y &lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;python3-pip git&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo pip &lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;rpi-ws281x --&lt;span class=&#34;keyword&#34;&gt;break-system-packages&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo apt -y &lt;span class=&#34;keyword&#34;&gt;install &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;scons &lt;/span&gt;&lt;span class=&#34;keyword&#34;&gt;swig&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;安装驱动&#34;&gt;安装驱动&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; pip install rpi-ws281x&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;很有可能并不能生效 (ModuleNotFoundError: No module named ‘rpi_ws281x’),需要下载编译源码&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://github.com/jgarff/rpi_ws281x.git&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;cd&lt;/span&gt; rpi_ws281x&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;scons&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;cd&lt;/span&gt; ./python/&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; python3 ./setup.py install&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;上面不要这样写,会报错 : &lt;s&gt;sudo python ./python/setup.py install&lt;/s&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight vim&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;running install&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;running bdist_egg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;running egg_info&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;creating rpi_ws281x.egg-info&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;writing rpi_ws281x.egg-info/PKG-INFO&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;writing top-level names &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; rpi_ws281x.egg-info/top_level.txt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;writing dependency_links &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; rpi_ws281x.egg-info/dependency_links.txt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;writing manifest &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;rpi_ws281x.egg-info/SOURCES.txt&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; neopixel.&lt;span class=&#34;keyword&#34;&gt;py&lt;/span&gt; (&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; module neopixel) not found&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;reading manifest &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;rpi_ws281x.egg-info/SOURCES.txt&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;writing manifest &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;rpi_ws281x.egg-info/SOURCES.txt&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;installing library code &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; build/bdist.linux-armv7l/egg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;running install_lib&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;running build_py&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; neopixel.&lt;span class=&#34;keyword&#34;&gt;py&lt;/span&gt; (&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; module neopixel) not found&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; neopixel.&lt;span class=&#34;keyword&#34;&gt;py&lt;/span&gt; (&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; module neopixel) not found&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;running build_ext&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;building &lt;span class=&#34;string&#34;&gt;&amp;#x27;_rpi_ws281x&amp;#x27;&lt;/span&gt; extension&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;swigging rpi_ws281x.i &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; rpi_ws281x_wrap.&lt;span class=&#34;keyword&#34;&gt;c&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;swig -&lt;span class=&#34;keyword&#34;&gt;python&lt;/span&gt; -&lt;span class=&#34;keyword&#34;&gt;o&lt;/span&gt; rpi_ws281x_wrap.&lt;span class=&#34;keyword&#34;&gt;c&lt;/span&gt; rpi_ws281x.i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Unable &lt;span class=&#34;keyword&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;find&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;file&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;rpi_ws281x.i&amp;#x27;&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;error: &lt;span class=&#34;keyword&#34;&gt;command&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;swig&amp;#x27;&lt;/span&gt; failed with &lt;span class=&#34;keyword&#34;&gt;exit&lt;/span&gt; status &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;修改配置文件&#34;&gt;修改配置文件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;用 nano/vim 或者 Kate 打开修改&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; nano ./examples/strandtest.py&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;需要改两处:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;依赖 import 处添加&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight angelscript&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;from&lt;/span&gt; neopixel &lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; *&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;LED 灯珠数(根据灯带实际数量)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把这个文件复制出来 (不然不能运行)&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;cp&lt;/span&gt; ./examples/strandtest.py .&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;测试运行&#34;&gt;测试运行&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; python3 ./strandtest.py&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在公司第一次跑起来的样子&lt;/p&gt;
+&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/GV3c6Y.png&#34; alt=&#34;1632587136736&#34; /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;增强-音乐频谱&#34;&gt;增强-音乐频谱&lt;/h3&gt;
+&lt;p&gt;首先搞一下硬件: 树莓派没有板载输入声卡,&lt;code&gt;需要 USB 免驱声卡 + 3.5mm有线可录音耳机&lt;/code&gt; (调查了一番没有替代方案)&lt;/p&gt;
+&lt;p&gt;可以去买一个拓展坞,有的会附带 (当时我都缺,正好可以一刀切)&lt;/p&gt;
+&lt;h4 id=&#34;装环境&#34;&gt;装环境&lt;/h4&gt;
+&lt;figure class=&#34;highlight q&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo apt-&lt;span class=&#34;built_in&#34;&gt;get&lt;/span&gt; install portaudio19-&lt;span class=&#34;built_in&#34;&gt;dev&lt;/span&gt; libatlas-base-&lt;span class=&#34;built_in&#34;&gt;dev&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 一定注意是pip3安装! 不是pip; 运行时也必须是 python3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo pip3 install numpy scipy pyqtgraph pyaudio&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;测试运行-2&#34;&gt;测试运行&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://github.com/scottlawsonbc/audio-reactive-led-strip.git&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;sudo&lt;/span&gt; python3 audio-reactive-led-strip/python/visualization.py&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;灯带检测&#34;&gt;灯带检测&lt;/h3&gt;
+&lt;p&gt;灯带是否损坏可以一头接上+5V + GND, 在另一头短接试试&lt;/p&gt;
+&lt;p&gt;如果树莓派重启,则说明灯带电源没问题,要是不能亮的话就是信号线有问题或者电压不足&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

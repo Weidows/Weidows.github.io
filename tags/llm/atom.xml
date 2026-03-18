@@ -1,0 +1,658 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;llm&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2025-12-09T06:08:35.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="cloudflare" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="Twitter" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="Regex" />
+    <category term="yaml" />
+    <category term="English" />
+    <category term="笔记" />
+    <category term="生活" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="哲学" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="网课" />
+    <category term="VR" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="Docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="Color" />
+    <category term="创业" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Cmake" />
+    <category term="Vue" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Lambda" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="Processing" />
+    <category term="Markdown" />
+    <category term="PHP" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="宝塔面板" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="音乐" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="Anaconda" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="AWS" />
+    <category term="Server" />
+    <category term="Ubuntu" />
+    <category term="alist" />
+    <category term="server" />
+    <category term="ubuntu" />
+    <category term="nvidia" />
+    <category term="蓝易云" />
+    <category term="Github" />
+    <category term="Gitee" />
+    <category term="Gitlab" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="Hexo" />
+    <category term="rime" />
+    <category term="输入法" />
+    <category term="scoop" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="注解" />
+    <category term="MySQL" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="JSP" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="DL" />
+    <category term="LoRA" />
+    <category term="SFT" />
+    <category term="chatgpt" />
+    <category term="LLM" />
+    <category term="deploy" />
+    <category term="inference" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/lang/python/AI/llm/</id>
+        <title>大模型相关知识学习整理</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/lang/python/AI/llm/"/>
+        <content type="html">&lt;h1&gt;大模型相关知识学习整理&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2026-03-19 03:10:47
+ * @FilePath: \Blog-private\source\_posts\lang\python\AI\llm.md
+ * @Description:
+ * @:
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠻⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⣀⡾⠀⠀⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣤⣀⣠⡴⠋
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠈⢷⡀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣿⢠⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣧⠀⠀⠀⠀⠀⠀⠀⠈⣆
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⣰⠀⠀⠀⠀⣾⢸⣿⣀⣤⣶⡛⠁⣿⠘⡄⠀⠀⠀⠀⢀⠀⠀⣿⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠸
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⡟⠀⠀⠀⠀⣿⡈⡏⠀⠀⠀⠀⠙⡜⡄⢿⠀⠀⠀⠀⣾⣧⣾⢸⠀⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⣇⠀⠀⠀⠀⣷⣿⣿⣶⣦⣀⠀⠀⠀⠹⡘⣿⡀⠀⠀⢹⣿⠃⢸⠀⣿⠀⢠⣿⠀⠀⠀⠀⠀⣄⣧
+ * ⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⣿⠀⠀⠀⠀⢿⠉⠉⠉⠻⣿⣷⡀⠀⠀⠈⠁⠙⢦⣀⣸⠋⠈⣸⣼⢻⠀⣾⡿⠀⠀⠀⠀⢸⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⠀⠸⡄⣤⠀⠀⠀⣧⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⣿⣿⠇⠀⠀⠀⠀⣾⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠀⠙⠿⣿⠛⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣦⡀⡿⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⠀⣴⠋⠙⣦⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⣼⠉⠙⠳⠦⣤⡀⠀⠀⠀⠀⠀⠀⠈⠻⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⢤⠇⣀⡀⣼⠀⠀⠀⢹⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⢠⣯⣿⣿
+ * ⠀⠀⠀⠀⣠⠋⣠⠟⠁⠀⠈⠛⣄⠀⠀⠀⣇⠀⠀⠀⠀⢹⠀⠀⠀⠀⢀⠟⠀⠀⠀⠀⠀⠀⢾⣁⠀⠀⠀⠀⢀⣾⣤⡏⠉⠉⣿
+ * ⠀⠀⢀⣞⠤⣴⠁⠀⠀⠀⠀⠀⠀⣧⠀⠀⢿⠉⠳⣤⡀⠀⠁⠀⠠⠶⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠧⣴⣾⣿⣿⠟⡇⠀⠀⢸
+ * ⣠⠚⠁⢀⠏⣿⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠈⡏⠛⠶⣤⡉⠛⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡴⣿⣿⠟⠁⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⢸⠀⠘⡄⠀⠀⠀⠀⠀⢹⠀⡿⡄⠀⣿⠀⠀⠀⠀⠙⠲⣤⡀⠙⢦⠉⠉⠉⠉⠉⠉⠁⠀⠀⣿⠀⠀⠀⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⠘⡄⠀⣿⠀⠀⠀⠀⠀⣸⠛⡄⢻⠀⠸⡀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡉⢦⡀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⢰⠇⠀⠀⢸
+ * ⠀⠀⠀⠀⢿⠀⠈⠙⢦⣄⣠⠴⠃⢠⠃⠀⡇⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣦⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣼⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠙⢤⠀⠀⠀⠀⠀⡴⠋⠀⠀⡇⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⡿⠀⠀⠀⠀⡿⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠘⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠀⠀⡇⠀⠀⠀⢰⠁⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡿⠀⠀⠀⠀⠀⣷
+ *
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E6%95%B4%E7%90%86&#34;&gt;大模型相关知识学习整理&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A2%84%E8%AE%AD%E7%BB%83-pre_train&#34;&gt;预训练-pre_train&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86&#34;&gt;数据处理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8E%E8%AE%AD%E7%BB%83-post_train&#34;&gt;后训练-post_train&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BE%AE%E8%B0%83-fine_tune&#34;&gt;微调-fine_tune&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#lora&#34;&gt;LoRA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%87%8F%E5%8C%96-quantization&#34;&gt;量化-quantization&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%87%8F%E5%8C%96%E8%8A%82%E7%9C%81%E4%B8%8E%E7%B2%BE%E5%BA%A6%E5%AF%B9%E6%AF%94&#34;&gt;量化节省与精度对比&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%87%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%92%8C%E4%BA%A7%E7%89%A9&#34;&gt;量化方法和产物&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-huggingface&#34;&gt;模型发布-huggingface&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-inference&#34;&gt;推理部署-inference&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6%E9%80%89%E6%8B%A9&#34;&gt;推理框架选择&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F&#34;&gt;推理加速&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;预训练-pre-train&#34;&gt;预训练-pre_train&lt;/h2&gt;
+&lt;h3 id=&#34;数据处理&#34;&gt;数据处理&lt;/h3&gt;
+&lt;p&gt;TODO&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;后训练-post-train&#34;&gt;后训练-post_train&lt;/h2&gt;
+&lt;p&gt;拿到 safetensors 之后要做的事&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  flowchart TD
+    A[LLM 训练阶段] --&amp;gt;|输出原始权重| B[PyTorch .bin&amp;#x2F;.pth]
+    A --&amp;gt;|安全高效存储| C[safetensors, 主流全能格式]
+
+    B --&amp;gt;|直接推理&amp;#x2F;继续训练| D[研究&amp;#x2F;实验环境]
+    C --&amp;gt;|推荐替代 .bin| D
+
+    A --&amp;gt;|量化转换| E[量化格式]
+    E --&amp;gt; F[GPTQ&amp;#x2F;AWQ]
+    E --&amp;gt; G[GGML]
+    E --&amp;gt; H[GGUF, 只能用来推理]
+
+    F --&amp;gt;|GPU推理优化| I[高性能GPU部署]
+    G --&amp;gt;|早期CPU推理| J[llama.cpp旧版本]
+    H --&amp;gt;|通用量化推理| K[llama.cpp &amp;#x2F; Ollama &amp;#x2F; 本地部署]
+
+    C --&amp;gt;|需转换为GGUF| H
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h3 id=&#34;微调-fine-tune&#34;&gt;微调-fine_tune&lt;/h3&gt;
+&lt;h4 id=&#34;LoRA&#34;&gt;LoRA&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;另一篇文章有提到: &lt;a href=&#34;../fine-tune&#34;&gt;LoRA微调训练和量化&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;量化-quantization&#34;&gt;量化-quantization&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;另一篇文章有提到: &lt;a href=&#34;../fine-tune&#34;&gt;LoRA微调训练和量化&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;量化节省与精度对比&#34;&gt;量化节省与精度对比&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/mradermacher/Qwen3.5-2B-GPT-5.1-HighIQ-INSTRUCT-i1-GGUF&#34;&gt;https://huggingface.co/mradermacher/Qwen3.5-2B-GPT-5.1-HighIQ-INSTRUCT-i1-GGUF&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://huggingface.co/Bedovyy/dasiwaWAN22I2V14B-GGUF/tree/main/HighNoise&#34;&gt;https://huggingface.co/Bedovyy/dasiwaWAN22I2V14B-GGUF/tree/main/HighNoise&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有时候找模型会遇到不同精度的量化版本, 以 7B 模型为例, GGUF 量化&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;格式&lt;/th&gt;
+&lt;th&gt;典型大小&lt;/th&gt;
+&lt;th&gt;精度损失&lt;/th&gt;
+&lt;th&gt;推理速度提升&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;FP16&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~14GB&lt;/td&gt;
+&lt;td&gt;无损&lt;/td&gt;
+&lt;td&gt;基准速度&lt;/td&gt;
+&lt;td&gt;训练、基准推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q8_0 (8bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~7.5GB&lt;/td&gt;
+&lt;td&gt;&amp;lt;0.5%&lt;/td&gt;
+&lt;td&gt;~1.3×&lt;/td&gt;
+&lt;td&gt;高精度服务器推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q6_k (6bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~6.7GB&lt;/td&gt;
+&lt;td&gt;~0.5–1%&lt;/td&gt;
+&lt;td&gt;~1.5×&lt;/td&gt;
+&lt;td&gt;高精度推理，接近无损&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q5_k_m (5bit混合)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~4.5GB&lt;/td&gt;
+&lt;td&gt;~1–3%&lt;/td&gt;
+&lt;td&gt;~1.8×&lt;/td&gt;
+&lt;td&gt;推荐的通用量化方案&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q4_k_m (4bit混合)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~4.4GB&lt;/td&gt;
+&lt;td&gt;~3–5%&lt;/td&gt;
+&lt;td&gt;~2.0–2.2×&lt;/td&gt;
+&lt;td&gt;主流移动端/轻量服务器部署&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q4_0 (原始4bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~3.8GB&lt;/td&gt;
+&lt;td&gt;~8–10%&lt;/td&gt;
+&lt;td&gt;~2.5×&lt;/td&gt;
+&lt;td&gt;基础推理，精度下降明显&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q3_k_m (3bit混合)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~3.0GB&lt;/td&gt;
+&lt;td&gt;~5–8%&lt;/td&gt;
+&lt;td&gt;~3×&lt;/td&gt;
+&lt;td&gt;移动端极限压缩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q2_k (2bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~2.7GB&lt;/td&gt;
+&lt;td&gt;&amp;gt;10%&lt;/td&gt;
+&lt;td&gt;~3.5×&lt;/td&gt;
+&lt;td&gt;极端压缩，精度损失大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;量化方法和产物&#34;&gt;量化方法和产物&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;标记&lt;/th&gt;
+&lt;th&gt;全称/含义&lt;/th&gt;
+&lt;th&gt;特点&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Q&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Quantized（量化）&lt;/td&gt;
+&lt;td&gt;表示该模型是量化版本，后缀决定具体策略（如 q4_0、q4_k_m）&lt;/td&gt;
+&lt;td&gt;所有量化模型的通用前缀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;K&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;K-quant（分组量化）&lt;/td&gt;
+&lt;td&gt;改进的量化方法，分组存储权重，精度更好&lt;/td&gt;
+&lt;td&gt;主流推荐，如 &lt;code&gt;q4_k_m&lt;/code&gt;、&lt;code&gt;q5_k_m&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mixed（混合精度）&lt;/td&gt;
+&lt;td&gt;不同部分使用不同 bit 数量，兼顾精度和体积&lt;/td&gt;
+&lt;td&gt;常见于 &lt;code&gt;q4_k_m&lt;/code&gt;、&lt;code&gt;q5_k_m&lt;/code&gt;，平衡最佳&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;L-quant（低秩优化）&lt;/td&gt;
+&lt;td&gt;针对部分权重做低秩近似，进一步压缩&lt;/td&gt;
+&lt;td&gt;更小体积，但精度略有下降&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;IQ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Integer Quantization（整数量化）&lt;/td&gt;
+&lt;td&gt;使用整数存储，推理速度更快&lt;/td&gt;
+&lt;td&gt;新方案，适合 CPU/GPU 高速推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;原始量化版本&lt;/td&gt;
+&lt;td&gt;最基础的量化实现，速度快，但精度损失较大&lt;/td&gt;
+&lt;td&gt;早期量化方案，适合极限压缩或测试&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Super-block 分组策略&lt;/td&gt;
+&lt;td&gt;在量化时使用更大的分组（block size），提升精度&lt;/td&gt;
+&lt;td&gt;常见于 &lt;code&gt;q4_k_s&lt;/code&gt;，比 &lt;code&gt;_0&lt;/code&gt; 精度更好&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;S#&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Super-block + 数字（如 S2, S3）&lt;/td&gt;
+&lt;td&gt;表示不同的分组大小或策略，数字越大分组更细，精度更高&lt;/td&gt;
+&lt;td&gt;高精度量化，适合需要更好质量的推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;模型发布-huggingface&#34;&gt;模型发布-huggingface&lt;/h3&gt;
+&lt;p&gt;一般是发到 Huggingface, 部分国内模型会发到魔搭&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;仓库名称示例&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;核心存储内容&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;角色定位&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;适用场景/工具&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;code&gt;*-LoRA&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;adapter_model.safetensors&lt;/code&gt; (几十MB)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;中间产物&lt;/strong&gt; (轻量级)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;二次微调、PEFT 动态加载、研究员交流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;code&gt;*-Full&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;model.safetensors&lt;/code&gt; (几个GB)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;标准产物&lt;/strong&gt; (工业级)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;服务器部署 (vLLM)、Transformers 库加载&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;code&gt;*-GGUF&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;*.gguf&lt;/code&gt; (不同位宽)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;分发产物&lt;/strong&gt; (消费级)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;本地离线运行 (Ollama, llama.cpp, LM Studio)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;为了让 Hugging Face 自动识别模型之间的血缘关系（如你图中看到的 Tree 结构），你需要在每个仓库的 &lt;code&gt;README.md&lt;/code&gt; 顶部配置 &lt;code&gt;base_model&lt;/code&gt; 标签。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;LoRA 仓库 (&lt;code&gt;*-LoRA&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;声明它是基于哪个原始大模型微调的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;base_model:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Qwen/Qwen3.5-4B&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;library_name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;peft&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;lora&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;latex&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;完整版仓库 (&lt;code&gt;*-Full&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;它是合并后的模型，通常依然指向原始基座模型。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;base_model:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Qwen/Qwen3.5-4B&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;merged&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;latex&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;量化版仓库 (&lt;code&gt;*-GGUF&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;关键点&lt;/strong&gt;：它的基座应该是你&lt;strong&gt;微调合并后&lt;/strong&gt;的那个仓库。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;base_model:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Weidows/Qwen3.5-4B-LaTeX&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;gguf&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;quantization&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;推理部署-inference&#34;&gt;推理部署-inference&lt;/h2&gt;
+&lt;h3 id=&#34;推理框架选择&#34;&gt;推理框架选择&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Mega4alik/ollm&#34;&gt;https://github.com/Mega4alik/ollm&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;速度太慢了, 大部分场景都不适合&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/GeeeekExplorer/nano-vllm&#34;&gt;https://github.com/GeeeekExplorer/nano-vllm&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;看起来更新速度不太快, 支持不行, pass&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.vllm.ai/en/stable/&#34;&gt;https://docs.vllm.ai/en/stable/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;推理加速&#34;&gt;推理加速&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;核心思路&lt;/strong&gt;：在资源受限的机器上，推理加速通常是 &lt;strong&gt;“减小模型规模”&lt;/strong&gt;（量化/剪枝/蒸馏）与 &lt;strong&gt;“高效执行”&lt;/strong&gt;（选择合适的框架/内核） 的结合。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;主流推理框架对比&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;框架 / 方法&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;th&gt;核心优势&lt;/th&gt;
+&lt;th&gt;推荐配置参数&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;vLLM&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;LLM 大语言模型服务（如 ChatGPT）&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;PagedAttention&lt;/strong&gt;：通过分页管理 KV Cache，解决显存碎片化问题；支持 Speculative Decoding（推测解码）。在长上下文场景下（如 30K token）表现优越。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;--max-num-batched-token&lt;/code&gt; (控制批处理大小)，&lt;code&gt;--kv-cache-dtype&lt;/code&gt; (设置 KV 缓存类型)[[1]][[2]]&lt;/td&gt;
+&lt;td&gt;在小显存机器上，优于 HuggingFace Transformers 2-4 倍吞吐量[[3]][[4]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OpenVINO&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Intel CPU / GPU / NPU (如 Xeon, Arc)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;深度优化&lt;/strong&gt;：针对 Intel 硬件的异构执行、自动 batch、性能 Hint (Latency/Throughput)。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;ov::hint::performance_mode(ov::hint::PerformanceMode::THROUGHPUT)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;对于 CPU 推理（如 ResNet, BERT），往往优于 pure PyTorch/TensorRT[[5]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;TensorRT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;NVIDIA GPU (A100, H100, RTX)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;极致加速&lt;/strong&gt;：张量核心 + FP8/INT8 加速；支持混合精度。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;--precision&lt;/code&gt; (FP8/INT8) [[6]]&lt;/td&gt;
+&lt;td&gt;对于视觉模型 (YOLO, Stable Diffusion) 常见首选[[7]][[8]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;ONNX Runtime&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;跨平台部署 (CPU, GPU, NPU, Edge)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;通用性&lt;/strong&gt;：支持 CUDA、DirectML、OpenVINO EP。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;ExecutionProvider&lt;/code&gt; 选择 (如 &lt;code&gt;CUDAExecutionProvider&lt;/code&gt;)[[9]]&lt;/td&gt;
+&lt;td&gt;适合 Edge 设备（如 Jetson, Graviton）[[10]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;核心加速技术手段&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;技术&lt;/th&gt;
+&lt;th&gt;加速原理&lt;/th&gt;
+&lt;th&gt;典型收益&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;th&gt;参考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;PagedAttention&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;类似 OS 虚拟内存分页，按需分配 KV Cache，减少显存碎片。&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;显存利用率近 100%&lt;/strong&gt;，解决长上下文卡死问题[[17]]&lt;/td&gt;
+&lt;td&gt;超长上下文 LLM (30K token 以上)&lt;/td&gt;
+&lt;td&gt;vLLM 独有技术[[18]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Speculative Decoding&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;预先生成多个候选 token，提前并行计算，减少解码串行瓶颈。&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;吞吐量提升 2-4x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;需要高 QPS 的聊天机器人&lt;/td&gt;
+&lt;td&gt;vLLM 中实现[[19]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;自动 Batch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;动态聚合多个推理请求，提高 GPU 利用率。&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;吞吐量提升 1.5x-3x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;低频请求的 API 服务&lt;/td&gt;
+&lt;td&gt;OpenVINO &amp;amp; vLLM 支持[[20]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;常见误区&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;“多加一个 GPU 就能跑大模型”&lt;/strong&gt;：在显存碎片严重时，即使是 2 块卡也可能卡死，&lt;strong&gt;PagedAttention&lt;/strong&gt; 是关键&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“只要量化就行”&lt;/strong&gt;：直接 INT8 量化有时会导致 LLM 输出乱码，建议先使用 &lt;strong&gt;W4A4 (GPTQ)&lt;/strong&gt; 或者 &lt;strong&gt;INT8 + W8A8 (vLLM)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: LLM&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script defer=&#34;true&#34; type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css&#34;&gt;</content>
+        <category term="LLM" />
+        <category term="deploy" />
+        <category term="inference" />
+        <updated>2025-12-09T06:08:35.000Z</updated>
+    </entry>
+</feed>

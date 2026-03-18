@@ -1,0 +1,1169 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="dark"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>LoRA微调训练和量化 | ⭐️齐下无贰⭐️</title><meta name="author" content="⎛⎝Weidows⎠⎞"><meta name="copyright" content="⎛⎝Weidows⎠⎞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#0d0d0d"><meta name="description" content="安装依赖 uv add datasets peft trl accelerateuv pip install torch torchvision --index-url https:&#x2F;&#x2F;download.pytorch.org&#x2F;whl&#x2F;cu130uv pip install &quot;unsloth[cu130] @ git+https:&#x2F;&#x2F;github.com&#x2F;unslothai&#x2F;unslot"><meta property="og:type" content="article"><meta property="og:title" content="LoRA微调训练和量化"><meta property="og:url" content="https://blog.weidows.tech/post/lang/python/AI/fine-tune/"><meta property="og:site_name" content="⭐️齐下无贰⭐️"><meta property="og:description" content="安装依赖 uv add datasets peft trl accelerateuv pip install torch torchvision --index-url https:&#x2F;&#x2F;download.pytorch.org&#x2F;whl&#x2F;cu130uv pip install &quot;unsloth[cu130] @ git+https:&#x2F;&#x2F;github.com&#x2F;unslothai&#x2F;unslot"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://pan.weidows.tech/d/local/blog/4cb52f6233a8b568fe0d0587b22b8d00475710195.jpg"><meta property="article:published_time" content="2026-03-16T15:46:03.000Z"><meta property="article:modified_time" content="2026-03-18T19:36:47.000Z"><meta property="article:author" content="⎛⎝Weidows⎠⎞"><meta property="article:tag" content="AI"><meta property="article:tag" content="python"><meta property="article:tag" content="DL"><meta property="article:tag" content="LoRA"><meta property="article:tag" content="SFT"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://pan.weidows.tech/d/local/blog/4cb52f6233a8b568fe0d0587b22b8d00475710195.jpg"><link rel="shortcut icon" href="https://pan.weidows.tech/d/local/img/avatar/avatar.png"><link rel="canonical" href="https://blog.weidows.tech/post/lang/python/AI/fine-tune/"><link rel="preconnect" href="//fastly.jsdelivr.net"><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""><link rel="preconnect" href="//busuanzi.ibruce.info"><meta name="baidu-site-verification" content="codeva-S90fjC0lEU"><link rel="stylesheet" href="/css/index.css?v=4.9.0"><link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" media="print" onload='this.media="all"'><link rel="stylesheet" href="https://unpkg.com/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.css" media="print" onload='this.media="all"'><script async src="https://www.googletagmanager.com/gtag/js?id=G-BHH5BNEG3S"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-BHH5BNEG3S")</script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  noticeOutdate: {"limitDay":365,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated.(要喝这篇过期的纯牛奶吗~)"},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://unpkg.com/flickr-justified-gallery@2.1.2/dist/fjGallery.min.js',
+      css: 'https://unpkg.com/flickr-justified-gallery@2.1.2/dist/fjGallery.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: true,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"LoRA微调训练和量化",isPost:!0,isHome:!1,isHighlightShrink:!1,isToc:!0,postUpdate:"2026-03-19 03:36:47"}</script><noscript><style type="text/css">#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+    win.getCSS = (url,id = false) => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      if (id) link.id = id
+      link.onerror = reject
+      link.onload = link.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        link.onload = link.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(link)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script><script src="https://fastly.jsdelivr.net/combine/gh/dylanNew/live2d/webgl/Live2D/lib/live2d.min.js,npm/pixi.js@6.5.2/dist/browser/pixi.min.js,npm/pixi-live2d-display/dist/index.min.js,gh/Weidows-projects/Live2dLoader/dist/Live2dLoader.min.js"></script><meta name="baidu-site-verification" content="codeva-hhGzt89VUk"><script>let HEXO_MMEDIA_DATA = { js: [], css: [], aplayerData: [], metingData: [], artPlayerData: [], dplayerData: []};</script><meta name="generator" content="Hexo 7.3.0"></head><body><script>window.paceOptions = {
+  restartOnPushState: false
+}
+
+document.addEventListener('pjax:send', () => {
+  Pace.restart()
+})</script><link rel="stylesheet" href="https://unpkg.com/pace-js@1.2.4/themes/blue/pace-theme-minimal.css"><script src="https://unpkg.com/pace-js@1.2.4/pace.min.js"></script><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">155</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">233</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">50</div></a></div><hr class="custom-hr"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image:url(https://pan.weidows.tech/d/local/blog/4cb52f6233a8b568fe0d0587b22b8d00475710195.jpg)"><nav id="nav"><span id="blog-info"><a href="/" title="⭐️齐下无贰⭐️"><span class="site-name">⭐️齐下无贰⭐️</span></a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-plane"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.travellings.cn/go.html"><i class="fa-fw fas fa-car"></i><span> 开往</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-home"></i><span> 传送门</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="https://blog.weidows.tech"><i class="fa-fw fas fa-rocket"></i><span> Vercel-site</span></a></li><li><a class="site-page child" target="_blank" rel="noopener" href="https://weidows.github.io"><i class="fa-fw fas fa-shower"></i><span> GitHub-site</span></a></li><li><a class="site-page child" href="/tags"><i class="fa-fw fas fa-tags"></i><span> 标 签</span></a></li><li><a class="site-page child" href="/categories"><i class="fa-fw fas fa-folder-open"></i><span> 分 类</span></a></li><li><a class="site-page child" href="/archives"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/charts"><i class="fa-fw fas fa-signal"></i><span> 文章统计</span></a></li><li><a class="site-page child" href="/"><span>----------</span></a></li><li><a class="site-page child" href="/post/experience/QA"><span>Q-A</span></a></li><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://www.notion.so/weidows/03f1a8bbc340412a897705d7440b5484"><span>Notion</span></a></li><li><a class="site-page child" href="/tags/Weidows-projects"><span>Weidows-projects</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-list"></i><span> 兴趣爱好</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" target="_blank" rel="noopener external nofollow noreferrer" href="https://bangumi.tv/user/823155"><i class="fa-fw fas fa-laptop"></i><span> Bangumi</span></a></li><li><a class="site-page child" href="/tags/games"><i class="fa-fw fas fa-gamepad"></i><span> Steam</span></a></li><li><a class="site-page child" href="/artitalk"><i class="fa-fw fa fa-comment"></i><span> 说说</span></a></li></ul></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fa-fw fas fa-heart"></i><span> 关于</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/tags/link"><i class="fa-fw fas fa-link"></i><span> 友人帐</span></a></li><li><a class="site-page child" href="/tags/comment"><i class="fa-fw fas fa-comments"></i><span> 留言板</span></a></li><li><a class="site-page child" href="/tags/resume"><i class="fa-fw fas fa-user"></i><span> 简👶历</span></a></li></ul></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);" rel="external nofollow noreferrer"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">LoRA微调训练和量化</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2026-03-16T15:46:03.000Z" title="发表于 2026-03-16 23:46:03">2026-03-16</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2026-03-18T19:36:47.000Z" title="更新于 2026-03-19 03:36:47">2026-03-19</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/lang/">lang</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/lang/python/">python</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/lang/python/AI/">AI</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">7.8k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>46分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" data-flag-title="LoRA微调训练和量化"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h2 id="安装依赖">安装依赖</h2><figure class="highlight armasm"><table><tr><td class="code"><pre><span class="line"><span class="symbol">uv</span> <span class="keyword">add</span> datasets peft trl accelerate</span><br><span class="line"></span><br><span class="line"><span class="symbol">uv</span> pip install torch torchvision --index-url https:<span class="comment">//download.pytorch.org/whl/cu130</span></span><br><span class="line"><span class="symbol">uv</span> pip install <span class="string">&quot;unsloth[cu130] @ git+https://github.com/unslothai/unsloth.git&quot;</span></span><br></pre></td></tr></table></figure><ul><li><strong>Datasets</strong>: 这是一个用于轻松访问和共享音频、计算机视觉及自然语言处理（NLP）数据集的库，只需一行代码即可加载并处理超大规模的数据。</li><li><strong>PEFT (Parameter-Efficient Fine-Tuning)</strong>: 专门用于“参数高效微调”，让你能在不微调模型所有参数的情况下（如使用 LoRA 技术），通过仅训练极少量参数达到媲美全量微调的效果。</li><li><strong>TRL (Transformer Reinforcement Learning)</strong>: 一个使用强化学习训练 Transformer 模型的全栈工具库，主要用于实现 RLHF（基于人类反馈的强化学习）和 DPO 等对齐训练。</li><li><strong>Accelerate</strong>: 一个旨在简化分布式训练和混合精度训练的库，让你只需修改极少代码，就能在 CPU、单个 GPU、多 GPU 或 TPU 等不同硬件配置上运行相同的 PyTorch 训练脚本。</li></ul><h2 id="模型和数据集">模型和数据集</h2><blockquote><p>参考: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://colab.research.google.com/drive/1D3g2KPFnEZ7ZF9IP-vxwjQIb1md_o5_X#scrollTo=53bfef85-3657-4f51-bba7-78abff394117">https://colab.research.google.com/drive/1D3g2KPFnEZ7ZF9IP-vxwjQIb1md_o5_X#scrollTo=53bfef85-3657-4f51-bba7-78abff394117</a></p></blockquote><blockquote><p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://huggingface.co/DavidAU/Qwen3.5-2B-GPT-5.1-HighIQ-INSTRUCT">https://huggingface.co/DavidAU/Qwen3.5-2B-GPT-5.1-HighIQ-INSTRUCT</a><br><a target="_blank" rel="noopener external nofollow noreferrer" href="https://huggingface.co/datasets/maomao88/anime-waifu-personality-chat-with-questions">https://huggingface.co/datasets/maomao88/anime-waifu-personality-chat-with-questions</a></p></blockquote><h3 id="Installation">Installation</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">%%capture</span><br><span class="line"><span class="keyword">import</span> os, re</span><br><span class="line"><span class="keyword">if</span> <span class="string">&quot;COLAB_&quot;</span> <span class="keyword">not</span> <span class="keyword">in</span> <span class="string">&quot;&quot;</span>.join(os.environ.keys()):</span><br><span class="line">    !pip install unsloth  <span class="comment"># Do this in local &amp; cloud setups</span></span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    <span class="keyword">import</span> torch; v = re.<span class="keyword">match</span>(<span class="string">r&#x27;[\d]&#123;1,&#125;\.[\d]&#123;1,&#125;&#x27;</span>, <span class="built_in">str</span>(torch.__version__)).group(<span class="number">0</span>)</span><br><span class="line">    xformers = <span class="string">&#x27;xformers==&#x27;</span> + &#123;<span class="string">&#x27;2.10&#x27;</span>:<span class="string">&#x27;0.0.34&#x27;</span>,<span class="string">&#x27;2.9&#x27;</span>:<span class="string">&#x27;0.0.33.post1&#x27;</span>,<span class="string">&#x27;2.8&#x27;</span>:<span class="string">&#x27;0.0.32.post2&#x27;</span>&#125;.get(v, <span class="string">&quot;0.0.34&quot;</span>)</span><br><span class="line">    !pip install sentencepiece protobuf <span class="string">&quot;datasets==4.3.0&quot;</span> <span class="string">&quot;huggingface_hub&gt;=0.34.0&quot;</span> hf_transfer</span><br><span class="line">    !pip install --no-deps unsloth_zoo bitsandbytes accelerate &#123;xformers&#125; peft trl triton unsloth</span><br><span class="line">!pip install transformers==<span class="number">5.3</span><span class="number">.0</span></span><br><span class="line">!pip install --no-deps trl==<span class="number">0.22</span><span class="number">.2</span></span><br></pre></td></tr></table></figure><h3 id="Unsloth">Unsloth</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> unsloth <span class="keyword">import</span> FastVisionModel <span class="comment"># FastLanguageModel for LLMs</span></span><br><span class="line"><span class="keyword">import</span> torch</span><br><span class="line"></span><br><span class="line"><span class="comment"># 4bit pre quantized models we support for 4x faster downloading + no OOMs.</span></span><br><span class="line">fourbit_models = [</span><br><span class="line">    <span class="string">&quot;unsloth/Llama-3.2-11B-Vision-Instruct-bnb-4bit&quot;</span>, <span class="comment"># Llama 3.2 vision support</span></span><br><span class="line">    <span class="string">&quot;unsloth/Llama-3.2-11B-Vision-bnb-4bit&quot;</span>,</span><br><span class="line">    <span class="string">&quot;unsloth/Llama-3.2-90B-Vision-Instruct-bnb-4bit&quot;</span>, <span class="comment"># Can fit in a 80GB card!</span></span><br><span class="line">    <span class="string">&quot;unsloth/Llama-3.2-90B-Vision-bnb-4bit&quot;</span>,</span><br><span class="line"></span><br><span class="line">    <span class="string">&quot;unsloth/Pixtral-12B-2409-bnb-4bit&quot;</span>,              <span class="comment"># Pixtral fits in 16GB!</span></span><br><span class="line">    <span class="string">&quot;unsloth/Pixtral-12B-Base-2409-bnb-4bit&quot;</span>,         <span class="comment"># Pixtral base model</span></span><br><span class="line"></span><br><span class="line">    <span class="string">&quot;unsloth/Qwen2-VL-2B-Instruct-bnb-4bit&quot;</span>,          <span class="comment"># Qwen2 VL support</span></span><br><span class="line">    <span class="string">&quot;unsloth/Qwen2-VL-7B-Instruct-bnb-4bit&quot;</span>,</span><br><span class="line">    <span class="string">&quot;unsloth/Qwen2-VL-72B-Instruct-bnb-4bit&quot;</span>,</span><br><span class="line"></span><br><span class="line">    <span class="string">&quot;unsloth/llava-v1.6-mistral-7b-hf-bnb-4bit&quot;</span>,      <span class="comment"># Any Llava variant works!</span></span><br><span class="line">    <span class="string">&quot;unsloth/llava-1.5-7b-hf-bnb-4bit&quot;</span>,</span><br><span class="line">] <span class="comment"># More models at https://huggingface.co/unsloth</span></span><br><span class="line"></span><br><span class="line">model, tokenizer = FastVisionModel.from_pretrained(</span><br><span class="line">    <span class="string">&quot;unsloth/Qwen3.5-4B&quot;</span>,</span><br><span class="line">    load_in_4bit = <span class="literal">False</span>, <span class="comment"># Use 4bit to reduce memory use. False for 16bit LoRA.</span></span><br><span class="line">    use_gradient_checkpointing = <span class="string">&quot;unsloth&quot;</span>, <span class="comment"># True or &quot;unsloth&quot; for long context</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure><pre><code>🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+==((====))==  Unsloth 2026.3.5: Fast Qwen3_5 patching. Transformers: 5.3.0.
+   \\   /|    Tesla T4. Num GPUs = 1. Max memory: 14.563 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.10.0+cu128. CUDA: 7.5. CUDA Toolkit: 12.8. Triton: 3.6.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.34. FA2 = False]
+ &quot;-____-&quot;     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Unsloth: Using float16 precision for qwen3_5 won't work! Using float32.
+Unsloth: QLoRA and full finetuning all not selected. Switching to 16bit LoRA.
+
+
+
+model.safetensors.index.json: 0.00B [00:00, ?B/s]
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 2 files:   0%|          | 0/2 [00:00&lt;?, ?it/s]
+
+
+The fast path is not available because one of the required library is not installed. Falling back to torch implementation. To install follow https://github.com/fla-org/flash-linear-attention#installation and https://github.com/Dao-AILab/causal-conv1d
+
+
+
+Loading weights:   0%|          | 0/723 [00:00&lt;?, ?it/s]
+
+
+
+processor_config.json: 0.00B [00:00, ?B/s]
+
+
+
+chat_template.jinja: 0.00B [00:00, ?B/s]
+
+
+
+preprocessor_config.json:   0%|          | 0.00/336 [00:00&lt;?, ?B/s]
+
+
+
+tokenizer_config.json: 0.00B [00:00, ?B/s]
+
+
+
+tokenizer.json:   0%|          | 0.00/20.0M [00:00&lt;?, ?B/s]
+
+
+
+video_preprocessor_config.json:   0%|          | 0.00/385 [00:00&lt;?, ?B/s]
+</code></pre><p>为视觉语言模型（VLM）配置并加载 LoRA（Low-Rank Adaptation）微调参数</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">model = FastVisionModel.get_peft_model(</span><br><span class="line">    model,</span><br><span class="line">    finetune_vision_layers     = <span class="literal">True</span>, <span class="comment"># False if not finetuning vision layers</span></span><br><span class="line">    finetune_language_layers   = <span class="literal">True</span>, <span class="comment"># False if not finetuning language layers</span></span><br><span class="line">    finetune_attention_modules = <span class="literal">True</span>, <span class="comment"># False if not finetuning attention layers</span></span><br><span class="line">    finetune_mlp_modules       = <span class="literal">True</span>, <span class="comment"># False if not finetuning MLP layers</span></span><br><span class="line"></span><br><span class="line">    r = <span class="number">16</span>,           <span class="comment"># The larger, the higher the accuracy, but might overfit</span></span><br><span class="line">    lora_alpha = <span class="number">16</span>,  <span class="comment"># Recommended alpha == r at least</span></span><br><span class="line">    lora_dropout = <span class="number">0</span>,</span><br><span class="line">    bias = <span class="string">&quot;none&quot;</span>,</span><br><span class="line">    random_state = <span class="number">3407</span>,</span><br><span class="line">    use_rslora = <span class="literal">False</span>,  <span class="comment"># We support rank stabilized LoRA</span></span><br><span class="line">    loftq_config = <span class="literal">None</span>, <span class="comment"># And LoftQ</span></span><br><span class="line">    <span class="comment"># target_modules = &quot;all-linear&quot;, # Optional now! Can specify a list if needed</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure><pre><code>Unsloth: Making `model.base_model.model.model.visual` require gradients
+</code></pre><h3 id="数据准备">数据准备</h3><p>用LaTeX数据集微调 VL 模型, 数据集: <a target="_blank" rel="noopener external nofollow noreferrer" href="https://huggingface.co/datasets/unsloth/LaTeX_OCR">unsloth/LaTeX_OCR</a></p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> datasets <span class="keyword">import</span> load_dataset</span><br><span class="line">dataset = load_dataset(<span class="string">&quot;unsloth/LaTeX_OCR&quot;</span>, split = <span class="string">&quot;train&quot;</span>)</span><br></pre></td></tr></table></figure><pre><code>README.md:   0%|          | 0.00/519 [00:00&lt;?, ?B/s]
+
+
+
+data/train-00000-of-00001.parquet:   0%|          | 0.00/344M [00:00&lt;?, ?B/s]
+
+
+
+data/test-00000-of-00001.parquet:   0%|          | 0.00/38.2M [00:00&lt;?, ?B/s]
+
+
+
+Generating train split:   0%|          | 0/68686 [00:00&lt;?, ? examples/s]
+
+
+
+Generating test split:   0%|          | 0/7632 [00:00&lt;?, ? examples/s]
+</code></pre><p>Let’s take an overview look at the dataset. We shall see what the 3rd image is, and what caption it had.</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dataset</span><br></pre></td></tr></table></figure><pre><code>Dataset(&#123;
+    features: ['image', 'text'],
+    num_rows: 68686
+&#125;)
+</code></pre><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dataset[<span class="number">2</span>][<span class="string">&quot;image&quot;</span>]</span><br></pre></td></tr></table></figure><p><img src="https://pan.weidows.tech/d/local/img/loading.svg" data-lazy-src="fine-tune_files/fine-tune_10_0.png" alt="png"></p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dataset[<span class="number">2</span>][<span class="string">&quot;text&quot;</span>]</span><br></pre></td></tr></table></figure><pre><code>'H ^ &#123; \\prime &#125; = \\beta N \\int d \\lambda \\biggl \\&#123; \\frac &#123; 1 &#125; &#123; 2 \\beta ^ &#123; 2 &#125; N ^ &#123; 2 &#125; &#125; \\partial _ &#123; \\lambda &#125; \\zeta ^ &#123; \\dagger &#125; \\partial _ &#123; \\lambda &#125; \\zeta + V ( \\lambda ) \\zeta ^ &#123; \\dagger &#125; \\zeta \\biggr \\&#125; \\ .'
+</code></pre><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> IPython.display <span class="keyword">import</span> display, Math, Latex</span><br><span class="line"></span><br><span class="line">latex = dataset[<span class="number">2</span>][<span class="string">&quot;text&quot;</span>]</span><br><span class="line">display(Math(latex))</span><br></pre></td></tr></table></figure><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mstyle scriptlevel="0" displaystyle="true"><msup><mi>H</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo>=</mo><mi>β</mi><mi>N</mi><mo>∫</mo><mi>d</mi><mi>λ</mi><mo fence="true" stretchy="true" minsize="2.4em" maxsize="2.4em">{</mo><mfrac><mn>1</mn><mrow><mn>2</mn><msup><mi>β</mi><mn>2</mn></msup><msup><mi>N</mi><mn>2</mn></msup></mrow></mfrac><msub><mi mathvariant="normal">∂</mi><mi>λ</mi></msub><msup><mi>ζ</mi><mo lspace="0em" rspace="0em">†</mo></msup><msub><mi mathvariant="normal">∂</mi><mi>λ</mi></msub><mi>ζ</mi><mo>+</mo><mi>V</mi><mo stretchy="false">(</mo><mi>λ</mi><mo stretchy="false">)</mo><msup><mi>ζ</mi><mo lspace="0em" rspace="0em">†</mo></msup><mi>ζ</mi><mo fence="true" stretchy="true" minsize="2.4em" maxsize="2.4em">}</mo><mtext> </mtext><mi mathvariant="normal">.</mi></mstyle></mrow><annotation encoding="application/x-tex">\displaystyle H ^ { \prime } = \beta N \int d \lambda \biggl \{ \frac { 1 } { 2 \beta ^ { 2 } N ^ { 2 } } \partial _ { \lambda } \zeta ^ { \dagger } \partial _ { \lambda } \zeta + V ( \lambda ) \zeta ^ { \dagger } \zeta \biggr \} \ .</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:.8019em"></span><span class="mord"><span class="mord mathnormal" style="margin-right:.08125em">H</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:.8019em"><span style="top:-3.113em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:.2778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:.2778em"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-.95em"></span><span class="mord mathnormal" style="margin-right:.10903em">βN</span><span class="mspace" style="margin-right:.1667em"></span><span class="mop op-symbol large-op" style="margin-right:.44445em;position:relative;top:-.0011em">∫</span><span class="mspace" style="margin-right:.1667em"></span><span class="mord mathnormal">d</span><span class="mord mathnormal">λ</span><span class="mopen"><span class="delimsizing size3">{</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em"><span style="top:-2.314em"><span class="pstrut" style="height:3em"></span><span class="mord"><span class="mord">2</span><span class="mord"><span class="mord mathnormal" style="margin-right:.05278em">β</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:.7401em"><span style="top:-2.989em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:.10903em">N</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:.7401em"><span style="top:-2.989em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em"><span class="pstrut" style="height:3em"></span><span class="frac-line" style="border-bottom-width:.04em"></span></span><span style="top:-3.677em"><span class="pstrut" style="height:3em"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:.8804em"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mord" style="margin-right:.05556em">∂</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:.3361em"><span style="top:-2.55em;margin-left:-.0556em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">λ</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:.15em"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:.07378em">ζ</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:.8991em"><span style="top:-3.113em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">†</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord" style="margin-right:.05556em">∂</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:.3361em"><span style="top:-2.55em;margin-left:-.0556em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">λ</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:.15em"><span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:.07378em">ζ</span><span class="mspace" style="margin-right:.2222em"></span><span class="mbin">+</span><span class="mspace" style="margin-right:.2222em"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-.95em"></span><span class="mord mathnormal" style="margin-right:.22222em">V</span><span class="mopen">(</span><span class="mord mathnormal">λ</span><span class="mclose">)</span><span class="mord"><span class="mord mathnormal" style="margin-right:.07378em">ζ</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:.8991em"><span style="top:-3.113em;margin-right:.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">†</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:.07378em">ζ</span><span class="mclose"><span class="delimsizing size3">}</span></span><span class="mspace"> </span><span class="mord">.</span></span></span></span></p><p>数据集需要按照结构构造问答对</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">[</span><br><span class="line">&#123; <span class="string">&quot;role&quot;</span>: <span class="string">&quot;user&quot;</span>,</span><br><span class="line">  <span class="string">&quot;content&quot;</span>: [&#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;text&quot;</span>,  <span class="string">&quot;text&quot;</span>: Q&#125;, &#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;image&quot;</span>, <span class="string">&quot;image&quot;</span>: image&#125; ]</span><br><span class="line">&#125;,</span><br><span class="line">&#123; <span class="string">&quot;role&quot;</span>: <span class="string">&quot;assistant&quot;</span>,</span><br><span class="line">  <span class="string">&quot;content&quot;</span>: [&#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;text&quot;</span>,  <span class="string">&quot;text&quot;</span>: A&#125; ]</span><br><span class="line">&#125;,</span><br><span class="line">]</span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> time</span><br><span class="line"></span><br><span class="line">instruction = <span class="string">&quot;Write the LaTeX representation for this image.&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">convert_to_conversation</span>(<span class="params">sample</span>):</span><br><span class="line">    conversation = [</span><br><span class="line">        &#123; <span class="string">&quot;role&quot;</span>: <span class="string">&quot;user&quot;</span>,</span><br><span class="line">          <span class="string">&quot;content&quot;</span> : [</span><br><span class="line">            &#123;<span class="string">&quot;type&quot;</span> : <span class="string">&quot;text&quot;</span>,  <span class="string">&quot;text&quot;</span>  : instruction&#125;,</span><br><span class="line">            &#123;<span class="string">&quot;type&quot;</span> : <span class="string">&quot;image&quot;</span>, <span class="string">&quot;image&quot;</span> : sample[<span class="string">&quot;image&quot;</span>]&#125; ]</span><br><span class="line">        &#125;,</span><br><span class="line">        &#123; <span class="string">&quot;role&quot;</span> : <span class="string">&quot;assistant&quot;</span>,</span><br><span class="line">          <span class="string">&quot;content&quot;</span> : [</span><br><span class="line">            &#123;<span class="string">&quot;type&quot;</span> : <span class="string">&quot;text&quot;</span>,  <span class="string">&quot;text&quot;</span>  : sample[<span class="string">&quot;text&quot;</span>]&#125; ]</span><br><span class="line">        &#125;,</span><br><span class="line">    ]</span><br><span class="line">    <span class="keyword">return</span> &#123; <span class="string">&quot;messages&quot;</span> : conversation &#125;</span><br><span class="line"></span><br><span class="line">total = <span class="built_in">len</span>(dataset)</span><br><span class="line">converted_dataset = []</span><br><span class="line">start_time = time.time()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;🚀 开始转换数据集, 总计: <span class="subst">&#123;total&#125;</span> 条&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i, sample <span class="keyword">in</span> <span class="built_in">enumerate</span>(dataset):</span><br><span class="line">    converted_dataset.append(convert_to_conversation(sample))</span><br><span class="line"></span><br><span class="line">    <span class="comment"># 每完成 10% 打印一次日志</span></span><br><span class="line">    <span class="keyword">if</span> (i + <span class="number">1</span>) % (total // <span class="number">10</span>) == <span class="number">0</span> <span class="keyword">or</span> (i + <span class="number">1</span>) == total:</span><br><span class="line">        percent = (i + <span class="number">1</span>) / total * <span class="number">100</span></span><br><span class="line">        elapsed = time.time() - start_time</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">f&quot;✅ 已完成: <span class="subst">&#123;percent:&gt;<span class="number">3.0</span>f&#125;</span>% | 进度: <span class="subst">&#123;i+<span class="number">1</span>&#125;</span>/<span class="subst">&#123;total&#125;</span> | 耗时: <span class="subst">&#123;elapsed:<span class="number">.1</span>f&#125;</span>s&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;✨ 数据集转换完成！&quot;</span>)</span><br></pre></td></tr></table></figure><pre><code>🚀 开始转换数据集, 总计: 68686 条
+✅ 已完成:  10% | 进度: 6868/68686 | 耗时: 2.0s
+✅ 已完成:  20% | 进度: 13736/68686 | 耗时: 4.1s
+✅ 已完成:  30% | 进度: 20604/68686 | 耗时: 6.9s
+✅ 已完成:  40% | 进度: 27472/68686 | 耗时: 9.3s
+✅ 已完成:  50% | 进度: 34340/68686 | 耗时: 11.8s
+✅ 已完成:  60% | 进度: 41208/68686 | 耗时: 13.8s
+✅ 已完成:  70% | 进度: 48076/68686 | 耗时: 16.6s
+✅ 已完成:  80% | 进度: 54944/68686 | 耗时: 18.8s
+✅ 已完成:  90% | 进度: 61812/68686 | 耗时: 21.1s
+✅ 已完成: 100% | 进度: 68680/68686 | 耗时: 24.1s
+✅ 已完成: 100% | 进度: 68686/68686 | 耗时: 24.1s
+✨ 数据集转换完成！
+</code></pre><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">converted_dataset[<span class="number">2</span>]</span><br></pre></td></tr></table></figure><pre><code>&#123;'messages': [&#123;'role': 'user',
+   'content': [&#123;'type': 'text',
+     'text': 'Write the LaTeX representation for this image.'&#125;,
+    &#123;'type': 'image',
+     'image': &lt;PIL.PngImagePlugin.PngImageFile image mode=RGB size=320x50&gt;&#125;]&#125;,
+  &#123;'role': 'assistant',
+   'content': [&#123;'type': 'text',
+     'text': 'H ^ &#123; \\prime &#125; = \\beta N \\int d \\lambda \\biggl \\&#123; \\frac &#123; 1 &#125; &#123; 2 \\beta ^ &#123; 2 &#125; N ^ &#123; 2 &#125; &#125; \\partial _ &#123; \\lambda &#125; \\zeta ^ &#123; \\dagger &#125; \\partial _ &#123; \\lambda &#125; \\zeta + V ( \\lambda ) \\zeta ^ &#123; \\dagger &#125; \\zeta \\biggr \\&#125; \\ .'&#125;]&#125;]&#125;
+</code></pre><p>微调前测试</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">FastVisionModel.for_inference(model) <span class="comment"># Enable for inference!</span></span><br><span class="line"></span><br><span class="line">image = dataset[<span class="number">2</span>][<span class="string">&quot;image&quot;</span>]</span><br><span class="line">instruction = <span class="string">&quot;Write the LaTeX representation for this image.&quot;</span></span><br><span class="line"></span><br><span class="line">messages = [</span><br><span class="line">    &#123;<span class="string">&quot;role&quot;</span>: <span class="string">&quot;user&quot;</span>, <span class="string">&quot;content&quot;</span>: [</span><br><span class="line">        &#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;image&quot;</span>&#125;,</span><br><span class="line">        &#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;text&quot;</span>, <span class="string">&quot;text&quot;</span>: instruction&#125;</span><br><span class="line">    ]&#125;</span><br><span class="line">]</span><br><span class="line">input_text = tokenizer.apply_chat_template(messages, add_generation_prompt = <span class="literal">True</span>)</span><br><span class="line">inputs = tokenizer(</span><br><span class="line">    image,</span><br><span class="line">    input_text,</span><br><span class="line">    add_special_tokens = <span class="literal">False</span>,</span><br><span class="line">    return_tensors = <span class="string">&quot;pt&quot;</span>,</span><br><span class="line">).to(<span class="string">&quot;cuda&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> transformers <span class="keyword">import</span> TextStreamer</span><br><span class="line">text_streamer = TextStreamer(tokenizer, skip_prompt = <span class="literal">True</span>)</span><br><span class="line">_ = model.generate(**inputs, streamer = text_streamer, max_new_tokens = <span class="number">128</span>,</span><br><span class="line">                   use_cache = <span class="literal">True</span>, temperature = <span class="number">1.5</span>, min_p = <span class="number">0.1</span>)</span><br></pre></td></tr></table></figure><pre><code> $$H ^ &#123; \prime &#125; = \beta N \int d \lambda \Bigl \&#123; \frac &#123; 1 &#125; &#123; 2 \beta ^ &#123; 2 &#125; N ^ &#123; 2 &#125; &#125; \partial _ &#123; \lambda &#125; \zeta ^ &#123; \dagger &#125; \partial _ &#123; \lambda &#125; \zeta + V ( \lambda ) \zeta ^ &#123; \dagger &#125; \zeta \Bigr \&#125; \; .$$&lt;|im_end|&gt;
+&lt;|endoftext|&gt;
+</code></pre><p><a name="Train"></a></p><h3 id="Train-the-model">Train the model</h3><p>Now let’s train our model. We do 60 steps to speed things up, but you can set <code>num_train_epochs=1</code> for a full run, and turn off <code>max_steps=None</code>. We also support <code>DPOTrainer</code> and <code>GRPOTrainer</code> for reinforcement learning!</p><p>We use our new <code>UnslothVisionDataCollator</code> which will help in our vision finetuning setup.</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> unsloth.trainer <span class="keyword">import</span> UnslothVisionDataCollator</span><br><span class="line"><span class="keyword">from</span> trl <span class="keyword">import</span> SFTTrainer, SFTConfig</span><br><span class="line"></span><br><span class="line">FastVisionModel.for_training(model) <span class="comment"># Enable for training!</span></span><br><span class="line"></span><br><span class="line">trainer = SFTTrainer(</span><br><span class="line">    model = model,</span><br><span class="line">    tokenizer = tokenizer,</span><br><span class="line">    data_collator = UnslothVisionDataCollator(model, tokenizer), <span class="comment"># Must use!</span></span><br><span class="line">    train_dataset = converted_dataset,</span><br><span class="line">    args = SFTConfig(</span><br><span class="line">        per_device_train_batch_size = <span class="number">2</span>,</span><br><span class="line">        gradient_accumulation_steps = <span class="number">4</span>,</span><br><span class="line">        warmup_steps = <span class="number">5</span>,</span><br><span class="line">        max_steps = <span class="number">30</span>,</span><br><span class="line">        <span class="comment"># num_train_epochs = 1, # Set this instead of max_steps for full training runs</span></span><br><span class="line">        learning_rate = <span class="number">2e-4</span>,</span><br><span class="line">        logging_steps = <span class="number">1</span>,</span><br><span class="line">        optim = <span class="string">&quot;adamw_8bit&quot;</span>,</span><br><span class="line">        weight_decay = <span class="number">0.001</span>,</span><br><span class="line">        lr_scheduler_type = <span class="string">&quot;linear&quot;</span>,</span><br><span class="line">        seed = <span class="number">3407</span>,</span><br><span class="line">        output_dir = <span class="string">&quot;outputs&quot;</span>,</span><br><span class="line">        report_to = <span class="string">&quot;none&quot;</span>,     <span class="comment"># For Weights and Biases</span></span><br><span class="line"></span><br><span class="line">        <span class="comment"># You MUST put the below items for vision finetuning:</span></span><br><span class="line">        remove_unused_columns = <span class="literal">False</span>,</span><br><span class="line">        dataset_text_field = <span class="string">&quot;&quot;</span>,</span><br><span class="line">        dataset_kwargs = &#123;<span class="string">&quot;skip_prepare_dataset&quot;</span>: <span class="literal">True</span>&#125;,</span><br><span class="line">        max_length = <span class="number">2048</span>,</span><br><span class="line">    ),</span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># @title Show current memory stats</span></span><br><span class="line">gpu_stats = torch.cuda.get_device_properties(<span class="number">0</span>)</span><br><span class="line">start_gpu_memory = <span class="built_in">round</span>(torch.cuda.max_memory_reserved() / <span class="number">1024</span> / <span class="number">1024</span> / <span class="number">1024</span>, <span class="number">3</span>)</span><br><span class="line">max_memory = <span class="built_in">round</span>(gpu_stats.total_memory / <span class="number">1024</span> / <span class="number">1024</span> / <span class="number">1024</span>, <span class="number">3</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;GPU = <span class="subst">&#123;gpu_stats.name&#125;</span>. Max memory = <span class="subst">&#123;max_memory&#125;</span> GB.&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;<span class="subst">&#123;start_gpu_memory&#125;</span> GB of memory reserved.&quot;</span>)</span><br></pre></td></tr></table></figure><pre><code>Unsloth: Model does not have a default image size - using 512
+Unsloth: Switching to float32 training since model cannot work with float16
+GPU = Tesla T4. Max memory = 14.563 GB.
+9.68 GB of memory reserved.
+</code></pre><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">trainer_stats = trainer.train()</span><br></pre></td></tr></table></figure><pre><code>The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: &#123;'eos_token_id': 248046&#125;.
+==((====))==  Unsloth - 2x faster free finetuning | Num GPUs used = 1
+   \\   /|    Num examples = 68,686 | Num Epochs = 1 | Total steps = 30
+O^O/ \_/ \    Batch size per device = 2 | Gradient accumulation steps = 4
+\        /    Data Parallel GPUs = 1 | Total batch size (2 x 4 x 1) = 8
+ &quot;-____-&quot;     Trainable parameters = 38,756,352 of 4,578,021,888 (0.85% trained)
+
+
+Unsloth: Will smartly offload gradients to save VRAM!
+
+
+
+
+&lt;div&gt;
+
+  &lt;progress value='30' max='30' style='width:300px; height:20px; vertical-align: middle;'&gt;&lt;/progress&gt;
+  [30/30 05:33, Epoch 0/1]
+&lt;/div&gt;
+&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
+</code></pre><thead><tr style="text-align:left"><th>Step</th><th>Training Loss</th></tr></thead><tbody><tr><td>1</td><td>0.699990</td></tr><tr><td>2</td><td>0.861260</td></tr><tr><td>3</td><td>0.662023</td></tr><tr><td>4</td><td>0.451824</td></tr><tr><td>5</td><td>0.364678</td></tr><tr><td>6</td><td>0.347653</td></tr><tr><td>7</td><td>0.242224</td></tr><tr><td>8</td><td>0.133970</td></tr><tr><td>9</td><td>0.087778</td></tr><tr><td>10</td><td>0.092887</td></tr><tr><td>11</td><td>0.052814</td></tr><tr><td>12</td><td>0.073216</td></tr><tr><td>13</td><td>0.065354</td></tr><tr><td>14</td><td>0.026245</td></tr><tr><td>15</td><td>0.037974</td></tr><tr><td>16</td><td>0.035780</td></tr><tr><td>17</td><td>0.047666</td></tr><tr><td>18</td><td>0.035650</td></tr><tr><td>19</td><td>0.038626</td></tr><tr><td>20</td><td>0.059324</td></tr><tr><td>21</td><td>0.035856</td></tr><tr><td>22</td><td>0.037750</td></tr><tr><td>23</td><td>0.022070</td></tr><tr><td>24</td><td>0.032624</td></tr><tr><td>25</td><td>0.077887</td></tr><tr><td>26</td><td>0.059872</td></tr><tr><td>27</td><td>0.043020</td></tr><tr><td>28</td><td>0.183679</td></tr><tr><td>29</td><td>0.044639</td></tr><tr><td>30</td><td>0.078759</td></tr></tbody><p></p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># @title Show final memory and time stats</span></span><br><span class="line">used_memory = <span class="built_in">round</span>(torch.cuda.max_memory_reserved() / <span class="number">1024</span> / <span class="number">1024</span> / <span class="number">1024</span>, <span class="number">3</span>)</span><br><span class="line">used_memory_for_lora = <span class="built_in">round</span>(used_memory - start_gpu_memory, <span class="number">3</span>)</span><br><span class="line">used_percentage = <span class="built_in">round</span>(used_memory / max_memory * <span class="number">100</span>, <span class="number">3</span>)</span><br><span class="line">lora_percentage = <span class="built_in">round</span>(used_memory_for_lora / max_memory * <span class="number">100</span>, <span class="number">3</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;<span class="subst">&#123;trainer_stats.metrics[<span class="string">&#x27;train_runtime&#x27;</span>]&#125;</span> seconds used for training.&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(</span><br><span class="line">    <span class="string">f&quot;<span class="subst">&#123;<span class="built_in">round</span>(trainer_stats.metrics[<span class="string">&#x27;train_runtime&#x27;</span>]/<span class="number">60</span>, <span class="number">2</span>)&#125;</span> minutes used for training.&quot;</span></span><br><span class="line">)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;Peak reserved memory = <span class="subst">&#123;used_memory&#125;</span> GB.&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;Peak reserved memory for training = <span class="subst">&#123;used_memory_for_lora&#125;</span> GB.&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;Peak reserved memory % of max memory = <span class="subst">&#123;used_percentage&#125;</span> %.&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;Peak reserved memory for training % of max memory = <span class="subst">&#123;lora_percentage&#125;</span> %.&quot;</span>)</span><br></pre></td></tr></table></figure><pre><code>412.4279 seconds used for training.
+6.87 minutes used for training.
+Peak reserved memory = 9.922 GB.
+Peak reserved memory for training = 0.242 GB.
+Peak reserved memory % of max memory = 68.132 %.
+Peak reserved memory for training % of max memory = 1.662 %.
+</code></pre><p><a name="Inference"></a></p><h3 id="Inference">Inference</h3><p>Let’s run the model! You can change the instruction and input - leave the output blank!</p><p>We use <code>min_p = 0.1</code> and <code>temperature = 1.5</code>. Read this <a target="_blank" rel="noopener external nofollow noreferrer" href="https://x.com/menhguin/status/1826132708508213629">Tweet</a> for more information on why.</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">FastVisionModel.for_inference(model) <span class="comment"># Enable for inference!</span></span><br><span class="line"></span><br><span class="line">image = dataset[<span class="number">2</span>][<span class="string">&quot;image&quot;</span>]</span><br><span class="line">instruction = <span class="string">&quot;Write the LaTeX representation for this image.&quot;</span></span><br><span class="line"></span><br><span class="line">messages = [</span><br><span class="line">    &#123;<span class="string">&quot;role&quot;</span>: <span class="string">&quot;user&quot;</span>, <span class="string">&quot;content&quot;</span>: [</span><br><span class="line">        &#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;image&quot;</span>&#125;,</span><br><span class="line">        &#123;<span class="string">&quot;type&quot;</span>: <span class="string">&quot;text&quot;</span>, <span class="string">&quot;text&quot;</span>: instruction&#125;</span><br><span class="line">    ]&#125;</span><br><span class="line">]</span><br><span class="line">input_text = tokenizer.apply_chat_template(messages, add_generation_prompt = <span class="literal">True</span>)</span><br><span class="line">inputs = tokenizer(</span><br><span class="line">    image,</span><br><span class="line">    input_text,</span><br><span class="line">    add_special_tokens = <span class="literal">False</span>,</span><br><span class="line">    return_tensors = <span class="string">&quot;pt&quot;</span>,</span><br><span class="line">).to(<span class="string">&quot;cuda&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> transformers <span class="keyword">import</span> TextStreamer</span><br><span class="line">text_streamer = TextStreamer(tokenizer, skip_prompt = <span class="literal">True</span>)</span><br><span class="line">_ = model.generate(**inputs, streamer = text_streamer, max_new_tokens = <span class="number">128</span>,</span><br><span class="line">                   use_cache = <span class="literal">True</span>, temperature = <span class="number">1.5</span>, min_p = <span class="number">0.1</span>)</span><br></pre></td></tr></table></figure><pre><code>H ^ &#123; \prime &#125; = \beta N \int d \lambda \biggl \&#123; \frac &#123; 1 &#125; &#123; 2 \beta ^ &#123; 2 &#125; N ^ &#123; 2 &#125; &#125; \partial _ &#123; \lambda &#125; \zeta ^ &#123; \dagger &#125; \partial _ &#123; \lambda &#125; \zeta + V ( \lambda ) \zeta ^ &#123; \dagger &#125; \zeta \biggr \&#125; \ .&lt;|im_end|&gt;
+</code></pre><p><a name="Save"></a></p><h3 id="Saving-loading-finetuned-models">Saving, loading finetuned models</h3><p>To save the final model as LoRA adapters, either use Hugging Face’s <code>push_to_hub</code> for an online save or <code>save_pretrained</code> for a local save.</p><p><strong>[NOTE]</strong> This ONLY saves the LoRA adapters, and not the full model. To save to 16bit or GGUF, scroll down!</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">YOUR_HF_TOKEN = <span class="string">&quot;&quot;</span></span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">model.save_pretrained(<span class="string">&quot;qwen3.5_4B_lora_latex&quot;</span>)  <span class="comment"># Local saving</span></span><br><span class="line">tokenizer.save_pretrained(<span class="string">&quot;qwen3.5_4B_lora_latex&quot;</span>)</span><br><span class="line">model.push_to_hub(<span class="string">&quot;Weidows/qwen3.5_4B_lora_latex&quot;</span>, token = YOUR_HF_TOKEN) <span class="comment"># Online saving</span></span><br><span class="line">tokenizer.push_to_hub(<span class="string">&quot;Weidows/qwen3.5_4B_lora_latex&quot;</span>, token = YOUR_HF_TOKEN) <span class="comment"># Online saving</span></span><br></pre></td></tr></table></figure><pre><code>README.md:   0%|          | 0.00/529 [00:00&lt;?, ?B/s]
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...adapter_model.safetensors:   0%|          | 52.7kB /  155MB
+
+
+Saved model to https://huggingface.co/Weidows/qwen3.5_4B_lora_latex
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...mpof4d0ctj/tokenizer.json:  60%|#####9    | 12.0MB / 20.0MB
+</code></pre><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> torch</span><br><span class="line"><span class="keyword">import</span> gc</span><br><span class="line"></span><br><span class="line"><span class="comment"># 1. 显式删除模型和推理/训练器</span></span><br><span class="line"><span class="keyword">try</span>:</span><br><span class="line">    <span class="keyword">del</span> model</span><br><span class="line">    <span class="keyword">del</span> tokenizer</span><br><span class="line">    <span class="keyword">del</span> trainer <span class="comment"># 如果你定义了训练器，必须删掉它</span></span><br><span class="line"><span class="keyword">except</span> NameError:</span><br><span class="line">    <span class="keyword">pass</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 2. 强制垃圾回收</span></span><br><span class="line">gc.collect()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 3. 清空 CUDA 缓存</span></span><br><span class="line">torch.cuda.empty_cache()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 4. 特别针对 Unsloth：重置峰值监控（有时能触发系统级回收）</span></span><br><span class="line">torch.cuda.reset_peak_memory_stats()</span><br><span class="line"><span class="comment"># torch.cuda.reset_accumulated_stats() # Removed this line as it caused an AttributeError</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;清理后逻辑占用: <span class="subst">&#123;torch.cuda.memory_allocated() / <span class="number">1024</span>**<span class="number">2</span>:<span class="number">.2</span>f&#125;</span> MB&quot;</span>)</span><br></pre></td></tr></table></figure><pre><code>清理后逻辑占用: 0.00 MB
+</code></pre><p>现在，我们将从本地保存的路径加载微调后的模型和 tokenizer。</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> unsloth <span class="keyword">import</span> FastVisionModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 从本地路径加载微调后的模型</span></span><br><span class="line">model, tokenizer = FastVisionModel.from_pretrained(</span><br><span class="line">    model_name = <span class="string">&quot;qwen3.5_4B_lora_latex&quot;</span>, <span class="comment"># 本地保存的模型路径</span></span><br><span class="line">    load_in_4bit = <span class="literal">True</span>, <span class="comment"># 根据需要选择加载方式，这里使用4bit加载</span></span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置模型为推理模式</span></span><br><span class="line">FastVisionModel.for_inference(model)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;微调模型已成功加载并设置为推理模式。&quot;</span>)</span><br></pre></td></tr></table></figure><pre><code>🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+==((====))==  Unsloth 2026.3.5: Fast Qwen3_5 patching. Transformers: 5.3.0.
+   \\   /|    Tesla T4. Num GPUs = 1. Max memory: 14.563 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.10.0+cu128. CUDA: 7.5. CUDA Toolkit: 12.8. Triton: 3.6.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.34. FA2 = False]
+ &quot;-____-&quot;     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Unsloth: Using float16 precision for qwen3_5 won't work! Using float32.
+
+
+The fast path is not available because one of the required library is not installed. Falling back to torch implementation. To install follow https://github.com/fla-org/flash-linear-attention#installation and https://github.com/Dao-AILab/causal-conv1d
+
+
+
+Loading weights:   0%|          | 0/723 [00:00&lt;?, ?it/s]
+
+
+微调模型已成功加载并设置为推理模式。
+</code></pre><h3 id="Saving-to-float16-for-VLLM">Saving to float16 for VLLM</h3><p>We also support saving to <code>float16</code> directly. Select <code>merged_16bit</code> for float16. Use <code>push_to_hub_merged</code> to upload to your Hugging Face account! You can go to <a target="_blank" rel="noopener external nofollow noreferrer" href="https://huggingface.co/settings/tokens">https://huggingface.co/settings/tokens</a> for your personal tokens. See <a target="_blank" rel="noopener external nofollow noreferrer" href="https://unsloth.ai/docs/basics/inference-and-deployment">our docs</a> for more deployment options.</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Select ONLY 1 to save! (Both not needed!)</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Save locally to 16bit</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.save_pretrained_merged(<span class="string">&quot;Qwen3.5-4B-LaTeX&quot;</span>, tokenizer,)</span><br><span class="line"></span><br><span class="line"><span class="comment"># To export and save to your Hugging Face account</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.push_to_hub_merged(<span class="string">&quot;Weidows/Qwen3.5-4B-LaTeX&quot;</span>, tokenizer, token = YOUR_HF_TOKEN)</span><br></pre></td></tr></table></figure><pre><code>Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:  50%|█████     | 1/2 [01:20&lt;01:20, 80.41s/it][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`: 100%|██████████| 2/2 [02:21&lt;00:00, 70.88s/it]
+
+
+Successfully copied all 2 files from cache to `Qwen3.5-4B-LaTeX`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 14438.22it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [01:36&lt;01:36, 96.44s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [02:45&lt;00:00, 82.63s/it]
+
+
+Unsloth: Merge process complete. Saved to `/content/Qwen3.5-4B-LaTeX`
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...5-4B-LaTeX/tokenizer.json: 100%|##########| 20.0MB / 20.0MB
+
+
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `Weidows/Qwen3.5-4B-LaTeX`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `Weidows/Qwen3.5-4B-LaTeX`:  50%|█████     | 1/2 [01:01&lt;01:01, 61.75s/it][A
+Unsloth: Copying 2 files from cache to `Weidows/Qwen3.5-4B-LaTeX`: 100%|██████████| 2/2 [01:46&lt;00:00, 53.28s/it]
+
+
+Successfully copied all 2 files from cache to `Weidows/Qwen3.5-4B-LaTeX`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 17924.38it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...0001-of-00002.safetensors:   0%|          | 92.5kB / 5.33GB
+
+
+
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [02:40&lt;02:40, 160.85s/it][A
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...0002-of-00002.safetensors:   0%|          | 73.4kB / 3.99GB
+
+
+
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [04:55&lt;00:00, 147.86s/it]
+
+
+Unsloth: Merge process complete. Saved to `/content/Weidows/Qwen3.5-4B-LaTeX`
+</code></pre><h3 id="GGUF-llama-cpp-Conversion">GGUF / llama.cpp Conversion</h3><p>To save to <code>GGUF</code> / <code>llama.cpp</code>, we support it natively now! We clone <code>llama.cpp</code> and we default save it to <code>q8_0</code>. We allow all methods like <code>q4_k_m</code>. Use <code>save_pretrained_gguf</code> for local saving and <code>push_to_hub_gguf</code> for uploading to HF.</p><p>Some supported quant methods (full list on our <a target="_blank" rel="noopener external nofollow noreferrer" href="https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-gguf">docs page</a>):</p><ul><li><code>q8_0</code> - Fast conversion. High resource use, but generally acceptable.</li><li><code>q4_k_m</code> - Recommended. Uses Q6_K for half of the attention.wv and feed_forward.w2 tensors, else Q4_K.</li><li><code>q5_k_m</code> - Recommended. Uses Q6_K for half of the attention.wv and feed_forward.w2 tensors, else Q5_K.</li></ul><p>[<strong>NEW</strong>] To finetune and auto export to Ollama, try our <a target="_blank" rel="noopener external nofollow noreferrer" href="https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3_(8B)-Ollama.ipynb">Ollama notebook</a></p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Save to 8bit Q8_0</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.save_pretrained_gguf(<span class="string">&quot;Qwen3.5-4B-LaTeX&quot;</span>, tokenizer,)</span><br><span class="line"><span class="comment"># Remember to go to https://huggingface.co/settings/tokens for a token!</span></span><br><span class="line"><span class="comment"># And change hf to your username!</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.push_to_hub_gguf(<span class="string">&quot;Weidows/Qwen3.5-4B-LaTeX&quot;</span>, tokenizer, token = YOUR_HF_TOKEN)</span><br><span class="line"></span><br><span class="line"><span class="comment"># Save to 16bit GGUF</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.save_pretrained_gguf(<span class="string">&quot;Qwen3.5-4B-LaTeX&quot;</span>, tokenizer, quantization_method = <span class="string">&quot;f16&quot;</span>)</span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.push_to_hub_gguf(<span class="string">&quot;Weidows/Qwen3.5-4B-LaTeX&quot;</span>, tokenizer, quantization_method = <span class="string">&quot;f16&quot;</span>, token = YOUR_HF_TOKEN)</span><br><span class="line"></span><br><span class="line"><span class="comment"># Save to q4_k_m GGUF</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.save_pretrained_gguf(<span class="string">&quot;Qwen3.5-4B-LaTeX&quot;</span>, tokenizer, quantization_method = <span class="string">&quot;q4_k_m&quot;</span>)</span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>: model.push_to_hub_gguf(<span class="string">&quot;Weidows/Qwen3.5-4B-LaTeX&quot;</span>, tokenizer, quantization_method = <span class="string">&quot;q4_k_m&quot;</span>, token = YOUR_HF_TOKEN)</span><br><span class="line"></span><br><span class="line"><span class="comment"># Save to multiple GGUF options - much faster if you want multiple!</span></span><br><span class="line"><span class="keyword">if</span> <span class="literal">True</span>:</span><br><span class="line">    model.push_to_hub_gguf(</span><br><span class="line">        <span class="string">&quot;Weidows/Qwen3.5-4B-LaTeX&quot;</span>, <span class="comment"># Change hf to your username!</span></span><br><span class="line">        tokenizer,</span><br><span class="line">        quantization_method = [<span class="string">&quot;q4_k_m&quot;</span>, <span class="string">&quot;q8_0&quot;</span>, <span class="string">&quot;q5_k_m&quot;</span>,],</span><br><span class="line">        token = YOUR_HF_TOKEN,</span><br><span class="line">    )</span><br></pre></td></tr></table></figure><pre><code>Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:  50%|█████     | 1/2 [00:56&lt;00:56, 56.93s/it][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`: 100%|██████████| 2/2 [01:45&lt;00:00, 52.66s/it]
+
+
+Successfully copied all 2 files from cache to `Qwen3.5-4B-LaTeX`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 14873.42it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [01:09&lt;01:09, 69.14s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [01:58&lt;00:00, 59.14s/it]
+
+
+Unsloth: Merge process complete. Saved to `/content/Qwen3.5-4B-LaTeX`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['q8_0'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: Installing llama.cpp. This might take 3 minutes...
+Unsloth: Updating system package directories
+Unsloth: Cloning llama.cpp repository...
+Unsloth: Building llama.cpp - please wait 1 to 3 minutes
+Unsloth: Successfully installed llama.cpp!
+Unsloth: Preparing converter script...
+
+
+WARNING:unsloth_zoo.llama_cpp:Unsloth: Qwen2MoE num_experts patch target not found.
+
+
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16.gguf', 'Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: [2] Converting GGUF f16 into q8_0. This might take 10 minutes...
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.Q8_0.gguf', 'Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.Q8_0.gguf --mmproj Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Converting model to GGUF format...
+Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_8wilpvla`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_8wilpvla`:  50%|█████     | 1/2 [01:01&lt;01:01, 61.98s/it][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_8wilpvla`: 100%|██████████| 2/2 [01:40&lt;00:00, 50.27s/it]
+
+
+Successfully copied all 2 files from cache to `/tmp/unsloth_gguf_8wilpvla`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 15563.28it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [01:02&lt;01:02, 62.57s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [01:41&lt;00:00, 50.95s/it]
+
+
+Unsloth: Merge process complete. Saved to `/tmp/unsloth_gguf_8wilpvla`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['q8_0'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: llama.cpp found in the system. Skipping installation.
+Unsloth: Preparing converter script...
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['/tmp/unsloth_gguf_8wilpvla_gguf/Qwen3.5-4B.F16.gguf', '/tmp/unsloth_gguf_8wilpvla_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: [2] Converting GGUF f16 into q8_0. This might take 10 minutes...
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['/tmp/unsloth_gguf_8wilpvla_gguf/Qwen3.5-4B.Q8_0.gguf', '/tmp/unsloth_gguf_8wilpvla_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m /tmp/unsloth_gguf_8wilpvla_gguf/Qwen3.5-4B.Q8_0.gguf --mmproj /tmp/unsloth_gguf_8wilpvla_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Uploading GGUF to Huggingface Hub...
+Uploading Qwen3.5-4B.Q8_0.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...gguf/Qwen3.5-4B.Q8_0.gguf:   0%|          | 10.7MB / 4.48GB
+
+
+Uploading Qwen3.5-4B.F16-mmproj.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...wen3.5-4B.F16-mmproj.gguf:   1%|          | 3.67MB /  672MB
+
+
+Uploading config.json...
+
+
+No files have been modified since last commit. Skipping to prevent empty commit.
+WARNING:huggingface_hub.hf_api:No files have been modified since last commit. Skipping to prevent empty commit.
+
+
+Unsloth: Successfully uploaded GGUF to https://huggingface.co/Weidows/Qwen3.5-4B-LaTeX
+Unsloth: Cleaning up temporary files...
+Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:  50%|█████     | 1/2 [01:13&lt;01:13, 73.53s/it][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`: 100%|██████████| 2/2 [02:07&lt;00:00, 63.56s/it]
+
+
+Successfully copied all 2 files from cache to `Qwen3.5-4B-LaTeX`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 17015.43it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [02:00&lt;02:00, 120.62s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [02:59&lt;00:00, 89.98s/it]
+
+
+Unsloth: Merge process complete. Saved to `/content/Qwen3.5-4B-LaTeX`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['f16'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: llama.cpp found in the system. Skipping installation.
+Unsloth: Preparing converter script...
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16.gguf', 'Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16.gguf', 'Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16.gguf --mmproj Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Converting model to GGUF format...
+Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_cwymog7t`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_cwymog7t`:  50%|█████     | 1/2 [01:10&lt;01:10, 70.33s/it][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_cwymog7t`: 100%|██████████| 2/2 [02:10&lt;00:00, 65.00s/it]
+
+
+Successfully copied all 2 files from cache to `/tmp/unsloth_gguf_cwymog7t`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 16384.00it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [02:07&lt;02:07, 127.75s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [03:04&lt;00:00, 92.33s/it]
+
+
+Unsloth: Merge process complete. Saved to `/tmp/unsloth_gguf_cwymog7t`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['f16'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: llama.cpp found in the system. Skipping installation.
+Unsloth: Preparing converter script...
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['/tmp/unsloth_gguf_cwymog7t_gguf/Qwen3.5-4B.F16.gguf', '/tmp/unsloth_gguf_cwymog7t_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['/tmp/unsloth_gguf_cwymog7t_gguf/Qwen3.5-4B.F16.gguf', '/tmp/unsloth_gguf_cwymog7t_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m /tmp/unsloth_gguf_cwymog7t_gguf/Qwen3.5-4B.F16.gguf --mmproj /tmp/unsloth_gguf_cwymog7t_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Uploading GGUF to Huggingface Hub...
+Uploading Qwen3.5-4B.F16.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ..._gguf/Qwen3.5-4B.F16.gguf:   0%|          | 10.7MB / 8.42GB
+
+
+Uploading Qwen3.5-4B.F16-mmproj.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...wen3.5-4B.F16-mmproj.gguf:   5%|4         | 31.9MB /  672MB
+
+
+Uploading config.json...
+
+
+No files have been modified since last commit. Skipping to prevent empty commit.
+WARNING:huggingface_hub.hf_api:No files have been modified since last commit. Skipping to prevent empty commit.
+
+
+Unsloth: Successfully uploaded GGUF to https://huggingface.co/Weidows/Qwen3.5-4B-LaTeX
+Unsloth: Cleaning up temporary files...
+Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`:  50%|█████     | 1/2 [00:54&lt;00:54, 54.24s/it][A
+Unsloth: Copying 2 files from cache to `Qwen3.5-4B-LaTeX`: 100%|██████████| 2/2 [01:37&lt;00:00, 48.61s/it]
+
+
+Successfully copied all 2 files from cache to `Qwen3.5-4B-LaTeX`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 17734.90it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [00:56&lt;00:56, 56.87s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [01:44&lt;00:00, 52.25s/it]
+
+
+Unsloth: Merge process complete. Saved to `/content/Qwen3.5-4B-LaTeX`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['q4_k_m'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: llama.cpp found in the system. Skipping installation.
+Unsloth: Preparing converter script...
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16.gguf', 'Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: [2] Converting GGUF f16 into q4_k_m. This might take 10 minutes...
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.Q4_K_M.gguf', 'Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.Q4_K_M.gguf --mmproj Qwen3.5-4B-LaTeX_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Converting model to GGUF format...
+Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_0t1qmj62`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_0t1qmj62`:  50%|█████     | 1/2 [00:58&lt;00:58, 58.85s/it][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_0t1qmj62`: 100%|██████████| 2/2 [01:43&lt;00:00, 51.83s/it]
+
+
+Successfully copied all 2 files from cache to `/tmp/unsloth_gguf_0t1qmj62`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 17439.93it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [01:08&lt;01:08, 68.45s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [01:54&lt;00:00, 57.28s/it]
+
+
+Unsloth: Merge process complete. Saved to `/tmp/unsloth_gguf_0t1qmj62`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['q4_k_m'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: llama.cpp found in the system. Skipping installation.
+Unsloth: Preparing converter script...
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['/tmp/unsloth_gguf_0t1qmj62_gguf/Qwen3.5-4B.F16.gguf', '/tmp/unsloth_gguf_0t1qmj62_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: [2] Converting GGUF f16 into q4_k_m. This might take 10 minutes...
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['/tmp/unsloth_gguf_0t1qmj62_gguf/Qwen3.5-4B.Q4_K_M.gguf', '/tmp/unsloth_gguf_0t1qmj62_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m /tmp/unsloth_gguf_0t1qmj62_gguf/Qwen3.5-4B.Q4_K_M.gguf --mmproj /tmp/unsloth_gguf_0t1qmj62_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Uploading GGUF to Huggingface Hub...
+Uploading Qwen3.5-4B.Q4_K_M.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...uf/Qwen3.5-4B.Q4_K_M.gguf:   0%|          | 10.7MB / 2.71GB
+
+
+Uploading Qwen3.5-4B.F16-mmproj.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...wen3.5-4B.F16-mmproj.gguf:   6%|5         | 39.9MB /  672MB
+
+
+Uploading config.json...
+
+
+No files have been modified since last commit. Skipping to prevent empty commit.
+WARNING:huggingface_hub.hf_api:No files have been modified since last commit. Skipping to prevent empty commit.
+
+
+Unsloth: Successfully uploaded GGUF to https://huggingface.co/Weidows/Qwen3.5-4B-LaTeX
+Unsloth: Cleaning up temporary files...
+Unsloth: Converting model to GGUF format...
+Unsloth: Merging model weights to 16-bit format...
+Found HuggingFace hub cache directory: /root/.cache/huggingface/hub
+
+
+
+Downloading (incomplete total...): 0.00B [00:00, ?B/s]
+
+
+
+Fetching 1 files:   0%|          | 0/1 [00:00&lt;?, ?it/s]
+
+
+Checking cache directory for required files...
+
+
+
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_99z_hskz`:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_99z_hskz`:  50%|█████     | 1/2 [00:55&lt;00:55, 55.29s/it][A
+Unsloth: Copying 2 files from cache to `/tmp/unsloth_gguf_99z_hskz`: 100%|██████████| 2/2 [01:37&lt;00:00, 48.82s/it]
+
+
+Successfully copied all 2 files from cache to `/tmp/unsloth_gguf_99z_hskz`
+Checking cache directory for required files...
+Cache check failed: tokenizer.model not found in local cache.
+Not all required files found in cache. Will proceed with downloading.
+
+
+
+Unsloth: Preparing safetensor model files: 100%|██████████| 2/2 [00:00&lt;00:00, 15505.74it/s]
+
+Unsloth: Merging weights into 16bit:   0%|          | 0/2 [00:00&lt;?, ?it/s][A
+Unsloth: Merging weights into 16bit:  50%|█████     | 1/2 [01:09&lt;01:09, 69.91s/it][A
+Unsloth: Merging weights into 16bit: 100%|██████████| 2/2 [01:55&lt;00:00, 57.88s/it]
+
+
+Unsloth: Merge process complete. Saved to `/tmp/unsloth_gguf_99z_hskz`
+Unsloth: Converting to GGUF format...
+==((====))==  Unsloth: Conversion from HF to GGUF information
+   \\   /|    [0] Installing llama.cpp might take 3 minutes.
+O^O/ \_/ \    [1] Converting HF to GGUF f16 might take 3 minutes.
+\        /    [2] Converting GGUF f16 to ['q4_k_m', 'q8_0', 'q5_k_m'] might take 10 minutes each.
+ &quot;-____-&quot;     In total, you will have to wait at least 16 minutes.
+
+Unsloth: llama.cpp found in the system. Skipping installation.
+Unsloth: Preparing converter script...
+Unsloth: [1] Converting model into f16 GGUF format.
+This might take 3 minutes...
+Unsloth: Initial conversion completed! Files: ['/tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.F16.gguf', '/tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: [2] Converting GGUF f16 into q4_k_m. This might take 10 minutes...
+Unsloth: [2] Converting GGUF f16 into q8_0. This might take 10 minutes...
+Unsloth: [2] Converting GGUF f16 into q5_k_m. This might take 10 minutes...
+Unsloth: Model files cleanup...
+Unsloth: All GGUF conversions completed successfully!
+Generated files: ['/tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.Q5_K_M.gguf', '/tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.Q8_0.gguf', '/tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.Q4_K_M.gguf', '/tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.F16-mmproj.gguf']
+Unsloth: No Ollama template mapping found for model 'unsloth/Qwen3.5-4B'. Skipping Ollama Modelfile
+
+
+Unsloth: example usage for Multimodal LLMs: /root/.unsloth/llama.cpp/llama-mtmd-cli -m /tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.Q5_K_M.gguf --mmproj /tmp/unsloth_gguf_99z_hskz_gguf/Qwen3.5-4B.F16-mmproj.gguf
+Unsloth: load image inside llama.cpp runner: /image test_image.jpg
+Unsloth: Prompt model to describe the image
+Unsloth: Uploading GGUF to Huggingface Hub...
+Uploading Qwen3.5-4B.Q5_K_M.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...uf/Qwen3.5-4B.Q5_K_M.gguf:   1%|          | 23.6MB / 3.07GB
+
+
+Uploading Qwen3.5-4B.Q8_0.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...gguf/Qwen3.5-4B.Q8_0.gguf:   1%|          | 24.0MB / 4.48GB
+
+
+Uploading Qwen3.5-4B.Q4_K_M.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...uf/Qwen3.5-4B.Q4_K_M.gguf:   1%|          | 23.9MB / 2.71GB
+
+
+Uploading Qwen3.5-4B.F16-mmproj.gguf...
+
+
+
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B
+
+
+
+New Data Upload               : |          |  0.00B /  0.00B
+
+
+
+  ...wen3.5-4B.F16-mmproj.gguf:   7%|7         | 48.0MB /  672MB
+
+
+Uploading config.json...
+
+
+No files have been modified since last commit. Skipping to prevent empty commit.
+WARNING:huggingface_hub.hf_api:No files have been modified since last commit. Skipping to prevent empty commit.
+
+
+Unsloth: Successfully uploaded GGUF to https://huggingface.co/Weidows/Qwen3.5-4B-LaTeX
+Unsloth: Cleaning up temporary files...
+</code></pre><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css"></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a target="_blank" rel="noopener" href="https://weidows.github.io/">⎛⎝Weidows⎠⎞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://blog.weidows.tech/post/lang/python/AI/fine-tune/">https://blog.weidows.tech/post/lang/python/AI/fine-tune/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://blog.weidows.tech" target="_blank">⭐️齐下无贰⭐️</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/AI/">AI</a><a class="post-meta__tags" href="/tags/python/">python</a><a class="post-meta__tags" href="/tags/DL/">DL</a><a class="post-meta__tags" href="/tags/LoRA/">LoRA</a><a class="post-meta__tags" href="/tags/SFT/">SFT</a></div><div class="post_share"><div class="social-share" data-image="https://pan.weidows.tech/d/local/blog/4cb52f6233a8b568fe0d0587b22b8d00475710195.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://unpkg.com/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload='this.media="all"'><script src="https://unpkg.com/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMQ5xr.jpg" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNujq.jpg" alt="微信"></a><div class="post-qr-code-desc">微信</div></li><li class="reward-item"><a href="https://pan.weidows.tech/d/local/blog/ZMNj0c.jpg" rel="external nofollow noreferrer" target="_blank"><img class="post-qr-code-img" src="https://pan.weidows.tech/d/local/blog/ZMNrb5.jpg" alt="支付宝"></a><div class="post-qr-code-desc">支付宝</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="next-post pull-full"><a href="/post/lang/python/AI/neko-maid/" title="提示词方式调校性格-prompt-neko_maid"><img class="cover" src="https://pan.weidows.tech/d/local/blog/00a8bc44bd02a88de456f4840e8be14d14ee29fa.jpg" onerror='onerror=null,src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">提示词方式调校性格-prompt-neko_maid</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/post/tools/ai-tools/" title="😝Evaluation of ai-tools"><img class="cover" src="https://pan.weidows.tech/d/local/blog/oFOWZq.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-06</div><div class="title">😝Evaluation of ai-tools</div></div></a></div><div><a href="/post/lang/python/AI/application/" title="AI-application"><img class="cover" src="https://pan.weidows.tech/d/local/img/404.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2025-10-07</div><div class="title">AI-application</div></div></a></div><div><a href="/post/lang/python/AI/neko-maid/" title="提示词方式调校性格-prompt-neko_maid"><img class="cover" src="https://pan.weidows.tech/d/local/blog/00a8bc44bd02a88de456f4840e8be14d14ee29fa.jpg" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2026-02-09</div><div class="title">提示词方式调校性格-prompt-neko_maid</div></div></a></div><div><a href="/post/lang/python/%E6%9D%82/" title="😑python-mess-code"><img class="cover" src="https://pan.weidows.tech/d/local/blog/RHDLJD.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">😑python-mess-code</div></div></a></div><div><a href="/post/lang/python/AI/ML/" title="🥵硬啃-Machine-Learning"><img class="cover" src="https://pan.weidows.tech/d/local/blog/RHZuZ1.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">🥵硬啃-Machine-Learning</div></div></a></div><div><a href="/post/lang/python/code/DL/" title="👩‍❤️‍💋‍👨Code-4-Deep-Learning"><img class="cover" src="https://pan.weidows.tech/d/local/blog/RHe8xK.png" alt="cover"><div class="content is-center"><div class="date"><i class="fas fa-history fa-fw"></i> 2024-08-07</div><div class="title">👩‍❤️‍💋‍👨Code-4-Deep-Learning</div></div></a></div></div></div><hr class="custom-hr"><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="waline-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://pan.weidows.tech/d/local/img/avatar/avatar.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="avatar"></div><div class="author-info__name">⎛⎝Weidows⎠⎞</div><div class="author-info__description">May all the beauty be bless.✨</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">155</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">233</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">50</div></a></div><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/Weidows" rel="external nofollow noreferrer" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:utsuko27@qq.com" rel="external nofollow noreferrer" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQ1NC.jpg" rel="external nofollow noreferrer" target="_blank" title="QQ号"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://pan.weidows.tech/d/local/blog/ZMQRaK.jpg" rel="external nofollow noreferrer" target="_blank" title="微信号"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/38283369" rel="external nofollow noreferrer" target="_blank"><i class="fa-brands fa-bilibili"></i></a><a class="social-icon" href="/categories/rss" target="_blank" title="RSS"><i class="fa fa-rss-square"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><center><h2 style="color:#0ff">-> 欢迎,锟斤拷! <-</h2><h3 style="color:gray">低情商：代码一坨屎<br>高情商：兼容性极强</h3>欢迎加我QQ或群 942848525 <img src="https://moe.counter.weidows.tech/Weidows?theme=rule34" style="width:100%"></center></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96"><span class="toc-text">安装依赖</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%A8%A1%E5%9E%8B%E5%92%8C%E6%95%B0%E6%8D%AE%E9%9B%86"><span class="toc-text">模型和数据集</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Installation"><span class="toc-text">Installation</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Unsloth"><span class="toc-text">Unsloth</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%95%B0%E6%8D%AE%E5%87%86%E5%A4%87"><span class="toc-text">数据准备</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Train-the-model"><span class="toc-text">Train the model</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Inference"><span class="toc-text">Inference</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Saving-loading-finetuned-models"><span class="toc-text">Saving, loading finetuned models</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Saving-to-float16-for-VLLM"><span class="toc-text">Saving to float16 for VLLM</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#GGUF-llama-cpp-Conversion"><span class="toc-text">GGUF &#x2F; llama.cpp Conversion</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"><img src="https://pan.weidows.tech/d/local/blog/owlk10.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night"></a><div class="content"><a class="title" href="/post/system/Windows-Theme-HighContract-Tokyo-Night/README/" title="🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night">🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night</a><time datetime="2026-03-18T19:47:59.527Z" title="更新于 2026-03-19 03:47:59">2026-03-19</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/golang/wutils/README/" title="🎉Docs-wutils"><img src="https://pan.weidows.tech/d/local/blog/1d36e9d50555af6fca23e5fd36246cf5490809012.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🎉Docs-wutils"></a><div class="content"><a class="title" href="/post/lang/golang/wutils/README/" title="🎉Docs-wutils">🎉Docs-wutils</a><time datetime="2026-03-18T19:47:59.227Z" title="更新于 2026-03-19 03:47:59">2026-03-19</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/system/docker/" title="🌈初探Docker"><img src="https://pan.weidows.tech/d/local/blog/GVawKY.png" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="🌈初探Docker"></a><div class="content"><a class="title" href="/post/system/docker/" title="🌈初探Docker">🌈初探Docker</a><time datetime="2026-03-18T19:36:47.000Z" title="更新于 2026-03-19 03:36:47">2026-03-19</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/python/AI/fine-tune/" title="LoRA微调训练和量化"><img src="https://pan.weidows.tech/d/local/blog/4cb52f6233a8b568fe0d0587b22b8d00475710195.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="LoRA微调训练和量化"></a><div class="content"><a class="title" href="/post/lang/python/AI/fine-tune/" title="LoRA微调训练和量化">LoRA微调训练和量化</a><time datetime="2026-03-18T19:36:47.000Z" title="更新于 2026-03-19 03:36:47">2026-03-19</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/python/AI/llm/" title="大模型相关知识学习整理"><img src="https://pan.weidows.tech/d/local/img/404.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="大模型相关知识学习整理"></a><div class="content"><a class="title" href="/post/lang/python/AI/llm/" title="大模型相关知识学习整理">大模型相关知识学习整理</a><time datetime="2026-03-18T19:12:41.000Z" title="更新于 2026-03-19 03:12:41">2026-03-19</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/lang/python/AI/neko-maid/" title="提示词方式调校性格-prompt-neko_maid"><img src="https://pan.weidows.tech/d/local/blog/00a8bc44bd02a88de456f4840e8be14d14ee29fa.jpg" onerror='this.onerror=null,this.src="https://pan.weidows.tech/d/local/img/404.jpg"' alt="提示词方式调校性格-prompt-neko_maid"></a><div class="content"><a class="title" href="/post/lang/python/AI/neko-maid/" title="提示词方式调校性格-prompt-neko_maid">提示词方式调校性格-prompt-neko_maid</a><time datetime="2026-02-09T06:27:03.000Z" title="更新于 2026-02-09 14:27:03">2026-02-09</time></div></div></div></div></div></div></main><footer id="footer" style="background-image:url(https://pan.weidows.tech/d/local/blog/4cb52f6233a8b568fe0d0587b22b8d00475710195.jpg)"><div id="footer-wrap"><div class="copyright">&copy;2020 - ⎛⎝Weidows⎠⎞ - 2026</div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://hexo.io/" target="_blank" title="Power By Hexo" data-pjax-state=""><span class="badge-subject">Framework</span><span class="badge-value bg-blue">Hexo</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" title="主题" data-pjax-state=""><span class="badge-subject">Theme</span><span class="badge-value bg-blueviolet">Butterfly</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://github.com/Weidows/Weidows.github.io" target="_blank" title="静态网页托管" data-pjax-state=""><span class="badge-subject">Hosted</span><span class="badge-value bg-brightgreen">Vercel + GithubPage</span></a></div><div class="github-badge"><a style="color:#fff;vertical-align:middle" rel="external nofollow noopener noreferrer" href="https://wakatime.com/@bd43b19c-e71d-4edd-a297-cc2989d16939" target="_blank" title="Total time coded since Feb 6 2021"><img src="https://wakatime.com/badge/user/bd43b19c-e71d-4edd-a297-cc2989d16939.svg"></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://pan.weidows.tech" target="_blank" title="图床及 CDN 加速服务" data-pjax-state=""><span class="badge-subject">CDN</span><span class="badge-value bg-orange">Cloudflare</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可" data-pjax-state=""><span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-gradient">BY-NC-SA 4.0</span></a></div><div class="github-badge"><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://www.foreverblog.cn/blog/6104.html" target="_blank" title="一个人的寂寞，一群人的狂欢。" data-pjax-state=""><span class="badge-subject">十年之约</span></a><a style="color:#fff" rel="external nofollow noopener noreferrer" href="https://icp.gov.moe/?keyword=20244090" target="_blank" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" data-pjax-state=""><span class="badge-value bg-gradient-2">萌ICP备-20244090号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.9.0"></script><script src="/js/main.js?v=4.9.0"></script><script src="https://unpkg.com/@fancyapps/ui@5.0.19/dist/fancybox/fancybox.umd.js"></script><script src="https://unpkg.com/instant.page@5.2.0/instantpage.js" type="module"></script><script src="https://unpkg.com/vanilla-lazyload@17.8.3/dist/lazyload.iife.min.js"></script><div class="js-pjax"><script>(() => {
+  const $mermaid = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaid.length === 0) return
+  const runMermaid = () => {
+    window.loadMermaid = true
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'neutral' : 'default'
+
+    Array.from($mermaid).forEach((item, index) => {
+      const mermaidSrc = item.firstElementChild
+      const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+      const mermaidID = 'mermaid-' + index
+      const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+
+      const renderFn = mermaid.render(mermaidID, mermaidDefinition)
+
+      const renderV10 = () => {
+        renderFn.then(({svg}) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svg)
+        })
+      }
+
+      const renderV9 = svg => {
+        mermaidSrc.insertAdjacentHTML('afterend', svg)
+      }
+
+      typeof renderFn === 'string' ? renderV9(renderFn) : renderV10()
+    })
+  }
+
+  const loadMermaid = () => {
+    window.loadMermaid ? runMermaid() : getScript('https://unpkg.com/mermaid@10.2.2/dist/mermaid.min.js').then(runMermaid)
+  }
+
+  btf.addModeChange('mermaid', runMermaid)
+
+  window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+})()</script><script>function loadWaline () {
+  function initWaline () {
+    const waline = Waline.init(Object.assign({
+      el: '#waline-wrap',
+      serverURL: 'https://waline.weidows.tech',
+      pageview: false,
+      dark: 'html[data-theme="dark"]',
+      path: window.location.pathname,
+      comment: false,
+    }, {"emoji":["https://fastly.jsdelivr.net/gh/zhheo/Sticker-Heo@latest/Sticker-100/","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq","https://fastly.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba"]}))
+  }
+
+  if (typeof Waline === 'object') initWaline()
+  else {
+    getCSS('https://unpkg.com/@waline/client@2.15.5/dist/waline.css').then(() => {
+      getScript('https://unpkg.com/@waline/client@2.15.5/dist/waline.js').then(initWaline)
+    })
+  }
+}
+
+if ('Waline' === 'Waline' || !true) {
+  if (true) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  else setTimeout(loadWaline, 0)
+} else {
+  function loadOtherComment () {
+    loadWaline()
+  }
+}</script></div><canvas class="fireworks" mobile="false"></canvas><script src="https://unpkg.com/butterfly-extsrc@1.1.3/dist/fireworks.min.js"></script><script defer id="ribbon" src="https://unpkg.com/butterfly-extsrc@1.1.3/dist/canvas-ribbon.min.js" size="150" alpha="0.6" zindex="-1" mobile="true" data-click="true"></script><script src="https://unpkg.com/pjax@0.2.8/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: true,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll
+  window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
+  window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
+
+  document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
+
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+  typeof disqusjs === 'object' && disqusjs.destroy()
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', 'G-BHH5BNEG3S', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+  Weidows.re();
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span> 数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"></div></div><hr><div class="no-result" id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js?v=4.9.0"></script></div></div><script src="/assets/mmedia/mmedia-loader.js"></script></body></html>
