@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/tags/:path(.*(?!/))", "destination": "/tags/:path.html" }
+  ]
+}

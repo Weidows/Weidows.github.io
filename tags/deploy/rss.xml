@@ -1,0 +1,1507 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;deploy&#34; tag</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 09 Dec 2025 06:08:35 +0000</pubDate>
+        <lastBuildDate>Tue, 09 Dec 2025 06:08:35 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>English</category>
+        <category>笔记</category>
+        <category>生活</category>
+        <category>yaml</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>Docker</category>
+        <category>system</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Math</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>宝塔面板</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>心理学</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Server</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Gitlab</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>server</category>
+        <category>ubuntu</category>
+        <category>nvidia</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>scoop</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>MMDetection</category>
+        <category>机器学习</category>
+        <category>DL</category>
+        <category>LoRA</category>
+        <category>SFT</category>
+        <category>LLM</category>
+        <category>deploy</category>
+        <category>inference</category>
+        <category>chatgpt</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/lang/python/AI/llm/</guid>
+            <title>大模型相关知识学习整理</title>
+            <link>https://blog.weidows.tech/post/lang/python/AI/llm/</link>
+            <category>LLM</category>
+            <category>deploy</category>
+            <category>inference</category>
+            <pubDate>Tue, 09 Dec 2025 06:08:35 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;大模型相关知识学习整理&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2026-04-27 05:23:45
+ * @FilePath: \Blog-private\source\_posts\lang\python\AI\llm.md
+ * @Description:
+ * @:
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠻⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⣀⡾⠀⠀⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣤⣀⣠⡴⠋
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠈⢷⡀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣿⢠⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣧⠀⠀⠀⠀⠀⠀⠀⠈⣆
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⣰⠀⠀⠀⠀⣾⢸⣿⣀⣤⣶⡛⠁⣿⠘⡄⠀⠀⠀⠀⢀⠀⠀⣿⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠸
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⡟⠀⠀⠀⠀⣿⡈⡏⠀⠀⠀⠀⠙⡜⡄⢿⠀⠀⠀⠀⣾⣧⣾⢸⠀⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⣇⠀⠀⠀⠀⣷⣿⣿⣶⣦⣀⠀⠀⠀⠹⡘⣿⡀⠀⠀⢹⣿⠃⢸⠀⣿⠀⢠⣿⠀⠀⠀⠀⠀⣄⣧
+ * ⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⣿⠀⠀⠀⠀⢿⠉⠉⠉⠻⣿⣷⡀⠀⠀⠈⠁⠙⢦⣀⣸⠋⠈⣸⣼⢻⠀⣾⡿⠀⠀⠀⠀⢸⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⠀⠸⡄⣤⠀⠀⠀⣧⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⣿⣿⠇⠀⠀⠀⠀⣾⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠀⠙⠿⣿⠛⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣦⡀⡿⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⠀⣴⠋⠙⣦⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⣼⠉⠙⠳⠦⣤⡀⠀⠀⠀⠀⠀⠀⠈⠻⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⢤⠇⣀⡀⣼⠀⠀⠀⢹⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⢠⣯⣿⣿
+ * ⠀⠀⠀⠀⣠⠋⣠⠟⠁⠀⠈⠛⣄⠀⠀⠀⣇⠀⠀⠀⠀⢹⠀⠀⠀⠀⢀⠟⠀⠀⠀⠀⠀⠀⢾⣁⠀⠀⠀⠀⢀⣾⣤⡏⠉⠉⣿
+ * ⠀⠀⢀⣞⠤⣴⠁⠀⠀⠀⠀⠀⠀⣧⠀⠀⢿⠉⠳⣤⡀⠀⠁⠀⠠⠶⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠧⣴⣾⣿⣿⠟⡇⠀⠀⢸
+ * ⣠⠚⠁⢀⠏⣿⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠈⡏⠛⠶⣤⡉⠛⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡴⣿⣿⠟⠁⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⢸⠀⠘⡄⠀⠀⠀⠀⠀⢹⠀⡿⡄⠀⣿⠀⠀⠀⠀⠙⠲⣤⡀⠙⢦⠉⠉⠉⠉⠉⠉⠁⠀⠀⣿⠀⠀⠀⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⠘⡄⠀⣿⠀⠀⠀⠀⠀⣸⠛⡄⢻⠀⠸⡀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡉⢦⡀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⢰⠇⠀⠀⢸
+ * ⠀⠀⠀⠀⢿⠀⠈⠙⢦⣄⣠⠴⠃⢠⠃⠀⡇⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣦⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣼⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠙⢤⠀⠀⠀⠀⠀⡴⠋⠀⠀⡇⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⡿⠀⠀⠀⠀⡿⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠘⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠀⠀⡇⠀⠀⠀⢰⠁⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡿⠀⠀⠀⠀⠀⣷
+ *
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E6%95%B4%E7%90%86&#34;&gt;大模型相关知识学习整理&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80&#34;&gt;大模型基础&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BB%E6%B5%81%E6%9E%B6%E6%9E%84%E7%9A%84%E5%AF%B9%E6%AF%94&#34;&gt;主流架构的对比&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%E7%9A%84%E6%BC%94%E8%BF%9B%E9%80%BB%E8%BE%91&#34;&gt;模型参数规模的演进逻辑&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%98%BE%E5%AD%98%E7%9A%84%E7%89%A9%E7%90%86%E5%A4%A9%E8%8A%B1%E6%9D%BF&#34;&gt;显存的&amp;quot;物理天花板&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#scaling-laws-%E7%9A%84%E5%80%8D%E6%95%B0%E6%95%88%E5%BA%94&#34;&gt;Scaling Laws 的倍数效应&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B0%BA%E5%AF%B8%E7%AD%89%E7%BA%A7%E4%B8%8E%E6%88%98%E5%9C%BA&#34;&gt;尺寸等级与战场&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#transformer-%E5%88%86%E5%B1%82%E7%BB%93%E6%9E%84&#34;&gt;Transformer 分层结构&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#a-%E5%B5%8C%E5%85%A5%E5%B1%82-embedding-layer&#34;&gt;A. 嵌入层 (Embedding Layer)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#b-%E9%AA%A8%E5%B9%B2%E5%B1%82-backbone--transformer-blocks&#34;&gt;B. 骨干层 (Backbone / Transformer Blocks)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#c-%E8%BE%93%E5%87%BA%E5%A4%B4-lm-head&#34;&gt;C. 输出头 (LM Head)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%84%E5%B1%82%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%E5%8F%82%E8%80%83llama-3-8b&#34;&gt;各层参数规模参考（Llama-3-8B）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%92%B8%E9%A6%8F%E6%A8%A1%E5%9E%8B-distilled&#34;&gt;蒸馏模型 Distilled&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86&#34;&gt;工作原理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%91%BD%E5%90%8D%E5%90%AB%E4%B9%89&#34;&gt;命名含义&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%92%B8%E9%A6%8F-vs-%E9%87%8F%E5%8C%96&#34;&gt;蒸馏 vs 量化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A2%84%E8%AE%AD%E7%BB%83-pre_train&#34;&gt;预训练-pre_train&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86&#34;&gt;数据处理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%AE%AD%E7%BB%83%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94&#34;&gt;训练方式对比&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%8E%E9%9B%B6%E9%A2%84%E8%AE%AD%E7%BB%83&#34;&gt;从零预训练&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A2%9E%E9%87%8F%E9%A2%84%E8%AE%AD%E7%BB%83-continued-pre-training&#34;&gt;增量预训练 (Continued Pre-training)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%8E%E8%AE%AD%E7%BB%83-post_train&#34;&gt;后训练-post_train&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BE%AE%E8%B0%83-fine_tune&#34;&gt;微调-fine_tune&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BE%AE%E8%B0%83%E5%B1%82%E7%BA%A7%E9%80%89%E6%8B%A9&#34;&gt;微调层级选择&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lora&#34;&gt;LoRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BB%E6%B5%81%E5%BE%AE%E8%B0%83%E6%A1%86%E6%9E%B6%E5%AF%B9%E6%AF%94&#34;&gt;主流微调框架对比&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%87%8F%E5%8C%96-quantization&#34;&gt;量化-quantization&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%87%8F%E5%8C%96%E8%8A%82%E7%9C%81%E4%B8%8E%E7%B2%BE%E5%BA%A6%E5%AF%B9%E6%AF%94&#34;&gt;量化节省与精度对比&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%87%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%92%8C%E4%BA%A7%E7%89%A9&#34;&gt;量化方法和产物&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gpu-%E9%87%8F%E5%8C%96%E6%A0%BC%E5%BC%8F%E9%80%89%E6%8B%A9&#34;&gt;GPU 量化格式选择&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-huggingface&#34;&gt;模型发布-huggingface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F&#34;&gt;模型文件格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-inference&#34;&gt;推理部署-inference&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6%E9%80%89%E6%8B%A9&#34;&gt;推理框架选择&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F&#34;&gt;推理加速&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mlx-apple-silicon&#34;&gt;MLX (Apple Silicon)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#kv-cache-%E6%98%BE%E5%AD%98%E4%BC%B0%E7%AE%97&#34;&gt;KV Cache 显存估算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B&#34;&gt;多模态模型&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#clip&#34;&gt;CLIP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;大模型基础&#34;&gt;大模型基础&lt;/h2&gt;
+&lt;h3 id=&#34;主流架构的对比&#34;&gt;主流架构的对比&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;特性&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Dense (稠密模型)&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;MoE (专家混合)&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;SSM / Hybrid (状态空间/混合)&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;代表模型&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Llama 3, GPT-3, Qwen&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Mixtral 8x7B, DeepSeek V3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Mamba, Jamba, RWKV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;核心原理&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;所有参数参与计算&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;路由器分配部分专家计算&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;维护固定状态，线性序列处理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;计算效率&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;较低&lt;/strong&gt; (全量激活)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;极高&lt;/strong&gt; (按需激活)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;极高&lt;/strong&gt; (推理延迟低)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;显存压力&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;随上下文增加&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;极大&lt;/strong&gt; (需加载全部权重)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;极低&lt;/strong&gt; (无 KV Cache 压力)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;长文本支持&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;受限于显存&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;受限于显存&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;天生支持超长序列&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;主要优势&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;结构稳定、生态成熟&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;兼顾大参数量与低推理成本&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;长文本利器、推理极快&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;感性比喻&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;一个人干所有的活&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;专家委员会，按需点将&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;边干活边记笔记的高效管家&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;模型参数规模的演进逻辑&#34;&gt;模型参数规模的演进逻辑&lt;/h3&gt;
+&lt;p&gt;模型参数规模的序列（0.5B / 7B / 14B / 27B / 70B）并不是随意拍定的，它背后交织了&lt;strong&gt;显存物理限制&lt;/strong&gt;、&lt;strong&gt;Scaling Laws（缩放定律）&lt;strong&gt;和&lt;/strong&gt;并行效率&lt;/strong&gt;的考量。&lt;/p&gt;
+&lt;h4 id=&#34;显存的-物理天花板&#34;&gt;显存的&amp;quot;物理天花板&amp;quot;&lt;/h4&gt;
+&lt;p&gt;模型在推理或微调时必须完整加载到显存中。主流消费级显卡的显存通常是 &lt;strong&gt;8GB, 12GB, 16GB, 24GB, 40GB, 80GB&lt;/strong&gt;。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;尺寸&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;FP16 显存占用&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;INT4 显存占用&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;对应显卡&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;7B - 8B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;~14 GB&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;~5 GB&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;消费级显卡（RTX 3060 12GB / 4060Ti 16GB）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;27B - 32B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;~54 GB&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;~18 GB&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;单卡 A100/H100 (80GB) 或双卡 3090/4090 量化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;Scaling-Laws-的倍数效应&#34;&gt;Scaling Laws 的倍数效应&lt;/h4&gt;
+&lt;p&gt;OpenAI 和 DeepMind 的研究表明，模型性能与参数量、数据量、计算量呈幂律关系。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;性能跨度&lt;/strong&gt;：参数量增加 &lt;strong&gt;2 到 3 倍&lt;/strong&gt;，能力才有质的飞跃&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;训练成本&lt;/strong&gt;：参数翻倍，训练算力（FLOPs）在数据等比例增加时翻 4 倍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;尺寸等级与战场&#34;&gt;尺寸等级与战场&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;尺寸等级&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;典型代表&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;主要战场&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;0.5B - 1.5B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Qwen-1.5B, Gemma-2B&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;手机终端、AI Agent 微型插件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;7B - 9B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Llama-3-8B, Mistral&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;个人电脑、开发者实验、逻辑门槛模型&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;14B - 20B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Qwen-14B, InternLM&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;企业级单机部署、性能与成本平衡&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;30B - 34B&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Yi-34B, Gemma-27B&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;复杂任务处理、极强的指令遵循能力&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;70B+&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Llama-3-70B&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;云端 API、复杂推理、知识库核心&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这些数字是&lt;strong&gt;硬件厂商&lt;/strong&gt;与&lt;strong&gt;算法厂商&lt;/strong&gt;之间的&amp;quot;极限拉扯&amp;quot;——在既定成本下能榨取的最高&amp;quot;智力密度&amp;quot;节点。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;Transformer-分层结构&#34;&gt;Transformer 分层结构&lt;/h3&gt;
+&lt;p&gt;目前主流的 LLM（Llama 3、Gemma、Mistral）基本都采用 &lt;strong&gt;Decoder-Only&lt;/strong&gt; 架构，可以拆解为三个主要部分：&lt;/p&gt;
+&lt;h4 id=&#34;A-嵌入层-Embedding-Layer&#34;&gt;A. 嵌入层 (Embedding Layer)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;组成&lt;/strong&gt;：Token Embedding + Positional Embedding（位置编码）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作用&lt;/strong&gt;：将离散 Token ID 映射为高维连续向量，位置编码告诉模型词序（Llama 使用 &lt;strong&gt;RoPE 旋转位置编码&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;维度&lt;/strong&gt;：通常等于隐藏层维度 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;l&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;d_{model}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8444em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3361em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:0em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;o&lt;/span&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.01968em;&#34;&gt;l&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，如 4096&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;B-骨干层-Backbone-Transformer-Blocks&#34;&gt;B. 骨干层 (Backbone / Transformer Blocks)&lt;/h4&gt;
+&lt;p&gt;核心部分，通常由 &lt;strong&gt;32 到 80 个&lt;/strong&gt;相同 Block 堆叠。每个 Block 包含：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;自注意力层 (Self-Attention)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作用&lt;/strong&gt;：建立 Token 之间的联系（上下文逻辑）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参数&lt;/strong&gt;：&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;q&lt;/mi&gt;&lt;/msub&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msub&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;W_q, W_k, W_v&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9694em;vertical-align:-0.2861em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03588em;&#34;&gt;q&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2861em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3361em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03148em;&#34;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;（投影矩阵）和 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;W_o&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;o&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;（输出矩阵）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;前馈网络层 (FFN / MLP)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作用&lt;/strong&gt;：&lt;strong&gt;知识存储库&lt;/strong&gt;，大部分事实性知识存储在 FFN 中&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;维度&lt;/strong&gt;：通常进行扩展再收缩，如 4096 → 11008 → 4096（SwiGLU 结构）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;C-输出头-LM-Head&#34;&gt;C. 输出头 (LM Head)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作用&lt;/strong&gt;：将最后一层隐藏状态映射回词表大小，通过 Softmax 预测下一个词&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;维度&lt;/strong&gt;：&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo stretchy=&#34;false&#34;&gt;[&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;_&lt;/mi&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;z&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;_&lt;/mi&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;z&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;]&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;[Hidden\_Size, Vocab\_Size]&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.06em;vertical-align:-0.31em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.08125em;&#34;&gt;H&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;dd&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mord&#34; style=&#34;margin-right:0.02778em;&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;S&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ze&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;oc&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ab&lt;/span&gt;&lt;span class=&#34;mord&#34; style=&#34;margin-right:0.02778em;&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;S&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ze&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;各层参数规模参考（Llama-3-8B）&#34;&gt;各层参数规模参考（Llama-3-8B）&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;组件&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;参数描述&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;典型维度/数值&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;作用总结&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Embedding&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;Vocab \times Hidden&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7778em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;oc&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ab&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.08125em;&#34;&gt;H&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;dd&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;128&lt;/mn&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mn&gt;256&lt;/mn&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mn&gt;4096&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;128,256 \times 4096&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8389em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;128&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;256&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;4096&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;词义映射&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Attention&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;msup&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;4 \times Hidden^2&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7278em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8141em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.08125em;&#34;&gt;H&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;dd&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8141em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;每层约 16M&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;捕捉上下文关联&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;FFN&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;3 \times Hidden \times Intermediate&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7278em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7778em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.08125em;&#34;&gt;H&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;dd&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.02778em;&#34;&gt;er&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ia&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;每层约 45M&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;存储事实知识&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Total Layers&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Block 堆叠数&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;32 层&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;深度特征提取&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;蒸馏模型-Distilled&#34;&gt;蒸馏模型 Distilled&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Distilled（蒸馏）&lt;strong&gt;指&lt;/strong&gt;知识蒸馏&lt;/strong&gt;（Knowledge Distillation）：让大模型（Teacher）教小模型（Student）模仿其推理方式。&lt;/p&gt;
+&lt;h4 id=&#34;工作原理&#34;&gt;工作原理&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;教师模型&lt;/strong&gt;（大）输出详细概率分布（不仅知道正确答案，还知道各选项的相对合理性）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学生模型&lt;/strong&gt;（小）模仿这个概率分布&lt;/li&gt;
+&lt;li&gt;学生学会教师的&lt;strong&gt;逻辑特征和推理模式&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;命名含义&#34;&gt;命名含义&lt;/h4&gt;
+&lt;p&gt;如 &lt;code&gt;DeepSeek-R1-Distill-Qwen-7B&lt;/code&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;架构&lt;/strong&gt;：Qwen-7B（小模型）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;灵魂&lt;/strong&gt;：使用 DeepSeek-R1 生成的推理数据蒸馏训练&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;结果&lt;/strong&gt;：7B 模型的推理能力远超普通 Qwen-7B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;蒸馏-vs-量化&#34;&gt;蒸馏 vs 量化&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;特性&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;蒸馏 (Distilled)&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;量化 (Quantization)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;原理&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;重新训练小模型模仿大模型&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;把权重数字压缩（16-bit → 4-bit）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;精度&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;通常比同规模普通模型高&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;比原模型略有下降&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;结构&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;模型架构变了（70B → 7B）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;架构不变，数字变小&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;类比&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;百科全书总结成精华手册&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;高清书压成低清图片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;部署建议&lt;/strong&gt;：先蒸馏（提质减量），再量化（压缩体积）。3090/4090 优先选 Distilled 模型，再叠加 AWQ/GPTQ 量化。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;预训练-pre-train&#34;&gt;预训练-pre_train&lt;/h2&gt;
+&lt;h3 id=&#34;数据处理&#34;&gt;数据处理&lt;/h3&gt;
+&lt;p&gt;TODO&lt;/p&gt;
+&lt;h3 id=&#34;训练方式对比&#34;&gt;训练方式对比&lt;/h3&gt;
+&lt;p&gt;从零预训练、增量预训练和 LoRA 微调是三条完全不同的路线。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;方案&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数据需求&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;显存需求&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;时间&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;效果&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;推荐度&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;从零预训练&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;TB 级&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;多卡 A100&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;数月&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;最强，但成本极高&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不现实&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;增量预训练&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;GB 级&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;单卡 16GB&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;数天&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;强，学习领域知识&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;强烈推荐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;LoRA 微调&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;MB-GB 级&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;单卡 8GB&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;数小时&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;适配任务风格&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;快速实验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;从零预训练&#34;&gt;从零预训练&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;不依赖任何预训练权重&lt;/li&gt;
+&lt;li&gt;需要海量数据（TB 级文本）&lt;/li&gt;
+&lt;li&gt;需要超级算力集群（多卡多机）&lt;/li&gt;
+&lt;li&gt;训练时间：数周甚至数月&lt;/li&gt;
+&lt;li&gt;成本：几十万到上百万美元&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;硬件要求&lt;/strong&gt;：通常需要 A100 80GB 集群&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;增量预训练-Continued-Pre-training&#34;&gt;增量预训练 (Continued Pre-training)&lt;/h4&gt;
+&lt;p&gt;介于从零预训练和微调之间的中间路线：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用官方权重作为初始化（不是微调，是继续预训练）&lt;/li&gt;
+&lt;li&gt;用私有数据继续训练&lt;/li&gt;
+&lt;li&gt;让模型学习领域知识&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;16GB 显存完全够用&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是最有性价比的方案：保留预训练知识的同时注入领域数据。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;后训练-post-train&#34;&gt;后训练-post_train&lt;/h2&gt;
+&lt;p&gt;拿到 safetensors 之后要做的事&lt;div class=&#34;mermaid-wrap&#34;&gt;&lt;pre class=&#34;mermaid-src&#34; hidden&gt;
+  flowchart TD
+    A[LLM 训练阶段] --&amp;gt;|输出原始权重| B[PyTorch .bin&amp;#x2F;.pth]
+    A --&amp;gt;|安全高效存储| C[safetensors, 主流全能格式]
+
+    B --&amp;gt;|直接推理&amp;#x2F;继续训练| D[研究&amp;#x2F;实验环境]
+    C --&amp;gt;|推荐替代 .bin| D
+
+    A --&amp;gt;|量化转换| E[量化格式]
+    E --&amp;gt; F[GPTQ&amp;#x2F;AWQ]
+    E --&amp;gt; G[GGML]
+    E --&amp;gt; H[GGUF, 只能用来推理]
+
+    F --&amp;gt;|GPU推理优化| I[高性能GPU部署]
+    G --&amp;gt;|早期CPU推理| J[llama.cpp旧版本]
+    H --&amp;gt;|通用量化推理| K[llama.cpp &amp;#x2F; Ollama &amp;#x2F; 本地部署]
+
+    C --&amp;gt;|需转换为GGUF| H
+  &lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h3 id=&#34;微调-fine-tune&#34;&gt;微调-fine_tune&lt;/h3&gt;
+&lt;h4 id=&#34;微调层级选择&#34;&gt;微调层级选择&lt;/h4&gt;
+&lt;p&gt;在 PEFT（参数高效微调）普及的今天，微调的选择通常遵循以下策略：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;层级&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;微调对象&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;效果&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;适用场景&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;代价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Attention&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;q&lt;/mi&gt;&lt;/msub&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;W_q, W_v&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9694em;vertical-align:-0.2861em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03588em;&#34;&gt;q&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2861em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 矩阵加旁路&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;改变任务风格、指令遵循能力&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;通用任务/对话适配&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;低（LoRA 经典方案）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;FFN&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;前馈网络权重&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;学习新的硬知识&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;深度领域适配（医学、冷门库）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;高（参数量是 Attention 两倍以上）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Embedding / LM Head&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;词表嵌入层&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;理解新 Token&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;扩充词表（特殊符号、MIDI 编码）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;易导致预训练知识崩溃&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;核心选择：微调 Attention 层&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;为什么&lt;/strong&gt;：LoRA 最经典的做法是在 &lt;strong&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;q&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;W_q&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9694em;vertical-align:-0.2861em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03588em;&#34;&gt;q&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2861em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 和 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;W_v&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt; 矩阵上加旁路&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;效果&lt;/strong&gt;：微调 Attention 层能最有效地改变模型的&lt;strong&gt;任务风格&lt;/strong&gt;和&lt;strong&gt;指令遵循能力&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建议&lt;/strong&gt;：通用任务/对话适配的首选，性价比最高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;进阶选择：微调 FFN 层&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;为什么&lt;/strong&gt;：如果希望模型学习&lt;strong&gt;新的硬知识&lt;/strong&gt;（特定医学文献、极其冷门的编程库），微调 FFN 更有效&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;代价&lt;/strong&gt;：FFN 参数量通常是 Attention 的两倍以上，显存消耗更高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;特殊场景：微调 Embedding 或 LM Head&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;场景&lt;/strong&gt;：需要扩充词表（加入特殊符号 Token）时，必须微调 Embedding 和 LM Head&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风险&lt;/strong&gt;：全量微调 Embedding 容易导致预训练知识崩溃，除非有极大规模数据集（百万级以上）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;总结建议&lt;/strong&gt;：通用任务用 LoRA 作用于 Attention 的 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;q&lt;/mi&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;q, k, v, o&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8889em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;q&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03148em;&#34;&gt;k&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;o&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 矩阵；深度领域适配可尝试 FFN；扩充词表才动 Embedding。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;LoRA&#34;&gt;LoRA&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;另一篇文章有提到: &lt;a href=&#34;../fine-tune&#34;&gt;LoRA微调训练和量化&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;主流微调框架对比&#34;&gt;主流微调框架对比&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;框架&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;核心特点&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;适用场景&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;开源协议&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;LLaMA-Factory&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;零代码 Web UI，支持 100+ 模型，集成 SFT/DPO/PPO 等方法&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;初学者、快速实验、原型验证&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Apache-2.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Unsloth&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;显存优化（降低 70%）、速度提升 2x，单卡 GPU 可用&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;显存有限的环境、快速迭代研究&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Apache-2.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Self-LLM (Datawhale)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;针对国内用户，支持全参数/LoRA 微调，教程完善&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Linux 环境下的入门学习与实践&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Apache-2.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;GaLore&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;高效梯度存储与优化，适合大规模训练&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;企业级集群、科研场景&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;开源&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Axolotl&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Hugging Face 生态深度集成，支持多种训练策略&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;熟悉 HF 的开发者，灵活定制&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;开源&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;OpenChat&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;专注于对话模型的高效微调&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;聊天机器人、客服场景&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;开源&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;选择建议&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;入门/快速实验&lt;/strong&gt;：推荐 &lt;strong&gt;LLaMA-Factory&lt;/strong&gt; 或 &lt;strong&gt;Self-LLM&lt;/strong&gt;，界面友好，文档完善&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;显存有限/单卡 GPU&lt;/strong&gt;：推荐 &lt;strong&gt;Unsloth&lt;/strong&gt;，在 12GB–24GB 显存的消费级 GPU 上也能跑 LoRA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;企业/科研大规模训练&lt;/strong&gt;：推荐 &lt;strong&gt;GaLore&lt;/strong&gt; 或 &lt;strong&gt;Axolotl&lt;/strong&gt;，更适合复杂场景和深度定制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专注对话模型&lt;/strong&gt;：推荐 &lt;strong&gt;OpenChat&lt;/strong&gt;，针对聊天场景优化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注意事项&lt;/strong&gt;：这些框架大多依赖 Hugging Face Transformers，需要关注版本匹配。LLaMA-Factory 和 Unsloth 社区增长快，Self-LLM 更适合国内用户。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;量化-quantization&#34;&gt;量化-quantization&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;另一篇文章有提到: &lt;a href=&#34;../fine-tune&#34;&gt;LoRA微调训练和量化&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;量化节省与精度对比&#34;&gt;量化节省与精度对比&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/mradermacher/Qwen3.5-2B-GPT-5.1-HighIQ-INSTRUCT-i1-GGUF&#34;&gt;https://huggingface.co/mradermacher/Qwen3.5-2B-GPT-5.1-HighIQ-INSTRUCT-i1-GGUF&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://huggingface.co/Bedovyy/dasiwaWAN22I2V14B-GGUF/tree/main/HighNoise&#34;&gt;https://huggingface.co/Bedovyy/dasiwaWAN22I2V14B-GGUF/tree/main/HighNoise&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有时候找模型会遇到不同精度的量化版本, 以 7B 模型为例, GGUF 量化&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;格式&lt;/th&gt;
+&lt;th&gt;典型大小&lt;/th&gt;
+&lt;th&gt;精度损失&lt;/th&gt;
+&lt;th&gt;推理速度提升&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;FP16&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~14GB&lt;/td&gt;
+&lt;td&gt;无损&lt;/td&gt;
+&lt;td&gt;基准速度&lt;/td&gt;
+&lt;td&gt;训练、基准推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q8_0 (8bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~7.5GB&lt;/td&gt;
+&lt;td&gt;&amp;lt;0.5%&lt;/td&gt;
+&lt;td&gt;~1.3×&lt;/td&gt;
+&lt;td&gt;高精度服务器推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q6_k (6bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~6.7GB&lt;/td&gt;
+&lt;td&gt;~0.5–1%&lt;/td&gt;
+&lt;td&gt;~1.5×&lt;/td&gt;
+&lt;td&gt;高精度推理，接近无损&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q5_k_m (5bit混合)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~4.5GB&lt;/td&gt;
+&lt;td&gt;~1–3%&lt;/td&gt;
+&lt;td&gt;~1.8×&lt;/td&gt;
+&lt;td&gt;推荐的通用量化方案&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q4_k_m (4bit混合)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~4.4GB&lt;/td&gt;
+&lt;td&gt;~3–5%&lt;/td&gt;
+&lt;td&gt;~2.0–2.2×&lt;/td&gt;
+&lt;td&gt;主流移动端/轻量服务器部署&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q4_0 (原始4bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~3.8GB&lt;/td&gt;
+&lt;td&gt;~8–10%&lt;/td&gt;
+&lt;td&gt;~2.5×&lt;/td&gt;
+&lt;td&gt;基础推理，精度下降明显&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q3_k_m (3bit混合)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~3.0GB&lt;/td&gt;
+&lt;td&gt;~5–8%&lt;/td&gt;
+&lt;td&gt;~3×&lt;/td&gt;
+&lt;td&gt;移动端极限压缩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;q2_k (2bit)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~2.7GB&lt;/td&gt;
+&lt;td&gt;&amp;gt;10%&lt;/td&gt;
+&lt;td&gt;~3.5×&lt;/td&gt;
+&lt;td&gt;极端压缩，精度损失大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;量化方法和产物&#34;&gt;量化方法和产物&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;标记&lt;/th&gt;
+&lt;th&gt;全称/含义&lt;/th&gt;
+&lt;th&gt;特点&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Q&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Quantized（量化）&lt;/td&gt;
+&lt;td&gt;表示该模型是量化版本，后缀决定具体策略（如 q4_0、q4_k_m）&lt;/td&gt;
+&lt;td&gt;所有量化模型的通用前缀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;K&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;K-quant（分组量化）&lt;/td&gt;
+&lt;td&gt;改进的量化方法，分组存储权重，精度更好&lt;/td&gt;
+&lt;td&gt;主流推荐，如 &lt;code&gt;q4_k_m&lt;/code&gt;、&lt;code&gt;q5_k_m&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mixed（混合精度）&lt;/td&gt;
+&lt;td&gt;不同部分使用不同 bit 数量，兼顾精度和体积&lt;/td&gt;
+&lt;td&gt;常见于 &lt;code&gt;q4_k_m&lt;/code&gt;、&lt;code&gt;q5_k_m&lt;/code&gt;，平衡最佳&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;L-quant（低秩优化）&lt;/td&gt;
+&lt;td&gt;针对部分权重做低秩近似，进一步压缩&lt;/td&gt;
+&lt;td&gt;更小体积，但精度略有下降&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;IQ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Integer Quantization（整数量化）&lt;/td&gt;
+&lt;td&gt;使用整数存储，推理速度更快&lt;/td&gt;
+&lt;td&gt;新方案，适合 CPU/GPU 高速推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;原始量化版本&lt;/td&gt;
+&lt;td&gt;最基础的量化实现，速度快，但精度损失较大&lt;/td&gt;
+&lt;td&gt;早期量化方案，适合极限压缩或测试&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Super-block 分组策略&lt;/td&gt;
+&lt;td&gt;在量化时使用更大的分组（block size），提升精度&lt;/td&gt;
+&lt;td&gt;常见于 &lt;code&gt;q4_k_s&lt;/code&gt;，比 &lt;code&gt;_0&lt;/code&gt; 精度更好&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;S#&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Super-block + 数字（如 S2, S3）&lt;/td&gt;
+&lt;td&gt;表示不同的分组大小或策略，数字越大分组更细，精度更高&lt;/td&gt;
+&lt;td&gt;高精度量化，适合需要更好质量的推理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;GPU-量化格式选择&#34;&gt;GPU 量化格式选择&lt;/h4&gt;
+&lt;p&gt;上述表格讲的是 &lt;strong&gt;GGUF&lt;/strong&gt; 格式的量化标记，主要用于 &lt;strong&gt;llama.cpp / Ollama / LM Studio&lt;/strong&gt; 等 CPU/本地推理生态。&lt;/p&gt;
+&lt;p&gt;但 &lt;strong&gt;vLLM 目前不直接支持 GGUF&lt;/strong&gt;。如果你的目标是 &lt;strong&gt;GPU 高并发推理&lt;/strong&gt;，需要选择专为 GPU 加速优化的量化格式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;vLLM 支持的量化格式&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;格式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;位宽&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;特点&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;搜索关键词&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;推荐度&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;AWQ&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4-bit&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;保护&amp;quot;显著权重&amp;quot;，精度极高；vLLM 有专门内核优化&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;模型名 + AWQ&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;首选推荐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;GPTQ&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4-bit&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;最老牌、最常见的 GPU 量化格式，资源极多&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;模型名 + GPTQ&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;备选&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;FP8&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;8-bit&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;几乎没有精度损失，利用新显卡硬件特性&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;模型名 + FP8&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;新款显卡必备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;FP8 前提&lt;/strong&gt;：需 NVIDIA H100、4090 或更高级别显卡（Ada Lovelace 架构及以后）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;格式与推理引擎的匹配&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;需求场景&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;推荐格式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;推荐推理引擎&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;高并发、多用户、纯 GPU 推理&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;AWQ / GPTQ / FP8&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;vLLM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;个人本地测试、显存不足 (CPU 补位)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;GGUF&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Ollama&lt;/strong&gt; / &lt;strong&gt;llama.cpp&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;追求极致吞吐量 (NVIDIA 显卡)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;FP8 / AWQ&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;vLLM&lt;/strong&gt; / &lt;strong&gt;TensorRT-LLM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;小贴士&lt;/strong&gt;：Hugging Face 上找不到 AWQ 版本时，可查找 &lt;strong&gt;neuralmagic&lt;/strong&gt; 发布的量化版本，提供了大量针对 vLLM 优化的 FP8 和 AWQ 模型。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;模型发布-huggingface&#34;&gt;模型发布-huggingface&lt;/h3&gt;
+&lt;p&gt;一般是发到 Huggingface, 部分国内模型会发到魔搭&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;仓库名称示例&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;核心存储内容&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;角色定位&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;适用场景/工具&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;code&gt;*-LoRA&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;adapter_model.safetensors&lt;/code&gt; (几十MB)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;中间产物&lt;/strong&gt; (轻量级)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;二次微调、PEFT 动态加载、研究员交流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;code&gt;*-Full&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;model.safetensors&lt;/code&gt; (几个GB)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;标准产物&lt;/strong&gt; (工业级)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;服务器部署 (vLLM)、Transformers 库加载&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;code&gt;*-GGUF&lt;/code&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;*.gguf&lt;/code&gt; (不同位宽)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;分发产物&lt;/strong&gt; (消费级)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;本地离线运行 (Ollama, llama.cpp, LM Studio)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;为了让 Hugging Face 自动识别模型之间的血缘关系（如你图中看到的 Tree 结构），你需要在每个仓库的 &lt;code&gt;README.md&lt;/code&gt; 顶部配置 &lt;code&gt;base_model&lt;/code&gt; 标签。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;LoRA 仓库 (&lt;code&gt;*-LoRA&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;声明它是基于哪个原始大模型微调的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;base_model:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Qwen/Qwen3.5-4B&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;library_name:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;peft&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;lora&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;latex&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;完整版仓库 (&lt;code&gt;*-Full&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;它是合并后的模型，通常依然指向原始基座模型。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;base_model:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Qwen/Qwen3.5-4B&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;merged&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;latex&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;量化版仓库 (&lt;code&gt;*-GGUF&lt;/code&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;关键点&lt;/strong&gt;：它的基座应该是你&lt;strong&gt;微调合并后&lt;/strong&gt;的那个仓库。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;base_model:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;Weidows/Qwen3.5-4B-LaTeX&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;tags:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;gguf&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &lt;span class=&#34;bullet&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;quantization&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;模型文件格式&#34;&gt;模型文件格式&lt;/h3&gt;
+&lt;p&gt;拿到模型权重后，常见的文件格式有三种。需要澄清一个常见误区：&lt;code&gt;.ckpt&lt;/code&gt; 和 &lt;code&gt;.pth&lt;/code&gt; 在技术上&lt;strong&gt;没有本质区别&lt;/strong&gt;，都是 PyTorch &lt;code&gt;torch.save()&lt;/code&gt; 序列化的 pickle 文件，区别只在命名约定和保存内容。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PyTorch 原生格式（.ckpt / .pth）&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;维度&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;保存完整训练状态&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;仅保存模型权重&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;常见命名&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;.ckpt&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;.pth&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;保存内容&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;model&lt;/code&gt; + &lt;code&gt;optimizer&lt;/code&gt; + &lt;code&gt;epoch&lt;/code&gt; + &lt;code&gt;scheduler&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;model.state_dict()&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;用途&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;断点续训、恢复训练&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;推理部署、模型分发&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;文件大小&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;较大（约为权重的 2 倍以上）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;与权重相当&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;加载方式&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;torch.load()&lt;/code&gt; 后按需提取&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;model.load_state_dict()&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 保存完整训练状态（通常命名为 .ckpt）&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;torch.save(&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;#x27;epoch&amp;#x27;&lt;/span&gt;: epoch,&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;#x27;model_state_dict&amp;#x27;&lt;/span&gt;: model.state_dict(),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;string&#34;&gt;&amp;#x27;optimizer_state_dict&amp;#x27;&lt;/span&gt;: optimizer.state_dict(),&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;model.ckpt&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 仅保存模型权重（通常命名为 .pth）&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;torch.save(model.state_dict(), &lt;span class=&#34;string&#34;&gt;&amp;#x27;model.pth&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 加载完整状态继续训练&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;checkpoint = torch.load(&lt;span class=&#34;string&#34;&gt;&amp;#x27;model.ckpt&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;model.load_state_dict(checkpoint[&lt;span class=&#34;string&#34;&gt;&amp;#x27;model_state_dict&amp;#x27;&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;optimizer.load_state_dict(checkpoint[&lt;span class=&#34;string&#34;&gt;&amp;#x27;optimizer_state_dict&amp;#x27;&lt;/span&gt;])&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;安全提示&lt;/strong&gt;：&lt;code&gt;.ckpt&lt;/code&gt; / &lt;code&gt;.pth&lt;/code&gt; 基于 Python pickle，加载时会执行序列化对象中的代码。从不可信来源下载的权重文件存在代码注入风险。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Safetensors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hugging Face 推出的安全权重格式，设计上替代 pickle：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;特性&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;安全性&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不执行代码，只存储张量数据，杜绝 pickle 反序列化漏洞&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;加载速度&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;支持零拷贝（memory-map），大模型加载更快&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;跨平台&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;格式规范统一，不受 PyTorch 版本差异影响&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;分片支持&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;单文件 &amp;gt; 2GB 时可自动分片（&lt;code&gt;model-00001-of-00002.safetensors&lt;/code&gt;）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;兼容性&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;HF 生态原生支持，PyTorch 需安装 &lt;code&gt;safetensors&lt;/code&gt; 库&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;from&lt;/span&gt; safetensors.torch &lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; save_file, load_file&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 保存&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;save_file(model.state_dict(), &lt;span class=&#34;string&#34;&gt;&amp;#x27;model.safetensors&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 加载&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;state_dict = load_file(&lt;span class=&#34;string&#34;&gt;&amp;#x27;model.safetensors&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;model.load_state_dict(state_dict)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;格式选择建议&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;场景&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;推荐格式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;原因&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;训练阶段/断点续训&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;.ckpt&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;需要同时保存优化器状态和 epoch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;推理部署/模型分发&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;.safetensors&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;安全、加载快、HF 生态标准&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;遗留项目/内部使用&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;.pth&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;兼容旧代码，结构简单&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;多卡大模型存储&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;.safetensors&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;自动分片，避免单文件过大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hugging Face 已全面转向 &lt;code&gt;safetensors&lt;/code&gt;，新发布的模型几乎都以该格式为主。如果你从 HF 下载模型，默认拿到的就是 &lt;code&gt;.safetensors&lt;/code&gt; 文件。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;推理部署-inference&#34;&gt;推理部署-inference&lt;/h2&gt;
+&lt;h3 id=&#34;推理框架选择&#34;&gt;推理框架选择&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Mega4alik/ollm&#34;&gt;https://github.com/Mega4alik/ollm&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;速度太慢了, 大部分场景都不适合&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/GeeeekExplorer/nano-vllm&#34;&gt;https://github.com/GeeeekExplorer/nano-vllm&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;看起来更新速度不太快, 支持不行, pass&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.vllm.ai/en/stable/&#34;&gt;https://docs.vllm.ai/en/stable/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;推理加速&#34;&gt;推理加速&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;核心思路&lt;/strong&gt;：在资源受限的机器上，推理加速通常是 &lt;strong&gt;“减小模型规模”&lt;/strong&gt;（量化/剪枝/蒸馏）与 &lt;strong&gt;“高效执行”&lt;/strong&gt;（选择合适的框架/内核） 的结合。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;主流推理框架对比&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;框架 / 方法&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;th&gt;核心优势&lt;/th&gt;
+&lt;th&gt;推荐配置参数&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;vLLM&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;LLM 大语言模型服务（如 ChatGPT）&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;PagedAttention&lt;/strong&gt;：通过分页管理 KV Cache，解决显存碎片化问题；支持 Speculative Decoding（推测解码）。在长上下文场景下（如 30K token）表现优越。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;--max-num-batched-token&lt;/code&gt; (控制批处理大小)，&lt;code&gt;--kv-cache-dtype&lt;/code&gt; (设置 KV 缓存类型)[[1]][[2]]&lt;/td&gt;
+&lt;td&gt;在小显存机器上，优于 HuggingFace Transformers 2-4 倍吞吐量[[3]][[4]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;OpenVINO&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Intel CPU / GPU / NPU (如 Xeon, Arc)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;深度优化&lt;/strong&gt;：针对 Intel 硬件的异构执行、自动 batch、性能 Hint (Latency/Throughput)。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;ov::hint::performance_mode(ov::hint::PerformanceMode::THROUGHPUT)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;对于 CPU 推理（如 ResNet, BERT），往往优于 pure PyTorch/TensorRT[[5]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;TensorRT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;NVIDIA GPU (A100, H100, RTX)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;极致加速&lt;/strong&gt;：张量核心 + FP8/INT8 加速；支持混合精度。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;--precision&lt;/code&gt; (FP8/INT8) [[6]]&lt;/td&gt;
+&lt;td&gt;对于视觉模型 (YOLO, Stable Diffusion) 常见首选[[7]][[8]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;ONNX Runtime&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;跨平台部署 (CPU, GPU, NPU, Edge)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;通用性&lt;/strong&gt;：支持 CUDA、DirectML、OpenVINO EP。&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;ExecutionProvider&lt;/code&gt; 选择 (如 &lt;code&gt;CUDAExecutionProvider&lt;/code&gt;)[[9]]&lt;/td&gt;
+&lt;td&gt;适合 Edge 设备（如 Jetson, Graviton）[[10]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;核心加速技术手段&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;技术&lt;/th&gt;
+&lt;th&gt;加速原理&lt;/th&gt;
+&lt;th&gt;典型收益&lt;/th&gt;
+&lt;th&gt;适用场景&lt;/th&gt;
+&lt;th&gt;参考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;PagedAttention&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;类似 OS 虚拟内存分页，按需分配 KV Cache，减少显存碎片。&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;显存利用率近 100%&lt;/strong&gt;，解决长上下文卡死问题[[17]]&lt;/td&gt;
+&lt;td&gt;超长上下文 LLM (30K token 以上)&lt;/td&gt;
+&lt;td&gt;vLLM 独有技术[[18]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Speculative Decoding&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;预先生成多个候选 token，提前并行计算，减少解码串行瓶颈。&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;吞吐量提升 2-4x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;需要高 QPS 的聊天机器人&lt;/td&gt;
+&lt;td&gt;vLLM 中实现[[19]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;自动 Batch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;动态聚合多个推理请求，提高 GPU 利用率。&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;吞吐量提升 1.5x-3x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;低频请求的 API 服务&lt;/td&gt;
+&lt;td&gt;OpenVINO &amp;amp; vLLM 支持[[20]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;MLX-Apple-Silicon&#34;&gt;MLX (Apple Silicon)&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;MLX 是 Apple Silicon (M1/M2/M3/M4) 专属的机器学习框架&lt;/strong&gt;，由苹果 AI 研究团队开发。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心优势：统一内存架构 (Unified Memory)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;在 NVIDIA 显卡上&lt;/strong&gt;：内存 (RAM) 和显存 (VRAM) 物理分离，模型必须能塞进显存&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在 Mac (MLX) 上&lt;/strong&gt;：CPU 和 GPU 共享同一块内存
+&lt;ul&gt;
+&lt;li&gt;一台 128GB 内存的 Mac Studio，MLX 可以直接调用绝大部分来跑模型&lt;/li&gt;
+&lt;li&gt;这意味着 Mac 可以跑动 3090/4090 完全跑不起来的超大模型（如 Llama-3-70B 或 Qwen-72B）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;主要特点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;原生性能&lt;/strong&gt;：专为苹果芯片的 GPU、CPU 和 Neural Engine 优化，速度远超传统 PyTorch&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类 PyTorch 设计&lt;/strong&gt;：API 接近 PyTorch，模型转换成本低&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;延迟评估 (Lazy Evaluation)&lt;/strong&gt;：只有真正需要结果时才执行计算，优化显存和算力分配&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;量化支持&lt;/strong&gt;：AWQ、4-bit、8-bit 等技术都有对应优化实现&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;适用场景&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;场景&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;超大模型尝鲜&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3090 跑不动的 72B 甚至 400B 模型，大内存 Mac 可用 MLX 慢速跑起来&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;本地开发&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;利用 Mac 低功耗特性进行模型微调或推理测试&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;高效推理&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;风扇几乎不转就能处理复杂 AI 任务，适合作为本地 AI 助手&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;3090 (CUDA) vs. Mac (MLX)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;维度&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;NVIDIA RTX 3090&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Apple Silicon + MLX&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;生态系统&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;CUDA（最成熟，工业标准）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;MLX（苹果专属，高性能）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;内存限制&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;固定的 24GB（硬伤）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;动态共享（最高可达 192GB+）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;推理速度&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;极快&lt;/strong&gt;（算力密度高）&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;较快（受限于内存带宽）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;适用人群&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;追求速度、专业开发者&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;追求大模型容量、Mac 办公用户&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;一句话&lt;/strong&gt;：CUDA 是 AI 界的&amp;quot;通用标准&amp;quot;，MLX 是苹果为自家芯片量身定制的&amp;quot;专业跑车引擎&amp;quot;。如果你主力用 3090，MLX 对你没有直接作用；但如果你有 M 系列 Mac，它是跑超大模型的唯一选择。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;常见误区&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;”多加一个 GPU 就能跑大模型”&lt;/strong&gt;：在显存碎片严重时，即使是 2 块卡也可能卡死，&lt;strong&gt;PagedAttention&lt;/strong&gt; 是关键&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;”只要量化就行”&lt;/strong&gt;：直接 INT8 量化有时会导致 LLM 输出乱码，建议先使用 &lt;strong&gt;W4A4 (GPTQ)&lt;/strong&gt; 或者 &lt;strong&gt;INT8 + W8A8 (vLLM)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;KV-Cache-显存估算&#34;&gt;KV Cache 显存估算&lt;/h3&gt;
+&lt;p&gt;KV Cache 是 LLM 推理时显存占用的核心大头之一，尤其在长上下文场景下很容易成为瓶颈。这里记录一个快速估算公式。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;来源: &lt;a href=&#34;https://www.bilibili.com/video/BV1hgQ7BcEw9/&#34;&gt;【硬核科普】KV Cache 到底占了多大显存？&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/blog/2026-04/260417225135132_1776437618876.png&#34; alt=&#34;KV Cache 公式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;对于&lt;strong&gt;量化后的模型&lt;/strong&gt;（KV Cache 通常为 8-bit，即每个元素占 1 字节），显存占用近似为：&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;K&lt;/mi&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;h&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mi&gt;G&lt;/mi&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;L&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;L&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;g&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;h&lt;/mi&gt;&lt;/mrow&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mn&gt;9&lt;/mn&gt;&lt;/msup&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;KV\ Cache\ (GB) \approx \frac{2 \times Layers \times Heads \times Head\ Dim \times Context\ Length}{10^9}
+&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07153em;&#34;&gt;K&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07153em;&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;h&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mspace&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05017em;&#34;&gt;GB&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;≈&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:2.0574em;vertical-align:-0.686em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3714em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.7401em;&#34;&gt;&lt;span style=&#34;top:-2.989em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;9&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;yers&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;He&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;He&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;mspace&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.02778em;&#34;&gt;D&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;im&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07153em;&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;o&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;mspace&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;g&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;h&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;各项含义：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;项&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;K (Key) 和 V (Value) 两个向量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Layers&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Transformer 层数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Heads&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;注意力头数量（GQA 架构下为 KV Heads 数）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Head Dim&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;每个头的维度&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Context Length&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;上下文 Token 数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mn&gt;9&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;10^9&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8141em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8141em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;9&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;字节转 GB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Qwen3.5 27B 示例&lt;/strong&gt;：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;上下文长度&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;计算过程&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;KV Cache 占用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;256k&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;2 x 64 x 4 x 256 x 262144 / 10^9&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;~34.3 GB&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;8k&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;2 x 64 x 4 x 256 x 8192 / 10^9&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;~1.07 GB&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;长上下文对显存的压力是指数级的。如果想在 256k 长度跑满，仅 KV Cache 就要吃掉约 34 GB，这还没算模型权重本身。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;未量化的情况&lt;/strong&gt;：如果 KV Cache 用 FP16（每个元素 2 字节），分子需要再乘 2，上述数字直接翻倍。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;多模态模型&#34;&gt;多模态模型&lt;/h2&gt;
+&lt;h3 id=&#34;CLIP&#34;&gt;CLIP&lt;/h3&gt;
+&lt;p&gt;CLIP（Contrastive Language-Image Pre-training）是 OpenAI 提出的多模态模型，核心思想是同时编码图像和文本，让它们在同一个向量空间中对齐，通过对比学习训练。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;基本能力&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;输入一张图 + 若干文本描述，CLIP 会计算图文匹配度，找出最相关的描述。例如给一张猫图和三个文本 “a cat” / “a dog” / “a car”，CLIP 会返回 “a cat” 最匹配。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工程应用场景&lt;/strong&gt;：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;场景&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;文本驱动检索&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;用文本搜图，适用于数据集筛选&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;零样本分类&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不训练分类器，直接用 prompt 做分类&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;统一 Embedding 空间&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;做多模态 RAG（图像 + 文本混合检索）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;数据清洗&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;过滤不符合描述的脏数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;医疗场景注意事项&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;CLIP 是用互联网通用数据训练的，对医学语义（如超声图像）理解较弱，容易产生语义偏移（semantic drift）。&lt;/p&gt;
+&lt;p&gt;建议的使用路线：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用 CLIP 做&lt;strong&gt;粗筛&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;再用领域模型（如自己微调的 LoRA）做&lt;strong&gt;精筛&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;或者直接训练 &lt;strong&gt;Medical CLIP&lt;/strong&gt; 微调版本&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CLIP 只能作为前置过滤层，不能替代领域模型的判断。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-1&#39; href=&#39;#cite_ref-1&#39;&gt;[1]&lt;/a&gt;: LLM&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-2&#39; href=&#39;#cite_ref-2&#39;&gt;[2]&lt;/a&gt;: &lt;a href=&#34;https://www.bilibili.com/video/BV1hgQ7BcEw9/&#34;&gt;【硬核科普】KV Cache 到底占了多大显存？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-3&#39; href=&#39;#cite_ref-3&#39;&gt;[3]&lt;/a&gt;: &lt;a href=&#34;https://zhuanlan.zhihu.com/p/1965426461012898644&#34;&gt;主流开源 LLM 微调框架对比 - 知乎专栏&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#39;cite_note-4&#39; href=&#39;#cite_ref-4&#39;&gt;[4]&lt;/a&gt;: &lt;a href=&#34;https://github.com/datawhalechina/self-llm&#34;&gt;Self-LLM 项目 - Datawhale&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;/mindmap/mindmap.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;/mindmap/mindmap.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
