@@ -1,0 +1,898 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;med&#34; category</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 29 May 2026 02:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 29 May 2026 02:00:00 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Docker</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>创业</category>
+        <category>ai</category>
+        <category>skills</category>
+        <category>Color</category>
+        <category>超声</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>pwsh</category>
+        <category>宝塔面板</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>AWS</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>ubuntu</category>
+        <category>nvidia</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Gitlab</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>scoop</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>LLM</category>
+        <category>deploy</category>
+        <category>inference</category>
+        <category>chatgpt</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>DL</category>
+        <category>LoRA</category>
+        <category>SFT</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>注解</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/field/med/%E8%B6%85%E5%A3%B0/</guid>
+            <title>超声学习笔记</title>
+            <link>https://blog.weidows.tech/post/field/med/%E8%B6%85%E5%A3%B0/</link>
+            <category>超声</category>
+            <pubDate>Fri, 29 May 2026 02:00:00 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;超声学习笔记&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2026-05-29 10:00:00
+ * @LastEditors: Weidows
+ * @LastEditTime: 2026-06-07 14:50:03
+ * @FilePath: \Blog-private\source\_posts\field\med\超声.md
+ * @Description:
+ * @!:
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠻⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⣀⡾⠀⠀⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣤⣀⣠⡴⠋
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠈⢷⡀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣿⢠⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣧⠀⠀⠀⠀⠀⠀⠀⠈⣆
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⣰⠀⠀⠀⠀⣾⢸⣿⣀⣤⣶⡛⠁⣿⠘⡄⠀⠀⠀⠀⢀⠀⠀⣿⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠸
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⡟⠀⠀⠀⠀⣿⡈⡏⠀⠀⠀⠀⠙⡜⡄⢿⠀⠀⠀⠀⣾⣧⣾⢸⠀⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⣇⠀⠀⠀⠀⣷⣿⣿⣶⣦⣀⠀⠀⠀⠹⡘⣿⡀⠀⠀⢹⣿⠃⢸⠀⣿⠀⢠⣿⠀⠀⠀⠀⠀⣄⣧
+ * ⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⣿⠀⠀⠀⠀⢿⠉⠉⠉⠻⣿⣷⡀⠀⠀⠈⠁⠙⢦⣀⣸⠋⠈⣸⣼⢻⠀⣾⡿⠀⠀⠀⠀⢸⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⠀⠸⡄⣤⠀⠀⠀⣧⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⣿⣿⠇⠀⠀⠀⠀⣾⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠀⠙⠿⣿⠛⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣦⡀⡿⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⠀⣴⠋⠙⣦⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⣼⠉⠙⠳⠦⣤⡀⠀⠀⠀⠀⠀⠀⠈⠻⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⢤⠇⣀⡀⣼⠀⠀⠀⢹⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⢠⣯⣿⣿
+ * ⠀⠀⠀⠀⣠⠋⣠⠟⠁⠀⠈⠛⣄⠀⠀⠀⣇⠀⠀⠀⠀⢹⠀⠀⠀⠀⢀⠟⠀⠀⠀⠀⠀⠀⢾⣁⠀⠀⠀⠀⢀⣾⣤⡏⠉⠉⣿
+ * ⠀⠀⢀⣞⠤⣴⠁⠀⠀⠀⠀⠀⠀⣧⠀⠀⢿⠉⠳⣤⡀⠀⠁⠀⠠⠶⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠧⣴⣾⣿⣿⠟⡇⠀⠀⢸
+ * ⣠⠚⠁⢀⠏⣿⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠈⡏⠛⠶⣤⡉⠛⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡴⣿⣿⠟⠁⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⢸⠀⠘⡄⠀⠀⠀⠀⠀⢹⠀⡿⡄⠀⣿⠀⠀⠀⠀⠙⠲⣤⡀⠙⢦⠉⠉⠉⠉⠉⠉⠁⠀⠀⣿⠀⠀⠀⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⠘⡄⠀⣿⠀⠀⠀⠀⠀⣸⠛⡄⢻⠀⠸⡀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡉⢦⡀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⢰⠇⠀⠀⢸
+ * ⠀⠀⠀⠀⢿⠀⠈⠙⢦⣄⣠⠴⠃⢠⠃⠀⡇⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣦⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣼⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠙⢤⠀⠀⠀⠀⠀⡴⠋⠀⠀⡇⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⡿⠀⠀⠀⠀⡿⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠘⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠀⠀⡇⠀⠀⠀⢰⠁⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡿⠀⠀⠀⠀⠀⣷
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-md&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B6%85%E5%A3%B0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0&#34;&gt;超声学习笔记&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B6%85%E5%A3%B0%E6%88%90%E5%83%8F%E6%A8%A1%E5%BC%8F&#34;&gt;超声成像模式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#b-mode&#34;&gt;B-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#m-mode&#34;&gt;M-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#doppler&#34;&gt;Doppler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tdi&#34;&gt;TDI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%9A%E9%83%A8%E4%BD%8D%E5%AF%B9%E6%AF%94%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF&#34;&gt;多部位对比的产品设计思路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dicom-%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F&#34;&gt;DICOM 文件格式&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84&#34;&gt;文件结构&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8C%89%E5%86%85%E5%AE%B9%E7%B1%BB%E5%9E%8B%E5%88%92%E5%88%86&#34;&gt;按内容类型划分&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#pixel-data-%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F&#34;&gt;Pixel Data 编码方式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%B6%85%E5%A3%B0-dicom-%E7%9A%84%E7%89%B9%E6%AE%8A%E6%80%A7&#34;&gt;超声 DICOM 的特殊性&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9D%99%E6%80%81%E5%9B%BE%E5%83%8F&#34;&gt;静态图像&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8A%A8%E6%80%81%E5%BA%8F%E5%88%97&#34;&gt;动态序列&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%86%E9%A2%91%E6%B5%81&#34;&gt;视频流&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dicom-%E5%AF%BC%E5%87%BA%E4%B8%8E%E8%BD%AC%E6%8D%A2&#34;&gt;DICOM 导出与转换&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A0%87%E5%87%86%E5%AF%BC%E5%87%BA%E5%B1%82%E7%BA%A7&#34;&gt;标准导出层级&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%80%B8%E8%B6%85%E8%AE%BE%E5%A4%87%E5%AF%BC%E5%87%BA%E6%A0%BC%E5%BC%8F&#34;&gt;逸超设备导出格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%A7%86%E9%A2%91%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2&#34;&gt;视频格式转换&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E6%A0%87%E6%B3%A8&#34;&gt;医学影像标注&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%A0%87%E6%B3%A8%E7%B1%BB%E5%9E%8B%E4%B8%8E%E6%A0%BC%E5%BC%8F&#34;&gt;标注类型与格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#python-vs-java-%E6%A0%87%E6%B3%A8%E7%94%9F%E6%80%81%E5%AF%B9%E6%AF%94&#34;&gt;Python vs Java 标注生态对比&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98&#34;&gt;常见问题&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E4%B8%AA-study-%E4%BC%9A%E6%9C%89%E5%A4%9A%E4%B8%AA-series&#34;&gt;为什么一个 Study 会有多个 Series&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;超声成像模式&#34;&gt;超声成像模式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;内容来源: &lt;a href=&#34;https://www.bilibili.com/video/BV1Cr421T7mR&#34;&gt;B站 - 超声视频中级&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;超声不是只有一种&amp;quot;拍片子&amp;quot;, 不同模式解决不同问题. 了解这些基本概念后, 看 DICOM 文件时才能理解它存的是哪类数据.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模式&lt;/th&gt;
+&lt;th&gt;全称&lt;/th&gt;
+&lt;th&gt;原理简述&lt;/th&gt;
+&lt;th&gt;典型用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;B-mode&lt;/td&gt;
+&lt;td&gt;Brightness mode&lt;/td&gt;
+&lt;td&gt;二维灰阶, 回波幅度用亮度表示&lt;/td&gt;
+&lt;td&gt;常规解剖成像, 看结构形态&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M-mode&lt;/td&gt;
+&lt;td&gt;Motion mode&lt;/td&gt;
+&lt;td&gt;单一声束线上随时间变化的位移曲线&lt;/td&gt;
+&lt;td&gt;心脏瓣膜运动、室壁运动分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Doppler&lt;/td&gt;
+&lt;td&gt;多普勒血流成像&lt;/td&gt;
+&lt;td&gt;检测红细胞散射的频移, 计算血流速度和方向&lt;/td&gt;
+&lt;td&gt;血流速度测量、狭窄/反流评估&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;TDI&lt;/td&gt;
+&lt;td&gt;Tissue Doppler Imaging&lt;/td&gt;
+&lt;td&gt;低通滤波滤除高速血流, 保留低速组织(心肌)运动信号&lt;/td&gt;
+&lt;td&gt;心肌运动速度、应变/应变率分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;B-mode&#34;&gt;B-mode&lt;/h3&gt;
+&lt;p&gt;最基础的二维灰阶成像. 探头向体内发射超声波, 接收组织界面的回波, 按回波强度用不同灰度显示. 亮度高 = 回声强(如骨骼、钙化), 亮度低 = 回声弱(如血液、囊肿).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;常说的&amp;quot;B超&amp;quot;就是这个模式. 腹部、产科、浅表器官检查都以 B-mode 为主.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;M-mode&#34;&gt;M-mode&lt;/h3&gt;
+&lt;p&gt;在 B-mode 图像上选定一条取样线, 记录该线上各点随时间运动的位移曲线. 横轴是时间, 纵轴是深度, 亮度表示回声强度.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;时间分辨率极高, 是分析心脏瓣膜开放/关闭时序、室壁运动幅度的经典工具.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;Doppler&#34;&gt;Doppler&lt;/h3&gt;
+&lt;p&gt;利用多普勒效应: 超声遇到运动的红细胞时, 回波频率会发生偏移, 频移大小与血流速度成正比. 通过检测频移可以:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;判断血流方向 (朝向/远离探头)&lt;/li&gt;
+&lt;li&gt;测量血流速度&lt;/li&gt;
+&lt;li&gt;评估血管狭窄、瓣膜反流&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;TDI&#34;&gt;TDI&lt;/h3&gt;
+&lt;p&gt;组织多普勒成像 (Tissue Doppler Imaging) 是 Doppler 技术的变体. 普通彩色多普勒检测的是高速血流(红细胞运动), TDI 通过&lt;strong&gt;低通滤波器&lt;/strong&gt;把高速血流信号滤掉, 只保留低速高振幅的组织运动信号(心肌).&lt;/p&gt;
+&lt;p&gt;临床应用:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;测量二尖瓣环/三尖瓣环组织速度 (e’, a’, s’)&lt;/li&gt;
+&lt;li&gt;评估左室舒张功能 (E/e’ 比值)&lt;/li&gt;
+&lt;li&gt;心脏再同步化治疗 (CRT) 的优化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;TDI 有角度依赖性, 取样线需尽量与心肌运动方向平行. 新一代斑点追踪超声 (STE) 已部分取代 TDI, 但 TDI 因时间分辨率高、操作简便仍在临床广泛使用.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;多部位对比的产品设计思路&#34;&gt;多部位对比的产品设计思路&lt;/h2&gt;
+&lt;p&gt;看超声诊断时注意到几个实际需求, 记录一下:&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/blog/2026-06/1780814888912.jpeg&#34; alt=&#34;1780814888801.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/blog/2026-06/1780814959396.jpeg&#34; alt=&#34;1780814959315.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一些诊断需要结合病史来看, 基础病会影响诊断结果.&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/blog/2026-06/1780814923275.jpeg&#34; alt=&#34;1780814923226.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;很多诊断需要结合多部位, 有些病也需要其他检查来结合判断 (比如 CT).&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/blog/2026-06/1780814976124.jpeg&#34; alt=&#34;1780814976057.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;很有使用价值的图, 我觉得这才是我们应该做的. 超声设备无法简单的做出这种界面, 我们很容易做出来, 又很有应用价值. 医生在分析和案例分享学习时, 能比 PDF/PPT 更高效.&lt;/p&gt;
+&lt;p&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/blog/2026-06/1780814992332.jpeg&#34; alt=&#34;1780814992274.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;切入邻床实际, 医生接到一位患者, 拿到病例表现, 去做部位检查. 因为涉及到多部位, 有需要频繁切换来对比观看, 超声机器上不方便. 他可能想要这么个界面: 多个部位对比着看, 左右点击一下就方便多部位参照.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;DICOM-文件格式&#34;&gt;DICOM 文件格式&lt;/h2&gt;
+&lt;h3 id=&#34;文件结构&#34;&gt;文件结构&lt;/h3&gt;
+&lt;p&gt;DICOM 文件包含两部分:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;File Meta Header（文件头）&lt;/strong&gt;&lt;br&gt;
+包括标识信息 (如 SOP Class、Transfer Syntax UID、创建时间等).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data Set（数据集）&lt;/strong&gt;&lt;br&gt;
+由一个个 Data Element（标签）组成, 比如:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;标签&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;(0010,0010)&lt;/td&gt;
+&lt;td&gt;PatientName&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;(0028,0010)&lt;/td&gt;
+&lt;td&gt;Rows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;(7FE0,0010)&lt;/td&gt;
+&lt;td&gt;Pixel Data ← 真正的图像像素在这里!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;按内容类型划分&#34;&gt;按内容类型划分&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;th&gt;Pixel Data 结构&lt;/th&gt;
+&lt;th&gt;常见 SOP Class&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;单帧图像&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;一张静态医学图像（如X光、CT单层）&lt;/td&gt;
+&lt;td&gt;一帧像素矩阵&lt;/td&gt;
+&lt;td&gt;e.g. &lt;code&gt;CT Image Storage&lt;/code&gt;, &lt;code&gt;MR Image Storage&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;多帧图像&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;同一序列的多帧（可看作图像堆栈或短视频）&lt;/td&gt;
+&lt;td&gt;多帧像素数组（帧数在 &lt;code&gt;(0028,0008)&lt;/code&gt; Number of Frames）&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Enhanced MR Image Storage&lt;/code&gt;, &lt;code&gt;Ultrasound Multi-frame Image Storage&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;视频（动态序列）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;超声、透视、内窥镜常见&lt;/td&gt;
+&lt;td&gt;多帧像素序列，通常以时间轴索引&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ultrasound Image Storage&lt;/code&gt;, &lt;code&gt;Video Endoscopic Image Storage&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;多视频（多序列）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;某些设备一次扫描会输出多个 DICOM 序列文件夹，每个序列对应一个视频或体积&lt;/td&gt;
+&lt;td&gt;每个序列一组帧&lt;/td&gt;
+&lt;td&gt;多个 SOP Instance UID 不同&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;3D/体积数据&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CT、MRI 扫描生成的多切片组成三维体积&lt;/td&gt;
+&lt;td&gt;每个切片一帧，按 Z 坐标排列&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Enhanced CT/MR Image Storage&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;结构化报告（DICOM SR）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;文本或标注信息，如测量值、病灶标注&lt;/td&gt;
+&lt;td&gt;无像素数据&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Structured Report Storage&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;RT系列（放疗）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;包括结构集、剂量、计划等&lt;/td&gt;
+&lt;td&gt;可混合使用图像与向量数据&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;RT Structure Set Storage&lt;/code&gt; 等&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;场景&lt;/th&gt;
+&lt;th&gt;DICOM 表现&lt;/th&gt;
+&lt;th&gt;文件数量&lt;/th&gt;
+&lt;th&gt;Pixel Data 特征&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;普通胸片&lt;/td&gt;
+&lt;td&gt;单个 &lt;code&gt;.dcm&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;单帧，2D 灰度&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MRI 扫描（100层）&lt;/td&gt;
+&lt;td&gt;100个 &lt;code&gt;.dcm&lt;/code&gt; 或一个多帧 &lt;code&gt;.dcm&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;多个或1个&lt;/td&gt;
+&lt;td&gt;每帧代表一个切片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;超声动态视频&lt;/td&gt;
+&lt;td&gt;1个 &lt;code&gt;.dcm&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;多帧，含时间轴&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;超声多序列&lt;/td&gt;
+&lt;td&gt;多个 &lt;code&gt;.dcm&lt;/code&gt; 文件，每个一个视频序列&lt;/td&gt;
+&lt;td&gt;多个&lt;/td&gt;
+&lt;td&gt;每个有多帧&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;内窥镜或术中记录&lt;/td&gt;
+&lt;td&gt;有时封装 MPEG-2 / H.264 视频流&lt;/td&gt;
+&lt;td&gt;1个 &lt;code&gt;.dcm&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Pixel Data 中是压缩视频流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;Pixel-Data-编码方式&#34;&gt;Pixel Data 编码方式&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;压缩方式&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;th&gt;示例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;未压缩&lt;/td&gt;
+&lt;td&gt;原始像素矩阵（Raw）&lt;/td&gt;
+&lt;td&gt;常见于 CT、MR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;JPEG / JPEG2000&lt;/td&gt;
+&lt;td&gt;有损或无损压缩&lt;/td&gt;
+&lt;td&gt;超声、CR、DR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MPEG-2 / H.264&lt;/td&gt;
+&lt;td&gt;视频流压缩&lt;/td&gt;
+&lt;td&gt;内窥镜、超声视频&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;RLE&lt;/td&gt;
+&lt;td&gt;无损游程编码&lt;/td&gt;
+&lt;td&gt;某些老设备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;超声-DICOM-的特殊性&#34;&gt;超声 DICOM 的特殊性&lt;/h3&gt;
+&lt;p&gt;超声设备导出的 DICOM 有三种形态, 处理时必须先判断是哪种, 否则读图或转视频时会踩坑.&lt;/p&gt;
+&lt;h4 id=&#34;静态图像&#34;&gt;静态图像&lt;/h4&gt;
+&lt;p&gt;医生按键冻结画面时, 设备保存的&amp;quot;单张截图&amp;quot;, 用于测量、诊断、报告等场景.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;属性&lt;/th&gt;
+&lt;th&gt;示例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(0028,0008) Number of Frames&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;不存在&lt;/strong&gt; 或 值为 &lt;code&gt;1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(7FE0,0010) Pixel Data&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;单帧灰度或彩色图像&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;常见 SOP Class&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ultrasound Image Storage (1.2.840.10008.5.1.4.1.1.6.1)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;动态序列&#34;&gt;动态序列&lt;/h4&gt;
+&lt;p&gt;超声扫描过程中记录的动态视频序列, 可用于回放或导出为 AVI/MP4.&lt;/p&gt;
+&lt;p&gt;实际就是时间轴连续的图片, 如需导出视频的话, 需要做编码转换 (有较大性能占用).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;属性&lt;/th&gt;
+&lt;th&gt;示例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(0028,0008) Number of Frames&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;存在且 &amp;gt; 1&lt;/strong&gt;（例如 120）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(0018,1063) Frame Time&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;每帧间隔（单位 ms）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;(7FE0,0010) Pixel Data&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;多帧像素序列或视频流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;常见 SOP Class&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ultrasound Multi-frame Image Storage (1.2.840.10008.5.1.4.1.1.3.1)&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;视频流&#34;&gt;视频流&lt;/h4&gt;
+&lt;p&gt;一些高端设备（尤其是内窥或心超）还可能使用 MPEG-2 或 H.264 编码的视频流嵌入在 (7FE0,0010) 的 Pixel Data 中.&lt;/p&gt;
+&lt;p&gt;对应 SOP Class 例如: &lt;code&gt;Video Ultrasound Image Storage (1.2.840.10008.5.1.4.1.1.6.2)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;实际就是编码压缩过的多帧图像, 占用体积比多帧小很多, 本身就是视频所以可直接导出 (几乎无性能占用).&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; pydicom&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;ds = pydicom.dcmread(&lt;span class=&#34;string&#34;&gt;&amp;quot;example.dcm&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;frames = &lt;span class=&#34;built_in&#34;&gt;getattr&lt;/span&gt;(ds, &lt;span class=&#34;string&#34;&gt;&amp;quot;NumberOfFrames&amp;quot;&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sop_class = ds.SOPClassUID&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; frames == &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;静态图像 DICOM&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;Video&amp;quot;&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(sop_class):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;视频流 DICOM (MPEG/H.264)&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;f&amp;quot;多帧 DICOM (&lt;span class=&#34;subst&#34;&gt;&amp;#123;frames&amp;#125;&lt;/span&gt; 帧)&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;DICOM-导出与转换&#34;&gt;DICOM 导出与转换&lt;/h2&gt;
+&lt;h3 id=&#34;标准导出层级&#34;&gt;标准导出层级&lt;/h3&gt;
+&lt;figure class=&#34;highlight dns&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;导出批次（Export Batch）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;└─ &lt;span class=&#34;number&#34;&gt;20251015&lt;/span&gt;_100893_0001_202510&lt;span class=&#34;number&#34;&gt;15_100047534&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ├─ 病人&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;（Patient &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │   └─ Anonymous_0001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │       ├─ DICOMDIR&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │       └─ DICOM&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │           └─ PAT00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               ├─ STU00001  ← 第一次扫描 (Study)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   ├─ SER00001  ← B 模序列 (Series)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   │   ├─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;  ← 单张图像 (Instance)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   │   ├─ I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   │   └─ I&lt;span class=&#34;number&#34;&gt;0000003&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   └─ SER00002  ← 彩色血流序列&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │       ├─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │       └─ I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               └─ STU00002  ← 第二次扫描&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │                   └─ SER00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │                       ├─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │                       └─ I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ├─ 病人&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;（Patient &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │   └─ Anonymous_0002&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │       ├─ DICOMDIR&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │       └─ DICOM&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │           └─ PAT00002&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               ├─ STU00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   ├─ SER00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   │   ├─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   │   └─ I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │   └─ SER00002&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               │       └─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │               └─ STU00002&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │                   └─ SER00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │                       ├─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │                       └─ I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    │&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    └─ 病人&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;（Patient &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        └─ Anonymous_0003&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            ├─ DICOMDIR&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            └─ DICOM&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                └─ PAT00003&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                    └─ STU00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                        └─ SER00001&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                            ├─ I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                            ├─ I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;                            └─ I&lt;span class=&#34;number&#34;&gt;0000003&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;层级关系: &lt;strong&gt;Patient → Study (一次检查) → Series (一个序列/模式) → Instance (单张图像/帧)&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;逸超设备导出格式&#34;&gt;逸超设备导出格式&lt;/h3&gt;
+&lt;figure class=&#34;highlight dns&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;C:.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;├─&lt;span class=&#34;number&#34;&gt;20251015&lt;/span&gt;_100893_0001_202510&lt;span class=&#34;number&#34;&gt;16_114732235&lt;/span&gt;   ← 患者ID_导出时间ID&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│  └─Anonymous Anonymous Anonymous_20251015_&lt;span class=&#34;number&#34;&gt;100893_0001&lt;/span&gt;  ← 病人目录（患者级别）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│      │  DICOMDIR                            ← DICOM目录文件（索引）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│      └─DICOM&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│          └─PAT00001                         ← 病人ID（内部编号）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│              └─STU00001                     ← Study（一次检查/研究）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│                  ├─SER00001                 ← Series（一次采集序列）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│                  │  │  I&lt;span class=&#34;number&#34;&gt;0000001&lt;/span&gt;, I&lt;span class=&#34;number&#34;&gt;0000002&lt;/span&gt;   ← 图像帧（DICOM文件）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│                  │  └─converted             ← 转换后文件夹（MP4、JPG等）&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│                  ├─SER00002&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;│                  └─SER00003&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;逸超设备会在每个 Series 下自动创建 &lt;code&gt;converted&lt;/code&gt; 文件夹, 预转好 MP4/JPG, 方便非 DICOM 系统直接使用. 这点很贴心, 不用自己写脚本转视频了.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;视频格式转换&#34;&gt;视频格式转换&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;格式&lt;/th&gt;
+&lt;th&gt;编码方式&lt;/th&gt;
+&lt;th&gt;特点&lt;/th&gt;
+&lt;th&gt;推荐场景&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;MP4 (H.264)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;有损压缩&lt;/td&gt;
+&lt;td&gt;通用、兼容性极高、文件小、质量较好&lt;/td&gt;
+&lt;td&gt;✅ 推荐：用于展示、教学、科研报告等&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;AVI (无压缩或MJPEG)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;可无损&lt;/td&gt;
+&lt;td&gt;文件大，但保真&lt;/td&gt;
+&lt;td&gt;医学分析、算法训练前数据准备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;MOV (H.264 / ProRes)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;有损或轻压缩&lt;/td&gt;
+&lt;td&gt;苹果生态友好，质量高&lt;/td&gt;
+&lt;td&gt;视频编辑、科研展示&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;MKV (H.264 / H.265)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;有损压缩&lt;/td&gt;
+&lt;td&gt;可封装多通道音视频、元数据&lt;/td&gt;
+&lt;td&gt;特殊研究项目&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;H.265 / HEVC&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;有损高效压缩&lt;/td&gt;
+&lt;td&gt;同质量体积更小，但编码慢&lt;/td&gt;
+&lt;td&gt;长序列或云端传输&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从 DICOM 多帧 Pixel Data 导出视频时, 要逐帧解码再编码, CPU 占用很高. 如果 DICOM 本身是视频流编码 (MPEG/H.264), 可以直接提取流封装到 MP4, 几乎零性能消耗.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;医学影像标注&#34;&gt;医学影像标注&lt;/h2&gt;
+&lt;h3 id=&#34;标注类型与格式&#34;&gt;标注类型与格式&lt;/h3&gt;
+&lt;p&gt;在医学影像中, 「标注（Annotation）」可能包含以下几种形式:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;示例&lt;/th&gt;
+&lt;th&gt;数据格式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;像素级分割（Segmentation）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;器官或病灶mask&lt;/td&gt;
+&lt;td&gt;DICOM SEG、NIfTI、PNG mask&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;二维标记（点/框/多边形）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ROI、测量线、医生手动圈选&lt;/td&gt;
+&lt;td&gt;DICOM Presentation State (PR)、私有JSON&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;结构化描述（诊断结论）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;“前列腺体积xxml，疑似病灶区域xx”&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;DICOM SR（Structured Report）&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;AI推理结果&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;模型输出mask、评分、概率&lt;/td&gt;
+&lt;td&gt;通常自定义JSON + DICOM SEG&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;格式&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;th&gt;优点&lt;/th&gt;
+&lt;th&gt;工具/库&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;DICOM SEG&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;存储分割Mask&lt;/td&gt;
+&lt;td&gt;标准化、兼容各厂商&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;dcmqi&lt;/code&gt;, &lt;code&gt;pydicom&lt;/code&gt;, &lt;code&gt;dcm4che&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;DICOM SR (Structured Report)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;存储测量/文字诊断&lt;/td&gt;
+&lt;td&gt;可机器解析、符合IHE标准&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;highdicom&lt;/code&gt;, &lt;code&gt;dcm4che&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;DICOM PR (Presentation State)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;存储显示用标注&lt;/td&gt;
+&lt;td&gt;支持图形ROI，但非语义化&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;dcm4che&lt;/code&gt;, &lt;code&gt;pydicom&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;自定义 JSON 标注&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;训练数据集常用&lt;/td&gt;
+&lt;td&gt;简单灵活，非标准&lt;/td&gt;
+&lt;td&gt;Python自定义&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;需求&lt;/th&gt;
+&lt;th&gt;推荐格式&lt;/th&gt;
+&lt;th&gt;生成方式&lt;/th&gt;
+&lt;th&gt;解析方式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;影像分割结果（AI/手动mask）&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;DICOM SEG&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Python: &lt;code&gt;highdicom&lt;/code&gt; / &lt;code&gt;dcmqi&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Java: &lt;code&gt;dcm4che-seg&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;定量测量、文字报告&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;DICOM SR&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Python: &lt;code&gt;highdicom&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Java: &lt;code&gt;dcm4che-sr&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;仅内部使用训练标注&lt;/td&gt;
+&lt;td&gt;JSON + mask 文件&lt;/td&gt;
+&lt;td&gt;Python 自定义&lt;/td&gt;
+&lt;td&gt;Java/Python 通用解析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;目标&lt;/th&gt;
+&lt;th&gt;推荐做法&lt;/th&gt;
+&lt;th&gt;原因&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;构建标准化医学标注系统&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;DICOM SR + SEG&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;符合国际标准，方便医院/PACS对接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;简单AI数据集标注&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;JSON + NIfTI/PNG mask&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;简单易操作&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Java 环境&lt;/td&gt;
+&lt;td&gt;用 &lt;code&gt;dcm4che-sr&lt;/code&gt; / &lt;code&gt;dcm4che-seg&lt;/code&gt; 解析与生成&lt;/td&gt;
+&lt;td&gt;官方支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Python 预处理或AI&lt;/td&gt;
+&lt;td&gt;用 &lt;code&gt;highdicom&lt;/code&gt; / &lt;code&gt;dcmqi&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;社区主流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;Python-vs-Java-标注生态对比&#34;&gt;Python vs Java 标注生态对比&lt;/h3&gt;
+&lt;p&gt;为什么不推荐&amp;quot;让 Java 来做标注生成&amp;quot;? 主要是以下几个现实原因:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;标注生成往往依赖图像数据处理&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;医学标注不仅是元信息写入, 还涉及像素、mask、坐标、图像空间映射. Java 没有成熟的医学影像处理库:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;没有 SimpleITK、nibabel、numpy&lt;/li&gt;
+&lt;li&gt;坐标系、体素、spacing、affine matrix 等都需要自己实现&lt;/li&gt;
+&lt;li&gt;Python 则有成熟生态 (highdicom, SimpleITK, dcmqi), 能直接读写、变换、验证&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;✅ 在 Python: &lt;code&gt;seg = highdicom.seg.Segmentation(...)&lt;/code&gt; 就能生成符合标准的 SEG 文件. &lt;br&gt;
+❌ 在 Java: 你得手工拼 DICOM dataset 结构, 几百行 XML 树状属性.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DICOM SR 的语义编码复杂&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SR 文件需要使用标准化术语编码 (SNOMED CT、UCUM、LOINC). Python 的 &lt;code&gt;highdicom.sr&lt;/code&gt; 封装了各种编码模板 (如 TID 1500、TID 300), 可直接使用. Java 的 &lt;code&gt;dcm4che-sr&lt;/code&gt; 层次较低, 需要你手动创建 Attributes 树、填 CodeSequence, 非常繁琐.&lt;/p&gt;
+&lt;p&gt;✅ Python: &lt;code&gt;MeasurementReport(...)&lt;/code&gt; 一行构建完整报告 &lt;br&gt;
+❌ Java: 你得手工拼 ContentSequence、ValueType、ConceptNameCodeSequence、ConceptCodeSequence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;医学标注多与 AI / 图像算法绑定&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;实际上, 标注文件常来自 AI 推理结果或人工审阅系统. AI 推理 → 通常是 Python 环境 (PyTorch / MONAI). 标注后生成 DICOM SEG/SR → Python 一站式完成更自然. Java 若要参与标注生成, 反而要跨语言调用 Python 算法输出, 增加复杂度.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;常见问题&#34;&gt;常见问题&lt;/h2&gt;
+&lt;h3 id=&#34;为什么一个-Study-会有多个-Series&#34;&gt;为什么一个 Study 会有多个 Series&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;场景&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;不同成像模式&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;比如 B 模、彩色多普勒（CFM）、脉冲多普勒（PW）、M 模等。每种模式会生成一个独立的 Series。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;不同探头&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;如果在同一次检查中切换了探头（如腹部探头、腔内探头），也会分成不同 Series。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;静态图像 vs 动态视频&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;一些超声仪器会把保存的&amp;quot;视频片段&amp;quot;和&amp;quot;静态截图&amp;quot;分别保存为独立 Series。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;参数变化&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;比如改变了深度、焦点、增益或测量设置后，设备可能重新开始一个 Series。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;复合图像或测量图&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;测量报告图（带测量线的图像）或复合模式（Compound Imaging）也可能单独作为 Series。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://pan.weidows.tech/d/local/img/loading.svg&#34; data-lazy-src=&#34;https://pan.weidows.tech/d/local/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Cr421T7mR&#34;&gt;超声视频中级 - B站&lt;/a&gt; — 基础概念来源&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35995898/&#34;&gt;Highdicom: a Python library for standardized encoding of image annotations&lt;/a&gt; — DICOM SEG/SR 标准化编码&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://highdicom.readthedocs.io/&#34;&gt;highdicom Documentation&lt;/a&gt; — Python DICOM 标注库&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dicom.nema.org/&#34;&gt;DICOM Standard - NEMA&lt;/a&gt; — DICOM 标准官方文档&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DaoCloud/public-image-mirror&#34;&gt;DaoCloud public-image-mirror&lt;/a&gt; — 国内镜像源参考 (注: 与本主题无关, 保留原引用)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;/mindmap/mindmap.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;/mindmap/mindmap.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
