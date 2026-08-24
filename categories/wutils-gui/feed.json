@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "⭐️齐下无贰⭐️ • All posts by \"wutils-gui\" category",
+    "description": "May all the beauty be bless.✨",
+    "home_page_url": "https://blog.weidows.tech",
+    "items": [
+        {
+            "id": "https://blog.weidows.tech/post/lang/golang/wutils/cmd/wutils-gui/build/README/",
+            "url": "https://blog.weidows.tech/post/lang/golang/wutils/cmd/wutils-gui/build/README/",
+            "title": "",
+            "date_published": "2026-08-24T10:31:25.713Z",
+            "content_html": "<h1>Build Directory</h1>\n<p>The build directory is used to house all the build files and assets for your application.</p>\n<p>The structure is:</p>\n<ul>\n<li>bin - Output directory</li>\n<li>darwin - macOS specific files</li>\n<li>windows - Windows specific files</li>\n</ul>\n<h2 id=\"Mac\">Mac</h2>\n<p>The <code>darwin</code> directory holds files specific to Mac builds.<br>\nThese may be customised and used as part of the build. To return these files to the default state, simply delete them<br>\nand<br>\nbuild with <code>wails build</code>.</p>\n<p>The directory contains the following files:</p>\n<ul>\n<li><code>Info.plist</code> - the main plist file used for Mac builds. It is used when building using <code>wails build</code>.</li>\n<li><code>Info.dev.plist</code> - same as the main plist file but used when building using <code>wails dev</code>.</li>\n</ul>\n<h2 id=\"Windows\">Windows</h2>\n<p>The <code>windows</code> directory contains the manifest and rc files used when building with <code>wails build</code>.<br>\nThese may be customised for your application. To return these files to the default state, simply delete them and<br>\nbuild with <code>wails build</code>.</p>\n<ul>\n<li><code>icon.ico</code> - The icon used for the application. This is used when building using <code>wails build</code>. If you wish to<br>\nuse a different icon, simply replace this file with your own. If it is missing, a new <code>icon.ico</code> file<br>\nwill be created using the <code>appicon.png</code> file in the build directory.</li>\n<li><code>installer/*</code> - The files used to create the Windows installer. These are used when building using <code>wails build</code>.</li>\n<li><code>info.json</code> - Application details used for Windows builds. The data here will be used by the Windows installer,<br>\nas well as the application itself (right click the exe -&gt; properties -&gt; details)</li>\n<li><code>wails.exe.manifest</code> - The main application manifest file.</li>\n</ul>\n",
+            "tags": []
+        }
+    ]
+}

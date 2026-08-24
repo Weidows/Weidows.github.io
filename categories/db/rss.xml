@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>⭐️齐下无贰⭐️ • Posts by &#34;db&#34; category</title>
+        <link>https://blog.weidows.tech</link>
+        <description>May all the beauty be bless.✨</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 24 Jun 2026 17:10:56 +0000</pubDate>
+        <lastBuildDate>Wed, 24 Jun 2026 17:10:56 +0000</lastBuildDate>
+        <category>备忘录</category>
+        <category>API</category>
+        <category>Twitter</category>
+        <category>cloudflare</category>
+        <category>推荐</category>
+        <category>浏览器</category>
+        <category>扩展</category>
+        <category>FFmpeg</category>
+        <category>算法</category>
+        <category>hexdump</category>
+        <category>HLS</category>
+        <category>openssl</category>
+        <category>shell</category>
+        <category>密码学</category>
+        <category>QQ</category>
+        <category>PS</category>
+        <category>设计</category>
+        <category>配色</category>
+        <category>架构</category>
+        <category>公司</category>
+        <category>管理</category>
+        <category>doing</category>
+        <category>ideas</category>
+        <category>design</category>
+        <category>摄影</category>
+        <category>SSH</category>
+        <category>Linux</category>
+        <category>Regex</category>
+        <category>yaml</category>
+        <category>笔记</category>
+        <category>English</category>
+        <category>生活</category>
+        <category>游戏</category>
+        <category>Steam</category>
+        <category>ARK</category>
+        <category>Noita</category>
+        <category>哲学</category>
+        <category>Dev</category>
+        <category>医学</category>
+        <category>健身</category>
+        <category>猫</category>
+        <category>工作</category>
+        <category>VScode</category>
+        <category>IDEA</category>
+        <category>HTML</category>
+        <category>CSS</category>
+        <category>JavaScript</category>
+        <category>成长路线</category>
+        <category>基础知识</category>
+        <category>Java</category>
+        <category>cpp</category>
+        <category>Python</category>
+        <category>工具</category>
+        <category>大前端</category>
+        <category>Font</category>
+        <category>VR</category>
+        <category>网课</category>
+        <category>Manjaro</category>
+        <category>操作系统</category>
+        <category>服务器</category>
+        <category>虚拟机</category>
+        <category>树莓派</category>
+        <category>Windows</category>
+        <category>office</category>
+        <category>docker</category>
+        <category>system</category>
+        <category>多线程</category>
+        <category>进程</category>
+        <category>CPU</category>
+        <category>Scoop</category>
+        <category>Maven</category>
+        <category>Git</category>
+        <category>nodejs</category>
+        <category>wsl2</category>
+        <category>Aria2</category>
+        <category>PyCharm</category>
+        <category>Goland</category>
+        <category>图床</category>
+        <category>爬虫</category>
+        <category>SM.MS</category>
+        <category>package</category>
+        <category>homebrew</category>
+        <category>Tomcat</category>
+        <category>Website</category>
+        <category>AI</category>
+        <category>GPT</category>
+        <category>手机</category>
+        <category>耳机</category>
+        <category>电脑</category>
+        <category>npm</category>
+        <category>yarn</category>
+        <category>distribution</category>
+        <category>LeetCode</category>
+        <category>数据结构</category>
+        <category>面试</category>
+        <category>OpenGL</category>
+        <category>C</category>
+        <category>conan</category>
+        <category>计网</category>
+        <category>硬件</category>
+        <category>OneNote</category>
+        <category>复变函数</category>
+        <category>人工智能</category>
+        <category>通信</category>
+        <category>音频</category>
+        <category>傅里叶变换</category>
+        <category>极化码</category>
+        <category>信息论</category>
+        <category>SQL</category>
+        <category>前端</category>
+        <category>JSON</category>
+        <category>Docker</category>
+        <category>Mariadb</category>
+        <category>后端</category>
+        <category>k8s</category>
+        <category>天文学</category>
+        <category>物理</category>
+        <category>LaTeX</category>
+        <category>Butterfly</category>
+        <category>KaTeX</category>
+        <category>Math</category>
+        <category>research</category>
+        <category>math</category>
+        <category>dataset</category>
+        <category>深度学习</category>
+        <category>点云</category>
+        <category>自动驾驶</category>
+        <category>Color</category>
+        <category>创业</category>
+        <category>ai</category>
+        <category>skills</category>
+        <category>超声</category>
+        <category>Javadoc</category>
+        <category>编码</category>
+        <category>设计模式</category>
+        <category>JVM</category>
+        <category>Lambda</category>
+        <category>CORS</category>
+        <category>JQuery</category>
+        <category>Vue</category>
+        <category>Cmake</category>
+        <category>区块链</category>
+        <category>Golang</category>
+        <category>Markdown</category>
+        <category>markdown</category>
+        <category>slidev</category>
+        <category>PHP</category>
+        <category>Processing</category>
+        <category>Anaconda</category>
+        <category>python</category>
+        <category>opengl</category>
+        <category>PowerShell</category>
+        <category>zsh</category>
+        <category>pwsh</category>
+        <category>宝塔面板</category>
+        <category>css</category>
+        <category>nextjs</category>
+        <category>fullstack</category>
+        <category>vercel</category>
+        <category>阿里云</category>
+        <category>jimp</category>
+        <category>typescript</category>
+        <category>guitar</category>
+        <category>music</category>
+        <category>音乐</category>
+        <category>心理学</category>
+        <category>搞笑</category>
+        <category>高能</category>
+        <category>微信</category>
+        <category>relationship</category>
+        <category>card</category>
+        <category>闲鱼</category>
+        <category>购物</category>
+        <category>快捷键</category>
+        <category>theme</category>
+        <category>db</category>
+        <category>AWS</category>
+        <category>Ubuntu</category>
+        <category>alist</category>
+        <category>ubuntu</category>
+        <category>nvidia</category>
+        <category>蓝易云</category>
+        <category>Hexo</category>
+        <category>Github</category>
+        <category>Gitee</category>
+        <category>Gitlab</category>
+        <category>Action</category>
+        <category>branch</category>
+        <category>release</category>
+        <category>rime</category>
+        <category>输入法</category>
+        <category>scoop</category>
+        <category>Copilot</category>
+        <category>插件</category>
+        <category>Emmet</category>
+        <category>美化</category>
+        <category>vscode</category>
+        <category>extension</category>
+        <category>snippet</category>
+        <category>SEO</category>
+        <category>Pjax</category>
+        <category>butterfly</category>
+        <category>pug</category>
+        <category>styl</category>
+        <category>优化</category>
+        <category>魔改</category>
+        <category>MyBatis</category>
+        <category>Map</category>
+        <category>CRUD</category>
+        <category>日志</category>
+        <category>分页</category>
+        <category>数据库</category>
+        <category>注解</category>
+        <category>MySQL</category>
+        <category>JDBC</category>
+        <category>JavaWeb</category>
+        <category>Servlet</category>
+        <category>Cookie</category>
+        <category>Session</category>
+        <category>JSP</category>
+        <category>Filter</category>
+        <category>对象</category>
+        <category>反射</category>
+        <category>tools</category>
+        <category>doc</category>
+        <category>wutils</category>
+        <category>机器学习</category>
+        <category>MMDetection</category>
+        <category>DL</category>
+        <category>LoRA</category>
+        <category>SFT</category>
+        <category>LLM</category>
+        <category>deploy</category>
+        <category>inference</category>
+        <category>chatgpt</category>
+        <category>Colab</category>
+        <category>概率论</category>
+        <item>
+            <guid isPermalink="true">https://blog.weidows.tech/post/system/db/Indexing/</guid>
+            <title>索引算法全景对比与选型指南</title>
+            <link>https://blog.weidows.tech/post/system/db/Indexing/</link>
+            <category>db</category>
+            <pubDate>Wed, 24 Jun 2026 17:10:56 +0000</pubDate>
+            <description><![CDATA[ &lt;h1&gt;索引算法全景对比与选型指南&lt;/h1&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B4%A2%E5%BC%95%E7%AE%97%E6%B3%95%E5%85%A8%E6%99%AF%E5%AF%B9%E6%AF%94%E4%B8%8E%E9%80%89%E5%9E%8B%E6%8C%87%E5%8D%97&#34;&gt;索引算法全景对比与选型指南&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B4%A2%E5%BC%95%E7%B1%BB%E5%9E%8B%E5%85%A8%E6%99%AF%E5%AF%B9%E6%AF%94&#34;&gt;索引类型全景对比&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%8E-btree&#34;&gt;关系型数据库与 B+Tree&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E6%9C%AC%E9%83%BD%E9%80%89-btree&#34;&gt;为什么关系型数据库基本都选 B+Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#b-tree&#34;&gt;B-Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#btree&#34;&gt;B+Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88-hdd-%E7%89%B9%E5%88%AB%E9%80%82%E5%90%88-btree&#34;&gt;为什么 HDD 特别适合 B+Tree&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ssd-%E6%97%B6%E4%BB%A3%E4%B8%8E-lsm-tree&#34;&gt;SSD 时代与 LSM Tree&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ssd-%E5%87%BA%E7%8E%B0%E5%90%8E%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&#34;&gt;SSD 出现后发生了什么&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lsm-tree&#34;&gt;LSM Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#btree-vs-lsm-tree&#34;&gt;B+Tree vs LSM Tree&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%93%E7%94%A8%E7%B4%A2%E5%BC%95&#34;&gt;专用索引&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#hash-%E7%B4%A2%E5%BC%95&#34;&gt;Hash 索引&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#bitmap-%E7%B4%A2%E5%BC%95&#34;&gt;Bitmap 索引&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%85%A8%E6%96%87%E7%B4%A2%E5%BC%95-inverted-index&#34;&gt;全文索引 (Inverted Index)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%90%91%E9%87%8F%E7%B4%A2%E5%BC%95-hnsw--ivf-pq&#34;&gt;向量索引 (HNSW / IVF-PQ)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#hnsw&#34;&gt;HNSW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#ivf-pq&#34;&gt;IVF-PQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9C%BA%E6%99%AF%E9%80%89%E5%9E%8B%E6%8C%87%E5%8D%97&#34;&gt;场景选型指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;索引类型全景对比&#34;&gt;索引类型全景对比&lt;/h2&gt;
+&lt;p&gt;如果把索引看成一个「数据定位算法」，那么不同索引本质上是在 &lt;strong&gt;空间占用、写入成本、查询能力、存储介质特性&lt;/strong&gt; 之间做权衡.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;索引类型&lt;/th&gt;
+&lt;th&gt;等值查询&lt;/th&gt;
+&lt;th&gt;范围查询&lt;/th&gt;
+&lt;th&gt;排序&lt;/th&gt;
+&lt;th&gt;模糊搜索&lt;/th&gt;
+&lt;th&gt;写入成本&lt;/th&gt;
+&lt;th&gt;空间占用&lt;/th&gt;
+&lt;th&gt;典型数据库&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Hash&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;Redis、Memcached&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B-Tree&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;MySQL、PostgreSQL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B+Tree&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;InnoDB、SQLite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bitmap&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;Oracle、ClickHouse&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FullText&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;Elasticsearch、MySQL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Trie&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;搜索引擎、输入法&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;R-Tree&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;GIS 数据库&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LSM Tree&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;RocksDB、LevelDB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HNSW&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;向量检索&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;Milvus、Qdrant&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IVF-PQ&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;向量检索&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;FAISS、Milvus&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这张表是指南性质的对照表，不是评分榜。实际选型时还要结合数据量、读写比例、硬件条件来定.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;关系型数据库与-B-Tree&#34;&gt;关系型数据库与 B+Tree&lt;/h2&gt;
+&lt;h3 id=&#34;为什么关系型数据库基本都选-B-Tree&#34;&gt;为什么关系型数据库基本都选 B+Tree&lt;/h3&gt;
+&lt;p&gt;核心原因：&lt;strong&gt;机械硬盘时代的物理限制&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;访问一次机械硬盘数据 = 寻道时间 + 旋转延迟 + 读取时间:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;操作&lt;/th&gt;
+&lt;th&gt;HDD&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;寻道&lt;/td&gt;
+&lt;td&gt;5~10ms&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;旋转&lt;/td&gt;
+&lt;td&gt;2~5ms&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;读取 4KB&lt;/td&gt;
+&lt;td&gt;0.01ms&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;95% 以上时间浪费在寻道&lt;/strong&gt;。因此数据库设计目标变成：&lt;strong&gt;尽量减少磁盘访问次数&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;于是出现了 B-Tree 系列.&lt;/p&gt;
+&lt;h3 id=&#34;B-Tree&#34;&gt;B-Tree&lt;/h3&gt;
+&lt;p&gt;阶数为 4 的示例:&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;       &lt;span class=&#34;selector-attr&#34;&gt;[20]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    /        \&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-attr&#34;&gt;[5,10]&lt;/span&gt;      &lt;span class=&#34;selector-attr&#34;&gt;[30,40]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;特点: &lt;strong&gt;数据可以存储在所有节点&lt;/strong&gt;，查询过程中可能提前命中.&lt;/p&gt;
+&lt;p&gt;缺点: 叶子节点不连续。范围查询 &lt;code&gt;where age between 20 and 50&lt;/code&gt; 需要不停回溯树结构，效率低.&lt;/p&gt;
+&lt;h3 id=&#34;B-Tree-2&#34;&gt;B+Tree&lt;/h3&gt;
+&lt;p&gt;B+Tree 的改进:&lt;/p&gt;
+&lt;figure class=&#34;highlight inform7&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;         &lt;span class=&#34;comment&#34;&gt;[20]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;       /      \&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;[10]&lt;/span&gt;     &lt;span class=&#34;comment&#34;&gt;[30]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;叶子:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;[1,2,3,4]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ↓&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;[5,6,7,8]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ↓&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;[9,10,11]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;真正数据全部在叶子节点。内部节点只存 key + child pointer.&lt;/p&gt;
+&lt;p&gt;因此同样 4KB 页，B-Tree 只能存约 100 个 key，B+Tree 能存 &lt;strong&gt;约 300 个 key&lt;/strong&gt;，树高明显降低.&lt;/p&gt;
+&lt;p&gt;以 1000 万行数据为例:&lt;/p&gt;
+&lt;figure class=&#34;highlight mathematica&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;Root&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; └─ &lt;span class=&#34;variable&#34;&gt;Level1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;     └─ &lt;span class=&#34;variable&#34;&gt;Level2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;         └─ &lt;span class=&#34;variable&#34;&gt;Leaf&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;只需 &lt;strong&gt;4 次 IO&lt;/strong&gt; 就能定位到目标.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MySQL InnoDB、PostgreSQL、SQLite 默认全部采用 B+Tree.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;为什么-HDD-特别适合-B-Tree&#34;&gt;为什么 HDD 特别适合 B+Tree&lt;/h3&gt;
+&lt;p&gt;假设页大小为 16KB，一次读取获取一个节点，节点里可能有上千个 key.&lt;/p&gt;
+&lt;figure class=&#34;highlight abnf&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;一次随机 IO &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; 获得上千个索引信息&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;极大减少寻道次数。这正是 B+Tree 成为磁盘数据库霸主的原因.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;SSD-时代与-LSM-Tree&#34;&gt;SSD 时代与 LSM Tree&lt;/h2&gt;
+&lt;h3 id=&#34;SSD-出现后发生了什么&#34;&gt;SSD 出现后发生了什么&lt;/h3&gt;
+&lt;p&gt;SSD 的性能特征:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;操作&lt;/th&gt;
+&lt;th&gt;HDD&lt;/th&gt;
+&lt;th&gt;SSD&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;随机读&lt;/td&gt;
+&lt;td&gt;10ms&lt;/td&gt;
+&lt;td&gt;0.05ms&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;顺序读&lt;/td&gt;
+&lt;td&gt;200MB/s&lt;/td&gt;
+&lt;td&gt;7GB/s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IOPS&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;1,000,000+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;随机读代价骤降，B+Tree 不再是唯一选择。&lt;strong&gt;LSM Tree 开始流行&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;LSM-Tree&#34;&gt;LSM Tree&lt;/h3&gt;
+&lt;p&gt;代表实现: RocksDB、LevelDB、TiKV.&lt;/p&gt;
+&lt;p&gt;核心思想: &lt;strong&gt;不要立即更新磁盘&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;写入流程:&lt;/p&gt;
+&lt;figure class=&#34;highlight scss&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Memory (MemTable)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ↓ Flush&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SSTable (Level &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ↓ Compaction&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SSTable (Level &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ↓ Compaction&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SSTable (Level &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;结构分层:&lt;/p&gt;
+&lt;figure class=&#34;highlight nginx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;Memory&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ↓&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SST1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SST2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SST3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;SST4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;写入几乎顺序，对 SSD 极其友好.&lt;/p&gt;
+&lt;h3 id=&#34;B-Tree-vs-LSM-Tree&#34;&gt;B+Tree vs LSM Tree&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;B+Tree&lt;/th&gt;
+&lt;th&gt;LSM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;随机读&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;范围查询&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;写入&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;更新&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HDD 适配&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SSD 适配&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OLTP&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;日志系统&lt;/td&gt;
+&lt;td&gt;⭐⭐&lt;/td&gt;
+&lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;B+Tree 读快写慢，LSM Tree 写快读慢。选型就是在这两者之间找平衡.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;专用索引&#34;&gt;专用索引&lt;/h2&gt;
+&lt;h3 id=&#34;Hash-索引&#34;&gt;Hash 索引&lt;/h3&gt;
+&lt;p&gt;原理:&lt;/p&gt;
+&lt;figure class=&#34;highlight stylus&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;title&#34;&gt;hash&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(key)&lt;/span&gt;&lt;/span&gt; → bucket → value&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight sql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;-- O(1) 查询&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;SELECT&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;FROM&lt;/span&gt; users &lt;span class=&#34;keyword&#34;&gt;WHERE&lt;/span&gt; user_id &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1001&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;直接通过 hash 函数定位到桶，速度极快.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;致命缺点&lt;/strong&gt;: 不支持范围查询.&lt;/p&gt;
+&lt;figure class=&#34;highlight sql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;-- ❌ Hash 索引完全没法处理&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;SELECT&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;FROM&lt;/span&gt; users &lt;span class=&#34;keyword&#34;&gt;WHERE&lt;/span&gt; id &lt;span class=&#34;operator&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;hash 后的结果毫无顺序关系，只能做等值查询.&lt;/p&gt;
+&lt;h3 id=&#34;Bitmap-索引&#34;&gt;Bitmap 索引&lt;/h3&gt;
+&lt;p&gt;适合低基数字段: 性别、地区、状态等.&lt;/p&gt;
+&lt;p&gt;构造方式 — 每个取值一个位图:&lt;/p&gt;
+&lt;figure class=&#34;highlight dns&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;男: &lt;span class=&#34;number&#34;&gt;101001001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;女: &lt;span class=&#34;number&#34;&gt;010110110&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;查询:&lt;/p&gt;
+&lt;figure class=&#34;highlight sql&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;SELECT&lt;/span&gt; &lt;span class=&#34;operator&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;FROM&lt;/span&gt; users &lt;span class=&#34;keyword&#34;&gt;WHERE&lt;/span&gt; gender &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;男&amp;#x27;&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;AND&lt;/span&gt; region &lt;span class=&#34;operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;浙江&amp;#x27;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;直接位运算:&lt;/p&gt;
+&lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;number&#34;&gt;101001001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;&amp;amp; 位图(浙江)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;→ 结果&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;速度极快。常见于 ClickHouse、数据仓库、OLAP 场景.&lt;/p&gt;
+&lt;h3 id=&#34;全文索引-Inverted-Index&#34;&gt;全文索引 (Inverted Index)&lt;/h3&gt;
+&lt;p&gt;搜索引擎的核心机制.&lt;/p&gt;
+&lt;p&gt;假设三篇文章:&lt;/p&gt;
+&lt;figure class=&#34;highlight avrasm&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;Doc1:&lt;/span&gt; 我爱中国&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;Doc2:&lt;/span&gt; 中国制造&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;Doc3:&lt;/span&gt; AI中国&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;建立倒排索引:&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;中国 → &lt;span class=&#34;selector-attr&#34;&gt;[1,2,3]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;制造 → &lt;span class=&#34;selector-attr&#34;&gt;[2]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;AI   → &lt;span class=&#34;selector-attr&#34;&gt;[3]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;结构:&lt;/p&gt;
+&lt;figure class=&#34;highlight coq&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Term&lt;/span&gt; → Posting List → Document IDs&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;查询&amp;quot;中国 AI&amp;quot;:&lt;/p&gt;
+&lt;figure class=&#34;highlight inform7&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;[1,2,3]&lt;/span&gt; ∩ &lt;span class=&#34;comment&#34;&gt;[3]&lt;/span&gt; = &lt;span class=&#34;comment&#34;&gt;[3]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;应用: Elasticsearch、Solr、Lucene，以及 PostgreSQL 的 GIN、MySQL FullText.&lt;/p&gt;
+&lt;h3 id=&#34;向量索引-HNSW-IVF-PQ&#34;&gt;向量索引 (HNSW / IVF-PQ)&lt;/h3&gt;
+&lt;p&gt;传统 B+Tree 和 Hash 都要求有明确的 key，但向量查询是&amp;quot;找最相似&amp;quot;：&lt;/p&gt;
+&lt;figure class=&#34;highlight basic&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;symbol&#34;&gt;768 &lt;/span&gt;维向量 → 最近邻 (TopK)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;没有明确 key，需要近似最近邻索引 (ANN).&lt;/p&gt;
+&lt;h4 id=&#34;HNSW&#34;&gt;HNSW&lt;/h4&gt;
+&lt;p&gt;代表: Milvus、Qdrant.&lt;/p&gt;
+&lt;p&gt;结构:&lt;/p&gt;
+&lt;figure class=&#34;highlight nginx&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attribute&#34;&gt;Layer3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  ●&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Layer2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; ● ● ●&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Layer1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;●●●●●●●&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;从高层跳跃式逼近目标，复杂度约 O(log N).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;代价是内存巨大。经验值: 1TB 向量数据约需 1.3~2TB RAM.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;IVF-PQ&#34;&gt;IVF-PQ&lt;/h4&gt;
+&lt;p&gt;用于超大规模向量场景，通过量化压缩降低内存占用。FAISS 原生支持.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比 HNSW 省内存但召回率略低，适合&amp;quot;足够好&amp;quot;而非&amp;quot;必须最精确&amp;quot;的场景.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;场景选型指南&#34;&gt;场景选型指南&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;场景&lt;/th&gt;
+&lt;th&gt;最优索引&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;MySQL 业务库&lt;/td&gt;
+&lt;td&gt;B+Tree&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PostgreSQL 业务库&lt;/td&gt;
+&lt;td&gt;B+Tree&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Redis 缓存&lt;/td&gt;
+&lt;td&gt;Hash&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;日志系统&lt;/td&gt;
+&lt;td&gt;LSM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;时序数据库&lt;/td&gt;
+&lt;td&gt;LSM&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ClickHouse 分析库&lt;/td&gt;
+&lt;td&gt;Bitmap + MergeTree&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elasticsearch 搜索&lt;/td&gt;
+&lt;td&gt;Inverted Index&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GIS 地图&lt;/td&gt;
+&lt;td&gt;R-Tree&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Milvus 向量库&lt;/td&gt;
+&lt;td&gt;HNSW&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;超大规模向量库&lt;/td&gt;
+&lt;td&gt;IVF-PQ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;500GB 论文 RAG&lt;/td&gt;
+&lt;td&gt;HNSW + SSD 缓存&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;对于 500GB 论文做 RAG 的场景，实际上已经不是传统数据库索引问题，而是:&lt;/p&gt;
+&lt;figure class=&#34;highlight mathematica&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;原始 &lt;span class=&#34;built_in&#34;&gt;PDF&lt;/span&gt; → &lt;span class=&#34;variable&#34;&gt;Chunk&lt;/span&gt; → &lt;span class=&#34;variable&#34;&gt;Embedding&lt;/span&gt; → 向量索引 &lt;span class=&#34;punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;variable&#34;&gt;HNSW&lt;/span&gt;&lt;span class=&#34;punctuation&#34;&gt;)&lt;/span&gt; → &lt;span class=&#34;variable&#34;&gt;TopK&lt;/span&gt; 召回&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;最贵的资源不是 SSD，而是 &lt;strong&gt;HNSW 图索引占用的内存&lt;/strong&gt;。很多生产环境会采用混合架构:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文档存储: PostgreSQL / 对象存储&lt;/li&gt;
+&lt;li&gt;元数据索引: B+Tree&lt;/li&gt;
+&lt;li&gt;向量索引: HNSW&lt;/li&gt;
+&lt;li&gt;冷数据层: SSD&lt;/li&gt;
+&lt;li&gt;热层缓存: RAM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;单一条索引解决不了所有问题，现实世界都是组合拳.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;p&gt;暂无.&lt;/p&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;/mindmap/mindmap.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;/mindmap/mindmap.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
