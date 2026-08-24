@@ -1,0 +1,754 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.weidows.tech</id>
+    <title>⭐️齐下无贰⭐️ • Posts by &#34;创业&#34; tag</title>
+    <link href="https://blog.weidows.tech" />
+    <updated>2023-12-19T05:53:16.000Z</updated>
+    <category term="备忘录" />
+    <category term="API" />
+    <category term="Twitter" />
+    <category term="cloudflare" />
+    <category term="PS" />
+    <category term="设计" />
+    <category term="推荐" />
+    <category term="浏览器" />
+    <category term="扩展" />
+    <category term="FFmpeg" />
+    <category term="算法" />
+    <category term="hexdump" />
+    <category term="HLS" />
+    <category term="openssl" />
+    <category term="shell" />
+    <category term="密码学" />
+    <category term="QQ" />
+    <category term="配色" />
+    <category term="架构" />
+    <category term="公司" />
+    <category term="管理" />
+    <category term="doing" />
+    <category term="ideas" />
+    <category term="design" />
+    <category term="摄影" />
+    <category term="SSH" />
+    <category term="Linux" />
+    <category term="yaml" />
+    <category term="Regex" />
+    <category term="笔记" />
+    <category term="生活" />
+    <category term="English" />
+    <category term="游戏" />
+    <category term="Steam" />
+    <category term="ARK" />
+    <category term="Noita" />
+    <category term="Dev" />
+    <category term="医学" />
+    <category term="哲学" />
+    <category term="健身" />
+    <category term="猫" />
+    <category term="工作" />
+    <category term="VScode" />
+    <category term="IDEA" />
+    <category term="HTML" />
+    <category term="CSS" />
+    <category term="JavaScript" />
+    <category term="成长路线" />
+    <category term="基础知识" />
+    <category term="Java" />
+    <category term="cpp" />
+    <category term="Python" />
+    <category term="工具" />
+    <category term="大前端" />
+    <category term="Font" />
+    <category term="VR" />
+    <category term="网课" />
+    <category term="Manjaro" />
+    <category term="操作系统" />
+    <category term="服务器" />
+    <category term="虚拟机" />
+    <category term="树莓派" />
+    <category term="Windows" />
+    <category term="office" />
+    <category term="docker" />
+    <category term="system" />
+    <category term="多线程" />
+    <category term="进程" />
+    <category term="CPU" />
+    <category term="Scoop" />
+    <category term="Maven" />
+    <category term="Git" />
+    <category term="nodejs" />
+    <category term="wsl2" />
+    <category term="Aria2" />
+    <category term="PyCharm" />
+    <category term="Goland" />
+    <category term="图床" />
+    <category term="爬虫" />
+    <category term="SM.MS" />
+    <category term="package" />
+    <category term="homebrew" />
+    <category term="Tomcat" />
+    <category term="Website" />
+    <category term="AI" />
+    <category term="GPT" />
+    <category term="手机" />
+    <category term="耳机" />
+    <category term="电脑" />
+    <category term="npm" />
+    <category term="yarn" />
+    <category term="distribution" />
+    <category term="OpenGL" />
+    <category term="C" />
+    <category term="conan" />
+    <category term="LeetCode" />
+    <category term="数据结构" />
+    <category term="面试" />
+    <category term="计网" />
+    <category term="硬件" />
+    <category term="OneNote" />
+    <category term="复变函数" />
+    <category term="人工智能" />
+    <category term="通信" />
+    <category term="音频" />
+    <category term="傅里叶变换" />
+    <category term="极化码" />
+    <category term="信息论" />
+    <category term="SQL" />
+    <category term="前端" />
+    <category term="JSON" />
+    <category term="Docker" />
+    <category term="Mariadb" />
+    <category term="后端" />
+    <category term="k8s" />
+    <category term="天文学" />
+    <category term="物理" />
+    <category term="research" />
+    <category term="math" />
+    <category term="dataset" />
+    <category term="深度学习" />
+    <category term="点云" />
+    <category term="自动驾驶" />
+    <category term="LaTeX" />
+    <category term="Butterfly" />
+    <category term="KaTeX" />
+    <category term="Math" />
+    <category term="Color" />
+    <category term="ai" />
+    <category term="skills" />
+    <category term="创业" />
+    <category term="超声" />
+    <category term="Javadoc" />
+    <category term="编码" />
+    <category term="设计模式" />
+    <category term="JVM" />
+    <category term="Lambda" />
+    <category term="CORS" />
+    <category term="JQuery" />
+    <category term="Vue" />
+    <category term="Cmake" />
+    <category term="区块链" />
+    <category term="Golang" />
+    <category term="Markdown" />
+    <category term="markdown" />
+    <category term="slidev" />
+    <category term="Processing" />
+    <category term="PHP" />
+    <category term="python" />
+    <category term="opengl" />
+    <category term="Anaconda" />
+    <category term="pwsh" />
+    <category term="宝塔面板" />
+    <category term="PowerShell" />
+    <category term="zsh" />
+    <category term="css" />
+    <category term="nextjs" />
+    <category term="fullstack" />
+    <category term="vercel" />
+    <category term="阿里云" />
+    <category term="jimp" />
+    <category term="typescript" />
+    <category term="音乐" />
+    <category term="guitar" />
+    <category term="music" />
+    <category term="心理学" />
+    <category term="搞笑" />
+    <category term="高能" />
+    <category term="微信" />
+    <category term="relationship" />
+    <category term="card" />
+    <category term="闲鱼" />
+    <category term="购物" />
+    <category term="快捷键" />
+    <category term="theme" />
+    <category term="db" />
+    <category term="AWS" />
+    <category term="alist" />
+    <category term="Ubuntu" />
+    <category term="蓝易云" />
+    <category term="Hexo" />
+    <category term="Github" />
+    <category term="ubuntu" />
+    <category term="nvidia" />
+    <category term="Gitee" />
+    <category term="Gitlab" />
+    <category term="Action" />
+    <category term="branch" />
+    <category term="release" />
+    <category term="rime" />
+    <category term="输入法" />
+    <category term="scoop" />
+    <category term="Copilot" />
+    <category term="插件" />
+    <category term="Emmet" />
+    <category term="美化" />
+    <category term="vscode" />
+    <category term="extension" />
+    <category term="snippet" />
+    <category term="SEO" />
+    <category term="Pjax" />
+    <category term="butterfly" />
+    <category term="pug" />
+    <category term="styl" />
+    <category term="优化" />
+    <category term="魔改" />
+    <category term="MyBatis" />
+    <category term="Map" />
+    <category term="CRUD" />
+    <category term="日志" />
+    <category term="分页" />
+    <category term="数据库" />
+    <category term="MySQL" />
+    <category term="注解" />
+    <category term="JDBC" />
+    <category term="JavaWeb" />
+    <category term="Servlet" />
+    <category term="JSP" />
+    <category term="Cookie" />
+    <category term="Session" />
+    <category term="Filter" />
+    <category term="对象" />
+    <category term="反射" />
+    <category term="tools" />
+    <category term="doc" />
+    <category term="wutils" />
+    <category term="机器学习" />
+    <category term="MMDetection" />
+    <category term="DL" />
+    <category term="LoRA" />
+    <category term="SFT" />
+    <category term="LLM" />
+    <category term="deploy" />
+    <category term="inference" />
+    <category term="chatgpt" />
+    <category term="Colab" />
+    <category term="概率论" />
+    <entry>
+        <id>https://blog.weidows.tech/post/experience/startup/%E5%88%9B%E4%B8%9A/</id>
+        <title>🫀创业</title>
+        <link rel="alternate" href="https://blog.weidows.tech/post/experience/startup/%E5%88%9B%E4%B8%9A/"/>
+        <content type="html">&lt;h1&gt;创业&lt;/h1&gt;
+&lt;!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @Date: 2023-12-19 13:53:16
+ * @LastEditors: Weidows
+ * @LastEditTime: 2026-05-29 10:00:00
+ * @FilePath: \Blog-private\source\_posts\experience\startup\创业.md
+ * @Description:
+ * @!:
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠻⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⣀⡾⠀⠀⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⣤⣀⣠⡴⠋
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠀⠀⠀⠀⡴⠁⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠈⢷⡀
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⠀⠀⠙⣄
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣀⣿⢠⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣧⠀⠀⠀⠀⠀⠀⠀⠈⣆
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⣰⠀⠀⠀⠀⣾⢸⣿⣀⣤⣶⡛⠁⣿⠘⡄⠀⠀⠀⠀⢀⠀⠀⣿⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠸
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⡟⠀⠀⠀⠀⣿⡈⡏⠀⠀⠀⠀⠙⡜⡄⢿⠀⠀⠀⠀⣾⣧⣾⢸⠀⢸⠀⠀⡇⠀⠀⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⣇⠀⠀⠀⠀⣷⣿⣿⣶⣦⣀⠀⠀⠀⠹⡘⣿⡀⠀⠀⢹⣿⠃⢸⠀⣿⠀⢠⣿⠀⠀⠀⠀⠀⣄⣧
+ * ⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⣿⠀⠀⠀⠀⢿⠉⠉⠉⠻⣿⣷⡀⠀⠀⠈⠁⠙⢦⣀⣸⠋⠈⣸⣼⢻⠀⣾⡿⠀⠀⠀⠀⢸⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⠀⣿⠀⣿⠀⠸⡄⣤⠀⠀⠀⣧⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⣿⣿⠇⠀⠀⠀⠀⣾⢸⣿
+ * ⠀⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠀⠙⠿⣿⠛⠒⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣦⡀⡿⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⠀⣴⠋⠙⣦⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⣼⠉⠙⠳⠦⣤⡀⠀⠀⠀⠀⠀⠀⠈⠻⡿⠀⠀⠀⠀⠀⠀⣿⣿⣿
+ * ⠀⠀⠀⠀⠀⠀⣿⢤⠇⣀⡀⣼⠀⠀⠀⢹⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⢠⣯⣿⣿
+ * ⠀⠀⠀⠀⣠⠋⣠⠟⠁⠀⠈⠛⣄⠀⠀⠀⣇⠀⠀⠀⠀⢹⠀⠀⠀⠀⢀⠟⠀⠀⠀⠀⠀⠀⢾⣁⠀⠀⠀⠀⢀⣾⣤⡏⠉⠉⣿
+ * ⠀⠀⢀⣞⠤⣴⠁⠀⠀⠀⠀⠀⠀⣧⠀⠀⢿⠉⠳⣤⡀⠀⠁⠀⠠⠶⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠧⣴⣾⣿⣿⠟⡇⠀⠀⢸
+ * ⣠⠚⠁⢀⠏⣿⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠈⡏⠛⠶⣤⡉⠛⠶⢤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡴⣿⣿⠟⠁⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⢸⠀⠘⡄⠀⠀⠀⠀⠀⢹⠀⡿⡄⠀⣿⠀⠀⠀⠀⠙⠲⣤⡀⠙⢦⠉⠉⠉⠉⠉⠉⠁⠀⠀⣿⠀⠀⠀⠀⠀⡇⠀⠀⢸
+ * ⠀⠀⠀⠘⡄⠀⣿⠀⠀⠀⠀⠀⣸⠛⡄⢻⠀⠸⡀⠀⠀⠀⠀⠀⠀⠈⠛⢦⡉⢦⡀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⢰⠇⠀⠀⢸
+ * ⠀⠀⠀⠀⢿⠀⠈⠙⢦⣄⣠⠴⠃⢠⠃⠀⡇⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢾⣦⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⣼⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠙⢤⠀⠀⠀⠀⠀⡴⠋⠀⠀⡇⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⡿⠀⠀⠀⠀⡿⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠘⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⠀⠀⡇⠀⠀⠀⢰⠁⠀⠀⠀⠀⡇
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⣿⣿⣿⣿⣷⣶⣶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⡿⠀⠀⠀⠀⠀⣷
+ * ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ * @!: *********************************************************************
+--&gt;
+&lt;blockquote class=&#34;pullquote mindmap mindmap-sm&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E4%B8%9A&#34;&gt;创业&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%88%9B%E4%B8%9A%E6%96%B9%E5%90%91%E6%80%9D%E8%80%83&#34;&gt;创业方向思考&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A4%A7%E5%B0%8F%E6%A0%B8%E7%AD%96%E7%95%A5&#34;&gt;大小核策略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%8D%B7%E7%A7%AF%E6%8C%96%E5%8E%86%E5%8F%B2&#34;&gt;卷积挖历史&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%90%E5%8A%9F%E8%A6%81%E7%B4%A0%E5%88%86%E6%9E%90&#34;&gt;成功要素分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#elon-musk-%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90&#34;&gt;Elon-Musk 案例分析&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tesla-%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B&#34;&gt;Tesla 发展历程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#spacex-%E4%B8%8E-neuralink-%E8%B5%84%E9%87%91%E6%9D%A5%E6%BA%90&#34;&gt;SpaceX 与 Neuralink 资金来源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#musk-%E7%9A%84%E6%A0%B8%E5%BF%83%E8%83%BD%E5%8A%9B&#34;&gt;Musk 的核心能力&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#yc-%E6%8A%95%E8%B5%84%E8%B6%8B%E5%8A%BF&#34;&gt;YC 投资趋势&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#2024-%E5%B9%B4%E5%9B%9E%E9%A1%BE&#34;&gt;2024 年回顾&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2025-%E5%B9%B4%E8%B6%8B%E5%8A%BF&#34;&gt;2025 年趋势&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9B%A2%E9%98%9F%E6%9E%84%E6%88%90%E7%89%B9%E7%82%B9&#34;&gt;团队构成特点&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#apple-vision-pro-%E5%88%86%E6%9E%90&#34;&gt;Apple Vision Pro 分析&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%AF%B9%E6%AF%94&#34;&gt;商业模式对比&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%95%86%E4%B8%9A%E5%88%86%E6%9E%90&#34;&gt;海底捞商业分析&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%BF%9E%E4%BD%8F%E5%88%A9%E7%9B%8A%E9%94%81%E4%BD%8F%E7%AE%A1%E7%90%86&#34;&gt;连住利益，锁住管理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2024-2025-%E9%80%86%E5%8A%BF%E7%AD%96%E7%95%A5&#34;&gt;2024-2025 逆势策略&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%8D%E5%8A%A1%E5%B7%AE%E5%BC%82%E5%8C%96%E6%8A%A4%E5%9F%8E%E6%B2%B3&#34;&gt;服务差异化护城河&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83&#34;&gt;个人思考&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8A%80%E6%9C%AF%E6%98%8E%E6%98%9F%E8%B7%AF%E7%BA%BF&#34;&gt;技术明星路线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%B8%82%E5%9C%BA%E8%A7%82%E5%AF%9F&#34;&gt;市场观察&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%9F%E7%89%A9%E8%A1%A8&#34;&gt;借物表&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;创业方向思考&#34;&gt;创业方向思考&lt;/h2&gt;
+&lt;h3 id=&#34;大小核策略&#34;&gt;大小核策略&lt;/h3&gt;
+&lt;p&gt;冲击中高端品牌形象, 实际收割中下游冲量. 高产阶级也会参与消费, 但耗费对其来说不大.&lt;/p&gt;
+&lt;p&gt;典型案例: 奶茶咖啡 / Live / 旅游 / Vtuber / 直播带货.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个逻辑的本质是&amp;quot;用品牌溢价做流量入口, 用规模效应摊薄成本&amp;quot;. 高端定位吸引注意力, 平价产品线承接转化. 蜜雪冰城和喜茶其实都在玩同一套, 只是锚点不同.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;卷积挖历史&#34;&gt;卷积挖历史&lt;/h3&gt;
+&lt;p&gt;有点怪相的现象: 23 年的老二次元最喜欢听的歌很有可能是 13 年附近的. 挖掘怀旧情结和新需求结合, 往往比追热点更稳.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;怀旧消费不是简单复刻, 而是&amp;quot;用新技术重新包装旧情感&amp;quot;. 黑胶复兴、复古游戏机、老歌新编都是这个逻辑.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;成功要素分析&#34;&gt;成功要素分析&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;要素&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;丰富且适合的人脉&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;创业不是单打独斗, 需要互补型合伙人&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;具备一定的领导规划能力&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;能把想法落地, 能带团队执行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;战略方向选择正确&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;赛道决定天花板, 时机决定生死线&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这三条看似简单, 但多数人卡在&amp;quot;以为自己有&amp;quot;和&amp;quot;真的有&amp;quot;之间. 人脉不是微信好友数, 是关键时刻能拉你一把的人; 领导力不是头衔, 是别人愿不愿意跟你干; 战略方向不是灵感, 是经得起验证的假设.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Elon-Musk-案例分析&#34;&gt;Elon-Musk 案例分析&lt;/h2&gt;
+&lt;h3 id=&#34;Tesla-发展历程&#34;&gt;Tesla 发展历程&lt;/h3&gt;
+&lt;p&gt;特斯拉从初创到发展中期经历了几个关键阶段:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;阶段&lt;/th&gt;
+&lt;th&gt;时间&lt;/th&gt;
+&lt;th&gt;关键事件&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;起步期&lt;/td&gt;
+&lt;td&gt;2003-2008&lt;/td&gt;
+&lt;td&gt;推出 Roadster, 面临巨大资金压力, 2008 年 IPO 筹集 2.26 亿美元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;扩张期&lt;/td&gt;
+&lt;td&gt;2009-2015&lt;/td&gt;
+&lt;td&gt;推出 Model S/X, 建立充电网络, 收入增长但经历亏损波动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;普及期&lt;/td&gt;
+&lt;td&gt;2016-2020&lt;/td&gt;
+&lt;td&gt;推出 Model 3/Y, 目标让电动车普及化, 成为市值最高的汽车制造商&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;马斯克在特斯拉发展过程中发挥了关键作用. 根据福布斯数据, 马斯克目前的净资产为 1850 亿美元, 是全球最富有的人之一.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;SpaceX-与-Neuralink-资金来源&#34;&gt;SpaceX 与 Neuralink 资金来源&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;来源&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;政府合同&lt;/td&gt;
+&lt;td&gt;与 NASA 和其他政府机构的合同&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;私人融资&lt;/td&gt;
+&lt;td&gt;多轮私人投资者融资&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;当前估值&lt;/td&gt;
+&lt;td&gt;超过 1000 亿美元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Neuralink&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;来源&lt;/th&gt;
+&lt;th&gt;金额&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;马斯克个人投入&lt;/td&gt;
+&lt;td&gt;超过 1 亿美元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;私人投资者融资&lt;/td&gt;
+&lt;td&gt;多轮累计 4.3 亿美元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;Musk-的核心能力&#34;&gt;Musk 的核心能力&lt;/h3&gt;
+&lt;p&gt;很多个早期采访中, 马斯克大致也是言辞一致: &lt;strong&gt;并不完全 care 如何挣钱, 烧光自己的刀乐也要尽可能继续做下去&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;他很会操纵或者说引爆舆论 (不过人家执行力也是顶级). 收购 X 应该也是他布局很久的一步 — X 本身是个成熟项目不至于大亏损, 收了 X 是在做&amp;quot;提升愿力&amp;quot;那一步, 给其他项目做资本打火石.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当时 Tesla 以及后来的 SpaceX 的起色一般, 包括现在在做的脑机, 放谁身上一想都是未经验证的、风险概率极大的伪需求. 但他完全不是在赌, 他有足够的号召力和执行力, 另一个缺口 Money 一定会被社会补上.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在我看来与老马走相同路子的, 是稚晖君, 就是很成功地走了&amp;quot;技术明星&amp;quot;这条路.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;YC-投资趋势&#34;&gt;YC 投资趋势&lt;/h2&gt;
+&lt;h3 id=&#34;2024-年回顾&#34;&gt;2024 年回顾&lt;/h3&gt;
+&lt;p&gt;YC 2024 年投资主要集中在以下几个方面:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI 和大模型应用&lt;/strong&gt;: 视频、3D、语音等多媒体素材生成, 聊天机器人、机器人流程自动化&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;细分行业 AI 解决方案&lt;/strong&gt;: 在线教育平台、智能问答系统、销售电话转录器&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;云计算和数据科学工具&lt;/strong&gt;: 自主托管的机器学习模型、一站式数据服务、基于云的数据分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2025-年趋势&#34;&gt;2025 年趋势&lt;/h3&gt;
+&lt;p&gt;根据 YC S25 Demo Day 和公开信息, 2025 年的投资主题可以概括为 —— &lt;strong&gt;“不是更好的 AI, 而是更好的 AI 应用”&lt;/strong&gt;:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;变化&lt;/th&gt;
+&lt;th&gt;2024&lt;/th&gt;
+&lt;th&gt;2025&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;AI 公司占比&lt;/td&gt;
+&lt;td&gt;~66%&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;72-80%&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;产品形态&lt;/td&gt;
+&lt;td&gt;通用 Copilot&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;垂直领域专用 Agent&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;定价模式&lt;/td&gt;
+&lt;td&gt;按席位订阅&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;按任务完成付费&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;团队规模&lt;/td&gt;
+&lt;td&gt;4-5 人&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2-3 人成为常态&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;目标市场&lt;/td&gt;
+&lt;td&gt;B2B + B2C&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;60-65% 聚焦 B2B&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;YC 2025 明确请求的创业项目 (Request for Startups)&lt;/strong&gt;:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;方向&lt;/th&gt;
+&lt;th&gt;具体内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;垂直 AI Agents&lt;/td&gt;
+&lt;td&gt;替代年薪 $10万+ 的完整岗位职能 (税务会计、医疗账单、合规审计)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AI 基础设施&lt;/td&gt;
+&lt;td&gt;AI Agent 的&amp;quot;操作系统&amp;quot;, 隐私、共享记忆、分发&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AI 开发者工具&lt;/td&gt;
+&lt;td&gt;管理 AI Agent 团队、部署、测试、监控&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B2A 基础设施&lt;/td&gt;
+&lt;td&gt;企业到 Agent 的交互架构&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;团队构成特点&#34;&gt;团队构成特点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;平均人数&lt;/strong&gt;: 2-3 人的小团队, 少数项目有 4-5 人或更多&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人均资历&lt;/strong&gt;: 大多具有名校背景、大厂经历或连续创业经验&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;男女分布&lt;/strong&gt;: 男性占绝大多数, 女性相对较少&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;录取速度&lt;/strong&gt;: 从创立到 YC 录取中位时间仅 &lt;strong&gt;4 个月&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;双人团队比单人创始人收入增速高 &lt;strong&gt;163%&lt;/strong&gt;, 留存率高 &lt;strong&gt;3.6 倍&lt;/strong&gt;. 现代初创公司不是 20 人的早期团队, 而是 2-3 人快速行动 —— AI 替代了整个早期部门 (QA、客服、内容创作、运营).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Apple-Vision-Pro-分析&#34;&gt;Apple Vision Pro 分析&lt;/h2&gt;
+&lt;p&gt;小三万的价格谁都肉疼. Apple 肯定也清楚隔壁 Meta Quest 的不温不火, 以及老黄的 4090 用户端销量.&lt;/p&gt;
+&lt;p&gt;我预估, 这东西跟 00-15 年代的手机一样, 即使成本下降了价格也不会下降太多, 直到五年后十年后我们觉得三万价格还可以时才买得起.&lt;/p&gt;
+&lt;p&gt;所以, 我感觉哪怕 Apple 真有钱烧得起, 做的东西概念性强, 实际用起来时, 会因为&lt;strong&gt;愿力严重不足&lt;/strong&gt;而发展缓慢.&lt;/p&gt;
+&lt;h3 id=&#34;商业模式对比&#34;&gt;商业模式对比&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;Apple&lt;/th&gt;
+&lt;th&gt;Musk&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;流量基础&lt;/td&gt;
+&lt;td&gt;大口吃上了互联网和智能机的红利&lt;/td&gt;
+&lt;td&gt;靠个人魅力和执行力从零造流量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;项目属性&lt;/td&gt;
+&lt;td&gt;消费电子, 已验证的市场&lt;/td&gt;
+&lt;td&gt;电动车/火箭/脑机, 当时都是&amp;quot;伪需求&amp;quot;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;核心能力&lt;/td&gt;
+&lt;td&gt;产品设计 + 供应链整合&lt;/td&gt;
+&lt;td&gt;愿景驱动 + 舆论操控 + 顶级执行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;风险特征&lt;/td&gt;
+&lt;td&gt;市场风险为主&lt;/td&gt;
+&lt;td&gt;技术风险 + 市场风险双重叠加&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;相同点: 都是技术明星 + 流量明星带头. 不同点在于 Apple 吃的是现成红利, Musk 是在无人区开路.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;海底捞商业分析&#34;&gt;海底捞商业分析&lt;/h2&gt;
+&lt;h3 id=&#34;连住利益，锁住管理&#34;&gt;连住利益，锁住管理&lt;/h3&gt;
+&lt;p&gt;海底捞的商业模式建立在独特的&lt;strong&gt;利益绑定机制&lt;/strong&gt;上:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;机制&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;师徒制&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;店长培养徒弟/徒孙, 薪酬与徒弟门店业绩挂钩, 形成&amp;quot;裂变式&amp;quot;自我扩张&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;家族长制度&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;当徒弟徒孙门店超过 6 家, 可建立家族, 拥有门店管理任免权&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;计件工资 + 末位淘汰&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;激励与约束并存&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;供应链协同&lt;/strong&gt; (轻资产运营 + 重供应链布局):&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;环节&lt;/th&gt;
+&lt;th&gt;布局方式&lt;/th&gt;
+&lt;th&gt;关联公司&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;食材供应&lt;/td&gt;
+&lt;td&gt;中央厨房 + 冷链物流&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;蜀海供应链&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;底料调料&lt;/td&gt;
+&lt;td&gt;标准化生产&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;颐海国际&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;门店装修&lt;/td&gt;
+&lt;td&gt;专业化设计&lt;/td&gt;
+&lt;td&gt;蜀韵东方&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;人力资源&lt;/td&gt;
+&lt;td&gt;外包服务&lt;/td&gt;
+&lt;td&gt;微海咨询&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关联交易占食材成本 &lt;strong&gt;81%&lt;/strong&gt;, 内部定价优化拉高毛利率约 &lt;strong&gt;6 个百分点&lt;/strong&gt;, 租金率仅 &lt;strong&gt;1%&lt;/strong&gt; (行业平均 14%-20%).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;2024-2025-逆势策略&#34;&gt;2024-2025 逆势策略&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;策略&lt;/th&gt;
+&lt;th&gt;2024 数据&lt;/th&gt;
+&lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;翻台率修复&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;4.1 次/天 (接近 2019 年 4.8 次)&lt;/td&gt;
+&lt;td&gt;接待顾客 4.15 亿人次&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;红石榴计划&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;11 个子品牌, 74 家门店&lt;/td&gt;
+&lt;td&gt;多品牌生态孵化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;加盟轻资产化&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;13 家加盟店&lt;/td&gt;
+&lt;td&gt;“强托管模式”, 总部统一运营&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;场景化改造&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;夜宵主题店 ~30 家&lt;/td&gt;
+&lt;td&gt;翻台率提升 10%-20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;外卖创新&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;quot;下饭火锅菜&amp;quot;一人食&lt;/td&gt;
+&lt;td&gt;2025H1 外卖同比 +60%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2025H1 翻台率回落至 3.8 次, 低于 4 次及格线. 海底捞正从&amp;quot;赚业绩的钱&amp;quot;转向&amp;quot;赚分红的钱&amp;quot;, 派息率高达 &lt;strong&gt;95%&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;服务差异化护城河&#34;&gt;服务差异化护城河&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;海底捞&lt;/th&gt;
+&lt;th&gt;行业对比&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;人工成本占比&lt;/td&gt;
+&lt;td&gt;26%-34%&lt;/td&gt;
+&lt;td&gt;呷哺呷哺 ~25%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;员工人均年薪&lt;/td&gt;
+&lt;td&gt;~6.2 万元&lt;/td&gt;
+&lt;td&gt;呷哺呷哺 3.9 万元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;人均创收&lt;/td&gt;
+&lt;td&gt;21.2 万元&lt;/td&gt;
+&lt;td&gt;呷哺呷哺 17.3 万元&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;经典服务项目: 手工拉面、魔术表演、美甲、擦鞋、儿童游乐等.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;服务差异化的本质不是&amp;quot;做了什么&amp;quot;, 而是&amp;quot;做到了什么程度&amp;quot;. 同样的美甲服务, 海底捞是等位时免费做, 其他店是收费且预约 —— 同样的动作, 场景不同, 价值感完全不同.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;个人思考&#34;&gt;个人思考&lt;/h2&gt;
+&lt;h3 id=&#34;技术明星路线&#34;&gt;技术明星路线&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;执行力、民众愿力、Money&lt;/strong&gt; 这三个元素一直存在三角关系, 没见过谁完全具有这三样.&lt;/p&gt;
+&lt;p&gt;国内经常见到大流量博主去带货, 有没有挖角他们去做实际产品的? (当然, 我知道美妆区多得很). 于是有个怪相:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;纯做技术的&lt;/strong&gt;: 工资挺高的懒得整流量&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;纯做流量的&lt;/strong&gt;: 一丁点技术都不懂&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;俩枣放不进一个碗, 所以如何三仙归洞?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;做技术明星, 这个思路很有潜力. 稚晖君就是成功案例: 技术硬核 + 内容输出 → 个人品牌 → 资源聚集 → 创业项目.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;市场观察&#34;&gt;市场观察&lt;/h3&gt;
+&lt;p&gt;有些店/产品确实是靠高产支撑起来的, 而且是一次性的, Vision Pro 就是这种.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于流量&lt;/strong&gt;:&lt;br&gt;
+要花七分精力去打磨一个视频, 三份精力量产其他的.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;七分打磨是建立认知壁垒, 三分量产是维持存在感. 反过来就变成低质刷屏, 粉丝很快疲劳.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src= &#34;https://fs.weidows.tech/img/img/loading.svg&#34; data-lazy-src=&#34;https://fs.weidows.tech/img/img/divider.png&#34; alt=&#34;分割线&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;借物表&#34;&gt;借物表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/37880913&#34;&gt;特斯拉创业历程分析 - 知乎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.huxiu.com/article/465544.html&#34;&gt;马斯克的 SpaceX，凭什么估值能达 2000 亿美元？ - 虎嗅网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://new.qq.com/rain/a/20231127A002M900.html&#34;&gt;马斯克的脑机接口公司 Neuralink 再融资 4.3 亿美元 - 腾讯网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.36kr.com/p/2599522301812869&#34;&gt;2024 年投资展望：哪些方向值得关注？ - 36氪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/23912903&#34;&gt;Y Combinator，一个价值 650 亿美金的创业帝国 - 知乎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeconductor.ai/blog/yc-spring-top-startups/&#34;&gt;YC Spring 2025 Demo Day Breakdown - CodeConductor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lambham.com/post/y-combinator-s-ai-investment-strategy--key-focus-areas-for-2025/&#34;&gt;Y Combinator’s AI Investment Strategy - Lambham&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/129377984?utm_id=0&#34;&gt;海底捞痴迷粉人群画像 - Mob 研究院&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.36kr.com/p/796463910432513&#34;&gt;日本经济下行 30 年，逆势增长的企业都长啥样？ - 36氪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/gijnCh/status/974246444017373184&#34;&gt;Twitter 相关讨论&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=Mzg3MzU4NDcwNg==&amp;amp;mid=2247483840&amp;amp;idx=1&amp;amp;sn=205848cca5dab470e50dc845b4c005b8&#34;&gt;海底捞商业模式分析 - 微信公众号&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xueqiu.com/1665695167/336285269&#34;&gt;海底捞未来现金流折算 - 雪球&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kity@2.0.4/dist/kity.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text&amp;#x2F;javascript&#34; src=&#34;/mindmap/mindmap.js&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; type=&#34;text&amp;#x2F;css&#34; href=&#34;/mindmap/mindmap.css&#34;&gt;</content>
+        <category term="创业" />
+        <updated>2023-12-19T05:53:16.000Z</updated>
+    </entry>
+</feed>
